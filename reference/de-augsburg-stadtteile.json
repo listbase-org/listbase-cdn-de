@@ -1,0 +1,157 @@
+{
+  "id": "de-augsburg-stadtteile",
+  "name": "Stadtbezirke von Augsburg",
+  "title": "Stadtbezirke von Augsburg",
+  "description": "Die 42 Stadtbezirke (city districts) der Stadt Augsburg, extrahiert aus den Grenz-GeoJSON-Dateien des Projekts Code for Germany / click_that_hood. Nur der native deutsche Name je Teilgebiet wurde übernommen; die Polygon-Geometrie wurde verworfen.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Am Schäfflerbach"
+    },
+    {
+      "name": "Antonsviertel"
+    },
+    {
+      "name": "Bahnhofs- und Bismarckviertel"
+    },
+    {
+      "name": "Bergheim"
+    },
+    {
+      "name": "Bleich und Pfärrle"
+    },
+    {
+      "name": "Bärenkeller"
+    },
+    {
+      "name": "Firnhaberau"
+    },
+    {
+      "name": "Georgs- und Kreuzviertel"
+    },
+    {
+      "name": "Göggingen-Nordost"
+    },
+    {
+      "name": "Göggingen-Nordwest"
+    },
+    {
+      "name": "Göggingen-Ost"
+    },
+    {
+      "name": "Göggingen-Süd"
+    },
+    {
+      "name": "Hammerschmiede"
+    },
+    {
+      "name": "Haunstetten-Nord"
+    },
+    {
+      "name": "Haunstetten-Ost"
+    },
+    {
+      "name": "Haunstetten-Süd"
+    },
+    {
+      "name": "Haunstetten-West"
+    },
+    {
+      "name": "Hochfeld"
+    },
+    {
+      "name": "Hochzoll-Nord"
+    },
+    {
+      "name": "Hochzoll-Süd"
+    },
+    {
+      "name": "Innenstadt, St. Ulrich-Dom"
+    },
+    {
+      "name": "Inningen"
+    },
+    {
+      "name": "Jakobervorstadt-Nord"
+    },
+    {
+      "name": "Jakobervorstadt-Süd"
+    },
+    {
+      "name": "Kriegshaber"
+    },
+    {
+      "name": "Lechhausen-Ost"
+    },
+    {
+      "name": "Lechhausen-Süd"
+    },
+    {
+      "name": "Lechhausen-West"
+    },
+    {
+      "name": "Lechviertel, östliches Ulrichsviertel"
+    },
+    {
+      "name": "Links der Wertach-Nord"
+    },
+    {
+      "name": "Links der Wertach-Süd"
+    },
+    {
+      "name": "Oberhausen-Nord"
+    },
+    {
+      "name": "Oberhausen-Süd"
+    },
+    {
+      "name": "Pfersee-Nord"
+    },
+    {
+      "name": "Pfersee-Süd"
+    },
+    {
+      "name": "Rechts der Wertach"
+    },
+    {
+      "name": "Rosenau- und Thelottviertel"
+    },
+    {
+      "name": "Siebenbrunn"
+    },
+    {
+      "name": "Spickel"
+    },
+    {
+      "name": "Stadtjägerviertel"
+    },
+    {
+      "name": "Universitätsviertel"
+    },
+    {
+      "name": "Wolfram- und Herrenbachviertel"
+    }
+  ],
+  "meta": {
+    "title": "Stadtbezirke von Augsburg - Kostenloser Download",
+    "description": "Die 42 Stadtbezirke (city districts) der Stadt Augsburg, extrahiert aus den Grenz-GeoJSON-Dateien des Projekts Code for Germany / click_that_hood. Nur der native deutsche Name je Teilgebiet wurde übernommen; die Polygon-Geometrie wurde verworfen. Enthält 42 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Stadtbezirke von Augsburg | ListBase",
+    "seo_description": "Herunterladen Stadtbezirke von Augsburg — 42 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 42 Datensätze / 1 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "li-communes",
+  "name": "Gemeinden — Liechtenstein (alle 11 Gemeinden mit Wahlkreis)",
+  "title": "Gemeinden — Liechtenstein (alle 11 Gemeinden mit Wahlkreis)",
+  "description": "Alle 11 Gemeinden des Fürstentums Liechtenstein mit amtlichem Gemeindeschlüssel und Wahlkreis (Oberland / Unterland). Liechtenstein ist deutschsprachig; einbezogen in die DE-Locale. Quelle: OpenPLZ API Data (openpotato/openplzapi.data).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "key",
+      "label": "Key",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "electoral_district",
+      "label": "Electoral District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "key": "7003",
+      "name": "Balzers",
+      "slug": "balzers",
+      "electoral_district": "Oberland"
+    },
+    {
+      "key": "7007",
+      "name": "Eschen",
+      "slug": "eschen",
+      "electoral_district": "Unterland"
+    },
+    {
+      "key": "7009",
+      "name": "Gamprin",
+      "slug": "gamprin",
+      "electoral_district": "Unterland"
+    },
+    {
+      "key": "7008",
+      "name": "Mauren",
+      "slug": "mauren",
+      "electoral_district": "Unterland"
+    },
+    {
+      "key": "7006",
+      "name": "Planken",
+      "slug": "planken",
+      "electoral_district": "Oberland"
+    },
+    {
+      "key": "7010",
+      "name": "Ruggell",
+      "slug": "ruggell",
+      "electoral_district": "Unterland"
+    },
+    {
+      "key": "7005",
+      "name": "Schaan",
+      "slug": "schaan",
+      "electoral_district": "Oberland"
+    },
+    {
+      "key": "7011",
+      "name": "Schellenberg",
+      "slug": "schellenberg",
+      "electoral_district": "Unterland"
+    },
+    {
+      "key": "7002",
+      "name": "Triesen",
+      "slug": "triesen",
+      "electoral_district": "Oberland"
+    },
+    {
+      "key": "7004",
+      "name": "Triesenberg",
+      "slug": "triesenberg",
+      "electoral_district": "Oberland"
+    },
+    {
+      "key": "7001",
+      "name": "Vaduz",
+      "slug": "vaduz",
+      "electoral_district": "Oberland"
+    }
+  ],
+  "meta": {
+    "title": "Gemeinden — Liechtenstein (alle 11 Gemeinden mit Wahlkreis) - Kostenloser Download",
+    "description": "Alle 11 Gemeinden des Fürstentums Liechtenstein mit amtlichem Gemeindeschlüssel und Wahlkreis (Oberland / Unterland). Liechtenstein ist deutschsprachig; einbezogen in die DE-Locale. Quelle: OpenPLZ API Data (openpotato/openplzapi.data). Enthält 11 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Gemeinden — Liechtenstein (alle 11 Gemeinden mit Wahlkreis) | ListBase",
+    "seo_description": "Herunterladen Gemeinden — Liechtenstein (alle 11 Gemeinden mit Wahlkreis) — 11 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 11 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

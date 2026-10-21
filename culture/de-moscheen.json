@@ -1,0 +1,943 @@
+{
+  "id": "de-moscheen",
+  "name": "Moscheen in Deutschland / Mosques in Germany",
+  "title": "Moscheen in Deutschland / Mosques in Germany",
+  "description": "Moscheen in Deutschland (Mosques in Germany). Geolocated points sourced from Wikidata (instance of Q32815), located in Germany (Q183), each with a coordinate (P625).",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 98,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_de",
+      "label": "Name De",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q134701590",
+      "name_de": "Akşemsettin Moschee",
+      "name_en": "",
+      "latitude": 49.07447,
+      "longitude": 9.15653,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134701590"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q91419351",
+      "name_de": "Al-Huda Moschee",
+      "name_en": "Al-Huda Mosque",
+      "latitude": 52.386943,
+      "longitude": 9.724922,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q91419351"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q116276982",
+      "name_de": "Al-Kholafa´a Moschee",
+      "name_en": "",
+      "latitude": 50.99326,
+      "longitude": 11.327,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116276982"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q15616559",
+      "name_de": "Al-Nur-Moschee",
+      "name_en": "Al-Nur mosque",
+      "latitude": 52.46424,
+      "longitude": 13.4653,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15616559"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q51912",
+      "name_de": "Al-Quds-Moschee Hamburg",
+      "name_en": "Al-Quds Mosque Hamburg",
+      "latitude": 53.556944,
+      "longitude": 10.019444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q51912"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q61474169",
+      "name_de": "Al-Rahman-Moschee",
+      "name_en": "",
+      "latitude": 51.353556,
+      "longitude": 12.382917,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61474169"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q2650858",
+      "name_de": "Alperenler-Moschee",
+      "name_en": "Alperenler-Moschee Rheinfelden",
+      "latitude": 47.573333,
+      "longitude": 7.793889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2650858"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q613175",
+      "name_de": "Anwar-Moschee (Rodgau)",
+      "name_en": "",
+      "latitude": 50.0251,
+      "longitude": 8.89694,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q613175"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q24237616",
+      "name_de": "As-Sahaba-Moschee",
+      "name_en": "",
+      "latitude": 52.54118,
+      "longitude": 13.35116,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24237616"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q117378230",
+      "name_de": "Ata-Moschee",
+      "name_en": "Ata Mosque",
+      "latitude": 50.016075,
+      "longitude": 8.430264,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117378230"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q91424762",
+      "name_de": "Ayasofya-Moschee",
+      "name_en": "Ayasofya-Mosque",
+      "latitude": 52.383949,
+      "longitude": 9.729426,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q91424762"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q15107330",
+      "name_de": "Bait ul-Ghafur-Moschee",
+      "name_en": "Bait ul-Ghafur Mosque",
+      "latitude": 49.989524,
+      "longitude": 8.331813,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15107330"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q123480081",
+      "name_de": "Bait-ul-Aleem Moschee",
+      "name_en": "Baitul Aleem Mosque",
+      "latitude": 49.729935,
+      "longitude": 9.961014,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123480081"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q803985",
+      "name_de": "Bait-ul-Huda Moschee",
+      "name_en": "Baitul Huda Mosque",
+      "latitude": 50.3328,
+      "longitude": 8.51944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q803985"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q20614541",
+      "name_de": "Bait-ul-Karim-Moschee",
+      "name_en": "Bait-ul-Karim-Moschee",
+      "latitude": 53.603615,
+      "longitude": 9.489865,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20614541"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q3408742",
+      "name_de": "Baitul-Jame",
+      "name_en": "Baitul-Jame",
+      "latitude": 50.098889,
+      "longitude": 8.790833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3408742"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q116983800",
+      "name_de": "Basharat-Moschee",
+      "name_en": "",
+      "latitude": 52.300617,
+      "longitude": 8.005098,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116983800"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q860254",
+      "name_de": "Bilal-Moschee (Aachen)",
+      "name_en": "Bilal-Moschee (Aachen)",
+      "latitude": 50.7797,
+      "longitude": 6.07139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q860254"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q19275403",
+      "name_de": "Bilal-Moschee Heilbronn",
+      "name_en": "",
+      "latitude": 49.15145,
+      "longitude": 9.2239,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19275403"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q108828223",
+      "name_de": "Bosnische Moschee Böblingen-Sindelfingen",
+      "name_en": "Bosnische Moschee Böblingen-Sindelfingen",
+      "latitude": 48.69745,
+      "longitude": 9.00592,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108828223"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q1054368",
+      "name_de": "Centrum-Moschee Hamburg",
+      "name_en": "Hamburg Central Mosque",
+      "latitude": 53.554167,
+      "longitude": 10.016667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1054368"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q1054373",
+      "name_de": "Centrum-Moschee Rendsburg",
+      "name_en": "Centrum mosque",
+      "latitude": 54.3131,
+      "longitude": 9.65722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1054373"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q113231259",
+      "name_de": "DITIB Kocatepe-Moschee Buchen",
+      "name_en": "",
+      "latitude": 49.533515,
+      "longitude": 9.338591,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113231259"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q782627",
+      "name_de": "DITIB-Merkez-Moschee",
+      "name_en": "DITIB-Merkez-Moschee",
+      "latitude": 51.5094,
+      "longitude": 6.75389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q782627"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q1153882",
+      "name_de": "DITIB-Zentralmoschee Essen",
+      "name_en": "DITIB-Zentralmoschee Essen",
+      "latitude": 51.4564,
+      "longitude": 6.96611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1153882"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q836059",
+      "name_de": "DITIB-Zentralmoschee Köln",
+      "name_en": "Cologne Central Mosque",
+      "latitude": 50.945556,
+      "longitude": 6.928333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q836059"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q129631426",
+      "name_de": "DITIB-Zentralmoschee Köln-Chorweiler",
+      "name_en": "",
+      "latitude": 51.03829,
+      "longitude": 6.925984,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q129631426"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q116972682",
+      "name_de": "Donauwörther Straße 165 (Augsburg)",
+      "name_en": "",
+      "latitude": 48.39465,
+      "longitude": 10.881469,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116972682"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q93347170",
+      "name_de": "Ehlibeyt Moschee",
+      "name_en": "Ehlibeyt Mosque",
+      "latitude": 52.393439,
+      "longitude": 9.712268,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q93347170"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q28136707",
+      "name_de": "Ehsaan Moschee",
+      "name_en": "Ehsaan Mosque",
+      "latitude": 49.448911,
+      "longitude": 8.505697,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28136707"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q1337720",
+      "name_de": "Emir-Sultan-Moschee (Darmstadt)",
+      "name_en": "Emir-Sultan-Moschee",
+      "latitude": 49.8872,
+      "longitude": 8.62111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1337720"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q1385949",
+      "name_de": "Eyüp-Sultan-Moschee (Emden)",
+      "name_en": "",
+      "latitude": 53.3682,
+      "longitude": 7.1954,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1385949"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q1385947",
+      "name_de": "Eyüp-Sultan-Moschee (Gersthofen)",
+      "name_en": "Gersthofen Moschee",
+      "latitude": 48.4149,
+      "longitude": 10.8792,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1385947"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q40640906",
+      "name_de": "Fatih-Camii-Moschee",
+      "name_en": "",
+      "latitude": 49.02364,
+      "longitude": 10.96294,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q40640906"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q1395036",
+      "name_de": "Fatih-Moschee",
+      "name_en": "Fatih-Moschee",
+      "latitude": 50.8096,
+      "longitude": 6.47378,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1395036"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q1398071",
+      "name_de": "Fatih-Moschee",
+      "name_en": "Fatih-Moschee, Bremen",
+      "latitude": 53.1155,
+      "longitude": 8.75308,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1398071"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q1398075",
+      "name_de": "Fatih-Moschee",
+      "name_en": "Fatih Moschee",
+      "latitude": 51.5053,
+      "longitude": 7.04889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1398075"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q1398080",
+      "name_de": "Fatih-Moschee",
+      "name_en": "Fatih-Moschee",
+      "latitude": 51.3538,
+      "longitude": 8.2829,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1398080"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q1398083",
+      "name_de": "Fatih-Moschee",
+      "name_en": "Fatih-Moschee (Werl)",
+      "latitude": 51.549,
+      "longitude": 7.9086,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1398083"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q1398078",
+      "name_de": "Fatih-Moschee (Memmingen)",
+      "name_en": "Fatih Moschee",
+      "latitude": 47.9936,
+      "longitude": 10.185,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1398078"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q1398081",
+      "name_de": "Fatih-Moschee (Pforzheim)",
+      "name_en": "Fatih-Moschee",
+      "latitude": 48.8992,
+      "longitude": 8.72667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1398081"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q884982",
+      "name_de": "Fazle-Omar-Moschee",
+      "name_en": "Fazle Omar Mosque",
+      "latitude": 53.583611,
+      "longitude": 9.943333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q884982"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q1454557",
+      "name_de": "Freimann-Moschee",
+      "name_en": "Freimann Mosque",
+      "latitude": 48.2103,
+      "longitude": 11.6342,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1454557"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q1548291",
+      "name_de": "Große Moschee Buggingen",
+      "name_en": "Große Moschee, Buggingen",
+      "latitude": 47.856553,
+      "longitude": 7.621672,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1548291"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q30447692",
+      "name_de": "Ibn-Rushd-Goethe-Moschee",
+      "name_en": "Ibn Rushd-Goethe mosque",
+      "latitude": 52.525,
+      "longitude": 13.349444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30447692"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q89207860",
+      "name_de": "Ibrahim Al-Khalil Moschee",
+      "name_en": "Ibrahim Al-Khalil mosque",
+      "latitude": 52.27456,
+      "longitude": 8.05359,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q89207860"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q23785369",
+      "name_de": "Ibrahim-al-Khalil-Moschee",
+      "name_en": "",
+      "latitude": 52.457213,
+      "longitude": 13.394094,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23785369"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q138349560",
+      "name_de": "Imam-ı Azam-Moschee",
+      "name_en": "",
+      "latitude": 49.179379,
+      "longitude": 9.219412,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138349560"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q56064647",
+      "name_de": "Islamisches Forum Penzberg",
+      "name_en": "Islamisches Forum Penzberg",
+      "latitude": 47.74957,
+      "longitude": 11.3829,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56064647"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q668264",
+      "name_de": "Islamisches Zentrum Hamburg",
+      "name_en": "Islamic Centre Hamburg",
+      "latitude": 53.574569,
+      "longitude": 10.008417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q668264"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q1674174",
+      "name_de": "Islamisches Zentrum München",
+      "name_en": "",
+      "latitude": 48.2103,
+      "longitude": 11.6342,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1674174"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q113976359",
+      "name_de": "İslam Kültür Merkezleri Birliği - Fatih-Moschee",
+      "name_en": "İslam Kültür Merkezleri Birliği - Fatih mosque",
+      "latitude": 50.309862,
+      "longitude": 11.922666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113976359"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q104707225",
+      "name_de": "Kanun-i-Sultan-Süleyman-Moschee (Nersingen-Straß)",
+      "name_en": "Kanun-i-Sultan-Süleyman-Moschee",
+      "latitude": 48.420063,
+      "longitude": 10.160654,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104707225"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q123289695",
+      "name_de": "Khabeer Moschee",
+      "name_en": "Khabeer Mosque",
+      "latitude": 49.797763,
+      "longitude": 8.59394,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123289695"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q328829",
+      "name_de": "Khadija-Moschee",
+      "name_en": "Khadija Mosque",
+      "latitude": 52.5725,
+      "longitude": 13.430556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q328829"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q136304429",
+      "name_de": "Koca-Sinan-Moschee",
+      "name_en": "",
+      "latitude": 52.564256,
+      "longitude": 13.370242,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136304429"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q1485056",
+      "name_de": "Kocatepe-Moschee",
+      "name_en": "DİTİB Kocatepe Mosque",
+      "latitude": 48.7781,
+      "longitude": 11.4236,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1485056"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q1796531",
+      "name_de": "Königswinter-Moschee",
+      "name_en": "",
+      "latitude": 50.6701,
+      "longitude": 7.19694,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1796531"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q16500132",
+      "name_de": "Mevlana Moschee (Kassel-Oberzwehren)",
+      "name_en": "Mevlana Moschee",
+      "latitude": 51.27473,
+      "longitude": 9.439078,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16500132"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q1563269",
+      "name_de": "Mevlana-Moschee",
+      "name_en": "Mevlana mosque, berlin",
+      "latitude": 52.4993,
+      "longitude": 13.4202,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1563269"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q22693044",
+      "name_de": "Mevlana-Moschee",
+      "name_en": "",
+      "latitude": 49.13133,
+      "longitude": 8.89797,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22693044"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q1926165",
+      "name_de": "Mevlana-Moschee (Ravensburg)",
+      "name_en": "Mevlana-Moschee",
+      "latitude": 47.791187,
+      "longitude": 9.6172,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1926165"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q49769301",
+      "name_de": "Mevlana-Moschee Stadtprozelten",
+      "name_en": "",
+      "latitude": 49.792011,
+      "longitude": 9.429754,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49769301"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q110805273",
+      "name_de": "Milli Görüş",
+      "name_en": "Milli Görüş",
+      "latitude": 52.14626,
+      "longitude": 10.40921,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110805273"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q108574519",
+      "name_de": "Milli Görüş in Sindelfingen",
+      "name_en": "Milli Görüş in Sindelfingen",
+      "latitude": 48.706755,
+      "longitude": 8.997663,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108574519"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q28498775",
+      "name_de": "Mimar-Sinan-Moschee Lauda",
+      "name_en": "Mimar-Sinan-Moschee Lauda",
+      "latitude": 49.564525,
+      "longitude": 9.710077,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28498775"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q1548879",
+      "name_de": "Mimar-Sinan-Moschee Mosbach",
+      "name_en": "Mosques in Mosbach",
+      "latitude": 49.3462,
+      "longitude": 9.13056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1548879"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q127774120",
+      "name_de": "Moschee in Schorndorf",
+      "name_en": "",
+      "latitude": 48.80779,
+      "longitude": 9.53979,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q127774120"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q133499818",
+      "name_de": "Moschee Pfaffenhofen",
+      "name_en": "Mosque Pfaffenhofen",
+      "latitude": 48.534885,
+      "longitude": 11.489387,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133499818"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q328794",
+      "name_de": "Moschee Sendling",
+      "name_en": "Mosque in Sendling",
+      "latitude": 48.118056,
+      "longitude": 11.551389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q328794"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q1948935",
+      "name_de": "Moschee Wesseling",
+      "name_en": "Mosque of Wesseling",
+      "latitude": 50.83,
+      "longitude": 6.96556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1948935"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q1323152",
+      "name_de": "Muqeet-Moschee",
+      "name_en": "Muqeet-Moschee",
+      "latitude": 51.1,
+      "longitude": 9.35611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1323152"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q124636250",
+      "name_de": "Nasir-Moschee",
+      "name_en": "Nasir Mosque",
+      "latitude": 48.82574,
+      "longitude": 9.30234,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124636250"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q23787832",
+      "name_de": "Neues Sydekum",
+      "name_en": "Neues Sydekum",
+      "latitude": 51.41865,
+      "longitude": 9.65276,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23787832"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q266918",
+      "name_de": "Nuur-Moschee",
+      "name_en": "Noor Mosque",
+      "latitude": 50.0856,
+      "longitude": 8.69639,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q266918"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q835514",
+      "name_de": "Nuur-ud-Din-Moschee",
+      "name_en": "Noor ud Din Mosque",
+      "latitude": 49.8853,
+      "longitude": 8.62083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q835514"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q130249524",
+      "name_de": "Omar Moschee",
+      "name_en": "Omar Mosque",
+      "latitude": 51.217694,
+      "longitude": 6.788583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130249524"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q134621320",
+      "name_de": "Osman-Gazi-Moschee",
+      "name_en": "",
+      "latitude": 49.06209,
+      "longitude": 8.99678,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134621320"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q123479994",
+      "name_de": "Salam-Moschee",
+      "name_en": "Salam Mosque",
+      "latitude": 51.407295,
+      "longitude": 7.692578,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123479994"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q106600771",
+      "name_de": "Salimya-Moschee",
+      "name_en": "Moschee Göttingen",
+      "latitude": 51.5357,
+      "longitude": 9.91342,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106600771"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q835509",
+      "name_de": "Sami-Moschee",
+      "name_en": "Baitus Sami",
+      "latitude": 52.429634,
+      "longitude": 9.658125,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q835509"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q136815539",
+      "name_de": "Selimiye Camii Gundelsheim",
+      "name_en": "",
+      "latitude": 49.27394,
+      "longitude": 9.15528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136815539"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q130486431",
+      "name_de": "Selimiye-Moschee",
+      "name_en": "Selimiye Mosque",
+      "latitude": 48.818771,
+      "longitude": 12.950861,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130486431"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q15128183",
+      "name_de": "Selimiye-Moschee (Gütersloh)",
+      "name_en": "",
+      "latitude": 51.91659,
+      "longitude": 8.39075,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15128183"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q2268335",
+      "name_de": "Selimiye-Moschee Lünen",
+      "name_en": "Selimiye-Moschee Lünen",
+      "latitude": 51.6086,
+      "longitude": 7.51361,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2268335"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q107065416",
+      "name_de": "Selimiye-Moschee Völklingen",
+      "name_en": "Selimiye-Moschee Völklingen",
+      "latitude": 49.2466,
+      "longitude": 6.83829,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107065416"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q41463636",
+      "name_de": "Selimiye-Moschee Wertheim",
+      "name_en": "Selimiye-Moschee Wertheim",
+      "latitude": 49.753088,
+      "longitude": 9.495136,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q41463636"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q2388280",
+      "name_de": "Tahir-Moschee",
+      "name_en": "Tahir Mosque",
+      "latitude": 50.3753,
+      "longitude": 7.59208,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2388280"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q117319661",
+      "name_de": "Tawhid-Moschee",
+      "name_en": "Tawhid-Moschee",
+      "latitude": 50.00699,
+      "longitude": 8.7928,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117319661"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q108084710",
+      "name_de": "Ulu Camii Moschee Sindelfingen",
+      "name_en": "Ulu Camii mosque Sindelfingen",
+      "latitude": 48.69823,
+      "longitude": 9.00546,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108084710"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q88664452",
+      "name_de": "Ulu Moschee",
+      "name_en": "Ulu Mosque",
+      "latitude": 48.33535,
+      "longitude": 7.83393,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q88664452"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q1430748",
+      "name_de": "Umar-Ibn-Al-Khattab-Moschee",
+      "name_en": "Umar Ibn Al Khattab Mosque",
+      "latitude": 52.4989,
+      "longitude": 13.4268,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1430748"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q2511215",
+      "name_de": "Vatan-Moschee",
+      "name_en": "",
+      "latitude": 51.98,
+      "longitude": 8.51722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2511215"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q15134390",
+      "name_de": "Wasch- und Badehaus Schäfflerbachstraße Augsburg",
+      "name_en": "",
+      "latitude": 48.36208,
+      "longitude": 10.915766,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15134390"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q238528",
+      "name_de": "Wilmersdorfer Moschee",
+      "name_en": "Berlin Mosque",
+      "latitude": 52.4875,
+      "longitude": 13.311667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q238528"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q573563",
+      "name_de": "Yavuz-Sultan-Selim-Moschee",
+      "name_en": "Yavuz Sultan Selim Mosque",
+      "latitude": 49.4939,
+      "longitude": 8.46139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q573563"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q86326356",
+      "name_de": "Yunus Emre Camii Moschee (Esslingen)",
+      "name_en": "Yunus Emre Camii mosque",
+      "latitude": 48.73307,
+      "longitude": 9.31644,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q86326356"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q388677",
+      "name_de": "Şehitlik-Moschee",
+      "name_en": "Şehitlik-Moschee",
+      "latitude": 52.481389,
+      "longitude": 13.409722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q388677"
+    }
+  ],
+  "meta": {
+    "title": "Moscheen in Deutschland / Mosques in Germany - Kostenloser Download",
+    "description": "Moscheen in Deutschland (Mosques in Germany). Geolocated points sourced from Wikidata (instance of Q32815), located in Germany (Q183), each with a coordinate (P625). Enthält 98 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Moscheen in Deutschland / Mosques in Germany | ListBase",
+    "seo_description": "Herunterladen Moscheen in Deutschland / Mosques in Germany — 98 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 98 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

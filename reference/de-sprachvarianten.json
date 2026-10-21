@@ -1,0 +1,206 @@
+{
+  "id": "de-sprachvarianten",
+  "name": "Sprachvarianten — Namen auf Deutsch (CLDR)",
+  "title": "Sprachvarianten — Namen auf Deutsch (CLDR)",
+  "description": "BCP-47-Codes der Sprachvarianten und ihre deutschen Namen aus der Locale de in CLDR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "1901",
+      "name": "Alte deutsche Rechtschreibung"
+    },
+    {
+      "id": 2,
+      "code": "1994",
+      "name": "Standardisierte Resianische Rechtschreibung"
+    },
+    {
+      "id": 3,
+      "code": "1996",
+      "name": "Neue deutsche Rechtschreibung"
+    },
+    {
+      "id": 4,
+      "code": "1606NICT",
+      "name": "Spätes Mittelfranzösisch"
+    },
+    {
+      "id": 5,
+      "code": "1694ACAD",
+      "name": "Klassisches Französisch"
+    },
+    {
+      "id": 6,
+      "code": "1959ACAD",
+      "name": "Akademisch"
+    },
+    {
+      "id": 7,
+      "code": "AREVELA",
+      "name": "Ostarmenisch"
+    },
+    {
+      "id": 8,
+      "code": "AREVMDA",
+      "name": "Westarmenisch"
+    },
+    {
+      "id": 9,
+      "code": "BAKU1926",
+      "name": "Einheitliches Türkisches Alphabet"
+    },
+    {
+      "id": 10,
+      "code": "BISKE",
+      "name": "Bela-Dialekt"
+    },
+    {
+      "id": 11,
+      "code": "BOONT",
+      "name": "Boontling"
+    },
+    {
+      "id": 12,
+      "code": "FONIPA",
+      "name": "IPA Phonetisch"
+    },
+    {
+      "id": 13,
+      "code": "FONUPA",
+      "name": "Phonetisch (UPA)"
+    },
+    {
+      "id": 14,
+      "code": "KKCOR",
+      "name": "Allgemeine Rechtschreibung"
+    },
+    {
+      "id": 15,
+      "code": "LIPAW",
+      "name": "Lipovaz-Dialekt"
+    },
+    {
+      "id": 16,
+      "code": "MONOTON",
+      "name": "Monotonisch"
+    },
+    {
+      "id": 17,
+      "code": "NEDIS",
+      "name": "Natisone-Dialekt"
+    },
+    {
+      "id": 18,
+      "code": "NJIVA",
+      "name": "Njiva-Dialekt"
+    },
+    {
+      "id": 19,
+      "code": "OSOJS",
+      "name": "Osojane-Dialekt"
+    },
+    {
+      "id": 20,
+      "code": "PINYIN",
+      "name": "Pinyin"
+    },
+    {
+      "id": 21,
+      "code": "POLYTON",
+      "name": "Polytonisch"
+    },
+    {
+      "id": 22,
+      "code": "POSIX",
+      "name": "Posix"
+    },
+    {
+      "id": 23,
+      "code": "REVISED",
+      "name": "Revidierte Rechtschreibung"
+    },
+    {
+      "id": 24,
+      "code": "ROZAJ",
+      "name": "Resianisch"
+    },
+    {
+      "id": 25,
+      "code": "SAAHO",
+      "name": "Saho"
+    },
+    {
+      "id": 26,
+      "code": "SCOTLAND",
+      "name": "Schottisches Standardenglisch"
+    },
+    {
+      "id": 27,
+      "code": "SCOUSE",
+      "name": "Scouse-Dialekt"
+    },
+    {
+      "id": 28,
+      "code": "SOLBA",
+      "name": "Solbica-Dialekt"
+    },
+    {
+      "id": 29,
+      "code": "TARASK",
+      "name": "Taraskievica-Orthographie"
+    },
+    {
+      "id": 30,
+      "code": "UCCOR",
+      "name": "Vereinheitlichte Rechtschreibung"
+    },
+    {
+      "id": 31,
+      "code": "UCRCOR",
+      "name": "Vereinheitlichte überarbeitete Rechtschreibung"
+    },
+    {
+      "id": 32,
+      "code": "VALENCIA",
+      "name": "Valencianisch"
+    },
+    {
+      "id": 33,
+      "code": "WADEGILE",
+      "name": "Wade-Giles"
+    }
+  ],
+  "meta": {
+    "title": "Sprachvarianten — Namen auf Deutsch (CLDR) - Kostenloser Download",
+    "description": "BCP-47-Codes der Sprachvarianten und ihre deutschen Namen aus der Locale de in CLDR. Enthält 33 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Sprachvarianten — Namen auf Deutsch (CLDR) | ListBase",
+    "seo_description": "Herunterladen Sprachvarianten — Namen auf Deutsch (CLDR) — 33 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 33 Datensätze / 3 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

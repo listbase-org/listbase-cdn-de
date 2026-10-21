@@ -1,0 +1,2212 @@
+{
+  "id": "de-zoos",
+  "name": "Zoos in Deutschland / Zoos in Germany",
+  "title": "Zoos in Deutschland / Zoos in Germany",
+  "description": "Zoos in Deutschland (Zoos in Germany). Geolocated points sourced from Wikidata (instance of Q43501), located in Germany (Q183), each with a coordinate (P625).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 239,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_de",
+      "label": "Name De",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q300758",
+      "name_de": "Aachener Tierpark Euregiozoo",
+      "name_en": "Aachener Tierpark Euregiozoo",
+      "latitude": 50.76311,
+      "longitude": 6.1153,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q300758"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q382294",
+      "name_de": "Affen- und Vogelpark Eckenhagen",
+      "name_en": "Affen- und Vogelpark Eckenhagen",
+      "latitude": 50.9967,
+      "longitude": 7.69191,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q382294"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q382304",
+      "name_de": "Affenberg Salem",
+      "name_en": "Affenberg Salem",
+      "latitude": 47.759722,
+      "longitude": 9.247222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q382304"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q98629586",
+      "name_de": "Affenhaus mit Aquarium",
+      "name_en": "Tiergarten Am Tiergarten 12 in Nürnberg",
+      "latitude": 49.448015,
+      "longitude": 11.14114,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98629586"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q880487",
+      "name_de": "Allwetterzoo Münster",
+      "name_en": "Münster Zoo",
+      "latitude": 51.9464,
+      "longitude": 7.59167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q880487"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q438680",
+      "name_de": "Alternativer Bärenpark Worbis",
+      "name_en": "Alternativer Bärenpark Worbis",
+      "latitude": 51.4272,
+      "longitude": 10.3469,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q438680"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q545428",
+      "name_de": "Anholter Schweiz",
+      "name_en": "Anholter Schweiz",
+      "latitude": 51.8345,
+      "longitude": 6.42997,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q545428"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q59195595",
+      "name_de": "Bayerwald-Tierpark Lohberg",
+      "name_en": "Bayerwald-Tierpark Lohberg",
+      "latitude": 49.171356,
+      "longitude": 13.089219,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q59195595"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q28498767",
+      "name_de": "Bergtierpark Blindham",
+      "name_en": "Bergtierpark Blindham",
+      "latitude": 47.92978,
+      "longitude": 11.81253,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28498767"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q821403",
+      "name_de": "Berliner Aquarium Unter den Linden",
+      "name_en": "Berliner Aquarium Unter den Linden",
+      "latitude": 52.517,
+      "longitude": 13.3834,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q821403"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q1019189",
+      "name_de": "Bärenwald Müritz",
+      "name_en": "Bärenwald Müritz",
+      "latitude": 53.3872,
+      "longitude": 12.3264,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1019189"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q18019233",
+      "name_de": "Darwineum",
+      "name_en": "Darwineum",
+      "latitude": 54.0791,
+      "longitude": 12.0775,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18019233"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q220103",
+      "name_de": "Der Grüne Zoo Wuppertal",
+      "name_en": "The Green Zoo Wuppertal",
+      "latitude": 51.2397,
+      "longitude": 7.11222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220103"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q2432289",
+      "name_de": "Ehemaliger Tierpark Kalletal",
+      "name_en": "Former Kalletal Zoo",
+      "latitude": 52.1262,
+      "longitude": 8.94399,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432289"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q98629583",
+      "name_de": "Ehemaliges Elefantenhaus",
+      "name_en": "Tiergarten Am Tiergarten 6 in Nürnberg",
+      "latitude": 49.446619,
+      "longitude": 11.146222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98629583"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q15110165",
+      "name_de": "Eifel-Zoo",
+      "name_en": "Eifel-Zoo",
+      "latitude": 50.152222,
+      "longitude": 6.326807,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15110165"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q1302893",
+      "name_de": "Eifelpark",
+      "name_en": "Eifelpark",
+      "latitude": 49.9628,
+      "longitude": 6.6175,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1302893"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q220033",
+      "name_de": "Erlebnis-Zoo Hannover",
+      "name_en": "Hanover Zoo",
+      "latitude": 52.380537,
+      "longitude": 9.771062,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220033"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q1264982",
+      "name_de": "Erlebnistierpark Jägerhof",
+      "name_en": "Erlebnistierpark Jägerhof",
+      "latitude": 47.924722,
+      "longitude": 9.220278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1264982"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q117319074",
+      "name_de": "Erlebnistierpark Memleben",
+      "name_en": "Erlebnistierpark Memleben",
+      "latitude": 51.26464,
+      "longitude": 11.49466,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117319074"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q29075418",
+      "name_de": "Etelsen Tierpark",
+      "name_en": "Etelsen Tierpark",
+      "latitude": 52.995278,
+      "longitude": 9.1125,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29075418"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q1384171",
+      "name_de": "Exotarium Oberhof",
+      "name_en": "Exotarium Oberhof",
+      "latitude": 50.7069,
+      "longitude": 10.7244,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1384171"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q12357003",
+      "name_de": "Fasanerie Arnstadt",
+      "name_en": "",
+      "latitude": 50.820035,
+      "longitude": 10.949217,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12357003"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q64174987",
+      "name_de": "Filmtier-Park",
+      "name_en": "Filmtier-Park",
+      "latitude": 52.70124,
+      "longitude": 10.26605,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64174987"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q136533740",
+      "name_de": "Greifvogelanlage Wüstenrot",
+      "name_en": "",
+      "latitude": 49.08895,
+      "longitude": 9.45781,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136533740"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q20113336",
+      "name_de": "Grünes Meer (Laubach)",
+      "name_en": "Grünes Meer",
+      "latitude": 50.526057,
+      "longitude": 9.071887,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20113336"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q1516761",
+      "name_de": "Harzfalkenhof",
+      "name_en": "Harzfalkenhof",
+      "latitude": 51.608,
+      "longitude": 10.5345,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1516761"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q1591327",
+      "name_de": "Haustierhof Reutemühle",
+      "name_en": "Haustierhof Reutemühle",
+      "latitude": 47.784722,
+      "longitude": 9.198889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1591327"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q17123549",
+      "name_de": "Haustierpark Lelkendorf",
+      "name_en": "Haustierpark Lelkendorf",
+      "latitude": 53.839444,
+      "longitude": 12.730833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17123549"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q1595518",
+      "name_de": "Heimat-Tierpark Olderdissen",
+      "name_en": "Heimat-Tierpark Olderdissen",
+      "latitude": 52.0206,
+      "longitude": 8.50111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1595518"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q136243548",
+      "name_de": "Hirschgarten",
+      "name_en": "Hirschgarten",
+      "latitude": 51.364326,
+      "longitude": 12.638174,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136243548"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q1246693",
+      "name_de": "Hochwildpark Rheinland",
+      "name_en": "Hochwildpark Rheinland",
+      "latitude": 50.6064,
+      "longitude": 6.67892,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1246693"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q1664520",
+      "name_de": "Inselzoo Altenburg",
+      "name_en": "Inselzoo Altenburg",
+      "latitude": 50.9788,
+      "longitude": 12.4329,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1664520"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q19931292",
+      "name_de": "Irrland",
+      "name_en": "Irrland",
+      "latitude": 51.555556,
+      "longitude": 6.204722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19931292"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q1678192",
+      "name_de": "Jaderpark",
+      "name_en": "Jaderpark",
+      "latitude": 53.3269,
+      "longitude": 8.18833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1678192"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q1713788",
+      "name_de": "Jura-Zoo",
+      "name_en": "Jura-Zoo",
+      "latitude": 49.2525,
+      "longitude": 11.4528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1713788"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q51146219",
+      "name_de": "Kleinzoo Wasserstern",
+      "name_en": "Kleinzoo Wasserstern",
+      "latitude": 48.765278,
+      "longitude": 11.4025,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q51146219"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q896371",
+      "name_de": "Krefelder Zoo",
+      "name_en": "Krefelder Zoo",
+      "latitude": 51.3409,
+      "longitude": 6.60156,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q896371"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q1265654",
+      "name_de": "Kurpfalz-Park",
+      "name_en": "Kurpfalz-Park",
+      "latitude": 49.4134,
+      "longitude": 8.1052,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1265654"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q529586",
+      "name_de": "Kölner Zoo",
+      "name_en": "Cologne Zoological Garden",
+      "latitude": 50.958333,
+      "longitude": 6.973333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q529586"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q1815378",
+      "name_de": "Leintalzoo Schwaigern",
+      "name_en": "Leintalzoo Schwaigern",
+      "latitude": 49.1422,
+      "longitude": 9.07528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1815378"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q124526460",
+      "name_de": "Letzenbergtierpark Malsch",
+      "name_en": "",
+      "latitude": 49.24283,
+      "longitude": 8.68769,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124526460"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q872955",
+      "name_de": "Müritzeum",
+      "name_en": "Müritzeum",
+      "latitude": 53.514583,
+      "longitude": 12.683333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q872955"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q130686783",
+      "name_de": "Nationalparkzentrum Falkenstein",
+      "name_en": "Falkenstein National Park Centre",
+      "latitude": 49.06,
+      "longitude": 13.242778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130686783"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q109627788",
+      "name_de": "Nationalparkzentrum Lusen",
+      "name_en": "Lusen National Park Centre",
+      "latitude": 48.9002,
+      "longitude": 13.4808,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109627788"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q83493944",
+      "name_de": "Natur- und Tierpark Brüggen",
+      "name_en": "",
+      "latitude": 51.260823,
+      "longitude": 6.183799,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q83493944"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q165073",
+      "name_de": "NaturZoo Rheine",
+      "name_en": "NaturZoo Rheine",
+      "latitude": 52.297,
+      "longitude": 7.42239,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q165073"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q220259",
+      "name_de": "Neunkircher Zoo",
+      "name_en": "Zoologischer Garten Neunkirchen",
+      "latitude": 49.3453,
+      "longitude": 7.20583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220259"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q1702529",
+      "name_de": "Noctalis",
+      "name_en": "Noctalis",
+      "latitude": 53.9362,
+      "longitude": 10.3166,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1702529"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q2014423",
+      "name_de": "Oderbruchzoo",
+      "name_en": "Oderbruchzoo",
+      "latitude": 52.7625,
+      "longitude": 14.1672,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2014423"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q2025028",
+      "name_de": "Opel-Zoo",
+      "name_en": "Opel-Zoo",
+      "latitude": 50.183333,
+      "longitude": 8.486389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2025028"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q1688481",
+      "name_de": "Otter-Zentrum",
+      "name_en": "Hankensbüttel Otter Centre",
+      "latitude": 52.7314,
+      "longitude": 10.62,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1688481"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q98629587",
+      "name_de": "Raubtierhaus",
+      "name_en": "Tiergarten Am Tiergarten 14 in Nürnberg",
+      "latitude": 49.44924,
+      "longitude": 11.145561,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98629587"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q2145304",
+      "name_de": "Reptilium Terrarien- und Wüstenzoo Landau",
+      "name_en": "Reptilium Terrarien- und Wüstenzoo Landau",
+      "latitude": 49.1913,
+      "longitude": 8.13004,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2145304"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q2209172",
+      "name_de": "Saarbrücker Zoo",
+      "name_en": "Saarbrücker Zoo",
+      "latitude": 49.2308,
+      "longitude": 7.03958,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2209172"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q2254498",
+      "name_de": "Schwarzwaldzoo Waldkirch",
+      "name_en": "Schwarzwaldzoo Waldkirch",
+      "latitude": 48.0876,
+      "longitude": 7.95854,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2254498"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q2261870",
+      "name_de": "Sea Life Königswinter",
+      "name_en": "Sea Life Königswinter",
+      "latitude": 50.6733,
+      "longitude": 7.1925,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2261870"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q2265008",
+      "name_de": "Seehundstation Friedrichskoog",
+      "name_en": "Seehundstation Friedrichskoog",
+      "latitude": 54.0008,
+      "longitude": 8.87556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2265008"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q2265011",
+      "name_de": "Seehundstation Norddeich",
+      "name_en": "Seehundstation Norddeich",
+      "latitude": 53.6128,
+      "longitude": 7.15944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2265011"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q874796",
+      "name_de": "Serengeti-Park",
+      "name_en": "Serengeti Park",
+      "latitude": 52.7456,
+      "longitude": 9.61667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q874796"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q2298879",
+      "name_de": "Solinger Vogel- und Tierpark",
+      "name_en": "Solinger Vogel- und Tierpark",
+      "latitude": 51.1608,
+      "longitude": 6.98417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2298879"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q123503730",
+      "name_de": "Tatzmania Löffingen",
+      "name_en": "Tatzmania Löffingen",
+      "latitude": 47.9037,
+      "longitude": 8.3424,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123503730"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q2405070",
+      "name_de": "TerraZoo Rheinberg",
+      "name_en": "TerraZoo Rheinberg",
+      "latitude": 51.5383,
+      "longitude": 6.61333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2405070"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q2405073",
+      "name_de": "TerraZoo Sontra",
+      "name_en": "TerraZoo Sontra",
+      "latitude": 51.0803,
+      "longitude": 9.95722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2405073"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q2430928",
+      "name_de": "Thüringer Zoopark Erfurt",
+      "name_en": "Thüringer Zoopark Erfurt",
+      "latitude": 51.0233,
+      "longitude": 11.0278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2430928"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q1373447",
+      "name_de": "Tier- und Freizeitpark Thüle",
+      "name_en": "Tier- und Freizeitpark Thüle",
+      "latitude": 52.9585,
+      "longitude": 7.91912,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1373447"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q1494249",
+      "name_de": "Tier- und Kulturpark Bischofswerda",
+      "name_en": "Tier- und Kulturpark Bischofswerda",
+      "latitude": 51.1264,
+      "longitude": 14.1758,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1494249"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q876440",
+      "name_de": "Tier- und Pflanzenpark Fasanerie",
+      "name_en": "Tier- und Pflanzenpark Fasanerie",
+      "latitude": 50.1025,
+      "longitude": 8.19222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q876440"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q26794497",
+      "name_de": "Tier-, Freizeit- und Saurierpark Germendorf",
+      "name_en": "Tier-, Freizeit- und Saurierpark Germendorf",
+      "latitude": 52.746891,
+      "longitude": 13.156697,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26794497"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q135488699",
+      "name_de": "Tier-Erlebnispark Bell",
+      "name_en": "",
+      "latitude": 50.1014,
+      "longitude": 7.4221,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135488699"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q2432196",
+      "name_de": "Tiergarten an der Doggenburg",
+      "name_en": "Tiergarten an der Doggenburg",
+      "latitude": 48.7878,
+      "longitude": 9.15165,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432196"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q2432171",
+      "name_de": "Tiergarten Bernburg",
+      "name_en": "Tiergarten Bernburg",
+      "latitude": 51.7942,
+      "longitude": 11.7281,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432171"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q2432172",
+      "name_de": "Tiergarten Delitzsch",
+      "name_en": "Tiergarten Delitzsch",
+      "latitude": 51.527833,
+      "longitude": 12.3175,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432172"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q1396643",
+      "name_de": "Tiergarten Eisenberg",
+      "name_en": "Tiergarten Eisenberg",
+      "latitude": 50.9667,
+      "longitude": 11.9111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1396643"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q1559777",
+      "name_de": "Tiergarten Falkenstein",
+      "name_en": "Tiergarten Falkenstein",
+      "latitude": 50.4785,
+      "longitude": 12.3713,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1559777"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q111525417",
+      "name_de": "Tiergarten Fasanerie Groß-Gerau",
+      "name_en": "Tiergarten Fasanerie Groß-Gerau",
+      "latitude": 49.903667,
+      "longitude": 8.481,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111525417"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q2432176",
+      "name_de": "Tiergarten Halberstadt",
+      "name_en": "Tiergarten Halberstadt",
+      "latitude": 51.8728,
+      "longitude": 11.042,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432176"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q1676123",
+      "name_de": "Tiergarten Hannover",
+      "name_en": "Tiergarten Hannover",
+      "latitude": 52.3661,
+      "longitude": 9.83583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1676123"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q2432183",
+      "name_de": "Tiergarten Kleve",
+      "name_en": "Zoo Cleves",
+      "latitude": 51.7991,
+      "longitude": 6.12186,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432183"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q1419082",
+      "name_de": "Tiergarten Mönchengladbach",
+      "name_en": "Tiergarten Mönchengladbach",
+      "latitude": 51.1399,
+      "longitude": 6.45867,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1419082"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q1340792",
+      "name_de": "Tiergarten Neustrelitz",
+      "name_en": "Tiergarten Neustrelitz",
+      "latitude": 53.3569,
+      "longitude": 13.0678,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1340792"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q1676234",
+      "name_de": "Tiergarten Nill",
+      "name_en": "Tiergarten Nill",
+      "latitude": 48.7862,
+      "longitude": 9.16577,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1676234"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q686220",
+      "name_de": "Tiergarten Nürnberg",
+      "name_en": "Nuremberg Zoo",
+      "latitude": 49.447367,
+      "longitude": 11.14482,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q686220"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q116838438",
+      "name_de": "Tiergarten Sonneberg",
+      "name_en": "Tiergarten Sonneberg",
+      "latitude": 50.36708,
+      "longitude": 11.18946,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116838438"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q2432191",
+      "name_de": "Tiergarten Staßfurt",
+      "name_en": "Tiergarten Staßfurt",
+      "latitude": 51.8479,
+      "longitude": 11.5816,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432191"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q2432188",
+      "name_de": "Tiergarten Stendal",
+      "name_en": "Tiergarten Stendal",
+      "latitude": 52.5986,
+      "longitude": 11.8461,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432188"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q1478818",
+      "name_de": "Tiergarten Straubing",
+      "name_en": "Tiergarten Straubing",
+      "latitude": 48.8842,
+      "longitude": 12.5355,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1478818"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q71028343",
+      "name_de": "Tiergarten Teltow",
+      "name_en": "Tiergarten Teltow",
+      "latitude": 52.39783,
+      "longitude": 13.28671,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q71028343"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q2432193",
+      "name_de": "Tiergarten Tübingen",
+      "name_en": "Tiergarten Tübingen",
+      "latitude": 48.5071,
+      "longitude": 9.02752,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432193"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q1624934",
+      "name_de": "Tiergarten Ulm",
+      "name_en": "Tiergarten Ulm",
+      "latitude": 48.4103,
+      "longitude": 10.0119,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1624934"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q2432195",
+      "name_de": "Tiergarten Worms",
+      "name_en": "Tiergarten Worms",
+      "latitude": 49.6158,
+      "longitude": 8.37139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432195"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q134425513",
+      "name_de": "Tiergehege am Goldenen Stern",
+      "name_en": "Tiergehege am Goldenen Stern",
+      "latitude": 50.87546,
+      "longitude": 13.206757,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134425513"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q124056632",
+      "name_de": "Tiergehege Schwanenteich",
+      "name_en": "Tier- und Naturfreunde Schwanenteich",
+      "latitude": 50.548922,
+      "longitude": 7.228339,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124056632"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q2432263",
+      "name_de": "Tierpark Alsdorfer Weiher",
+      "name_en": "Tierpark Alsdorfer Weiher",
+      "latitude": 50.8635,
+      "longitude": 6.1506,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432263"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q2432266",
+      "name_de": "Tierpark Angermünde",
+      "name_en": "Tierpark Angermünde",
+      "latitude": 53.0119,
+      "longitude": 13.9944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432266"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q2432310",
+      "name_de": "Tierpark Arche Noah Klötze",
+      "name_en": "Tierpark Arche Noah Klötze",
+      "latitude": 52.6296,
+      "longitude": 11.1848,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432310"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q2432273",
+      "name_de": "Tierpark Arche Warder",
+      "name_en": "Tierpark Arche Warder",
+      "latitude": 54.215278,
+      "longitude": 9.907778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432273"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q110324148",
+      "name_de": "Tierpark Bad Kösen",
+      "name_en": "Tierpark Bad Kösen",
+      "latitude": 51.132639,
+      "longitude": 11.720528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110324148"
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q1315270",
+      "name_de": "Tierpark Bad Liebenstein",
+      "name_en": "Tierpark Bad Liebenstein",
+      "latitude": 50.8203,
+      "longitude": 10.3547,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1315270"
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q129322",
+      "name_de": "Tierpark Bad Pyrmont",
+      "name_en": "Tierpark Bad Pyrmont",
+      "latitude": 51.979722,
+      "longitude": 9.251667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q129322"
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q702771",
+      "name_de": "Tierpark Berlin",
+      "name_en": "Tierpark Berlin",
+      "latitude": 52.500278,
+      "longitude": 13.5325,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q702771"
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q137607622",
+      "name_de": "Tierpark Bretten",
+      "name_en": "",
+      "latitude": 49.017047,
+      "longitude": 8.697705,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137607622"
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q1577839",
+      "name_de": "Tierpark Chemnitz",
+      "name_en": "Chemnitz Zoo",
+      "latitude": 50.8183,
+      "longitude": 12.835,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1577839"
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q1395827",
+      "name_de": "Tierpark Cottbus",
+      "name_en": "Tierpark Cottbus",
+      "latitude": 51.7444,
+      "longitude": 14.3531,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1395827"
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q2432276",
+      "name_de": "Tierpark Dessau",
+      "name_en": "Tierpark Dessau",
+      "latitude": 51.849,
+      "longitude": 12.2383,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432276"
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q2432277",
+      "name_de": "Tierpark Eilenburg",
+      "name_en": "Tierpark Eilenburg",
+      "latitude": 51.4529,
+      "longitude": 12.6316,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432277"
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q2803487",
+      "name_de": "Tierpark Essehof",
+      "name_en": "Tierpark Essehof",
+      "latitude": 52.3061,
+      "longitude": 10.665,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2803487"
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q1301309",
+      "name_de": "Tierpark Fauna",
+      "name_en": "Tierpark Fauna",
+      "latitude": 51.2134,
+      "longitude": 7.08326,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1301309"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q122800638",
+      "name_de": "Tierpark Finsterwalde",
+      "name_en": "",
+      "latitude": 51.632781,
+      "longitude": 13.69495,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122800638"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q70873410",
+      "name_de": "Tierpark Freiberg",
+      "name_en": "Tierpark Freiberg",
+      "latitude": 50.913611,
+      "longitude": 13.330833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q70873410"
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q1480506",
+      "name_de": "Tierpark Gera",
+      "name_en": "Tierpark Gera",
+      "latitude": 50.8664,
+      "longitude": 12.0644,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1480506"
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q1423088",
+      "name_de": "Tierpark Gettorf",
+      "name_en": "Tierpark Gettorf",
+      "latitude": 54.403056,
+      "longitude": 9.976389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1423088"
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q2432284",
+      "name_de": "Tierpark Gotha",
+      "name_en": "Tierpark Gotha",
+      "latitude": 50.934486,
+      "longitude": 10.719941,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432284"
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q134414121",
+      "name_de": "Tierpark Greifswald",
+      "name_en": "",
+      "latitude": 54.0975,
+      "longitude": 13.370833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134414121"
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q2432283",
+      "name_de": "Tierpark Göppingen",
+      "name_en": "Tierpark Göppingen",
+      "latitude": 48.7144,
+      "longitude": 9.64889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432283"
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q794426",
+      "name_de": "Tierpark Görlitz",
+      "name_en": "Tierpark Görlitz",
+      "latitude": 51.1421,
+      "longitude": 14.9801,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q794426"
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q502326",
+      "name_de": "Tierpark Hagenbeck",
+      "name_en": "Tierpark Hagenbeck",
+      "latitude": 53.596389,
+      "longitude": 9.937778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q502326"
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q1536456",
+      "name_de": "Tierpark Hamm",
+      "name_en": "Tierpark Hamm",
+      "latitude": 51.6629,
+      "longitude": 7.81645,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1536456"
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q1591277",
+      "name_de": "Tierpark Herborn",
+      "name_en": "Tierpark Herborn",
+      "latitude": 50.7019,
+      "longitude": 8.26686,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1591277"
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q2432287",
+      "name_de": "Tierpark Herford",
+      "name_en": "Tierpark Herford",
+      "latitude": 52.1066,
+      "longitude": 8.7184,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432287"
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q110965513",
+      "name_de": "Tierpark Hexentanzplatz",
+      "name_en": "Tierpark Hexentanzplatz",
+      "latitude": 51.730056,
+      "longitude": 11.02375,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110965513"
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q1538627",
+      "name_de": "Tierpark Hirschfeld",
+      "name_en": "Hirschfeld Wildlife Park",
+      "latitude": 50.6278,
+      "longitude": 12.4403,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1538627"
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q62030381",
+      "name_de": "Tierpark Klingenthal",
+      "name_en": "Tierpark Klingenthal",
+      "latitude": 50.361479,
+      "longitude": 12.465271,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q62030381"
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q20666027",
+      "name_de": "Tierpark Klosterwald",
+      "name_en": "Tierpark Klosterwald",
+      "latitude": 50.494871,
+      "longitude": 8.786978,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20666027"
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q2432293",
+      "name_de": "Tierpark Limbach-Oberfrohna",
+      "name_en": "Tierpark Limbach-Oberfrohna",
+      "latitude": 50.852243,
+      "longitude": 12.752416,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432293"
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q1712142",
+      "name_de": "Tierpark Lübeck",
+      "name_en": "Tierpark Lübeck",
+      "latitude": 53.8959,
+      "longitude": 10.7383,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1712142"
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q1527494",
+      "name_de": "Tierpark Nadermann",
+      "name_en": "Tierpark Nadermann",
+      "latitude": 51.7968,
+      "longitude": 8.49659,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1527494"
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q2432295",
+      "name_de": "Tierpark Neumünster",
+      "name_en": "Tierpark Neumünster",
+      "latitude": 54.0917,
+      "longitude": 9.945,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432295"
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q1519090",
+      "name_de": "Tierpark Nordhorn",
+      "name_en": "Tierpark Nordhorn",
+      "latitude": 52.4283,
+      "longitude": 7.09194,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1519090"
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q110964006",
+      "name_de": "Tierpark Nymphaea",
+      "name_en": "Tierpark Nymphaea",
+      "latitude": 48.724274,
+      "longitude": 9.333575,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110964006"
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q1695896",
+      "name_de": "Tierpark Perleberg",
+      "name_en": "Tierpark Perleberg",
+      "latitude": 53.0639,
+      "longitude": 11.8583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1695896"
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q55956438",
+      "name_de": "Tierpark Petermoor",
+      "name_en": "Tierpark Petermoor",
+      "latitude": 52.855053,
+      "longitude": 8.738343,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55956438"
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q2432185",
+      "name_de": "Tierpark Recklinghausen",
+      "name_en": "Tierpark Recklinghausen",
+      "latitude": 51.6204,
+      "longitude": 7.18428,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432185"
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q1487826",
+      "name_de": "Tierpark Rheinböllen",
+      "name_en": "Tierpark Rheinböllen",
+      "latitude": 50.031,
+      "longitude": 7.6622,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1487826"
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q56283724",
+      "name_de": "Tierpark Röhrensee",
+      "name_en": "Tierpark Röhrensee",
+      "latitude": 49.93,
+      "longitude": 11.572,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56283724"
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q2351972",
+      "name_de": "Tierpark Sababurg",
+      "name_en": "Tierpark Sababurg",
+      "latitude": 51.5453,
+      "longitude": 9.53528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2351972"
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q593400",
+      "name_de": "Tierpark Sassnitz",
+      "name_en": "Sassnitz Wildlife Park",
+      "latitude": 54.5189,
+      "longitude": 13.654,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q593400"
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q98740444",
+      "name_de": "Tierpark Schlichtweg 15 in München (D-1-62-000-6514#15)",
+      "name_en": "Tierpark Schlichtweg 15 in München",
+      "latitude": 48.092863,
+      "longitude": 11.55115,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98740444"
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q104725180",
+      "name_de": "Tierpark Senftenberg",
+      "name_en": "Tierpark Senftenberg",
+      "latitude": 51.514698,
+      "longitude": 14.005471,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104725180"
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q2432304",
+      "name_de": "Tierpark Ströhen",
+      "name_en": "Tierpark Ströhen",
+      "latitude": 52.5364,
+      "longitude": 8.70944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432304"
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q19310052",
+      "name_de": "Tierpark Suhl",
+      "name_en": "Tierpark Suhl",
+      "latitude": 50.611339,
+      "longitude": 10.718676,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19310052"
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q1736588",
+      "name_de": "Tierpark Ueckermünde",
+      "name_en": "Tierpark Ueckermünde",
+      "latitude": 53.7313,
+      "longitude": 14.028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1736588"
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q1621348",
+      "name_de": "Tierpark und Fossilium Bochum",
+      "name_en": "Tierpark und Fossilium Bochum",
+      "latitude": 51.4906,
+      "longitude": 7.22722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1621348"
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q127473371",
+      "name_de": "Tierpark Walldorf",
+      "name_en": "Tierpark Walldorf",
+      "latitude": 49.3147,
+      "longitude": 8.633611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q127473371"
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q1628644",
+      "name_de": "Tierpark Weißwasser",
+      "name_en": "Tierpark Weißwasser",
+      "latitude": 51.5114,
+      "longitude": 14.6331,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1628644"
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q27926364",
+      "name_de": "Tierpark Wismar",
+      "name_en": "Tierpark Wismar",
+      "latitude": 53.888167,
+      "longitude": 11.431083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27926364"
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q54940210",
+      "name_de": "Tierpark Wittenberg",
+      "name_en": "Tierpark Wittenberg",
+      "latitude": 51.869253,
+      "longitude": 12.640827,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54940210"
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q1521397",
+      "name_de": "Tierpark Wolgast",
+      "name_en": "Tierpark Wolgast",
+      "latitude": 54.0721,
+      "longitude": 13.7733,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1521397"
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q16295025",
+      "name_de": "Tierpark Zabakuck",
+      "name_en": "Zoo Zabakuck",
+      "latitude": 52.458564,
+      "longitude": 12.211582,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16295025"
+    },
+    {
+      "id": 150,
+      "wikidata_id": "Q765055",
+      "name_de": "Tierpark Zittau",
+      "name_en": "Tierpark Zittau",
+      "latitude": 50.9014,
+      "longitude": 14.8325,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q765055"
+    },
+    {
+      "id": 151,
+      "wikidata_id": "Q15850928",
+      "name_de": "Tigerpark Dassow",
+      "name_en": "Tigerpark Dassow",
+      "latitude": 53.903823,
+      "longitude": 11.003429,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15850928"
+    },
+    {
+      "id": 152,
+      "wikidata_id": "Q1724108",
+      "name_de": "Tropenzoo Bansin",
+      "name_en": "Tropenzoo Bansin",
+      "latitude": 53.9697,
+      "longitude": 14.1386,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1724108"
+    },
+    {
+      "id": 153,
+      "wikidata_id": "Q2529017",
+      "name_de": "Vivarium Darmstadt",
+      "name_en": "Vivarium Darmstadt",
+      "latitude": 49.8664,
+      "longitude": 8.68278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2529017"
+    },
+    {
+      "id": 154,
+      "wikidata_id": "Q15853066",
+      "name_de": "Vogel- und Tierpark Irgenöd",
+      "name_en": "Vogel- und Tierpark Irgenöd",
+      "latitude": 48.563459,
+      "longitude": 13.251475,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15853066"
+    },
+    {
+      "id": 155,
+      "wikidata_id": "Q2529929",
+      "name_de": "Vogelburg Weilrod",
+      "name_en": "Vogelburg",
+      "latitude": 50.3311,
+      "longitude": 8.34389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2529929"
+    },
+    {
+      "id": 156,
+      "wikidata_id": "Q2530013",
+      "name_de": "Vogelpark Abensberg",
+      "name_en": "Vogelpark Abensberg",
+      "latitude": 48.8042,
+      "longitude": 11.8261,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2530013"
+    },
+    {
+      "id": 157,
+      "wikidata_id": "Q2530033",
+      "name_de": "Vogelpark am Krater",
+      "name_en": "Vogelpark am Krater",
+      "latitude": 52.3257,
+      "longitude": 9.3616,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2530033"
+    },
+    {
+      "id": 158,
+      "wikidata_id": "Q2530017",
+      "name_de": "Vogelpark Biebesheim",
+      "name_en": "Vogelpark Biebesheim",
+      "latitude": 49.7761,
+      "longitude": 8.45806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2530017"
+    },
+    {
+      "id": 159,
+      "wikidata_id": "Q2530023",
+      "name_de": "Vogelpark Dehme",
+      "name_en": "Vogelpark Dehme",
+      "latitude": 52.2427,
+      "longitude": 8.84502,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2530023"
+    },
+    {
+      "id": 160,
+      "wikidata_id": "Q2530026",
+      "name_de": "Vogelpark Heiligenkirchen",
+      "name_en": "Vogelpark Heiligenkirchen",
+      "latitude": 51.8994,
+      "longitude": 8.8567,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2530026"
+    },
+    {
+      "id": 161,
+      "wikidata_id": "Q2530027",
+      "name_de": "Vogelpark Marlow",
+      "name_en": "Vogelpark Marlow",
+      "latitude": 54.1453,
+      "longitude": 12.5681,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2530027"
+    },
+    {
+      "id": 162,
+      "wikidata_id": "Q2530029",
+      "name_de": "Vogelpark Niendorf",
+      "name_en": "Vogelpark Niendorf",
+      "latitude": 53.986,
+      "longitude": 10.815,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2530029"
+    },
+    {
+      "id": 163,
+      "wikidata_id": "Q2530031",
+      "name_de": "Vogelpark Steinen",
+      "name_en": "Bird Park Steinen",
+      "latitude": 47.686542,
+      "longitude": 7.756686,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2530031"
+    },
+    {
+      "id": 164,
+      "wikidata_id": "Q19968232",
+      "name_de": "Vogelpark Viernheim",
+      "name_en": "Vogelpark Viernheim",
+      "latitude": 49.551217,
+      "longitude": 8.581978,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19968232"
+    },
+    {
+      "id": 165,
+      "wikidata_id": "Q2569469",
+      "name_de": "Wiesenpark Oschersleben",
+      "name_en": "Wiesenpark Oschersleben",
+      "latitude": 52.0213,
+      "longitude": 11.2371,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2569469"
+    },
+    {
+      "id": 166,
+      "wikidata_id": "Q1950392",
+      "name_de": "Wild- & Erlebnispark Daun",
+      "name_en": "Wildpark Daun",
+      "latitude": 50.1812,
+      "longitude": 6.80607,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1950392"
+    },
+    {
+      "id": 167,
+      "wikidata_id": "Q2570242",
+      "name_de": "Wild- und Freizeitpark Allensbach",
+      "name_en": "Wild- und Freizeitpark Allensbach",
+      "latitude": 47.741944,
+      "longitude": 9.046111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2570242"
+    },
+    {
+      "id": 168,
+      "wikidata_id": "Q18029651",
+      "name_de": "Wild- und Freizeitpark Ostrittrum",
+      "name_en": "Wild- und Freizeitpark Ostrittrum",
+      "latitude": 52.972251,
+      "longitude": 8.344803,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18029651"
+    },
+    {
+      "id": 169,
+      "wikidata_id": "Q1245716",
+      "name_de": "Wildfreigehege Bend",
+      "name_en": "Wildfreigehege Bend",
+      "latitude": 51.08,
+      "longitude": 6.58722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1245716"
+    },
+    {
+      "id": 170,
+      "wikidata_id": "Q101749588",
+      "name_de": "Wildgatter Oberrabenstein",
+      "name_en": "Wildgatter Oberrabenstein",
+      "latitude": 50.8338,
+      "longitude": 12.8027,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q101749588"
+    },
+    {
+      "id": 171,
+      "wikidata_id": "Q2570709",
+      "name_de": "Wildgehege Dodenau",
+      "name_en": "Wildgehege Dodenau",
+      "latitude": 51.03131,
+      "longitude": 8.574961,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2570709"
+    },
+    {
+      "id": 172,
+      "wikidata_id": "Q49720041",
+      "name_de": "Wildgehege Herborn",
+      "name_en": "Wildlife Enclosure Herborn",
+      "latitude": 50.68483,
+      "longitude": 8.2915,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49720041"
+    },
+    {
+      "id": 173,
+      "wikidata_id": "Q14546448",
+      "name_de": "Wildgehege Moritzburg",
+      "name_en": "Wildgehege Moritzburg",
+      "latitude": 51.1733,
+      "longitude": 13.6982,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14546448"
+    },
+    {
+      "id": 174,
+      "wikidata_id": "Q2570784",
+      "name_de": "Wildpark Bad Marienberg",
+      "name_en": "Wildpark Bad Marienberg",
+      "latitude": 50.651,
+      "longitude": 7.93486,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2570784"
+    },
+    {
+      "id": 175,
+      "wikidata_id": "Q2570800",
+      "name_de": "Wildpark Bad Mergentheim",
+      "name_en": "Bad Mergentheim Wildlife Park",
+      "latitude": 49.4683,
+      "longitude": 9.79694,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2570800"
+    },
+    {
+      "id": 176,
+      "wikidata_id": "Q2570791",
+      "name_de": "Wildpark Betzenberg",
+      "name_en": "Betzenberg Wildlife Park",
+      "latitude": 49.431255,
+      "longitude": 7.792594,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2570791"
+    },
+    {
+      "id": 177,
+      "wikidata_id": "Q2570794",
+      "name_de": "Wildpark Diedrichsburg",
+      "name_en": "Wildpark Diedrichsburg",
+      "latitude": 52.2324,
+      "longitude": 8.35133,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2570794"
+    },
+    {
+      "id": 178,
+      "wikidata_id": "Q2570796",
+      "name_de": "Wildpark Donsbach",
+      "name_en": "Wildpark Donsbach",
+      "latitude": 50.7186,
+      "longitude": 8.24083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2570796"
+    },
+    {
+      "id": 179,
+      "wikidata_id": "Q328819",
+      "name_de": "Wildpark Eekholt",
+      "name_en": "Eekholt Wildlife Park",
+      "latitude": 53.9492,
+      "longitude": 10.0288,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q328819"
+    },
+    {
+      "id": 180,
+      "wikidata_id": "Q1440716",
+      "name_de": "Wildpark Gersfeld",
+      "name_en": "Wildpark Gersfeld",
+      "latitude": 50.44015,
+      "longitude": 9.94167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1440716"
+    },
+    {
+      "id": 181,
+      "wikidata_id": "Q56452367",
+      "name_de": "Wildpark Knüll",
+      "name_en": "Wildpark Knüll",
+      "latitude": 50.988298,
+      "longitude": 9.433079,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56452367"
+    },
+    {
+      "id": 182,
+      "wikidata_id": "Q2570815",
+      "name_de": "Wildpark Leipzig",
+      "name_en": "Wildpark Leipzig",
+      "latitude": 51.2978,
+      "longitude": 12.3661,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2570815"
+    },
+    {
+      "id": 183,
+      "wikidata_id": "Q869894",
+      "name_de": "Wildpark Lüneburger Heide",
+      "name_en": "Lüneburg Heath Wildlife Park",
+      "latitude": 53.2367,
+      "longitude": 10.0443,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q869894"
+    },
+    {
+      "id": 184,
+      "wikidata_id": "Q2570817",
+      "name_de": "Wildpark Mainz-Gonsenheim",
+      "name_en": "Wildpark Mainz-Gonsenheim",
+      "latitude": 50.0061,
+      "longitude": 8.2037,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2570817"
+    },
+    {
+      "id": 185,
+      "wikidata_id": "Q58415175",
+      "name_de": "Wildpark Müden",
+      "name_en": "Wildpark Müden",
+      "latitude": 52.87016,
+      "longitude": 10.1131,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58415175"
+    },
+    {
+      "id": 186,
+      "wikidata_id": "Q2570821",
+      "name_de": "Wildpark Neuhaus",
+      "name_en": "Wildpark Neuhaus",
+      "latitude": 51.7474,
+      "longitude": 9.522,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2570821"
+    },
+    {
+      "id": 187,
+      "wikidata_id": "Q2570832",
+      "name_de": "Wildpark Pforzheim",
+      "name_en": "Wildpark Pforzheim",
+      "latitude": 48.8746,
+      "longitude": 8.71531,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2570832"
+    },
+    {
+      "id": 188,
+      "wikidata_id": "Q2570833",
+      "name_de": "Wildpark Poing",
+      "name_en": "Wildpark Poing",
+      "latitude": 48.1756,
+      "longitude": 11.8303,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2570833"
+    },
+    {
+      "id": 189,
+      "wikidata_id": "Q2570837",
+      "name_de": "Wildpark Potzberg",
+      "name_en": "Wildpark Potzberg",
+      "latitude": 49.5219,
+      "longitude": 7.48333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2570837"
+    },
+    {
+      "id": 190,
+      "wikidata_id": "Q2570838",
+      "name_de": "Wildpark Reuschenberg",
+      "name_en": "Wildpark Reuschenberg",
+      "latitude": 51.0554,
+      "longitude": 6.98191,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2570838"
+    },
+    {
+      "id": 191,
+      "wikidata_id": "Q59156904",
+      "name_de": "Wildpark Schwarzach",
+      "name_en": "Wildpark Schwarzach",
+      "latitude": 49.368888,
+      "longitude": 8.988338,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q59156904"
+    },
+    {
+      "id": 192,
+      "wikidata_id": "Q2570846",
+      "name_de": "Wildpark Schwarze Berge",
+      "name_en": "Wildpark Schwarze Berge",
+      "latitude": 53.4408,
+      "longitude": 9.88444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2570846"
+    },
+    {
+      "id": 193,
+      "wikidata_id": "Q2570851",
+      "name_de": "Wildpark Tannenbusch",
+      "name_en": "Wildpark Tannenbusch",
+      "latitude": 51.0811,
+      "longitude": 6.78889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2570851"
+    },
+    {
+      "id": 194,
+      "wikidata_id": "Q1478370",
+      "name_de": "Wildpark Tiergarten Weilburg",
+      "name_en": "Wildpark Tiergarten Weilburg",
+      "latitude": 50.4886,
+      "longitude": 8.3275,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1478370"
+    },
+    {
+      "id": 195,
+      "wikidata_id": "Q24039827",
+      "name_de": "Wildpark Waldhaus Mehlmeisel",
+      "name_en": "Wildpark Waldhaus Mehlmeisel",
+      "latitude": 49.96362,
+      "longitude": 11.84128,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24039827"
+    },
+    {
+      "id": 196,
+      "wikidata_id": "Q1739461",
+      "name_de": "Wildpark Weißewarte",
+      "name_en": "Wildpark Weißewarte",
+      "latitude": 52.4697,
+      "longitude": 11.8679,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1739461"
+    },
+    {
+      "id": 197,
+      "wikidata_id": "Q1969880",
+      "name_de": "Wildpark-MV",
+      "name_en": "Wildpark-MV",
+      "latitude": 53.78891,
+      "longitude": 12.224162,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1969880"
+    },
+    {
+      "id": 198,
+      "wikidata_id": "Q2570929",
+      "name_de": "Wildwald Voßwinkel",
+      "name_en": "Wildwald Voßwinkel",
+      "latitude": 51.4575,
+      "longitude": 7.88278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2570929"
+    },
+    {
+      "id": 199,
+      "wikidata_id": "Q220127",
+      "name_de": "Wingster Waldzoo",
+      "name_en": "Zoo in der Wingst",
+      "latitude": 53.742944,
+      "longitude": 9.081444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220127"
+    },
+    {
+      "id": 200,
+      "wikidata_id": "Q96249944",
+      "name_de": "Wirgarten Fulda",
+      "name_en": "",
+      "latitude": 50.544855,
+      "longitude": 9.657068,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96249944"
+    },
+    {
+      "id": 201,
+      "wikidata_id": "Q884968",
+      "name_de": "Wisentgehege Springe",
+      "name_en": "Wisentgehege Springe",
+      "latitude": 52.1887,
+      "longitude": 9.60442,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q884968"
+    },
+    {
+      "id": 202,
+      "wikidata_id": "Q98629590",
+      "name_de": "Wohnhaus",
+      "name_en": "Tiergarten Am Tiergarten 28 in Nürnberg",
+      "latitude": 49.450157,
+      "longitude": 11.139225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98629590"
+    },
+    {
+      "id": 203,
+      "wikidata_id": "Q2589027",
+      "name_de": "Wolfgang-Köhler-Primaten-Forschungszentrum",
+      "name_en": "Wolfgang-Köhler-Primaten-Forschungszentrum",
+      "latitude": 51.3532,
+      "longitude": 12.3656,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2589027"
+    },
+    {
+      "id": 204,
+      "wikidata_id": "Q220116",
+      "name_de": "Zoo am Meer",
+      "name_en": "Bremerhaven Zoo",
+      "latitude": 53.5447,
+      "longitude": 8.57028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220116"
+    },
+    {
+      "id": 205,
+      "wikidata_id": "Q105825209",
+      "name_de": "Zoo am Rammelsberg",
+      "name_en": "Zoo am Rammelsberg",
+      "latitude": 51.317365,
+      "longitude": 9.436964,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105825209"
+    },
+    {
+      "id": 206,
+      "wikidata_id": "Q28934505",
+      "name_de": "Zoo Arche Noah Grömitz",
+      "name_en": "",
+      "latitude": 54.153917,
+      "longitude": 10.960278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28934505"
+    },
+    {
+      "id": 207,
+      "wikidata_id": "Q219996",
+      "name_de": "Zoo Aschersleben",
+      "name_en": "Zoo Aschersleben",
+      "latitude": 51.7522,
+      "longitude": 11.4392,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q219996"
+    },
+    {
+      "id": 208,
+      "wikidata_id": "Q220004",
+      "name_de": "Zoo Augsburg",
+      "name_en": "Augsburg Zoo",
+      "latitude": 48.3478,
+      "longitude": 10.9144,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220004"
+    },
+    {
+      "id": 209,
+      "wikidata_id": "Q632524",
+      "name_de": "Zoo Braunschweig",
+      "name_en": "Arche Noah Zoo Braunschweig",
+      "latitude": 52.2219,
+      "longitude": 10.515,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q632524"
+    },
+    {
+      "id": 210,
+      "wikidata_id": "Q53584875",
+      "name_de": "Zoo der Minis",
+      "name_en": "Zoo der Minis",
+      "latitude": 50.582463,
+      "longitude": 12.711303,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q53584875"
+    },
+    {
+      "id": 211,
+      "wikidata_id": "Q220014",
+      "name_de": "Zoo Dortmund",
+      "name_en": "Zoo Dortmund",
+      "latitude": 51.4744,
+      "longitude": 7.47083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220014"
+    },
+    {
+      "id": 212,
+      "wikidata_id": "Q220024",
+      "name_de": "Zoo Dresden",
+      "name_en": "Dresden Zoo",
+      "latitude": 51.0369,
+      "longitude": 13.7539,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220024"
+    },
+    {
+      "id": 213,
+      "wikidata_id": "Q220029",
+      "name_de": "Zoo Duisburg",
+      "name_en": "Duisburg Zoo",
+      "latitude": 51.4353,
+      "longitude": 6.80528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220029"
+    },
+    {
+      "id": 214,
+      "wikidata_id": "Q220036",
+      "name_de": "Zoo Frankfurt",
+      "name_en": "Frankfurt Zoological Garden",
+      "latitude": 50.1156,
+      "longitude": 8.70314,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220036"
+    },
+    {
+      "id": 215,
+      "wikidata_id": "Q220035",
+      "name_de": "Zoo Heidelberg",
+      "name_en": "Heidelberg Zoo",
+      "latitude": 49.4153,
+      "longitude": 8.66083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220035"
+    },
+    {
+      "id": 216,
+      "wikidata_id": "Q220037",
+      "name_de": "Zoo Hoyerswerda",
+      "name_en": "Zoo Hoyerswerda",
+      "latitude": 51.4382,
+      "longitude": 14.2486,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220037"
+    },
+    {
+      "id": 217,
+      "wikidata_id": "Q220041",
+      "name_de": "Zoo Kaiserslautern",
+      "name_en": "Kaiserslautern Zoo",
+      "latitude": 49.4661,
+      "longitude": 7.68056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220041"
+    },
+    {
+      "id": 218,
+      "wikidata_id": "Q220051",
+      "name_de": "Zoo Landau in der Pfalz",
+      "name_en": "Zoo Landau",
+      "latitude": 49.2028,
+      "longitude": 8.11083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220051"
+    },
+    {
+      "id": 219,
+      "wikidata_id": "Q220055",
+      "name_de": "Zoo Leipzig",
+      "name_en": "Leipzig Zoological Garden",
+      "latitude": 51.34842,
+      "longitude": 12.3706,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220055"
+    },
+    {
+      "id": 220,
+      "wikidata_id": "Q220059",
+      "name_de": "Zoo Mainz",
+      "name_en": "Zoo Mainz",
+      "latitude": 50.006381,
+      "longitude": 8.203021,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220059"
+    },
+    {
+      "id": 221,
+      "wikidata_id": "Q220065",
+      "name_de": "Zoo Neuwied",
+      "name_en": "Zoo Neuwied",
+      "latitude": 50.4531,
+      "longitude": 7.5625,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220065"
+    },
+    {
+      "id": 222,
+      "wikidata_id": "Q220068",
+      "name_de": "Zoo Osnabrück",
+      "name_en": "Zoo Osnabrück",
+      "latitude": 52.25,
+      "longitude": 8.07028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220068"
+    },
+    {
+      "id": 223,
+      "wikidata_id": "Q220075",
+      "name_de": "Zoo Rostock",
+      "name_en": "Rostock Zoo",
+      "latitude": 54.0781,
+      "longitude": 12.0904,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220075"
+    },
+    {
+      "id": 224,
+      "wikidata_id": "Q98740653",
+      "name_de": "Zoo Schlichtweg 11 in München (D-1-62-000-6514#6)",
+      "name_en": "Zoo Schlichtweg 11 in München",
+      "latitude": 48.094394,
+      "longitude": 11.552164,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98740653"
+    },
+    {
+      "id": 225,
+      "wikidata_id": "Q220087",
+      "name_de": "Zoo Schwerin",
+      "name_en": "Zoo Schwerin",
+      "latitude": 53.605,
+      "longitude": 11.4431,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220087"
+    },
+    {
+      "id": 226,
+      "wikidata_id": "Q98740649",
+      "name_de": "Zoo Siebenbrunner Straße 6 in München (D-1-62-000-6514#2)",
+      "name_en": "Zoo Siebenbrunner Straße 6 in München",
+      "latitude": 48.098167,
+      "longitude": 11.557617,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98740649"
+    },
+    {
+      "id": 227,
+      "wikidata_id": "Q98740652",
+      "name_de": "Zoo Siebenbrunner Straße 6 in München (D-1-62-000-6514#5)",
+      "name_en": "Zoo Siebenbrunner Straße 6 in München",
+      "latitude": 48.097128,
+      "longitude": 11.556592,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98740652"
+    },
+    {
+      "id": 228,
+      "wikidata_id": "Q2432298",
+      "name_de": "Zoo Stralsund",
+      "name_en": "Zoo Stralsund",
+      "latitude": 54.317,
+      "longitude": 13.0503,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432298"
+    },
+    {
+      "id": 229,
+      "wikidata_id": "Q22675189",
+      "name_de": "Zoologischer Garten Benedikt",
+      "name_en": "",
+      "latitude": 48.154651,
+      "longitude": 11.58881,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22675189"
+    },
+    {
+      "id": 230,
+      "wikidata_id": "Q154828",
+      "name_de": "Zoologischer Garten Berlin",
+      "name_en": "Berlin Zoological Garden",
+      "latitude": 52.508333,
+      "longitude": 13.3375,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q154828"
+    },
+    {
+      "id": 231,
+      "wikidata_id": "Q220238",
+      "name_de": "Zoologischer Garten Düsseldorf",
+      "name_en": "Zoologischer Garten Düsseldorf",
+      "latitude": 51.241944,
+      "longitude": 6.805278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220238"
+    },
+    {
+      "id": 232,
+      "wikidata_id": "Q220243",
+      "name_de": "Zoologischer Garten Eberswalde",
+      "name_en": "Zoologischer Garten Eberswalde",
+      "latitude": 52.8222,
+      "longitude": 13.7822,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220243"
+    },
+    {
+      "id": 233,
+      "wikidata_id": "Q220245",
+      "name_de": "Zoologischer Garten Halle",
+      "name_en": "Zoologischer Garten Halle",
+      "latitude": 51.505278,
+      "longitude": 11.9625,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220245"
+    },
+    {
+      "id": 234,
+      "wikidata_id": "Q220255",
+      "name_de": "Zoologischer Garten Hof",
+      "name_en": "Zoologischer Garten Hof",
+      "latitude": 50.3308,
+      "longitude": 11.9247,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220255"
+    },
+    {
+      "id": 235,
+      "wikidata_id": "Q49237814",
+      "name_de": "Zoologischer Garten Leipzig",
+      "name_en": "",
+      "latitude": 51.349284,
+      "longitude": 12.372029,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49237814"
+    },
+    {
+      "id": 236,
+      "wikidata_id": "Q220258",
+      "name_de": "Zoologischer Garten Magdeburg",
+      "name_en": "Zoologischer Garten Magdeburg",
+      "latitude": 52.168056,
+      "longitude": 11.641111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220258"
+    },
+    {
+      "id": 237,
+      "wikidata_id": "Q220265",
+      "name_de": "Zoologischer Stadtgarten Karlsruhe",
+      "name_en": "Karlsruhe Zoo",
+      "latitude": 48.9978,
+      "longitude": 8.40167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220265"
+    },
+    {
+      "id": 238,
+      "wikidata_id": "Q136330",
+      "name_de": "Zoom Erlebniswelt Gelsenkirchen",
+      "name_en": "ZOOM Erlebniswelt",
+      "latitude": 51.5441,
+      "longitude": 7.11094,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136330"
+    },
+    {
+      "id": 239,
+      "wikidata_id": "Q15884236",
+      "name_de": "ZooPark Metelen",
+      "name_en": "ZooPark Metelen",
+      "latitude": 52.1512,
+      "longitude": 7.25319,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15884236"
+    }
+  ],
+  "meta": {
+    "title": "Zoos in Deutschland / Zoos in Germany - Kostenloser Download",
+    "description": "Zoos in Deutschland (Zoos in Germany). Geolocated points sourced from Wikidata (instance of Q43501), located in Germany (Q183), each with a coordinate (P625). Enthält 239 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Zoos in Deutschland / Zoos in Germany | ListBase",
+    "seo_description": "Herunterladen Zoos in Deutschland / Zoos in Germany — 239 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 239 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

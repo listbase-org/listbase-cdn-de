@@ -1,0 +1,6716 @@
+{
+  "id": "de-thueringen-postleitzahlen",
+  "name": "Postleitzahlen — Thüringen",
+  "title": "Postleitzahlen — Thüringen",
+  "description": "665 Postleitzahl-Ort-Kombinationen in Thüringen (ISO DE-TH). Mit Landkreis, AGS und OSM-ID.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 665,
+  "columns": [
+    {
+      "key": "plz",
+      "label": "Plz",
+      "type": "number"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "landkreis",
+      "label": "Landkreis",
+      "type": "string"
+    },
+    {
+      "key": "is_kreisfrei",
+      "label": "Is Kreisfrei",
+      "type": "boolean"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "ags",
+      "label": "Ags",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "plz": "04600",
+      "ort": "Altenburg",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077001",
+      "osm_id": "1263721"
+    },
+    {
+      "plz": "04603",
+      "ort": "Göhren",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077008",
+      "osm_id": "2778472"
+    },
+    {
+      "plz": "04603",
+      "ort": "Nobitz",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077036",
+      "osm_id": "2673575"
+    },
+    {
+      "plz": "04603",
+      "ort": "Windischleuba",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077052",
+      "osm_id": "2676109"
+    },
+    {
+      "plz": "04610",
+      "ort": "Meuselwitz",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077032",
+      "osm_id": "1263715"
+    },
+    {
+      "plz": "04613",
+      "ort": "Lucka",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077028",
+      "osm_id": "1263711"
+    },
+    {
+      "plz": "04617",
+      "ort": "Fockendorf",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077005",
+      "osm_id": "2714341"
+    },
+    {
+      "plz": "04617",
+      "ort": "Gerstenberg",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077007",
+      "osm_id": "2714342"
+    },
+    {
+      "plz": "04617",
+      "ort": "Haselbach",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077015",
+      "osm_id": "2714343"
+    },
+    {
+      "plz": "04617",
+      "ort": "Kriebitzsch",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077022",
+      "osm_id": "2778479"
+    },
+    {
+      "plz": "04617",
+      "ort": "Lödla",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077027",
+      "osm_id": "2778483"
+    },
+    {
+      "plz": "04617",
+      "ort": "Monstab",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077034",
+      "osm_id": "2778485"
+    },
+    {
+      "plz": "04617",
+      "ort": "Rositz",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077042",
+      "osm_id": "2778488"
+    },
+    {
+      "plz": "04617",
+      "ort": "Starkenberg",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077044",
+      "osm_id": "2778489"
+    },
+    {
+      "plz": "04617",
+      "ort": "Treben",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077048",
+      "osm_id": "2714344"
+    },
+    {
+      "plz": "04618",
+      "ort": "Göpfersdorf",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077011",
+      "osm_id": "2778474"
+    },
+    {
+      "plz": "04618",
+      "ort": "Langenleuba-Niederhain",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077023",
+      "osm_id": "2778480"
+    },
+    {
+      "plz": "04626",
+      "ort": "Dobitschen",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077003",
+      "osm_id": "2778469"
+    },
+    {
+      "plz": "04626",
+      "ort": "Göllnitz",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077009",
+      "osm_id": "2778473"
+    },
+    {
+      "plz": "04626",
+      "ort": "Heukewalde",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077016",
+      "osm_id": "2778475"
+    },
+    {
+      "plz": "04626",
+      "ort": "Heyersdorf",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077017",
+      "osm_id": "2778476"
+    },
+    {
+      "plz": "04626",
+      "ort": "Jonaswalde",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077018",
+      "osm_id": "2778477"
+    },
+    {
+      "plz": "04626",
+      "ort": "Löbichau",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077026",
+      "osm_id": "2778482"
+    },
+    {
+      "plz": "04626",
+      "ort": "Mehna",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077031",
+      "osm_id": "2778484"
+    },
+    {
+      "plz": "04626",
+      "ort": "Posterstein",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077041",
+      "osm_id": "2778487"
+    },
+    {
+      "plz": "04626",
+      "ort": "Schmölln",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077043",
+      "osm_id": "2527958"
+    },
+    {
+      "plz": "04626",
+      "ort": "Thonhausen",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077047",
+      "osm_id": "2778490"
+    },
+    {
+      "plz": "04626",
+      "ort": "Vollmershain",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077049",
+      "osm_id": "2778492"
+    },
+    {
+      "plz": "04639",
+      "ort": "Gößnitz",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077012",
+      "osm_id": "2449570"
+    },
+    {
+      "plz": "04639",
+      "ort": "Ponitz",
+      "landkreis": "Landkreis Altenburger Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16077039",
+      "osm_id": "2449512"
+    },
+    {
+      "plz": "06556",
+      "ort": "Artern",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065086",
+      "osm_id": "2387266"
+    },
+    {
+      "plz": "06556",
+      "ort": "Borxleben",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065008",
+      "osm_id": "2387422"
+    },
+    {
+      "plz": "06556",
+      "ort": "Kalbsrieth",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065042",
+      "osm_id": "2344341"
+    },
+    {
+      "plz": "06556",
+      "ort": "Mönchpfiffel-Nikolausrieth",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065046",
+      "osm_id": "2387351"
+    },
+    {
+      "plz": "06556",
+      "ort": "Reinsdorf",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065056",
+      "osm_id": "2387362"
+    },
+    {
+      "plz": "06567",
+      "ort": "Bad Frankenhausen/Kyffhäuser",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065003",
+      "osm_id": "2388467"
+    },
+    {
+      "plz": "06571",
+      "ort": "Gehofen",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065019",
+      "osm_id": "2362539"
+    },
+    {
+      "plz": "06571",
+      "ort": "Roßleben-Wiehe",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065087",
+      "osm_id": "9206520"
+    },
+    {
+      "plz": "06577",
+      "ort": "An der Schmücke",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065088",
+      "osm_id": "9205121"
+    },
+    {
+      "plz": "06577",
+      "ort": "Etzleben",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065016",
+      "osm_id": "2388429"
+    },
+    {
+      "plz": "06577",
+      "ort": "Oberheldrungen",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065052",
+      "osm_id": "2388434"
+    },
+    {
+      "plz": "07318",
+      "ort": "Saalfeld/Saale",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073077",
+      "osm_id": "1273359"
+    },
+    {
+      "plz": "07330",
+      "ort": "Probstzella",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073067",
+      "osm_id": "1273251"
+    },
+    {
+      "plz": "07333",
+      "ort": "Unterwellenborn",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073111",
+      "osm_id": "1273354"
+    },
+    {
+      "plz": "07338",
+      "ort": "Altenbeuthen",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073002",
+      "osm_id": "1273353"
+    },
+    {
+      "plz": "07338",
+      "ort": "Drognitz",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073107",
+      "osm_id": "1273362"
+    },
+    {
+      "plz": "07338",
+      "ort": "Hohenwarte",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073035",
+      "osm_id": "1273349"
+    },
+    {
+      "plz": "07338",
+      "ort": "Kaulsdorf",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073038",
+      "osm_id": "1273360"
+    },
+    {
+      "plz": "07338",
+      "ort": "Leutenberg",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073106",
+      "osm_id": "1273355"
+    },
+    {
+      "plz": "07343",
+      "ort": "Wurzbach",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075133",
+      "osm_id": "2179230"
+    },
+    {
+      "plz": "07349",
+      "ort": "Lehesten",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073046",
+      "osm_id": "1273252"
+    },
+    {
+      "plz": "07356",
+      "ort": "Bad Lobenstein",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075062",
+      "osm_id": "2179147"
+    },
+    {
+      "plz": "07366",
+      "ort": "Rosenthal am Rennsteig",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075136",
+      "osm_id": "2179144"
+    },
+    {
+      "plz": "07368",
+      "ort": "Remptendorf",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075134",
+      "osm_id": "2179211"
+    },
+    {
+      "plz": "07381",
+      "ort": "Bodelwitz",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075006",
+      "osm_id": "2179151"
+    },
+    {
+      "plz": "07381",
+      "ort": "Döbritz",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075016",
+      "osm_id": "2179159"
+    },
+    {
+      "plz": "07381",
+      "ort": "Langenorla",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075054",
+      "osm_id": "2179181"
+    },
+    {
+      "plz": "07381",
+      "ort": "Moxa",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075069",
+      "osm_id": "2179194"
+    },
+    {
+      "plz": "07381",
+      "ort": "Nimritz",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075074",
+      "osm_id": "2179199"
+    },
+    {
+      "plz": "07381",
+      "ort": "Oberoppurg",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075075",
+      "osm_id": "2179200"
+    },
+    {
+      "plz": "07381",
+      "ort": "Oppurg",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075077",
+      "osm_id": "2179202"
+    },
+    {
+      "plz": "07381",
+      "ort": "Paska",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075079",
+      "osm_id": "2179203"
+    },
+    {
+      "plz": "07381",
+      "ort": "Pößneck",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075085",
+      "osm_id": "2179208"
+    },
+    {
+      "plz": "07381",
+      "ort": "Solkwitz",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075105",
+      "osm_id": "2179220"
+    },
+    {
+      "plz": "07381",
+      "ort": "Wernburg",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075124",
+      "osm_id": "2179228"
+    },
+    {
+      "plz": "07387",
+      "ort": "Krölpa",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075129",
+      "osm_id": "2179175"
+    },
+    {
+      "plz": "07389",
+      "ort": "Gertewitz",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075031",
+      "osm_id": "2179163"
+    },
+    {
+      "plz": "07389",
+      "ort": "Grobengereuth",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075039",
+      "osm_id": "2179164"
+    },
+    {
+      "plz": "07389",
+      "ort": "Gössitz",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075035",
+      "osm_id": "2179167"
+    },
+    {
+      "plz": "07389",
+      "ort": "Keila",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075047",
+      "osm_id": "2179170"
+    },
+    {
+      "plz": "07389",
+      "ort": "Peuschen",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075081",
+      "osm_id": "2179204"
+    },
+    {
+      "plz": "07389",
+      "ort": "Quaschwitz",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075087",
+      "osm_id": "2179209"
+    },
+    {
+      "plz": "07389",
+      "ort": "Ranis",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075088",
+      "osm_id": "2179210"
+    },
+    {
+      "plz": "07389",
+      "ort": "Schmorda",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075101",
+      "osm_id": "2179217"
+    },
+    {
+      "plz": "07389",
+      "ort": "Seisla",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075103",
+      "osm_id": "2179219"
+    },
+    {
+      "plz": "07389",
+      "ort": "Wilhelmsdorf",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075125",
+      "osm_id": "2179229"
+    },
+    {
+      "plz": "07407",
+      "ort": "Rudolstadt",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073076",
+      "osm_id": "1273347"
+    },
+    {
+      "plz": "07407",
+      "ort": "Uhlstädt-Kirchhasel",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073109",
+      "osm_id": "1273351"
+    },
+    {
+      "plz": "07422",
+      "ort": "Bad Blankenburg",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073005",
+      "osm_id": "1273350"
+    },
+    {
+      "plz": "07426",
+      "ort": "Allendorf",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073001",
+      "osm_id": "1273287"
+    },
+    {
+      "plz": "07426",
+      "ort": "Bechstedt",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073006",
+      "osm_id": "1273278"
+    },
+    {
+      "plz": "07426",
+      "ort": "Königsee",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073112",
+      "osm_id": "2666083"
+    },
+    {
+      "plz": "07427",
+      "ort": "Schwarzburg",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073082",
+      "osm_id": "1273286"
+    },
+    {
+      "plz": "07429",
+      "ort": "Döschnitz",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073017",
+      "osm_id": "1273285"
+    },
+    {
+      "plz": "07429",
+      "ort": "Rohrbach",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073074",
+      "osm_id": "1273283"
+    },
+    {
+      "plz": "07429",
+      "ort": "Sitzendorf",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073084",
+      "osm_id": "1273292"
+    },
+    {
+      "plz": "07545",
+      "ort": "Gera",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16052000",
+      "osm_id": "62671"
+    },
+    {
+      "plz": "07546",
+      "ort": "Gera",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16052000",
+      "osm_id": "62671"
+    },
+    {
+      "plz": "07548",
+      "ort": "Gera",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16052000",
+      "osm_id": "62671"
+    },
+    {
+      "plz": "07549",
+      "ort": "Gera",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16052000",
+      "osm_id": "62671"
+    },
+    {
+      "plz": "07551",
+      "ort": "Gera",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16052000",
+      "osm_id": "62671"
+    },
+    {
+      "plz": "07552",
+      "ort": "Gera",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16052000",
+      "osm_id": "62671"
+    },
+    {
+      "plz": "07554",
+      "ort": "Bethenhausen",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076006",
+      "osm_id": "2532075"
+    },
+    {
+      "plz": "07554",
+      "ort": "Brahmenau",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076008",
+      "osm_id": "2532076"
+    },
+    {
+      "plz": "07554",
+      "ort": "Gera",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16052000",
+      "osm_id": "62671"
+    },
+    {
+      "plz": "07554",
+      "ort": "Hirschfeld",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076028",
+      "osm_id": "2532077"
+    },
+    {
+      "plz": "07554",
+      "ort": "Kauern",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076034",
+      "osm_id": "1277277"
+    },
+    {
+      "plz": "07554",
+      "ort": "Korbußen",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076036",
+      "osm_id": "2531760"
+    },
+    {
+      "plz": "07554",
+      "ort": "Pölzig",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076058",
+      "osm_id": "2532078"
+    },
+    {
+      "plz": "07554",
+      "ort": "Schwaara",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076067",
+      "osm_id": "2531761"
+    },
+    {
+      "plz": "07557",
+      "ort": "Crimla",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076014",
+      "osm_id": "2788808"
+    },
+    {
+      "plz": "07557",
+      "ort": "Gera",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16052000",
+      "osm_id": "62671"
+    },
+    {
+      "plz": "07557",
+      "ort": "Hundhaupten",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076033",
+      "osm_id": "2803564"
+    },
+    {
+      "plz": "07557",
+      "ort": "Zedlitz",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076086",
+      "osm_id": "2804640"
+    },
+    {
+      "plz": "07570",
+      "ort": "Endschütz",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076017",
+      "osm_id": "2506805"
+    },
+    {
+      "plz": "07570",
+      "ort": "Harth-Pöllnitz",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076088",
+      "osm_id": "2768455"
+    },
+    {
+      "plz": "07570",
+      "ort": "Teichwitz",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076074",
+      "osm_id": "2792898"
+    },
+    {
+      "plz": "07570",
+      "ort": "Weida",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076079",
+      "osm_id": "2779977"
+    },
+    {
+      "plz": "07570",
+      "ort": "Wünschendorf/Elster",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076084",
+      "osm_id": "2790944"
+    },
+    {
+      "plz": "07580",
+      "ort": "Braunichswalde",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076009",
+      "osm_id": "2789040"
+    },
+    {
+      "plz": "07580",
+      "ort": "Gauern",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076019",
+      "osm_id": "2789079"
+    },
+    {
+      "plz": "07580",
+      "ort": "Großenstein",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076023",
+      "osm_id": "2788943"
+    },
+    {
+      "plz": "07580",
+      "ort": "Hilbersdorf",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076027",
+      "osm_id": "2789090"
+    },
+    {
+      "plz": "07580",
+      "ort": "Linda b. Weida",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076043",
+      "osm_id": "2789093"
+    },
+    {
+      "plz": "07580",
+      "ort": "Paitzdorf",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076055",
+      "osm_id": "2789105"
+    },
+    {
+      "plz": "07580",
+      "ort": "Reichstädt",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076059",
+      "osm_id": "2531747"
+    },
+    {
+      "plz": "07580",
+      "ort": "Ronneburg",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076061",
+      "osm_id": "2789114"
+    },
+    {
+      "plz": "07580",
+      "ort": "Rückersdorf",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076062",
+      "osm_id": "2790440"
+    },
+    {
+      "plz": "07580",
+      "ort": "Seelingstädt",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076069",
+      "osm_id": "2790912"
+    },
+    {
+      "plz": "07586",
+      "ort": "Bad Köstritz",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076003",
+      "osm_id": "2501390"
+    },
+    {
+      "plz": "07586",
+      "ort": "Caaschwitz",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076012",
+      "osm_id": "2786726"
+    },
+    {
+      "plz": "07586",
+      "ort": "Kraftsdorf",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076089",
+      "osm_id": "2787179"
+    },
+    {
+      "plz": "07589",
+      "ort": "Bocka",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076007",
+      "osm_id": "2793131"
+    },
+    {
+      "plz": "07589",
+      "ort": "Lederhose",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076042",
+      "osm_id": "2477120"
+    },
+    {
+      "plz": "07589",
+      "ort": "Lindenkreuz",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076044",
+      "osm_id": "2804441"
+    },
+    {
+      "plz": "07589",
+      "ort": "Münchenbernsdorf",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076049",
+      "osm_id": "2804468"
+    },
+    {
+      "plz": "07589",
+      "ort": "Saara",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076064",
+      "osm_id": "2804575"
+    },
+    {
+      "plz": "07589",
+      "ort": "Schwarzbach",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076068",
+      "osm_id": "2804632"
+    },
+    {
+      "plz": "07607",
+      "ort": "Eisenberg",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074018",
+      "osm_id": "2778365"
+    },
+    {
+      "plz": "07607",
+      "ort": "Gösen",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074025",
+      "osm_id": "2778373"
+    },
+    {
+      "plz": "07607",
+      "ort": "Hainspitz",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074037",
+      "osm_id": "2778375"
+    },
+    {
+      "plz": "07613",
+      "ort": "Crossen an der Elster",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074012",
+      "osm_id": "2778362"
+    },
+    {
+      "plz": "07613",
+      "ort": "Hartmannsdorf",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074038",
+      "osm_id": "2778376"
+    },
+    {
+      "plz": "07613",
+      "ort": "Heideland",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074039",
+      "osm_id": "2778377"
+    },
+    {
+      "plz": "07613",
+      "ort": "Rauda",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074072",
+      "osm_id": "2778400"
+    },
+    {
+      "plz": "07613",
+      "ort": "Silbitz",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074092",
+      "osm_id": "2778415"
+    },
+    {
+      "plz": "07613",
+      "ort": "Walpernhain",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074106",
+      "osm_id": "2778447"
+    },
+    {
+      "plz": "07616",
+      "ort": "Bürgel",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074009",
+      "osm_id": "2778361"
+    },
+    {
+      "plz": "07616",
+      "ort": "Graitschen bei Bürgel",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074028",
+      "osm_id": "2778370"
+    },
+    {
+      "plz": "07616",
+      "ort": "Nausnitz",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074061",
+      "osm_id": "2778392"
+    },
+    {
+      "plz": "07616",
+      "ort": "Petersberg",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074067",
+      "osm_id": "2778396"
+    },
+    {
+      "plz": "07616",
+      "ort": "Poxdorf",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074068",
+      "osm_id": "2778397"
+    },
+    {
+      "plz": "07616",
+      "ort": "Rauschwitz",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074073",
+      "osm_id": "2778401"
+    },
+    {
+      "plz": "07616",
+      "ort": "Serba",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074091",
+      "osm_id": "2778412"
+    },
+    {
+      "plz": "07619",
+      "ort": "Mertendorf",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074055",
+      "osm_id": "2778387"
+    },
+    {
+      "plz": "07619",
+      "ort": "Schkölen",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074116",
+      "osm_id": "2778407"
+    },
+    {
+      "plz": "07629",
+      "ort": "Hermsdorf",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074041",
+      "osm_id": "2778378"
+    },
+    {
+      "plz": "07629",
+      "ort": "Reichenbach",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074075",
+      "osm_id": "2778403"
+    },
+    {
+      "plz": "07629",
+      "ort": "Schleifreisen",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074084",
+      "osm_id": "2778408"
+    },
+    {
+      "plz": "07629",
+      "ort": "St. Gangloff",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074093",
+      "osm_id": "2778417"
+    },
+    {
+      "plz": "07639",
+      "ort": "Bad Klosterlausnitz",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074003",
+      "osm_id": "2778356"
+    },
+    {
+      "plz": "07639",
+      "ort": "Tautenhain",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074098",
+      "osm_id": "2778429"
+    },
+    {
+      "plz": "07639",
+      "ort": "Weißenborn",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074109",
+      "osm_id": "2778453"
+    },
+    {
+      "plz": "07646",
+      "ort": "Albersdorf",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074001",
+      "osm_id": "2778355"
+    },
+    {
+      "plz": "07646",
+      "ort": "Bobeck",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074005",
+      "osm_id": "2778357"
+    },
+    {
+      "plz": "07646",
+      "ort": "Bremsnitz",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074007",
+      "osm_id": "2778359"
+    },
+    {
+      "plz": "07646",
+      "ort": "Eineborn",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074017",
+      "osm_id": "2778364"
+    },
+    {
+      "plz": "07646",
+      "ort": "Geisenhain",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074022",
+      "osm_id": "2778367"
+    },
+    {
+      "plz": "07646",
+      "ort": "Gneus",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074024",
+      "osm_id": "2778368"
+    },
+    {
+      "plz": "07646",
+      "ort": "Großbockedra",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074029",
+      "osm_id": "2778371"
+    },
+    {
+      "plz": "07646",
+      "ort": "Karlsdorf",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074045",
+      "osm_id": "2778380"
+    },
+    {
+      "plz": "07646",
+      "ort": "Kleinbockedra",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074046",
+      "osm_id": "2778381"
+    },
+    {
+      "plz": "07646",
+      "ort": "Kleinebersdorf",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074047",
+      "osm_id": "2778382"
+    },
+    {
+      "plz": "07646",
+      "ort": "Laasdorf",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074049",
+      "osm_id": "2778383"
+    },
+    {
+      "plz": "07646",
+      "ort": "Lippersdorf-Erdmannsdorf",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074053",
+      "osm_id": "2778385"
+    },
+    {
+      "plz": "07646",
+      "ort": "Meusebach",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074056",
+      "osm_id": "2778388"
+    },
+    {
+      "plz": "07646",
+      "ort": "Möckern",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074058",
+      "osm_id": "2778390"
+    },
+    {
+      "plz": "07646",
+      "ort": "Mörsdorf",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074059",
+      "osm_id": "2778391"
+    },
+    {
+      "plz": "07646",
+      "ort": "Oberbodnitz",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074064",
+      "osm_id": "2778394"
+    },
+    {
+      "plz": "07646",
+      "ort": "Ottendorf",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074066",
+      "osm_id": "2778395"
+    },
+    {
+      "plz": "07646",
+      "ort": "Rattelsdorf",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074071",
+      "osm_id": "2778399"
+    },
+    {
+      "plz": "07646",
+      "ort": "Rausdorf",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074074",
+      "osm_id": "2778402"
+    },
+    {
+      "plz": "07646",
+      "ort": "Renthendorf",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074077",
+      "osm_id": "2778404"
+    },
+    {
+      "plz": "07646",
+      "ort": "Ruttersdorf-Lotschen",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074081",
+      "osm_id": "2778405"
+    },
+    {
+      "plz": "07646",
+      "ort": "Scheiditz",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074082",
+      "osm_id": "2778406"
+    },
+    {
+      "plz": "07646",
+      "ort": "Schlöben",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074085",
+      "osm_id": "2778409"
+    },
+    {
+      "plz": "07646",
+      "ort": "Schöngleina",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074086",
+      "osm_id": "2778410"
+    },
+    {
+      "plz": "07646",
+      "ort": "Stadtroda",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074094",
+      "osm_id": "2778420"
+    },
+    {
+      "plz": "07646",
+      "ort": "Tautendorf",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074097",
+      "osm_id": "2778426"
+    },
+    {
+      "plz": "07646",
+      "ort": "Tissa",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074101",
+      "osm_id": "2778433"
+    },
+    {
+      "plz": "07646",
+      "ort": "Trockenborn-Wolfersdorf",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074102",
+      "osm_id": "2778434"
+    },
+    {
+      "plz": "07646",
+      "ort": "Tröbnitz",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074103",
+      "osm_id": "2778439"
+    },
+    {
+      "plz": "07646",
+      "ort": "Unterbodnitz",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074104",
+      "osm_id": "2778442"
+    },
+    {
+      "plz": "07646",
+      "ort": "Waldeck",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074105",
+      "osm_id": "2778444"
+    },
+    {
+      "plz": "07646",
+      "ort": "Waltersdorf",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074107",
+      "osm_id": "2778449"
+    },
+    {
+      "plz": "07646",
+      "ort": "Weißbach",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074108",
+      "osm_id": "2778452"
+    },
+    {
+      "plz": "07743",
+      "ort": "Jena",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16053000",
+      "osm_id": "62693"
+    },
+    {
+      "plz": "07745",
+      "ort": "Jena",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16053000",
+      "osm_id": "62693"
+    },
+    {
+      "plz": "07747",
+      "ort": "Jena",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16053000",
+      "osm_id": "62693"
+    },
+    {
+      "plz": "07749",
+      "ort": "Jena",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16053000",
+      "osm_id": "62693"
+    },
+    {
+      "plz": "07751",
+      "ort": "Bucha",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074008",
+      "osm_id": "2778360"
+    },
+    {
+      "plz": "07751",
+      "ort": "Golmsdorf",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074026",
+      "osm_id": "2778369"
+    },
+    {
+      "plz": "07751",
+      "ort": "Großlöbichau",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074032",
+      "osm_id": "2778372"
+    },
+    {
+      "plz": "07751",
+      "ort": "Großpürschütz",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074033",
+      "osm_id": "1275648"
+    },
+    {
+      "plz": "07751",
+      "ort": "Jena",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16053000",
+      "osm_id": "62693"
+    },
+    {
+      "plz": "07751",
+      "ort": "Jenalöbnitz",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074043",
+      "osm_id": "2778379"
+    },
+    {
+      "plz": "07751",
+      "ort": "Löberschütz",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074054",
+      "osm_id": "2778386"
+    },
+    {
+      "plz": "07751",
+      "ort": "Milda",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074057",
+      "osm_id": "2778389"
+    },
+    {
+      "plz": "07751",
+      "ort": "Rothenstein",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074079",
+      "osm_id": "2458465"
+    },
+    {
+      "plz": "07751",
+      "ort": "Sulza",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074095",
+      "osm_id": "2458466"
+    },
+    {
+      "plz": "07751",
+      "ort": "Zöllnitz",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074114",
+      "osm_id": "2778459"
+    },
+    {
+      "plz": "07768",
+      "ort": "Altenberga",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074002",
+      "osm_id": "2458400"
+    },
+    {
+      "plz": "07768",
+      "ort": "Bibra",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074004",
+      "osm_id": "2748747"
+    },
+    {
+      "plz": "07768",
+      "ort": "Eichenberg",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074016",
+      "osm_id": "2748748"
+    },
+    {
+      "plz": "07768",
+      "ort": "Freienorla",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074021",
+      "osm_id": "2456189"
+    },
+    {
+      "plz": "07768",
+      "ort": "Großeutersdorf",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074031",
+      "osm_id": "2458296"
+    },
+    {
+      "plz": "07768",
+      "ort": "Gumperda",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074034",
+      "osm_id": "2748749"
+    },
+    {
+      "plz": "07768",
+      "ort": "Hummelshain",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074042",
+      "osm_id": "2456290"
+    },
+    {
+      "plz": "07768",
+      "ort": "Kahla",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074044",
+      "osm_id": "2457258"
+    },
+    {
+      "plz": "07768",
+      "ort": "Kleineutersdorf",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074048",
+      "osm_id": "2748639"
+    },
+    {
+      "plz": "07768",
+      "ort": "Lindig",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074052",
+      "osm_id": "2456331"
+    },
+    {
+      "plz": "07768",
+      "ort": "Orlamünde",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074065",
+      "osm_id": "2456173"
+    },
+    {
+      "plz": "07768",
+      "ort": "Reinstädt",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074076",
+      "osm_id": "2462250"
+    },
+    {
+      "plz": "07768",
+      "ort": "Schöps",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074087",
+      "osm_id": "2778411"
+    },
+    {
+      "plz": "07768",
+      "ort": "Seitenroda",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074089",
+      "osm_id": "2457057"
+    },
+    {
+      "plz": "07774",
+      "ort": "Dornburg-Camburg",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074011",
+      "osm_id": "2778363"
+    },
+    {
+      "plz": "07774",
+      "ort": "Frauenprießnitz",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074019",
+      "osm_id": "2778366"
+    },
+    {
+      "plz": "07774",
+      "ort": "Thierschneck",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074099",
+      "osm_id": "2778431"
+    },
+    {
+      "plz": "07774",
+      "ort": "Wichmar",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074112",
+      "osm_id": "2778456"
+    },
+    {
+      "plz": "07778",
+      "ort": "Hainichen",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074036",
+      "osm_id": "2778374"
+    },
+    {
+      "plz": "07778",
+      "ort": "Lehesten",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074051",
+      "osm_id": "2778384"
+    },
+    {
+      "plz": "07778",
+      "ort": "Neuengönna",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074063",
+      "osm_id": "2778393"
+    },
+    {
+      "plz": "07778",
+      "ort": "Tautenburg",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074096",
+      "osm_id": "2778422"
+    },
+    {
+      "plz": "07778",
+      "ort": "Zimmern",
+      "landkreis": "Saale-Holzland-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16074113",
+      "osm_id": "2778458"
+    },
+    {
+      "plz": "07806",
+      "ort": "Kospoda",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075051",
+      "osm_id": "2179174"
+    },
+    {
+      "plz": "07806",
+      "ort": "Lausnitz",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075056",
+      "osm_id": "2179182"
+    },
+    {
+      "plz": "07806",
+      "ort": "Neustadt an der Orla",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075073",
+      "osm_id": "2179198"
+    },
+    {
+      "plz": "07806",
+      "ort": "Weira",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075121",
+      "osm_id": "2179227"
+    },
+    {
+      "plz": "07819",
+      "ort": "Dreitzsch",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075019",
+      "osm_id": "2179158"
+    },
+    {
+      "plz": "07819",
+      "ort": "Geroda",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075029",
+      "osm_id": "2179162"
+    },
+    {
+      "plz": "07819",
+      "ort": "Lemnitz",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075057",
+      "osm_id": "2179186"
+    },
+    {
+      "plz": "07819",
+      "ort": "Miesitz",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075065",
+      "osm_id": "2179192"
+    },
+    {
+      "plz": "07819",
+      "ort": "Mittelpöllnitz",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075066",
+      "osm_id": "2179193"
+    },
+    {
+      "plz": "07819",
+      "ort": "Rosendorf",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075093",
+      "osm_id": "2179212"
+    },
+    {
+      "plz": "07819",
+      "ort": "Schmieritz",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075099",
+      "osm_id": "2179216"
+    },
+    {
+      "plz": "07819",
+      "ort": "Triptis",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075116",
+      "osm_id": "2179224"
+    },
+    {
+      "plz": "07819",
+      "ort": "Tömmelsdorf",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075114",
+      "osm_id": "2179225"
+    },
+    {
+      "plz": "07907",
+      "ort": "Dittersdorf",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075014",
+      "osm_id": "2179156"
+    },
+    {
+      "plz": "07907",
+      "ort": "Görkwitz",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075033",
+      "osm_id": "2179165"
+    },
+    {
+      "plz": "07907",
+      "ort": "Göschitz",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075034",
+      "osm_id": "2179166"
+    },
+    {
+      "plz": "07907",
+      "ort": "Löhma",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075063",
+      "osm_id": "2179191"
+    },
+    {
+      "plz": "07907",
+      "ort": "Moßbach",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075068",
+      "osm_id": "2179195"
+    },
+    {
+      "plz": "07907",
+      "ort": "Oettersdorf",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075076",
+      "osm_id": "2179201"
+    },
+    {
+      "plz": "07907",
+      "ort": "Plothen",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075083",
+      "osm_id": "2179205"
+    },
+    {
+      "plz": "07907",
+      "ort": "Pörmitz",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075084",
+      "osm_id": "2179207"
+    },
+    {
+      "plz": "07907",
+      "ort": "Schleiz",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075098",
+      "osm_id": "2179215"
+    },
+    {
+      "plz": "07907",
+      "ort": "Tegau",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075109",
+      "osm_id": "2179223"
+    },
+    {
+      "plz": "07919",
+      "ort": "Kirschkau",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075048",
+      "osm_id": "2179171"
+    },
+    {
+      "plz": "07922",
+      "ort": "Tanna",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075132",
+      "osm_id": "2179222"
+    },
+    {
+      "plz": "07924",
+      "ort": "Eßbach",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075023",
+      "osm_id": "2179160"
+    },
+    {
+      "plz": "07924",
+      "ort": "Neundorf",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075072",
+      "osm_id": "2179197"
+    },
+    {
+      "plz": "07924",
+      "ort": "Schöndorf",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075102",
+      "osm_id": "2179218"
+    },
+    {
+      "plz": "07924",
+      "ort": "Volkmannsdorf",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075119",
+      "osm_id": "2179226"
+    },
+    {
+      "plz": "07924",
+      "ort": "Ziegenrück",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075127",
+      "osm_id": "2179231"
+    },
+    {
+      "plz": "07926",
+      "ort": "Gefell",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075131",
+      "osm_id": "2179161"
+    },
+    {
+      "plz": "07927",
+      "ort": "Hirschberg",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075046",
+      "osm_id": "2179169"
+    },
+    {
+      "plz": "07929",
+      "ort": "Saalburg-Ebersdorf",
+      "landkreis": "Saale-Orla-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16075135",
+      "osm_id": "2179213"
+    },
+    {
+      "plz": "07937",
+      "ort": "Langenwolschendorf",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076041",
+      "osm_id": "2779190"
+    },
+    {
+      "plz": "07937",
+      "ort": "Zeulenroda-Triebes",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076087",
+      "osm_id": "1329613"
+    },
+    {
+      "plz": "07950",
+      "ort": "Weißendorf",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076081",
+      "osm_id": "2779191"
+    },
+    {
+      "plz": "07950",
+      "ort": "Zeulenroda-Triebes",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076087",
+      "osm_id": "1329613"
+    },
+    {
+      "plz": "07955",
+      "ort": "Auma-Weidatal",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076092",
+      "osm_id": "2783122"
+    },
+    {
+      "plz": "07957",
+      "ort": "Langenwetzendorf",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076039",
+      "osm_id": "2787453"
+    },
+    {
+      "plz": "07958",
+      "ort": "Hohenleuben",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076029",
+      "osm_id": "1277211"
+    },
+    {
+      "plz": "07973",
+      "ort": "Greiz",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076022",
+      "osm_id": "1277199"
+    },
+    {
+      "plz": "07980",
+      "ort": "Berga/Elster",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076004",
+      "osm_id": "2786785"
+    },
+    {
+      "plz": "07980",
+      "ort": "Langenwetzendorf",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076039",
+      "osm_id": "2787453"
+    },
+    {
+      "plz": "07987",
+      "ort": "Mohlsdorf-Teichwolframsdorf",
+      "landkreis": "Landkreis Greiz",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16076093",
+      "osm_id": "1946738"
+    },
+    {
+      "plz": "36404",
+      "ort": "Oechsen",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063062",
+      "osm_id": "2889820"
+    },
+    {
+      "plz": "36404",
+      "ort": "Vacha",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063082",
+      "osm_id": "2889819"
+    },
+    {
+      "plz": "36414",
+      "ort": "Unterbreizbach",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063078",
+      "osm_id": "1268857"
+    },
+    {
+      "plz": "36419",
+      "ort": "Buttlar",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063011",
+      "osm_id": "2898841"
+    },
+    {
+      "plz": "36419",
+      "ort": "Geisa",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063032",
+      "osm_id": "2898842"
+    },
+    {
+      "plz": "36419",
+      "ort": "Gerstengrund",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063033",
+      "osm_id": "2890264"
+    },
+    {
+      "plz": "36419",
+      "ort": "Schleid",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063068",
+      "osm_id": "2898843"
+    },
+    {
+      "plz": "36433",
+      "ort": "Bad Salzungen",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063003",
+      "osm_id": "2874389"
+    },
+    {
+      "plz": "36433",
+      "ort": "Leimbach",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063051",
+      "osm_id": "2874390"
+    },
+    {
+      "plz": "36448",
+      "ort": "Bad Liebenstein",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063099",
+      "osm_id": "2498094"
+    },
+    {
+      "plz": "36452",
+      "ort": "Empfertshausen",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063023",
+      "osm_id": "2900132"
+    },
+    {
+      "plz": "36452",
+      "ort": "Kaltennordheim",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066095",
+      "osm_id": "2900086"
+    },
+    {
+      "plz": "36456",
+      "ort": "Barchfeld-Immelborn",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063004",
+      "osm_id": "2673508"
+    },
+    {
+      "plz": "36457",
+      "ort": "Weilar",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063084",
+      "osm_id": "2899768"
+    },
+    {
+      "plz": "36460",
+      "ort": "Krayenberggemeinde",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063101",
+      "osm_id": "3409926"
+    },
+    {
+      "plz": "36466",
+      "ort": "Dermbach",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063015",
+      "osm_id": "2889828"
+    },
+    {
+      "plz": "36466",
+      "ort": "Wiesenthal",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063086",
+      "osm_id": "2889829"
+    },
+    {
+      "plz": "36469",
+      "ort": "Bad Salzungen",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063003",
+      "osm_id": "2874389"
+    },
+    {
+      "plz": "37308",
+      "ort": "Bodenrode-Westhausen",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061012",
+      "osm_id": "2813790"
+    },
+    {
+      "plz": "37308",
+      "ort": "Geisleden",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061034",
+      "osm_id": "2396097"
+    },
+    {
+      "plz": "37308",
+      "ort": "Geismar",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061035",
+      "osm_id": "2813135"
+    },
+    {
+      "plz": "37308",
+      "ort": "Glasehausen",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061039",
+      "osm_id": "2395987"
+    },
+    {
+      "plz": "37308",
+      "ort": "Heilbad Heiligenstadt",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061045",
+      "osm_id": "2470262"
+    },
+    {
+      "plz": "37308",
+      "ort": "Heuthen",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061047",
+      "osm_id": "2395997"
+    },
+    {
+      "plz": "37308",
+      "ort": "Hohes Kreuz",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061049",
+      "osm_id": "2396003"
+    },
+    {
+      "plz": "37308",
+      "ort": "Kella",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061056",
+      "osm_id": "2813148"
+    },
+    {
+      "plz": "37308",
+      "ort": "Krombach",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061062",
+      "osm_id": "2813121"
+    },
+    {
+      "plz": "37308",
+      "ort": "Pfaffschwende",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061075",
+      "osm_id": "2813152"
+    },
+    {
+      "plz": "37308",
+      "ort": "Reinholterode",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061076",
+      "osm_id": "2813794"
+    },
+    {
+      "plz": "37308",
+      "ort": "Schimberg",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061113",
+      "osm_id": "2515178"
+    },
+    {
+      "plz": "37308",
+      "ort": "Sickerode",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061086",
+      "osm_id": "2813153"
+    },
+    {
+      "plz": "37308",
+      "ort": "Steinbach",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061089",
+      "osm_id": "2813805"
+    },
+    {
+      "plz": "37308",
+      "ort": "Volkerode",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061098",
+      "osm_id": "2813359"
+    },
+    {
+      "plz": "37308",
+      "ort": "Wiesenfeld",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061105",
+      "osm_id": "2813370"
+    },
+    {
+      "plz": "37318",
+      "ort": "Arenshausen",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061001",
+      "osm_id": "2395853"
+    },
+    {
+      "plz": "37318",
+      "ort": "Asbach-Sickenberg",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061002",
+      "osm_id": "2813820"
+    },
+    {
+      "plz": "37318",
+      "ort": "Birkenfelde",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061007",
+      "osm_id": "2396033"
+    },
+    {
+      "plz": "37318",
+      "ort": "Bornhagen",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061014",
+      "osm_id": "2395859"
+    },
+    {
+      "plz": "37318",
+      "ort": "Burgwalde",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061021",
+      "osm_id": "2395983"
+    },
+    {
+      "plz": "37318",
+      "ort": "Dieterode",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061023",
+      "osm_id": "2813130"
+    },
+    {
+      "plz": "37318",
+      "ort": "Dietzenrode/Vatterode",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061024",
+      "osm_id": "2814975"
+    },
+    {
+      "plz": "37318",
+      "ort": "Eichstruth",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061028",
+      "osm_id": "2396095"
+    },
+    {
+      "plz": "37318",
+      "ort": "Freienhagen",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061032",
+      "osm_id": "2395882"
+    },
+    {
+      "plz": "37318",
+      "ort": "Fretterode",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061033",
+      "osm_id": "2813425"
+    },
+    {
+      "plz": "37318",
+      "ort": "Gerbershausen",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061036",
+      "osm_id": "2395920"
+    },
+    {
+      "plz": "37318",
+      "ort": "Hohengandern",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061048",
+      "osm_id": "2395929"
+    },
+    {
+      "plz": "37318",
+      "ort": "Kirchgandern",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061057",
+      "osm_id": "2395924"
+    },
+    {
+      "plz": "37318",
+      "ort": "Lenterode",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061065",
+      "osm_id": "2396105"
+    },
+    {
+      "plz": "37318",
+      "ort": "Lindewerra",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061066",
+      "osm_id": "2395939"
+    },
+    {
+      "plz": "37318",
+      "ort": "Lutter",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061067",
+      "osm_id": "2396126"
+    },
+    {
+      "plz": "37318",
+      "ort": "Mackenrode",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061068",
+      "osm_id": "2396131"
+    },
+    {
+      "plz": "37318",
+      "ort": "Marth",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061069",
+      "osm_id": "2395942"
+    },
+    {
+      "plz": "37318",
+      "ort": "Rohrberg",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061078",
+      "osm_id": "2395940"
+    },
+    {
+      "plz": "37318",
+      "ort": "Rustenfelde",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061082",
+      "osm_id": "2395972"
+    },
+    {
+      "plz": "37318",
+      "ort": "Röhrig",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061077",
+      "osm_id": "2396156"
+    },
+    {
+      "plz": "37318",
+      "ort": "Schachtebich",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061083",
+      "osm_id": "2395976"
+    },
+    {
+      "plz": "37318",
+      "ort": "Schwobfeld",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061085",
+      "osm_id": "2815708"
+    },
+    {
+      "plz": "37318",
+      "ort": "Schönhagen",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061084",
+      "osm_id": "2396198"
+    },
+    {
+      "plz": "37318",
+      "ort": "Steinheuterode",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061091",
+      "osm_id": "2396184"
+    },
+    {
+      "plz": "37318",
+      "ort": "Thalwenden",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061096",
+      "osm_id": "2396265"
+    },
+    {
+      "plz": "37318",
+      "ort": "Uder",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061097",
+      "osm_id": "2815165"
+    },
+    {
+      "plz": "37318",
+      "ort": "Wahlhausen",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061102",
+      "osm_id": "2813779"
+    },
+    {
+      "plz": "37318",
+      "ort": "Wüstheuterode",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061111",
+      "osm_id": "2396283"
+    },
+    {
+      "plz": "37327",
+      "ort": "Leinefelde-Worbis",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061115",
+      "osm_id": "2393608"
+    },
+    {
+      "plz": "37327",
+      "ort": "Wingerode",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061107",
+      "osm_id": "2813813"
+    },
+    {
+      "plz": "37339",
+      "ort": "Berlingerode",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061003",
+      "osm_id": "2393736"
+    },
+    {
+      "plz": "37339",
+      "ort": "Brehme",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061015",
+      "osm_id": "2393742"
+    },
+    {
+      "plz": "37339",
+      "ort": "Breitenworbis",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061017",
+      "osm_id": "2395775"
+    },
+    {
+      "plz": "37339",
+      "ort": "Buhla",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061019",
+      "osm_id": "2395783"
+    },
+    {
+      "plz": "37339",
+      "ort": "Ecklingerode",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061026",
+      "osm_id": "2393747"
+    },
+    {
+      "plz": "37339",
+      "ort": "Ferna",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061031",
+      "osm_id": "2393748"
+    },
+    {
+      "plz": "37339",
+      "ort": "Gernrode",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061037",
+      "osm_id": "2395786"
+    },
+    {
+      "plz": "37339",
+      "ort": "Haynrode",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061044",
+      "osm_id": "2395854"
+    },
+    {
+      "plz": "37339",
+      "ort": "Kirchworbis",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061058",
+      "osm_id": "2294495"
+    },
+    {
+      "plz": "37339",
+      "ort": "Leinefelde-Worbis",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061115",
+      "osm_id": "2393608"
+    },
+    {
+      "plz": "37339",
+      "ort": "Tastungen",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061094",
+      "osm_id": "2395916"
+    },
+    {
+      "plz": "37339",
+      "ort": "Teistungen",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061114",
+      "osm_id": "2393877"
+    },
+    {
+      "plz": "37339",
+      "ort": "Wehnde",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061103",
+      "osm_id": "2393864"
+    },
+    {
+      "plz": "37345",
+      "ort": "Am Ohmberg",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061116",
+      "osm_id": "2799906"
+    },
+    {
+      "plz": "37345",
+      "ort": "Sonnenstein",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061117",
+      "osm_id": "2807326"
+    },
+    {
+      "plz": "37351",
+      "ort": "Dingelstädt",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061118",
+      "osm_id": "2394547"
+    },
+    {
+      "plz": "37355",
+      "ort": "Niederorschel",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061074",
+      "osm_id": "2813068"
+    },
+    {
+      "plz": "37359",
+      "ort": "Büttstedt",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061018",
+      "osm_id": "2515188"
+    },
+    {
+      "plz": "37359",
+      "ort": "Effelder",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061027",
+      "osm_id": "2515189"
+    },
+    {
+      "plz": "37359",
+      "ort": "Großbartloff",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061041",
+      "osm_id": "2400529"
+    },
+    {
+      "plz": "37359",
+      "ort": "Küllstedt",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061063",
+      "osm_id": "2515183"
+    },
+    {
+      "plz": "37359",
+      "ort": "Wachstedt",
+      "landkreis": "Landkreis Eichsfeld",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16061101",
+      "osm_id": "2400609"
+    },
+    {
+      "plz": "96515",
+      "ort": "Sonneberg",
+      "landkreis": "Landkreis Sonneberg",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16072018",
+      "osm_id": "1273177"
+    },
+    {
+      "plz": "96523",
+      "ort": "Steinach",
+      "landkreis": "Landkreis Sonneberg",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16072019",
+      "osm_id": "1273180"
+    },
+    {
+      "plz": "96524",
+      "ort": "Föritztal",
+      "landkreis": "Landkreis Sonneberg",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16072024",
+      "osm_id": "8439259"
+    },
+    {
+      "plz": "96528",
+      "ort": "Frankenblick",
+      "landkreis": "Landkreis Sonneberg",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16072023",
+      "osm_id": "1946809"
+    },
+    {
+      "plz": "96528",
+      "ort": "Schalkau",
+      "landkreis": "Landkreis Sonneberg",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16072015",
+      "osm_id": "1273181"
+    },
+    {
+      "plz": "98527",
+      "ort": "Suhl",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16054000",
+      "osm_id": "62450"
+    },
+    {
+      "plz": "98528",
+      "ort": "Suhl",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16054000",
+      "osm_id": "62450"
+    },
+    {
+      "plz": "98529",
+      "ort": "Suhl",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16054000",
+      "osm_id": "62450"
+    },
+    {
+      "plz": "98530",
+      "ort": "Dillstädt",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066016",
+      "osm_id": "2828139"
+    },
+    {
+      "plz": "98530",
+      "ort": "Grub",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069017",
+      "osm_id": "1273260"
+    },
+    {
+      "plz": "98530",
+      "ort": "Marisfeld",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069028",
+      "osm_id": "1273258"
+    },
+    {
+      "plz": "98530",
+      "ort": "Oberstadt",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069035",
+      "osm_id": "1273257"
+    },
+    {
+      "plz": "98530",
+      "ort": "Rohr",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066058",
+      "osm_id": "2828435"
+    },
+    {
+      "plz": "98530",
+      "ort": "Schmeheim",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069044",
+      "osm_id": "1273259"
+    },
+    {
+      "plz": "98544",
+      "ort": "Zella-Mehlis",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066092",
+      "osm_id": "1270652"
+    },
+    {
+      "plz": "98547",
+      "ort": "Christes",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066015",
+      "osm_id": "2828120"
+    },
+    {
+      "plz": "98547",
+      "ort": "Kühndorf",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066038",
+      "osm_id": "2828163"
+    },
+    {
+      "plz": "98547",
+      "ort": "Schwarza",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066065",
+      "osm_id": "2828445"
+    },
+    {
+      "plz": "98553",
+      "ort": "Ahlstädt",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069001",
+      "osm_id": "1273264"
+    },
+    {
+      "plz": "98553",
+      "ort": "Bischofrod",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069004",
+      "osm_id": "1273266"
+    },
+    {
+      "plz": "98553",
+      "ort": "Eichenberg",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069011",
+      "osm_id": "1273265"
+    },
+    {
+      "plz": "98553",
+      "ort": "Schleusingen",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069043",
+      "osm_id": "1266330"
+    },
+    {
+      "plz": "98559",
+      "ort": "Oberhof",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066047",
+      "osm_id": "1270650"
+    },
+    {
+      "plz": "98574",
+      "ort": "Schmalkalden",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066063",
+      "osm_id": "2849661"
+    },
+    {
+      "plz": "98587",
+      "ort": "Schmalkalden",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066063",
+      "osm_id": "2849661"
+    },
+    {
+      "plz": "98587",
+      "ort": "Steinbach-Hallenberg",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066069",
+      "osm_id": "2818530"
+    },
+    {
+      "plz": "98590",
+      "ort": "Rosa",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066059",
+      "osm_id": "2821145"
+    },
+    {
+      "plz": "98590",
+      "ort": "Roßdorf",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066061",
+      "osm_id": "2821159"
+    },
+    {
+      "plz": "98590",
+      "ort": "Schwallungen",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066064",
+      "osm_id": "2831169"
+    },
+    {
+      "plz": "98593",
+      "ort": "Floh-Seligenthal",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066023",
+      "osm_id": "1138608"
+    },
+    {
+      "plz": "98596",
+      "ort": "Brotterode-Trusetal",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066074",
+      "osm_id": "1138618"
+    },
+    {
+      "plz": "98597",
+      "ort": "Breitungen/Werra",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066013",
+      "osm_id": "2820059"
+    },
+    {
+      "plz": "98597",
+      "ort": "Fambach",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066022",
+      "osm_id": "2820964"
+    },
+    {
+      "plz": "98617",
+      "ort": "Belrieth",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066005",
+      "osm_id": "2826990"
+    },
+    {
+      "plz": "98617",
+      "ort": "Einhausen",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066017",
+      "osm_id": "2828157"
+    },
+    {
+      "plz": "98617",
+      "ort": "Ellingshausen",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066018",
+      "osm_id": "2247557"
+    },
+    {
+      "plz": "98617",
+      "ort": "Leutersdorf",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066039",
+      "osm_id": "2828181"
+    },
+    {
+      "plz": "98617",
+      "ort": "Meiningen",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066042",
+      "osm_id": "2247548"
+    },
+    {
+      "plz": "98617",
+      "ort": "Neubrunn",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066045",
+      "osm_id": "2828207"
+    },
+    {
+      "plz": "98617",
+      "ort": "Obermaßfeld-Grimmenthal",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066049",
+      "osm_id": "2247388"
+    },
+    {
+      "plz": "98617",
+      "ort": "Rhönblick",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066093",
+      "osm_id": "2247559"
+    },
+    {
+      "plz": "98617",
+      "ort": "Ritschenhausen",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066057",
+      "osm_id": "2828345"
+    },
+    {
+      "plz": "98617",
+      "ort": "Sülzfeld",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066073",
+      "osm_id": "2247389"
+    },
+    {
+      "plz": "98617",
+      "ort": "Untermaßfeld",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066076",
+      "osm_id": "2247390"
+    },
+    {
+      "plz": "98617",
+      "ort": "Utendorf",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066079",
+      "osm_id": "2828448"
+    },
+    {
+      "plz": "98617",
+      "ort": "Vachdorf",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066081",
+      "osm_id": "2828451"
+    },
+    {
+      "plz": "98630",
+      "ort": "Römhild",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069062",
+      "osm_id": "1271532"
+    },
+    {
+      "plz": "98631",
+      "ort": "Grabfeld",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066094",
+      "osm_id": "2539243"
+    },
+    {
+      "plz": "98634",
+      "ort": "Birx",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066012",
+      "osm_id": "2536212"
+    },
+    {
+      "plz": "98634",
+      "ort": "Erbenhausen",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066019",
+      "osm_id": "2536307"
+    },
+    {
+      "plz": "98634",
+      "ort": "Frankenheim/Rhön",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066024",
+      "osm_id": "2536214"
+    },
+    {
+      "plz": "98634",
+      "ort": "Friedelshausen",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066025",
+      "osm_id": "2831119"
+    },
+    {
+      "plz": "98634",
+      "ort": "Mehmels",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066041",
+      "osm_id": "2831133"
+    },
+    {
+      "plz": "98634",
+      "ort": "Oberweid",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066052",
+      "osm_id": "2536250"
+    },
+    {
+      "plz": "98634",
+      "ort": "Wasungen",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066086",
+      "osm_id": "2820020"
+    },
+    {
+      "plz": "98639",
+      "ort": "Rippershausen",
+      "landkreis": "Landkreis Schmalkalden-Meiningen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16066056",
+      "osm_id": "5335199"
+    },
+    {
+      "plz": "98646",
+      "ort": "Dingsleben",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069008",
+      "osm_id": "1270371"
+    },
+    {
+      "plz": "98646",
+      "ort": "Hildburghausen",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069024",
+      "osm_id": "1270364"
+    },
+    {
+      "plz": "98646",
+      "ort": "Reurieth",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069037",
+      "osm_id": "1270373"
+    },
+    {
+      "plz": "98646",
+      "ort": "Straufhain",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069049",
+      "osm_id": "1270362"
+    },
+    {
+      "plz": "98660",
+      "ort": "Beinerstadt",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069003",
+      "osm_id": "1270375"
+    },
+    {
+      "plz": "98660",
+      "ort": "Ehrenberg",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069009",
+      "osm_id": "1273305"
+    },
+    {
+      "plz": "98660",
+      "ort": "Grimmelshausen",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069016",
+      "osm_id": "1273313"
+    },
+    {
+      "plz": "98660",
+      "ort": "Henfstädt",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069021",
+      "osm_id": "1273304"
+    },
+    {
+      "plz": "98660",
+      "ort": "Kloster Veßra",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069025",
+      "osm_id": "1273306"
+    },
+    {
+      "plz": "98660",
+      "ort": "Lengfeld",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069026",
+      "osm_id": "1273307"
+    },
+    {
+      "plz": "98660",
+      "ort": "Sankt Bernhard",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069047",
+      "osm_id": "1270376"
+    },
+    {
+      "plz": "98660",
+      "ort": "Themar",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069051",
+      "osm_id": "1273308"
+    },
+    {
+      "plz": "98663",
+      "ort": "Heldburg",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069063",
+      "osm_id": "9246639"
+    },
+    {
+      "plz": "98663",
+      "ort": "Schlechtsart",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069041",
+      "osm_id": "1270323"
+    },
+    {
+      "plz": "98663",
+      "ort": "Schweickershausen",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069046",
+      "osm_id": "1270324"
+    },
+    {
+      "plz": "98663",
+      "ort": "Ummerstadt",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069052",
+      "osm_id": "1270322"
+    },
+    {
+      "plz": "98663",
+      "ort": "Westhausen",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069056",
+      "osm_id": "1270325"
+    },
+    {
+      "plz": "98666",
+      "ort": "Masserberg",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069061",
+      "osm_id": "1263901"
+    },
+    {
+      "plz": "98666",
+      "ort": "Schleusegrund",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069042",
+      "osm_id": "1263897"
+    },
+    {
+      "plz": "98667",
+      "ort": "Schleusegrund",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069042",
+      "osm_id": "1263897"
+    },
+    {
+      "plz": "98669",
+      "ort": "Veilsdorf",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069053",
+      "osm_id": "1263899"
+    },
+    {
+      "plz": "98673",
+      "ort": "Auengrund",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069058",
+      "osm_id": "1263898"
+    },
+    {
+      "plz": "98673",
+      "ort": "Brünn/Thür.",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069006",
+      "osm_id": "1263896"
+    },
+    {
+      "plz": "98673",
+      "ort": "Eisfeld",
+      "landkreis": "Landkreis Hildburghausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16069012",
+      "osm_id": "1266455"
+    },
+    {
+      "plz": "98693",
+      "ort": "Ilmenau",
+      "landkreis": "Ilm-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16070029",
+      "osm_id": "165440"
+    },
+    {
+      "plz": "98693",
+      "ort": "Martinroda",
+      "landkreis": "Ilm-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16070034",
+      "osm_id": "10519512"
+    },
+    {
+      "plz": "98694",
+      "ort": "Ilmenau",
+      "landkreis": "Ilm-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16070029",
+      "osm_id": "165440"
+    },
+    {
+      "plz": "98701",
+      "ort": "Großbreitenbach",
+      "landkreis": "Ilm-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16070058",
+      "osm_id": "2910698"
+    },
+    {
+      "plz": "98716",
+      "ort": "Elgersburg",
+      "landkreis": "Ilm-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16070011",
+      "osm_id": "165448"
+    },
+    {
+      "plz": "98724",
+      "ort": "Lauscha",
+      "landkreis": "Landkreis Sonneberg",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16072011",
+      "osm_id": "1273183"
+    },
+    {
+      "plz": "98724",
+      "ort": "Neuhaus am Rennweg",
+      "landkreis": "Landkreis Sonneberg",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16072013",
+      "osm_id": "1273176"
+    },
+    {
+      "plz": "98743",
+      "ort": "Gräfenthal",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073028",
+      "osm_id": "1273253"
+    },
+    {
+      "plz": "98744",
+      "ort": "Cursdorf",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073013",
+      "osm_id": "1273295"
+    },
+    {
+      "plz": "98744",
+      "ort": "Deesbach",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073014",
+      "osm_id": "1273294"
+    },
+    {
+      "plz": "98744",
+      "ort": "Meura",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073055",
+      "osm_id": "1273290"
+    },
+    {
+      "plz": "98744",
+      "ort": "Schwarzatal",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073113",
+      "osm_id": "9246636"
+    },
+    {
+      "plz": "98744",
+      "ort": "Unterweißbach",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073094",
+      "osm_id": "1273284"
+    },
+    {
+      "plz": "98746",
+      "ort": "Goldisthal",
+      "landkreis": "Landkreis Sonneberg",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16072006",
+      "osm_id": "1273182"
+    },
+    {
+      "plz": "98746",
+      "ort": "Katzhütte",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16073037",
+      "osm_id": "1273281"
+    },
+    {
+      "plz": "99084",
+      "ort": "Erfurt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16051000",
+      "osm_id": "62745"
+    },
+    {
+      "plz": "99085",
+      "ort": "Erfurt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16051000",
+      "osm_id": "62745"
+    },
+    {
+      "plz": "99086",
+      "ort": "Erfurt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16051000",
+      "osm_id": "62745"
+    },
+    {
+      "plz": "99087",
+      "ort": "Erfurt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16051000",
+      "osm_id": "62745"
+    },
+    {
+      "plz": "99089",
+      "ort": "Erfurt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16051000",
+      "osm_id": "62745"
+    },
+    {
+      "plz": "99090",
+      "ort": "Erfurt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16051000",
+      "osm_id": "62745"
+    },
+    {
+      "plz": "99091",
+      "ort": "Erfurt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16051000",
+      "osm_id": "62745"
+    },
+    {
+      "plz": "99092",
+      "ort": "Erfurt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16051000",
+      "osm_id": "62745"
+    },
+    {
+      "plz": "99094",
+      "ort": "Erfurt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16051000",
+      "osm_id": "62745"
+    },
+    {
+      "plz": "99095",
+      "ort": "Erfurt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16051000",
+      "osm_id": "62745"
+    },
+    {
+      "plz": "99096",
+      "ort": "Erfurt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16051000",
+      "osm_id": "62745"
+    },
+    {
+      "plz": "99097",
+      "ort": "Erfurt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16051000",
+      "osm_id": "62745"
+    },
+    {
+      "plz": "99098",
+      "ort": "Erfurt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16051000",
+      "osm_id": "62745"
+    },
+    {
+      "plz": "99099",
+      "ort": "Erfurt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16051000",
+      "osm_id": "62745"
+    },
+    {
+      "plz": "99100",
+      "ort": "Bienstädt",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067004",
+      "osm_id": "2818331"
+    },
+    {
+      "plz": "99100",
+      "ort": "Dachwig",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067009",
+      "osm_id": "2817222"
+    },
+    {
+      "plz": "99100",
+      "ort": "Döllstädt",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067011",
+      "osm_id": "2817225"
+    },
+    {
+      "plz": "99100",
+      "ort": "Gierstädt",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067026",
+      "osm_id": "2817249"
+    },
+    {
+      "plz": "99100",
+      "ort": "Großfahner",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067033",
+      "osm_id": "2817259"
+    },
+    {
+      "plz": "99100",
+      "ort": "Zimmernsupra",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067082",
+      "osm_id": "2818339"
+    },
+    {
+      "plz": "99102",
+      "ort": "Klettbach",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071043",
+      "osm_id": "2857003"
+    },
+    {
+      "plz": "99189",
+      "ort": "Andisleben",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068002",
+      "osm_id": "2411239"
+    },
+    {
+      "plz": "99189",
+      "ort": "Elxleben",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068009",
+      "osm_id": "2411240"
+    },
+    {
+      "plz": "99189",
+      "ort": "Gebesee",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068014",
+      "osm_id": "2411242"
+    },
+    {
+      "plz": "99189",
+      "ort": "Haßleben",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068025",
+      "osm_id": "2411243"
+    },
+    {
+      "plz": "99189",
+      "ort": "Ringleben",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068045",
+      "osm_id": "2411247"
+    },
+    {
+      "plz": "99189",
+      "ort": "Walschleben",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068057",
+      "osm_id": "2411250"
+    },
+    {
+      "plz": "99189",
+      "ort": "Witterda",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068061",
+      "osm_id": "2411252"
+    },
+    {
+      "plz": "99192",
+      "ort": "Nesse-Apfelstädt",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067087",
+      "osm_id": "2816450"
+    },
+    {
+      "plz": "99192",
+      "ort": "Nottleben",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067052",
+      "osm_id": "2818335"
+    },
+    {
+      "plz": "99195",
+      "ort": "Alperstedt",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068001",
+      "osm_id": "2411295"
+    },
+    {
+      "plz": "99195",
+      "ort": "Eckstedt",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068007",
+      "osm_id": "2411290"
+    },
+    {
+      "plz": "99195",
+      "ort": "Großrudestedt",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068021",
+      "osm_id": "2411296"
+    },
+    {
+      "plz": "99195",
+      "ort": "Markvippach",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068036",
+      "osm_id": "2411291"
+    },
+    {
+      "plz": "99195",
+      "ort": "Nöda",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068037",
+      "osm_id": "2411245"
+    },
+    {
+      "plz": "99195",
+      "ort": "Riethnordhausen",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068044",
+      "osm_id": "2411246"
+    },
+    {
+      "plz": "99195",
+      "ort": "Schloßvippach",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068048",
+      "osm_id": "2411292"
+    },
+    {
+      "plz": "99198",
+      "ort": "Großmölsen",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068017",
+      "osm_id": "2411316"
+    },
+    {
+      "plz": "99198",
+      "ort": "Kleinmölsen",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068032",
+      "osm_id": "2411317"
+    },
+    {
+      "plz": "99198",
+      "ort": "Ollendorf",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068039",
+      "osm_id": "2411318"
+    },
+    {
+      "plz": "99198",
+      "ort": "Udestedt",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068055",
+      "osm_id": "2411319"
+    },
+    {
+      "plz": "99310",
+      "ort": "Alkersleben",
+      "landkreis": "Ilm-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16070001",
+      "osm_id": "396563"
+    },
+    {
+      "plz": "99310",
+      "ort": "Arnstadt",
+      "landkreis": "Ilm-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16070004",
+      "osm_id": "393582"
+    },
+    {
+      "plz": "99310",
+      "ort": "Bösleben-Wüllersleben",
+      "landkreis": "Ilm-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16070006",
+      "osm_id": "1177205"
+    },
+    {
+      "plz": "99310",
+      "ort": "Dornheim",
+      "landkreis": "Ilm-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16070008",
+      "osm_id": "396564"
+    },
+    {
+      "plz": "99310",
+      "ort": "Osthausen-Wülfershausen",
+      "landkreis": "Ilm-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16070041",
+      "osm_id": "1177208"
+    },
+    {
+      "plz": "99310",
+      "ort": "Witzleben",
+      "landkreis": "Ilm-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16070054",
+      "osm_id": "1177206"
+    },
+    {
+      "plz": "99326",
+      "ort": "Stadtilm",
+      "landkreis": "Ilm-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16070048",
+      "osm_id": "1177164"
+    },
+    {
+      "plz": "99330",
+      "ort": "Geratal",
+      "landkreis": "Ilm-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16070057",
+      "osm_id": "2910723"
+    },
+    {
+      "plz": "99331",
+      "ort": "Geratal",
+      "landkreis": "Ilm-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16070057",
+      "osm_id": "2910723"
+    },
+    {
+      "plz": "99334",
+      "ort": "Amt Wachsenburg",
+      "landkreis": "Ilm-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16070028",
+      "osm_id": "2666038"
+    },
+    {
+      "plz": "99334",
+      "ort": "Elleben",
+      "landkreis": "Ilm-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16070012",
+      "osm_id": "1177207"
+    },
+    {
+      "plz": "99334",
+      "ort": "Elxleben",
+      "landkreis": "Ilm-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16070013",
+      "osm_id": "2075100"
+    },
+    {
+      "plz": "99338",
+      "ort": "Plaue",
+      "landkreis": "Ilm-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16070043",
+      "osm_id": "165451"
+    },
+    {
+      "plz": "99423",
+      "ort": "Weimar",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16055000",
+      "osm_id": "62493"
+    },
+    {
+      "plz": "99425",
+      "ort": "Weimar",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16055000",
+      "osm_id": "62493"
+    },
+    {
+      "plz": "99427",
+      "ort": "Weimar",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16055000",
+      "osm_id": "62493"
+    },
+    {
+      "plz": "99428",
+      "ort": "Grammetal",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071103",
+      "osm_id": "2915819"
+    },
+    {
+      "plz": "99428",
+      "ort": "Weimar",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16055000",
+      "osm_id": "62493"
+    },
+    {
+      "plz": "99438",
+      "ort": "Bad Berka",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071003",
+      "osm_id": "2856985"
+    },
+    {
+      "plz": "99438",
+      "ort": "Buchfart",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071009",
+      "osm_id": "2856989"
+    },
+    {
+      "plz": "99438",
+      "ort": "Hetschburg",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071031",
+      "osm_id": "2856996"
+    },
+    {
+      "plz": "99438",
+      "ort": "Oettern",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071071",
+      "osm_id": "2857013"
+    },
+    {
+      "plz": "99438",
+      "ort": "Tonndorf",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071087",
+      "osm_id": "2857018"
+    },
+    {
+      "plz": "99438",
+      "ort": "Vollersroda",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071093",
+      "osm_id": "2857021"
+    },
+    {
+      "plz": "99439",
+      "ort": "Am Ettersberg",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071102",
+      "osm_id": "9206494"
+    },
+    {
+      "plz": "99439",
+      "ort": "Ballstedt",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071005",
+      "osm_id": "2856986"
+    },
+    {
+      "plz": "99439",
+      "ort": "Ettersburg",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071017",
+      "osm_id": "2856992"
+    },
+    {
+      "plz": "99439",
+      "ort": "Neumark",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071061",
+      "osm_id": "2856454"
+    },
+    {
+      "plz": "99441",
+      "ort": "Döbritschen",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071013",
+      "osm_id": "2856991"
+    },
+    {
+      "plz": "99441",
+      "ort": "Frankendorf",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071019",
+      "osm_id": "2856993"
+    },
+    {
+      "plz": "99441",
+      "ort": "Großschwabhausen",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071025",
+      "osm_id": "2856994"
+    },
+    {
+      "plz": "99441",
+      "ort": "Hammerstedt",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071027",
+      "osm_id": "2856995"
+    },
+    {
+      "plz": "99441",
+      "ort": "Kiliansroda",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071038",
+      "osm_id": "2857001"
+    },
+    {
+      "plz": "99441",
+      "ort": "Kleinschwabhausen",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071042",
+      "osm_id": "2857002"
+    },
+    {
+      "plz": "99441",
+      "ort": "Lehnstedt",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071049",
+      "osm_id": "2857005"
+    },
+    {
+      "plz": "99441",
+      "ort": "Magdala",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071053",
+      "osm_id": "2857006"
+    },
+    {
+      "plz": "99441",
+      "ort": "Mechelroda",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071055",
+      "osm_id": "2857007"
+    },
+    {
+      "plz": "99441",
+      "ort": "Mellingen",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071056",
+      "osm_id": "2857008"
+    },
+    {
+      "plz": "99441",
+      "ort": "Umpferstedt",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071089",
+      "osm_id": "2857020"
+    },
+    {
+      "plz": "99444",
+      "ort": "Blankenhain",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071008",
+      "osm_id": "1272623"
+    },
+    {
+      "plz": "99448",
+      "ort": "Hohenfelden",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071032",
+      "osm_id": "2856997"
+    },
+    {
+      "plz": "99448",
+      "ort": "Kranichfeld",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071046",
+      "osm_id": "2857004"
+    },
+    {
+      "plz": "99448",
+      "ort": "Nauendorf",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071059",
+      "osm_id": "2857010"
+    },
+    {
+      "plz": "99448",
+      "ort": "Rittersdorf",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071079",
+      "osm_id": "2857016"
+    },
+    {
+      "plz": "99510",
+      "ort": "Apolda",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071001",
+      "osm_id": "2856439"
+    },
+    {
+      "plz": "99510",
+      "ort": "Ilmtal-Weinstraße",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071101",
+      "osm_id": "3410017"
+    },
+    {
+      "plz": "99510",
+      "ort": "Kapellendorf",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071037",
+      "osm_id": "2857000"
+    },
+    {
+      "plz": "99510",
+      "ort": "Obertrebra",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071069",
+      "osm_id": "2856460"
+    },
+    {
+      "plz": "99510",
+      "ort": "Wiegendorf",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071095",
+      "osm_id": "2857022"
+    },
+    {
+      "plz": "99518",
+      "ort": "Bad Sulza",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071004",
+      "osm_id": "2856440"
+    },
+    {
+      "plz": "99518",
+      "ort": "Eberstedt",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071015",
+      "osm_id": "2856442"
+    },
+    {
+      "plz": "99518",
+      "ort": "Großheringen",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071022",
+      "osm_id": "2856444"
+    },
+    {
+      "plz": "99518",
+      "ort": "Niedertrebra",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071064",
+      "osm_id": "2856457"
+    },
+    {
+      "plz": "99518",
+      "ort": "Schmiedehausen",
+      "landkreis": "Landkreis Weimarer Land",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16071083",
+      "osm_id": "2856467"
+    },
+    {
+      "plz": "99610",
+      "ort": "Sprötau",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068052",
+      "osm_id": "2411281"
+    },
+    {
+      "plz": "99610",
+      "ort": "Sömmerda",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068051",
+      "osm_id": "2410104"
+    },
+    {
+      "plz": "99610",
+      "ort": "Vogelsberg",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068056",
+      "osm_id": "2411282"
+    },
+    {
+      "plz": "99610",
+      "ort": "Wundersleben",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068062",
+      "osm_id": "2410106"
+    },
+    {
+      "plz": "99625",
+      "ort": "Großneuhausen",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068019",
+      "osm_id": "2410088"
+    },
+    {
+      "plz": "99625",
+      "ort": "Kleinneuhausen",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068033",
+      "osm_id": "2410095"
+    },
+    {
+      "plz": "99625",
+      "ort": "Kölleda",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068034",
+      "osm_id": "2410096"
+    },
+    {
+      "plz": "99625",
+      "ort": "Sömmerda",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068051",
+      "osm_id": "2410104"
+    },
+    {
+      "plz": "99628",
+      "ort": "Buttstädt",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068063",
+      "osm_id": "2410076"
+    },
+    {
+      "plz": "99631",
+      "ort": "Günstedt",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068022",
+      "osm_id": "2410090"
+    },
+    {
+      "plz": "99631",
+      "ort": "Weißensee",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068058",
+      "osm_id": "2410105"
+    },
+    {
+      "plz": "99634",
+      "ort": "Gangloffsömmern",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068013",
+      "osm_id": "2411241"
+    },
+    {
+      "plz": "99634",
+      "ort": "Schwerstedt",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068049",
+      "osm_id": "2411248"
+    },
+    {
+      "plz": "99634",
+      "ort": "Straußfurt",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068053",
+      "osm_id": "2411249"
+    },
+    {
+      "plz": "99634",
+      "ort": "Werningshausen",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068059",
+      "osm_id": "2411251"
+    },
+    {
+      "plz": "99636",
+      "ort": "Ostramondra",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068041",
+      "osm_id": "2410099"
+    },
+    {
+      "plz": "99636",
+      "ort": "Rastenberg",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068042",
+      "osm_id": "2410100"
+    },
+    {
+      "plz": "99638",
+      "ort": "Büchel",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068005",
+      "osm_id": "2410081"
+    },
+    {
+      "plz": "99638",
+      "ort": "Griefstedt",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068015",
+      "osm_id": "2410085"
+    },
+    {
+      "plz": "99638",
+      "ort": "Kindelbrück",
+      "landkreis": "Landkreis Sömmerda",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16068064",
+      "osm_id": "9206415"
+    },
+    {
+      "plz": "99706",
+      "ort": "Sondershausen",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065067",
+      "osm_id": "2389105"
+    },
+    {
+      "plz": "99707",
+      "ort": "Kyffhäuserland",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065085",
+      "osm_id": "2388706"
+    },
+    {
+      "plz": "99713",
+      "ort": "Abtsbessingen",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065001",
+      "osm_id": "2389084"
+    },
+    {
+      "plz": "99713",
+      "ort": "Bellstedt",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065005",
+      "osm_id": "2389085"
+    },
+    {
+      "plz": "99713",
+      "ort": "Ebeleben",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065014",
+      "osm_id": "2389086"
+    },
+    {
+      "plz": "99713",
+      "ort": "Freienbessingen",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065018",
+      "osm_id": "2389087"
+    },
+    {
+      "plz": "99713",
+      "ort": "Helbedündorf",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065032",
+      "osm_id": "2389104"
+    },
+    {
+      "plz": "99713",
+      "ort": "Holzsußra",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065038",
+      "osm_id": "2389088"
+    },
+    {
+      "plz": "99713",
+      "ort": "Rockstedt",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065058",
+      "osm_id": "2389089"
+    },
+    {
+      "plz": "99718",
+      "ort": "Clingen",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065012",
+      "osm_id": "2388859"
+    },
+    {
+      "plz": "99718",
+      "ort": "Greußen",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065089",
+      "osm_id": "2778496"
+    },
+    {
+      "plz": "99718",
+      "ort": "Niederbösa",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065048",
+      "osm_id": "2388837"
+    },
+    {
+      "plz": "99718",
+      "ort": "Oberbösa",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065051",
+      "osm_id": "2388710"
+    },
+    {
+      "plz": "99718",
+      "ort": "Topfstedt",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065074",
+      "osm_id": "2388861"
+    },
+    {
+      "plz": "99718",
+      "ort": "Trebra",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065075",
+      "osm_id": "2388838"
+    },
+    {
+      "plz": "99718",
+      "ort": "Wasserthaleben",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065077",
+      "osm_id": "2388888"
+    },
+    {
+      "plz": "99718",
+      "ort": "Westgreußen",
+      "landkreis": "Kyffhäuserkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16065079",
+      "osm_id": "2388862"
+    },
+    {
+      "plz": "99734",
+      "ort": "Nordhausen",
+      "landkreis": "Landkreis Nordhausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16062041",
+      "osm_id": "2400430"
+    },
+    {
+      "plz": "99735",
+      "ort": "Kleinfurra",
+      "landkreis": "Landkreis Nordhausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16062026",
+      "osm_id": "2400497"
+    },
+    {
+      "plz": "99735",
+      "ort": "Werther",
+      "landkreis": "Landkreis Nordhausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16062063",
+      "osm_id": "2400553"
+    },
+    {
+      "plz": "99752",
+      "ort": "Bleicherode",
+      "landkreis": "Landkreis Nordhausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16062066",
+      "osm_id": "2400611"
+    },
+    {
+      "plz": "99752",
+      "ort": "Kehmstedt",
+      "landkreis": "Landkreis Nordhausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16062024",
+      "osm_id": "2400595"
+    },
+    {
+      "plz": "99752",
+      "ort": "Lipprechterode",
+      "landkreis": "Landkreis Nordhausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16062033",
+      "osm_id": "2400598"
+    },
+    {
+      "plz": "99755",
+      "ort": "Ellrich",
+      "landkreis": "Landkreis Nordhausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16062005",
+      "osm_id": "2400373"
+    },
+    {
+      "plz": "99755",
+      "ort": "Hohenstein",
+      "landkreis": "Landkreis Nordhausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16062062",
+      "osm_id": "2400552"
+    },
+    {
+      "plz": "99759",
+      "ort": "Großlohra",
+      "landkreis": "Landkreis Nordhausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16062009",
+      "osm_id": "2400517"
+    },
+    {
+      "plz": "99759",
+      "ort": "Niedergebra",
+      "landkreis": "Landkreis Nordhausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16062037",
+      "osm_id": "2400612"
+    },
+    {
+      "plz": "99759",
+      "ort": "Sollstedt",
+      "landkreis": "Landkreis Nordhausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16062049",
+      "osm_id": "2400613"
+    },
+    {
+      "plz": "99765",
+      "ort": "Görsbach",
+      "landkreis": "Landkreis Nordhausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16062008",
+      "osm_id": "2399484"
+    },
+    {
+      "plz": "99765",
+      "ort": "Heringen/Helme",
+      "landkreis": "Landkreis Nordhausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16062064",
+      "osm_id": "2399485"
+    },
+    {
+      "plz": "99765",
+      "ort": "Urbach",
+      "landkreis": "Landkreis Nordhausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16062054",
+      "osm_id": "2399486"
+    },
+    {
+      "plz": "99768",
+      "ort": "Harztor",
+      "landkreis": "Landkreis Nordhausen",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16062065",
+      "osm_id": "2400323"
+    },
+    {
+      "plz": "99817",
+      "ort": "Eisenach",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063105",
+      "osm_id": "62370"
+    },
+    {
+      "plz": "99819",
+      "ort": "Krauthausen",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063046",
+      "osm_id": "1268971"
+    },
+    {
+      "plz": "99820",
+      "ort": "Hörselberg-Hainich",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063098",
+      "osm_id": "1268949"
+    },
+    {
+      "plz": "99826",
+      "ort": "Berka vor dem Hainich",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063006",
+      "osm_id": "2899666"
+    },
+    {
+      "plz": "99826",
+      "ort": "Bischofroda",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063008",
+      "osm_id": "2899667"
+    },
+    {
+      "plz": "99826",
+      "ort": "Frankenroda",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063028",
+      "osm_id": "2900653"
+    },
+    {
+      "plz": "99826",
+      "ort": "Hallungen",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063037",
+      "osm_id": "2899675"
+    },
+    {
+      "plz": "99826",
+      "ort": "Lauterbach",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063049",
+      "osm_id": "2899668"
+    },
+    {
+      "plz": "99826",
+      "ort": "Nazza",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063058",
+      "osm_id": "2899676"
+    },
+    {
+      "plz": "99830",
+      "ort": "Treffurt",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063076",
+      "osm_id": "1268968"
+    },
+    {
+      "plz": "99831",
+      "ort": "Amt Creuzburg",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063104",
+      "osm_id": "10519401"
+    },
+    {
+      "plz": "99834",
+      "ort": "Gerstungen",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063097",
+      "osm_id": "2885197"
+    },
+    {
+      "plz": "99837",
+      "ort": "Werra-Suhl-Tal",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063103",
+      "osm_id": "1268881"
+    },
+    {
+      "plz": "99842",
+      "ort": "Ruhla",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063066",
+      "osm_id": "1268940"
+    },
+    {
+      "plz": "99846",
+      "ort": "Seebach",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063071",
+      "osm_id": "1268935"
+    },
+    {
+      "plz": "99848",
+      "ort": "Wutha-Farnroda",
+      "landkreis": "Wartburgkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16063092",
+      "osm_id": "1268933"
+    },
+    {
+      "plz": "99867",
+      "ort": "Gotha",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067029",
+      "osm_id": "2818690"
+    },
+    {
+      "plz": "99869",
+      "ort": "Drei Gleichen",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067089",
+      "osm_id": "2802226"
+    },
+    {
+      "plz": "99869",
+      "ort": "Emleben",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067013",
+      "osm_id": "2816612"
+    },
+    {
+      "plz": "99869",
+      "ort": "Eschenbergen",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067016",
+      "osm_id": "2818332"
+    },
+    {
+      "plz": "99869",
+      "ort": "Friemar",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067022",
+      "osm_id": "2818333"
+    },
+    {
+      "plz": "99869",
+      "ort": "Hörsel",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067088",
+      "osm_id": "2806093"
+    },
+    {
+      "plz": "99869",
+      "ort": "Molschleben",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067047",
+      "osm_id": "2818334"
+    },
+    {
+      "plz": "99869",
+      "ort": "Nessetal",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067091",
+      "osm_id": "9251482"
+    },
+    {
+      "plz": "99869",
+      "ort": "Pferdingsleben",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067055",
+      "osm_id": "2818336"
+    },
+    {
+      "plz": "99869",
+      "ort": "Schwabhausen",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067059",
+      "osm_id": "2802321"
+    },
+    {
+      "plz": "99869",
+      "ort": "Sonneborn",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067063",
+      "osm_id": "2818248"
+    },
+    {
+      "plz": "99869",
+      "ort": "Tröchtelborn",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067068",
+      "osm_id": "2818337"
+    },
+    {
+      "plz": "99869",
+      "ort": "Tüttleben",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067071",
+      "osm_id": "2818338"
+    },
+    {
+      "plz": "99880",
+      "ort": "Hörsel",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067088",
+      "osm_id": "2806093"
+    },
+    {
+      "plz": "99880",
+      "ort": "Waltershausen",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067072",
+      "osm_id": "2801707"
+    },
+    {
+      "plz": "99885",
+      "ort": "Luisenthal",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067044",
+      "osm_id": "2800645"
+    },
+    {
+      "plz": "99885",
+      "ort": "Ohrdruf",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067053",
+      "osm_id": "2800320"
+    },
+    {
+      "plz": "99887",
+      "ort": "Georgenthal",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067092",
+      "osm_id": "10517210"
+    },
+    {
+      "plz": "99887",
+      "ort": "Herrenhof",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067036",
+      "osm_id": "2816717"
+    },
+    {
+      "plz": "99891",
+      "ort": "Bad Tabarz",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067064",
+      "osm_id": "2816590"
+    },
+    {
+      "plz": "99894",
+      "ort": "Friedrichroda",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067019",
+      "osm_id": "2800107"
+    },
+    {
+      "plz": "99897",
+      "ort": "Tambach-Dietharz",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067065",
+      "osm_id": "2801687"
+    },
+    {
+      "plz": "99947",
+      "ort": "Bad Langensalza",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064003",
+      "osm_id": "2874751"
+    },
+    {
+      "plz": "99947",
+      "ort": "Kirchheilingen",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064033",
+      "osm_id": "2903165"
+    },
+    {
+      "plz": "99947",
+      "ort": "Schönstedt",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064058",
+      "osm_id": "2900115"
+    },
+    {
+      "plz": "99947",
+      "ort": "Sundhausen",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064061",
+      "osm_id": "2903169"
+    },
+    {
+      "plz": "99947",
+      "ort": "Tottleben",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064062",
+      "osm_id": "2903170"
+    },
+    {
+      "plz": "99955",
+      "ort": "Bad Tennstedt",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064004",
+      "osm_id": "2895776"
+    },
+    {
+      "plz": "99955",
+      "ort": "Ballhausen",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064005",
+      "osm_id": "2902811"
+    },
+    {
+      "plz": "99955",
+      "ort": "Blankenburg",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064007",
+      "osm_id": "2903159"
+    },
+    {
+      "plz": "99955",
+      "ort": "Bruchstedt",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064009",
+      "osm_id": "2903160"
+    },
+    {
+      "plz": "99955",
+      "ort": "Haussömmern",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064021",
+      "osm_id": "2903161"
+    },
+    {
+      "plz": "99955",
+      "ort": "Herbsleben",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064022",
+      "osm_id": "2895792"
+    },
+    {
+      "plz": "99955",
+      "ort": "Hornsömmern",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064027",
+      "osm_id": "2903162"
+    },
+    {
+      "plz": "99955",
+      "ort": "Kutzleben",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064038",
+      "osm_id": "2903166"
+    },
+    {
+      "plz": "99955",
+      "ort": "Mittelsömmern",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064045",
+      "osm_id": "2903167"
+    },
+    {
+      "plz": "99955",
+      "ort": "Urleben",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064064",
+      "osm_id": "2903171"
+    },
+    {
+      "plz": "99958",
+      "ort": "Großvargula",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064019",
+      "osm_id": "1267902"
+    },
+    {
+      "plz": "99958",
+      "ort": "Tonna",
+      "landkreis": "Landkreis Gotha",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16067067",
+      "osm_id": "2817260"
+    },
+    {
+      "plz": "99974",
+      "ort": "Mühlhausen",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064046",
+      "osm_id": "2895773"
+    },
+    {
+      "plz": "99976",
+      "ort": "Rodeberg",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064055",
+      "osm_id": "2902867"
+    },
+    {
+      "plz": "99976",
+      "ort": "Südeichsfeld",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064074",
+      "osm_id": "2902868"
+    },
+    {
+      "plz": "99986",
+      "ort": "Kammerforst",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064032",
+      "osm_id": "2903164"
+    },
+    {
+      "plz": "99986",
+      "ort": "Oppershausen",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064053",
+      "osm_id": "2902598"
+    },
+    {
+      "plz": "99986",
+      "ort": "Vogtei",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064075",
+      "osm_id": "2902654"
+    },
+    {
+      "plz": "99988",
+      "ort": "Südeichsfeld",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064074",
+      "osm_id": "2902868"
+    },
+    {
+      "plz": "99991",
+      "ort": "Unstrut-Hainich",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064076",
+      "osm_id": "9251594"
+    },
+    {
+      "plz": "99994",
+      "ort": "Marolterode",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064043",
+      "osm_id": "2902825"
+    },
+    {
+      "plz": "99994",
+      "ort": "Nottertal-Heilinger Höhen",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064077",
+      "osm_id": "10519435"
+    },
+    {
+      "plz": "99996",
+      "ort": "Unstruttal",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064071",
+      "osm_id": "2896624"
+    },
+    {
+      "plz": "99998",
+      "ort": "Körner",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064037",
+      "osm_id": "1267867"
+    },
+    {
+      "plz": "99998",
+      "ort": "Mühlhausen",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "ags": "16064046",
+      "osm_id": "2895773"
+    }
+  ],
+  "meta": {
+    "title": "Postleitzahlen — Thüringen - Kostenloser Download",
+    "description": "665 Postleitzahl-Ort-Kombinationen in Thüringen (ISO DE-TH). Mit Landkreis, AGS und OSM-ID. Enthält 665 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Postleitzahlen — Thüringen | ListBase",
+    "seo_description": "Herunterladen Postleitzahlen — Thüringen — 665 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 665 Datensätze / 8 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

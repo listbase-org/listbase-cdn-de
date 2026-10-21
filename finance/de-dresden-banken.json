@@ -1,0 +1,205 @@
+{
+  "id": "de-dresden-banken",
+  "name": "Banken in Dresden — SWIFT/BIC-Codes",
+  "title": "Banken in Dresden — SWIFT/BIC-Codes",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Dresden, Germany. Subset of de-banken.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 204,
+      "bank": "BANK FUER SOZIALWIRTSCHAFT AG",
+      "city": "DRESDEN",
+      "branch": "",
+      "swift_code": "BFSWDE33DRE"
+    },
+    {
+      "id": 765,
+      "bank": "COMMERZBANK AG",
+      "city": "DRESDEN",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF104"
+    },
+    {
+      "id": 766,
+      "bank": "COMMERZBANK AG",
+      "city": "DRESDEN",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF105"
+    },
+    {
+      "id": 767,
+      "bank": "COMMERZBANK AG",
+      "city": "DRESDEN",
+      "branch": "",
+      "swift_code": "COBADEFF850"
+    },
+    {
+      "id": 1398,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DRESDEN",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK)",
+      "swift_code": "DRESDEFFI15"
+    },
+    {
+      "id": 1399,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DRESDEN",
+      "branch": "(PCC DCC-ITGK 1)",
+      "swift_code": "DRESDEFFJ29"
+    },
+    {
+      "id": 1400,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DRESDEN",
+      "branch": "(PCC DCC-ITGK 2)",
+      "swift_code": "DRESDEFFJ30"
+    },
+    {
+      "id": 1401,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DRESDEN",
+      "branch": "",
+      "swift_code": "DRESDEFF850"
+    },
+    {
+      "id": 1999,
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "DRESDEN",
+      "branch": "",
+      "swift_code": "DAAEDED1043"
+    },
+    {
+      "id": 2204,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "DRESDEN",
+      "branch": "",
+      "swift_code": "DEUTDE8C870"
+    },
+    {
+      "id": 3065,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "DRESDEN",
+      "branch": "",
+      "swift_code": "DEUTDEDB870"
+    },
+    {
+      "id": 3653,
+      "bank": "DEUTSCHE BUNDESBANK",
+      "city": "DRESDEN",
+      "branch": "",
+      "swift_code": "MARKDEF1850"
+    },
+    {
+      "id": 3686,
+      "bank": "DEUTSCHE BUNDESBANK EH BAUTZEN",
+      "city": "DRESDEN",
+      "branch": "",
+      "swift_code": "MARKDEF1855"
+    },
+    {
+      "id": 4119,
+      "bank": "FREISTAAT SACHSEN STAATSSCHULDENVERWALTUNG",
+      "city": "DRESDEN",
+      "branch": "",
+      "swift_code": "FRSHDE81"
+    },
+    {
+      "id": 4580,
+      "bank": "LIGA BANK EG",
+      "city": "DRESDEN",
+      "branch": "",
+      "swift_code": "GENODEF1M5X"
+    },
+    {
+      "id": 4846,
+      "bank": "OSTSACHSISCHE SPARKASSE DRESDEN",
+      "city": "DRESDEN",
+      "branch": "",
+      "swift_code": "OSDDDE81"
+    },
+    {
+      "id": 5707,
+      "bank": "SACHSEN BANK (TRADING AS LANDESBANK BADEN-WUERTTEMBERG)",
+      "city": "DRESDEN",
+      "branch": "",
+      "swift_code": "SOLADEST850"
+    },
+    {
+      "id": 5711,
+      "bank": "SACHSISCHE AUFBAUBANK - FOERDERBANK",
+      "city": "DRESDEN",
+      "branch": "",
+      "swift_code": "SABDDE81"
+    },
+    {
+      "id": 5712,
+      "bank": "SAECHSISCHE AUFBAUBANK FOERDERBANK",
+      "city": "DRESDEN",
+      "branch": "",
+      "swift_code": "SABDDE88"
+    },
+    {
+      "id": 5764,
+      "bank": "SEB AG",
+      "city": "DRESDEN",
+      "branch": "",
+      "swift_code": "ESSEDE5F862"
+    },
+    {
+      "id": 6716,
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "DRESDEN",
+      "branch": "",
+      "swift_code": "HYVEDEMM496"
+    },
+    {
+      "id": 7455,
+      "bank": "VOLKSBANK DRESDEN-BAUTZEN",
+      "city": "DRESDEN",
+      "branch": "",
+      "swift_code": "GENODEF1DRS"
+    }
+  ],
+  "meta": {
+    "title": "Banken in Dresden — SWIFT/BIC-Codes - Kostenloser Download",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Dresden, Germany. Subset of de-banken. Enthält 22 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Banken in Dresden — SWIFT/BIC-Codes | ListBase",
+    "seo_description": "Herunterladen Banken in Dresden — SWIFT/BIC-Codes — 22 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 22 Datensätze / 5 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

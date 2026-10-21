@@ -1,0 +1,760 @@
+{
+  "id": "de-duesseldorf-swift-codes",
+  "name": "SWIFT-/BIC-Codes — Duesseldorf",
+  "title": "SWIFT-/BIC-Codes — Duesseldorf",
+  "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 119 Institute, die die Quelle mit der Stadt \"DUESSELDORF\" angibt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 119,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "APO IMMOBILIEN-KAPITALANLAGEGESELLSCHAFT MBH",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "AIKGDED1"
+    },
+    {
+      "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+      "city": "DUESSELDORF",
+      "branch": "(DUESSELDORF BRANCH)",
+      "swift_code": "BOTKDEDX"
+    },
+    {
+      "bank": "BANKHAUS LAMPE KG",
+      "city": "DUESSELDORF",
+      "branch": "(DOTATIONSKONTO)",
+      "swift_code": "LAMPDEDDDOT"
+    },
+    {
+      "bank": "BANKHAUS LAMPE KG",
+      "city": "DUESSELDORF",
+      "branch": "(NOSTRO)",
+      "swift_code": "LAMPDEDDNOS"
+    },
+    {
+      "bank": "BANKHAUS LAMPE KG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "LAMPDEDD"
+    },
+    {
+      "bank": "BOERSE DUESSELDORF AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "XQTXDED1"
+    },
+    {
+      "bank": "BREMER KREDITBANK AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "BANVDEHB300"
+    },
+    {
+      "bank": "C AND A BANK GMBH",
+      "city": "DUESSELDORF",
+      "branch": "(1DED)",
+      "swift_code": "CUABDED1DE1"
+    },
+    {
+      "bank": "C AND A BANK GMBH",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "CUABDED1"
+    },
+    {
+      "bank": "CEMEX DEUTSCHLAND AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "CXCXDEDD"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "DUESSELDORF",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF084"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "DUESSELDORF",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF085"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "DUESSELDORF",
+      "branch": "(DDF GF-D48)",
+      "swift_code": "COBADEFF930"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "COBADEDD"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK 1)",
+      "swift_code": "DRESDEFFI02"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK 2)",
+      "swift_code": "DRESDEFFI03"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "(P AND G DUESSELDORF 22)",
+      "swift_code": "DRESDEFFI28"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "(P AND G DUESSELDORF 41)",
+      "swift_code": "DRESDEFFI29"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "(P AND G DUESSELDORF 53)",
+      "swift_code": "DRESDEFFI30"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "(P AND G DUESSELDORF 61)",
+      "swift_code": "DRESDEFFI31"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "(P AND G DUESSELDORF 74)",
+      "swift_code": "DRESDEFFI32"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "(P AND G DUESSELDORF 95)",
+      "swift_code": "DRESDEFFI33"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "(PCC DCC-ITGK 10)",
+      "swift_code": "DRESDEFFI83"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "(PCC DCC-ITGK 11)",
+      "swift_code": "DRESDEFFI84"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "(PCC DCC-ITGK 12)",
+      "swift_code": "DRESDEFFI85"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "(PCC DCC-ITGK 3)",
+      "swift_code": "DRESDEFFI76"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "(PCC DCC-ITGK 4)",
+      "swift_code": "DRESDEFFI77"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "(PCC DCC-ITGK 5)",
+      "swift_code": "DRESDEFFI78"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "(PCC DCC-ITGK 6)",
+      "swift_code": "DRESDEFFI79"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "(PCC DCC-ITGK 7)",
+      "swift_code": "DRESDEFFI80"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "(PCC DCC-ITGK 8)",
+      "swift_code": "DRESDEFFI81"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "(PCC DCC-ITGK 9)",
+      "swift_code": "DRESDEFFI82"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "(ZW 55)",
+      "swift_code": "DRESDEFF309"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "(ZW 57)",
+      "swift_code": "DRESDEFF316"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "DRESDEFF300"
+    },
+    {
+      "bank": "DE LAGE LANDEN INTERNATIONAL B.V. (DEUTSCHE NIEDERLASUNG)",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "LLIDDED1"
+    },
+    {
+      "bank": "DEMIR-HALK BANK (NEDERLAND) N.V.",
+      "city": "DUESSELDORF",
+      "branch": "(DUESSELDORF BRANCH)",
+      "swift_code": "DHBNDEDD"
+    },
+    {
+      "bank": "DEMIR-HALK BANK (NEDERLAND) N.V.",
+      "city": "DUESSELDORF",
+      "branch": "(TARGET2 HAM ACCOUNT)",
+      "swift_code": "DHBNDEDDHAM"
+    },
+    {
+      "bank": "DEMIR-HALK BANK (NEDERLAND) N.V.",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "DHBNDEDDKEV"
+    },
+    {
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "DUESSELDORF",
+      "branch": "(INDIRECT TARGET2 MEMBER)",
+      "swift_code": "DAAEDED1TGT"
+    },
+    {
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "DUESSELDORF",
+      "branch": "(KV4011)",
+      "swift_code": "DAAEDEDD411"
+    },
+    {
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "DUESSELDORF",
+      "branch": "(KV4201)",
+      "swift_code": "DAAEDEDD401"
+    },
+    {
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "DUESSELDORF",
+      "branch": "(KV4353)",
+      "swift_code": "DAAEDEDD435"
+    },
+    {
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "DUESSELDORF",
+      "branch": "(KV4354)",
+      "swift_code": "DAAEDEDD434"
+    },
+    {
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "DAAEDEDD"
+    },
+    {
+      "bank": "DEUTSCHE BANK AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "DEUTDEDD"
+    },
+    {
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "DEUTDEDBDUE"
+    },
+    {
+      "bank": "DEUTSCHE BUNDESBANK",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "MARKDEF1300"
+    },
+    {
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "DWPBDEDD"
+    },
+    {
+      "bank": "DISKO FACTORING BANK GMBH",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "DISKDED1"
+    },
+    {
+      "bank": "DUESSELDORFER HYPOTHEKENBANK AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "DHYPDEDD"
+    },
+    {
+      "bank": "DZ BANK AG (FORMERLY WGZ BANK AG)",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "GENODEDD"
+    },
+    {
+      "bank": "E.ON ENERGY TRADING SE",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "EOERDED1"
+    },
+    {
+      "bank": "EASYBANK AG NIEDERLASSUNG DEUTSCHLAND",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "QLCKDED1"
+    },
+    {
+      "bank": "ERSTE ABWICKLUNGSANSTALT",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "EAADDEDA"
+    },
+    {
+      "bank": "ERSTE ABWICKLUNGSANSTALT",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "EAADDEDASEC"
+    },
+    {
+      "bank": "FINOVESTA GMBH",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "FIVGDED1"
+    },
+    {
+      "bank": "FRITZ NOLS GLOBAL EQUITY SERVICES AKTIENGESELLSCHAFT",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "FRITDEF1"
+    },
+    {
+      "bank": "GARANTIBANK INTERNATIONAL NV",
+      "city": "DUESSELDORF",
+      "branch": "(DUESSELDORF BRANCH)",
+      "swift_code": "UGBIDEDD001"
+    },
+    {
+      "bank": "GARANTIBANK INTERNATIONAL NV",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "UGBIDEDD"
+    },
+    {
+      "bank": "HENKEL KGAA",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "HENKDEDD"
+    },
+    {
+      "bank": "HSBC GLOBAL ASSET MANAGEMENT (DEUTSCHLAND) GMBH",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "HAMGDEDB"
+    },
+    {
+      "bank": "HSBC GLOBAL ASSET MANAGEMENT (DEUTSCHLAND) GMBH",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "HAMGDEDD"
+    },
+    {
+      "bank": "HSBC TRINKAUS UND BURKHARDT AG",
+      "city": "DUESSELDORF",
+      "branch": "(EURO SLA PAYMENT SERVICE)",
+      "swift_code": "TUBDDEDDEUR"
+    },
+    {
+      "bank": "HSBC TRINKAUS UND BURKHARDT AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "TUBDDEDD"
+    },
+    {
+      "bank": "HSBC TRINKAUS UND BURKHARDT AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "TUBDDEDDCH1"
+    },
+    {
+      "bank": "HSBC TRINKAUS UND BURKHARDT AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "TUBDDEDDCH2"
+    },
+    {
+      "bank": "HSBC TRINKAUS UND BURKHARDT AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "TUBDDEDDCH3"
+    },
+    {
+      "bank": "HSBC TRINKAUS UND BURKHARDT AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "TUBDDEDDCH4"
+    },
+    {
+      "bank": "HSBC TRINKAUS UND BURKHARDT AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "TUBDDEDDCH5"
+    },
+    {
+      "bank": "HSBC TRINKAUS UND BURKHARDT AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "TUBDDEDDCH6"
+    },
+    {
+      "bank": "HSBC TRINKAUS UND BURKHARDT AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "TUBDDEDDFDS"
+    },
+    {
+      "bank": "HSBC TRINKAUS UND BURKHARDT AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "TUBDDEDDPRP"
+    },
+    {
+      "bank": "HUETTENES ALBERTUS CHEMISCHE WERKE GMBH",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "HUETDEDD"
+    },
+    {
+      "bank": "IKB DEUTSCHE INDUSTRIEBANK AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "IKBDDEDD"
+    },
+    {
+      "bank": "IKB DEUTSCHE INDUSTRIEBANK AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "IKBDDEDDDIR"
+    },
+    {
+      "bank": "INTERNATIONALE KAPITALANLAGEGESELLSCHAFT MBH",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "INKGDEDD"
+    },
+    {
+      "bank": "IPAGOO LLP GERMAN BRANCH",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "IPAGDEDF"
+    },
+    {
+      "bank": "ISBANK AG",
+      "city": "DUESSELDORF",
+      "branch": "(FILIALE DUESSELDORF)",
+      "swift_code": "ISBKDEFXDUS"
+    },
+    {
+      "bank": "KBC BANK NV NIEDERLASSUNG DEUTSCHLAND",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "KREDDEDD"
+    },
+    {
+      "bank": "KERDOS INVESTMENT-AG TGV",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "KENGDED1"
+    },
+    {
+      "bank": "KREISSPARKASSE DUESSELDORF",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "WELADED1KSD"
+    },
+    {
+      "bank": "LANDESBANK HESSEN-THUERINGEN GIROZENTRALE, DUESSELDORF",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "WELADEDD"
+    },
+    {
+      "bank": "LANG AND SCHWARZ BROKER GMBH",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "LSBGDED1"
+    },
+    {
+      "bank": "LANG AND SCHWARZ TRADECENTER AG AND CO. KG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "LASDDED1"
+    },
+    {
+      "bank": "LANG AND SCHWARZ WERTPAPIERHANDELSBANK AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "LSWEDED1"
+    },
+    {
+      "bank": "MERCK FINCK PRIVATBANKIERS",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "MEFIDEMM300"
+    },
+    {
+      "bank": "MIZUHO BANK, LTD. DUESSELDORF BRANCH",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "MHCBDEDD"
+    },
+    {
+      "bank": "MUENCHENER RUECKVERSICHERUNGS- GESELLSCHAFT",
+      "city": "DUESSELDORF",
+      "branch": "(INSURANCE)",
+      "swift_code": "MRGRDEMMERG"
+    },
+    {
+      "bank": "NRW. BANK",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "NRWBDEDM"
+    },
+    {
+      "bank": "ODDO BHF AKTIENGESELLSCHAFT",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "BHFBDEFF300"
+    },
+    {
+      "bank": "ODDO BHF ASSET MANAGEMENT GMBH",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "WEAADEDD"
+    },
+    {
+      "bank": "PORTIGON AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "PORTDEDD"
+    },
+    {
+      "bank": "PORTIGON AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "PORTDEDDSEC"
+    },
+    {
+      "bank": "PSD RHEIN-RUHR EG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "GENODEF1P05"
+    },
+    {
+      "bank": "QUANT.CAPITAL MANAGEMENT GMBH",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "QUMGDED1"
+    },
+    {
+      "bank": "RHEINISCHE-WESTFAELISCHE BOERSE ZU DUESSELDORF",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "XDUSDED1"
+    },
+    {
+      "bank": "RHEINMETALL AKTIENGESELLSCHAFT",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "RHAGDEDD"
+    },
+    {
+      "bank": "S BROKER AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "PULSDEDD"
+    },
+    {
+      "bank": "SCHNIGGE WERTPAPIERHANDELSBANK AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "SCWEDED1"
+    },
+    {
+      "bank": "SCHULDENVERWALTUNG DES LANDES NORDRHEIN-WESTFALEN",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "SCLNDED1"
+    },
+    {
+      "bank": "SEB AG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "ESSEDE5F300"
+    },
+    {
+      "bank": "SOLVENTIS WERTPAPIERHANDELSBANK GMBH",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "SOWGDED1"
+    },
+    {
+      "bank": "SPARDA-BANK WEST EG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "SPBKDED1DOT"
+    },
+    {
+      "bank": "SPARDA-BANK WEST EG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "SPBKDEDD"
+    },
+    {
+      "bank": "SPG GERMANY SERVICE MANAGEMENT GMBH",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "IPGSDEDD"
+    },
+    {
+      "bank": "STADTSPARKASSE DUESSELDORF",
+      "city": "DUESSELDORF",
+      "branch": "(DOTATIONSKONTO)",
+      "swift_code": "DUSSDEDDWTU"
+    },
+    {
+      "bank": "STADTSPARKASSE DUESSELDORF",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "DUSSDEDD"
+    },
+    {
+      "bank": "SUMITOMO MITSUI BANKING CORPORATION",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "SMBCDEDD"
+    },
+    {
+      "bank": "TARGOBANK AG CO KGAA",
+      "city": "DUESSELDORF",
+      "branch": "(DONATION)",
+      "swift_code": "CMCIDEDDDOT"
+    },
+    {
+      "bank": "TARGOBANK AG CO KGAA",
+      "city": "DUESSELDORF",
+      "branch": "(TARGET2-SECURITIES)",
+      "swift_code": "CMCIDEDDSEC"
+    },
+    {
+      "bank": "TARGOBANK AG CO KGAA",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "CMCIDEDD"
+    },
+    {
+      "bank": "UBS EUROPE SE",
+      "city": "DUESSELDORF",
+      "branch": "(DUESSELDORF)",
+      "swift_code": "SMHBDEFFDUS"
+    },
+    {
+      "bank": "UFJ BANK LIMITED, DUSSELDORF BRANCH",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "SANWDED1"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "HYVEDEMM414"
+    },
+    {
+      "bank": "VOLKSBANK DUESSELDORF NEUSS EG",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "GENODED1DNE"
+    },
+    {
+      "bank": "WEST MERCHANT BANK LIMITED",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "WMBLDED1"
+    },
+    {
+      "bank": "WESTINVEST GESELLSCHAFT FUER INVESTMENTFONDS MBH",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "WEINDED1"
+    },
+    {
+      "bank": "WL BANK AG WESTFAELISCHE LANDSCHAFT BODENKREDITBANK",
+      "city": "DUESSELDORF",
+      "branch": "",
+      "swift_code": "WELDDED1"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT-/BIC-Codes — Duesseldorf - Kostenloser Download",
+    "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 119 Institute, die die Quelle mit der Stadt \"DUESSELDORF\" angibt. Enthält 119 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "SWIFT-/BIC-Codes — Duesseldorf | ListBase",
+    "seo_description": "Herunterladen SWIFT-/BIC-Codes — Duesseldorf — 119 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 119 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

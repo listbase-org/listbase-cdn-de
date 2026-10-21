@@ -1,0 +1,154 @@
+{
+  "id": "de-at-kfz-sonderkennzeichen",
+  "name": "Kfz-Sonderkennzeichen Österreich — Behörden-, Landes- und Bundeskennzeichen",
+  "title": "Kfz-Sonderkennzeichen Österreich — Behörden-, Landes- und Bundeskennzeichen",
+  "description": "Österreichische Sonder-Unterscheidungszeichen (Landesorgane, Bundesbehörden, Diplomatie, sonstige Sondergruppen) mit Typ und Bedeutung. Quelle: openpotato/kfz-kennzeichen (src/at/sonderkennzeichen.csv).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "unterscheidungszeichen",
+      "label": "Unterscheidungszeichen",
+      "type": "string"
+    },
+    {
+      "key": "typ",
+      "label": "Typ",
+      "type": "string"
+    },
+    {
+      "key": "bedeutung",
+      "label": "Bedeutung",
+      "type": "string"
+    },
+    {
+      "key": "nationalitaetszeichen",
+      "label": "Nationalitaetszeichen",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unterscheidungszeichen": "B",
+      "typ": "Länder",
+      "bedeutung": "Landesorgane Zulassungsbezirk Burgenland",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "K",
+      "typ": "Länder",
+      "bedeutung": "Landesorgane Zulassungsbezirk Kärnten",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "N",
+      "typ": "Länder",
+      "bedeutung": "Landesorgane Zulassungsbezirk Niederösterreich",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "O",
+      "typ": "Länder",
+      "bedeutung": "Landesorgane Zulassungsbezirk Oberösterreich",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "S",
+      "typ": "Länder",
+      "bedeutung": "Landesorgane Zulassungsbezirk Salzburg",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "ST",
+      "typ": "Länder",
+      "bedeutung": "Landesorgane Zulassungsbezirk Steiermark",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "T",
+      "typ": "Länder",
+      "bedeutung": "Landesorgane Zulassungsbezirk Tirol",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "V",
+      "typ": "Länder",
+      "bedeutung": "Landesorgane Zulassungsbezirk Vorarlberg",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "W",
+      "typ": "Länder",
+      "bedeutung": "Landesorgane Zulassungsbezirk Wien",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "BD",
+      "typ": "Bund",
+      "bedeutung": "Bundesbusdienst – Omnibusse, die zur Verwendung im Kraftfahrlinienverkehr der Österreichischen Bundesbahnen (ÖBB) und der Post- und Telegraphenverwaltung bestimmt sind",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "BH",
+      "typ": "Bund",
+      "bedeutung": "Bundesheer",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "BP",
+      "typ": "Bund",
+      "bedeutung": "Bundespolizei",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "FV",
+      "typ": "Bund",
+      "bedeutung": "Finanzverwaltung",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "FW",
+      "typ": "Bund",
+      "bedeutung": "Feuerwehr",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "JW",
+      "typ": "Bund",
+      "bedeutung": "Justizwache",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "PT",
+      "typ": "Bund",
+      "bedeutung": "Post",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "CD",
+      "typ": "Diplo",
+      "bedeutung": "Dienstfahrzeugen internationaler Organisationen in Österreich oder Kfz von Mitgliedern des diplomatischen Personals der ausländischen diplomatischen Vertretungsbehörden in Österreich",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "CC",
+      "typ": "Diplo",
+      "bedeutung": "Kfz ausländischer Berufskonsuln in Österreich",
+      "nationalitaetszeichen": "A"
+    }
+  ],
+  "meta": {
+    "title": "Kfz-Sonderkennzeichen Österreich — Behörden-, Landes- und Bundeskennzeichen - Kostenloser Download",
+    "description": "Österreichische Sonder-Unterscheidungszeichen (Landesorgane, Bundesbehörden, Diplomatie, sonstige Sondergruppen) mit Typ und Bedeutung. Quelle: openpotato/kfz-kennzeichen (src/at/sonderkennzeichen.csv). Enthält 18 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Kfz-Sonderkennzeichen Österreich — Behörden-, Landes- und Bundeskennzeichen | ListBase",
+    "seo_description": "Herunterladen Kfz-Sonderkennzeichen Österreich — Behörden-, Landes- und Bundeskennzeichen — 18 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 18 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

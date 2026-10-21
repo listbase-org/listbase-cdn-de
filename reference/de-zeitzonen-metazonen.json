@@ -1,0 +1,1164 @@
+{
+  "id": "de-zeitzonen-metazonen",
+  "name": "Metazonen (makroregionale Zeitzonen) — Namen auf Deutsch",
+  "title": "Metazonen (makroregionale Zeitzonen) — Namen auf Deutsch",
+  "description": "Metazonen (makroregionale Zeitzonen) aus der Locale de in CLDR — mit allgemeinem, Standard- und Sommernamen.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 159,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "allgemeiner_name",
+      "label": "Allgemeiner Name",
+      "type": "string"
+    },
+    {
+      "key": "standardname",
+      "label": "Standardname",
+      "type": "string"
+    },
+    {
+      "key": "sommername",
+      "label": "Sommername",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "Acre",
+      "allgemeiner_name": "Acre-Zeit",
+      "standardname": "Acre-Normalzeit",
+      "sommername": "Acre-Sommerzeit"
+    },
+    {
+      "id": 2,
+      "code": "Afghanistan",
+      "allgemeiner_name": "",
+      "standardname": "Afghanistan-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 3,
+      "code": "Africa_Central",
+      "allgemeiner_name": "",
+      "standardname": "Zentralafrikanische Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 4,
+      "code": "Africa_Eastern",
+      "allgemeiner_name": "",
+      "standardname": "Ostafrikanische Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 5,
+      "code": "Africa_Southern",
+      "allgemeiner_name": "",
+      "standardname": "Südafrikanische Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 6,
+      "code": "Africa_Western",
+      "allgemeiner_name": "",
+      "standardname": "Westafrikanische Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 7,
+      "code": "Alaska",
+      "allgemeiner_name": "Alaska-Zeit",
+      "standardname": "Alaska-Normalzeit",
+      "sommername": "Alaska-Sommerzeit"
+    },
+    {
+      "id": 8,
+      "code": "Almaty",
+      "allgemeiner_name": "Almaty-Zeit",
+      "standardname": "Almaty-Normalzeit",
+      "sommername": "Almaty-Sommerzeit"
+    },
+    {
+      "id": 9,
+      "code": "Amazon",
+      "allgemeiner_name": "Amazonas-Zeit",
+      "standardname": "Amazonas-Normalzeit",
+      "sommername": "Amazonas-Sommerzeit"
+    },
+    {
+      "id": 10,
+      "code": "America_Central",
+      "allgemeiner_name": "Nordamerikanische Zentralzeit",
+      "standardname": "Nordamerikanische Zentral-Normalzeit",
+      "sommername": "Nordamerikanische Zentral-Sommerzeit"
+    },
+    {
+      "id": 11,
+      "code": "America_Eastern",
+      "allgemeiner_name": "Nordamerikanische Ostküstenzeit",
+      "standardname": "Nordamerikanische Ostküsten-Normalzeit",
+      "sommername": "Nordamerikanische Ostküsten-Sommerzeit"
+    },
+    {
+      "id": 12,
+      "code": "America_Mountain",
+      "allgemeiner_name": "Rocky-Mountains-Zeit",
+      "standardname": "Rocky-Mountains-Normalzeit",
+      "sommername": "Rocky-Mountains-Sommerzeit"
+    },
+    {
+      "id": 13,
+      "code": "America_Pacific",
+      "allgemeiner_name": "Nordamerikanische Westküstenzeit",
+      "standardname": "Nordamerikanische Westküsten-Normalzeit",
+      "sommername": "Nordamerikanische Westküsten-Sommerzeit"
+    },
+    {
+      "id": 14,
+      "code": "Anadyr",
+      "allgemeiner_name": "Anadyr Zeit",
+      "standardname": "Anadyr Normalzeit",
+      "sommername": "Anadyr Sommerzeit"
+    },
+    {
+      "id": 15,
+      "code": "Apia",
+      "allgemeiner_name": "Apia-Zeit",
+      "standardname": "Apia-Normalzeit",
+      "sommername": "Apia-Sommerzeit"
+    },
+    {
+      "id": 16,
+      "code": "Aqtau",
+      "allgemeiner_name": "Aqtau-Zeit",
+      "standardname": "Aqtau-Normalzeit",
+      "sommername": "Aqtau-Sommerzeit"
+    },
+    {
+      "id": 17,
+      "code": "Aqtobe",
+      "allgemeiner_name": "Aqtöbe-Zeit",
+      "standardname": "Aqtöbe-Normalzeit",
+      "sommername": "Aqtöbe-Sommerzeit"
+    },
+    {
+      "id": 18,
+      "code": "Arabian",
+      "allgemeiner_name": "Arabische Zeit",
+      "standardname": "Arabische Normalzeit",
+      "sommername": "Arabische Sommerzeit"
+    },
+    {
+      "id": 19,
+      "code": "Argentina",
+      "allgemeiner_name": "Argentinische Zeit",
+      "standardname": "Argentinische Normalzeit",
+      "sommername": "Argentinische Sommerzeit"
+    },
+    {
+      "id": 20,
+      "code": "Argentina_Western",
+      "allgemeiner_name": "Westargentinische Zeit",
+      "standardname": "Westargentinische Normalzeit",
+      "sommername": "Westargentinische Sommerzeit"
+    },
+    {
+      "id": 21,
+      "code": "Armenia",
+      "allgemeiner_name": "Armenische Zeit",
+      "standardname": "Armenische Normalzeit",
+      "sommername": "Armenische Sommerzeit"
+    },
+    {
+      "id": 22,
+      "code": "Atlantic",
+      "allgemeiner_name": "Atlantik-Zeit",
+      "standardname": "Atlantik-Normalzeit",
+      "sommername": "Atlantik-Sommerzeit"
+    },
+    {
+      "id": 23,
+      "code": "Australia_Central",
+      "allgemeiner_name": "Zentralaustralische Zeit",
+      "standardname": "Zentralaustralische Normalzeit",
+      "sommername": "Zentralaustralische Sommerzeit"
+    },
+    {
+      "id": 24,
+      "code": "Australia_CentralWestern",
+      "allgemeiner_name": "Zentral-/Westaustralische Zeit",
+      "standardname": "Zentral-/Westaustralische Normalzeit",
+      "sommername": "Zentral-/Westaustralische Sommerzeit"
+    },
+    {
+      "id": 25,
+      "code": "Australia_Eastern",
+      "allgemeiner_name": "Ostaustralische Zeit",
+      "standardname": "Ostaustralische Normalzeit",
+      "sommername": "Ostaustralische Sommerzeit"
+    },
+    {
+      "id": 26,
+      "code": "Australia_Western",
+      "allgemeiner_name": "Westaustralische Zeit",
+      "standardname": "Westaustralische Normalzeit",
+      "sommername": "Westaustralische Sommerzeit"
+    },
+    {
+      "id": 27,
+      "code": "Azerbaijan",
+      "allgemeiner_name": "Aserbaidschanische Zeit",
+      "standardname": "Aserbeidschanische Normalzeit",
+      "sommername": "Aserbaidschanische Sommerzeit"
+    },
+    {
+      "id": 28,
+      "code": "Azores",
+      "allgemeiner_name": "Azoren-Zeit",
+      "standardname": "Azoren-Normalzeit",
+      "sommername": "Azoren-Sommerzeit"
+    },
+    {
+      "id": 29,
+      "code": "Bangladesh",
+      "allgemeiner_name": "Bangladesch-Zeit",
+      "standardname": "Bangladesch-Normalzeit",
+      "sommername": "Bangladesch-Sommerzeit"
+    },
+    {
+      "id": 30,
+      "code": "Bhutan",
+      "allgemeiner_name": "",
+      "standardname": "Bhutan-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 31,
+      "code": "Bolivia",
+      "allgemeiner_name": "",
+      "standardname": "Bolivianische Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 32,
+      "code": "Brasilia",
+      "allgemeiner_name": "Brasília-Zeit",
+      "standardname": "Brasília-Normalzeit",
+      "sommername": "Brasília-Sommerzeit"
+    },
+    {
+      "id": 33,
+      "code": "Brunei",
+      "allgemeiner_name": "",
+      "standardname": "Brunei-Darussalam-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 34,
+      "code": "Cape_Verde",
+      "allgemeiner_name": "Cabo-Verde-Zeit",
+      "standardname": "Cabo-Verde-Normalzeit",
+      "sommername": "Cabo-Verde-Sommerzeit"
+    },
+    {
+      "id": 35,
+      "code": "Casey",
+      "allgemeiner_name": "",
+      "standardname": "Casey-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 36,
+      "code": "Chamorro",
+      "allgemeiner_name": "",
+      "standardname": "Chamorro-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 37,
+      "code": "Chatham",
+      "allgemeiner_name": "Chatham-Zeit",
+      "standardname": "Chatham-Normalzeit",
+      "sommername": "Chatham-Sommerzeit"
+    },
+    {
+      "id": 38,
+      "code": "Chile",
+      "allgemeiner_name": "Chilenische Zeit",
+      "standardname": "Chilenische Normalzeit",
+      "sommername": "Chilenische Sommerzeit"
+    },
+    {
+      "id": 39,
+      "code": "China",
+      "allgemeiner_name": "Chinesische Zeit",
+      "standardname": "Chinesische Normalzeit",
+      "sommername": "Chinesische Sommerzeit"
+    },
+    {
+      "id": 40,
+      "code": "Christmas",
+      "allgemeiner_name": "",
+      "standardname": "Weihnachtsinsel-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 41,
+      "code": "Cocos",
+      "allgemeiner_name": "",
+      "standardname": "Kokosinseln-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 42,
+      "code": "Colombia",
+      "allgemeiner_name": "Kolumbianische Zeit",
+      "standardname": "Kolumbianische Normalzeit",
+      "sommername": "Kolumbianische Sommerzeit"
+    },
+    {
+      "id": 43,
+      "code": "Cook",
+      "allgemeiner_name": "Cookinseln-Zeit",
+      "standardname": "Cookinseln-Normalzeit",
+      "sommername": "Cookinseln-Sommerzeit"
+    },
+    {
+      "id": 44,
+      "code": "Cuba",
+      "allgemeiner_name": "Kubanische Zeit",
+      "standardname": "Kubanische Normalzeit",
+      "sommername": "Kubanische Sommerzeit"
+    },
+    {
+      "id": 45,
+      "code": "Davis",
+      "allgemeiner_name": "",
+      "standardname": "Davis-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 46,
+      "code": "DumontDUrville",
+      "allgemeiner_name": "",
+      "standardname": "Dumont-d’Urville-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 47,
+      "code": "East_Timor",
+      "allgemeiner_name": "",
+      "standardname": "Osttimor-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 48,
+      "code": "Easter",
+      "allgemeiner_name": "Osterinsel-Zeit",
+      "standardname": "Osterinsel-Normalzeit",
+      "sommername": "Osterinsel-Sommerzeit"
+    },
+    {
+      "id": 49,
+      "code": "Ecuador",
+      "allgemeiner_name": "",
+      "standardname": "Ecuadorianische Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 50,
+      "code": "Europe_Central",
+      "allgemeiner_name": "Mitteleuropäische Zeit",
+      "standardname": "Mitteleuropäische Normalzeit",
+      "sommername": "Mitteleuropäische Sommerzeit"
+    },
+    {
+      "id": 51,
+      "code": "Europe_Eastern",
+      "allgemeiner_name": "Osteuropäische Zeit",
+      "standardname": "Osteuropäische Normalzeit",
+      "sommername": "Osteuropäische Sommerzeit"
+    },
+    {
+      "id": 52,
+      "code": "Europe_Further_Eastern",
+      "allgemeiner_name": "",
+      "standardname": "Kaliningrader Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 53,
+      "code": "Europe_Western",
+      "allgemeiner_name": "Westeuropäische Zeit",
+      "standardname": "Westeuropäische Normalzeit",
+      "sommername": "Westeuropäische Sommerzeit"
+    },
+    {
+      "id": 54,
+      "code": "Falkland",
+      "allgemeiner_name": "Falklandinseln-Zeit",
+      "standardname": "Falklandinseln-Normalzeit",
+      "sommername": "Falklandinseln-Sommerzeit"
+    },
+    {
+      "id": 55,
+      "code": "Fiji",
+      "allgemeiner_name": "Fidschi-Zeit",
+      "standardname": "Fidschi-Normalzeit",
+      "sommername": "Fidschi-Sommerzeit"
+    },
+    {
+      "id": 56,
+      "code": "French_Guiana",
+      "allgemeiner_name": "",
+      "standardname": "Französisch-Guayana-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 57,
+      "code": "French_Southern",
+      "allgemeiner_name": "",
+      "standardname": "Französische-Süd-und-Antarktisgebiete-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 58,
+      "code": "GMT",
+      "allgemeiner_name": "",
+      "standardname": "Mittlere Greenwich-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 59,
+      "code": "Galapagos",
+      "allgemeiner_name": "",
+      "standardname": "Galapagos-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 60,
+      "code": "Gambier",
+      "allgemeiner_name": "",
+      "standardname": "Gambier-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 61,
+      "code": "Georgia",
+      "allgemeiner_name": "Georgische Zeit",
+      "standardname": "Georgische Normalzeit",
+      "sommername": "Georgische Sommerzeit"
+    },
+    {
+      "id": 62,
+      "code": "Gilbert_Islands",
+      "allgemeiner_name": "",
+      "standardname": "Gilbert-Inseln-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 63,
+      "code": "Greenland_Eastern",
+      "allgemeiner_name": "Ostgrönland-Zeit",
+      "standardname": "Ostgrönland-Normalzeit",
+      "sommername": "Ostgrönland-Sommerzeit"
+    },
+    {
+      "id": 64,
+      "code": "Greenland_Western",
+      "allgemeiner_name": "Westgrönland-Zeit",
+      "standardname": "Westgrönland-Normalzeit",
+      "sommername": "Westgrönland-Sommerzeit"
+    },
+    {
+      "id": 65,
+      "code": "Guam",
+      "allgemeiner_name": "",
+      "standardname": "Guam-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 66,
+      "code": "Gulf",
+      "allgemeiner_name": "",
+      "standardname": "Golf-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 67,
+      "code": "Guyana",
+      "allgemeiner_name": "",
+      "standardname": "Guyana-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 68,
+      "code": "Hawaii",
+      "allgemeiner_name": "",
+      "standardname": "Hawaii-Aleuten-Normalzeit",
+      "sommername": ""
+    },
+    {
+      "id": 69,
+      "code": "Hawaii_Aleutian",
+      "allgemeiner_name": "Hawaii-Aleuten-Zeit",
+      "standardname": "Hawaii-Aleuten-Normalzeit",
+      "sommername": "Hawaii-Aleuten-Sommerzeit"
+    },
+    {
+      "id": 70,
+      "code": "Hong_Kong",
+      "allgemeiner_name": "Hongkong-Zeit",
+      "standardname": "Hongkong-Normalzeit",
+      "sommername": "Hongkong-Sommerzeit"
+    },
+    {
+      "id": 71,
+      "code": "Hovd",
+      "allgemeiner_name": "Chowd-Zeit",
+      "standardname": "Chowd-Normalzeit",
+      "sommername": "Chowd-Sommerzeit"
+    },
+    {
+      "id": 72,
+      "code": "India",
+      "allgemeiner_name": "",
+      "standardname": "Indische Normalzeit",
+      "sommername": ""
+    },
+    {
+      "id": 73,
+      "code": "Indian_Ocean",
+      "allgemeiner_name": "",
+      "standardname": "Indischer-Ozean-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 74,
+      "code": "Indochina",
+      "allgemeiner_name": "",
+      "standardname": "Indochina-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 75,
+      "code": "Indonesia_Central",
+      "allgemeiner_name": "",
+      "standardname": "Zentralindonesische Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 76,
+      "code": "Indonesia_Eastern",
+      "allgemeiner_name": "",
+      "standardname": "Ostindonesische Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 77,
+      "code": "Indonesia_Western",
+      "allgemeiner_name": "",
+      "standardname": "Westindonesische Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 78,
+      "code": "Iran",
+      "allgemeiner_name": "Iranische Zeit",
+      "standardname": "Iranische Normalzeit",
+      "sommername": "Iranische Sommerzeit"
+    },
+    {
+      "id": 79,
+      "code": "Irkutsk",
+      "allgemeiner_name": "Irkutsker Zeit",
+      "standardname": "Irkutsker Normalzeit",
+      "sommername": "Irkutsker Sommerzeit"
+    },
+    {
+      "id": 80,
+      "code": "Israel",
+      "allgemeiner_name": "Israelische Zeit",
+      "standardname": "Israelische Normalzeit",
+      "sommername": "Israelische Sommerzeit"
+    },
+    {
+      "id": 81,
+      "code": "Japan",
+      "allgemeiner_name": "Japanische Zeit",
+      "standardname": "Japanische Normalzeit",
+      "sommername": "Japanische Sommerzeit"
+    },
+    {
+      "id": 82,
+      "code": "Kamchatka",
+      "allgemeiner_name": "Kamtschatka-Zeit",
+      "standardname": "Kamtschatka-Normalzeit",
+      "sommername": "Kamtschatka-Sommerzeit"
+    },
+    {
+      "id": 83,
+      "code": "Kazakhstan",
+      "allgemeiner_name": "",
+      "standardname": "Kasachische Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 84,
+      "code": "Kazakhstan_Eastern",
+      "allgemeiner_name": "",
+      "standardname": "Ostkasachische Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 85,
+      "code": "Kazakhstan_Western",
+      "allgemeiner_name": "",
+      "standardname": "Westkasachische Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 86,
+      "code": "Korea",
+      "allgemeiner_name": "Koreanische Zeit",
+      "standardname": "Koreanische Normalzeit",
+      "sommername": "Koreanische Sommerzeit"
+    },
+    {
+      "id": 87,
+      "code": "Kosrae",
+      "allgemeiner_name": "",
+      "standardname": "Kosrae-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 88,
+      "code": "Krasnoyarsk",
+      "allgemeiner_name": "Krasnojarsker Zeit",
+      "standardname": "Krasnojarsker Normalzeit",
+      "sommername": "Krasnojarsker Sommerzeit"
+    },
+    {
+      "id": 89,
+      "code": "Kyrgystan",
+      "allgemeiner_name": "",
+      "standardname": "Kirgisische Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 90,
+      "code": "Lanka",
+      "allgemeiner_name": "",
+      "standardname": "Sri-Lanka-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 91,
+      "code": "Line_Islands",
+      "allgemeiner_name": "",
+      "standardname": "Linieninseln-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 92,
+      "code": "Lord_Howe",
+      "allgemeiner_name": "Lord-Howe-Zeit",
+      "standardname": "Lord-Howe-Normalzeit",
+      "sommername": "Lord-Howe-Sommerzeit"
+    },
+    {
+      "id": 93,
+      "code": "Macau",
+      "allgemeiner_name": "Macau-Zeit",
+      "standardname": "Macau-Normalzeit",
+      "sommername": "Macau-Sommerzeit"
+    },
+    {
+      "id": 94,
+      "code": "Magadan",
+      "allgemeiner_name": "Magadan-Zeit",
+      "standardname": "Magadan-Normalzeit",
+      "sommername": "Magadan-Sommerzeit"
+    },
+    {
+      "id": 95,
+      "code": "Malaysia",
+      "allgemeiner_name": "",
+      "standardname": "Malaysische Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 96,
+      "code": "Maldives",
+      "allgemeiner_name": "",
+      "standardname": "Malediven-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 97,
+      "code": "Marquesas",
+      "allgemeiner_name": "",
+      "standardname": "Marquesas-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 98,
+      "code": "Marshall_Islands",
+      "allgemeiner_name": "",
+      "standardname": "Marshallinseln-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 99,
+      "code": "Mauritius",
+      "allgemeiner_name": "Mauritius-Zeit",
+      "standardname": "Mauritius-Normalzeit",
+      "sommername": "Mauritius-Sommerzeit"
+    },
+    {
+      "id": 100,
+      "code": "Mawson",
+      "allgemeiner_name": "",
+      "standardname": "Mawson-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 101,
+      "code": "Mexico_Pacific",
+      "allgemeiner_name": "Mexikanische Pazifikzeit",
+      "standardname": "Mexikanische Pazifik-Normalzeit",
+      "sommername": "Mexikanische Pazifik-Sommerzeit"
+    },
+    {
+      "id": 102,
+      "code": "Mongolia",
+      "allgemeiner_name": "Ulaanbaatar-Zeit",
+      "standardname": "Ulaanbaatar-Normalzeit",
+      "sommername": "Ulaanbaatar-Sommerzeit"
+    },
+    {
+      "id": 103,
+      "code": "Moscow",
+      "allgemeiner_name": "Moskauer Zeit",
+      "standardname": "Moskauer Normalzeit",
+      "sommername": "Moskauer Sommerzeit"
+    },
+    {
+      "id": 104,
+      "code": "Myanmar",
+      "allgemeiner_name": "",
+      "standardname": "Myanmar-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 105,
+      "code": "Nauru",
+      "allgemeiner_name": "",
+      "standardname": "Nauru-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 106,
+      "code": "Nepal",
+      "allgemeiner_name": "",
+      "standardname": "Nepalesische Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 107,
+      "code": "New_Caledonia",
+      "allgemeiner_name": "Neukaledonische Zeit",
+      "standardname": "Neukaledonische Normalzeit",
+      "sommername": "Neukaledonische Sommerzeit"
+    },
+    {
+      "id": 108,
+      "code": "New_Zealand",
+      "allgemeiner_name": "Neuseeland-Zeit",
+      "standardname": "Neuseeland-Normalzeit",
+      "sommername": "Neuseeland-Sommerzeit"
+    },
+    {
+      "id": 109,
+      "code": "Newfoundland",
+      "allgemeiner_name": "Neufundland-Zeit",
+      "standardname": "Neufundland-Normalzeit",
+      "sommername": "Neufundland-Sommerzeit"
+    },
+    {
+      "id": 110,
+      "code": "Niue",
+      "allgemeiner_name": "",
+      "standardname": "Niue-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 111,
+      "code": "Norfolk",
+      "allgemeiner_name": "Norfolkinsel-Zeit",
+      "standardname": "Norfolkinsel-Normalzeit",
+      "sommername": "Norfolkinsel-Sommerzeit"
+    },
+    {
+      "id": 112,
+      "code": "Noronha",
+      "allgemeiner_name": "Fernando-de-Noronha-Zeit",
+      "standardname": "Fernando-de-Noronha-Normalzeit",
+      "sommername": "Fernando-de-Noronha-Sommerzeit"
+    },
+    {
+      "id": 113,
+      "code": "North_Mariana",
+      "allgemeiner_name": "",
+      "standardname": "Nördliche-Marianen-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 114,
+      "code": "Novosibirsk",
+      "allgemeiner_name": "Nowosibirsker Zeit",
+      "standardname": "Nowosibirsker Normalzeit",
+      "sommername": "Nowosibirsker Sommerzeit"
+    },
+    {
+      "id": 115,
+      "code": "Omsk",
+      "allgemeiner_name": "Omsker Zeit",
+      "standardname": "Omsker Normalzeit",
+      "sommername": "Omsker Sommerzeit"
+    },
+    {
+      "id": 116,
+      "code": "Pakistan",
+      "allgemeiner_name": "Pakistanische Zeit",
+      "standardname": "Pakistanische Normalzeit",
+      "sommername": "Pakistanische Sommerzeit"
+    },
+    {
+      "id": 117,
+      "code": "Palau",
+      "allgemeiner_name": "",
+      "standardname": "Palau-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 118,
+      "code": "Papua_New_Guinea",
+      "allgemeiner_name": "",
+      "standardname": "Papua-Neuguinea-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 119,
+      "code": "Paraguay",
+      "allgemeiner_name": "Paraguayische Zeit",
+      "standardname": "Paraguayische Normalzeit",
+      "sommername": "Paraguayische Sommerzeit"
+    },
+    {
+      "id": 120,
+      "code": "Peru",
+      "allgemeiner_name": "Peruanische Zeit",
+      "standardname": "Peruanische Normalzeit",
+      "sommername": "Peruanische Sommerzeit"
+    },
+    {
+      "id": 121,
+      "code": "Philippines",
+      "allgemeiner_name": "Philippinische Zeit",
+      "standardname": "Philippinische Normalzeit",
+      "sommername": "Philippinische Sommerzeit"
+    },
+    {
+      "id": 122,
+      "code": "Phoenix_Islands",
+      "allgemeiner_name": "",
+      "standardname": "Phoenixinseln-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 123,
+      "code": "Pierre_Miquelon",
+      "allgemeiner_name": "St.-Pierre-und-Miquelon-Zeit",
+      "standardname": "St.-Pierre-und-Miquelon-Normalzeit",
+      "sommername": "St.-Pierre-und-Miquelon-Sommerzeit"
+    },
+    {
+      "id": 124,
+      "code": "Pitcairn",
+      "allgemeiner_name": "",
+      "standardname": "Pitcairninseln-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 125,
+      "code": "Ponape",
+      "allgemeiner_name": "",
+      "standardname": "Pohnpei-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 126,
+      "code": "Pyongyang",
+      "allgemeiner_name": "",
+      "standardname": "Pjöngjang-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 127,
+      "code": "Qyzylorda",
+      "allgemeiner_name": "Quysylorda-Zeit",
+      "standardname": "Quysylorda-Normalzeit",
+      "sommername": "Qysylorda-Sommerzeit"
+    },
+    {
+      "id": 128,
+      "code": "Reunion",
+      "allgemeiner_name": "",
+      "standardname": "Réunion-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 129,
+      "code": "Rothera",
+      "allgemeiner_name": "",
+      "standardname": "Rothera-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 130,
+      "code": "Sakhalin",
+      "allgemeiner_name": "Sachalin-Zeit",
+      "standardname": "Sachalin-Normalzeit",
+      "sommername": "Sachalin-Sommerzeit"
+    },
+    {
+      "id": 131,
+      "code": "Samara",
+      "allgemeiner_name": "Samara-Zeit",
+      "standardname": "Samara-Normalzeit",
+      "sommername": "Samara-Sommerzeit"
+    },
+    {
+      "id": 132,
+      "code": "Samoa",
+      "allgemeiner_name": "Samoa-Zeit",
+      "standardname": "Samoa-Normalzeit",
+      "sommername": "Samoa-Sommerzeit"
+    },
+    {
+      "id": 133,
+      "code": "Seychelles",
+      "allgemeiner_name": "",
+      "standardname": "Seychellen-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 134,
+      "code": "Singapore",
+      "allgemeiner_name": "",
+      "standardname": "Singapurische Normalzeit",
+      "sommername": ""
+    },
+    {
+      "id": 135,
+      "code": "Solomon",
+      "allgemeiner_name": "",
+      "standardname": "Salomonen-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 136,
+      "code": "South_Georgia",
+      "allgemeiner_name": "",
+      "standardname": "Südgeorgische Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 137,
+      "code": "Suriname",
+      "allgemeiner_name": "",
+      "standardname": "Suriname-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 138,
+      "code": "Syowa",
+      "allgemeiner_name": "",
+      "standardname": "Syowa-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 139,
+      "code": "Tahiti",
+      "allgemeiner_name": "",
+      "standardname": "Tahiti-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 140,
+      "code": "Taipei",
+      "allgemeiner_name": "Taipeh-Zeit",
+      "standardname": "Taipeh-Normalzeit",
+      "sommername": "Taipeh-Sommerzeit"
+    },
+    {
+      "id": 141,
+      "code": "Tajikistan",
+      "allgemeiner_name": "",
+      "standardname": "Tadschikische Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 142,
+      "code": "Tokelau",
+      "allgemeiner_name": "",
+      "standardname": "Tokelau-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 143,
+      "code": "Tonga",
+      "allgemeiner_name": "Tongaische Zeit",
+      "standardname": "Tongaische Normalzeit",
+      "sommername": "Tongaische Sommerzeit"
+    },
+    {
+      "id": 144,
+      "code": "Truk",
+      "allgemeiner_name": "",
+      "standardname": "Chuuk-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 145,
+      "code": "Turkey",
+      "allgemeiner_name": "Türkische Zeit",
+      "standardname": "Türkische Normalzeit",
+      "sommername": "Türkische Sommerzeit"
+    },
+    {
+      "id": 146,
+      "code": "Turkmenistan",
+      "allgemeiner_name": "Turkmenistan-Zeit",
+      "standardname": "Turkmenische Normalzeit",
+      "sommername": "Turkmenische Sommerzeit"
+    },
+    {
+      "id": 147,
+      "code": "Tuvalu",
+      "allgemeiner_name": "",
+      "standardname": "Tuvalu-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 148,
+      "code": "Uruguay",
+      "allgemeiner_name": "Uruguayische Zeit",
+      "standardname": "Uruguayische Normalzeit",
+      "sommername": "Uruguayische Sommerzeit"
+    },
+    {
+      "id": 149,
+      "code": "Uzbekistan",
+      "allgemeiner_name": "Usbekische Zeit",
+      "standardname": "Usbekische Normalzeit",
+      "sommername": "Usbekische Sommerzeit"
+    },
+    {
+      "id": 150,
+      "code": "Vanuatu",
+      "allgemeiner_name": "Vanuatu-Zeit",
+      "standardname": "Vanuatu-Normalzeit",
+      "sommername": "Vanuatu-Sommerzeit"
+    },
+    {
+      "id": 151,
+      "code": "Venezuela",
+      "allgemeiner_name": "",
+      "standardname": "Venezuela-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 152,
+      "code": "Vladivostok",
+      "allgemeiner_name": "Wladiwostoker Zeit",
+      "standardname": "Wladiwostoker Normalzeit",
+      "sommername": "Wladiwostoker Sommerzeit"
+    },
+    {
+      "id": 153,
+      "code": "Volgograd",
+      "allgemeiner_name": "Wolgograder Zeit",
+      "standardname": "Wolgograder Normalzeit",
+      "sommername": "Wolgograder Sommerzeit"
+    },
+    {
+      "id": 154,
+      "code": "Vostok",
+      "allgemeiner_name": "",
+      "standardname": "Wostok-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 155,
+      "code": "Wake",
+      "allgemeiner_name": "",
+      "standardname": "Wake-Insel-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 156,
+      "code": "Wallis",
+      "allgemeiner_name": "",
+      "standardname": "Wallis-und-Futuna-Zeit",
+      "sommername": ""
+    },
+    {
+      "id": 157,
+      "code": "Yakutsk",
+      "allgemeiner_name": "Jakutsker Zeit",
+      "standardname": "Jakutsker Normalzeit",
+      "sommername": "Jakutsker Sommerzeit"
+    },
+    {
+      "id": 158,
+      "code": "Yekaterinburg",
+      "allgemeiner_name": "Jekaterinburger Zeit",
+      "standardname": "Jekaterinburger Normalzeit",
+      "sommername": "Jekaterinburger Sommerzeit"
+    },
+    {
+      "id": 159,
+      "code": "Yukon",
+      "allgemeiner_name": "",
+      "standardname": "Yukon-Zeit",
+      "sommername": ""
+    }
+  ],
+  "meta": {
+    "title": "Metazonen (makroregionale Zeitzonen) — Namen auf Deutsch - Kostenloser Download",
+    "description": "Metazonen (makroregionale Zeitzonen) aus der Locale de in CLDR — mit allgemeinem, Standard- und Sommernamen. Enthält 159 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Metazonen (makroregionale Zeitzonen) — Namen auf Deutsch | ListBase",
+    "seo_description": "Herunterladen Metazonen (makroregionale Zeitzonen) — Namen auf Deutsch — 159 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 159 Datensätze / 5 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

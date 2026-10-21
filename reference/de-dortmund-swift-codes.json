@@ -1,0 +1,232 @@
+{
+  "id": "de-dortmund-swift-codes",
+  "name": "SWIFT-/BIC-Codes — Dortmund",
+  "title": "SWIFT-/BIC-Codes — Dortmund",
+  "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 31 Institute, die die Quelle mit der Stadt \"DORTMUND\" angibt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "BANK FUER KIRCHE UND DIAKONIE EG-KD-BANK",
+      "city": "DORTMUND",
+      "branch": "",
+      "swift_code": "GENODED1DKD"
+    },
+    {
+      "bank": "BANK FUER KIRCHE UND DIAKONIE EG-KD-BANK GF SONDER-BLZ",
+      "city": "DORTMUND",
+      "branch": "",
+      "swift_code": "GENODED1KDD"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "DORTMUND",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF080"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "DORTMUND",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF081"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "DORTMUND",
+      "branch": "(ZW.38)",
+      "swift_code": "COBADEFF438"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "DORTMUND",
+      "branch": "(ZW.39)",
+      "swift_code": "COBADEFF439"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "DORTMUND",
+      "branch": "",
+      "swift_code": "COBADEFF440"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DORTMUND",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK)",
+      "swift_code": "DRESDEFFI18"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DORTMUND",
+      "branch": "(PCC DCC-ITGK 2)",
+      "swift_code": "DRESDEFFI69"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DORTMUND",
+      "branch": "(ZW 55)",
+      "swift_code": "DRESDEFF446"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DORTMUND",
+      "branch": "(ZW 57)",
+      "swift_code": "DRESDEFF447"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "DORTMUND",
+      "branch": "",
+      "swift_code": "DRESDEFF440"
+    },
+    {
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "DORTMUND",
+      "branch": "",
+      "swift_code": "DAAEDED1004"
+    },
+    {
+      "bank": "DEUTSCHE BANK AG",
+      "city": "DORTMUND",
+      "branch": "",
+      "swift_code": "DEUTDEDE440"
+    },
+    {
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "DORTMUND",
+      "branch": "",
+      "swift_code": "DEUTDEDB440"
+    },
+    {
+      "bank": "DEUTSCHE BUNDESBANK",
+      "city": "DORTMUND",
+      "branch": "",
+      "swift_code": "MARKDEF1440"
+    },
+    {
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "DORTMUND",
+      "branch": "",
+      "swift_code": "MARKDEF1470"
+    },
+    {
+      "bank": "DEUTSCHE POSTBANK AG",
+      "city": "DORTMUND",
+      "branch": "(DORTMUND BRANCH)",
+      "swift_code": "PBNKDEFF440"
+    },
+    {
+      "bank": "DORTMUNDER VOLKSBANK EG",
+      "city": "DORTMUND",
+      "branch": "(DOTATIONSKONTO)",
+      "swift_code": "VBDODE33DOT"
+    },
+    {
+      "bank": "DORTMUNDER VOLKSBANK EG",
+      "city": "DORTMUND",
+      "branch": "",
+      "swift_code": "GENODEM1DOR"
+    },
+    {
+      "bank": "DORTMUNDER VOLKSBANK EG",
+      "city": "DORTMUND",
+      "branch": "",
+      "swift_code": "VBDODE33"
+    },
+    {
+      "bank": "HSBC TRINKAUS UND BURKHARDT AG",
+      "city": "DORTMUND",
+      "branch": "(DORTMUND)",
+      "swift_code": "TUBDDEDD440"
+    },
+    {
+      "bank": "LANDESBANK HESSEN-THUERINGEN GIROZENTRALE, DORTMUND",
+      "city": "DORTMUND",
+      "branch": "",
+      "swift_code": "WELADE3D"
+    },
+    {
+      "bank": "PSD RHEIN-RUHR EG",
+      "city": "DORTMUND",
+      "branch": "",
+      "swift_code": "GENODEF1P04"
+    },
+    {
+      "bank": "SEB AG",
+      "city": "DORTMUND",
+      "branch": "",
+      "swift_code": "ESSEDE5F440"
+    },
+    {
+      "bank": "SPARKASSE DORTMUND",
+      "city": "DORTMUND",
+      "branch": "(NOT FOR GENERAL USE - PMLIGHT KONTO)",
+      "swift_code": "DORTDE33PML"
+    },
+    {
+      "bank": "SPARKASSE DORTMUND",
+      "city": "DORTMUND",
+      "branch": "",
+      "swift_code": "DORTDE33"
+    },
+    {
+      "bank": "SPARKASSE DORTMUND",
+      "city": "DORTMUND",
+      "branch": "",
+      "swift_code": "DORTDE33CBF"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "DORTMUND",
+      "branch": "",
+      "swift_code": "HYVEDEMM808"
+    },
+    {
+      "bank": "VOLKSBANK DORTMUND-NORDWEST EG",
+      "city": "DORTMUND",
+      "branch": "",
+      "swift_code": "GENODEM1DNW"
+    },
+    {
+      "bank": "WESTFAELISCHE HYPOTHEKENBANK AG",
+      "city": "DORTMUND",
+      "branch": "",
+      "swift_code": "WHYPDE31"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT-/BIC-Codes — Dortmund - Kostenloser Download",
+    "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 31 Institute, die die Quelle mit der Stadt \"DORTMUND\" angibt. Enthält 31 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "SWIFT-/BIC-Codes — Dortmund | ListBase",
+    "seo_description": "Herunterladen SWIFT-/BIC-Codes — Dortmund — 31 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 31 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

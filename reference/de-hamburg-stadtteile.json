@@ -1,0 +1,340 @@
+{
+  "id": "de-hamburg-stadtteile",
+  "name": "Stadtteile von Hamburg",
+  "title": "Stadtteile von Hamburg",
+  "description": "Die 103 Stadtteile (city districts) der Stadt Hamburg, extrahiert aus den Grenz-GeoJSON-Dateien des Projekts Code for Germany / click_that_hood. Nur der native deutsche Name je Teilgebiet wurde übernommen; die Polygon-Geometrie wurde verworfen.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 103,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Allermöhe"
+    },
+    {
+      "name": "Alsterdorf"
+    },
+    {
+      "name": "Altengamme"
+    },
+    {
+      "name": "Altenwerder"
+    },
+    {
+      "name": "Altona-Altstadt"
+    },
+    {
+      "name": "Altona-Nord"
+    },
+    {
+      "name": "Bahrenfeld"
+    },
+    {
+      "name": "Barmbek-Nord"
+    },
+    {
+      "name": "Barmbek-Süd"
+    },
+    {
+      "name": "Bergedorf"
+    },
+    {
+      "name": "Bergstedt"
+    },
+    {
+      "name": "Billbrook"
+    },
+    {
+      "name": "Billstedt"
+    },
+    {
+      "name": "Billwerder"
+    },
+    {
+      "name": "Blankenese"
+    },
+    {
+      "name": "Borgfelde"
+    },
+    {
+      "name": "Bramfeld"
+    },
+    {
+      "name": "Cranz"
+    },
+    {
+      "name": "Curslack"
+    },
+    {
+      "name": "Dulsberg"
+    },
+    {
+      "name": "Duvenstedt"
+    },
+    {
+      "name": "Eidelstedt"
+    },
+    {
+      "name": "Eilbek"
+    },
+    {
+      "name": "Eimsbüttel"
+    },
+    {
+      "name": "Eißendorf"
+    },
+    {
+      "name": "Eppendorf"
+    },
+    {
+      "name": "Farmsen-Berne"
+    },
+    {
+      "name": "Finkenwerder"
+    },
+    {
+      "name": "Francop"
+    },
+    {
+      "name": "Fuhlsbüttel"
+    },
+    {
+      "name": "Groß Borstel"
+    },
+    {
+      "name": "Groß Flottbek"
+    },
+    {
+      "name": "Gut Moor"
+    },
+    {
+      "name": "HafenCity"
+    },
+    {
+      "name": "Hamburg-Altstadt"
+    },
+    {
+      "name": "Hamm"
+    },
+    {
+      "name": "Hammerbrook"
+    },
+    {
+      "name": "Harburg"
+    },
+    {
+      "name": "Harvestehude"
+    },
+    {
+      "name": "Hausbruch"
+    },
+    {
+      "name": "Heimfeld"
+    },
+    {
+      "name": "Hoheluft-Ost"
+    },
+    {
+      "name": "Hoheluft-West"
+    },
+    {
+      "name": "Hohenfelde"
+    },
+    {
+      "name": "Horn"
+    },
+    {
+      "name": "Hummelsbüttel"
+    },
+    {
+      "name": "Iserbrook"
+    },
+    {
+      "name": "Jenfeld"
+    },
+    {
+      "name": "Kirchwerder"
+    },
+    {
+      "name": "Kleiner Grasbrook"
+    },
+    {
+      "name": "Langenbek"
+    },
+    {
+      "name": "Langenhorn"
+    },
+    {
+      "name": "Lehmsahl-Mellingstedt"
+    },
+    {
+      "name": "Lohbrügge"
+    },
+    {
+      "name": "Lokstedt"
+    },
+    {
+      "name": "Lurup"
+    },
+    {
+      "name": "Marienthal"
+    },
+    {
+      "name": "Marmstorf"
+    },
+    {
+      "name": "Moorburg"
+    },
+    {
+      "name": "Moorfleet"
+    },
+    {
+      "name": "Neuallermöhe"
+    },
+    {
+      "name": "Neuenfelde"
+    },
+    {
+      "name": "Neuengamme"
+    },
+    {
+      "name": "Neugraben-Fischbek"
+    },
+    {
+      "name": "Neuland"
+    },
+    {
+      "name": "Neustadt"
+    },
+    {
+      "name": "Niendorf"
+    },
+    {
+      "name": "Nienstedten"
+    },
+    {
+      "name": "Ochsenwerder"
+    },
+    {
+      "name": "Ohlsdorf"
+    },
+    {
+      "name": "Osdorf"
+    },
+    {
+      "name": "Othmarschen"
+    },
+    {
+      "name": "Ottensen"
+    },
+    {
+      "name": "Poppenbüttel"
+    },
+    {
+      "name": "Rahlstedt"
+    },
+    {
+      "name": "Reitbrook"
+    },
+    {
+      "name": "Rissen"
+    },
+    {
+      "name": "Rothenburgsort"
+    },
+    {
+      "name": "Rotherbaum"
+    },
+    {
+      "name": "Rönneburg"
+    },
+    {
+      "name": "Sasel"
+    },
+    {
+      "name": "Schnelsen"
+    },
+    {
+      "name": "Sinstorf"
+    },
+    {
+      "name": "Spadenland"
+    },
+    {
+      "name": "St. Georg"
+    },
+    {
+      "name": "St. Pauli"
+    },
+    {
+      "name": "Steilshoop"
+    },
+    {
+      "name": "Steinwerder"
+    },
+    {
+      "name": "Stellingen"
+    },
+    {
+      "name": "Sternschanze"
+    },
+    {
+      "name": "Sülldorf"
+    },
+    {
+      "name": "Tatenberg"
+    },
+    {
+      "name": "Tonndorf"
+    },
+    {
+      "name": "Uhlenhorst"
+    },
+    {
+      "name": "Veddel"
+    },
+    {
+      "name": "Volksdorf"
+    },
+    {
+      "name": "Waltershof"
+    },
+    {
+      "name": "Wandsbek"
+    },
+    {
+      "name": "Wellingsbüttel"
+    },
+    {
+      "name": "Wilhelmsburg"
+    },
+    {
+      "name": "Wilstorf"
+    },
+    {
+      "name": "Winterhude"
+    },
+    {
+      "name": "Wohlsdorf-Ohlstedt"
+    }
+  ],
+  "meta": {
+    "title": "Stadtteile von Hamburg - Kostenloser Download",
+    "description": "Die 103 Stadtteile (city districts) der Stadt Hamburg, extrahiert aus den Grenz-GeoJSON-Dateien des Projekts Code for Germany / click_that_hood. Nur der native deutsche Name je Teilgebiet wurde übernommen; die Polygon-Geometrie wurde verworfen. Enthält 103 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Stadtteile von Hamburg | ListBase",
+    "seo_description": "Herunterladen Stadtteile von Hamburg — 103 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 103 Datensätze / 1 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

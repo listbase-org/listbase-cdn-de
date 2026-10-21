@@ -1,0 +1,196 @@
+{
+  "id": "de-masseinheiten-duration",
+  "name": "Maßeinheiten — Kategorie 'duration' (15)",
+  "title": "Maßeinheiten — Kategorie 'duration' (15)",
+  "description": "Maßeinheiten der Kategorie 'duration' aus der Locale de in CLDR, mit Namen auf Deutsch.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abkuerzung",
+      "label": "Abkuerzung",
+      "type": "string"
+    },
+    {
+      "key": "schmalform",
+      "label": "Schmalform",
+      "type": "string"
+    },
+    {
+      "key": "muster",
+      "label": "Muster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "duration-century",
+      "kategorie": "duration",
+      "name": "Jahrhunderte",
+      "abkuerzung": "Jh.",
+      "schmalform": "Jh.",
+      "muster": "{0} Jahrhunderte"
+    },
+    {
+      "id": 2,
+      "unit_code": "duration-day",
+      "kategorie": "duration",
+      "name": "Tage",
+      "abkuerzung": "Tg.",
+      "schmalform": "T",
+      "muster": "{0} Tage"
+    },
+    {
+      "id": 3,
+      "unit_code": "duration-decade",
+      "kategorie": "duration",
+      "name": "Jahrzehnte",
+      "abkuerzung": "Jz.",
+      "schmalform": "Jz.",
+      "muster": "{0} Jahrzehnte"
+    },
+    {
+      "id": 4,
+      "unit_code": "duration-fortnight",
+      "kategorie": "duration",
+      "name": "fortnight",
+      "abkuerzung": "fortnight",
+      "schmalform": "fortnight",
+      "muster": "{0} fw"
+    },
+    {
+      "id": 5,
+      "unit_code": "duration-hour",
+      "kategorie": "duration",
+      "name": "Stunden",
+      "abkuerzung": "Std.",
+      "schmalform": "Std.",
+      "muster": "{0} Stunden"
+    },
+    {
+      "id": 6,
+      "unit_code": "duration-microsecond",
+      "kategorie": "duration",
+      "name": "Mikrosekunden",
+      "abkuerzung": "μs",
+      "schmalform": "μs",
+      "muster": "{0} Mikrosekunden"
+    },
+    {
+      "id": 7,
+      "unit_code": "duration-millisecond",
+      "kategorie": "duration",
+      "name": "Millisekunden",
+      "abkuerzung": "ms",
+      "schmalform": "ms",
+      "muster": "{0} Millisekunden"
+    },
+    {
+      "id": 8,
+      "unit_code": "duration-minute",
+      "kategorie": "duration",
+      "name": "Minuten",
+      "abkuerzung": "Min.",
+      "schmalform": "Min.",
+      "muster": "{0} Minuten"
+    },
+    {
+      "id": 9,
+      "unit_code": "duration-month",
+      "kategorie": "duration",
+      "name": "Monate",
+      "abkuerzung": "Mon.",
+      "schmalform": "M",
+      "muster": "{0} Monate"
+    },
+    {
+      "id": 10,
+      "unit_code": "duration-nanosecond",
+      "kategorie": "duration",
+      "name": "Nanosekunden",
+      "abkuerzung": "ns",
+      "schmalform": "ns",
+      "muster": "{0} Nanosekunden"
+    },
+    {
+      "id": 11,
+      "unit_code": "duration-night",
+      "kategorie": "duration",
+      "name": "Nächte",
+      "abkuerzung": "Nächte",
+      "schmalform": "Nächte",
+      "muster": "{0} Übernachtungen"
+    },
+    {
+      "id": 12,
+      "unit_code": "duration-quarter",
+      "kategorie": "duration",
+      "name": "Quartale",
+      "abkuerzung": "Quart.",
+      "schmalform": "Q",
+      "muster": "{0} Quartale"
+    },
+    {
+      "id": 13,
+      "unit_code": "duration-second",
+      "kategorie": "duration",
+      "name": "Sekunden",
+      "abkuerzung": "Sek.",
+      "schmalform": "Sek.",
+      "muster": "{0} Sekunden"
+    },
+    {
+      "id": 14,
+      "unit_code": "duration-week",
+      "kategorie": "duration",
+      "name": "Wochen",
+      "abkuerzung": "Wo.",
+      "schmalform": "W",
+      "muster": "{0} Wochen"
+    },
+    {
+      "id": 15,
+      "unit_code": "duration-year",
+      "kategorie": "duration",
+      "name": "Jahre",
+      "abkuerzung": "J",
+      "schmalform": "J",
+      "muster": "{0} Jahre"
+    }
+  ],
+  "meta": {
+    "title": "Maßeinheiten — Kategorie 'duration' (15) - Kostenloser Download",
+    "description": "Maßeinheiten der Kategorie 'duration' aus der Locale de in CLDR, mit Namen auf Deutsch. Enthält 15 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Maßeinheiten — Kategorie 'duration' (15) | ListBase",
+    "seo_description": "Herunterladen Maßeinheiten — Kategorie 'duration' (15) — 15 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 15 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

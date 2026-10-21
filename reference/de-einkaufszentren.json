@@ -1,0 +1,2608 @@
+{
+  "id": "de-einkaufszentren",
+  "name": "Einkaufszentren in Deutschland / Shopping malls in Germany",
+  "title": "Einkaufszentren in Deutschland / Shopping malls in Germany",
+  "description": "Einkaufszentren in Deutschland (Shopping malls in Germany). Geolocated points sourced from Wikidata (instance of Q11315), located in Germany (Q183), each with a coordinate (P625).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 283,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_de",
+      "label": "Name De",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q10861424",
+      "name_de": "A10 Center",
+      "name_en": "A10 Center",
+      "latitude": 52.3148,
+      "longitude": 13.6079,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10861424"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q41623385",
+      "name_de": "Adlershofer Tor Passagen",
+      "name_en": "Adlershofer Tor Passagen",
+      "latitude": 52.433021,
+      "longitude": 13.535417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q41623385"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q111955989",
+      "name_de": "Agnes Goeppingen",
+      "name_en": "",
+      "latitude": 48.702148,
+      "longitude": 9.657502,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111955989"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q322847",
+      "name_de": "Alexa",
+      "name_en": "Alexa",
+      "latitude": 52.5192,
+      "longitude": 13.4156,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q322847"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q20170616",
+      "name_de": "Allee-Center Essen",
+      "name_en": "",
+      "latitude": 51.49688,
+      "longitude": 7.00737,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20170616"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q20170618",
+      "name_de": "Allee-Center Hamm",
+      "name_en": "Allee-Center Hamm",
+      "latitude": 51.681819,
+      "longitude": 7.812681,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20170618"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q20170621",
+      "name_de": "Allee-Center Leipzig",
+      "name_en": "Allee-Center Leipzig",
+      "latitude": 51.31941,
+      "longitude": 12.29005,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20170621"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q5399475",
+      "name_de": "Allee-Center Magdeburg",
+      "name_en": "Allee-Center Magdeburg",
+      "latitude": 52.130067,
+      "longitude": 11.637222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5399475"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q2648177",
+      "name_de": "Allee-Center Remscheid",
+      "name_en": "Allee-Center Remscheid",
+      "latitude": 51.1814,
+      "longitude": 7.18666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2648177"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q1314255",
+      "name_de": "Alstertal-Einkaufszentrum",
+      "name_en": "Alstertal Mall",
+      "latitude": 53.654444,
+      "longitude": 10.090833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1314255"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q102337442",
+      "name_de": "Alt Chemnitz Center",
+      "name_en": "Alt Chemnitz Center",
+      "latitude": 50.79595,
+      "longitude": 12.92125,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q102337442"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q442719",
+      "name_de": "Altmarkt-Galerie",
+      "name_en": "Altmarkt-Galerie",
+      "latitude": 51.0486,
+      "longitude": 13.7358,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q442719"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q17521326",
+      "name_de": "Aquis Plaza",
+      "name_en": "Aquis Plaza",
+      "latitude": 50.774711,
+      "longitude": 6.093092,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17521326"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q638953",
+      "name_de": "Ardenner Cultur Boulevard",
+      "name_en": "Ardenner Cultur Boulevard",
+      "latitude": 50.3524,
+      "longitude": 6.38399,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q638953"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q693163",
+      "name_de": "Arneken-Galerie",
+      "name_en": "Arneken-Galerie",
+      "latitude": 52.155,
+      "longitude": 9.95044,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q693163"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q123596955",
+      "name_de": "Atrium-Passage",
+      "name_en": "Atrium-Passage",
+      "latitude": 51.49514,
+      "longitude": 10.79128,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123596955"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q124354766",
+      "name_de": "Bahnhof Altona Shopping",
+      "name_en": "Bahnhof Altona Shopping",
+      "latitude": 53.552594,
+      "longitude": 9.932199,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124354766"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q801708",
+      "name_de": "Bahnhofscenter Gelsenkirchen",
+      "name_en": "Bahnhofs Center",
+      "latitude": 51.505917,
+      "longitude": 7.101,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q801708"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q15107075",
+      "name_de": "BERO-Zentrum Oberhausen",
+      "name_en": "Bero-Zentrum Oberhausen",
+      "latitude": 51.474393,
+      "longitude": 6.84238,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15107075"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q21037277",
+      "name_de": "Billstedt-Center Hamburg",
+      "name_en": "",
+      "latitude": 53.540973,
+      "longitude": 10.105405,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21037277"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q883079",
+      "name_de": "Blautal-Center",
+      "name_en": "Blautal-Center",
+      "latitude": 48.3997,
+      "longitude": 9.96109,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q883079"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q23786796",
+      "name_de": "Blechen Carré",
+      "name_en": "",
+      "latitude": 51.75834,
+      "longitude": 14.33125,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23786796"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q895069",
+      "name_de": "Boulevard Berlin",
+      "name_en": "Boulevard Berlin",
+      "latitude": 52.4624,
+      "longitude": 13.3249,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q895069"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q15108813",
+      "name_de": "BraWo Carree Salzgitter",
+      "name_en": "BraWo Carree Salzgitter",
+      "latitude": 52.151563,
+      "longitude": 10.329511,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15108813"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q98112373",
+      "name_de": "Breuningerland Sindelfingen",
+      "name_en": "Breuningerland Sindelfingen",
+      "latitude": 48.704365,
+      "longitude": 9.031996,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98112373"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q918045",
+      "name_de": "Britannia Centre Spandau",
+      "name_en": "Britannia Centre Spandau",
+      "latitude": 52.5208,
+      "longitude": 13.1856,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q918045"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q996250",
+      "name_de": "Brücken-Center Ansbach",
+      "name_en": "",
+      "latitude": 49.3064,
+      "longitude": 10.5683,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q996250"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q17521779",
+      "name_de": "Burgaupark",
+      "name_en": "Burgaupark",
+      "latitude": 50.899748,
+      "longitude": 11.594252,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17521779"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q1019926",
+      "name_de": "Bördepark",
+      "name_en": "Bördepark",
+      "latitude": 52.08386,
+      "longitude": 11.59933,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1019926"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q1022823",
+      "name_de": "CAP",
+      "name_en": "CAP",
+      "latitude": 54.3143,
+      "longitude": 10.1324,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1022823"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q1033481",
+      "name_de": "Carré Bad Cannstatt",
+      "name_en": "Cannstatter Carre",
+      "latitude": 48.801667,
+      "longitude": 9.221389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1033481"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q1054366",
+      "name_de": "Centrum-Galerie",
+      "name_en": "Centrum-Galerie",
+      "latitude": 51.046017,
+      "longitude": 13.735528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1054366"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q62521841",
+      "name_de": "Chemnitz-Center",
+      "name_en": "Chemnitz-Center",
+      "latitude": 50.86392,
+      "longitude": 12.86629,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q62521841"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q63170788",
+      "name_de": "CITTI-PARK Kiel",
+      "name_en": "CITTI-PARK Kiel",
+      "latitude": 54.313361,
+      "longitude": 10.100083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63170788"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q15108812",
+      "name_de": "City Carré Magdeburg",
+      "name_en": "City Carré Magdeburg",
+      "latitude": 52.130594,
+      "longitude": 11.630308,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15108812"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q1093870",
+      "name_de": "City Center Landshut",
+      "name_en": "City Center Landshut",
+      "latitude": 48.5394,
+      "longitude": 12.1558,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1093870"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q76419907",
+      "name_de": "City Center Langenhagen",
+      "name_en": "City Center Langenhagen",
+      "latitude": 52.439306,
+      "longitude": 9.7385,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q76419907"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q23541419",
+      "name_de": "City Point & Drehscheibe Bochum",
+      "name_en": "",
+      "latitude": 51.482425,
+      "longitude": 7.217047,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23541419"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q1093764",
+      "name_de": "City-Arkaden Wuppertal",
+      "name_en": "City-Arkaden Wuppertal",
+      "latitude": 51.2572,
+      "longitude": 7.14961,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1093764"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q1093777",
+      "name_de": "City-Center Bergedorf",
+      "name_en": "City-Center Bergedorf",
+      "latitude": 53.48824,
+      "longitude": 10.208935,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1093777"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q56242628",
+      "name_de": "",
+      "name_en": "City-Center Görlitz",
+      "latitude": 51.152611,
+      "longitude": 14.988333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56242628"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q1093787",
+      "name_de": "City-Galerie",
+      "name_en": "City Galerie",
+      "latitude": 49.9781,
+      "longitude": 9.15111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1093787"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q1093785",
+      "name_de": "City-Galerie Augsburg",
+      "name_en": "City-Galerie Augsburg",
+      "latitude": 48.3656,
+      "longitude": 10.9056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1093785"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q1093788",
+      "name_de": "City-Galerie Siegen",
+      "name_en": "City-Galerie Siegen",
+      "latitude": 50.8742,
+      "longitude": 8.015,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1093788"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q20872363",
+      "name_de": "City-Point Kassel",
+      "name_en": "",
+      "latitude": 51.31675,
+      "longitude": 9.49826,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20872363"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q27926555",
+      "name_de": "City-Point Nürnberg",
+      "name_en": "City-Point",
+      "latitude": 49.4495,
+      "longitude": 11.07708,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27926555"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q1112691",
+      "name_de": "Columbus-Center Bremerhaven",
+      "name_en": "Columbus-Center Bremerhaven",
+      "latitude": 53.5423,
+      "longitude": 8.57786,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1112691"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q15111525",
+      "name_de": "Das Gerber",
+      "name_en": "Das Gerber",
+      "latitude": 48.772,
+      "longitude": 9.172,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15111525"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q1170264",
+      "name_de": "Das Schloss",
+      "name_en": "Das Schloss",
+      "latitude": 52.4576,
+      "longitude": 13.321,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1170264"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q29643990",
+      "name_de": "daseinstein",
+      "name_en": "",
+      "latitude": 48.136427,
+      "longitude": 11.613956,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29643990"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q127947552",
+      "name_de": "Depot",
+      "name_en": "",
+      "latitude": 48.514828,
+      "longitude": 9.068774,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q127947552"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q129031597",
+      "name_de": "Designer Outlet Neumünster",
+      "name_en": "Designer Outlet Neumünster",
+      "latitude": 54.04287,
+      "longitude": 9.9787,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q129031597"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q15805324",
+      "name_de": "Designer Outlet Soltau",
+      "name_en": "Designer Outlet Soltau",
+      "latitude": 52.982202,
+      "longitude": 9.923449,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15805324"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q1200688",
+      "name_de": "Designer Outlets Wolfsburg",
+      "name_en": "Designer Outlets Wolfsburg",
+      "latitude": 52.42876,
+      "longitude": 10.79353,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1200688"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q117716598",
+      "name_de": "dez",
+      "name_en": "dez",
+      "latitude": 51.28762,
+      "longitude": 9.47485,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117716598"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q1234063",
+      "name_de": "Dodenhof",
+      "name_en": "Dodenhof",
+      "latitude": 53.06118,
+      "longitude": 9.167833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1234063"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q108548897",
+      "name_de": "Domo",
+      "name_en": "Domo",
+      "latitude": 48.710911,
+      "longitude": 8.999493,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108548897"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q1240780",
+      "name_de": "Donau-Einkaufszentrum",
+      "name_en": "Donau-Einkaufszentrum",
+      "latitude": 49.0262,
+      "longitude": 12.1159,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1240780"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q112270469",
+      "name_de": "Dreiländergalerie",
+      "name_en": "",
+      "latitude": 47.593636,
+      "longitude": 7.609428,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112270469"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q1272315",
+      "name_de": "Düsseldorf Arcaden",
+      "name_en": "Düsseldorf Arcaden",
+      "latitude": 51.2086,
+      "longitude": 6.77361,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1272315"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q24032115",
+      "name_de": "East Side Mall",
+      "name_en": "East Side Mall",
+      "latitude": 52.505833,
+      "longitude": 13.446667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24032115"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q1278254",
+      "name_de": "Eastgate Berlin",
+      "name_en": "Eastgate Berlin",
+      "latitude": 52.5442,
+      "longitude": 13.5447,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1278254"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q108073349",
+      "name_de": "Eidelstedt Center",
+      "name_en": "Eidelstedt Center",
+      "latitude": 53.607184,
+      "longitude": 9.905097,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108073349"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q1308067",
+      "name_de": "Einkaufs-Center Neuperlach – pep",
+      "name_en": "Einkaufs-Center Neuperlach – pep",
+      "latitude": 48.1008,
+      "longitude": 11.6444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1308067"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q109614768",
+      "name_de": "Einkaufszentrum am Landratsamt",
+      "name_en": "Einkaufszentrum am Landratsamt",
+      "latitude": 50.285695,
+      "longitude": 11.922941,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109614768"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q135616730",
+      "name_de": "Einkaufszentrum Am Steinweg Suhl",
+      "name_en": "",
+      "latitude": 50.610101,
+      "longitude": 10.691674,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135616730"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q112229858",
+      "name_de": "Einkaufszentrum Schifferdecker",
+      "name_en": "Einkaufzentrum Schifferdecker",
+      "latitude": 49.529801,
+      "longitude": 9.333338,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112229858"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q107509739",
+      "name_de": "Einkaufszentrum Schulstraße, Senftenberg",
+      "name_en": "Einkaufszentrum Schulstraße, Senftenberg",
+      "latitude": 51.516818,
+      "longitude": 14.000734,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107509739"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q108800418",
+      "name_de": "Einkaufszentrum Wolfgang-Brumme-Allee 2",
+      "name_en": "Einkaufszentrum Wolfgang-Brumme-Allee 2",
+      "latitude": 48.688028,
+      "longitude": 9.009433,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108800418"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q135916997",
+      "name_de": "EKZ Möckmühl",
+      "name_en": "",
+      "latitude": 49.32091,
+      "longitude": 9.36247,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135916997"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q14370908",
+      "name_de": "Elbe-Einkaufszentrum",
+      "name_en": "Elbe-Einkaufszentrum",
+      "latitude": 53.570556,
+      "longitude": 9.862222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14370908"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q19962277",
+      "name_de": "Elbepark",
+      "name_en": "",
+      "latitude": 52.177393,
+      "longitude": 11.482394,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19962277"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q1325215",
+      "name_de": "ELBEPARK Dresden",
+      "name_en": "ELBEPARK Dresden",
+      "latitude": 51.08484,
+      "longitude": 13.69605,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1325215"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q58223780",
+      "name_de": "Elisenhof München",
+      "name_en": "Elisenhof München",
+      "latitude": 48.141306,
+      "longitude": 11.562194,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58223780"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q65234650",
+      "name_de": "Emaillierwerk",
+      "name_en": "",
+      "latitude": 50.548607,
+      "longitude": 9.687996,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65234650"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q29386309",
+      "name_de": "Emsgalerie",
+      "name_en": "",
+      "latitude": 52.278056,
+      "longitude": 7.441667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29386309"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q50350949",
+      "name_de": "Erlangen Arcaden",
+      "name_en": "Erlangen Arcaden",
+      "latitude": 49.59312,
+      "longitude": 11.00405,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q50350949"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q1356997",
+      "name_de": "Ernst-August-Galerie",
+      "name_en": "Ernst-August-Galerie",
+      "latitude": 52.3772,
+      "longitude": 9.73878,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1356997"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q1371839",
+      "name_de": "Ettlinger Tor",
+      "name_en": "Ettlinger Tor",
+      "latitude": 49.0065,
+      "longitude": 8.40248,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1371839"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q1375224",
+      "name_de": "Europa Passage",
+      "name_en": "Europa Passage",
+      "latitude": 53.55136,
+      "longitude": 9.99638,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1375224"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q1375135",
+      "name_de": "Europa-Galerie Saarbrücken",
+      "name_en": "Europa-Galerie",
+      "latitude": 49.2397,
+      "longitude": 6.98972,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1375135"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q49325804",
+      "name_de": "Fabrikkomplex mit zwei eingeschossigen Werkshallen an Hartmannstraße und im Hof (Anschrift: Uhlichstraße 2a) sowie einem dreigeschossigen Fertigungsgebäude an der Reichsstraße (Anschrift: Reichsstraße 58-60); Reichsstraße 58; 60",
+      "name_en": "Ermafa-Passage Chemnitz",
+      "latitude": 50.837539,
+      "longitude": 12.906681,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49325804"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q1093776",
+      "name_de": "Flair",
+      "name_en": "Flair",
+      "latitude": 49.4753,
+      "longitude": 10.9903,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1093776"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q12311615",
+      "name_de": "Flensburg Galerie",
+      "name_en": "Flensburg Galerie",
+      "latitude": 54.7832,
+      "longitude": 9.43756,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12311615"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q15110767",
+      "name_de": "Florapark",
+      "name_en": "Florapark",
+      "latitude": 52.160336,
+      "longitude": 11.604223,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15110767"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q15810013",
+      "name_de": "Forum Allgäu",
+      "name_en": "Forum Allgäu",
+      "latitude": 47.720842,
+      "longitude": 10.314971,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15810013"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q19962397",
+      "name_de": "Forum City Mülheim",
+      "name_en": "Forum",
+      "latitude": 51.429218,
+      "longitude": 6.886085,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19962397"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q1439187",
+      "name_de": "Forum Duisburg",
+      "name_en": "Forum Duisburg",
+      "latitude": 51.4321,
+      "longitude": 6.76885,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1439187"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q25388948",
+      "name_de": "Forum Hanau",
+      "name_en": "",
+      "latitude": 50.134949,
+      "longitude": 8.916856,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25388948"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q1439210",
+      "name_de": "Forum Köpenick",
+      "name_en": "Forum Köpenick",
+      "latitude": 52.4581,
+      "longitude": 13.5775,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1439210"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q1439218",
+      "name_de": "Forum Mittelrhein",
+      "name_en": "Forum Mittelrhein",
+      "latitude": 50.3578,
+      "longitude": 7.59611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1439218"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q1439238",
+      "name_de": "Forum Steglitz",
+      "name_en": "Forum Steglitz",
+      "latitude": 52.4646,
+      "longitude": 13.3268,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1439238"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q507138",
+      "name_de": "Forum Wetzlar",
+      "name_en": "Forum Wetzlar",
+      "latitude": 50.5646,
+      "longitude": 8.50449,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q507138"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q1444564",
+      "name_de": "Franken-Center",
+      "name_en": "Franken-Center",
+      "latitude": 49.403611,
+      "longitude": 11.133611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1444564"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q12313318",
+      "name_de": "Fördepark",
+      "name_en": "Förde-Park",
+      "latitude": 54.7605,
+      "longitude": 9.43262,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12313318"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q1491872",
+      "name_de": "Galerie Neustädter Tor",
+      "name_en": "Galerie Neustädter Tor",
+      "latitude": 50.5872,
+      "longitude": 8.67111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1491872"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q89595162",
+      "name_de": "Galerie Roter Turm",
+      "name_en": "Galerie Roter Turm",
+      "latitude": 50.83381,
+      "longitude": 12.92094,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q89595162"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q1492309",
+      "name_de": "Galleria",
+      "name_en": "Galleria di Roma",
+      "latitude": 53.552917,
+      "longitude": 9.988729,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1492309"
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q114445332",
+      "name_de": "Gera Arcaden",
+      "name_en": "Gera Arcaden",
+      "latitude": 50.87601,
+      "longitude": 12.07852,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114445332"
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q1519740",
+      "name_de": "Gesundbrunnen-Center",
+      "name_en": "Gesundbrunnen-Center",
+      "latitude": 52.5497,
+      "longitude": 13.3889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1519740"
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q1529003",
+      "name_de": "Glacis-Galerie",
+      "name_en": "Glacis-Galerie",
+      "latitude": 48.3935,
+      "longitude": 10.0043,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1529003"
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q17353613",
+      "name_de": "Goethe Galerie",
+      "name_en": "Goethe-Galerie",
+      "latitude": 50.927611,
+      "longitude": 11.582639,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17353613"
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q1413944",
+      "name_de": "Gropius Passagen",
+      "name_en": "Gropius Passagen",
+      "latitude": 52.4297,
+      "longitude": 13.4556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1413944"
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q137401516",
+      "name_de": "Gutenberg-Center",
+      "name_en": "",
+      "latitude": 49.967509,
+      "longitude": 8.228213,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137401516"
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q115988686",
+      "name_de": "Gänsemarkt Passage",
+      "name_en": "Gänsemarkt Passage",
+      "latitude": 53.55532,
+      "longitude": 9.98938,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115988686"
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q129035547",
+      "name_de": "Halle Leipzig The Style Outlets",
+      "name_en": "Halle Leipzig The Style Outlets",
+      "latitude": 51.5543,
+      "longitude": 12.1932,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q129035547"
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q20871115",
+      "name_de": "Hallen Am Borsigturm",
+      "name_en": "Hallen am Borsigturm",
+      "latitude": 52.584691,
+      "longitude": 13.286108,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20871115"
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q1229183",
+      "name_de": "Hamburger Hof",
+      "name_en": "Hamburger Hof",
+      "latitude": 53.553833,
+      "longitude": 9.990889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1229183"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q1282447",
+      "name_de": "Handelscentrum Strausberg",
+      "name_en": "Handelscentrum Strausberg",
+      "latitude": 52.5571,
+      "longitude": 13.8697,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1282447"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q14906769",
+      "name_de": "Hanseviertel",
+      "name_en": "Hanse-Viertel",
+      "latitude": 53.553355,
+      "longitude": 9.989585,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14906769"
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q1493842",
+      "name_de": "Havelpark Dallgow",
+      "name_en": "Havelpark Dallgow",
+      "latitude": 52.5308,
+      "longitude": 13.0833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1493842"
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q1602807",
+      "name_de": "Hellersdorfer Corso",
+      "name_en": "Hellersdorfer Corso",
+      "latitude": 52.5295,
+      "longitude": 13.5928,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1602807"
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q1615741",
+      "name_de": "Hessen-Center",
+      "name_en": "Hessen-Center",
+      "latitude": 50.1403,
+      "longitude": 8.75222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1615741"
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q15115017",
+      "name_de": "Hofstatt (Einkaufspassage)",
+      "name_en": "Hofstatt (Munich)",
+      "latitude": 48.136369,
+      "longitude": 11.571382,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15115017"
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q133459650",
+      "name_de": "Hohenbusch Center Weixdorf",
+      "name_en": "Hohenbusch Center Weixdorf",
+      "latitude": 51.141014,
+      "longitude": 13.795449,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133459650"
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q23785664",
+      "name_de": "Holsten-Galerie Neumünster",
+      "name_en": "Holsten-Galerie Neumünster",
+      "latitude": 54.073978,
+      "longitude": 9.981463,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23785664"
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q60740290",
+      "name_de": "Holzmarktpassage",
+      "name_en": "Holzmarktpassage",
+      "latitude": 50.92669,
+      "longitude": 11.58591,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60740290"
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q1566116",
+      "name_de": "Huma Shoppingwelt",
+      "name_en": "HUMA Einkaufspark Sankt Augustin",
+      "latitude": 50.7774,
+      "longitude": 7.18738,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1566116"
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q1296522",
+      "name_de": "Höfe am Brühl",
+      "name_en": "Höfe am Brühl",
+      "latitude": 51.3436,
+      "longitude": 12.3749,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1296522"
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q1652448",
+      "name_de": "Hürth Park",
+      "name_en": "",
+      "latitude": 50.8791,
+      "longitude": 6.87448,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1652448"
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q115184332",
+      "name_de": "Isar Center",
+      "name_en": "",
+      "latitude": 48.06316,
+      "longitude": 11.65054,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115184332"
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q1673813",
+      "name_de": "Isenburg-Zentrum",
+      "name_en": "Isenburg-Zentrum",
+      "latitude": 50.049972,
+      "longitude": 8.698889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1673813"
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q124318146",
+      "name_de": "",
+      "name_en": "JEN Einkaufscenter Jenfeld",
+      "latitude": 53.571837,
+      "longitude": 10.135258,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124318146"
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q19287443",
+      "name_de": "K in Lautern",
+      "name_en": "K in Lautern",
+      "latitude": 49.4445,
+      "longitude": 7.76613,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19287443"
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q15056938",
+      "name_de": "Kamp-Promenade",
+      "name_en": "Kamp-Promenade",
+      "latitude": 52.273482,
+      "longitude": 8.046573,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15056938"
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q112631750",
+      "name_de": "KaufPark Dresden-Nickern",
+      "name_en": "KaufPark Dresden-Nickern",
+      "latitude": 50.99706,
+      "longitude": 13.79997,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112631750"
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q1737064",
+      "name_de": "Kaufpark Eiche",
+      "name_en": "Kaufpark Eiche",
+      "latitude": 52.5493,
+      "longitude": 13.5953,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1737064"
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q22692655",
+      "name_de": "Kornmarkt-Center Bautzen",
+      "name_en": "Kornmarktcenter",
+      "latitude": 51.17988,
+      "longitude": 14.42506,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22692655"
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q121037564",
+      "name_de": "Krohnstieg Center",
+      "name_en": "Krohnstieg Center",
+      "latitude": 53.648933,
+      "longitude": 10.014081,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121037564"
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q97130373",
+      "name_de": "Kronenberg-Center",
+      "name_en": "Kronenberg-Center",
+      "latitude": 51.45694,
+      "longitude": 6.985652,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97130373"
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q20652634",
+      "name_de": "Kröpeliner Tor Center",
+      "name_en": "Kröpeliner-Tor-Center",
+      "latitude": 54.088883,
+      "longitude": 12.129683,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20652634"
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q89206273",
+      "name_de": "Kurfürsten Galerie",
+      "name_en": "",
+      "latitude": 51.31681,
+      "longitude": 9.49668,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q89206273"
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q18628403",
+      "name_de": "Kö-Center",
+      "name_en": "Kö-Center",
+      "latitude": 51.22462,
+      "longitude": 6.77998,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18628403"
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q1795614",
+      "name_de": "Kö-Galerie",
+      "name_en": "Kö-Galerie",
+      "latitude": 51.2217,
+      "longitude": 6.78083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1795614"
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q107692782",
+      "name_de": "Köln Arcaden",
+      "name_en": "Köln Arcaden",
+      "latitude": 50.93838,
+      "longitude": 6.99737,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107692782"
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q1725843",
+      "name_de": "Königs-Galerie Kassel",
+      "name_en": "Königs-Galerie Kassel",
+      "latitude": 51.314444,
+      "longitude": 9.495,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1725843"
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q50997309",
+      "name_de": "Königsbau-Passagen",
+      "name_en": "Königsbau-Passagen",
+      "latitude": 48.77924,
+      "longitude": 9.17803,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q50997309"
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q15117901",
+      "name_de": "Königsgalerie Duisburg",
+      "name_en": "Königsgalerie Duisburg",
+      "latitude": 51.433511,
+      "longitude": 6.762428,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15117901"
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q1799912",
+      "name_de": "Ladenzentrum Garath-Nordost",
+      "name_en": "",
+      "latitude": 51.1499,
+      "longitude": 6.89673,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1799912"
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q52147092",
+      "name_de": "Lago",
+      "name_en": "Lago",
+      "latitude": 47.65744,
+      "longitude": 9.17653,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q52147092"
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q120204747",
+      "name_de": "LaHoMa Living Plaza",
+      "name_en": "LaHoMa Living Plaza",
+      "latitude": 53.649753,
+      "longitude": 10.014993,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q120204747"
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q116764564",
+      "name_de": "Lambertihof",
+      "name_en": "Lambertihof",
+      "latitude": 53.138599,
+      "longitude": 8.213273,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116764564"
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q136170087",
+      "name_de": "Lausitz Park Cottbus",
+      "name_en": "",
+      "latitude": 51.717317,
+      "longitude": 14.321838,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136170087"
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q135616675",
+      "name_de": "Lauterbogen-Center",
+      "name_en": "",
+      "latitude": 50.610717,
+      "longitude": 10.690529,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135616675"
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q20184526",
+      "name_de": "Leine-Center Laatzen",
+      "name_en": "Leine-Center Laatzen",
+      "latitude": 52.30684,
+      "longitude": 9.81128,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20184526"
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q703916",
+      "name_de": "Leipzig Hauptbahnhof",
+      "name_en": "Leipzig Central Station",
+      "latitude": 51.345278,
+      "longitude": 12.382222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q703916"
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q1797088",
+      "name_de": "Leo-Center",
+      "name_en": "Leo-Center",
+      "latitude": 48.7949,
+      "longitude": 9.01041,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1797088"
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q107955668",
+      "name_de": "Libori Galerie",
+      "name_en": "Libori Galerie",
+      "latitude": 51.716465,
+      "longitude": 8.757783,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107955668"
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q1825007",
+      "name_de": "Lilien-Carré",
+      "name_en": "Lilien-Carré",
+      "latitude": 50.0708,
+      "longitude": 8.24167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1825007"
+    },
+    {
+      "id": 150,
+      "wikidata_id": "Q1825363",
+      "name_de": "Limbecker Platz",
+      "name_en": "Limbecker Platz",
+      "latitude": 51.4583,
+      "longitude": 7.00611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1825363"
+    },
+    {
+      "id": 151,
+      "wikidata_id": "Q111019648",
+      "name_de": "Lindaupark",
+      "name_en": "",
+      "latitude": 47.55395,
+      "longitude": 9.70293,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111019648"
+    },
+    {
+      "id": 152,
+      "wikidata_id": "Q1866873",
+      "name_de": "Lloyd-Passage",
+      "name_en": "Lloyd Passage",
+      "latitude": 53.0778,
+      "longitude": 8.80556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1866873"
+    },
+    {
+      "id": 153,
+      "wikidata_id": "Q1798259",
+      "name_de": "LOOP5",
+      "name_en": "LOOP5",
+      "latitude": 49.8923,
+      "longitude": 8.60556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1798259"
+    },
+    {
+      "id": 154,
+      "wikidata_id": "Q1679700",
+      "name_de": "Luisencenter",
+      "name_en": "Luisencenter",
+      "latitude": 49.872,
+      "longitude": 8.6515,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1679700"
+    },
+    {
+      "id": 155,
+      "wikidata_id": "Q1507229",
+      "name_de": "Luisenforum",
+      "name_en": "",
+      "latitude": 50.0783,
+      "longitude": 8.23667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1507229"
+    },
+    {
+      "id": 156,
+      "wikidata_id": "Q124358209",
+      "name_de": "Luna Center",
+      "name_en": "Luna Center",
+      "latitude": 53.498292,
+      "longitude": 10.00862,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124358209"
+    },
+    {
+      "id": 157,
+      "wikidata_id": "Q123697054",
+      "name_de": "Lurup-Center",
+      "name_en": "Lurup-Center",
+      "latitude": 53.59183,
+      "longitude": 9.87405,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123697054"
+    },
+    {
+      "id": 158,
+      "wikidata_id": "Q1879707",
+      "name_de": "Löhr-Center",
+      "name_en": "Löhr-Center",
+      "latitude": 50.358611,
+      "longitude": 7.590833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1879707"
+    },
+    {
+      "id": 159,
+      "wikidata_id": "Q1145739",
+      "name_de": "Main-Taunus-Zentrum",
+      "name_en": "Main-Taunus-Zentrum",
+      "latitude": 50.118611,
+      "longitude": 8.526944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1145739"
+    },
+    {
+      "id": 160,
+      "wikidata_id": "Q15118274",
+      "name_de": "Mall of Berlin",
+      "name_en": "Mall of Berlin",
+      "latitude": 52.509959,
+      "longitude": 13.379803,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15118274"
+    },
+    {
+      "id": 161,
+      "wikidata_id": "Q129169913",
+      "name_de": "Markt am Nonnenhaus",
+      "name_en": "",
+      "latitude": 48.522183,
+      "longitude": 9.056591,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q129169913"
+    },
+    {
+      "id": 162,
+      "wikidata_id": "Q1901056",
+      "name_de": "Marktkarree Langenfeld",
+      "name_en": "Marktkarree Langenfeld",
+      "latitude": 51.110141,
+      "longitude": 6.95028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1901056"
+    },
+    {
+      "id": 163,
+      "wikidata_id": "Q1901172",
+      "name_de": "Marktplatz Center Hellersdorf",
+      "name_en": "Marktplatz Center Berlin-Hellersdorf",
+      "latitude": 52.5376,
+      "longitude": 13.605,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1901172"
+    },
+    {
+      "id": 164,
+      "wikidata_id": "Q1902040",
+      "name_de": "Marler Stern",
+      "name_en": "",
+      "latitude": 51.6544,
+      "longitude": 7.09674,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1902040"
+    },
+    {
+      "id": 165,
+      "wikidata_id": "Q108548989",
+      "name_de": "Mercaden",
+      "name_en": "Mercaden",
+      "latitude": 48.687515,
+      "longitude": 9.006139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108548989"
+    },
+    {
+      "id": 166,
+      "wikidata_id": "Q108897902",
+      "name_de": "Mercaden Dorsten",
+      "name_en": "Mercaden Dorsten",
+      "latitude": 51.66343,
+      "longitude": 6.96398,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108897902"
+    },
+    {
+      "id": 167,
+      "wikidata_id": "Q120204759",
+      "name_de": "Mercado",
+      "name_en": "Mercado",
+      "latitude": 53.552851,
+      "longitude": 9.932231,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q120204759"
+    },
+    {
+      "id": 168,
+      "wikidata_id": "Q1921132",
+      "name_de": "Mercado Nürnberg",
+      "name_en": "",
+      "latitude": 49.4696,
+      "longitude": 11.102,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1921132"
+    },
+    {
+      "id": 169,
+      "wikidata_id": "Q15226798",
+      "name_de": "Mettehof",
+      "name_en": "Mettehof",
+      "latitude": 51.78238,
+      "longitude": 11.14367,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15226798"
+    },
+    {
+      "id": 170,
+      "wikidata_id": "Q14544989",
+      "name_de": "Milaneo",
+      "name_en": "Milaneo",
+      "latitude": 48.7913,
+      "longitude": 9.1824,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14544989"
+    },
+    {
+      "id": 171,
+      "wikidata_id": "Q26821607",
+      "name_de": "Minto",
+      "name_en": "Minto",
+      "latitude": 51.194722,
+      "longitude": 6.437778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26821607"
+    },
+    {
+      "id": 172,
+      "wikidata_id": "Q21010808",
+      "name_de": "Mira",
+      "name_en": "Mira",
+      "latitude": 48.21307,
+      "longitude": 11.5636,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21010808"
+    },
+    {
+      "id": 173,
+      "wikidata_id": "Q57027136",
+      "name_de": "MOA Bogen",
+      "name_en": "",
+      "latitude": 52.531972,
+      "longitude": 13.344528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57027136"
+    },
+    {
+      "id": 174,
+      "wikidata_id": "Q25089262",
+      "name_de": "Mona",
+      "name_en": "Mona",
+      "latitude": 48.18245,
+      "longitude": 11.530566,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25089262"
+    },
+    {
+      "id": 175,
+      "wikidata_id": "Q1383197",
+      "name_de": "MyZeil",
+      "name_en": "MyZeil",
+      "latitude": 50.1143,
+      "longitude": 8.68153,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1383197"
+    },
+    {
+      "id": 176,
+      "wikidata_id": "Q1959081",
+      "name_de": "Münster-Arkaden",
+      "name_en": "Münster Arkaden",
+      "latitude": 51.9606,
+      "longitude": 7.62694,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1959081"
+    },
+    {
+      "id": 177,
+      "wikidata_id": "Q127601869",
+      "name_de": "Nahversorgungszentrum Hannover-Marienwerder",
+      "name_en": "Nahversorgungszentrum Hannover-Marienwerder",
+      "latitude": 52.405256,
+      "longitude": 9.619086,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q127601869"
+    },
+    {
+      "id": 178,
+      "wikidata_id": "Q108353180",
+      "name_de": "Neefepark",
+      "name_en": "Neefepark",
+      "latitude": 50.80493,
+      "longitude": 12.86062,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108353180"
+    },
+    {
+      "id": 179,
+      "wikidata_id": "Q124358758",
+      "name_de": "Neue Mitte",
+      "name_en": "Neue Mitte",
+      "latitude": 50.92882,
+      "longitude": 11.58452,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124358758"
+    },
+    {
+      "id": 180,
+      "wikidata_id": "Q1980816",
+      "name_de": "Neukölln Arcaden",
+      "name_en": "Neukölln Arcaden",
+      "latitude": 52.482,
+      "longitude": 13.433,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1980816"
+    },
+    {
+      "id": 181,
+      "wikidata_id": "Q138588692",
+      "name_de": "Neuköllner Tor",
+      "name_en": "Neuköllner Tor",
+      "latitude": 52.468762,
+      "longitude": 13.443761,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138588692"
+    },
+    {
+      "id": 182,
+      "wikidata_id": "Q41623913",
+      "name_de": "Neumann Forum",
+      "name_en": "Neumann Forum",
+      "latitude": 52.561154,
+      "longitude": 13.422668,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q41623913"
+    },
+    {
+      "id": 183,
+      "wikidata_id": "Q95057383",
+      "name_de": "Neumarkt Galerie",
+      "name_en": "Neumarkt Galerie Cologne",
+      "latitude": 50.936568,
+      "longitude": 6.948606,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q95057383"
+    },
+    {
+      "id": 184,
+      "wikidata_id": "Q34476558",
+      "name_de": "Neustadt Centrum Halle",
+      "name_en": "Neustadt Centrum Halle",
+      "latitude": 51.4797,
+      "longitude": 11.9201,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q34476558"
+    },
+    {
+      "id": 185,
+      "wikidata_id": "Q1543902",
+      "name_de": "Neustädter Markthalle",
+      "name_en": "Neustädter Markthalle",
+      "latitude": 51.0602,
+      "longitude": 13.7449,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1543902"
+    },
+    {
+      "id": 186,
+      "wikidata_id": "Q43273973",
+      "name_de": "Neutor Galerie",
+      "name_en": "Neutor Galerie",
+      "latitude": 51.56177,
+      "longitude": 6.74009,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q43273973"
+    },
+    {
+      "id": 187,
+      "wikidata_id": "Q69537339",
+      "name_de": "NOC Weiden",
+      "name_en": "",
+      "latitude": 49.675469,
+      "longitude": 12.159199,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q69537339"
+    },
+    {
+      "id": 188,
+      "wikidata_id": "Q1230981",
+      "name_de": "Nordwestzentrum",
+      "name_en": "Nordwestzentrum",
+      "latitude": 50.1578,
+      "longitude": 8.63306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1230981"
+    },
+    {
+      "id": 189,
+      "wikidata_id": "Q2002766",
+      "name_de": "Nova (Einkaufszentrum)",
+      "name_en": "Nova (shopping mall)",
+      "latitude": 51.344306,
+      "longitude": 12.177778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2002766"
+    },
+    {
+      "id": 190,
+      "wikidata_id": "Q55100534",
+      "name_de": "Obermarktpassage",
+      "name_en": "Obermarktpassage Minden",
+      "latitude": 52.286389,
+      "longitude": 8.915278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55100534"
+    },
+    {
+      "id": 191,
+      "wikidata_id": "Q265196",
+      "name_de": "Olympia-Einkaufszentrum",
+      "name_en": "Olympia-Einkaufszentrum",
+      "latitude": 48.1833,
+      "longitude": 11.5336,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q265196"
+    },
+    {
+      "id": 192,
+      "wikidata_id": "Q19965674",
+      "name_de": "Palais Vest",
+      "name_en": "Palais Vest",
+      "latitude": 51.61329,
+      "longitude": 7.20056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19965674"
+    },
+    {
+      "id": 193,
+      "wikidata_id": "Q2055589",
+      "name_de": "Pasing Arcaden",
+      "name_en": "Pasing Arcaden",
+      "latitude": 48.14826,
+      "longitude": 11.46401,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2055589"
+    },
+    {
+      "id": 194,
+      "wikidata_id": "Q2064386",
+      "name_de": "Paunsdorf Center",
+      "name_en": "Paunsdorf Center",
+      "latitude": 51.3486,
+      "longitude": 12.4772,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2064386"
+    },
+    {
+      "id": 195,
+      "wikidata_id": "Q14547910",
+      "name_de": "Phoenix-Center",
+      "name_en": "Phoenix-Center",
+      "latitude": 53.456937,
+      "longitude": 9.988168,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14547910"
+    },
+    {
+      "id": 196,
+      "wikidata_id": "Q61856813",
+      "name_de": "Plaza",
+      "name_en": "Plaza",
+      "latitude": 54.308361,
+      "longitude": 10.110083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61856813"
+    },
+    {
+      "id": 197,
+      "wikidata_id": "Q110921784",
+      "name_de": "Pohland Passage",
+      "name_en": "Pohland Passage",
+      "latitude": 51.042851,
+      "longitude": 13.793008,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110921784"
+    },
+    {
+      "id": 198,
+      "wikidata_id": "Q2104825",
+      "name_de": "Porta Markt",
+      "name_en": "Porta Markt",
+      "latitude": 52.2604,
+      "longitude": 8.90292,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2104825"
+    },
+    {
+      "id": 199,
+      "wikidata_id": "Q2105885",
+      "name_de": "Post Galerie",
+      "name_en": "Post Galerie",
+      "latitude": 49.0093,
+      "longitude": 8.39422,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2105885"
+    },
+    {
+      "id": 200,
+      "wikidata_id": "Q118140147",
+      "name_de": "Pösna Park - Neuseenlandcenter",
+      "name_en": "",
+      "latitude": 51.26838,
+      "longitude": 12.497796,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118140147"
+    },
+    {
+      "id": 201,
+      "wikidata_id": "Q17378098",
+      "name_de": "Quartier 206",
+      "name_en": "Quartier 206",
+      "latitude": 52.514722,
+      "longitude": 13.39,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17378098"
+    },
+    {
+      "id": 202,
+      "wikidata_id": "Q120496053",
+      "name_de": "Rahlstedt Center",
+      "name_en": "Rahlstedt Center",
+      "latitude": 53.604775,
+      "longitude": 10.1584,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q120496053"
+    },
+    {
+      "id": 203,
+      "wikidata_id": "Q120441666",
+      "name_de": "Rathaus Center Dietzenbach",
+      "name_en": "",
+      "latitude": 50.018364,
+      "longitude": 8.783262,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q120441666"
+    },
+    {
+      "id": 204,
+      "wikidata_id": "Q1363298",
+      "name_de": "Rathaus Galerie Essen",
+      "name_en": "Rathaus Galerie Essen",
+      "latitude": 51.4573,
+      "longitude": 7.015,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1363298"
+    },
+    {
+      "id": 205,
+      "wikidata_id": "Q2132377",
+      "name_de": "Rathaus-Center Ludwigshafen",
+      "name_en": "Rathaus-Center Ludwigshafen",
+      "latitude": 49.4856,
+      "longitude": 8.44314,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2132377"
+    },
+    {
+      "id": 206,
+      "wikidata_id": "Q41620808",
+      "name_de": "Rathaus-Center Pankow",
+      "name_en": "Rathaus-Center Pankow",
+      "latitude": 52.570099,
+      "longitude": 13.403799,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q41620808"
+    },
+    {
+      "id": 207,
+      "wikidata_id": "Q18630057",
+      "name_de": "Rathaus-Galerie Hagen",
+      "name_en": "Rathaus-Galerie Hagen",
+      "latitude": 51.357524,
+      "longitude": 7.475262,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18630057"
+    },
+    {
+      "id": 208,
+      "wikidata_id": "Q15841780",
+      "name_de": "Rathaus-Galerie Leverkusen",
+      "name_en": "Rathaus-Galerie Leverkusen",
+      "latitude": 51.03284,
+      "longitude": 6.988378,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15841780"
+    },
+    {
+      "id": 209,
+      "wikidata_id": "Q1263382",
+      "name_de": "Rathaus-Galerie Wuppertal",
+      "name_en": "Rathaus-Galerie Wuppertal",
+      "latitude": 51.2599,
+      "longitude": 7.14581,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1263382"
+    },
+    {
+      "id": 210,
+      "wikidata_id": "Q61676983",
+      "name_de": "Reschop Carré",
+      "name_en": "Reschop Carré",
+      "latitude": 51.397661,
+      "longitude": 7.181361,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61676983"
+    },
+    {
+      "id": 211,
+      "wikidata_id": "Q23786285",
+      "name_de": "Rhein-Center Köln",
+      "name_en": "",
+      "latitude": 50.9373,
+      "longitude": 6.8353,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23786285"
+    },
+    {
+      "id": 212,
+      "wikidata_id": "Q1479379",
+      "name_de": "Rhein-Galerie",
+      "name_en": "Rhein-Galerie",
+      "latitude": 49.4859,
+      "longitude": 8.4471,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1479379"
+    },
+    {
+      "id": 213,
+      "wikidata_id": "Q2147486",
+      "name_de": "Rhein-Neckar-Zentrum",
+      "name_en": "Rhein-Neckar-Zentrum",
+      "latitude": 49.5272,
+      "longitude": 8.56619,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2147486"
+    },
+    {
+      "id": 214,
+      "wikidata_id": "Q2798106",
+      "name_de": "Rheinpark-Center",
+      "name_en": "Rheinpark-Center",
+      "latitude": 51.2031,
+      "longitude": 6.71949,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2798106"
+    },
+    {
+      "id": 215,
+      "wikidata_id": "Q1771887",
+      "name_de": "RheinRuhrZentrum",
+      "name_en": "RheinRuhrZentrum",
+      "latitude": 51.4383,
+      "longitude": 6.95472,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1771887"
+    },
+    {
+      "id": 216,
+      "wikidata_id": "Q1389126",
+      "name_de": "Riem Arcaden",
+      "name_en": "Riem Arcaden",
+      "latitude": 48.1319,
+      "longitude": 11.6919,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1389126"
+    },
+    {
+      "id": 217,
+      "wikidata_id": "Q17325911",
+      "name_de": "Riesapark",
+      "name_en": "",
+      "latitude": 51.298346,
+      "longitude": 13.26705,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17325911"
+    },
+    {
+      "id": 218,
+      "wikidata_id": "Q2153462",
+      "name_de": "Ring-Center",
+      "name_en": "Ring-Center",
+      "latitude": 52.5143,
+      "longitude": 13.4741,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2153462"
+    },
+    {
+      "id": 219,
+      "wikidata_id": "Q1720840",
+      "name_de": "Roland-Center",
+      "name_en": "Roland-Center",
+      "latitude": 53.0478,
+      "longitude": 8.74306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1720840"
+    },
+    {
+      "id": 220,
+      "wikidata_id": "Q22575816",
+      "name_de": "Rotmain-Center Bayreuth",
+      "name_en": "Rotmaincenter",
+      "latitude": 49.945833,
+      "longitude": 11.56989,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22575816"
+    },
+    {
+      "id": 221,
+      "wikidata_id": "Q2175037",
+      "name_de": "Ruhr-Park",
+      "name_en": "Ruhr-Park",
+      "latitude": 51.4946,
+      "longitude": 7.28368,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2175037"
+    },
+    {
+      "id": 222,
+      "wikidata_id": "Q131351082",
+      "name_de": "Rundbau und Ladenpassage",
+      "name_en": "",
+      "latitude": 51.7257,
+      "longitude": 7.0285,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131351082"
+    },
+    {
+      "id": 223,
+      "wikidata_id": "Q61888017",
+      "name_de": "Rée Carré",
+      "name_en": "Rée Carré",
+      "latitude": 48.472881,
+      "longitude": 7.94435,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61888017"
+    },
+    {
+      "id": 224,
+      "wikidata_id": "Q137486220",
+      "name_de": "Römerpassage",
+      "name_en": "",
+      "latitude": 50.001236,
+      "longitude": 8.268537,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137486220"
+    },
+    {
+      "id": 225,
+      "wikidata_id": "Q2209115",
+      "name_de": "Saarbasar",
+      "name_en": "Saarbasar",
+      "latitude": 49.228,
+      "longitude": 7.03557,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2209115"
+    },
+    {
+      "id": 226,
+      "wikidata_id": "Q22693708",
+      "name_de": "Saarpark-Center",
+      "name_en": "",
+      "latitude": 49.34775,
+      "longitude": 7.17349,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22693708"
+    },
+    {
+      "id": 227,
+      "wikidata_id": "Q133933998",
+      "name_de": "Sachsen-Allee",
+      "name_en": "Sachsen-Allee",
+      "latitude": 50.8465,
+      "longitude": 12.93839,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133933998"
+    },
+    {
+      "id": 228,
+      "wikidata_id": "Q108429927",
+      "name_de": "Sander Center",
+      "name_en": "Sander Center",
+      "latitude": 53.137393,
+      "longitude": 8.741938,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108429927"
+    },
+    {
+      "id": 229,
+      "wikidata_id": "Q12334717",
+      "name_de": "Scandinavian Park",
+      "name_en": "Scandinavian Park",
+      "latitude": 54.7785,
+      "longitude": 9.33426,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12334717"
+    },
+    {
+      "id": 230,
+      "wikidata_id": "Q50879483",
+      "name_de": "Schiller-Galerie",
+      "name_en": "Schiller-Galerie",
+      "latitude": 51.05179,
+      "longitude": 13.80477,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q50879483"
+    },
+    {
+      "id": 231,
+      "wikidata_id": "Q131469443",
+      "name_de": "Schillergalerie",
+      "name_en": "",
+      "latitude": 51.051829,
+      "longitude": 13.804753,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131469443"
+    },
+    {
+      "id": 232,
+      "wikidata_id": "Q133101724",
+      "name_de": "Schleifmühleweg 36",
+      "name_en": "Schleifmühleweg 36",
+      "latitude": 48.520957,
+      "longitude": 9.043942,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133101724"
+    },
+    {
+      "id": 233,
+      "wikidata_id": "Q1729147",
+      "name_de": "Schloss-Straßen-Center",
+      "name_en": "Schloss-Strassen-Center",
+      "latitude": 52.465108,
+      "longitude": 13.32775,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1729147"
+    },
+    {
+      "id": 234,
+      "wikidata_id": "Q2244522",
+      "name_de": "Schlosshöfe",
+      "name_en": "Schlosshöfe",
+      "latitude": 53.1375,
+      "longitude": 8.21711,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2244522"
+    },
+    {
+      "id": 235,
+      "wikidata_id": "Q107509736",
+      "name_de": "Schloßpark-Center Senftenberg",
+      "name_en": "Schloßpark-Center Senftenberg",
+      "latitude": 51.517345,
+      "longitude": 14.003202,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107509736"
+    },
+    {
+      "id": 236,
+      "wikidata_id": "Q56871284",
+      "name_de": "Schultheiss-Quartier",
+      "name_en": "Schultheiss Quartier",
+      "latitude": 52.527694,
+      "longitude": 13.343944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56871284"
+    },
+    {
+      "id": 237,
+      "wikidata_id": "Q2252550",
+      "name_de": "Schwabencenter",
+      "name_en": "Schwabencenter",
+      "latitude": 48.3554,
+      "longitude": 10.924,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2252550"
+    },
+    {
+      "id": 238,
+      "wikidata_id": "Q7433214",
+      "name_de": "Schwarzwald-Baar-Center",
+      "name_en": "Schwarzwald-Baar-Center",
+      "latitude": 48.08195,
+      "longitude": 8.49982,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7433214"
+    },
+    {
+      "id": 239,
+      "wikidata_id": "Q107959099",
+      "name_de": "Schwarzwald-City",
+      "name_en": "Schwarzwald-City",
+      "latitude": 47.997318,
+      "longitude": 7.8506,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107959099"
+    },
+    {
+      "id": 240,
+      "wikidata_id": "Q47088877",
+      "name_de": "Schönhauser Allee Arcaden",
+      "name_en": "Schönhauser Allee Arcaden",
+      "latitude": 52.549687,
+      "longitude": 13.414282,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q47088877"
+    },
+    {
+      "id": 241,
+      "wikidata_id": "Q107542271",
+      "name_de": "Seeadlerstraße 4",
+      "name_en": "Seeadlerstraße 4",
+      "latitude": 51.510518,
+      "longitude": 13.990618,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107542271"
+    },
+    {
+      "id": 242,
+      "wikidata_id": "Q2275182",
+      "name_de": "Sevens Center",
+      "name_en": "Sevens Center",
+      "latitude": 51.2225,
+      "longitude": 6.77968,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2275182"
+    },
+    {
+      "id": 243,
+      "wikidata_id": "Q1253517",
+      "name_de": "Shopping Arkaden",
+      "name_en": "Shopping Arkaden Bocholt",
+      "latitude": 51.8352,
+      "longitude": 6.61349,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1253517"
+    },
+    {
+      "id": 244,
+      "wikidata_id": "Q2279838",
+      "name_de": "Shopping-Center Hamburger Meile",
+      "name_en": "Shopping-Center Hamburger Meile",
+      "latitude": 53.573333,
+      "longitude": 10.031667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2279838"
+    },
+    {
+      "id": 245,
+      "wikidata_id": "Q1642830",
+      "name_de": "SI-Centrum",
+      "name_en": "SI-Centrum",
+      "latitude": 48.7228,
+      "longitude": 9.1625,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1642830"
+    },
+    {
+      "id": 246,
+      "wikidata_id": "Q1671447",
+      "name_de": "Sophienhof",
+      "name_en": "Sophienhof",
+      "latitude": 54.3169,
+      "longitude": 10.1311,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1671447"
+    },
+    {
+      "id": 247,
+      "wikidata_id": "Q111738326",
+      "name_de": "Spandau Arcaden",
+      "name_en": "Spandau Arcaden",
+      "latitude": 52.533859,
+      "longitude": 13.196696,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111738326"
+    },
+    {
+      "id": 248,
+      "wikidata_id": "Q1250910",
+      "name_de": "Spitzkrug Multi Center",
+      "name_en": "",
+      "latitude": 52.3628,
+      "longitude": 14.5236,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1250910"
+    },
+    {
+      "id": 249,
+      "wikidata_id": "Q85179270",
+      "name_de": "Stachus Passagen",
+      "name_en": "Stachus Passagen",
+      "latitude": 48.139438,
+      "longitude": 11.565498,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q85179270"
+    },
+    {
+      "id": 250,
+      "wikidata_id": "Q1726660",
+      "name_de": "StadtCenter Düren",
+      "name_en": "StadtCenter Düren",
+      "latitude": 50.8055,
+      "longitude": 6.48034,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1726660"
+    },
+    {
+      "id": 251,
+      "wikidata_id": "Q23785607",
+      "name_de": "Stadtgalerie Heilbronn",
+      "name_en": "Stadtgalerie",
+      "latitude": 49.140316,
+      "longitude": 9.216757,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23785607"
+    },
+    {
+      "id": 252,
+      "wikidata_id": "Q1500320",
+      "name_de": "Stadtgalerie Schweinfurt",
+      "name_en": "Stadtgalerie",
+      "latitude": 50.0397,
+      "longitude": 10.225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1500320"
+    },
+    {
+      "id": 253,
+      "wikidata_id": "Q28054707",
+      "name_de": "StadtGalerie Witten",
+      "name_en": "StadtGalerie Witten",
+      "latitude": 51.4368,
+      "longitude": 7.3318,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28054707"
+    },
+    {
+      "id": 254,
+      "wikidata_id": "Q97143422",
+      "name_de": "Stern Center Sindelfingen",
+      "name_en": "Stern Center Sindelfingen",
+      "latitude": 48.70608,
+      "longitude": 8.99901,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97143422"
+    },
+    {
+      "id": 255,
+      "wikidata_id": "Q97143429",
+      "name_de": "Stern-Center Potsdam",
+      "name_en": "Stern-Center Potsdam",
+      "latitude": 52.370761,
+      "longitude": 13.134355,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97143429"
+    },
+    {
+      "id": 256,
+      "wikidata_id": "Q14549041",
+      "name_de": "Straßenbahnhof Mickten",
+      "name_en": "Straßenbahnhof Mickten",
+      "latitude": 51.080016,
+      "longitude": 13.71307,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14549041"
+    },
+    {
+      "id": 257,
+      "wikidata_id": "Q133805439",
+      "name_de": "Strelapark",
+      "name_en": "",
+      "latitude": 54.320444,
+      "longitude": 13.046892,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133805439"
+    },
+    {
+      "id": 258,
+      "wikidata_id": "Q1795768",
+      "name_de": "Städtisches Kaufhaus Leipzig",
+      "name_en": "Städtisches Kaufhaus",
+      "latitude": 51.338333,
+      "longitude": 12.377222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1795768"
+    },
+    {
+      "id": 259,
+      "wikidata_id": "Q21036628",
+      "name_de": "Tempelhofer Hafen",
+      "name_en": "Tempelhofer Hafen",
+      "latitude": 52.455723,
+      "longitude": 13.385853,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21036628"
+    },
+    {
+      "id": 260,
+      "wikidata_id": "Q2106556",
+      "name_de": "The Playce",
+      "name_en": "The Playce",
+      "latitude": 52.5075,
+      "longitude": 13.3742,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2106556"
+    },
+    {
+      "id": 261,
+      "wikidata_id": "Q2420837",
+      "name_de": "Thier-Galerie",
+      "name_en": "Thier-Galerie",
+      "latitude": 51.514,
+      "longitude": 7.4589,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2420837"
+    },
+    {
+      "id": 262,
+      "wikidata_id": "Q120496059",
+      "name_de": "Tibarg Center",
+      "name_en": "Tibarg Center",
+      "latitude": 53.622734,
+      "longitude": 9.952146,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q120496059"
+    },
+    {
+      "id": 263,
+      "wikidata_id": "Q131625644",
+      "name_de": "Tondo Einkaufszentrum",
+      "name_en": "Tondo Einkaufszentrum",
+      "latitude": 53.587145,
+      "longitude": 10.125874,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131625644"
+    },
+    {
+      "id": 264,
+      "wikidata_id": "Q18334548",
+      "name_de": "Ulrichshaus Magdeburg",
+      "name_en": "Ulrichshaus Magdeburg",
+      "latitude": 52.130419,
+      "longitude": 11.635238,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18334548"
+    },
+    {
+      "id": 265,
+      "wikidata_id": "Q1267058",
+      "name_de": "Uni-Center",
+      "name_en": "Uni-Center",
+      "latitude": 51.4475,
+      "longitude": 7.25889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1267058"
+    },
+    {
+      "id": 266,
+      "wikidata_id": "Q51451486",
+      "name_de": "Vita-Center",
+      "name_en": "Vita-Center",
+      "latitude": 50.79559,
+      "longitude": 12.89001,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q51451486"
+    },
+    {
+      "id": 267,
+      "wikidata_id": "Q2547720",
+      "name_de": "Walzmühle",
+      "name_en": "Walzmühle",
+      "latitude": 49.4792,
+      "longitude": 8.45361,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2547720"
+    },
+    {
+      "id": 268,
+      "wikidata_id": "Q15853621",
+      "name_de": "Wandsbek Quarree",
+      "name_en": "Wandsbek Quarree",
+      "latitude": 53.572658,
+      "longitude": 10.06654,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15853621"
+    },
+    {
+      "id": 269,
+      "wikidata_id": "Q2552541",
+      "name_de": "Waterfront Bremen",
+      "name_en": "Waterfront Bremen",
+      "latitude": 53.111952,
+      "longitude": 8.747704,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2552541"
+    },
+    {
+      "id": 270,
+      "wikidata_id": "Q23786421",
+      "name_de": "Weimar Atrium",
+      "name_en": "Weimar Atrium",
+      "latitude": 50.985303,
+      "longitude": 11.328997,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23786421"
+    },
+    {
+      "id": 271,
+      "wikidata_id": "Q1776174",
+      "name_de": "Weißeritz-Park",
+      "name_en": "Weißeritz-Park",
+      "latitude": 50.976351,
+      "longitude": 13.622501,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1776174"
+    },
+    {
+      "id": 272,
+      "wikidata_id": "Q1420594",
+      "name_de": "Werre-Park",
+      "name_en": "Werre Park",
+      "latitude": 52.2078,
+      "longitude": 8.80403,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1420594"
+    },
+    {
+      "id": 273,
+      "wikidata_id": "Q1702736",
+      "name_de": "Weserpark",
+      "name_en": "Weserpark",
+      "latitude": 53.0497,
+      "longitude": 8.95778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1702736"
+    },
+    {
+      "id": 274,
+      "wikidata_id": "Q153458",
+      "name_de": "Westfield Centro",
+      "name_en": "Westfield Centro",
+      "latitude": 51.491667,
+      "longitude": 6.876667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q153458"
+    },
+    {
+      "id": 275,
+      "wikidata_id": "Q134028904",
+      "name_de": "Westfield Hamburg-Überseequartier",
+      "name_en": "",
+      "latitude": 53.539973,
+      "longitude": 9.999069,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134028904"
+    },
+    {
+      "id": 276,
+      "wikidata_id": "Q1684594",
+      "name_de": "Westpark",
+      "name_en": "",
+      "latitude": 48.774306,
+      "longitude": 11.390139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1684594"
+    },
+    {
+      "id": 277,
+      "wikidata_id": "Q130225072",
+      "name_de": "Wiesencenter",
+      "name_en": "Wiesencenter",
+      "latitude": 50.931986,
+      "longitude": 11.593862,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130225072"
+    },
+    {
+      "id": 278,
+      "wikidata_id": "Q2592603",
+      "name_de": "Wollhauszentrum",
+      "name_en": "Wollhauszentrum",
+      "latitude": 49.1392,
+      "longitude": 9.22,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2592603"
+    },
+    {
+      "id": 279,
+      "wikidata_id": "Q70833503",
+      "name_de": "Wutzky",
+      "name_en": "Wutzky",
+      "latitude": 52.423001,
+      "longitude": 13.475396,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q70833503"
+    },
+    {
+      "id": 280,
+      "wikidata_id": "Q184921",
+      "name_de": "Zeilgalerie",
+      "name_en": "Zeilgalerie",
+      "latitude": 50.11419,
+      "longitude": 8.680437,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q184921"
+    },
+    {
+      "id": 281,
+      "wikidata_id": "Q190384",
+      "name_de": "Zentraler Omnibusbahnhof München",
+      "name_en": "Zentraler Omnibusbahnhof München",
+      "latitude": 48.1424,
+      "longitude": 11.5499,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q190384"
+    },
+    {
+      "id": 282,
+      "wikidata_id": "Q111049226",
+      "name_de": "Zschach-Center",
+      "name_en": "Zschach-Center",
+      "latitude": 51.00282,
+      "longitude": 13.84099,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111049226"
+    },
+    {
+      "id": 283,
+      "wikidata_id": "Q91204181",
+      "name_de": "Zweibrücken Fashion Outlet",
+      "name_en": "Zweibrücken Fashion Outlet",
+      "latitude": 49.230841,
+      "longitude": 7.404706,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q91204181"
+    }
+  ],
+  "meta": {
+    "title": "Einkaufszentren in Deutschland / Shopping malls in Germany - Kostenloser Download",
+    "description": "Einkaufszentren in Deutschland (Shopping malls in Germany). Geolocated points sourced from Wikidata (instance of Q11315), located in Germany (Q183), each with a coordinate (P625). Enthält 283 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Einkaufszentren in Deutschland / Shopping malls in Germany | ListBase",
+    "seo_description": "Herunterladen Einkaufszentren in Deutschland / Shopping malls in Germany — 283 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 283 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

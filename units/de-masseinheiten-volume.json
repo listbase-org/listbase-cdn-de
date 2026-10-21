@@ -1,0 +1,457 @@
+{
+  "id": "de-masseinheiten-volume",
+  "name": "Maßeinheiten — Kategorie 'volume' (44)",
+  "title": "Maßeinheiten — Kategorie 'volume' (44)",
+  "description": "Maßeinheiten der Kategorie 'volume' aus der Locale de in CLDR, mit Namen auf Deutsch.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abkuerzung",
+      "label": "Abkuerzung",
+      "type": "string"
+    },
+    {
+      "key": "schmalform",
+      "label": "Schmalform",
+      "type": "string"
+    },
+    {
+      "key": "muster",
+      "label": "Muster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "volume-acre-foot",
+      "kategorie": "volume",
+      "name": "Acre-Feet",
+      "abkuerzung": "Acre-Feet",
+      "schmalform": "ac ft",
+      "muster": "{0} Acre-Feet"
+    },
+    {
+      "id": 2,
+      "unit_code": "volume-barrel",
+      "kategorie": "volume",
+      "name": "Barrel",
+      "abkuerzung": "bbl",
+      "schmalform": "bbl",
+      "muster": "{0} Barrel"
+    },
+    {
+      "id": 3,
+      "unit_code": "volume-bushel",
+      "kategorie": "volume",
+      "name": "Bushel",
+      "abkuerzung": "Bushel",
+      "schmalform": "Bushel",
+      "muster": "{0} Bushel"
+    },
+    {
+      "id": 4,
+      "unit_code": "volume-centiliter",
+      "kategorie": "volume",
+      "name": "Zentiliter",
+      "abkuerzung": "cl",
+      "schmalform": "cl",
+      "muster": "{0} Zentiliter"
+    },
+    {
+      "id": 5,
+      "unit_code": "volume-cubic-centimeter",
+      "kategorie": "volume",
+      "name": "Kubikzentimeter",
+      "abkuerzung": "cm³",
+      "schmalform": "cm³",
+      "muster": "{0} Kubikzentimeter"
+    },
+    {
+      "id": 6,
+      "unit_code": "volume-cubic-foot",
+      "kategorie": "volume",
+      "name": "Kubikfuß",
+      "abkuerzung": "ft³",
+      "schmalform": "ft³",
+      "muster": "{0} Kubikfuß"
+    },
+    {
+      "id": 7,
+      "unit_code": "volume-cubic-inch",
+      "kategorie": "volume",
+      "name": "Kubikzoll",
+      "abkuerzung": "in³",
+      "schmalform": "in³",
+      "muster": "{0} Kubikzoll"
+    },
+    {
+      "id": 8,
+      "unit_code": "volume-cubic-kilometer",
+      "kategorie": "volume",
+      "name": "Kubikkilometer",
+      "abkuerzung": "km³",
+      "schmalform": "km³",
+      "muster": "{0} Kubikkilometer"
+    },
+    {
+      "id": 9,
+      "unit_code": "volume-cubic-meter",
+      "kategorie": "volume",
+      "name": "Kubikmeter",
+      "abkuerzung": "m³",
+      "schmalform": "m³",
+      "muster": "{0} Kubikmeter"
+    },
+    {
+      "id": 10,
+      "unit_code": "volume-cubic-mile",
+      "kategorie": "volume",
+      "name": "Kubikmeilen",
+      "abkuerzung": "mi³",
+      "schmalform": "mi³",
+      "muster": "{0} Kubikmeilen"
+    },
+    {
+      "id": 11,
+      "unit_code": "volume-cubic-yard",
+      "kategorie": "volume",
+      "name": "Kubikyards",
+      "abkuerzung": "yd³",
+      "schmalform": "yd³",
+      "muster": "{0} Kubikyards"
+    },
+    {
+      "id": 12,
+      "unit_code": "volume-cup",
+      "kategorie": "volume",
+      "name": "Tassen",
+      "abkuerzung": "Cups",
+      "schmalform": "Cups",
+      "muster": "{0} Tassen"
+    },
+    {
+      "id": 13,
+      "unit_code": "volume-cup-imperial",
+      "kategorie": "volume",
+      "name": "cup Imp.",
+      "abkuerzung": "cup Imp.",
+      "schmalform": "cup Imp.",
+      "muster": "{0} cup Imp."
+    },
+    {
+      "id": 14,
+      "unit_code": "volume-cup-jp",
+      "kategorie": "volume",
+      "name": "cup [JP]",
+      "abkuerzung": "cup [JP]",
+      "schmalform": "cup [JP]",
+      "muster": "{0} cup [JP]"
+    },
+    {
+      "id": 15,
+      "unit_code": "volume-cup-metric",
+      "kategorie": "volume",
+      "name": "metrische Tassen",
+      "abkuerzung": "Ta",
+      "schmalform": "Ta",
+      "muster": "{0} metrische Tassen"
+    },
+    {
+      "id": 16,
+      "unit_code": "volume-deciliter",
+      "kategorie": "volume",
+      "name": "Deziliter",
+      "abkuerzung": "dl",
+      "schmalform": "dl",
+      "muster": "{0} Deziliter"
+    },
+    {
+      "id": 17,
+      "unit_code": "volume-dessert-spoon",
+      "kategorie": "volume",
+      "name": "Dessertlöffel",
+      "abkuerzung": "DL",
+      "schmalform": "DL",
+      "muster": "{0} Dessertlöffel"
+    },
+    {
+      "id": 18,
+      "unit_code": "volume-dessert-spoon-imperial",
+      "kategorie": "volume",
+      "name": "Imp. Dessertlöffel",
+      "abkuerzung": "Imp. DL",
+      "schmalform": "Imp. DL",
+      "muster": "{0} Imp. Dessertlöffel"
+    },
+    {
+      "id": 19,
+      "unit_code": "volume-dram",
+      "kategorie": "volume",
+      "name": "Dram",
+      "abkuerzung": "Flüssigdram",
+      "schmalform": "fl.dr.",
+      "muster": "{0} Dram"
+    },
+    {
+      "id": 20,
+      "unit_code": "volume-drop",
+      "kategorie": "volume",
+      "name": "Tropfen",
+      "abkuerzung": "Trpf.",
+      "schmalform": "Tr.",
+      "muster": "{0} Tropfen"
+    },
+    {
+      "id": 21,
+      "unit_code": "volume-fluid-ounce",
+      "kategorie": "volume",
+      "name": "Flüssigunzen",
+      "abkuerzung": "fl oz",
+      "schmalform": "fl.oz.",
+      "muster": "{0} Flüssigunzen"
+    },
+    {
+      "id": 22,
+      "unit_code": "volume-fluid-ounce-imperial",
+      "kategorie": "volume",
+      "name": "Imp. Flüssigunzen",
+      "abkuerzung": "Imp.fl.oz.",
+      "schmalform": "Im.fl.oz",
+      "muster": "{0} Imp. Flüssigunzen"
+    },
+    {
+      "id": 23,
+      "unit_code": "volume-fluid-ounce-metric",
+      "kategorie": "volume",
+      "name": "metrische Flüssigunzen",
+      "abkuerzung": "fl.oz. m.",
+      "schmalform": "fl.oz. m.",
+      "muster": "{0} metrische Flüssigunzen"
+    },
+    {
+      "id": 24,
+      "unit_code": "volume-gallon",
+      "kategorie": "volume",
+      "name": "Gallone",
+      "abkuerzung": "gal",
+      "schmalform": "gal",
+      "muster": "{0} Gallonen"
+    },
+    {
+      "id": 25,
+      "unit_code": "volume-gallon-imperial",
+      "kategorie": "volume",
+      "name": "Imp. Gallonen",
+      "abkuerzung": "Imp. gal",
+      "schmalform": "Imp.gal",
+      "muster": "{0} Imp. Gallonen"
+    },
+    {
+      "id": 26,
+      "unit_code": "volume-hectoliter",
+      "kategorie": "volume",
+      "name": "Hektoliter",
+      "abkuerzung": "hl",
+      "schmalform": "hl",
+      "muster": "{0} Hektoliter"
+    },
+    {
+      "id": 27,
+      "unit_code": "volume-jigger",
+      "kategorie": "volume",
+      "name": "Jigger",
+      "abkuerzung": "Jigger",
+      "schmalform": "Jigger",
+      "muster": "{0} Jigger"
+    },
+    {
+      "id": 28,
+      "unit_code": "volume-koku",
+      "kategorie": "volume",
+      "name": "koku [JP]",
+      "abkuerzung": "koku [JP]",
+      "schmalform": "koku [JP]",
+      "muster": "{0} koku [JP]"
+    },
+    {
+      "id": 29,
+      "unit_code": "volume-kosaji",
+      "kategorie": "volume",
+      "name": "kosaji [JP]",
+      "abkuerzung": "kosaji [JP]",
+      "schmalform": "kosaji [JP]",
+      "muster": "{0} kosaji [JP]"
+    },
+    {
+      "id": 30,
+      "unit_code": "volume-liter",
+      "kategorie": "volume",
+      "name": "Liter",
+      "abkuerzung": "Liter",
+      "schmalform": "l",
+      "muster": "{0} Liter"
+    },
+    {
+      "id": 31,
+      "unit_code": "volume-megaliter",
+      "kategorie": "volume",
+      "name": "Megaliter",
+      "abkuerzung": "Ml",
+      "schmalform": "Ml",
+      "muster": "{0} Megaliter"
+    },
+    {
+      "id": 32,
+      "unit_code": "volume-milliliter",
+      "kategorie": "volume",
+      "name": "Milliliter",
+      "abkuerzung": "ml",
+      "schmalform": "ml",
+      "muster": "{0} Milliliter"
+    },
+    {
+      "id": 33,
+      "unit_code": "volume-osaji",
+      "kategorie": "volume",
+      "name": "osaji [JP]",
+      "abkuerzung": "osaji [JP]",
+      "schmalform": "osaji [JP]",
+      "muster": "{0} osaji [JP]"
+    },
+    {
+      "id": 34,
+      "unit_code": "volume-pinch",
+      "kategorie": "volume",
+      "name": "Prise",
+      "abkuerzung": "Prise",
+      "schmalform": "Pr.",
+      "muster": "{0} Prisen"
+    },
+    {
+      "id": 35,
+      "unit_code": "volume-pint",
+      "kategorie": "volume",
+      "name": "Pints",
+      "abkuerzung": "pt",
+      "schmalform": "pt",
+      "muster": "{0} Pints"
+    },
+    {
+      "id": 36,
+      "unit_code": "volume-pint-imperial",
+      "kategorie": "volume",
+      "name": "pint Imp.",
+      "abkuerzung": "pint Imp.",
+      "schmalform": "pint Imp.",
+      "muster": "{0} pt Imp."
+    },
+    {
+      "id": 37,
+      "unit_code": "volume-pint-metric",
+      "kategorie": "volume",
+      "name": "metrische Pints",
+      "abkuerzung": "mpt",
+      "schmalform": "mpt",
+      "muster": "{0} metrische Pints"
+    },
+    {
+      "id": 38,
+      "unit_code": "volume-quart",
+      "kategorie": "volume",
+      "name": "Quarts",
+      "abkuerzung": "qt",
+      "schmalform": "qt",
+      "muster": "{0} Quart"
+    },
+    {
+      "id": 39,
+      "unit_code": "volume-quart-imperial",
+      "kategorie": "volume",
+      "name": "Imp. Quart",
+      "abkuerzung": "Imp.qt.",
+      "schmalform": "Imp.qt",
+      "muster": "{0} Imp. Quart"
+    },
+    {
+      "id": 40,
+      "unit_code": "volume-sai",
+      "kategorie": "volume",
+      "name": "sai [JP]",
+      "abkuerzung": "sai [JP]",
+      "schmalform": "sai [JP]",
+      "muster": "{0} sai [JP]"
+    },
+    {
+      "id": 41,
+      "unit_code": "volume-shaku",
+      "kategorie": "volume",
+      "name": "shaku [vol, JP]",
+      "abkuerzung": "shaku [vol, JP]",
+      "schmalform": "shaku [vol, JP]",
+      "muster": "{0} shaku [vol, JP]"
+    },
+    {
+      "id": 42,
+      "unit_code": "volume-tablespoon",
+      "kategorie": "volume",
+      "name": "Esslöffel",
+      "abkuerzung": "EL",
+      "schmalform": "EL",
+      "muster": "{0} Esslöffel"
+    },
+    {
+      "id": 43,
+      "unit_code": "volume-teaspoon",
+      "kategorie": "volume",
+      "name": "Teelöffel",
+      "abkuerzung": "TL",
+      "schmalform": "TL",
+      "muster": "{0} Teelöffel"
+    },
+    {
+      "id": 44,
+      "unit_code": "volume-to-jp",
+      "kategorie": "volume",
+      "name": "to [JP]",
+      "abkuerzung": "to [JP]",
+      "schmalform": "to [JP]",
+      "muster": "{0} to [JP]"
+    }
+  ],
+  "meta": {
+    "title": "Maßeinheiten — Kategorie 'volume' (44) - Kostenloser Download",
+    "description": "Maßeinheiten der Kategorie 'volume' aus der Locale de in CLDR, mit Namen auf Deutsch. Enthält 44 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Maßeinheiten — Kategorie 'volume' (44) | ListBase",
+    "seo_description": "Herunterladen Maßeinheiten — Kategorie 'volume' (44) — 44 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 44 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

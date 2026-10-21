@@ -1,0 +1,61 @@
+{
+  "id": "de-kaiserslautern-stadtteile",
+  "name": "Ortsteile von Kaiserslautern",
+  "title": "Ortsteile von Kaiserslautern",
+  "description": "Die 10 Ortsteile (localities) der Stadt Kaiserslautern, extrahiert aus den Grenz-GeoJSON-Dateien des Projekts Code for Germany / click_that_hood. Nur der native deutsche Name je Teilgebiet wurde übernommen; die Polygon-Geometrie wurde verworfen.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Dansenberg"
+    },
+    {
+      "name": "Einsiedlerhof"
+    },
+    {
+      "name": "Erfenbach"
+    },
+    {
+      "name": "Erlenbach"
+    },
+    {
+      "name": "Erzhütten / Wiesenthalerhof"
+    },
+    {
+      "name": "Hohenecken"
+    },
+    {
+      "name": "Innenstadt"
+    },
+    {
+      "name": "Morlautern"
+    },
+    {
+      "name": "Mölschbach"
+    },
+    {
+      "name": "Siegelbach"
+    }
+  ],
+  "meta": {
+    "title": "Ortsteile von Kaiserslautern - Kostenloser Download",
+    "description": "Die 10 Ortsteile (localities) der Stadt Kaiserslautern, extrahiert aus den Grenz-GeoJSON-Dateien des Projekts Code for Germany / click_that_hood. Nur der native deutsche Name je Teilgebiet wurde übernommen; die Polygon-Geometrie wurde verworfen. Enthält 10 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Ortsteile von Kaiserslautern | ListBase",
+    "seo_description": "Herunterladen Ortsteile von Kaiserslautern — 10 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 10 Datensätze / 1 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

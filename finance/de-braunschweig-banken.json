@@ -1,0 +1,198 @@
+{
+  "id": "de-braunschweig-banken",
+  "name": "Banken in Braunschweig — SWIFT/BIC-Codes",
+  "title": "Banken in Braunschweig — SWIFT/BIC-Codes",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Braunschweig, Germany. Subset of de-banken.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 87,
+      "bank": "AUDI BANK ZWEIGNIEDERLASSUNG DER VOLKSWAGEN BANK GMBH",
+      "city": "BRAUNSCHWEIG",
+      "branch": "",
+      "swift_code": "AUDFDE21"
+    },
+    {
+      "id": 720,
+      "bank": "COMMERZBANK AG",
+      "city": "BRAUNSCHWEIG",
+      "branch": "",
+      "swift_code": "COBADEFF270"
+    },
+    {
+      "id": 1358,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "BRAUNSCHWEIG",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK)",
+      "swift_code": "DRESDEFFI12"
+    },
+    {
+      "id": 1359,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "BRAUNSCHWEIG",
+      "branch": "",
+      "swift_code": "DRESDEFF270"
+    },
+    {
+      "id": 1994,
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "BRAUNSCHWEIG",
+      "branch": "",
+      "swift_code": "DAAEDED1018"
+    },
+    {
+      "id": 2155,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "BRAUNSCHWEIG",
+      "branch": "",
+      "swift_code": "DEUTDE2H270"
+    },
+    {
+      "id": 3016,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "BRAUNSCHWEIG",
+      "branch": "",
+      "swift_code": "DEUTDEDB270"
+    },
+    {
+      "id": 4896,
+      "bank": "PSD BANK BRAUNSCHWEIG EG",
+      "city": "BRAUNSCHWEIG",
+      "branch": "",
+      "swift_code": "GENODEF1P02"
+    },
+    {
+      "id": 4897,
+      "bank": "PSD BANK BRAUNSCHWEIG EG",
+      "city": "BRAUNSCHWEIG",
+      "branch": "",
+      "swift_code": "GENODEF1PX2"
+    },
+    {
+      "id": 5741,
+      "bank": "SEAT BANK GMBH",
+      "city": "BRAUNSCHWEIG",
+      "branch": "",
+      "swift_code": "SEATDE21"
+    },
+    {
+      "id": 5754,
+      "bank": "SEB AG",
+      "city": "BRAUNSCHWEIG",
+      "branch": "",
+      "swift_code": "ESSEDE5F270"
+    },
+    {
+      "id": 6016,
+      "bank": "SKODA BANK",
+      "city": "BRAUNSCHWEIG",
+      "branch": "",
+      "swift_code": "SKODDE21"
+    },
+    {
+      "id": 6686,
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "BRAUNSCHWEIG",
+      "branch": "",
+      "swift_code": "HYVEDEMM212"
+    },
+    {
+      "id": 7501,
+      "bank": "VOLKSBANK EG BRAUNSCHWEIG WOLFSBURG",
+      "city": "BRAUNSCHWEIG",
+      "branch": "",
+      "swift_code": "VOBFDE21"
+    },
+    {
+      "id": 8086,
+      "bank": "VOLKSBANK VECHELDE-WENDEBURG",
+      "city": "BRAUNSCHWEIG",
+      "branch": "",
+      "swift_code": "VOVCDE21"
+    },
+    {
+      "id": 8217,
+      "bank": "VOLKSWAGEN BANK GMBH",
+      "city": "BRAUNSCHWEIG",
+      "branch": "(DOTATION)",
+      "swift_code": "VOWADE2BBNK"
+    },
+    {
+      "id": 8218,
+      "bank": "VOLKSWAGEN BANK GMBH",
+      "city": "BRAUNSCHWEIG",
+      "branch": "",
+      "swift_code": "VOWADE2B"
+    },
+    {
+      "id": 8219,
+      "bank": "VOLKSWAGEN BANK GMBH",
+      "city": "BRAUNSCHWEIG",
+      "branch": "",
+      "swift_code": "VOWADE2BHAM"
+    },
+    {
+      "id": 8220,
+      "bank": "VOLKSWAGEN BANK GMBH",
+      "city": "BRAUNSCHWEIG",
+      "branch": "",
+      "swift_code": "VOWADE2BNL1"
+    },
+    {
+      "id": 8222,
+      "bank": "VOLKSWAGEN BANK GMBH (FINANCIAL SERVICES)",
+      "city": "BRAUNSCHWEIG",
+      "branch": "(FINANCIAL SERVICES)",
+      "swift_code": "VOWADE2BFIS"
+    },
+    {
+      "id": 8225,
+      "bank": "VON ESSEN GMBH AND CO. KG BANKGESELLSCHAFT",
+      "city": "BRAUNSCHWEIG",
+      "branch": "(NIEDERLASSUNG BRAUNSCHWEIG)",
+      "swift_code": "VONEDE33BRA"
+    }
+  ],
+  "meta": {
+    "title": "Banken in Braunschweig — SWIFT/BIC-Codes - Kostenloser Download",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Braunschweig, Germany. Subset of de-banken. Enthält 21 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Banken in Braunschweig — SWIFT/BIC-Codes | ListBase",
+    "seo_description": "Herunterladen Banken in Braunschweig — SWIFT/BIC-Codes — 21 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 21 Datensätze / 5 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

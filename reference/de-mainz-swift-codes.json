@@ -1,0 +1,292 @@
+{
+  "id": "de-mainz-swift-codes",
+  "name": "SWIFT-/BIC-Codes — Mainz",
+  "title": "SWIFT-/BIC-Codes — Mainz",
+  "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 41 Institute, die die Quelle mit der Stadt \"MAINZ\" angibt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "AAREAL BANK AG",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "AARBDE5W550"
+    },
+    {
+      "bank": "BANK FUER SOZIALWIRTSCHAFT AG",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "BFSWDE33MNZ"
+    },
+    {
+      "bank": "BAUSPARKASSE MAINZ AKTIENGESELLSCHAFT",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "BKMZDE51"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "MAINZ",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF092"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "MAINZ",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF093"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "MAINZ",
+      "branch": "(TF-MZ-01)",
+      "swift_code": "COBADEFF555"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "COBADEFF550"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "MAINZ",
+      "branch": "(PCC DCC-ITGK 1)",
+      "swift_code": "DRESDEFFJ20"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "MAINZ",
+      "branch": "(PCC DCC-ITGK 2)",
+      "swift_code": "DRESDEFFJ21"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "MAINZ",
+      "branch": "(TF MZ 2)",
+      "swift_code": "DRESDEFF555"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "DRESDEFF550"
+    },
+    {
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "DAAEDED1031"
+    },
+    {
+      "bank": "DEUTSCHE BANK AG",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "DEUTDE5M"
+    },
+    {
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "DEUTDEDBMAI"
+    },
+    {
+      "bank": "DEUTSCHE BUNDESBANK",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "MARKDEF1550"
+    },
+    {
+      "bank": "GE CAPITAL BANK AG",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "HRBKDE51"
+    },
+    {
+      "bank": "INVESTITIONS- UND STRUKTURBANK RHEINLAND-PFALZ (ISB) GMBH",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "ISBRDE51"
+    },
+    {
+      "bank": "INVESTITIONS- UND STRUKTURBANK RHEINLAND-PFALZ (ISB) GMBH",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "ISBRDE55"
+    },
+    {
+      "bank": "J.F. HILLEBRAND GROUP AG",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "HILLDE55"
+    },
+    {
+      "bank": "LANDESBANK RHEINLAND-PFALZ",
+      "city": "MAINZ",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "MALADE51"
+    },
+    {
+      "bank": "LANDESBANK RHEINLAND-PFALZ",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "MALADE51EMZ"
+    },
+    {
+      "bank": "LBS LANDESBAUSPARKASSE RHEINLAND-PFALZ",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "LLRPDEF1"
+    },
+    {
+      "bank": "MAINZER VOLKSBANK E.G.",
+      "city": "MAINZ",
+      "branch": "(DOTATIONSKONTO)",
+      "swift_code": "MVBMDE51DOT"
+    },
+    {
+      "bank": "MAINZER VOLKSBANK E.G.",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "MVBMDE55"
+    },
+    {
+      "bank": "MAINZER VOLKSBANK E.G.",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "MVBMDE55PML"
+    },
+    {
+      "bank": "MINISTERIUM DER FINANZEN RHEINLAND-PFALZ",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "MIFHDE81"
+    },
+    {
+      "bank": "NORTH CHANNEL BANK GMBH UND CO. KG",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "GENODEF1OGK"
+    },
+    {
+      "bank": "NORTH CHANNEL BANK GMBH UND CO. KG",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "NOCBDE5M"
+    },
+    {
+      "bank": "ODDO BHF AKTIENGESELLSCHAFT",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "BHFBDEFF550"
+    },
+    {
+      "bank": "PAX-BANK EG",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "GENODED1PA4"
+    },
+    {
+      "bank": "PSD BANK KOBLENZ",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "GENODEF1PZ2"
+    },
+    {
+      "bank": "RAIFFEISEN-VOLKSBANK MAINZ EG",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "GENODE51MZ1"
+    },
+    {
+      "bank": "RHEINLAND-PFALZ BANK (TRADING AS LANDESBANK BADEN-WUERTTEMBERG)",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "SOLADEST550"
+    },
+    {
+      "bank": "SEB AG",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "ESSEDE5F550"
+    },
+    {
+      "bank": "SPAR- UND KREDITBANK MAINZ-KOSTHEIM EG",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "GENODE51MZ5"
+    },
+    {
+      "bank": "SPARDA-BANK SUEDWEST EG",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "GENODEF1S01"
+    },
+    {
+      "bank": "SPARKASSE MAINZ",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "MALADE51MNZ"
+    },
+    {
+      "bank": "TARGO COMMERCIAL FINANCE AG",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "CPLADE55"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "HYVEDEMM486"
+    },
+    {
+      "bank": "VB MAINZ-FINTHEN EG",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "GENODE51MZ4"
+    },
+    {
+      "bank": "VR-BANK MAINZ EG",
+      "city": "MAINZ",
+      "branch": "",
+      "swift_code": "GENODE51MZ2"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT-/BIC-Codes — Mainz - Kostenloser Download",
+    "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 41 Institute, die die Quelle mit der Stadt \"MAINZ\" angibt. Enthält 41 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "SWIFT-/BIC-Codes — Mainz | ListBase",
+    "seo_description": "Herunterladen SWIFT-/BIC-Codes — Mainz — 41 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 41 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "id": "de-tv-sender-bildung",
+  "name": "Bildungssender (Education TV channels)",
+  "title": "Bildungssender (Education TV channels)",
+  "description": "Deutsche Fernsehsender der Kategorie \"education\" (Bildung) — 8 Sender aus dem offenen Register iptv-org/database. Enthält Sendername, alternative Namen, Netzwerk, Eigentümer, Kategorien, Start- und Einstellungsdatum sowie Webseite.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "ARDalpha.de",
+      "name": "ARD-alpha",
+      "alt_names": "BR-alpha",
+      "network": "",
+      "owners": "Bayerischer Rundfunk",
+      "country": "DE",
+      "categories": "education",
+      "is_nsfw": false,
+      "launched": "1998-01-07",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.br.de/fernsehen/ard-alpha/"
+    },
+    {
+      "id": 2,
+      "channel_id": "AstroTV.de",
+      "name": "AstroTV",
+      "alt_names": "",
+      "network": "",
+      "owners": "Astro",
+      "country": "DE",
+      "categories": "education, lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.astrotv.de/"
+    },
+    {
+      "id": 3,
+      "channel_id": "CuriosityChannel.de",
+      "name": "Curiosity Channel",
+      "alt_names": "Curiosity Channel powered by Spiegel, Spiegel TV Wissen, Spiegel TV Digital",
+      "network": "",
+      "owners": "Spiegel Geschichte",
+      "country": "DE",
+      "categories": "education",
+      "is_nsfw": false,
+      "launched": "2011-10-04",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.curiositychannel.tv/"
+    },
+    {
+      "id": 4,
+      "channel_id": "DaVinci.de",
+      "name": "Da Vinci",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "education",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.davincikids.tv/"
+    },
+    {
+      "id": 5,
+      "channel_id": "DaVinciAsia.de",
+      "name": "Da Vinci Asia",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "education",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.davincikids.tv/"
+    },
+    {
+      "id": 6,
+      "channel_id": "NRWision.de",
+      "name": "NRWision",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "education",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.nrwision.de/"
+    },
+    {
+      "id": 7,
+      "channel_id": "earthTV.de",
+      "name": "earthTV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "outdoor, education, relax",
+      "is_nsfw": false,
+      "launched": "1998-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.earthtv.com/en"
+    },
+    {
+      "id": 8,
+      "channel_id": "iSTUFF.de",
+      "name": "iSTUFF",
+      "alt_names": "Ilmenauer Studentenfernsehfunk",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "education",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.istuff.de/"
+    }
+  ],
+  "meta": {
+    "title": "Bildungssender (Education TV channels) - Kostenloser Download",
+    "description": "Deutsche Fernsehsender der Kategorie \"education\" (Bildung) — 8 Sender aus dem offenen Register iptv-org/database. Enthält Sendername, alternative Namen, Netzwerk, Eigentümer, Kategorien, Start- und Einstellungsdatum sowie Webseite. Enthält 8 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Bildungssender (Education TV channels) | ListBase",
+    "seo_description": "Herunterladen Bildungssender (Education TV channels) — 8 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 8 Datensätze / 13 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

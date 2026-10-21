@@ -1,0 +1,3364 @@
+{
+  "id": "de-vorwahlen-bereich-4",
+  "name": "Deutsche Vorwahlen — Bereich 4 (führende Ziffer 4)",
+  "title": "Deutsche Vorwahlen — Bereich 4 (führende Ziffer 4)",
+  "description": "Ortsnetzkennzahlen mit führender Ziffer 4 aus dem deutschen Nummerierungsbereich. Geografischer Schwerpunkt: Hamburg (040), Bremen, Niedersachsen (Nord), Schleswig-Holstein. Insgesamt 553 Einträge.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 553,
+  "columns": [
+    {
+      "key": "vorwahl",
+      "label": "Vorwahl",
+      "type": "number"
+    },
+    {
+      "key": "ortsnetzkennzahl",
+      "label": "Ortsnetzkennzahl",
+      "type": "number"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "aktiv",
+      "label": "Aktiv",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "vorwahl": "040",
+      "ortsnetzkennzahl": 40,
+      "ort": "Hamburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0421",
+      "ortsnetzkennzahl": 421,
+      "ort": "Bremen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0431",
+      "ortsnetzkennzahl": 431,
+      "ort": "Kiel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0441",
+      "ortsnetzkennzahl": 441,
+      "ort": "Oldenburg (Oldb)",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0451",
+      "ortsnetzkennzahl": 451,
+      "ort": "Lübeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0461",
+      "ortsnetzkennzahl": 461,
+      "ort": "Flensburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0471",
+      "ortsnetzkennzahl": 471,
+      "ort": "Bremerhaven",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0481",
+      "ortsnetzkennzahl": 481,
+      "ort": "Heide Holst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0491",
+      "ortsnetzkennzahl": 491,
+      "ort": "Leer Ostfriesland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04101",
+      "ortsnetzkennzahl": 4101,
+      "ort": "Pinneberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04102",
+      "ortsnetzkennzahl": 4102,
+      "ort": "Ahrensburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04103",
+      "ortsnetzkennzahl": 4103,
+      "ort": "Wedel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04104",
+      "ortsnetzkennzahl": 4104,
+      "ort": "Aumühle b Hamburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04105",
+      "ortsnetzkennzahl": 4105,
+      "ort": "Seevetal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04106",
+      "ortsnetzkennzahl": 4106,
+      "ort": "Quickborn Kr Pinneberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04107",
+      "ortsnetzkennzahl": 4107,
+      "ort": "Siek Kr Stormarn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04108",
+      "ortsnetzkennzahl": 4108,
+      "ort": "Rosengarten Kr Harburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04109",
+      "ortsnetzkennzahl": 4109,
+      "ort": "Tangstedt Bz Hamburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04120",
+      "ortsnetzkennzahl": 4120,
+      "ort": "Ellerhoop",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04121",
+      "ortsnetzkennzahl": 4121,
+      "ort": "Elmshorn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04122",
+      "ortsnetzkennzahl": 4122,
+      "ort": "Uetersen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04123",
+      "ortsnetzkennzahl": 4123,
+      "ort": "Barmstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04124",
+      "ortsnetzkennzahl": 4124,
+      "ort": "Glückstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04125",
+      "ortsnetzkennzahl": 4125,
+      "ort": "Seestermühe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04126",
+      "ortsnetzkennzahl": 4126,
+      "ort": "Horst Holstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04127",
+      "ortsnetzkennzahl": 4127,
+      "ort": "Westerhorn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04128",
+      "ortsnetzkennzahl": 4128,
+      "ort": "Kollmar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04129",
+      "ortsnetzkennzahl": 4129,
+      "ort": "Haseldorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04131",
+      "ortsnetzkennzahl": 4131,
+      "ort": "Lüneburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04132",
+      "ortsnetzkennzahl": 4132,
+      "ort": "Amelinghausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04133",
+      "ortsnetzkennzahl": 4133,
+      "ort": "Wittorf Kr Lünebeburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04134",
+      "ortsnetzkennzahl": 4134,
+      "ort": "Embsen Kr Lünebeburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04135",
+      "ortsnetzkennzahl": 4135,
+      "ort": "Kirchgellersen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04136",
+      "ortsnetzkennzahl": 4136,
+      "ort": "Scharnebeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04137",
+      "ortsnetzkennzahl": 4137,
+      "ort": "Barendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04138",
+      "ortsnetzkennzahl": 4138,
+      "ort": "Betzendorf Kr Lünebeburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04139",
+      "ortsnetzkennzahl": 4139,
+      "ort": "Hohnstorf Elbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04140",
+      "ortsnetzkennzahl": 4140,
+      "ort": "Estorf Kr Stade",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04141",
+      "ortsnetzkennzahl": 4141,
+      "ort": "Stade",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04142",
+      "ortsnetzkennzahl": 4142,
+      "ort": "Steinkirchen Kr Stade",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04143",
+      "ortsnetzkennzahl": 4143,
+      "ort": "Drochtersen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04144",
+      "ortsnetzkennzahl": 4144,
+      "ort": "Himmelpforten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04146",
+      "ortsnetzkennzahl": 4146,
+      "ort": "Stade-Bützfleth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04148",
+      "ortsnetzkennzahl": 4148,
+      "ort": "Drochtersen-Assel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04149",
+      "ortsnetzkennzahl": 4149,
+      "ort": "Fredenbeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04151",
+      "ortsnetzkennzahl": 4151,
+      "ort": "Schwarzenbek",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04152",
+      "ortsnetzkennzahl": 4152,
+      "ort": "Geesthacht",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04153",
+      "ortsnetzkennzahl": 4153,
+      "ort": "Lauenburg Elbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04154",
+      "ortsnetzkennzahl": 4154,
+      "ort": "Trittau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04155",
+      "ortsnetzkennzahl": 4155,
+      "ort": "Büchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04156",
+      "ortsnetzkennzahl": 4156,
+      "ort": "Talkau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04158",
+      "ortsnetzkennzahl": 4158,
+      "ort": "Roseburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04159",
+      "ortsnetzkennzahl": 4159,
+      "ort": "Basthorst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04161",
+      "ortsnetzkennzahl": 4161,
+      "ort": "Buxtehude",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04162",
+      "ortsnetzkennzahl": 4162,
+      "ort": "Jork",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04163",
+      "ortsnetzkennzahl": 4163,
+      "ort": "Horneburg Niederelbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04164",
+      "ortsnetzkennzahl": 4164,
+      "ort": "Harsefeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04165",
+      "ortsnetzkennzahl": 4165,
+      "ort": "Hollenstedt Nordheide",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04166",
+      "ortsnetzkennzahl": 4166,
+      "ort": "Ahlerstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04167",
+      "ortsnetzkennzahl": 4167,
+      "ort": "Apensen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04168",
+      "ortsnetzkennzahl": 4168,
+      "ort": "Neu Wulmstorf-Elstorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04169",
+      "ortsnetzkennzahl": 4169,
+      "ort": "Sauensiek",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04171",
+      "ortsnetzkennzahl": 4171,
+      "ort": "Winsen Luhe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04172",
+      "ortsnetzkennzahl": 4172,
+      "ort": "Salzhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04173",
+      "ortsnetzkennzahl": 4173,
+      "ort": "Wulfsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04174",
+      "ortsnetzkennzahl": 4174,
+      "ort": "Stelle Kr Harburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04175",
+      "ortsnetzkennzahl": 4175,
+      "ort": "Egestorf Nordheide",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04176",
+      "ortsnetzkennzahl": 4176,
+      "ort": "Marschacht",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04177",
+      "ortsnetzkennzahl": 4177,
+      "ort": "Drage Elbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04178",
+      "ortsnetzkennzahl": 4178,
+      "ort": "Radbruch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04179",
+      "ortsnetzkennzahl": 4179,
+      "ort": "Winsen-Tönnhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04180",
+      "ortsnetzkennzahl": 4180,
+      "ort": "Königsmoor",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04181",
+      "ortsnetzkennzahl": 4181,
+      "ort": "Buchholz in der Nordheide",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04182",
+      "ortsnetzkennzahl": 4182,
+      "ort": "Tostedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04183",
+      "ortsnetzkennzahl": 4183,
+      "ort": "Jesteburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04184",
+      "ortsnetzkennzahl": 4184,
+      "ort": "Hanstedt Nordheide",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04185",
+      "ortsnetzkennzahl": 4185,
+      "ort": "Marxen Auetal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04186",
+      "ortsnetzkennzahl": 4186,
+      "ort": "Buchholz-Trelde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04187",
+      "ortsnetzkennzahl": 4187,
+      "ort": "Holm-Seppensen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04188",
+      "ortsnetzkennzahl": 4188,
+      "ort": "Welle Nordheide",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04189",
+      "ortsnetzkennzahl": 4189,
+      "ort": "Undeloh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04191",
+      "ortsnetzkennzahl": 4191,
+      "ort": "Kaltenkirchen Holst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04192",
+      "ortsnetzkennzahl": 4192,
+      "ort": "Bad Bramstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04193",
+      "ortsnetzkennzahl": 4193,
+      "ort": "Henstedt-Ulzburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04194",
+      "ortsnetzkennzahl": 4194,
+      "ort": "Sievershütten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04195",
+      "ortsnetzkennzahl": 4195,
+      "ort": "Hartenholm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04202",
+      "ortsnetzkennzahl": 4202,
+      "ort": "Achim b Bremen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04203",
+      "ortsnetzkennzahl": 4203,
+      "ort": "Weyhe b Bremen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04204",
+      "ortsnetzkennzahl": 4204,
+      "ort": "Thedinghausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04205",
+      "ortsnetzkennzahl": 4205,
+      "ort": "Ottersberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04206",
+      "ortsnetzkennzahl": 4206,
+      "ort": "Stuhr-Heiligenrode",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04207",
+      "ortsnetzkennzahl": 4207,
+      "ort": "Oyten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04208",
+      "ortsnetzkennzahl": 4208,
+      "ort": "Grasberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04209",
+      "ortsnetzkennzahl": 4209,
+      "ort": "Schwanewede",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04221",
+      "ortsnetzkennzahl": 4221,
+      "ort": "Delmenhorst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04222",
+      "ortsnetzkennzahl": 4222,
+      "ort": "Ganderkesee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04223",
+      "ortsnetzkennzahl": 4223,
+      "ort": "Ganderkesee-Bookholzberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04224",
+      "ortsnetzkennzahl": 4224,
+      "ort": "Gross Ippener",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04230",
+      "ortsnetzkennzahl": 4230,
+      "ort": "Verden-Walle",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04231",
+      "ortsnetzkennzahl": 4231,
+      "ort": "Verden Aller",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04232",
+      "ortsnetzkennzahl": 4232,
+      "ort": "Langwedel Kr Verden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04233",
+      "ortsnetzkennzahl": 4233,
+      "ort": "Blender",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04234",
+      "ortsnetzkennzahl": 4234,
+      "ort": "Dörverden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04235",
+      "ortsnetzkennzahl": 4235,
+      "ort": "Langwedel-Etelsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04236",
+      "ortsnetzkennzahl": 4236,
+      "ort": "Kirchlinteln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04237",
+      "ortsnetzkennzahl": 4237,
+      "ort": "Bendingbostel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04238",
+      "ortsnetzkennzahl": 4238,
+      "ort": "Neddenaverbergen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04239",
+      "ortsnetzkennzahl": 4239,
+      "ort": "Dörverden-Westen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04240",
+      "ortsnetzkennzahl": 4240,
+      "ort": "Syke-Heiligenfelde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04241",
+      "ortsnetzkennzahl": 4241,
+      "ort": "Bassum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04242",
+      "ortsnetzkennzahl": 4242,
+      "ort": "Syke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04243",
+      "ortsnetzkennzahl": 4243,
+      "ort": "Twistringen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04244",
+      "ortsnetzkennzahl": 4244,
+      "ort": "Harpstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04245",
+      "ortsnetzkennzahl": 4245,
+      "ort": "Neuenkirchen b Bassum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04246",
+      "ortsnetzkennzahl": 4246,
+      "ort": "Twistringen-Heiligenloh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04247",
+      "ortsnetzkennzahl": 4247,
+      "ort": "Affinghausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04248",
+      "ortsnetzkennzahl": 4248,
+      "ort": "Bassum-Neubruchhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04249",
+      "ortsnetzkennzahl": 4249,
+      "ort": "Bassum-Nordwohlde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04251",
+      "ortsnetzkennzahl": 4251,
+      "ort": "Hoya",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04252",
+      "ortsnetzkennzahl": 4252,
+      "ort": "Bruchhausen-Vilsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04253",
+      "ortsnetzkennzahl": 4253,
+      "ort": "Asendorf Kr Diepholz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04254",
+      "ortsnetzkennzahl": 4254,
+      "ort": "Eystrup",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04255",
+      "ortsnetzkennzahl": 4255,
+      "ort": "Martfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04256",
+      "ortsnetzkennzahl": 4256,
+      "ort": "Hilgermissen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04257",
+      "ortsnetzkennzahl": 4257,
+      "ort": "Schweringen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04258",
+      "ortsnetzkennzahl": 4258,
+      "ort": "Schwarme",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04260",
+      "ortsnetzkennzahl": 4260,
+      "ort": "Visselhövede-Wittorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04261",
+      "ortsnetzkennzahl": 4261,
+      "ort": "Rotenburg Wümme",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04262",
+      "ortsnetzkennzahl": 4262,
+      "ort": "Visselhövede",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04263",
+      "ortsnetzkennzahl": 4263,
+      "ort": "Scheessel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04264",
+      "ortsnetzkennzahl": 4264,
+      "ort": "Sottrum Kr Rotenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04265",
+      "ortsnetzkennzahl": 4265,
+      "ort": "Fintel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04266",
+      "ortsnetzkennzahl": 4266,
+      "ort": "Brockel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04267",
+      "ortsnetzkennzahl": 4267,
+      "ort": "Lauenbrück",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04268",
+      "ortsnetzkennzahl": 4268,
+      "ort": "Bötersen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04269",
+      "ortsnetzkennzahl": 4269,
+      "ort": "Ahausen-Kirchwalsede",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04271",
+      "ortsnetzkennzahl": 4271,
+      "ort": "Sulingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04272",
+      "ortsnetzkennzahl": 4272,
+      "ort": "Siedenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04273",
+      "ortsnetzkennzahl": 4273,
+      "ort": "Kirchdorf b Sulingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04274",
+      "ortsnetzkennzahl": 4274,
+      "ort": "Varrel b Sulingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04275",
+      "ortsnetzkennzahl": 4275,
+      "ort": "Ehrenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04276",
+      "ortsnetzkennzahl": 4276,
+      "ort": "Borstel b Sulingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04277",
+      "ortsnetzkennzahl": 4277,
+      "ort": "Schwaförden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04281",
+      "ortsnetzkennzahl": 4281,
+      "ort": "Zeven",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04282",
+      "ortsnetzkennzahl": 4282,
+      "ort": "Sittensen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04283",
+      "ortsnetzkennzahl": 4283,
+      "ort": "Tarmstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04284",
+      "ortsnetzkennzahl": 4284,
+      "ort": "Selsingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04285",
+      "ortsnetzkennzahl": 4285,
+      "ort": "Rhade b Zeven",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04286",
+      "ortsnetzkennzahl": 4286,
+      "ort": "Gyhum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04287",
+      "ortsnetzkennzahl": 4287,
+      "ort": "Heeslingen-Boitzen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04288",
+      "ortsnetzkennzahl": 4288,
+      "ort": "Horstedt Kr Rotenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04289",
+      "ortsnetzkennzahl": 4289,
+      "ort": "Kirchtimke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04292",
+      "ortsnetzkennzahl": 4292,
+      "ort": "Ritterhude",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04293",
+      "ortsnetzkennzahl": 4293,
+      "ort": "Ottersberg-Fischerhude",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04294",
+      "ortsnetzkennzahl": 4294,
+      "ort": "Riede Kr Verden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04295",
+      "ortsnetzkennzahl": 4295,
+      "ort": "Emtinghausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04296",
+      "ortsnetzkennzahl": 4296,
+      "ort": "Schwanewede-Aschwarden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04297",
+      "ortsnetzkennzahl": 4297,
+      "ort": "Ottersberg-Posthausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04298",
+      "ortsnetzkennzahl": 4298,
+      "ort": "Lilienthal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04302",
+      "ortsnetzkennzahl": 4302,
+      "ort": "Kirchbarkau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04303",
+      "ortsnetzkennzahl": 4303,
+      "ort": "Schlesen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04305",
+      "ortsnetzkennzahl": 4305,
+      "ort": "Westensee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04307",
+      "ortsnetzkennzahl": 4307,
+      "ort": "Raisdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04308",
+      "ortsnetzkennzahl": 4308,
+      "ort": "Schwedeneck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04320",
+      "ortsnetzkennzahl": 4320,
+      "ort": "Heidmühlen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04321",
+      "ortsnetzkennzahl": 4321,
+      "ort": "Neumünster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04322",
+      "ortsnetzkennzahl": 4322,
+      "ort": "Bordesholm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04323",
+      "ortsnetzkennzahl": 4323,
+      "ort": "Bornhöved",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04324",
+      "ortsnetzkennzahl": 4324,
+      "ort": "Brokstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04326",
+      "ortsnetzkennzahl": 4326,
+      "ort": "Wankendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04327",
+      "ortsnetzkennzahl": 4327,
+      "ort": "Grossenaspe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04328",
+      "ortsnetzkennzahl": 4328,
+      "ort": "Rickling",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04329",
+      "ortsnetzkennzahl": 4329,
+      "ort": "Langwedel Holst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04330",
+      "ortsnetzkennzahl": 4330,
+      "ort": "Emkendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04331",
+      "ortsnetzkennzahl": 4331,
+      "ort": "Rendsburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04332",
+      "ortsnetzkennzahl": 4332,
+      "ort": "Hamdorf b Rendsburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04333",
+      "ortsnetzkennzahl": 4333,
+      "ort": "Erfde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04334",
+      "ortsnetzkennzahl": 4334,
+      "ort": "Bredenbek b Rendsburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04335",
+      "ortsnetzkennzahl": 4335,
+      "ort": "Hohn b Rendsburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04336",
+      "ortsnetzkennzahl": 4336,
+      "ort": "Owschlag",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04337",
+      "ortsnetzkennzahl": 4337,
+      "ort": "Jevenstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04338",
+      "ortsnetzkennzahl": 4338,
+      "ort": "Alt Duvenstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04339",
+      "ortsnetzkennzahl": 4339,
+      "ort": "Christiansholm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04340",
+      "ortsnetzkennzahl": 4340,
+      "ort": "Achterwehr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04342",
+      "ortsnetzkennzahl": 4342,
+      "ort": "Preetz Kr Plön",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04343",
+      "ortsnetzkennzahl": 4343,
+      "ort": "Laboe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04344",
+      "ortsnetzkennzahl": 4344,
+      "ort": "Schönberg Holstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04346",
+      "ortsnetzkennzahl": 4346,
+      "ort": "Gettorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04347",
+      "ortsnetzkennzahl": 4347,
+      "ort": "Flintbek",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04348",
+      "ortsnetzkennzahl": 4348,
+      "ort": "Schönkirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04349",
+      "ortsnetzkennzahl": 4349,
+      "ort": "Dänischenhagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04351",
+      "ortsnetzkennzahl": 4351,
+      "ort": "Eckernförde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04352",
+      "ortsnetzkennzahl": 4352,
+      "ort": "Damp",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04353",
+      "ortsnetzkennzahl": 4353,
+      "ort": "Ascheffel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04354",
+      "ortsnetzkennzahl": 4354,
+      "ort": "Fleckeby",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04355",
+      "ortsnetzkennzahl": 4355,
+      "ort": "Rieseby",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04356",
+      "ortsnetzkennzahl": 4356,
+      "ort": "Gross Wittensee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04357",
+      "ortsnetzkennzahl": 4357,
+      "ort": "Sehestedt Eider",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04358",
+      "ortsnetzkennzahl": 4358,
+      "ort": "Loose b Eckernförde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04361",
+      "ortsnetzkennzahl": 4361,
+      "ort": "Oldenburg in Holstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04362",
+      "ortsnetzkennzahl": 4362,
+      "ort": "Heiligenhafen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04363",
+      "ortsnetzkennzahl": 4363,
+      "ort": "Lensahn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04364",
+      "ortsnetzkennzahl": 4364,
+      "ort": "Dahme Kr Ostholstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04365",
+      "ortsnetzkennzahl": 4365,
+      "ort": "Heringsdorf Holst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04366",
+      "ortsnetzkennzahl": 4366,
+      "ort": "Grömitz-Cismar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04367",
+      "ortsnetzkennzahl": 4367,
+      "ort": "Grossenbrode",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04371",
+      "ortsnetzkennzahl": 4371,
+      "ort": "Burg auf Fehmarn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04372",
+      "ortsnetzkennzahl": 4372,
+      "ort": "Westfehmarn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04381",
+      "ortsnetzkennzahl": 4381,
+      "ort": "Lütjenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04382",
+      "ortsnetzkennzahl": 4382,
+      "ort": "Wangels",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04383",
+      "ortsnetzkennzahl": 4383,
+      "ort": "Grebin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04384",
+      "ortsnetzkennzahl": 4384,
+      "ort": "Selent",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04385",
+      "ortsnetzkennzahl": 4385,
+      "ort": "Hohenfelde b Kiel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04392",
+      "ortsnetzkennzahl": 4392,
+      "ort": "Nortorf b Neumünster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04393",
+      "ortsnetzkennzahl": 4393,
+      "ort": "Boostedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04394",
+      "ortsnetzkennzahl": 4394,
+      "ort": "Bokhorst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04401",
+      "ortsnetzkennzahl": 4401,
+      "ort": "Brake Unterweser",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04402",
+      "ortsnetzkennzahl": 4402,
+      "ort": "Rastede",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04403",
+      "ortsnetzkennzahl": 4403,
+      "ort": "Bad Zwischenahn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04404",
+      "ortsnetzkennzahl": 4404,
+      "ort": "Elsfleth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04405",
+      "ortsnetzkennzahl": 4405,
+      "ort": "Edewecht",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04406",
+      "ortsnetzkennzahl": 4406,
+      "ort": "Berne",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04407",
+      "ortsnetzkennzahl": 4407,
+      "ort": "Wardenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04408",
+      "ortsnetzkennzahl": 4408,
+      "ort": "Hude Oldenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04409",
+      "ortsnetzkennzahl": 4409,
+      "ort": "Westerstede-Ocholt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04421",
+      "ortsnetzkennzahl": 4421,
+      "ort": "Wilhelmshaven",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04422",
+      "ortsnetzkennzahl": 4422,
+      "ort": "Sande Kr Friesl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04423",
+      "ortsnetzkennzahl": 4423,
+      "ort": "Fedderwarden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04425",
+      "ortsnetzkennzahl": 4425,
+      "ort": "Wangerland-Hooksiel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04426",
+      "ortsnetzkennzahl": 4426,
+      "ort": "Wangerland-Horumersiel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04431",
+      "ortsnetzkennzahl": 4431,
+      "ort": "Wildeshausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04432",
+      "ortsnetzkennzahl": 4432,
+      "ort": "Dötlingen-Brettorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04433",
+      "ortsnetzkennzahl": 4433,
+      "ort": "Dötlingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04434",
+      "ortsnetzkennzahl": 4434,
+      "ort": "Colnrade",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04435",
+      "ortsnetzkennzahl": 4435,
+      "ort": "Grossenkneten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04441",
+      "ortsnetzkennzahl": 4441,
+      "ort": "Vechta",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04442",
+      "ortsnetzkennzahl": 4442,
+      "ort": "Lohne Oldenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04443",
+      "ortsnetzkennzahl": 4443,
+      "ort": "Dinklage",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04444",
+      "ortsnetzkennzahl": 4444,
+      "ort": "Goldenstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04445",
+      "ortsnetzkennzahl": 4445,
+      "ort": "Visbek Kr Vechta",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04446",
+      "ortsnetzkennzahl": 4446,
+      "ort": "Bakum Kr Vechta",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04447",
+      "ortsnetzkennzahl": 4447,
+      "ort": "Vechta-Langförden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04451",
+      "ortsnetzkennzahl": 4451,
+      "ort": "Varel Jadebusen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04452",
+      "ortsnetzkennzahl": 4452,
+      "ort": "Zetel-Neuenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04453",
+      "ortsnetzkennzahl": 4453,
+      "ort": "Zetel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04454",
+      "ortsnetzkennzahl": 4454,
+      "ort": "Jade",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04455",
+      "ortsnetzkennzahl": 4455,
+      "ort": "Jade-Schweiburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04456",
+      "ortsnetzkennzahl": 4456,
+      "ort": "Varel-Altjührden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04458",
+      "ortsnetzkennzahl": 4458,
+      "ort": "Wiefelstede-Spohle",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04461",
+      "ortsnetzkennzahl": 4461,
+      "ort": "Jever",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04462",
+      "ortsnetzkennzahl": 4462,
+      "ort": "Wittmund",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04463",
+      "ortsnetzkennzahl": 4463,
+      "ort": "Wangerland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04464",
+      "ortsnetzkennzahl": 4464,
+      "ort": "Wittmund-Carolinensiel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04465",
+      "ortsnetzkennzahl": 4465,
+      "ort": "Friedeburg Ostfriesl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04466",
+      "ortsnetzkennzahl": 4466,
+      "ort": "Wittmund-Ardorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04467",
+      "ortsnetzkennzahl": 4467,
+      "ort": "Wittmund-Funnix",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04468",
+      "ortsnetzkennzahl": 4468,
+      "ort": "Friedeburg-Reepsholt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04469",
+      "ortsnetzkennzahl": 4469,
+      "ort": "Wangerooge",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04471",
+      "ortsnetzkennzahl": 4471,
+      "ort": "Cloppenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04472",
+      "ortsnetzkennzahl": 4472,
+      "ort": "Lastrup",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04473",
+      "ortsnetzkennzahl": 4473,
+      "ort": "Emstek",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04474",
+      "ortsnetzkennzahl": 4474,
+      "ort": "Garrel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04475",
+      "ortsnetzkennzahl": 4475,
+      "ort": "Molbergen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04477",
+      "ortsnetzkennzahl": 4477,
+      "ort": "Lastrup-Hemmelte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04478",
+      "ortsnetzkennzahl": 4478,
+      "ort": "Cappeln Oldenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04479",
+      "ortsnetzkennzahl": 4479,
+      "ort": "Molbergen-Peheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04480",
+      "ortsnetzkennzahl": 4480,
+      "ort": "Ovelgönne-Strückhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04481",
+      "ortsnetzkennzahl": 4481,
+      "ort": "Hatten-Sandkrug",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04482",
+      "ortsnetzkennzahl": 4482,
+      "ort": "Hatten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04483",
+      "ortsnetzkennzahl": 4483,
+      "ort": "Ovelgönne-Großenmeer",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04484",
+      "ortsnetzkennzahl": 4484,
+      "ort": "Hude-Wüsting",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04485",
+      "ortsnetzkennzahl": 4485,
+      "ort": "Elsfleth-Huntorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04486",
+      "ortsnetzkennzahl": 4486,
+      "ort": "Edewecht-Friedrichsfehn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04487",
+      "ortsnetzkennzahl": 4487,
+      "ort": "Grossenkneten-Huntlosen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04488",
+      "ortsnetzkennzahl": 4488,
+      "ort": "Westerstede",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04489",
+      "ortsnetzkennzahl": 4489,
+      "ort": "Apen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04491",
+      "ortsnetzkennzahl": 4491,
+      "ort": "Friesoythe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04492",
+      "ortsnetzkennzahl": 4492,
+      "ort": "Saterland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04493",
+      "ortsnetzkennzahl": 4493,
+      "ort": "Friesoythe-Gehlenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04494",
+      "ortsnetzkennzahl": 4494,
+      "ort": "Bösel Oldenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04495",
+      "ortsnetzkennzahl": 4495,
+      "ort": "Friesoythe-Thüle",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04496",
+      "ortsnetzkennzahl": 4496,
+      "ort": "Friesoythe-Markhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04497",
+      "ortsnetzkennzahl": 4497,
+      "ort": "Barßel-Harkebrügge",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04498",
+      "ortsnetzkennzahl": 4498,
+      "ort": "Saterland-Ramsloh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04499",
+      "ortsnetzkennzahl": 4499,
+      "ort": "Barssel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04501",
+      "ortsnetzkennzahl": 4501,
+      "ort": "Kastorf Holst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04502",
+      "ortsnetzkennzahl": 4502,
+      "ort": "Lübeck-Travemünde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04503",
+      "ortsnetzkennzahl": 4503,
+      "ort": "Timmendorfer Strand",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04504",
+      "ortsnetzkennzahl": 4504,
+      "ort": "Ratekau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04505",
+      "ortsnetzkennzahl": 4505,
+      "ort": "Stockelsdorf-Curau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04506",
+      "ortsnetzkennzahl": 4506,
+      "ort": "Stockelsdorf-Krumbeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04508",
+      "ortsnetzkennzahl": 4508,
+      "ort": "Krummesse",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04509",
+      "ortsnetzkennzahl": 4509,
+      "ort": "Groß Grönau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04521",
+      "ortsnetzkennzahl": 4521,
+      "ort": "Eutin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04522",
+      "ortsnetzkennzahl": 4522,
+      "ort": "Plön",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04523",
+      "ortsnetzkennzahl": 4523,
+      "ort": "Malente",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04524",
+      "ortsnetzkennzahl": 4524,
+      "ort": "Scharbeutz-Pönitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04525",
+      "ortsnetzkennzahl": 4525,
+      "ort": "Ahrensbök",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04526",
+      "ortsnetzkennzahl": 4526,
+      "ort": "Ascheberg Holstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04527",
+      "ortsnetzkennzahl": 4527,
+      "ort": "Bosau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04528",
+      "ortsnetzkennzahl": 4528,
+      "ort": "Schönwalde am Bungsberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04529",
+      "ortsnetzkennzahl": 4529,
+      "ort": "Süsel-Bujendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04531",
+      "ortsnetzkennzahl": 4531,
+      "ort": "Bad Oldesloe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04532",
+      "ortsnetzkennzahl": 4532,
+      "ort": "Bargteheide",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04533",
+      "ortsnetzkennzahl": 4533,
+      "ort": "Reinfeld Holstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04534",
+      "ortsnetzkennzahl": 4534,
+      "ort": "Steinburg Kr Storman",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04535",
+      "ortsnetzkennzahl": 4535,
+      "ort": "Nahe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04536",
+      "ortsnetzkennzahl": 4536,
+      "ort": "Steinhorst Lauenb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04537",
+      "ortsnetzkennzahl": 4537,
+      "ort": "Sülfeld Holst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04539",
+      "ortsnetzkennzahl": 4539,
+      "ort": "Westerau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04541",
+      "ortsnetzkennzahl": 4541,
+      "ort": "Ratzeburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04542",
+      "ortsnetzkennzahl": 4542,
+      "ort": "Mölln Lauenb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04543",
+      "ortsnetzkennzahl": 4543,
+      "ort": "Nusse",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04544",
+      "ortsnetzkennzahl": 4544,
+      "ort": "Berkenthin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04545",
+      "ortsnetzkennzahl": 4545,
+      "ort": "Seedorf Lauenb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04546",
+      "ortsnetzkennzahl": 4546,
+      "ort": "Mustin Lauenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04547",
+      "ortsnetzkennzahl": 4547,
+      "ort": "Gudow Lauenb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04550",
+      "ortsnetzkennzahl": 4550,
+      "ort": "Bühnsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04551",
+      "ortsnetzkennzahl": 4551,
+      "ort": "Bad Segeberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04552",
+      "ortsnetzkennzahl": 4552,
+      "ort": "Leezen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04553",
+      "ortsnetzkennzahl": 4553,
+      "ort": "Geschendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04554",
+      "ortsnetzkennzahl": 4554,
+      "ort": "Wahlstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04555",
+      "ortsnetzkennzahl": 4555,
+      "ort": "Seedorf b Bad Segeberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04556",
+      "ortsnetzkennzahl": 4556,
+      "ort": "Ahrensbök-Gnissau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04557",
+      "ortsnetzkennzahl": 4557,
+      "ort": "Blunk",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04558",
+      "ortsnetzkennzahl": 4558,
+      "ort": "Todesfelde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04559",
+      "ortsnetzkennzahl": 4559,
+      "ort": "Wensin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04561",
+      "ortsnetzkennzahl": 4561,
+      "ort": "Neustadt in Holstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04562",
+      "ortsnetzkennzahl": 4562,
+      "ort": "Grömitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04563",
+      "ortsnetzkennzahl": 4563,
+      "ort": "Scharbeutz-Haffkrug",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04564",
+      "ortsnetzkennzahl": 4564,
+      "ort": "Schashagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04602",
+      "ortsnetzkennzahl": 4602,
+      "ort": "Freienwill",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04603",
+      "ortsnetzkennzahl": 4603,
+      "ort": "Havetoft",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04604",
+      "ortsnetzkennzahl": 4604,
+      "ort": "Grossenwiehe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04605",
+      "ortsnetzkennzahl": 4605,
+      "ort": "Medelby",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04606",
+      "ortsnetzkennzahl": 4606,
+      "ort": "Wanderup",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04607",
+      "ortsnetzkennzahl": 4607,
+      "ort": "Janneby",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04608",
+      "ortsnetzkennzahl": 4608,
+      "ort": "Handewitt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04609",
+      "ortsnetzkennzahl": 4609,
+      "ort": "Eggebek",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04621",
+      "ortsnetzkennzahl": 4621,
+      "ort": "Schleswig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04622",
+      "ortsnetzkennzahl": 4622,
+      "ort": "Taarstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04623",
+      "ortsnetzkennzahl": 4623,
+      "ort": "Böklund",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04624",
+      "ortsnetzkennzahl": 4624,
+      "ort": "Kropp",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04625",
+      "ortsnetzkennzahl": 4625,
+      "ort": "Jübek",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04626",
+      "ortsnetzkennzahl": 4626,
+      "ort": "Treia",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04627",
+      "ortsnetzkennzahl": 4627,
+      "ort": "Dörpstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04630",
+      "ortsnetzkennzahl": 4630,
+      "ort": "Barderup",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04631",
+      "ortsnetzkennzahl": 4631,
+      "ort": "Glücksburg Ostsee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04632",
+      "ortsnetzkennzahl": 4632,
+      "ort": "Steinbergkirche",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04633",
+      "ortsnetzkennzahl": 4633,
+      "ort": "Satrup",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04634",
+      "ortsnetzkennzahl": 4634,
+      "ort": "Husby",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04635",
+      "ortsnetzkennzahl": 4635,
+      "ort": "Sörup",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04636",
+      "ortsnetzkennzahl": 4636,
+      "ort": "Langballig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04637",
+      "ortsnetzkennzahl": 4637,
+      "ort": "Sterup",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04638",
+      "ortsnetzkennzahl": 4638,
+      "ort": "Tarp",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04639",
+      "ortsnetzkennzahl": 4639,
+      "ort": "Schafflund",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04641",
+      "ortsnetzkennzahl": 4641,
+      "ort": "Süderbrarup",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04642",
+      "ortsnetzkennzahl": 4642,
+      "ort": "Kappeln Schlei",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04643",
+      "ortsnetzkennzahl": 4643,
+      "ort": "Gelting Angeln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04644",
+      "ortsnetzkennzahl": 4644,
+      "ort": "Karby",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04646",
+      "ortsnetzkennzahl": 4646,
+      "ort": "Mohrkirch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04651",
+      "ortsnetzkennzahl": 4651,
+      "ort": "Sylt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04661",
+      "ortsnetzkennzahl": 4661,
+      "ort": "Niebüll",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04662",
+      "ortsnetzkennzahl": 4662,
+      "ort": "Leck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04663",
+      "ortsnetzkennzahl": 4663,
+      "ort": "Süderlügum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04664",
+      "ortsnetzkennzahl": 4664,
+      "ort": "Neukirchen b Niebüll",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04665",
+      "ortsnetzkennzahl": 4665,
+      "ort": "Emmelsbüll-Horsbüll",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04666",
+      "ortsnetzkennzahl": 4666,
+      "ort": "Ladelund",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04667",
+      "ortsnetzkennzahl": 4667,
+      "ort": "Dagebüll",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04668",
+      "ortsnetzkennzahl": 4668,
+      "ort": "Klanxbüll",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04671",
+      "ortsnetzkennzahl": 4671,
+      "ort": "Bredstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04672",
+      "ortsnetzkennzahl": 4672,
+      "ort": "Langenhorn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04673",
+      "ortsnetzkennzahl": 4673,
+      "ort": "Joldelund",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04674",
+      "ortsnetzkennzahl": 4674,
+      "ort": "Ockholm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04681",
+      "ortsnetzkennzahl": 4681,
+      "ort": "Wyk auf Föhr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04682",
+      "ortsnetzkennzahl": 4682,
+      "ort": "Amrum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04683",
+      "ortsnetzkennzahl": 4683,
+      "ort": "Oldsum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04684",
+      "ortsnetzkennzahl": 4684,
+      "ort": "Langeneß Hallig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04702",
+      "ortsnetzkennzahl": 4702,
+      "ort": "Sandstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04703",
+      "ortsnetzkennzahl": 4703,
+      "ort": "Loxstedt-Donnern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04704",
+      "ortsnetzkennzahl": 4704,
+      "ort": "Drangstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04705",
+      "ortsnetzkennzahl": 4705,
+      "ort": "Wremen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04706",
+      "ortsnetzkennzahl": 4706,
+      "ort": "Schiffdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04707",
+      "ortsnetzkennzahl": 4707,
+      "ort": "Langen-Neuenwalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04708",
+      "ortsnetzkennzahl": 4708,
+      "ort": "Ringstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04721",
+      "ortsnetzkennzahl": 4721,
+      "ort": "Cuxhaven",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04722",
+      "ortsnetzkennzahl": 4722,
+      "ort": "Cuxhaven-Altenbruch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04723",
+      "ortsnetzkennzahl": 4723,
+      "ort": "Cuxhaven-Altenwalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04724",
+      "ortsnetzkennzahl": 4724,
+      "ort": "Cuxhaven-Lüdingworth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04725",
+      "ortsnetzkennzahl": 4725,
+      "ort": "Helgoland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04731",
+      "ortsnetzkennzahl": 4731,
+      "ort": "Nordenham",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04732",
+      "ortsnetzkennzahl": 4732,
+      "ort": "Stadland-Rodenkirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04733",
+      "ortsnetzkennzahl": 4733,
+      "ort": "Butjadingen-Burhave",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04734",
+      "ortsnetzkennzahl": 4734,
+      "ort": "Stadland-Seefeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04735",
+      "ortsnetzkennzahl": 4735,
+      "ort": "Butjadingen-Stollhamm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04736",
+      "ortsnetzkennzahl": 4736,
+      "ort": "Butjadingen-Tossens",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04737",
+      "ortsnetzkennzahl": 4737,
+      "ort": "Stadland-Schwei",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04740",
+      "ortsnetzkennzahl": 4740,
+      "ort": "Loxstedt-Dedesdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04741",
+      "ortsnetzkennzahl": 4741,
+      "ort": "Nordholz b Bremerhaven",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04742",
+      "ortsnetzkennzahl": 4742,
+      "ort": "Dorum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04743",
+      "ortsnetzkennzahl": 4743,
+      "ort": "Langen b Bremerhaven",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04744",
+      "ortsnetzkennzahl": 4744,
+      "ort": "Loxstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04745",
+      "ortsnetzkennzahl": 4745,
+      "ort": "Bad Bederkesa",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04746",
+      "ortsnetzkennzahl": 4746,
+      "ort": "Hagen b Bremerhaven",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04747",
+      "ortsnetzkennzahl": 4747,
+      "ort": "Beverstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04748",
+      "ortsnetzkennzahl": 4748,
+      "ort": "Stubben b Bremerhaven",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04749",
+      "ortsnetzkennzahl": 4749,
+      "ort": "Schiffdorf-Geestenseth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04751",
+      "ortsnetzkennzahl": 4751,
+      "ort": "Otterndorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04752",
+      "ortsnetzkennzahl": 4752,
+      "ort": "Neuhaus Oste",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04753",
+      "ortsnetzkennzahl": 4753,
+      "ort": "Balje",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04754",
+      "ortsnetzkennzahl": 4754,
+      "ort": "Bülkau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04755",
+      "ortsnetzkennzahl": 4755,
+      "ort": "Ihlienworth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04756",
+      "ortsnetzkennzahl": 4756,
+      "ort": "Odisheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04757",
+      "ortsnetzkennzahl": 4757,
+      "ort": "Wanna",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04758",
+      "ortsnetzkennzahl": 4758,
+      "ort": "Nordleda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04761",
+      "ortsnetzkennzahl": 4761,
+      "ort": "Bremervörde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04762",
+      "ortsnetzkennzahl": 4762,
+      "ort": "Kutenholz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04763",
+      "ortsnetzkennzahl": 4763,
+      "ort": "Gnarrenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04764",
+      "ortsnetzkennzahl": 4764,
+      "ort": "Gnarrenburg-Klenkendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04765",
+      "ortsnetzkennzahl": 4765,
+      "ort": "Ebersdorf b Bremervörde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04766",
+      "ortsnetzkennzahl": 4766,
+      "ort": "Basdahl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04767",
+      "ortsnetzkennzahl": 4767,
+      "ort": "Bremervörde-Bevern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04768",
+      "ortsnetzkennzahl": 4768,
+      "ort": "Hipstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04769",
+      "ortsnetzkennzahl": 4769,
+      "ort": "Bremervörde-Iselersheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04770",
+      "ortsnetzkennzahl": 4770,
+      "ort": "Wischhafen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04771",
+      "ortsnetzkennzahl": 4771,
+      "ort": "Hemmoor",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04772",
+      "ortsnetzkennzahl": 4772,
+      "ort": "Oberndorf Oste",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04773",
+      "ortsnetzkennzahl": 4773,
+      "ort": "Lamstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04774",
+      "ortsnetzkennzahl": 4774,
+      "ort": "Hechthausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04775",
+      "ortsnetzkennzahl": 4775,
+      "ort": "Grossenwörden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04776",
+      "ortsnetzkennzahl": 4776,
+      "ort": "Osten-Altendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04777",
+      "ortsnetzkennzahl": 4777,
+      "ort": "Cadenberge",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04778",
+      "ortsnetzkennzahl": 4778,
+      "ort": "Wingst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04779",
+      "ortsnetzkennzahl": 4779,
+      "ort": "Freiburg Elbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04791",
+      "ortsnetzkennzahl": 4791,
+      "ort": "Osterholz-Scharmbeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04792",
+      "ortsnetzkennzahl": 4792,
+      "ort": "Worpswede",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04793",
+      "ortsnetzkennzahl": 4793,
+      "ort": "Hambergen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04794",
+      "ortsnetzkennzahl": 4794,
+      "ort": "Worpswede-Ostersode",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04795",
+      "ortsnetzkennzahl": 4795,
+      "ort": "Garlstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04796",
+      "ortsnetzkennzahl": 4796,
+      "ort": "Teufelsmoor",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04802",
+      "ortsnetzkennzahl": 4802,
+      "ort": "Wrohm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04803",
+      "ortsnetzkennzahl": 4803,
+      "ort": "Pahlen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04804",
+      "ortsnetzkennzahl": 4804,
+      "ort": "Nordhastedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04805",
+      "ortsnetzkennzahl": 4805,
+      "ort": "Schafstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04806",
+      "ortsnetzkennzahl": 4806,
+      "ort": "Sarzbüttel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04821",
+      "ortsnetzkennzahl": 4821,
+      "ort": "Itzehoe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04822",
+      "ortsnetzkennzahl": 4822,
+      "ort": "Kellinghusen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04823",
+      "ortsnetzkennzahl": 4823,
+      "ort": "Wilster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04824",
+      "ortsnetzkennzahl": 4824,
+      "ort": "Krempe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04825",
+      "ortsnetzkennzahl": 4825,
+      "ort": "Burg Dithmarschen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04826",
+      "ortsnetzkennzahl": 4826,
+      "ort": "Hohenlockstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04827",
+      "ortsnetzkennzahl": 4827,
+      "ort": "Wacken",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04828",
+      "ortsnetzkennzahl": 4828,
+      "ort": "Lägerdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04829",
+      "ortsnetzkennzahl": 4829,
+      "ort": "Wewelsfleth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04830",
+      "ortsnetzkennzahl": 4830,
+      "ort": "Süderhastedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04832",
+      "ortsnetzkennzahl": 4832,
+      "ort": "Meldorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04833",
+      "ortsnetzkennzahl": 4833,
+      "ort": "Wesselburen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04834",
+      "ortsnetzkennzahl": 4834,
+      "ort": "Büsum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04835",
+      "ortsnetzkennzahl": 4835,
+      "ort": "Albersdorf Holst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04836",
+      "ortsnetzkennzahl": 4836,
+      "ort": "Hennstedt Dithm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04837",
+      "ortsnetzkennzahl": 4837,
+      "ort": "Neuenkirchen Dithm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04838",
+      "ortsnetzkennzahl": 4838,
+      "ort": "Tellingstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04839",
+      "ortsnetzkennzahl": 4839,
+      "ort": "Wöhrden Dithm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04841",
+      "ortsnetzkennzahl": 4841,
+      "ort": "Husum Nordsee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04842",
+      "ortsnetzkennzahl": 4842,
+      "ort": "Nordstrand",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04843",
+      "ortsnetzkennzahl": 4843,
+      "ort": "Viöl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04844",
+      "ortsnetzkennzahl": 4844,
+      "ort": "Pellworm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04845",
+      "ortsnetzkennzahl": 4845,
+      "ort": "Ostenfeld Husum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04846",
+      "ortsnetzkennzahl": 4846,
+      "ort": "Hattstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04847",
+      "ortsnetzkennzahl": 4847,
+      "ort": "Oster-Ohrstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04848",
+      "ortsnetzkennzahl": 4848,
+      "ort": "Rantrum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04849",
+      "ortsnetzkennzahl": 4849,
+      "ort": "Hooge",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04851",
+      "ortsnetzkennzahl": 4851,
+      "ort": "Marne",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04852",
+      "ortsnetzkennzahl": 4852,
+      "ort": "Brunsbüttel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04853",
+      "ortsnetzkennzahl": 4853,
+      "ort": "Sankt Michaelisdonn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04854",
+      "ortsnetzkennzahl": 4854,
+      "ort": "Friedrichskoog",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04855",
+      "ortsnetzkennzahl": 4855,
+      "ort": "Eddelak",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04856",
+      "ortsnetzkennzahl": 4856,
+      "ort": "Kronprinzenkoog",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04857",
+      "ortsnetzkennzahl": 4857,
+      "ort": "Barlt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04858",
+      "ortsnetzkennzahl": 4858,
+      "ort": "Sankt Margarethen Holst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04859",
+      "ortsnetzkennzahl": 4859,
+      "ort": "Windbergen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04861",
+      "ortsnetzkennzahl": 4861,
+      "ort": "Tönning",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04862",
+      "ortsnetzkennzahl": 4862,
+      "ort": "Garding",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04863",
+      "ortsnetzkennzahl": 4863,
+      "ort": "Sankt Peter-Ording",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04864",
+      "ortsnetzkennzahl": 4864,
+      "ort": "Oldenswort",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04865",
+      "ortsnetzkennzahl": 4865,
+      "ort": "Osterhever",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04871",
+      "ortsnetzkennzahl": 4871,
+      "ort": "Hohenwestedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04872",
+      "ortsnetzkennzahl": 4872,
+      "ort": "Hanerau-Hademarschen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04873",
+      "ortsnetzkennzahl": 4873,
+      "ort": "Aukrug",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04874",
+      "ortsnetzkennzahl": 4874,
+      "ort": "Todenbüttel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04875",
+      "ortsnetzkennzahl": 4875,
+      "ort": "Stafstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04876",
+      "ortsnetzkennzahl": 4876,
+      "ort": "Reher Holst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04877",
+      "ortsnetzkennzahl": 4877,
+      "ort": "Hennstedt b Itzehoe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04881",
+      "ortsnetzkennzahl": 4881,
+      "ort": "Friedrichstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04882",
+      "ortsnetzkennzahl": 4882,
+      "ort": "Lunden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04883",
+      "ortsnetzkennzahl": 4883,
+      "ort": "Süderstapel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04884",
+      "ortsnetzkennzahl": 4884,
+      "ort": "Schwabstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04885",
+      "ortsnetzkennzahl": 4885,
+      "ort": "Bergenhusen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04892",
+      "ortsnetzkennzahl": 4892,
+      "ort": "Schenefeld Mittelholst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04893",
+      "ortsnetzkennzahl": 4893,
+      "ort": "Hohenaspe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04902",
+      "ortsnetzkennzahl": 4902,
+      "ort": "Jemgum-Ditzum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04903",
+      "ortsnetzkennzahl": 4903,
+      "ort": "Wymeer",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04920",
+      "ortsnetzkennzahl": 4920,
+      "ort": "Wirdum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04921",
+      "ortsnetzkennzahl": 4921,
+      "ort": "Emden Stadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04922",
+      "ortsnetzkennzahl": 4922,
+      "ort": "Borkum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04923",
+      "ortsnetzkennzahl": 4923,
+      "ort": "Krummhörn-Pewsum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04924",
+      "ortsnetzkennzahl": 4924,
+      "ort": "Moormerland-Oldersum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04925",
+      "ortsnetzkennzahl": 4925,
+      "ort": "Hinte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04926",
+      "ortsnetzkennzahl": 4926,
+      "ort": "Krummhörn-Greetsiel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04927",
+      "ortsnetzkennzahl": 4927,
+      "ort": "Krummhörn-Loquard",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04928",
+      "ortsnetzkennzahl": 4928,
+      "ort": "Ihlow-Riepe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04929",
+      "ortsnetzkennzahl": 4929,
+      "ort": "Ihlow Kr Aurich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04931",
+      "ortsnetzkennzahl": 4931,
+      "ort": "Norden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04932",
+      "ortsnetzkennzahl": 4932,
+      "ort": "Norderney",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04933",
+      "ortsnetzkennzahl": 4933,
+      "ort": "Dornum Ostfriesl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04934",
+      "ortsnetzkennzahl": 4934,
+      "ort": "Marienhafe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04935",
+      "ortsnetzkennzahl": 4935,
+      "ort": "Juist",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04936",
+      "ortsnetzkennzahl": 4936,
+      "ort": "Grossheide",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04938",
+      "ortsnetzkennzahl": 4938,
+      "ort": "Hagermarsch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04939",
+      "ortsnetzkennzahl": 4939,
+      "ort": "Baltrum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04941",
+      "ortsnetzkennzahl": 4941,
+      "ort": "Aurich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04942",
+      "ortsnetzkennzahl": 4942,
+      "ort": "Südbrookmerland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04943",
+      "ortsnetzkennzahl": 4943,
+      "ort": "Grossefehn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04944",
+      "ortsnetzkennzahl": 4944,
+      "ort": "Wiesmoor",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04945",
+      "ortsnetzkennzahl": 4945,
+      "ort": "Grossefehn-Timmel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04946",
+      "ortsnetzkennzahl": 4946,
+      "ort": "Grossefehn-Bagband",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04947",
+      "ortsnetzkennzahl": 4947,
+      "ort": "Aurich-Ogenbargen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04948",
+      "ortsnetzkennzahl": 4948,
+      "ort": "Wiesmoor-Marcardsmoor",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04950",
+      "ortsnetzkennzahl": 4950,
+      "ort": "Holtland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04951",
+      "ortsnetzkennzahl": 4951,
+      "ort": "Weener",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04952",
+      "ortsnetzkennzahl": 4952,
+      "ort": "Rhauderfehn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04953",
+      "ortsnetzkennzahl": 4953,
+      "ort": "Bunde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04954",
+      "ortsnetzkennzahl": 4954,
+      "ort": "Moormerland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04955",
+      "ortsnetzkennzahl": 4955,
+      "ort": "Westoverledingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04956",
+      "ortsnetzkennzahl": 4956,
+      "ort": "Uplengen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04957",
+      "ortsnetzkennzahl": 4957,
+      "ort": "Detern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04958",
+      "ortsnetzkennzahl": 4958,
+      "ort": "Jemgum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04959",
+      "ortsnetzkennzahl": 4959,
+      "ort": "Dollart",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04961",
+      "ortsnetzkennzahl": 4961,
+      "ort": "Papenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04962",
+      "ortsnetzkennzahl": 4962,
+      "ort": "Papenburg-Aschendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04963",
+      "ortsnetzkennzahl": 4963,
+      "ort": "Dörpen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04964",
+      "ortsnetzkennzahl": 4964,
+      "ort": "Rhede Ems",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04965",
+      "ortsnetzkennzahl": 4965,
+      "ort": "Surwold",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04966",
+      "ortsnetzkennzahl": 4966,
+      "ort": "Neubörger",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04967",
+      "ortsnetzkennzahl": 4967,
+      "ort": "Rhauderfehn-Burlage",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04968",
+      "ortsnetzkennzahl": 4968,
+      "ort": "Neulehe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04971",
+      "ortsnetzkennzahl": 4971,
+      "ort": "Esens",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04972",
+      "ortsnetzkennzahl": 4972,
+      "ort": "Langeoog",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04973",
+      "ortsnetzkennzahl": 4973,
+      "ort": "Wittmund-Burhafe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04974",
+      "ortsnetzkennzahl": 4974,
+      "ort": "Neuharlingersiel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04975",
+      "ortsnetzkennzahl": 4975,
+      "ort": "Westerholt Ostfriesl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04976",
+      "ortsnetzkennzahl": 4976,
+      "ort": "Spiekeroog",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "04977",
+      "ortsnetzkennzahl": 4977,
+      "ort": "Blomberg Ostfriesl",
+      "aktiv": true
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Vorwahlen — Bereich 4 (führende Ziffer 4) - Kostenloser Download",
+    "description": "Ortsnetzkennzahlen mit führender Ziffer 4 aus dem deutschen Nummerierungsbereich. Geografischer Schwerpunkt: Hamburg (040), Bremen, Niedersachsen (Nord), Schleswig-Holstein. Insgesamt 553 Einträge. Enthält 553 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Deutsche Vorwahlen — Bereich 4 (führende Ziffer 4) | ListBase",
+    "seo_description": "Herunterladen Deutsche Vorwahlen — Bereich 4 (führende Ziffer 4) — 553 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 553 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

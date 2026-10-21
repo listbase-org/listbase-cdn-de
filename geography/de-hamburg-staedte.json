@@ -1,0 +1,106 @@
+{
+  "id": "de-hamburg-staedte",
+  "name": "Städte und Gemeinden — Hamburg",
+  "title": "Städte und Gemeinden — Hamburg",
+  "description": "1 Städte und Gemeinden in Hamburg (DE-HH). Mit Landkreis, Einwohnerzahl, Fläche (km^2) und Koordinaten. Quelle: Wikipedia List of cities and towns in Germany via pensnarik/german-cities (CC0).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_de",
+      "label": "Name De",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_en",
+      "label": "Bundesland En",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_iso",
+      "label": "Bundesland Iso",
+      "type": "string"
+    },
+    {
+      "key": "landkreis",
+      "label": "Landkreis",
+      "type": "string"
+    },
+    {
+      "key": "is_kreisfrei",
+      "label": "Is Kreisfrei",
+      "type": "boolean"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Hamburg",
+      "name_de": "Hamburg",
+      "slug": "hamburg",
+      "bundesland": "Hamburg",
+      "bundesland_en": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "bundesland_iso": "DE-HH",
+      "landkreis": "",
+      "is_kreisfrei": false,
+      "population": 1845229,
+      "area_km2": 755.22,
+      "lat": 53.56528,
+      "lon": 10.00139
+    }
+  ],
+  "meta": {
+    "title": "Städte und Gemeinden — Hamburg - Kostenloser Download",
+    "description": "1 Städte und Gemeinden in Hamburg (DE-HH). Mit Landkreis, Einwohnerzahl, Fläche (km^2) und Koordinaten. Quelle: Wikipedia List of cities and towns in Germany via pensnarik/german-cities (CC0). Enthält 1 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Städte und Gemeinden — Hamburg | ListBase",
+    "seo_description": "Herunterladen Städte und Gemeinden — Hamburg — 1 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 1 Datensätze / 13 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

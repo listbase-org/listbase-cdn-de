@@ -1,0 +1,5656 @@
+{
+  "id": "de-hessen-postleitzahlen",
+  "name": "Postleitzahlen — Hessen",
+  "title": "Postleitzahlen — Hessen",
+  "description": "559 Postleitzahl-Ort-Kombinationen in Hessen (ISO DE-HE). Mit Landkreis, AGS und OSM-ID.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 559,
+  "columns": [
+    {
+      "key": "plz",
+      "label": "Plz",
+      "type": "number"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "landkreis",
+      "label": "Landkreis",
+      "type": "string"
+    },
+    {
+      "key": "is_kreisfrei",
+      "label": "Is Kreisfrei",
+      "type": "boolean"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "ags",
+      "label": "Ags",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "plz": "34117",
+      "ort": "Kassel",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06611000",
+      "osm_id": "62598"
+    },
+    {
+      "plz": "34119",
+      "ort": "Kassel",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06611000",
+      "osm_id": "62598"
+    },
+    {
+      "plz": "34121",
+      "ort": "Kassel",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06611000",
+      "osm_id": "62598"
+    },
+    {
+      "plz": "34123",
+      "ort": "Kassel",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06611000",
+      "osm_id": "62598"
+    },
+    {
+      "plz": "34125",
+      "ort": "Kassel",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06611000",
+      "osm_id": "62598"
+    },
+    {
+      "plz": "34127",
+      "ort": "Fuldatal",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633009",
+      "osm_id": "532037"
+    },
+    {
+      "plz": "34127",
+      "ort": "Kassel",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06611000",
+      "osm_id": "62598"
+    },
+    {
+      "plz": "34128",
+      "ort": "Kassel",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06611000",
+      "osm_id": "62598"
+    },
+    {
+      "plz": "34130",
+      "ort": "Kassel",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06611000",
+      "osm_id": "62598"
+    },
+    {
+      "plz": "34131",
+      "ort": "Kassel",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06611000",
+      "osm_id": "62598"
+    },
+    {
+      "plz": "34132",
+      "ort": "Kassel",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06611000",
+      "osm_id": "62598"
+    },
+    {
+      "plz": "34134",
+      "ort": "Kassel",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06611000",
+      "osm_id": "62598"
+    },
+    {
+      "plz": "34212",
+      "ort": "Melsungen",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634014",
+      "osm_id": "452197"
+    },
+    {
+      "plz": "34225",
+      "ort": "Baunatal",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633003",
+      "osm_id": "533536"
+    },
+    {
+      "plz": "34233",
+      "ort": "Fuldatal",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633009",
+      "osm_id": "532037"
+    },
+    {
+      "plz": "34233",
+      "ort": "Kassel",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06611000",
+      "osm_id": "62598"
+    },
+    {
+      "plz": "34246",
+      "ort": "Vellmar",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633026",
+      "osm_id": "532030"
+    },
+    {
+      "plz": "34253",
+      "ort": "Lohfelden",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633017",
+      "osm_id": "1115032"
+    },
+    {
+      "plz": "34260",
+      "ort": "Kaufungen",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633015",
+      "osm_id": "1115036"
+    },
+    {
+      "plz": "34266",
+      "ort": "Niestetal",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633020",
+      "osm_id": "1115031"
+    },
+    {
+      "plz": "34270",
+      "ort": "Schauenburg",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633023",
+      "osm_id": "533415"
+    },
+    {
+      "plz": "34277",
+      "ort": "Fuldabrück",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633008",
+      "osm_id": "533664"
+    },
+    {
+      "plz": "34281",
+      "ort": "Gudensberg",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634007",
+      "osm_id": "452195"
+    },
+    {
+      "plz": "34286",
+      "ort": "Spangenberg",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634024",
+      "osm_id": "452202"
+    },
+    {
+      "plz": "34289",
+      "ort": "Zierenberg",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633029",
+      "osm_id": "454616"
+    },
+    {
+      "plz": "34292",
+      "ort": "Ahnatal",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633001",
+      "osm_id": "530915"
+    },
+    {
+      "plz": "34295",
+      "ort": "Edermünde",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634002",
+      "osm_id": "452204"
+    },
+    {
+      "plz": "34298",
+      "ort": "Helsa",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633012",
+      "osm_id": "1115033"
+    },
+    {
+      "plz": "34302",
+      "ort": "Guxhagen",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634008",
+      "osm_id": "452207"
+    },
+    {
+      "plz": "34305",
+      "ort": "Niedenstein",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634018",
+      "osm_id": "452199"
+    },
+    {
+      "plz": "34308",
+      "ort": "Bad Emstal",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633006",
+      "osm_id": "453738"
+    },
+    {
+      "plz": "34311",
+      "ort": "Naumburg",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633018",
+      "osm_id": "453721"
+    },
+    {
+      "plz": "34314",
+      "ort": "Espenau",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633007",
+      "osm_id": "531464"
+    },
+    {
+      "plz": "34317",
+      "ort": "Habichtswald",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633011",
+      "osm_id": "454707"
+    },
+    {
+      "plz": "34320",
+      "ort": "Söhrewald",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633024",
+      "osm_id": "1115035"
+    },
+    {
+      "plz": "34323",
+      "ort": "Malsfeld",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634013",
+      "osm_id": "452211"
+    },
+    {
+      "plz": "34326",
+      "ort": "Morschen",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634015",
+      "osm_id": "452212"
+    },
+    {
+      "plz": "34327",
+      "ort": "Körle",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634012",
+      "osm_id": "452210"
+    },
+    {
+      "plz": "34329",
+      "ort": "Nieste",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633019",
+      "osm_id": "1115034"
+    },
+    {
+      "plz": "34355",
+      "ort": "Kassel",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06611000",
+      "osm_id": "62598"
+    },
+    {
+      "plz": "34359",
+      "ort": "Reinhardshagen",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633022",
+      "osm_id": "943199"
+    },
+    {
+      "plz": "34369",
+      "ort": "Hofgeismar",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633013",
+      "osm_id": "1112226"
+    },
+    {
+      "plz": "34376",
+      "ort": "Immenhausen",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633014",
+      "osm_id": "531865"
+    },
+    {
+      "plz": "34379",
+      "ort": "Calden",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633005",
+      "osm_id": "455491"
+    },
+    {
+      "plz": "34385",
+      "ort": "Bad Karlshafen",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633002",
+      "osm_id": "1112227"
+    },
+    {
+      "plz": "34388",
+      "ort": "Trendelburg",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633025",
+      "osm_id": "1112223"
+    },
+    {
+      "plz": "34393",
+      "ort": "Grebenstein",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633010",
+      "osm_id": "455422"
+    },
+    {
+      "plz": "34396",
+      "ort": "Liebenau",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633016",
+      "osm_id": "455279"
+    },
+    {
+      "plz": "34399",
+      "ort": "Wesertal",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633030",
+      "osm_id": "10523427"
+    },
+    {
+      "plz": "34454",
+      "ort": "Bad Arolsen",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635002",
+      "osm_id": "162356"
+    },
+    {
+      "plz": "34466",
+      "ort": "Wolfhagen",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633028",
+      "osm_id": "452969"
+    },
+    {
+      "plz": "34471",
+      "ort": "Volkmarsen",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635020",
+      "osm_id": "162251"
+    },
+    {
+      "plz": "34474",
+      "ort": "Diemelstadt",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635008",
+      "osm_id": "162250"
+    },
+    {
+      "plz": "34477",
+      "ort": "Twistetal",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635018",
+      "osm_id": "198579"
+    },
+    {
+      "plz": "34479",
+      "ort": "Breuna",
+      "landkreis": "Landkreis Kassel",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06633004",
+      "osm_id": "162612"
+    },
+    {
+      "plz": "34497",
+      "ort": "Korbach",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635015",
+      "osm_id": "198578"
+    },
+    {
+      "plz": "34508",
+      "ort": "Willingen (Upland)",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635022",
+      "osm_id": "198593"
+    },
+    {
+      "plz": "34513",
+      "ort": "Korbach",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635015",
+      "osm_id": "198578"
+    },
+    {
+      "plz": "34513",
+      "ort": "Waldeck",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635021",
+      "osm_id": "199138"
+    },
+    {
+      "plz": "34516",
+      "ort": "Vöhl",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635019",
+      "osm_id": "198601"
+    },
+    {
+      "plz": "34519",
+      "ort": "Diemelsee",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635007",
+      "osm_id": "199139"
+    },
+    {
+      "plz": "34537",
+      "ort": "Bad Wildungen",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635003",
+      "osm_id": "443584"
+    },
+    {
+      "plz": "34549",
+      "ort": "Edertal",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635009",
+      "osm_id": "443585"
+    },
+    {
+      "plz": "34560",
+      "ort": "Fritzlar",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634005",
+      "osm_id": "452194"
+    },
+    {
+      "plz": "34576",
+      "ort": "Homberg (Efze)",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634009",
+      "osm_id": "452196"
+    },
+    {
+      "plz": "34582",
+      "ort": "Borken (Hessen)",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634001",
+      "osm_id": "452192"
+    },
+    {
+      "plz": "34587",
+      "ort": "Felsberg",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634003",
+      "osm_id": "452193"
+    },
+    {
+      "plz": "34590",
+      "ort": "Wabern",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634025",
+      "osm_id": "452217"
+    },
+    {
+      "plz": "34593",
+      "ort": "Knüllwald",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634011",
+      "osm_id": "452209"
+    },
+    {
+      "plz": "34596",
+      "ort": "Bad Zwesten",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634027",
+      "osm_id": "452203"
+    },
+    {
+      "plz": "34599",
+      "ort": "Neuental",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634016",
+      "osm_id": "452213"
+    },
+    {
+      "plz": "34613",
+      "ort": "Schwalmstadt",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634022",
+      "osm_id": "452200"
+    },
+    {
+      "plz": "34621",
+      "ort": "Frielendorf",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634004",
+      "osm_id": "452205"
+    },
+    {
+      "plz": "34626",
+      "ort": "Neukirchen",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634017",
+      "osm_id": "452198"
+    },
+    {
+      "plz": "34628",
+      "ort": "Willingshausen",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634026",
+      "osm_id": "452219"
+    },
+    {
+      "plz": "34630",
+      "ort": "Gilserberg",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634006",
+      "osm_id": "452206"
+    },
+    {
+      "plz": "34632",
+      "ort": "Jesberg",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634010",
+      "osm_id": "452208"
+    },
+    {
+      "plz": "34633",
+      "ort": "Ottrau",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634020",
+      "osm_id": "452215"
+    },
+    {
+      "plz": "34637",
+      "ort": "Schrecksbach",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634021",
+      "osm_id": "452216"
+    },
+    {
+      "plz": "34639",
+      "ort": "Schwarzenborn",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634023",
+      "osm_id": "452201"
+    },
+    {
+      "plz": "35037",
+      "ort": "Marburg",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534014",
+      "osm_id": "225494"
+    },
+    {
+      "plz": "35039",
+      "ort": "Marburg",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534014",
+      "osm_id": "225494"
+    },
+    {
+      "plz": "35041",
+      "ort": "Marburg",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534014",
+      "osm_id": "225494"
+    },
+    {
+      "plz": "35043",
+      "ort": "Marburg",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534014",
+      "osm_id": "225494"
+    },
+    {
+      "plz": "35066",
+      "ort": "Frankenberg (Eder)",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635011",
+      "osm_id": "443587"
+    },
+    {
+      "plz": "35075",
+      "ort": "Gladenbach",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534010",
+      "osm_id": "225492"
+    },
+    {
+      "plz": "35080",
+      "ort": "Bad Endbach",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534003",
+      "osm_id": "225491"
+    },
+    {
+      "plz": "35083",
+      "ort": "Wetter",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534021",
+      "osm_id": "225482"
+    },
+    {
+      "plz": "35085",
+      "ort": "Ebsdorfergrund",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534008",
+      "osm_id": "225500"
+    },
+    {
+      "plz": "35088",
+      "ort": "Battenberg (Eder)",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635004",
+      "osm_id": "443589"
+    },
+    {
+      "plz": "35091",
+      "ort": "Cölbe",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534006",
+      "osm_id": "225490"
+    },
+    {
+      "plz": "35094",
+      "ort": "Lahntal",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534012",
+      "osm_id": "225489"
+    },
+    {
+      "plz": "35094",
+      "ort": "Marburg",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534014",
+      "osm_id": "225494"
+    },
+    {
+      "plz": "35096",
+      "ort": "Weimar (Lahn)",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534020",
+      "osm_id": "225493"
+    },
+    {
+      "plz": "35099",
+      "ort": "Burgwald",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635006",
+      "osm_id": "443592"
+    },
+    {
+      "plz": "35102",
+      "ort": "Lohra",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534013",
+      "osm_id": "225498"
+    },
+    {
+      "plz": "35104",
+      "ort": "Lichtenfels",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635016",
+      "osm_id": "198603"
+    },
+    {
+      "plz": "35108",
+      "ort": "Allendorf (Eder)",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635001",
+      "osm_id": "443591"
+    },
+    {
+      "plz": "35110",
+      "ort": "Frankenau",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635010",
+      "osm_id": "443586"
+    },
+    {
+      "plz": "35112",
+      "ort": "Fronhausen",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534009",
+      "osm_id": "225499"
+    },
+    {
+      "plz": "35114",
+      "ort": "Haina (Kloster)",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635013",
+      "osm_id": "443593"
+    },
+    {
+      "plz": "35116",
+      "ort": "Hatzfeld (Eder)",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635014",
+      "osm_id": "443590"
+    },
+    {
+      "plz": "35117",
+      "ort": "Münchhausen",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534015",
+      "osm_id": "225481"
+    },
+    {
+      "plz": "35119",
+      "ort": "Rosenthal",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635017",
+      "osm_id": "443595"
+    },
+    {
+      "plz": "35216",
+      "ort": "Biedenkopf",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534004",
+      "osm_id": "225480"
+    },
+    {
+      "plz": "35232",
+      "ort": "Dautphetal",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534007",
+      "osm_id": "225488"
+    },
+    {
+      "plz": "35236",
+      "ort": "Breidenbach",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534005",
+      "osm_id": "225485"
+    },
+    {
+      "plz": "35239",
+      "ort": "Steffenberg",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534019",
+      "osm_id": "225486"
+    },
+    {
+      "plz": "35260",
+      "ort": "Stadtallendorf",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534018",
+      "osm_id": "225496"
+    },
+    {
+      "plz": "35274",
+      "ort": "Kirchhain",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534011",
+      "osm_id": "225495"
+    },
+    {
+      "plz": "35279",
+      "ort": "Neustadt",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534016",
+      "osm_id": "225497"
+    },
+    {
+      "plz": "35282",
+      "ort": "Rauschenberg",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534017",
+      "osm_id": "225483"
+    },
+    {
+      "plz": "35285",
+      "ort": "Gemünden (Wohra)",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06635012",
+      "osm_id": "443594"
+    },
+    {
+      "plz": "35287",
+      "ort": "Amöneburg",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534001",
+      "osm_id": "225501"
+    },
+    {
+      "plz": "35288",
+      "ort": "Wohratal",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534022",
+      "osm_id": "225484"
+    },
+    {
+      "plz": "35305",
+      "ort": "Grünberg",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531006",
+      "osm_id": "418613"
+    },
+    {
+      "plz": "35315",
+      "ort": "Homberg (Ohm)",
+      "landkreis": "Vogelsbergkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06535009",
+      "osm_id": "418324"
+    },
+    {
+      "plz": "35321",
+      "ort": "Laubach",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531010",
+      "osm_id": "418614"
+    },
+    {
+      "plz": "35325",
+      "ort": "Mücke",
+      "landkreis": "Vogelsbergkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06535013",
+      "osm_id": "418338"
+    },
+    {
+      "plz": "35327",
+      "ort": "Ulrichstein",
+      "landkreis": "Vogelsbergkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06535018",
+      "osm_id": "418339"
+    },
+    {
+      "plz": "35329",
+      "ort": "Gemünden (Felda)",
+      "landkreis": "Vogelsbergkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06535005",
+      "osm_id": "418330"
+    },
+    {
+      "plz": "35390",
+      "ort": "Gießen",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531005",
+      "osm_id": "418617"
+    },
+    {
+      "plz": "35392",
+      "ort": "Gießen",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531005",
+      "osm_id": "418617"
+    },
+    {
+      "plz": "35394",
+      "ort": "Gießen",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531005",
+      "osm_id": "418617"
+    },
+    {
+      "plz": "35396",
+      "ort": "Gießen",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531005",
+      "osm_id": "418617"
+    },
+    {
+      "plz": "35398",
+      "ort": "Gießen",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531005",
+      "osm_id": "418617"
+    },
+    {
+      "plz": "35410",
+      "ort": "Hungen",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531008",
+      "osm_id": "418623"
+    },
+    {
+      "plz": "35415",
+      "ort": "Pohlheim",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531014",
+      "osm_id": "418620"
+    },
+    {
+      "plz": "35418",
+      "ort": "Buseck",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531003",
+      "osm_id": "418616"
+    },
+    {
+      "plz": "35423",
+      "ort": "Lich",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531011",
+      "osm_id": "418622"
+    },
+    {
+      "plz": "35428",
+      "ort": "Langgöns",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531009",
+      "osm_id": "418619"
+    },
+    {
+      "plz": "35435",
+      "ort": "Wettenberg",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531018",
+      "osm_id": "418608"
+    },
+    {
+      "plz": "35440",
+      "ort": "Linden",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531012",
+      "osm_id": "418618"
+    },
+    {
+      "plz": "35444",
+      "ort": "Biebertal",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531002",
+      "osm_id": "418607"
+    },
+    {
+      "plz": "35447",
+      "ort": "Reiskirchen",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531016",
+      "osm_id": "418615"
+    },
+    {
+      "plz": "35452",
+      "ort": "Heuchelheim",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531007",
+      "osm_id": "418624"
+    },
+    {
+      "plz": "35457",
+      "ort": "Lollar",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531013",
+      "osm_id": "418609"
+    },
+    {
+      "plz": "35460",
+      "ort": "Staufenberg",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531017",
+      "osm_id": "418610"
+    },
+    {
+      "plz": "35463",
+      "ort": "Fernwald",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531004",
+      "osm_id": "418621"
+    },
+    {
+      "plz": "35466",
+      "ort": "Rabenau",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531015",
+      "osm_id": "418612"
+    },
+    {
+      "plz": "35469",
+      "ort": "Allendorf",
+      "landkreis": "Landkreis Gießen",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06531001",
+      "osm_id": "418611"
+    },
+    {
+      "plz": "35510",
+      "ort": "Butzbach",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440005",
+      "osm_id": "385683"
+    },
+    {
+      "plz": "35516",
+      "ort": "Münzenberg",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440015",
+      "osm_id": "446510"
+    },
+    {
+      "plz": "35519",
+      "ort": "Rockenberg",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440022",
+      "osm_id": "446620"
+    },
+    {
+      "plz": "35576",
+      "ort": "Wetzlar",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532023",
+      "osm_id": "215978"
+    },
+    {
+      "plz": "35578",
+      "ort": "Wetzlar",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532023",
+      "osm_id": "215978"
+    },
+    {
+      "plz": "35579",
+      "ort": "Wetzlar",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532023",
+      "osm_id": "215978"
+    },
+    {
+      "plz": "35580",
+      "ort": "Wetzlar",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532023",
+      "osm_id": "215978"
+    },
+    {
+      "plz": "35581",
+      "ort": "Wetzlar",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532023",
+      "osm_id": "215978"
+    },
+    {
+      "plz": "35582",
+      "ort": "Wetzlar",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532023",
+      "osm_id": "215978"
+    },
+    {
+      "plz": "35583",
+      "ort": "Wetzlar",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532023",
+      "osm_id": "215978"
+    },
+    {
+      "plz": "35584",
+      "ort": "Wetzlar",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532023",
+      "osm_id": "215978"
+    },
+    {
+      "plz": "35585",
+      "ort": "Wetzlar",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532023",
+      "osm_id": "215978"
+    },
+    {
+      "plz": "35586",
+      "ort": "Wetzlar",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532023",
+      "osm_id": "215978"
+    },
+    {
+      "plz": "35606",
+      "ort": "Solms",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532021",
+      "osm_id": "215980"
+    },
+    {
+      "plz": "35614",
+      "ort": "Aßlar",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532001",
+      "osm_id": "215977"
+    },
+    {
+      "plz": "35619",
+      "ort": "Braunfels",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532003",
+      "osm_id": "215982"
+    },
+    {
+      "plz": "35625",
+      "ort": "Hüttenberg",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532014",
+      "osm_id": "215984"
+    },
+    {
+      "plz": "35630",
+      "ort": "Ehringshausen",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532008",
+      "osm_id": "215976"
+    },
+    {
+      "plz": "35633",
+      "ort": "Lahnau",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532015",
+      "osm_id": "215979"
+    },
+    {
+      "plz": "35638",
+      "ort": "Leun",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532016",
+      "osm_id": "215981"
+    },
+    {
+      "plz": "35641",
+      "ort": "Schöffengrund",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532018",
+      "osm_id": "215983"
+    },
+    {
+      "plz": "35644",
+      "ort": "Hohenahr",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532013",
+      "osm_id": "215972"
+    },
+    {
+      "plz": "35647",
+      "ort": "Waldsolms",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532022",
+      "osm_id": "215985"
+    },
+    {
+      "plz": "35649",
+      "ort": "Bischoffen",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532002",
+      "osm_id": "215971"
+    },
+    {
+      "plz": "35683",
+      "ort": "Dillenburg",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532006",
+      "osm_id": "215966"
+    },
+    {
+      "plz": "35684",
+      "ort": "Dillenburg",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532006",
+      "osm_id": "215966"
+    },
+    {
+      "plz": "35685",
+      "ort": "Dillenburg",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532006",
+      "osm_id": "215966"
+    },
+    {
+      "plz": "35686",
+      "ort": "Dillenburg",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532006",
+      "osm_id": "215966"
+    },
+    {
+      "plz": "35687",
+      "ort": "Dillenburg",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532006",
+      "osm_id": "215966"
+    },
+    {
+      "plz": "35688",
+      "ort": "Dillenburg",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532006",
+      "osm_id": "215966"
+    },
+    {
+      "plz": "35689",
+      "ort": "Dillenburg",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532006",
+      "osm_id": "215966"
+    },
+    {
+      "plz": "35690",
+      "ort": "Dillenburg",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532006",
+      "osm_id": "215966"
+    },
+    {
+      "plz": "35708",
+      "ort": "Haiger",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532011",
+      "osm_id": "215963"
+    },
+    {
+      "plz": "35713",
+      "ort": "Eschenburg",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532009",
+      "osm_id": "215965"
+    },
+    {
+      "plz": "35716",
+      "ort": "Dietzhölztal",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532005",
+      "osm_id": "215964"
+    },
+    {
+      "plz": "35719",
+      "ort": "Angelburg",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06534002",
+      "osm_id": "225487"
+    },
+    {
+      "plz": "35745",
+      "ort": "Herborn",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532012",
+      "osm_id": "215969"
+    },
+    {
+      "plz": "35753",
+      "ort": "Greifenstein",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532010",
+      "osm_id": "215975"
+    },
+    {
+      "plz": "35756",
+      "ort": "Mittenaar",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532017",
+      "osm_id": "215970"
+    },
+    {
+      "plz": "35759",
+      "ort": "Driedorf",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532007",
+      "osm_id": "215973"
+    },
+    {
+      "plz": "35764",
+      "ort": "Sinn",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532020",
+      "osm_id": "215974"
+    },
+    {
+      "plz": "35767",
+      "ort": "Breitscheid",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532004",
+      "osm_id": "215968"
+    },
+    {
+      "plz": "35768",
+      "ort": "Siegbach",
+      "landkreis": "Lahn-Dill-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06532019",
+      "osm_id": "215967"
+    },
+    {
+      "plz": "35781",
+      "ort": "Weilburg",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533017",
+      "osm_id": "324303"
+    },
+    {
+      "plz": "35789",
+      "ort": "Weilmünster",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533018",
+      "osm_id": "324310"
+    },
+    {
+      "plz": "35792",
+      "ort": "Löhnberg",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533010",
+      "osm_id": "324298"
+    },
+    {
+      "plz": "35794",
+      "ort": "Mengerskirchen",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533011",
+      "osm_id": "324297"
+    },
+    {
+      "plz": "35796",
+      "ort": "Weinbach",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533019",
+      "osm_id": "324309"
+    },
+    {
+      "plz": "35799",
+      "ort": "Merenberg",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533012",
+      "osm_id": "324299"
+    },
+    {
+      "plz": "36037",
+      "ort": "Fulda",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631009",
+      "osm_id": "454863"
+    },
+    {
+      "plz": "36039",
+      "ort": "Fulda",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631009",
+      "osm_id": "454863"
+    },
+    {
+      "plz": "36041",
+      "ort": "Fulda",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631009",
+      "osm_id": "454863"
+    },
+    {
+      "plz": "36043",
+      "ort": "Fulda",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631009",
+      "osm_id": "454863"
+    },
+    {
+      "plz": "36088",
+      "ort": "Hünfeld",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631015",
+      "osm_id": "454865"
+    },
+    {
+      "plz": "36093",
+      "ort": "Künzell",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631017",
+      "osm_id": "454880"
+    },
+    {
+      "plz": "36100",
+      "ort": "Petersberg",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631020",
+      "osm_id": "454883"
+    },
+    {
+      "plz": "36103",
+      "ort": "Flieden",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631008",
+      "osm_id": "454874"
+    },
+    {
+      "plz": "36110",
+      "ort": "Schlitz",
+      "landkreis": "Vogelsbergkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06535015",
+      "osm_id": "418329"
+    },
+    {
+      "plz": "36115",
+      "ort": "Ehrenberg (Rhön)",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631005",
+      "osm_id": "454871"
+    },
+    {
+      "plz": "36115",
+      "ort": "Hilders",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631012",
+      "osm_id": "454876"
+    },
+    {
+      "plz": "36119",
+      "ort": "Neuhof",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631018",
+      "osm_id": "454881"
+    },
+    {
+      "plz": "36124",
+      "ort": "Eichenzell",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631006",
+      "osm_id": "454872"
+    },
+    {
+      "plz": "36129",
+      "ort": "Gersfeld (Rhön)",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631010",
+      "osm_id": "454864"
+    },
+    {
+      "plz": "36132",
+      "ort": "Eiterfeld",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631007",
+      "osm_id": "454873"
+    },
+    {
+      "plz": "36137",
+      "ort": "Großenlüder",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631011",
+      "osm_id": "454875"
+    },
+    {
+      "plz": "36142",
+      "ort": "Tann (Rhön)",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631023",
+      "osm_id": "454866"
+    },
+    {
+      "plz": "36145",
+      "ort": "Hofbieber",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631013",
+      "osm_id": "454877"
+    },
+    {
+      "plz": "36148",
+      "ort": "Kalbach",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631016",
+      "osm_id": "454879"
+    },
+    {
+      "plz": "36151",
+      "ort": "Burghaun",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631002",
+      "osm_id": "454868"
+    },
+    {
+      "plz": "36154",
+      "ort": "Hosenfeld",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631014",
+      "osm_id": "454878"
+    },
+    {
+      "plz": "36157",
+      "ort": "Ebersburg",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631004",
+      "osm_id": "454870"
+    },
+    {
+      "plz": "36160",
+      "ort": "Dipperz",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631003",
+      "osm_id": "454869"
+    },
+    {
+      "plz": "36163",
+      "ort": "Poppenhausen (Wasserkuppe)",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631021",
+      "osm_id": "454884"
+    },
+    {
+      "plz": "36166",
+      "ort": "Haunetal",
+      "landkreis": "Landkreis Hersfeld-Rotenburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06632008",
+      "osm_id": "275096"
+    },
+    {
+      "plz": "36167",
+      "ort": "Nüsttal",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631019",
+      "osm_id": "454882"
+    },
+    {
+      "plz": "36169",
+      "ort": "Rasdorf",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631022",
+      "osm_id": "454885"
+    },
+    {
+      "plz": "36179",
+      "ort": "Bebra",
+      "landkreis": "Landkreis Hersfeld-Rotenburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06632003",
+      "osm_id": "237802"
+    },
+    {
+      "plz": "36199",
+      "ort": "Rotenburg an der Fulda",
+      "landkreis": "Landkreis Hersfeld-Rotenburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06632018",
+      "osm_id": "238957"
+    },
+    {
+      "plz": "36205",
+      "ort": "Sontra",
+      "landkreis": "Werra-Meißner-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06636011",
+      "osm_id": "549429"
+    },
+    {
+      "plz": "36208",
+      "ort": "Wildeck",
+      "landkreis": "Landkreis Hersfeld-Rotenburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06632020",
+      "osm_id": "238967"
+    },
+    {
+      "plz": "36211",
+      "ort": "Alheim",
+      "landkreis": "Landkreis Hersfeld-Rotenburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06632001",
+      "osm_id": "238961"
+    },
+    {
+      "plz": "36214",
+      "ort": "Nentershausen",
+      "landkreis": "Landkreis Hersfeld-Rotenburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06632013",
+      "osm_id": "238954"
+    },
+    {
+      "plz": "36217",
+      "ort": "Ronshausen",
+      "landkreis": "Landkreis Hersfeld-Rotenburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06632017",
+      "osm_id": "238966"
+    },
+    {
+      "plz": "36219",
+      "ort": "Cornberg",
+      "landkreis": "Landkreis Hersfeld-Rotenburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06632005",
+      "osm_id": "238956"
+    },
+    {
+      "plz": "36251",
+      "ort": "Bad Hersfeld",
+      "landkreis": "Landkreis Hersfeld-Rotenburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06632002",
+      "osm_id": "275075"
+    },
+    {
+      "plz": "36251",
+      "ort": "Ludwigsau",
+      "landkreis": "Landkreis Hersfeld-Rotenburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06632012",
+      "osm_id": "238962"
+    },
+    {
+      "plz": "36266",
+      "ort": "Heringen (Werra)",
+      "landkreis": "Landkreis Hersfeld-Rotenburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06632009",
+      "osm_id": "238972"
+    },
+    {
+      "plz": "36269",
+      "ort": "Philippsthal (Werra)",
+      "landkreis": "Landkreis Hersfeld-Rotenburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06632016",
+      "osm_id": "275115"
+    },
+    {
+      "plz": "36272",
+      "ort": "Niederaula",
+      "landkreis": "Landkreis Hersfeld-Rotenburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06632015",
+      "osm_id": "275099"
+    },
+    {
+      "plz": "36275",
+      "ort": "Kirchheim",
+      "landkreis": "Landkreis Hersfeld-Rotenburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06632011",
+      "osm_id": "275108"
+    },
+    {
+      "plz": "36277",
+      "ort": "Schenklengsfeld",
+      "landkreis": "Landkreis Hersfeld-Rotenburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06632019",
+      "osm_id": "275086"
+    },
+    {
+      "plz": "36280",
+      "ort": "Oberaula",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06634019",
+      "osm_id": "452214"
+    },
+    {
+      "plz": "36282",
+      "ort": "Hauneck",
+      "landkreis": "Landkreis Hersfeld-Rotenburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06632007",
+      "osm_id": "275090"
+    },
+    {
+      "plz": "36284",
+      "ort": "Hohenroda",
+      "landkreis": "Landkreis Hersfeld-Rotenburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06632010",
+      "osm_id": "275085"
+    },
+    {
+      "plz": "36286",
+      "ort": "Neuenstein",
+      "landkreis": "Landkreis Hersfeld-Rotenburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06632014",
+      "osm_id": "275111"
+    },
+    {
+      "plz": "36287",
+      "ort": "Breitenbach am Herzberg",
+      "landkreis": "Landkreis Hersfeld-Rotenburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06632004",
+      "osm_id": "275101"
+    },
+    {
+      "plz": "36289",
+      "ort": "Friedewald",
+      "landkreis": "Landkreis Hersfeld-Rotenburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06632006",
+      "osm_id": "275074"
+    },
+    {
+      "plz": "36304",
+      "ort": "Alsfeld",
+      "landkreis": "Vogelsbergkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06535001",
+      "osm_id": "418327"
+    },
+    {
+      "plz": "36318",
+      "ort": "Schwalmtal",
+      "landkreis": "Vogelsbergkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06535017",
+      "osm_id": "418332"
+    },
+    {
+      "plz": "36320",
+      "ort": "Kirtorf",
+      "landkreis": "Vogelsbergkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06535010",
+      "osm_id": "418325"
+    },
+    {
+      "plz": "36323",
+      "ort": "Grebenau",
+      "landkreis": "Vogelsbergkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06535006",
+      "osm_id": "418328"
+    },
+    {
+      "plz": "36325",
+      "ort": "Feldatal",
+      "landkreis": "Vogelsbergkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06535003",
+      "osm_id": "418335"
+    },
+    {
+      "plz": "36326",
+      "ort": "Antrifttal",
+      "landkreis": "Vogelsbergkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06535002",
+      "osm_id": "418326"
+    },
+    {
+      "plz": "36329",
+      "ort": "Romrod",
+      "landkreis": "Vogelsbergkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06535014",
+      "osm_id": "418331"
+    },
+    {
+      "plz": "36341",
+      "ort": "Lauterbach",
+      "landkreis": "Vogelsbergkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06535011",
+      "osm_id": "418333"
+    },
+    {
+      "plz": "36355",
+      "ort": "Grebenhain",
+      "landkreis": "Vogelsbergkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06535007",
+      "osm_id": "418341"
+    },
+    {
+      "plz": "36358",
+      "ort": "Herbstein",
+      "landkreis": "Vogelsbergkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06535008",
+      "osm_id": "418337"
+    },
+    {
+      "plz": "36364",
+      "ort": "Bad Salzschlirf",
+      "landkreis": "Landkreis Fulda",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06631001",
+      "osm_id": "454867"
+    },
+    {
+      "plz": "36367",
+      "ort": "Wartenberg",
+      "landkreis": "Vogelsbergkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06535019",
+      "osm_id": "418334"
+    },
+    {
+      "plz": "36369",
+      "ort": "Lautertal",
+      "landkreis": "Vogelsbergkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06535012",
+      "osm_id": "418336"
+    },
+    {
+      "plz": "36381",
+      "ort": "Schlüchtern",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435025",
+      "osm_id": "535941"
+    },
+    {
+      "plz": "36391",
+      "ort": "Sinntal",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435027",
+      "osm_id": "535942"
+    },
+    {
+      "plz": "36396",
+      "ort": "Steinau an der Straße",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435028",
+      "osm_id": "535938"
+    },
+    {
+      "plz": "36399",
+      "ort": "Freiensteinau",
+      "landkreis": "Vogelsbergkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06535004",
+      "osm_id": "418342"
+    },
+    {
+      "plz": "37213",
+      "ort": "Witzenhausen",
+      "landkreis": "Werra-Meißner-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06636016",
+      "osm_id": "549412"
+    },
+    {
+      "plz": "37214",
+      "ort": "Witzenhausen",
+      "landkreis": "Werra-Meißner-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06636016",
+      "osm_id": "549412"
+    },
+    {
+      "plz": "37215",
+      "ort": "Witzenhausen",
+      "landkreis": "Werra-Meißner-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06636016",
+      "osm_id": "549412"
+    },
+    {
+      "plz": "37216",
+      "ort": "Witzenhausen",
+      "landkreis": "Werra-Meißner-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06636016",
+      "osm_id": "549412"
+    },
+    {
+      "plz": "37217",
+      "ort": "Witzenhausen",
+      "landkreis": "Werra-Meißner-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06636016",
+      "osm_id": "549412"
+    },
+    {
+      "plz": "37218",
+      "ort": "Witzenhausen",
+      "landkreis": "Werra-Meißner-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06636016",
+      "osm_id": "549412"
+    },
+    {
+      "plz": "37235",
+      "ort": "Hessisch Lichtenau",
+      "landkreis": "Werra-Meißner-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06636006",
+      "osm_id": "549417"
+    },
+    {
+      "plz": "37242",
+      "ort": "Bad Sooden-Allendorf",
+      "landkreis": "Werra-Meißner-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06636001",
+      "osm_id": "549414"
+    },
+    {
+      "plz": "37247",
+      "ort": "Großalmerode",
+      "landkreis": "Werra-Meißner-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06636004",
+      "osm_id": "549413"
+    },
+    {
+      "plz": "37249",
+      "ort": "Neu-Eichenberg",
+      "landkreis": "Werra-Meißner-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06636009",
+      "osm_id": "549411"
+    },
+    {
+      "plz": "37269",
+      "ort": "Eschwege",
+      "landkreis": "Werra-Meißner-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06636003",
+      "osm_id": "549419"
+    },
+    {
+      "plz": "37276",
+      "ort": "Meinhard",
+      "landkreis": "Werra-Meißner-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06636007",
+      "osm_id": "549416"
+    },
+    {
+      "plz": "37281",
+      "ort": "Wanfried",
+      "landkreis": "Werra-Meißner-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06636013",
+      "osm_id": "549420"
+    },
+    {
+      "plz": "37284",
+      "ort": "Waldkappel",
+      "landkreis": "Werra-Meißner-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06636012",
+      "osm_id": "549422"
+    },
+    {
+      "plz": "37287",
+      "ort": "Wehretal",
+      "landkreis": "Werra-Meißner-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06636014",
+      "osm_id": "549423"
+    },
+    {
+      "plz": "37290",
+      "ort": "Meißner",
+      "landkreis": "Werra-Meißner-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06636008",
+      "osm_id": "549418"
+    },
+    {
+      "plz": "37293",
+      "ort": "Herleshausen",
+      "landkreis": "Werra-Meißner-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06636005",
+      "osm_id": "549430"
+    },
+    {
+      "plz": "37296",
+      "ort": "Ringgau",
+      "landkreis": "Werra-Meißner-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06636010",
+      "osm_id": "549426"
+    },
+    {
+      "plz": "37297",
+      "ort": "Berkatal",
+      "landkreis": "Werra-Meißner-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06636002",
+      "osm_id": "549415"
+    },
+    {
+      "plz": "37299",
+      "ort": "Weißenborn",
+      "landkreis": "Werra-Meißner-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06636015",
+      "osm_id": "549425"
+    },
+    {
+      "plz": "55246",
+      "ort": "Wiesbaden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06414000",
+      "osm_id": "62496"
+    },
+    {
+      "plz": "55252",
+      "ort": "Wiesbaden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06414000",
+      "osm_id": "62496"
+    },
+    {
+      "plz": "60306",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60308",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60310",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60311",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60312",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60313",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60314",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60315",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60316",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60318",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60320",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60322",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60323",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60325",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60326",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60327",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60329",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60385",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60386",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60388",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60389",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60431",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60433",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60435",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60437",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60438",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60439",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60486",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60487",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60488",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60489",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60528",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60529",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60549",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60594",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60596",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60598",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "60599",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "61118",
+      "ort": "Bad Vilbel",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440003",
+      "osm_id": "450123"
+    },
+    {
+      "plz": "61130",
+      "ort": "Nidderau",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435021",
+      "osm_id": "535891"
+    },
+    {
+      "plz": "61137",
+      "ort": "Schöneck",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435026",
+      "osm_id": "535890"
+    },
+    {
+      "plz": "61138",
+      "ort": "Niederdorfelden",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435022",
+      "osm_id": "535889"
+    },
+    {
+      "plz": "61169",
+      "ort": "Friedberg",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440008",
+      "osm_id": "393689"
+    },
+    {
+      "plz": "61184",
+      "ort": "Karben",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440012",
+      "osm_id": "450117"
+    },
+    {
+      "plz": "61191",
+      "ort": "Rosbach v. d. Höhe",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440023",
+      "osm_id": "450122"
+    },
+    {
+      "plz": "61194",
+      "ort": "Niddatal",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440017",
+      "osm_id": "450119"
+    },
+    {
+      "plz": "61197",
+      "ort": "Florstadt",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440007",
+      "osm_id": "450115"
+    },
+    {
+      "plz": "61200",
+      "ort": "Echzell",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440006",
+      "osm_id": "450107"
+    },
+    {
+      "plz": "61200",
+      "ort": "Wölfersheim",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440024",
+      "osm_id": "446621"
+    },
+    {
+      "plz": "61203",
+      "ort": "Reichelsheim",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440021",
+      "osm_id": "450121"
+    },
+    {
+      "plz": "61206",
+      "ort": "Wöllstadt",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440025",
+      "osm_id": "450114"
+    },
+    {
+      "plz": "61209",
+      "ort": "Echzell",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440006",
+      "osm_id": "450107"
+    },
+    {
+      "plz": "61231",
+      "ort": "Bad Nauheim",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440002",
+      "osm_id": "167408"
+    },
+    {
+      "plz": "61239",
+      "ort": "Ober-Mörlen",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440018",
+      "osm_id": "447064"
+    },
+    {
+      "plz": "61250",
+      "ort": "Usingen",
+      "landkreis": "Hochtaunuskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06434011",
+      "osm_id": "418438"
+    },
+    {
+      "plz": "61267",
+      "ort": "Neu-Anspach",
+      "landkreis": "Hochtaunuskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06434007",
+      "osm_id": "418434"
+    },
+    {
+      "plz": "61273",
+      "ort": "Friedrichsdorf",
+      "landkreis": "Hochtaunuskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06434002",
+      "osm_id": "417339"
+    },
+    {
+      "plz": "61273",
+      "ort": "Wehrheim",
+      "landkreis": "Hochtaunuskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06434012",
+      "osm_id": "418436"
+    },
+    {
+      "plz": "61276",
+      "ort": "Weilrod",
+      "landkreis": "Hochtaunuskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06434013",
+      "osm_id": "418383"
+    },
+    {
+      "plz": "61279",
+      "ort": "Grävenwiesbach",
+      "landkreis": "Hochtaunuskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06434004",
+      "osm_id": "418414"
+    },
+    {
+      "plz": "61348",
+      "ort": "Bad Homburg vor der Höhe",
+      "landkreis": "Hochtaunuskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06434001",
+      "osm_id": "338875"
+    },
+    {
+      "plz": "61350",
+      "ort": "Bad Homburg vor der Höhe",
+      "landkreis": "Hochtaunuskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06434001",
+      "osm_id": "338875"
+    },
+    {
+      "plz": "61352",
+      "ort": "Bad Homburg vor der Höhe",
+      "landkreis": "Hochtaunuskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06434001",
+      "osm_id": "338875"
+    },
+    {
+      "plz": "61381",
+      "ort": "Friedrichsdorf",
+      "landkreis": "Hochtaunuskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06434002",
+      "osm_id": "417339"
+    },
+    {
+      "plz": "61389",
+      "ort": "Schmitten im Taunus",
+      "landkreis": "Hochtaunuskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06434009",
+      "osm_id": "418358"
+    },
+    {
+      "plz": "61440",
+      "ort": "Oberursel",
+      "landkreis": "Hochtaunuskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06434008",
+      "osm_id": "417461"
+    },
+    {
+      "plz": "61449",
+      "ort": "Steinbach (Taunus)",
+      "landkreis": "Hochtaunuskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06434010",
+      "osm_id": "417371"
+    },
+    {
+      "plz": "61462",
+      "ort": "Königstein im Taunus",
+      "landkreis": "Hochtaunuskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06434005",
+      "osm_id": "418253"
+    },
+    {
+      "plz": "61476",
+      "ort": "Kronberg im Taunus",
+      "landkreis": "Hochtaunuskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06434006",
+      "osm_id": "418112"
+    },
+    {
+      "plz": "61479",
+      "ort": "Glashütten",
+      "landkreis": "Hochtaunuskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06434003",
+      "osm_id": "418290"
+    },
+    {
+      "plz": "63065",
+      "ort": "Offenbach am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06413000",
+      "osm_id": "62695"
+    },
+    {
+      "plz": "63067",
+      "ort": "Offenbach am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06413000",
+      "osm_id": "62695"
+    },
+    {
+      "plz": "63069",
+      "ort": "Offenbach am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06413000",
+      "osm_id": "62695"
+    },
+    {
+      "plz": "63071",
+      "ort": "Offenbach am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06413000",
+      "osm_id": "62695"
+    },
+    {
+      "plz": "63073",
+      "ort": "Offenbach am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06413000",
+      "osm_id": "62695"
+    },
+    {
+      "plz": "63075",
+      "ort": "Offenbach am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06413000",
+      "osm_id": "62695"
+    },
+    {
+      "plz": "63110",
+      "ort": "Rodgau",
+      "landkreis": "Landkreis Offenbach",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06438011",
+      "osm_id": "659746"
+    },
+    {
+      "plz": "63128",
+      "ort": "Dietzenbach",
+      "landkreis": "Landkreis Offenbach",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06438001",
+      "osm_id": "416276"
+    },
+    {
+      "plz": "63150",
+      "ort": "Heusenstamm",
+      "landkreis": "Landkreis Offenbach",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06438005",
+      "osm_id": "659745"
+    },
+    {
+      "plz": "63165",
+      "ort": "Mühlheim am Main",
+      "landkreis": "Landkreis Offenbach",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06438008",
+      "osm_id": "659749"
+    },
+    {
+      "plz": "63179",
+      "ort": "Obertshausen",
+      "landkreis": "Landkreis Offenbach",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06438010",
+      "osm_id": "659747"
+    },
+    {
+      "plz": "63225",
+      "ort": "Langen",
+      "landkreis": "Landkreis Offenbach",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06438006",
+      "osm_id": "659752"
+    },
+    {
+      "plz": "63263",
+      "ort": "Neu-Isenburg",
+      "landkreis": "Landkreis Offenbach",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06438009",
+      "osm_id": "659742"
+    },
+    {
+      "plz": "63303",
+      "ort": "Dreieich",
+      "landkreis": "Landkreis Offenbach",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06438002",
+      "osm_id": "659750"
+    },
+    {
+      "plz": "63322",
+      "ort": "Rödermark",
+      "landkreis": "Landkreis Offenbach",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06438012",
+      "osm_id": "659748"
+    },
+    {
+      "plz": "63329",
+      "ort": "Egelsbach",
+      "landkreis": "Landkreis Offenbach",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06438003",
+      "osm_id": "659744"
+    },
+    {
+      "plz": "63450",
+      "ort": "Hanau",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435014",
+      "osm_id": "535895"
+    },
+    {
+      "plz": "63452",
+      "ort": "Hanau",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435014",
+      "osm_id": "535895"
+    },
+    {
+      "plz": "63454",
+      "ort": "Hanau",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435014",
+      "osm_id": "535895"
+    },
+    {
+      "plz": "63456",
+      "ort": "Hanau",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435014",
+      "osm_id": "535895"
+    },
+    {
+      "plz": "63457",
+      "ort": "Hanau",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435014",
+      "osm_id": "535895"
+    },
+    {
+      "plz": "63477",
+      "ort": "Maintal",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435019",
+      "osm_id": "535888"
+    },
+    {
+      "plz": "63486",
+      "ort": "Bruchköbel",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435006",
+      "osm_id": "535894"
+    },
+    {
+      "plz": "63500",
+      "ort": "Seligenstadt",
+      "landkreis": "Landkreis Offenbach",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06438013",
+      "osm_id": "659751"
+    },
+    {
+      "plz": "63505",
+      "ort": "Langenselbold",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435017",
+      "osm_id": "535898"
+    },
+    {
+      "plz": "63512",
+      "ort": "Hainburg",
+      "landkreis": "Landkreis Offenbach",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06438004",
+      "osm_id": "659753"
+    },
+    {
+      "plz": "63517",
+      "ort": "Rodenbach",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435023",
+      "osm_id": "535899"
+    },
+    {
+      "plz": "63526",
+      "ort": "Erlensee",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435007",
+      "osm_id": "535896"
+    },
+    {
+      "plz": "63533",
+      "ort": "Mainhausen",
+      "landkreis": "Landkreis Offenbach",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06438007",
+      "osm_id": "659743"
+    },
+    {
+      "plz": "63538",
+      "ort": "Großkrotzenburg",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435011",
+      "osm_id": "535940"
+    },
+    {
+      "plz": "63543",
+      "ort": "Neuberg",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435020",
+      "osm_id": "535893"
+    },
+    {
+      "plz": "63546",
+      "ort": "Hammersbach",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435013",
+      "osm_id": "535892"
+    },
+    {
+      "plz": "63549",
+      "ort": "Ronneburg",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435024",
+      "osm_id": "535897"
+    },
+    {
+      "plz": "63571",
+      "ort": "Gelnhausen",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435010",
+      "osm_id": "535928"
+    },
+    {
+      "plz": "63579",
+      "ort": "Freigericht",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435009",
+      "osm_id": "535900"
+    },
+    {
+      "plz": "63584",
+      "ort": "Gründau",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435012",
+      "osm_id": "535927"
+    },
+    {
+      "plz": "63589",
+      "ort": "Gelnhausen",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435010",
+      "osm_id": "535928"
+    },
+    {
+      "plz": "63589",
+      "ort": "Linsengericht",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435018",
+      "osm_id": "535929"
+    },
+    {
+      "plz": "63594",
+      "ort": "Hasselroth",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435015",
+      "osm_id": "535901"
+    },
+    {
+      "plz": "63599",
+      "ort": "Biebergemünd",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435003",
+      "osm_id": "535930"
+    },
+    {
+      "plz": "63607",
+      "ort": "Wächtersbach",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435029",
+      "osm_id": "535934"
+    },
+    {
+      "plz": "63619",
+      "ort": "Bad Orb",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435001",
+      "osm_id": "535933"
+    },
+    {
+      "plz": "63628",
+      "ort": "Bad Soden-Salmünster",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435002",
+      "osm_id": "535936"
+    },
+    {
+      "plz": "63633",
+      "ort": "Birstein",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435004",
+      "osm_id": "535937"
+    },
+    {
+      "plz": "63636",
+      "ort": "Brachttal",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435005",
+      "osm_id": "535935"
+    },
+    {
+      "plz": "63637",
+      "ort": "Jossgrund",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435016",
+      "osm_id": "2604664"
+    },
+    {
+      "plz": "63639",
+      "ort": "Flörsbachtal",
+      "landkreis": "Main-Kinzig-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06435008",
+      "osm_id": "535931"
+    },
+    {
+      "plz": "63654",
+      "ort": "Büdingen",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440004",
+      "osm_id": "55158"
+    },
+    {
+      "plz": "63667",
+      "ort": "Nidda",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440016",
+      "osm_id": "450118"
+    },
+    {
+      "plz": "63674",
+      "ort": "Altenstadt",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440001",
+      "osm_id": "450108"
+    },
+    {
+      "plz": "63679",
+      "ort": "Schotten",
+      "landkreis": "Vogelsbergkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06535016",
+      "osm_id": "418340"
+    },
+    {
+      "plz": "63683",
+      "ort": "Ortenberg",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440019",
+      "osm_id": "450120"
+    },
+    {
+      "plz": "63688",
+      "ort": "Gedern",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440009",
+      "osm_id": "450116"
+    },
+    {
+      "plz": "63691",
+      "ort": "Ranstadt",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440020",
+      "osm_id": "450113"
+    },
+    {
+      "plz": "63694",
+      "ort": "Limeshain",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440014",
+      "osm_id": "450112"
+    },
+    {
+      "plz": "63695",
+      "ort": "Glauburg",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440010",
+      "osm_id": "450109"
+    },
+    {
+      "plz": "63697",
+      "ort": "Hirzenhain",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440011",
+      "osm_id": "450110"
+    },
+    {
+      "plz": "63699",
+      "ort": "Kefenrod",
+      "landkreis": "Wetteraukreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06440013",
+      "osm_id": "450111"
+    },
+    {
+      "plz": "64283",
+      "ort": "Darmstadt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06411000",
+      "osm_id": "62581"
+    },
+    {
+      "plz": "64285",
+      "ort": "Darmstadt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06411000",
+      "osm_id": "62581"
+    },
+    {
+      "plz": "64287",
+      "ort": "Darmstadt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06411000",
+      "osm_id": "62581"
+    },
+    {
+      "plz": "64289",
+      "ort": "Darmstadt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06411000",
+      "osm_id": "62581"
+    },
+    {
+      "plz": "64291",
+      "ort": "Darmstadt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06411000",
+      "osm_id": "62581"
+    },
+    {
+      "plz": "64293",
+      "ort": "Darmstadt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06411000",
+      "osm_id": "62581"
+    },
+    {
+      "plz": "64295",
+      "ort": "Darmstadt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06411000",
+      "osm_id": "62581"
+    },
+    {
+      "plz": "64297",
+      "ort": "Darmstadt",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06411000",
+      "osm_id": "62581"
+    },
+    {
+      "plz": "64319",
+      "ort": "Pfungstadt",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432018",
+      "osm_id": "452417"
+    },
+    {
+      "plz": "64331",
+      "ort": "Weiterstadt",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432023",
+      "osm_id": "452419"
+    },
+    {
+      "plz": "64342",
+      "ort": "Seeheim-Jugenheim",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432022",
+      "osm_id": "452414"
+    },
+    {
+      "plz": "64347",
+      "ort": "Griesheim",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432008",
+      "osm_id": "452418"
+    },
+    {
+      "plz": "64354",
+      "ort": "Reinheim",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432019",
+      "osm_id": "452423"
+    },
+    {
+      "plz": "64367",
+      "ort": "Mühltal",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432014",
+      "osm_id": "452413"
+    },
+    {
+      "plz": "64372",
+      "ort": "Ober-Ramstadt",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432016",
+      "osm_id": "452412"
+    },
+    {
+      "plz": "64380",
+      "ort": "Roßdorf",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432020",
+      "osm_id": "452395"
+    },
+    {
+      "plz": "64385",
+      "ort": "Reichelsheim (Odenwald)",
+      "landkreis": "Odenwaldkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06437013",
+      "osm_id": "451796"
+    },
+    {
+      "plz": "64390",
+      "ort": "Erzhausen",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432006",
+      "osm_id": "452420"
+    },
+    {
+      "plz": "64395",
+      "ort": "Brensbach",
+      "landkreis": "Odenwaldkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06437003",
+      "osm_id": "451779"
+    },
+    {
+      "plz": "64395",
+      "ort": "Groß-Bieberau",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432009",
+      "osm_id": "452422"
+    },
+    {
+      "plz": "64397",
+      "ort": "Modautal",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432013",
+      "osm_id": "452424"
+    },
+    {
+      "plz": "64401",
+      "ort": "Groß-Bieberau",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432009",
+      "osm_id": "452422"
+    },
+    {
+      "plz": "64404",
+      "ort": "Bickenbach",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432003",
+      "osm_id": "452416"
+    },
+    {
+      "plz": "64405",
+      "ort": "Fischbachtal",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432007",
+      "osm_id": "452421"
+    },
+    {
+      "plz": "64407",
+      "ort": "Fränkisch-Crumbach",
+      "landkreis": "Odenwaldkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06437007",
+      "osm_id": "451780"
+    },
+    {
+      "plz": "64409",
+      "ort": "Messel",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432012",
+      "osm_id": "452396"
+    },
+    {
+      "plz": "64521",
+      "ort": "Groß-Gerau",
+      "landkreis": "Kreis Groß-Gerau",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06433006",
+      "osm_id": "444535"
+    },
+    {
+      "plz": "64546",
+      "ort": "Mörfelden-Walldorf",
+      "landkreis": "Kreis Groß-Gerau",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06433008",
+      "osm_id": "444545"
+    },
+    {
+      "plz": "64560",
+      "ort": "Riedstadt",
+      "landkreis": "Kreis Groß-Gerau",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06433011",
+      "osm_id": "444332"
+    },
+    {
+      "plz": "64569",
+      "ort": "Nauheim",
+      "landkreis": "Kreis Groß-Gerau",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06433009",
+      "osm_id": "444540"
+    },
+    {
+      "plz": "64572",
+      "ort": "Büttelborn",
+      "landkreis": "Kreis Groß-Gerau",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06433003",
+      "osm_id": "444528"
+    },
+    {
+      "plz": "64579",
+      "ort": "Gernsheim",
+      "landkreis": "Kreis Groß-Gerau",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06433004",
+      "osm_id": "443911"
+    },
+    {
+      "plz": "64584",
+      "ort": "Biebesheim",
+      "landkreis": "Kreis Groß-Gerau",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06433001",
+      "osm_id": "443925"
+    },
+    {
+      "plz": "64589",
+      "ort": "Stockstadt",
+      "landkreis": "Kreis Groß-Gerau",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06433013",
+      "osm_id": "443926"
+    },
+    {
+      "plz": "64625",
+      "ort": "Bensheim",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431002",
+      "osm_id": "537055"
+    },
+    {
+      "plz": "64646",
+      "ort": "Heppenheim",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431011",
+      "osm_id": "537056"
+    },
+    {
+      "plz": "64653",
+      "ort": "Lorsch",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431016",
+      "osm_id": "537052"
+    },
+    {
+      "plz": "64658",
+      "ort": "Fürth",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431007",
+      "osm_id": "197615"
+    },
+    {
+      "plz": "64665",
+      "ort": "Alsbach-Hähnlein",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432001",
+      "osm_id": "452415"
+    },
+    {
+      "plz": "64668",
+      "ort": "Rimbach",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431019",
+      "osm_id": "537059"
+    },
+    {
+      "plz": "64673",
+      "ort": "Zwingenberg",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431022",
+      "osm_id": "537054"
+    },
+    {
+      "plz": "64678",
+      "ort": "Lindenfels",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431015",
+      "osm_id": "186896"
+    },
+    {
+      "plz": "64683",
+      "ort": "Einhausen",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431006",
+      "osm_id": "537053"
+    },
+    {
+      "plz": "64686",
+      "ort": "Lautertal",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431014",
+      "osm_id": "537057"
+    },
+    {
+      "plz": "64689",
+      "ort": "Grasellenbach",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431009",
+      "osm_id": "537058"
+    },
+    {
+      "plz": "64711",
+      "ort": "Erbach",
+      "landkreis": "Odenwaldkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06437006",
+      "osm_id": "451798"
+    },
+    {
+      "plz": "64720",
+      "ort": "Michelstadt",
+      "landkreis": "Odenwaldkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06437011",
+      "osm_id": "451803"
+    },
+    {
+      "plz": "64732",
+      "ort": "Bad König",
+      "landkreis": "Odenwaldkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06437001",
+      "osm_id": "451777"
+    },
+    {
+      "plz": "64739",
+      "ort": "Höchst im Odenwald",
+      "landkreis": "Odenwaldkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06437009",
+      "osm_id": "451778"
+    },
+    {
+      "plz": "64743",
+      "ort": "Erbach",
+      "landkreis": "Odenwaldkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06437006",
+      "osm_id": "451798"
+    },
+    {
+      "plz": "64747",
+      "ort": "Breuberg",
+      "landkreis": "Odenwaldkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06437004",
+      "osm_id": "451775"
+    },
+    {
+      "plz": "64750",
+      "ort": "Lützelbach",
+      "landkreis": "Odenwaldkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06437010",
+      "osm_id": "451776"
+    },
+    {
+      "plz": "64753",
+      "ort": "Brombachtal",
+      "landkreis": "Odenwaldkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06437005",
+      "osm_id": "451781"
+    },
+    {
+      "plz": "64756",
+      "ort": "Mossautal",
+      "landkreis": "Odenwaldkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06437012",
+      "osm_id": "451797"
+    },
+    {
+      "plz": "64757",
+      "ort": "Hirschhorn",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431012",
+      "osm_id": "537069"
+    },
+    {
+      "plz": "64760",
+      "ort": "Oberzent",
+      "landkreis": "Odenwaldkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06437016",
+      "osm_id": "7876002"
+    },
+    {
+      "plz": "64807",
+      "ort": "Dieburg",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432004",
+      "osm_id": "452393"
+    },
+    {
+      "plz": "64823",
+      "ort": "Groß-Umstadt",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432010",
+      "osm_id": "452389"
+    },
+    {
+      "plz": "64832",
+      "ort": "Babenhausen",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432002",
+      "osm_id": "452387"
+    },
+    {
+      "plz": "64839",
+      "ort": "Münster (Hessen)",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432015",
+      "osm_id": "452392"
+    },
+    {
+      "plz": "64846",
+      "ort": "Groß-Zimmern",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432011",
+      "osm_id": "452394"
+    },
+    {
+      "plz": "64850",
+      "ort": "Schaafheim",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432021",
+      "osm_id": "452388"
+    },
+    {
+      "plz": "64853",
+      "ort": "Otzberg",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432017",
+      "osm_id": "452390"
+    },
+    {
+      "plz": "64859",
+      "ort": "Eppertshausen",
+      "landkreis": "Landkreis Darmstadt-Dieburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06432005",
+      "osm_id": "452391"
+    },
+    {
+      "plz": "65183",
+      "ort": "Wiesbaden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06414000",
+      "osm_id": "62496"
+    },
+    {
+      "plz": "65185",
+      "ort": "Wiesbaden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06414000",
+      "osm_id": "62496"
+    },
+    {
+      "plz": "65187",
+      "ort": "Wiesbaden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06414000",
+      "osm_id": "62496"
+    },
+    {
+      "plz": "65189",
+      "ort": "Wiesbaden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06414000",
+      "osm_id": "62496"
+    },
+    {
+      "plz": "65191",
+      "ort": "Wiesbaden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06414000",
+      "osm_id": "62496"
+    },
+    {
+      "plz": "65193",
+      "ort": "Wiesbaden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06414000",
+      "osm_id": "62496"
+    },
+    {
+      "plz": "65195",
+      "ort": "Wiesbaden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06414000",
+      "osm_id": "62496"
+    },
+    {
+      "plz": "65197",
+      "ort": "Wiesbaden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06414000",
+      "osm_id": "62496"
+    },
+    {
+      "plz": "65199",
+      "ort": "Wiesbaden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06414000",
+      "osm_id": "62496"
+    },
+    {
+      "plz": "65201",
+      "ort": "Wiesbaden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06414000",
+      "osm_id": "62496"
+    },
+    {
+      "plz": "65203",
+      "ort": "Wiesbaden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06414000",
+      "osm_id": "62496"
+    },
+    {
+      "plz": "65205",
+      "ort": "Wiesbaden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06414000",
+      "osm_id": "62496"
+    },
+    {
+      "plz": "65207",
+      "ort": "Wiesbaden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06414000",
+      "osm_id": "62496"
+    },
+    {
+      "plz": "65232",
+      "ort": "Taunusstein",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06439015",
+      "osm_id": "412432"
+    },
+    {
+      "plz": "65239",
+      "ort": "Hochheim",
+      "landkreis": "Main-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06436006",
+      "osm_id": "414755"
+    },
+    {
+      "plz": "65307",
+      "ort": "Bad Schwalbach",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06439002",
+      "osm_id": "1734859"
+    },
+    {
+      "plz": "65321",
+      "ort": "Heidenrod",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06439005",
+      "osm_id": "408102"
+    },
+    {
+      "plz": "65326",
+      "ort": "Aarbergen",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06439001",
+      "osm_id": "413109"
+    },
+    {
+      "plz": "65329",
+      "ort": "Hohenstein",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06439006",
+      "osm_id": "412939"
+    },
+    {
+      "plz": "65343",
+      "ort": "Eltville am Rhein",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06439003",
+      "osm_id": "408592"
+    },
+    {
+      "plz": "65344",
+      "ort": "Eltville am Rhein",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06439003",
+      "osm_id": "408592"
+    },
+    {
+      "plz": "65345",
+      "ort": "Eltville am Rhein",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06439003",
+      "osm_id": "408592"
+    },
+    {
+      "plz": "65346",
+      "ort": "Eltville am Rhein",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06439003",
+      "osm_id": "408592"
+    },
+    {
+      "plz": "65347",
+      "ort": "Eltville am Rhein",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06439003",
+      "osm_id": "408592"
+    },
+    {
+      "plz": "65366",
+      "ort": "Geisenheim",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06439004",
+      "osm_id": "409070"
+    },
+    {
+      "plz": "65375",
+      "ort": "Oestrich-Winkel",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06439012",
+      "osm_id": "409031"
+    },
+    {
+      "plz": "65385",
+      "ort": "Rüdesheim am Rhein",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06439013",
+      "osm_id": "409093"
+    },
+    {
+      "plz": "65388",
+      "ort": "Schlangenbad",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06439014",
+      "osm_id": "403139"
+    },
+    {
+      "plz": "65391",
+      "ort": "Lorch",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06439010",
+      "osm_id": "409103"
+    },
+    {
+      "plz": "65396",
+      "ort": "Walluf",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06439017",
+      "osm_id": "941754"
+    },
+    {
+      "plz": "65399",
+      "ort": "Kiedrich",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06439009",
+      "osm_id": "407658"
+    },
+    {
+      "plz": "65428",
+      "ort": "Rüsselsheim am Main",
+      "landkreis": "Kreis Groß-Gerau",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06433012",
+      "osm_id": "444912"
+    },
+    {
+      "plz": "65439",
+      "ort": "Flörsheim",
+      "landkreis": "Main-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06436004",
+      "osm_id": "414751"
+    },
+    {
+      "plz": "65451",
+      "ort": "Kelsterbach",
+      "landkreis": "Kreis Groß-Gerau",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06433007",
+      "osm_id": "444789"
+    },
+    {
+      "plz": "65462",
+      "ort": "Ginsheim-Gustavsburg",
+      "landkreis": "Kreis Groß-Gerau",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06433005",
+      "osm_id": "444960"
+    },
+    {
+      "plz": "65468",
+      "ort": "Trebur",
+      "landkreis": "Kreis Groß-Gerau",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06433014",
+      "osm_id": "444513"
+    },
+    {
+      "plz": "65474",
+      "ort": "Bischofsheim",
+      "landkreis": "Kreis Groß-Gerau",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06433002",
+      "osm_id": "444944"
+    },
+    {
+      "plz": "65479",
+      "ort": "Raunheim",
+      "landkreis": "Kreis Groß-Gerau",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06433010",
+      "osm_id": "444843"
+    },
+    {
+      "plz": "65510",
+      "ort": "Hünstetten",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06439007",
+      "osm_id": "413391"
+    },
+    {
+      "plz": "65510",
+      "ort": "Idstein",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06439008",
+      "osm_id": "413539"
+    },
+    {
+      "plz": "65520",
+      "ort": "Bad Camberg",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533003",
+      "osm_id": "324314"
+    },
+    {
+      "plz": "65527",
+      "ort": "Niedernhausen",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06439011",
+      "osm_id": "413450"
+    },
+    {
+      "plz": "65529",
+      "ort": "Waldems",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06439016",
+      "osm_id": "413548"
+    },
+    {
+      "plz": "65549",
+      "ort": "Limburg an der Lahn",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533009",
+      "osm_id": "324307"
+    },
+    {
+      "plz": "65550",
+      "ort": "Limburg an der Lahn",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533009",
+      "osm_id": "324307"
+    },
+    {
+      "plz": "65551",
+      "ort": "Limburg an der Lahn",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533009",
+      "osm_id": "324307"
+    },
+    {
+      "plz": "65552",
+      "ort": "Limburg an der Lahn",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533009",
+      "osm_id": "324307"
+    },
+    {
+      "plz": "65553",
+      "ort": "Limburg an der Lahn",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533009",
+      "osm_id": "324307"
+    },
+    {
+      "plz": "65554",
+      "ort": "Limburg an der Lahn",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533009",
+      "osm_id": "324307"
+    },
+    {
+      "plz": "65555",
+      "ort": "Limburg an der Lahn",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533009",
+      "osm_id": "324307"
+    },
+    {
+      "plz": "65556",
+      "ort": "Limburg an der Lahn",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533009",
+      "osm_id": "324307"
+    },
+    {
+      "plz": "65589",
+      "ort": "Hadamar",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533007",
+      "osm_id": "324305"
+    },
+    {
+      "plz": "65594",
+      "ort": "Runkel",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533013",
+      "osm_id": "324308"
+    },
+    {
+      "plz": "65597",
+      "ort": "Hünfelden",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533008",
+      "osm_id": "324315"
+    },
+    {
+      "plz": "65599",
+      "ort": "Dornburg",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533004",
+      "osm_id": "324302"
+    },
+    {
+      "plz": "65604",
+      "ort": "Elz",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533006",
+      "osm_id": "324304"
+    },
+    {
+      "plz": "65606",
+      "ort": "Villmar",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533015",
+      "osm_id": "324311"
+    },
+    {
+      "plz": "65611",
+      "ort": "Brechen",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533002",
+      "osm_id": "413578"
+    },
+    {
+      "plz": "65614",
+      "ort": "Beselich",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533001",
+      "osm_id": "324306"
+    },
+    {
+      "plz": "65618",
+      "ort": "Selters (Taunus)",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533014",
+      "osm_id": "324312"
+    },
+    {
+      "plz": "65620",
+      "ort": "Waldbrunn",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533016",
+      "osm_id": "324300"
+    },
+    {
+      "plz": "65627",
+      "ort": "Elbtal",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06533005",
+      "osm_id": "324301"
+    },
+    {
+      "plz": "65719",
+      "ort": "Hofheim am Taunus",
+      "landkreis": "Main-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06436007",
+      "osm_id": "414726"
+    },
+    {
+      "plz": "65760",
+      "ort": "Eschborn",
+      "landkreis": "Main-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06436003",
+      "osm_id": "423062"
+    },
+    {
+      "plz": "65779",
+      "ort": "Kelkheim",
+      "landkreis": "Main-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06436008",
+      "osm_id": "414796"
+    },
+    {
+      "plz": "65795",
+      "ort": "Hattersheim am Main",
+      "landkreis": "Main-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06436005",
+      "osm_id": "414749"
+    },
+    {
+      "plz": "65812",
+      "ort": "Bad Soden am Taunus",
+      "landkreis": "Main-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06436001",
+      "osm_id": "414829"
+    },
+    {
+      "plz": "65817",
+      "ort": "Eppstein",
+      "landkreis": "Main-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06436002",
+      "osm_id": "393359"
+    },
+    {
+      "plz": "65824",
+      "ort": "Schwalbach am Taunus",
+      "landkreis": "Main-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06436011",
+      "osm_id": "414833"
+    },
+    {
+      "plz": "65830",
+      "ort": "Kriftel",
+      "landkreis": "Main-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06436009",
+      "osm_id": "414746"
+    },
+    {
+      "plz": "65835",
+      "ort": "Liederbach am Taunus",
+      "landkreis": "Main-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06436010",
+      "osm_id": "414800"
+    },
+    {
+      "plz": "65843",
+      "ort": "Sulzbach (Taunus)",
+      "landkreis": "Main-Taunus-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06436012",
+      "osm_id": "414856"
+    },
+    {
+      "plz": "65929",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "65931",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "65933",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "65934",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "65936",
+      "ort": "Frankfurt am Main",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06412000",
+      "osm_id": "62400"
+    },
+    {
+      "plz": "68519",
+      "ort": "Viernheim",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431020",
+      "osm_id": "537051"
+    },
+    {
+      "plz": "68623",
+      "ort": "Lampertheim",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431013",
+      "osm_id": "537050"
+    },
+    {
+      "plz": "68642",
+      "ort": "Bürstadt",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431005",
+      "osm_id": "537049"
+    },
+    {
+      "plz": "68647",
+      "ort": "Biblis",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431003",
+      "osm_id": "537048"
+    },
+    {
+      "plz": "68649",
+      "ort": "Groß-Rohrheim",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431010",
+      "osm_id": "537047"
+    },
+    {
+      "plz": "69239",
+      "ort": "Neckarsteinach",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431018",
+      "osm_id": "537067"
+    },
+    {
+      "plz": "69412",
+      "ort": "Hirschhorn",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431012",
+      "osm_id": "537069"
+    },
+    {
+      "plz": "69434",
+      "ort": "Hirschhorn",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431012",
+      "osm_id": "537069"
+    },
+    {
+      "plz": "69483",
+      "ort": "Wald-Michelbach",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431021",
+      "osm_id": "537060"
+    },
+    {
+      "plz": "69488",
+      "ort": "Birkenau",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431004",
+      "osm_id": "537062"
+    },
+    {
+      "plz": "69509",
+      "ort": "Mörlenbach",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431017",
+      "osm_id": "163730"
+    },
+    {
+      "plz": "69517",
+      "ort": "Gorxheimertal",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431008",
+      "osm_id": "537063"
+    },
+    {
+      "plz": "69518",
+      "ort": "Abtsteinach",
+      "landkreis": "Kreis Bergstraße",
+      "is_kreisfrei": false,
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "ags": "06431001",
+      "osm_id": "537061"
+    }
+  ],
+  "meta": {
+    "title": "Postleitzahlen — Hessen - Kostenloser Download",
+    "description": "559 Postleitzahl-Ort-Kombinationen in Hessen (ISO DE-HE). Mit Landkreis, AGS und OSM-ID. Enthält 559 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Postleitzahlen — Hessen | ListBase",
+    "seo_description": "Herunterladen Postleitzahlen — Hessen — 559 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 559 Datensätze / 8 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

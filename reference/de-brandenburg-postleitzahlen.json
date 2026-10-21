@@ -1,0 +1,4776 @@
+{
+  "id": "de-brandenburg-postleitzahlen",
+  "name": "Postleitzahlen — Brandenburg",
+  "title": "Postleitzahlen — Brandenburg",
+  "description": "471 Postleitzahl-Ort-Kombinationen in Brandenburg (ISO DE-BB). Mit Landkreis, AGS und OSM-ID.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 471,
+  "columns": [
+    {
+      "key": "plz",
+      "label": "Plz",
+      "type": "number"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "landkreis",
+      "label": "Landkreis",
+      "type": "string"
+    },
+    {
+      "key": "is_kreisfrei",
+      "label": "Is Kreisfrei",
+      "type": "boolean"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "ags",
+      "label": "Ags",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "plz": "01945",
+      "ort": "Frauendorf",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066064",
+      "osm_id": "1314279"
+    },
+    {
+      "plz": "01945",
+      "ort": "Grünewald",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066116",
+      "osm_id": "1314281"
+    },
+    {
+      "plz": "01945",
+      "ort": "Guteborn",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066120",
+      "osm_id": "1314282"
+    },
+    {
+      "plz": "01945",
+      "ort": "Hermsdorf",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066124",
+      "osm_id": "1314278"
+    },
+    {
+      "plz": "01945",
+      "ort": "Hohenbocka",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066132",
+      "osm_id": "1314274"
+    },
+    {
+      "plz": "01945",
+      "ort": "Kroppen",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066168",
+      "osm_id": "1314283"
+    },
+    {
+      "plz": "01945",
+      "ort": "Lindenau",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066188",
+      "osm_id": "1314220"
+    },
+    {
+      "plz": "01945",
+      "ort": "Ruhland",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066272",
+      "osm_id": "1314277"
+    },
+    {
+      "plz": "01945",
+      "ort": "Schwarzbach",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066292",
+      "osm_id": "1314280"
+    },
+    {
+      "plz": "01945",
+      "ort": "Senftenberg",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066304",
+      "osm_id": "1314216"
+    },
+    {
+      "plz": "01945",
+      "ort": "Tettau",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066316",
+      "osm_id": "1314272"
+    },
+    {
+      "plz": "01968",
+      "ort": "Schipkau",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066285",
+      "osm_id": "1314219"
+    },
+    {
+      "plz": "01968",
+      "ort": "Senftenberg",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066304",
+      "osm_id": "1314216"
+    },
+    {
+      "plz": "01979",
+      "ort": "Lauchhammer",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066176",
+      "osm_id": "1314225"
+    },
+    {
+      "plz": "01983",
+      "ort": "Großräschen",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066112",
+      "osm_id": "1314217"
+    },
+    {
+      "plz": "01987",
+      "ort": "Schwarzheide",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066296",
+      "osm_id": "1314222"
+    },
+    {
+      "plz": "01990",
+      "ort": "Großkmehlen",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066104",
+      "osm_id": "1314223"
+    },
+    {
+      "plz": "01990",
+      "ort": "Ortrand",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066240",
+      "osm_id": "1314221"
+    },
+    {
+      "plz": "01993",
+      "ort": "Schipkau",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066285",
+      "osm_id": "1314219"
+    },
+    {
+      "plz": "01994",
+      "ort": "Schipkau",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066285",
+      "osm_id": "1314219"
+    },
+    {
+      "plz": "01996",
+      "ort": "Senftenberg",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066304",
+      "osm_id": "1314216"
+    },
+    {
+      "plz": "01998",
+      "ort": "Schipkau",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066285",
+      "osm_id": "1314219"
+    },
+    {
+      "plz": "03042",
+      "ort": "Cottbus - Chóśebuz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12052000",
+      "osm_id": "62430"
+    },
+    {
+      "plz": "03044",
+      "ort": "Cottbus - Chóśebuz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12052000",
+      "osm_id": "62430"
+    },
+    {
+      "plz": "03046",
+      "ort": "Cottbus - Chóśebuz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12052000",
+      "osm_id": "62430"
+    },
+    {
+      "plz": "03048",
+      "ort": "Cottbus - Chóśebuz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12052000",
+      "osm_id": "62430"
+    },
+    {
+      "plz": "03050",
+      "ort": "Cottbus - Chóśebuz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12052000",
+      "osm_id": "62430"
+    },
+    {
+      "plz": "03051",
+      "ort": "Cottbus - Chóśebuz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12052000",
+      "osm_id": "62430"
+    },
+    {
+      "plz": "03052",
+      "ort": "Cottbus - Chóśebuz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12052000",
+      "osm_id": "62430"
+    },
+    {
+      "plz": "03053",
+      "ort": "Cottbus - Chóśebuz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12052000",
+      "osm_id": "62430"
+    },
+    {
+      "plz": "03054",
+      "ort": "Cottbus - Chóśebuz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12052000",
+      "osm_id": "62430"
+    },
+    {
+      "plz": "03055",
+      "ort": "Cottbus - Chóśebuz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12052000",
+      "osm_id": "62430"
+    },
+    {
+      "plz": "03058",
+      "ort": "Neuhausen/Spree",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071301",
+      "osm_id": "1322563"
+    },
+    {
+      "plz": "03096",
+      "ort": "Briesen",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071028",
+      "osm_id": "1322840"
+    },
+    {
+      "plz": "03096",
+      "ort": "Burg (Spreewald)",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071032",
+      "osm_id": "1322838"
+    },
+    {
+      "plz": "03096",
+      "ort": "Dissen-Striesow",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071041",
+      "osm_id": "1322842"
+    },
+    {
+      "plz": "03096",
+      "ort": "Guhrow",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071164",
+      "osm_id": "1322839"
+    },
+    {
+      "plz": "03096",
+      "ort": "Schmogrow-Fehrow",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071341",
+      "osm_id": "1328962"
+    },
+    {
+      "plz": "03096",
+      "ort": "Werben",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071412",
+      "osm_id": "1322841"
+    },
+    {
+      "plz": "03099",
+      "ort": "Kolkwitz",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071244",
+      "osm_id": "1322843"
+    },
+    {
+      "plz": "03103",
+      "ort": "Neu-Seeland",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066226",
+      "osm_id": "1314224"
+    },
+    {
+      "plz": "03103",
+      "ort": "Neupetershain",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066228",
+      "osm_id": "1314218"
+    },
+    {
+      "plz": "03116",
+      "ort": "Drebkau",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071057",
+      "osm_id": "1322549"
+    },
+    {
+      "plz": "03119",
+      "ort": "Welzow",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071408",
+      "osm_id": "1322548"
+    },
+    {
+      "plz": "03130",
+      "ort": "Felixsee",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071074",
+      "osm_id": "1322602"
+    },
+    {
+      "plz": "03130",
+      "ort": "Jämlitz-Klein Düben",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071189",
+      "osm_id": "1322604"
+    },
+    {
+      "plz": "03130",
+      "ort": "Spremberg",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071372",
+      "osm_id": "1322562"
+    },
+    {
+      "plz": "03130",
+      "ort": "Tschernitz",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071392",
+      "osm_id": "1322600"
+    },
+    {
+      "plz": "03149",
+      "ort": "Forst (Lausitz) - Baršć",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071076",
+      "osm_id": "1322605"
+    },
+    {
+      "plz": "03149",
+      "ort": "Groß Schacksdorf-Simmersdorf",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071153",
+      "osm_id": "1322607"
+    },
+    {
+      "plz": "03149",
+      "ort": "Wiesengrund",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071414",
+      "osm_id": "1322601"
+    },
+    {
+      "plz": "03159",
+      "ort": "Döbern",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071044",
+      "osm_id": "1322603"
+    },
+    {
+      "plz": "03159",
+      "ort": "Neiße-Malxetal",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071294",
+      "osm_id": "1322606"
+    },
+    {
+      "plz": "03172",
+      "ort": "Guben",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071160",
+      "osm_id": "1351322"
+    },
+    {
+      "plz": "03172",
+      "ort": "Jänschwalde",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071193",
+      "osm_id": "1322810"
+    },
+    {
+      "plz": "03172",
+      "ort": "Schenkendöbern",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071337",
+      "osm_id": "1351323"
+    },
+    {
+      "plz": "03185",
+      "ort": "Drachhausen",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071052",
+      "osm_id": "1322809"
+    },
+    {
+      "plz": "03185",
+      "ort": "Drehnow",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071060",
+      "osm_id": "1322807"
+    },
+    {
+      "plz": "03185",
+      "ort": "Heinersbrück",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071176",
+      "osm_id": "1322805"
+    },
+    {
+      "plz": "03185",
+      "ort": "Peitz",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071304",
+      "osm_id": "1322803"
+    },
+    {
+      "plz": "03185",
+      "ort": "Tauer",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071384",
+      "osm_id": "1322806"
+    },
+    {
+      "plz": "03185",
+      "ort": "Teichland",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071386",
+      "osm_id": "1322804"
+    },
+    {
+      "plz": "03185",
+      "ort": "Turnow-Preilack",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071401",
+      "osm_id": "1322808"
+    },
+    {
+      "plz": "03197",
+      "ort": "Jänschwalde",
+      "landkreis": "Landkreis Spree-Neiße",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12071193",
+      "osm_id": "1322810"
+    },
+    {
+      "plz": "03205",
+      "ort": "Bronkow",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066041",
+      "osm_id": "1322901"
+    },
+    {
+      "plz": "03205",
+      "ort": "Calau",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066052",
+      "osm_id": "1322899"
+    },
+    {
+      "plz": "03222",
+      "ort": "Lübbenau/Spreewald",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066196",
+      "osm_id": "1322898"
+    },
+    {
+      "plz": "03226",
+      "ort": "Vetschau/Spreewald",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066320",
+      "osm_id": "1322900"
+    },
+    {
+      "plz": "03229",
+      "ort": "Altdöbern",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066008",
+      "osm_id": "1322902"
+    },
+    {
+      "plz": "03229",
+      "ort": "Luckaitztal",
+      "landkreis": "Landkreis Oberspreewald-Lausitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12066202",
+      "osm_id": "1322897"
+    },
+    {
+      "plz": "03238",
+      "ort": "Finsterwalde",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062140",
+      "osm_id": "1322947"
+    },
+    {
+      "plz": "03238",
+      "ort": "Gorden-Staupitz",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062177",
+      "osm_id": "1322955"
+    },
+    {
+      "plz": "03238",
+      "ort": "Heideland",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062219",
+      "osm_id": "1322951"
+    },
+    {
+      "plz": "03238",
+      "ort": "Lichterfeld-Schacksdorf",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062293",
+      "osm_id": "1322949"
+    },
+    {
+      "plz": "03238",
+      "ort": "Massen-Niederlausitz",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062333",
+      "osm_id": "1322945"
+    },
+    {
+      "plz": "03238",
+      "ort": "Rückersdorf",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062417",
+      "osm_id": "1322952"
+    },
+    {
+      "plz": "03238",
+      "ort": "Sallgast",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062425",
+      "osm_id": "1322950"
+    },
+    {
+      "plz": "03246",
+      "ort": "Crinitz",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062088",
+      "osm_id": "1303793"
+    },
+    {
+      "plz": "03246",
+      "ort": "Massen-Niederlausitz",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062333",
+      "osm_id": "1322945"
+    },
+    {
+      "plz": "03249",
+      "ort": "Sonnewalde",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062469",
+      "osm_id": "1322956"
+    },
+    {
+      "plz": "03253",
+      "ort": "Doberlug-Kirchhain",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062092",
+      "osm_id": "1322948"
+    },
+    {
+      "plz": "03253",
+      "ort": "Schilda",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062440",
+      "osm_id": "1322954"
+    },
+    {
+      "plz": "03253",
+      "ort": "Schönborn",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062453",
+      "osm_id": "1322953"
+    },
+    {
+      "plz": "03253",
+      "ort": "Tröbitz",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062492",
+      "osm_id": "1322946"
+    },
+    {
+      "plz": "04895",
+      "ort": "Bad Liebenwerda",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062024",
+      "osm_id": "1328907"
+    },
+    {
+      "plz": "04895",
+      "ort": "Falkenberg/Elster",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062128",
+      "osm_id": "1303469"
+    },
+    {
+      "plz": "04895",
+      "ort": "Mühlberg/Elbe",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062341",
+      "osm_id": "1303470"
+    },
+    {
+      "plz": "04895",
+      "ort": "Uebigau-Wahrenbrück",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062500",
+      "osm_id": "1303774"
+    },
+    {
+      "plz": "04910",
+      "ort": "Elsterwerda",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062124",
+      "osm_id": "1303791"
+    },
+    {
+      "plz": "04916",
+      "ort": "Herzberg (Elster)",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062224",
+      "osm_id": "1303473"
+    },
+    {
+      "plz": "04916",
+      "ort": "Kremitzaue",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062282",
+      "osm_id": "1303471"
+    },
+    {
+      "plz": "04916",
+      "ort": "Schönewalde",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062461",
+      "osm_id": "1303472"
+    },
+    {
+      "plz": "04924",
+      "ort": "Bad Liebenwerda",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062024",
+      "osm_id": "1328907"
+    },
+    {
+      "plz": "04924",
+      "ort": "Uebigau-Wahrenbrück",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062500",
+      "osm_id": "1303774"
+    },
+    {
+      "plz": "04928",
+      "ort": "Plessa",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062372",
+      "osm_id": "1303787"
+    },
+    {
+      "plz": "04928",
+      "ort": "Schraden",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062464",
+      "osm_id": "1303792"
+    },
+    {
+      "plz": "04931",
+      "ort": "Bad Liebenwerda",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062024",
+      "osm_id": "1328907"
+    },
+    {
+      "plz": "04931",
+      "ort": "Mühlberg/Elbe",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062341",
+      "osm_id": "1303470"
+    },
+    {
+      "plz": "04932",
+      "ort": "Großthiemig",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062208",
+      "osm_id": "1303790"
+    },
+    {
+      "plz": "04932",
+      "ort": "Gröden",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062196",
+      "osm_id": "1303788"
+    },
+    {
+      "plz": "04932",
+      "ort": "Hirschfeld",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062232",
+      "osm_id": "1303794"
+    },
+    {
+      "plz": "04932",
+      "ort": "Merzdorf",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062336",
+      "osm_id": "1303795"
+    },
+    {
+      "plz": "04932",
+      "ort": "Röderland",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062410",
+      "osm_id": "1303773"
+    },
+    {
+      "plz": "04934",
+      "ort": "Hohenleipisch",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062240",
+      "osm_id": "1303789"
+    },
+    {
+      "plz": "04936",
+      "ort": "Fichtwald",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062134",
+      "osm_id": "1303813"
+    },
+    {
+      "plz": "04936",
+      "ort": "Hohenbucko",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062237",
+      "osm_id": "1303816"
+    },
+    {
+      "plz": "04936",
+      "ort": "Kremitzaue",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062282",
+      "osm_id": "1303471"
+    },
+    {
+      "plz": "04936",
+      "ort": "Lebusa",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062289",
+      "osm_id": "1303814"
+    },
+    {
+      "plz": "04936",
+      "ort": "Schlieben",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062445",
+      "osm_id": "1303815"
+    },
+    {
+      "plz": "04938",
+      "ort": "Uebigau-Wahrenbrück",
+      "landkreis": "Landkreis Elbe-Elster",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12062500",
+      "osm_id": "1303774"
+    },
+    {
+      "plz": "12529",
+      "ort": "Schönefeld",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061433",
+      "osm_id": "55772"
+    },
+    {
+      "plz": "14467",
+      "ort": "Potsdam",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12054000",
+      "osm_id": "62369"
+    },
+    {
+      "plz": "14469",
+      "ort": "Potsdam",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12054000",
+      "osm_id": "62369"
+    },
+    {
+      "plz": "14471",
+      "ort": "Potsdam",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12054000",
+      "osm_id": "62369"
+    },
+    {
+      "plz": "14473",
+      "ort": "Potsdam",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12054000",
+      "osm_id": "62369"
+    },
+    {
+      "plz": "14476",
+      "ort": "Potsdam",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12054000",
+      "osm_id": "62369"
+    },
+    {
+      "plz": "14478",
+      "ort": "Potsdam",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12054000",
+      "osm_id": "62369"
+    },
+    {
+      "plz": "14480",
+      "ort": "Potsdam",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12054000",
+      "osm_id": "62369"
+    },
+    {
+      "plz": "14482",
+      "ort": "Potsdam",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12054000",
+      "osm_id": "62369"
+    },
+    {
+      "plz": "14513",
+      "ort": "Teltow",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069616",
+      "osm_id": "447979"
+    },
+    {
+      "plz": "14532",
+      "ort": "Kleinmachnow",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069304",
+      "osm_id": "447955"
+    },
+    {
+      "plz": "14532",
+      "ort": "Stahnsdorf",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069604",
+      "osm_id": "446688"
+    },
+    {
+      "plz": "14542",
+      "ort": "Werder (Havel)",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069656",
+      "osm_id": "531654"
+    },
+    {
+      "plz": "14547",
+      "ort": "Beelitz",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069017",
+      "osm_id": "531653"
+    },
+    {
+      "plz": "14548",
+      "ort": "Schwielowsee",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069590",
+      "osm_id": "365821"
+    },
+    {
+      "plz": "14550",
+      "ort": "Groß Kreutz (Havel)",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069249",
+      "osm_id": "966648"
+    },
+    {
+      "plz": "14552",
+      "ort": "Michendorf",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069397",
+      "osm_id": "332537"
+    },
+    {
+      "plz": "14554",
+      "ort": "Seddiner See",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069596",
+      "osm_id": "367065"
+    },
+    {
+      "plz": "14558",
+      "ort": "Nuthetal",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069454",
+      "osm_id": "422505"
+    },
+    {
+      "plz": "14612",
+      "ort": "Falkensee",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063080",
+      "osm_id": "1251557"
+    },
+    {
+      "plz": "14621",
+      "ort": "Schönwalde-Glien",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063273",
+      "osm_id": "1252332"
+    },
+    {
+      "plz": "14624",
+      "ort": "Dallgow-Döberitz",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063056",
+      "osm_id": "1177176"
+    },
+    {
+      "plz": "14641",
+      "ort": "Nauen",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063208",
+      "osm_id": "1262688"
+    },
+    {
+      "plz": "14641",
+      "ort": "Paulinenaue",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063228",
+      "osm_id": "1343594"
+    },
+    {
+      "plz": "14641",
+      "ort": "Pessin",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063240",
+      "osm_id": "1343593"
+    },
+    {
+      "plz": "14641",
+      "ort": "Retzow",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063256",
+      "osm_id": "1343592"
+    },
+    {
+      "plz": "14641",
+      "ort": "Wustermark",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063357",
+      "osm_id": "1240551"
+    },
+    {
+      "plz": "14656",
+      "ort": "Brieselang",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063036",
+      "osm_id": "1251751"
+    },
+    {
+      "plz": "14662",
+      "ort": "Friesack",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063088",
+      "osm_id": "1342247"
+    },
+    {
+      "plz": "14662",
+      "ort": "Mühlenberge",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063202",
+      "osm_id": "1342390"
+    },
+    {
+      "plz": "14662",
+      "ort": "Wiesenaue",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063142",
+      "osm_id": "1342379"
+    },
+    {
+      "plz": "14669",
+      "ort": "Ketzin/Havel",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063148",
+      "osm_id": "1240588"
+    },
+    {
+      "plz": "14712",
+      "ort": "Rathenow",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063252",
+      "osm_id": "1271899"
+    },
+    {
+      "plz": "14715",
+      "ort": "Havelaue",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063134",
+      "osm_id": "1332606"
+    },
+    {
+      "plz": "14715",
+      "ort": "Kotzen",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063165",
+      "osm_id": "1333695"
+    },
+    {
+      "plz": "14715",
+      "ort": "Milower Land",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063189",
+      "osm_id": "1267578"
+    },
+    {
+      "plz": "14715",
+      "ort": "Märkisch Luch",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063186",
+      "osm_id": "1266347"
+    },
+    {
+      "plz": "14715",
+      "ort": "Nennhausen",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063212",
+      "osm_id": "1266348"
+    },
+    {
+      "plz": "14715",
+      "ort": "Seeblick",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063274",
+      "osm_id": "1332651"
+    },
+    {
+      "plz": "14715",
+      "ort": "Stechow-Ferchesar",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063293",
+      "osm_id": "1334493"
+    },
+    {
+      "plz": "14727",
+      "ort": "Premnitz",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063244",
+      "osm_id": "1266353"
+    },
+    {
+      "plz": "14728",
+      "ort": "Gollenberg",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063094",
+      "osm_id": "1332086"
+    },
+    {
+      "plz": "14728",
+      "ort": "Kleßen-Görne",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063161",
+      "osm_id": "1295595"
+    },
+    {
+      "plz": "14728",
+      "ort": "Rhinow",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063260",
+      "osm_id": "1332714"
+    },
+    {
+      "plz": "14770",
+      "ort": "Brandenburg an der Havel",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12051000",
+      "osm_id": "62470"
+    },
+    {
+      "plz": "14772",
+      "ort": "Brandenburg an der Havel",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12051000",
+      "osm_id": "62470"
+    },
+    {
+      "plz": "14774",
+      "ort": "Brandenburg an der Havel",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12051000",
+      "osm_id": "62470"
+    },
+    {
+      "plz": "14776",
+      "ort": "Brandenburg an der Havel",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12051000",
+      "osm_id": "62470"
+    },
+    {
+      "plz": "14778",
+      "ort": "Beetzsee",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069018",
+      "osm_id": "967757"
+    },
+    {
+      "plz": "14778",
+      "ort": "Beetzseeheide",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069019",
+      "osm_id": "967759"
+    },
+    {
+      "plz": "14778",
+      "ort": "Golzow",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069216",
+      "osm_id": "540423"
+    },
+    {
+      "plz": "14778",
+      "ort": "Päwesin",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069460",
+      "osm_id": "974203"
+    },
+    {
+      "plz": "14778",
+      "ort": "Roskow",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069541",
+      "osm_id": "974216"
+    },
+    {
+      "plz": "14778",
+      "ort": "Wenzlow",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069648",
+      "osm_id": "962587"
+    },
+    {
+      "plz": "14778",
+      "ort": "Wollin",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069680",
+      "osm_id": "549038"
+    },
+    {
+      "plz": "14789",
+      "ort": "Bensdorf",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069028",
+      "osm_id": "964589"
+    },
+    {
+      "plz": "14789",
+      "ort": "Rosenau",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069537",
+      "osm_id": "964561"
+    },
+    {
+      "plz": "14789",
+      "ort": "Wusterwitz",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069688",
+      "osm_id": "964560"
+    },
+    {
+      "plz": "14793",
+      "ort": "Buckautal",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069089",
+      "osm_id": "946001"
+    },
+    {
+      "plz": "14793",
+      "ort": "Gräben",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069232",
+      "osm_id": "946002"
+    },
+    {
+      "plz": "14793",
+      "ort": "Ziesar",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069696",
+      "osm_id": "946195"
+    },
+    {
+      "plz": "14797",
+      "ort": "Kloster Lehnin",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069306",
+      "osm_id": "533502"
+    },
+    {
+      "plz": "14798",
+      "ort": "Havelsee",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069270",
+      "osm_id": "967754"
+    },
+    {
+      "plz": "14806",
+      "ort": "Bad Belzig",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069020",
+      "osm_id": "540424"
+    },
+    {
+      "plz": "14806",
+      "ort": "Planetal",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069474",
+      "osm_id": "553875"
+    },
+    {
+      "plz": "14822",
+      "ort": "Borkheide",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069052",
+      "osm_id": "539724"
+    },
+    {
+      "plz": "14822",
+      "ort": "Borkwalde",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069056",
+      "osm_id": "539696"
+    },
+    {
+      "plz": "14822",
+      "ort": "Brück",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069076",
+      "osm_id": "540426"
+    },
+    {
+      "plz": "14822",
+      "ort": "Linthe",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069345",
+      "osm_id": "540425"
+    },
+    {
+      "plz": "14822",
+      "ort": "Mühlenfließ",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069402",
+      "osm_id": "555912"
+    },
+    {
+      "plz": "14822",
+      "ort": "Planebruch",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069470",
+      "osm_id": "533503"
+    },
+    {
+      "plz": "14823",
+      "ort": "Mühlenfließ",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069402",
+      "osm_id": "555912"
+    },
+    {
+      "plz": "14823",
+      "ort": "Niemegk",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069448",
+      "osm_id": "553960"
+    },
+    {
+      "plz": "14823",
+      "ort": "Rabenstein/Fläming",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069485",
+      "osm_id": "556295"
+    },
+    {
+      "plz": "14827",
+      "ort": "Wiesenburg/Mark",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069665",
+      "osm_id": "556296"
+    },
+    {
+      "plz": "14828",
+      "ort": "Görzke",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069224",
+      "osm_id": "556564"
+    },
+    {
+      "plz": "14913",
+      "ort": "Jüterbog",
+      "landkreis": "Landkreis Teltow-Fläming",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12072169",
+      "osm_id": "422436"
+    },
+    {
+      "plz": "14913",
+      "ort": "Niederer Fläming",
+      "landkreis": "Landkreis Teltow-Fläming",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12072298",
+      "osm_id": "422438"
+    },
+    {
+      "plz": "14913",
+      "ort": "Niedergörsdorf",
+      "landkreis": "Landkreis Teltow-Fläming",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12072297",
+      "osm_id": "422460"
+    },
+    {
+      "plz": "14929",
+      "ort": "Treuenbrietzen",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12069632",
+      "osm_id": "369857"
+    },
+    {
+      "plz": "14943",
+      "ort": "Luckenwalde",
+      "landkreis": "Landkreis Teltow-Fläming",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12072232",
+      "osm_id": "422435"
+    },
+    {
+      "plz": "14947",
+      "ort": "Nuthe-Urstromtal",
+      "landkreis": "Landkreis Teltow-Fläming",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12072312",
+      "osm_id": "422434"
+    },
+    {
+      "plz": "14959",
+      "ort": "Trebbin",
+      "landkreis": "Landkreis Teltow-Fläming",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12072426",
+      "osm_id": "422433"
+    },
+    {
+      "plz": "14974",
+      "ort": "Ludwigsfelde",
+      "landkreis": "Landkreis Teltow-Fläming",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12072240",
+      "osm_id": "422432"
+    },
+    {
+      "plz": "14979",
+      "ort": "Großbeeren",
+      "landkreis": "Landkreis Teltow-Fläming",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12072120",
+      "osm_id": "55769"
+    },
+    {
+      "plz": "15230",
+      "ort": "Frankfurt (Oder)",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12053000",
+      "osm_id": "62523"
+    },
+    {
+      "plz": "15232",
+      "ort": "Frankfurt (Oder)",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12053000",
+      "osm_id": "62523"
+    },
+    {
+      "plz": "15234",
+      "ort": "Frankfurt (Oder)",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12053000",
+      "osm_id": "62523"
+    },
+    {
+      "plz": "15236",
+      "ort": "Frankfurt (Oder)",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12053000",
+      "osm_id": "62523"
+    },
+    {
+      "plz": "15236",
+      "ort": "Jacobsdorf",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067237",
+      "osm_id": "1384844"
+    },
+    {
+      "plz": "15236",
+      "ort": "Treplin",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064480",
+      "osm_id": "1332908"
+    },
+    {
+      "plz": "15295",
+      "ort": "Brieskow-Finkenheerd",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067076",
+      "osm_id": "1384835"
+    },
+    {
+      "plz": "15295",
+      "ort": "Groß Lindow",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067180",
+      "osm_id": "1384799"
+    },
+    {
+      "plz": "15295",
+      "ort": "Wiesenau",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067528",
+      "osm_id": "1384805"
+    },
+    {
+      "plz": "15295",
+      "ort": "Ziltendorf",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067552",
+      "osm_id": "1384815"
+    },
+    {
+      "plz": "15299",
+      "ort": "Grunow-Dammendorf",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067205",
+      "osm_id": "1384833"
+    },
+    {
+      "plz": "15299",
+      "ort": "Mixdorf",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067324",
+      "osm_id": "1384841"
+    },
+    {
+      "plz": "15299",
+      "ort": "Müllrose",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067336",
+      "osm_id": "1384847"
+    },
+    {
+      "plz": "15306",
+      "ort": "Falkenhagen (Mark)",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064128",
+      "osm_id": "1332950"
+    },
+    {
+      "plz": "15306",
+      "ort": "Fichtenhöhe",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064130",
+      "osm_id": "1332897"
+    },
+    {
+      "plz": "15306",
+      "ort": "Gusow-Platkow",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064190",
+      "osm_id": "1332929"
+    },
+    {
+      "plz": "15306",
+      "ort": "Lietzen",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064288",
+      "osm_id": "1332905"
+    },
+    {
+      "plz": "15306",
+      "ort": "Lindendorf",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064290",
+      "osm_id": "1332954"
+    },
+    {
+      "plz": "15306",
+      "ort": "Seelow",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064448",
+      "osm_id": "1332928"
+    },
+    {
+      "plz": "15306",
+      "ort": "Vierlinden",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064482",
+      "osm_id": "1332901"
+    },
+    {
+      "plz": "15320",
+      "ort": "Neuhardenberg",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064340",
+      "osm_id": "1332944"
+    },
+    {
+      "plz": "15320",
+      "ort": "Neutrebbin",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064365",
+      "osm_id": "1332903"
+    },
+    {
+      "plz": "15324",
+      "ort": "Letschin",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064274",
+      "osm_id": "1332922"
+    },
+    {
+      "plz": "15326",
+      "ort": "Lebus",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064268",
+      "osm_id": "1332907"
+    },
+    {
+      "plz": "15326",
+      "ort": "Podelzig",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064388",
+      "osm_id": "1332953"
+    },
+    {
+      "plz": "15326",
+      "ort": "Zeschdorf",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064539",
+      "osm_id": "1332930"
+    },
+    {
+      "plz": "15328",
+      "ort": "Alt Tucheband",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064009",
+      "osm_id": "1332921"
+    },
+    {
+      "plz": "15328",
+      "ort": "Bleyen-Genschmar",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064057",
+      "osm_id": "1332932"
+    },
+    {
+      "plz": "15328",
+      "ort": "Golzow",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064172",
+      "osm_id": "1332916"
+    },
+    {
+      "plz": "15328",
+      "ort": "Küstriner Vorland",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064266",
+      "osm_id": "1332925"
+    },
+    {
+      "plz": "15328",
+      "ort": "Reitwein",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064420",
+      "osm_id": "1332900"
+    },
+    {
+      "plz": "15328",
+      "ort": "Zechin",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064538",
+      "osm_id": "1332938"
+    },
+    {
+      "plz": "15344",
+      "ort": "Strausberg",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064472",
+      "osm_id": "1332939"
+    },
+    {
+      "plz": "15345",
+      "ort": "Altlandsberg",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064029",
+      "osm_id": "1332946"
+    },
+    {
+      "plz": "15345",
+      "ort": "Garzau-Garzin",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064153",
+      "osm_id": "1332957"
+    },
+    {
+      "plz": "15345",
+      "ort": "Petershagen/Eggersdorf",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064380",
+      "osm_id": "55781"
+    },
+    {
+      "plz": "15345",
+      "ort": "Prötzel",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064393",
+      "osm_id": "1332923"
+    },
+    {
+      "plz": "15345",
+      "ort": "Rehfelde",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064408",
+      "osm_id": "1332909"
+    },
+    {
+      "plz": "15345",
+      "ort": "Reichenow-Möglin",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064417",
+      "osm_id": "1332935"
+    },
+    {
+      "plz": "15345",
+      "ort": "Rüdersdorf bei Berlin",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064428",
+      "osm_id": "1332927"
+    },
+    {
+      "plz": "15366",
+      "ort": "Hoppegarten",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064227",
+      "osm_id": "1332913"
+    },
+    {
+      "plz": "15366",
+      "ort": "Neuenhagen bei Berlin",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064336",
+      "osm_id": "1332933"
+    },
+    {
+      "plz": "15370",
+      "ort": "Fredersdorf-Vogelsdorf",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064136",
+      "osm_id": "1332959"
+    },
+    {
+      "plz": "15370",
+      "ort": "Petershagen/Eggersdorf",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064380",
+      "osm_id": "55781"
+    },
+    {
+      "plz": "15374",
+      "ort": "Müncheberg",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064317",
+      "osm_id": "1332918"
+    },
+    {
+      "plz": "15377",
+      "ort": "Buckow",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064084",
+      "osm_id": "1332899"
+    },
+    {
+      "plz": "15377",
+      "ort": "Märkische Höhe",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064303",
+      "osm_id": "1332936"
+    },
+    {
+      "plz": "15377",
+      "ort": "Oberbarnim",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064370",
+      "osm_id": "1332904"
+    },
+    {
+      "plz": "15377",
+      "ort": "Waldsieversdorf",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064484",
+      "osm_id": "1332919"
+    },
+    {
+      "plz": "15378",
+      "ort": "Rüdersdorf bei Berlin",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064428",
+      "osm_id": "1332927"
+    },
+    {
+      "plz": "15517",
+      "ort": "Fürstenwalde/Spree",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067144",
+      "osm_id": "1384842"
+    },
+    {
+      "plz": "15518",
+      "ort": "Berkenbrück",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067040",
+      "osm_id": "1384819"
+    },
+    {
+      "plz": "15518",
+      "ort": "Briesen (Mark)",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067072",
+      "osm_id": "1384837"
+    },
+    {
+      "plz": "15518",
+      "ort": "Langewahl",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067288",
+      "osm_id": "1384822"
+    },
+    {
+      "plz": "15518",
+      "ort": "Rauen",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067408",
+      "osm_id": "1384816"
+    },
+    {
+      "plz": "15518",
+      "ort": "Steinhöfel",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067473",
+      "osm_id": "1384806"
+    },
+    {
+      "plz": "15526",
+      "ort": "Bad Saarow",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067024",
+      "osm_id": "1384831"
+    },
+    {
+      "plz": "15526",
+      "ort": "Reichenwalde",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067413",
+      "osm_id": "1384809"
+    },
+    {
+      "plz": "15528",
+      "ort": "Spreenhagen",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067469",
+      "osm_id": "1384810"
+    },
+    {
+      "plz": "15537",
+      "ort": "Erkner",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067124",
+      "osm_id": "55780"
+    },
+    {
+      "plz": "15537",
+      "ort": "Gosen-Neu Zittau",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067173",
+      "osm_id": "55778"
+    },
+    {
+      "plz": "15537",
+      "ort": "Grünheide (Mark)",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067201",
+      "osm_id": "1384848"
+    },
+    {
+      "plz": "15562",
+      "ort": "Rüdersdorf bei Berlin",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064428",
+      "osm_id": "1332927"
+    },
+    {
+      "plz": "15566",
+      "ort": "Schöneiche bei Berlin",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067440",
+      "osm_id": "1352215"
+    },
+    {
+      "plz": "15569",
+      "ort": "Woltersdorf",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067544",
+      "osm_id": "1352214"
+    },
+    {
+      "plz": "15711",
+      "ort": "Königs Wusterhausen",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061260",
+      "osm_id": "55777"
+    },
+    {
+      "plz": "15712",
+      "ort": "Königs Wusterhausen",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061260",
+      "osm_id": "55777"
+    },
+    {
+      "plz": "15713",
+      "ort": "Königs Wusterhausen",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061260",
+      "osm_id": "55777"
+    },
+    {
+      "plz": "15732",
+      "ort": "Eichwalde",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061112",
+      "osm_id": "55773"
+    },
+    {
+      "plz": "15732",
+      "ort": "Schulzendorf",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061444",
+      "osm_id": "55774"
+    },
+    {
+      "plz": "15738",
+      "ort": "Zeuthen",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061572",
+      "osm_id": "55775"
+    },
+    {
+      "plz": "15741",
+      "ort": "Bestensee",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061020",
+      "osm_id": "1352904"
+    },
+    {
+      "plz": "15745",
+      "ort": "Wildau",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061540",
+      "osm_id": "55776"
+    },
+    {
+      "plz": "15746",
+      "ort": "Groß Köris",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061192",
+      "osm_id": "1389638"
+    },
+    {
+      "plz": "15748",
+      "ort": "Märkisch Buchholz",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061328",
+      "osm_id": "1389676"
+    },
+    {
+      "plz": "15748",
+      "ort": "Münchehofe",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061344",
+      "osm_id": "1389675"
+    },
+    {
+      "plz": "15749",
+      "ort": "Mittenwalde",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061332",
+      "osm_id": "55771"
+    },
+    {
+      "plz": "15754",
+      "ort": "Heidesee",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061217",
+      "osm_id": "1352905"
+    },
+    {
+      "plz": "15755",
+      "ort": "Schwerin",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061448",
+      "osm_id": "1389623"
+    },
+    {
+      "plz": "15755",
+      "ort": "Teupitz",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061492",
+      "osm_id": "1389622"
+    },
+    {
+      "plz": "15757",
+      "ort": "Halbe",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061216",
+      "osm_id": "1389621"
+    },
+    {
+      "plz": "15806",
+      "ort": "Zossen",
+      "landkreis": "Landkreis Teltow-Fläming",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12072477",
+      "osm_id": "176781"
+    },
+    {
+      "plz": "15827",
+      "ort": "Blankenfelde-Mahlow",
+      "landkreis": "Landkreis Teltow-Fläming",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12072017",
+      "osm_id": "55770"
+    },
+    {
+      "plz": "15831",
+      "ort": "Blankenfelde-Mahlow",
+      "landkreis": "Landkreis Teltow-Fläming",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12072017",
+      "osm_id": "55770"
+    },
+    {
+      "plz": "15834",
+      "ort": "Rangsdorf",
+      "landkreis": "Landkreis Teltow-Fläming",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12072340",
+      "osm_id": "162462"
+    },
+    {
+      "plz": "15837",
+      "ort": "Baruth/Mark",
+      "landkreis": "Landkreis Teltow-Fläming",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12072014",
+      "osm_id": "422443"
+    },
+    {
+      "plz": "15838",
+      "ort": "Am Mellensee",
+      "landkreis": "Landkreis Teltow-Fläming",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12072002",
+      "osm_id": "176780"
+    },
+    {
+      "plz": "15848",
+      "ort": "Beeskow",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067036",
+      "osm_id": "1384849"
+    },
+    {
+      "plz": "15848",
+      "ort": "Friedland",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067137",
+      "osm_id": "1384839"
+    },
+    {
+      "plz": "15848",
+      "ort": "Ragow-Merz",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067397",
+      "osm_id": "1384834"
+    },
+    {
+      "plz": "15848",
+      "ort": "Rietz-Neuendorf",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067426",
+      "osm_id": "1384840"
+    },
+    {
+      "plz": "15848",
+      "ort": "Tauche",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067493",
+      "osm_id": "1384802"
+    },
+    {
+      "plz": "15859",
+      "ort": "Storkow (Mark)",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067481",
+      "osm_id": "1384845"
+    },
+    {
+      "plz": "15864",
+      "ort": "Diensdorf-Radlow",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067112",
+      "osm_id": "1384829"
+    },
+    {
+      "plz": "15864",
+      "ort": "Wendisch Rietz",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067520",
+      "osm_id": "1384800"
+    },
+    {
+      "plz": "15868",
+      "ort": "Jamlitz",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061224",
+      "osm_id": "1388734"
+    },
+    {
+      "plz": "15868",
+      "ort": "Lieberose",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061308",
+      "osm_id": "1388733"
+    },
+    {
+      "plz": "15890",
+      "ort": "Eisenhüttenstadt",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067120",
+      "osm_id": "1384824"
+    },
+    {
+      "plz": "15890",
+      "ort": "Schlaubetal",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067438",
+      "osm_id": "1384801"
+    },
+    {
+      "plz": "15890",
+      "ort": "Siehdichum",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067458",
+      "osm_id": "1384838"
+    },
+    {
+      "plz": "15890",
+      "ort": "Vogelsang",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067508",
+      "osm_id": "1384832"
+    },
+    {
+      "plz": "15898",
+      "ort": "Lawitz",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067292",
+      "osm_id": "1384823"
+    },
+    {
+      "plz": "15898",
+      "ort": "Neißemünde",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067338",
+      "osm_id": "1384826"
+    },
+    {
+      "plz": "15898",
+      "ort": "Neuzelle",
+      "landkreis": "Landkreis Oder-Spree",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12067357",
+      "osm_id": "1384846"
+    },
+    {
+      "plz": "15907",
+      "ort": "Lübben (Spreewald)",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061316",
+      "osm_id": "1389285"
+    },
+    {
+      "plz": "15910",
+      "ort": "Bersteland",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061017",
+      "osm_id": "1389284"
+    },
+    {
+      "plz": "15910",
+      "ort": "Krausnick-Groß Wasserburg",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061265",
+      "osm_id": "1389279"
+    },
+    {
+      "plz": "15910",
+      "ort": "Rietzneuendorf-Staakow",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061405",
+      "osm_id": "1389286"
+    },
+    {
+      "plz": "15910",
+      "ort": "Schlepzig",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061428",
+      "osm_id": "1389278"
+    },
+    {
+      "plz": "15910",
+      "ort": "Schönwald",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061435",
+      "osm_id": "1389280"
+    },
+    {
+      "plz": "15910",
+      "ort": "Unterspreewald",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061510",
+      "osm_id": "1389283"
+    },
+    {
+      "plz": "15913",
+      "ort": "Alt Zauche-Wußwerk",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061005",
+      "osm_id": "1388877"
+    },
+    {
+      "plz": "15913",
+      "ort": "Byhleguhre-Byhlen",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061061",
+      "osm_id": "1388878"
+    },
+    {
+      "plz": "15913",
+      "ort": "Märkische Heide",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061329",
+      "osm_id": "1389281"
+    },
+    {
+      "plz": "15913",
+      "ort": "Neu Zauche",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061352",
+      "osm_id": "1388875"
+    },
+    {
+      "plz": "15913",
+      "ort": "Schwielochsee",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061450",
+      "osm_id": "1388876"
+    },
+    {
+      "plz": "15913",
+      "ort": "Spreewaldheide",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061470",
+      "osm_id": "1388874"
+    },
+    {
+      "plz": "15913",
+      "ort": "Straupitz (Spreewald)",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061476",
+      "osm_id": "1388879"
+    },
+    {
+      "plz": "15926",
+      "ort": "Heideblick",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061219",
+      "osm_id": "1389444"
+    },
+    {
+      "plz": "15926",
+      "ort": "Luckau",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061320",
+      "osm_id": "1389443"
+    },
+    {
+      "plz": "15936",
+      "ort": "Dahme/Mark",
+      "landkreis": "Landkreis Teltow-Fläming",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12072053",
+      "osm_id": "422441"
+    },
+    {
+      "plz": "15936",
+      "ort": "Dahmetal",
+      "landkreis": "Landkreis Teltow-Fläming",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12072055",
+      "osm_id": "422440"
+    },
+    {
+      "plz": "15936",
+      "ort": "Ihlow",
+      "landkreis": "Landkreis Teltow-Fläming",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12072157",
+      "osm_id": "422439"
+    },
+    {
+      "plz": "15938",
+      "ort": "Drahnsdorf",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061097",
+      "osm_id": "1389403"
+    },
+    {
+      "plz": "15938",
+      "ort": "Golßen",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061164",
+      "osm_id": "1389402"
+    },
+    {
+      "plz": "15938",
+      "ort": "Kasel-Golzig",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061244",
+      "osm_id": "1389404"
+    },
+    {
+      "plz": "15938",
+      "ort": "Steinreich",
+      "landkreis": "Landkreis Dahme-Spreewald",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12061471",
+      "osm_id": "1389400"
+    },
+    {
+      "plz": "16225",
+      "ort": "Eberswalde",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060052",
+      "osm_id": "1318338"
+    },
+    {
+      "plz": "16227",
+      "ort": "Eberswalde",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060052",
+      "osm_id": "1318338"
+    },
+    {
+      "plz": "16230",
+      "ort": "Breydin",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060034",
+      "osm_id": "1318344"
+    },
+    {
+      "plz": "16230",
+      "ort": "Britz",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060036",
+      "osm_id": "1318356"
+    },
+    {
+      "plz": "16230",
+      "ort": "Chorin",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060045",
+      "osm_id": "1318330"
+    },
+    {
+      "plz": "16230",
+      "ort": "Melchow",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060161",
+      "osm_id": "1318348"
+    },
+    {
+      "plz": "16230",
+      "ort": "Sydower Fließ",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060250",
+      "osm_id": "1318358"
+    },
+    {
+      "plz": "16244",
+      "ort": "Schorfheide",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060198",
+      "osm_id": "1318334"
+    },
+    {
+      "plz": "16247",
+      "ort": "Althüttendorf",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060012",
+      "osm_id": "1318343"
+    },
+    {
+      "plz": "16247",
+      "ort": "Friedrichswalde",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060068",
+      "osm_id": "1318340"
+    },
+    {
+      "plz": "16247",
+      "ort": "Joachimsthal",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060100",
+      "osm_id": "1318354"
+    },
+    {
+      "plz": "16247",
+      "ort": "Ziethen",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060296",
+      "osm_id": "1318346"
+    },
+    {
+      "plz": "16248",
+      "ort": "Hohenfinow",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060092",
+      "osm_id": "1318355"
+    },
+    {
+      "plz": "16248",
+      "ort": "Liepe",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060128",
+      "osm_id": "1318363"
+    },
+    {
+      "plz": "16248",
+      "ort": "Lunow-Stolzenhagen",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060149",
+      "osm_id": "1318331"
+    },
+    {
+      "plz": "16248",
+      "ort": "Niederfinow",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060172",
+      "osm_id": "1318357"
+    },
+    {
+      "plz": "16248",
+      "ort": "Oderberg",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060176",
+      "osm_id": "1318350"
+    },
+    {
+      "plz": "16248",
+      "ort": "Parsteinsee",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060185",
+      "osm_id": "1318351"
+    },
+    {
+      "plz": "16259",
+      "ort": "Bad Freienwalde (Oder)",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064044",
+      "osm_id": "1332952"
+    },
+    {
+      "plz": "16259",
+      "ort": "Beiersdorf-Freudenberg",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064053",
+      "osm_id": "1332943"
+    },
+    {
+      "plz": "16259",
+      "ort": "Falkenberg",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064125",
+      "osm_id": "1332949"
+    },
+    {
+      "plz": "16259",
+      "ort": "Heckelberg-Brunow",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064205",
+      "osm_id": "1332896"
+    },
+    {
+      "plz": "16259",
+      "ort": "Höhenland",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064222",
+      "osm_id": "1332912"
+    },
+    {
+      "plz": "16259",
+      "ort": "Neulewin",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064349",
+      "osm_id": "1332956"
+    },
+    {
+      "plz": "16259",
+      "ort": "Oderaue",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064371",
+      "osm_id": "1332914"
+    },
+    {
+      "plz": "16269",
+      "ort": "Bliesdorf",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064061",
+      "osm_id": "1332947"
+    },
+    {
+      "plz": "16269",
+      "ort": "Wriezen",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12064512",
+      "osm_id": "1332941"
+    },
+    {
+      "plz": "16278",
+      "ort": "Angermünde",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073008",
+      "osm_id": "1334084"
+    },
+    {
+      "plz": "16278",
+      "ort": "Pinnow",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073440",
+      "osm_id": "1334087"
+    },
+    {
+      "plz": "16303",
+      "ort": "Schwedt/Oder",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073532",
+      "osm_id": "1334108"
+    },
+    {
+      "plz": "16306",
+      "ort": "Casekow",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073097",
+      "osm_id": "1334120"
+    },
+    {
+      "plz": "16306",
+      "ort": "Hohenselchow-Groß Pinnow",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073309",
+      "osm_id": "1334115"
+    },
+    {
+      "plz": "16306",
+      "ort": "Zichow",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073645",
+      "osm_id": "1334116"
+    },
+    {
+      "plz": "16307",
+      "ort": "Gartz (Oder)",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073189",
+      "osm_id": "1334113"
+    },
+    {
+      "plz": "16307",
+      "ort": "Mescherin",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073393",
+      "osm_id": "1334110"
+    },
+    {
+      "plz": "16307",
+      "ort": "Tantow",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073565",
+      "osm_id": "1334100"
+    },
+    {
+      "plz": "16321",
+      "ort": "Bernau",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060020",
+      "osm_id": "1318337"
+    },
+    {
+      "plz": "16321",
+      "ort": "Rüdnitz",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060192",
+      "osm_id": "1318332"
+    },
+    {
+      "plz": "16341",
+      "ort": "Panketal",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060181",
+      "osm_id": "1318329"
+    },
+    {
+      "plz": "16348",
+      "ort": "Marienwerder",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060154",
+      "osm_id": "1318361"
+    },
+    {
+      "plz": "16348",
+      "ort": "Wandlitz",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060269",
+      "osm_id": "1335915"
+    },
+    {
+      "plz": "16356",
+      "ort": "Ahrensfelde",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060005",
+      "osm_id": "1318349"
+    },
+    {
+      "plz": "16356",
+      "ort": "Werneuchen",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060280",
+      "osm_id": "1318353"
+    },
+    {
+      "plz": "16359",
+      "ort": "Biesenthal",
+      "landkreis": "Landkreis Barnim",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12060024",
+      "osm_id": "1318341"
+    },
+    {
+      "plz": "16515",
+      "ort": "Mühlenbecker Land",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065225",
+      "osm_id": "1310093"
+    },
+    {
+      "plz": "16515",
+      "ort": "Oranienburg",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065256",
+      "osm_id": "1310102"
+    },
+    {
+      "plz": "16540",
+      "ort": "Hohen Neuendorf",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065144",
+      "osm_id": "1310091"
+    },
+    {
+      "plz": "16547",
+      "ort": "Birkenwerder",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065036",
+      "osm_id": "1310088"
+    },
+    {
+      "plz": "16548",
+      "ort": "Glienicke/Nordbahn",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065096",
+      "osm_id": "1310103"
+    },
+    {
+      "plz": "16552",
+      "ort": "Mühlenbecker Land",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065225",
+      "osm_id": "1310093"
+    },
+    {
+      "plz": "16556",
+      "ort": "Hohen Neuendorf",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065144",
+      "osm_id": "1310091"
+    },
+    {
+      "plz": "16559",
+      "ort": "Liebenwalde",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065193",
+      "osm_id": "1310094"
+    },
+    {
+      "plz": "16562",
+      "ort": "Hohen Neuendorf",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065144",
+      "osm_id": "1310091"
+    },
+    {
+      "plz": "16567",
+      "ort": "Mühlenbecker Land",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065225",
+      "osm_id": "1310093"
+    },
+    {
+      "plz": "16727",
+      "ort": "Oberkrämer",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065251",
+      "osm_id": "1310083"
+    },
+    {
+      "plz": "16727",
+      "ort": "Velten",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065332",
+      "osm_id": "1310082"
+    },
+    {
+      "plz": "16761",
+      "ort": "Hennigsdorf",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065136",
+      "osm_id": "1310087"
+    },
+    {
+      "plz": "16766",
+      "ort": "Kremmen",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065165",
+      "osm_id": "1310104"
+    },
+    {
+      "plz": "16767",
+      "ort": "Leegebruch",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065180",
+      "osm_id": "1310092"
+    },
+    {
+      "plz": "16775",
+      "ort": "Gransee",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065100",
+      "osm_id": "1310097"
+    },
+    {
+      "plz": "16775",
+      "ort": "Großwoltersdorf",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065117",
+      "osm_id": "1310081"
+    },
+    {
+      "plz": "16775",
+      "ort": "Löwenberger Land",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065198",
+      "osm_id": "1310096"
+    },
+    {
+      "plz": "16775",
+      "ort": "Schönermark",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065276",
+      "osm_id": "1310095"
+    },
+    {
+      "plz": "16775",
+      "ort": "Sonnenberg",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065301",
+      "osm_id": "1310086"
+    },
+    {
+      "plz": "16775",
+      "ort": "Stechlin",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065310",
+      "osm_id": "1310089"
+    },
+    {
+      "plz": "16792",
+      "ort": "Zehdenick",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065356",
+      "osm_id": "1316017"
+    },
+    {
+      "plz": "16798",
+      "ort": "Fürstenberg/Havel",
+      "landkreis": "Landkreis Oberhavel",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12065084",
+      "osm_id": "1310085"
+    },
+    {
+      "plz": "16816",
+      "ort": "Neuruppin",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068320",
+      "osm_id": "1302386"
+    },
+    {
+      "plz": "16818",
+      "ort": "Dabergotz",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068072",
+      "osm_id": "1302363"
+    },
+    {
+      "plz": "16818",
+      "ort": "Fehrbellin",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068117",
+      "osm_id": "1302389"
+    },
+    {
+      "plz": "16818",
+      "ort": "Märkisch Linden",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068306",
+      "osm_id": "1302388"
+    },
+    {
+      "plz": "16818",
+      "ort": "Neuruppin",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068320",
+      "osm_id": "1302386"
+    },
+    {
+      "plz": "16818",
+      "ort": "Rheinsberg",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068353",
+      "osm_id": "1335914"
+    },
+    {
+      "plz": "16818",
+      "ort": "Storbeck-Frankendorf",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068413",
+      "osm_id": "1302370"
+    },
+    {
+      "plz": "16818",
+      "ort": "Temnitzquell",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068425",
+      "osm_id": "1302396"
+    },
+    {
+      "plz": "16818",
+      "ort": "Walsleben",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068452",
+      "osm_id": "1302362"
+    },
+    {
+      "plz": "16827",
+      "ort": "Neuruppin",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068320",
+      "osm_id": "1302386"
+    },
+    {
+      "plz": "16831",
+      "ort": "Rheinsberg",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068353",
+      "osm_id": "1335914"
+    },
+    {
+      "plz": "16833",
+      "ort": "Fehrbellin",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068117",
+      "osm_id": "1302389"
+    },
+    {
+      "plz": "16833",
+      "ort": "Neuruppin",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068320",
+      "osm_id": "1302386"
+    },
+    {
+      "plz": "16835",
+      "ort": "Herzberg (Mark)",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068188",
+      "osm_id": "1302375"
+    },
+    {
+      "plz": "16835",
+      "ort": "Lindow (Mark)",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068280",
+      "osm_id": "1302373"
+    },
+    {
+      "plz": "16835",
+      "ort": "Neuruppin",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068320",
+      "osm_id": "1302386"
+    },
+    {
+      "plz": "16835",
+      "ort": "Rheinsberg",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068353",
+      "osm_id": "1335914"
+    },
+    {
+      "plz": "16835",
+      "ort": "Rüthnick",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068372",
+      "osm_id": "1302368"
+    },
+    {
+      "plz": "16835",
+      "ort": "Vielitzsee",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068437",
+      "osm_id": "1302381"
+    },
+    {
+      "plz": "16837",
+      "ort": "Rheinsberg",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068353",
+      "osm_id": "1335914"
+    },
+    {
+      "plz": "16845",
+      "ort": "Breddin",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068052",
+      "osm_id": "1302365"
+    },
+    {
+      "plz": "16845",
+      "ort": "Dreetz",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068109",
+      "osm_id": "1302387"
+    },
+    {
+      "plz": "16845",
+      "ort": "Fehrbellin",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068117",
+      "osm_id": "1302389"
+    },
+    {
+      "plz": "16845",
+      "ort": "Großderschau",
+      "landkreis": "Landkreis Havelland",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12063112",
+      "osm_id": "1327477"
+    },
+    {
+      "plz": "16845",
+      "ort": "Neustadt (Dosse)",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068324",
+      "osm_id": "1302391"
+    },
+    {
+      "plz": "16845",
+      "ort": "Sieversdorf-Hohenofen",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068409",
+      "osm_id": "1302374"
+    },
+    {
+      "plz": "16845",
+      "ort": "Stüdenitz-Schönermark",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068417",
+      "osm_id": "1302361"
+    },
+    {
+      "plz": "16845",
+      "ort": "Temnitztal",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068426",
+      "osm_id": "1302382"
+    },
+    {
+      "plz": "16845",
+      "ort": "Wusterhausen/Dosse",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068477",
+      "osm_id": "1308889"
+    },
+    {
+      "plz": "16845",
+      "ort": "Zernitz-Lohm",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068501",
+      "osm_id": "1302366"
+    },
+    {
+      "plz": "16866",
+      "ort": "Gumtow",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070149",
+      "osm_id": "1289820"
+    },
+    {
+      "plz": "16866",
+      "ort": "Kyritz",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068264",
+      "osm_id": "1302369"
+    },
+    {
+      "plz": "16866",
+      "ort": "Wusterhausen/Dosse",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068477",
+      "osm_id": "1308889"
+    },
+    {
+      "plz": "16868",
+      "ort": "Wusterhausen/Dosse",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068477",
+      "osm_id": "1308889"
+    },
+    {
+      "plz": "16909",
+      "ort": "Heiligengrabe",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068181",
+      "osm_id": "1302393"
+    },
+    {
+      "plz": "16909",
+      "ort": "Wittstock/Dosse",
+      "landkreis": "Landkreis Ostprignitz-Ruppin",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12068468",
+      "osm_id": "1302376"
+    },
+    {
+      "plz": "16928",
+      "ort": "Gerdshagen",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070096",
+      "osm_id": "1289807"
+    },
+    {
+      "plz": "16928",
+      "ort": "Groß Pankow (Prignitz)",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070125",
+      "osm_id": "1289796"
+    },
+    {
+      "plz": "16928",
+      "ort": "Pritzwalk",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070316",
+      "osm_id": "1289799"
+    },
+    {
+      "plz": "16945",
+      "ort": "Halenbeck-Rohlsdorf",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070153",
+      "osm_id": "1289816"
+    },
+    {
+      "plz": "16945",
+      "ort": "Kümmernitztal",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070222",
+      "osm_id": "1289790"
+    },
+    {
+      "plz": "16945",
+      "ort": "Marienfließ",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070266",
+      "osm_id": "1289804"
+    },
+    {
+      "plz": "16945",
+      "ort": "Meyenburg",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070280",
+      "osm_id": "1289815"
+    },
+    {
+      "plz": "16949",
+      "ort": "Putlitz",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070325",
+      "osm_id": "1289785"
+    },
+    {
+      "plz": "16949",
+      "ort": "Triglitz",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070393",
+      "osm_id": "1289794"
+    },
+    {
+      "plz": "17268",
+      "ort": "Boitzenburger Land",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073069",
+      "osm_id": "1334092"
+    },
+    {
+      "plz": "17268",
+      "ort": "Flieth-Stegelitz",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073157",
+      "osm_id": "1334103"
+    },
+    {
+      "plz": "17268",
+      "ort": "Gerswalde",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073201",
+      "osm_id": "1334093"
+    },
+    {
+      "plz": "17268",
+      "ort": "Milmersdorf",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073396",
+      "osm_id": "1334086"
+    },
+    {
+      "plz": "17268",
+      "ort": "Mittenwalde",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073404",
+      "osm_id": "1334080"
+    },
+    {
+      "plz": "17268",
+      "ort": "Temmen-Ringenwalde",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073569",
+      "osm_id": "1334111"
+    },
+    {
+      "plz": "17268",
+      "ort": "Templin",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073572",
+      "osm_id": "1334098"
+    },
+    {
+      "plz": "17279",
+      "ort": "Lychen",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073384",
+      "osm_id": "1334117"
+    },
+    {
+      "plz": "17291",
+      "ort": "Carmzow-Wallmow",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073093",
+      "osm_id": "1334085"
+    },
+    {
+      "plz": "17291",
+      "ort": "Gramzow",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073225",
+      "osm_id": "1334104"
+    },
+    {
+      "plz": "17291",
+      "ort": "Grünow",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073261",
+      "osm_id": "1334112"
+    },
+    {
+      "plz": "17291",
+      "ort": "Göritz",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073216",
+      "osm_id": "1334090"
+    },
+    {
+      "plz": "17291",
+      "ort": "Nordwestuckermark",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073429",
+      "osm_id": "1334079"
+    },
+    {
+      "plz": "17291",
+      "ort": "Oberuckersee",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073430",
+      "osm_id": "1334107"
+    },
+    {
+      "plz": "17291",
+      "ort": "Prenzlau",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073452",
+      "osm_id": "1334102"
+    },
+    {
+      "plz": "17291",
+      "ort": "Randowtal",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073458",
+      "osm_id": "1334097"
+    },
+    {
+      "plz": "17291",
+      "ort": "Schenkenberg",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073490",
+      "osm_id": "1334083"
+    },
+    {
+      "plz": "17291",
+      "ort": "Schönfeld",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073520",
+      "osm_id": "1334078"
+    },
+    {
+      "plz": "17291",
+      "ort": "Uckerfelde",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073578",
+      "osm_id": "1334089"
+    },
+    {
+      "plz": "17326",
+      "ort": "Brüssow",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073085",
+      "osm_id": "1334119"
+    },
+    {
+      "plz": "17337",
+      "ort": "Uckerland",
+      "landkreis": "Landkreis Uckermark",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12073579",
+      "osm_id": "1334081"
+    },
+    {
+      "plz": "19309",
+      "ort": "Lanz",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070236",
+      "osm_id": "1289798"
+    },
+    {
+      "plz": "19309",
+      "ort": "Lenzen (Elbe)",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070244",
+      "osm_id": "1289788"
+    },
+    {
+      "plz": "19309",
+      "ort": "Lenzerwische",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070246",
+      "osm_id": "1289803"
+    },
+    {
+      "plz": "19322",
+      "ort": "Breese",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070052",
+      "osm_id": "1289800"
+    },
+    {
+      "plz": "19322",
+      "ort": "Cumlosen",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070060",
+      "osm_id": "1289809"
+    },
+    {
+      "plz": "19322",
+      "ort": "Rühstädt",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070348",
+      "osm_id": "1289806"
+    },
+    {
+      "plz": "19322",
+      "ort": "Weisen",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070416",
+      "osm_id": "1289789"
+    },
+    {
+      "plz": "19322",
+      "ort": "Wittenberge",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070424",
+      "osm_id": "1289786"
+    },
+    {
+      "plz": "19336",
+      "ort": "Bad Wilsnack",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070008",
+      "osm_id": "1289819"
+    },
+    {
+      "plz": "19336",
+      "ort": "Legde/Quitzöbel",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070241",
+      "osm_id": "1289793"
+    },
+    {
+      "plz": "19339",
+      "ort": "Plattenburg",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070302",
+      "osm_id": "1289795"
+    },
+    {
+      "plz": "19348",
+      "ort": "Berge",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070028",
+      "osm_id": "1289818"
+    },
+    {
+      "plz": "19348",
+      "ort": "Gülitz-Reetz",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070145",
+      "osm_id": "1289791"
+    },
+    {
+      "plz": "19348",
+      "ort": "Perleberg",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070296",
+      "osm_id": "1289805"
+    },
+    {
+      "plz": "19348",
+      "ort": "Pirow",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070300",
+      "osm_id": "1289817"
+    },
+    {
+      "plz": "19357",
+      "ort": "Karstädt",
+      "landkreis": "Landkreis Prignitz",
+      "is_kreisfrei": false,
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "ags": "12070173",
+      "osm_id": "1289810"
+    }
+  ],
+  "meta": {
+    "title": "Postleitzahlen — Brandenburg - Kostenloser Download",
+    "description": "471 Postleitzahl-Ort-Kombinationen in Brandenburg (ISO DE-BB). Mit Landkreis, AGS und OSM-ID. Enthält 471 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Postleitzahlen — Brandenburg | ListBase",
+    "seo_description": "Herunterladen Postleitzahlen — Brandenburg — 471 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 471 Datensätze / 8 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

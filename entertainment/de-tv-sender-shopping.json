@@ -1,0 +1,391 @@
+{
+  "id": "de-tv-sender-shopping",
+  "name": "Teleshopping-Sender (Shop TV channels)",
+  "title": "Teleshopping-Sender (Shop TV channels)",
+  "description": "Deutsche Fernsehsender der Kategorie \"shop\" (Teleshopping) — 20 Sender aus dem offenen Register iptv-org/database. Enthält Sendername, alternative Namen, Netzwerk, Eigentümer, Kategorien, Start- und Einstellungsdatum sowie Webseite.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "123tv.de",
+      "name": "1-2-3.tv",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "2020-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.1-2-3.tv/"
+    },
+    {
+      "id": 2,
+      "channel_id": "Channel21.de",
+      "name": "Channel 21",
+      "alt_names": "",
+      "network": "",
+      "owners": "Channel21 Holding AG",
+      "country": "DE",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "2001-03-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.channel21.de/"
+    },
+    {
+      "id": 3,
+      "channel_id": "Eropulsde.de",
+      "name": "Eropuls.de",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "shop",
+      "is_nsfw": true,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.eropuls.de/TVSHOP/"
+    },
+    {
+      "id": 4,
+      "channel_id": "GeniusPlusTV.de",
+      "name": "Genius Plus TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.genius.tv/"
+    },
+    {
+      "id": 5,
+      "channel_id": "HSE.de",
+      "name": "HSE",
+      "alt_names": "",
+      "network": "",
+      "owners": "Home Shopping Europe GmbH",
+      "country": "DE",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.hse.de/"
+    },
+    {
+      "id": 6,
+      "channel_id": "HSEExtra.de",
+      "name": "HSE Extra",
+      "alt_names": "HSE24 Extra",
+      "network": "",
+      "owners": "Home Shopping Europe GmbH",
+      "country": "DE",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "2009-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.hse.de/dpl/c/live-im-tv/hse-extra"
+    },
+    {
+      "id": 7,
+      "channel_id": "HSETrend.de",
+      "name": "HSE Trend",
+      "alt_names": "HSE24 Trend",
+      "network": "",
+      "owners": "Home Shopping Europe GmbH",
+      "country": "DE",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "2010-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.hse.de/dpl/c/live-im-tv/hse-trend"
+    },
+    {
+      "id": 8,
+      "channel_id": "Handystar.de",
+      "name": "Handystar",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.handystar.de/"
+    },
+    {
+      "id": 9,
+      "channel_id": "Handystar2.de",
+      "name": "Handystar 2",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.handystar.de/"
+    },
+    {
+      "id": 10,
+      "channel_id": "Juwelo.de",
+      "name": "Juwelo",
+      "alt_names": "",
+      "network": "",
+      "owners": "Juwelo TV Deutschland GmbH",
+      "country": "DE",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "2006-10-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.juwelo.de/"
+    },
+    {
+      "id": 11,
+      "channel_id": "JuweloSchweiz.de",
+      "name": "Juwelo Schweiz",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://startv.ch/Juwelo/"
+    },
+    {
+      "id": 12,
+      "channel_id": "KaufBeiTV.de",
+      "name": "KaufBei TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.kaufbei.tv/"
+    },
+    {
+      "id": 13,
+      "channel_id": "MeinTVShop.de",
+      "name": "Mein TV Shop",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://meintvshop.online/"
+    },
+    {
+      "id": 14,
+      "channel_id": "NicerDicerTV.de",
+      "name": "Nicer Dicer TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.genius.tv/"
+    },
+    {
+      "id": 15,
+      "channel_id": "PearlTV.de",
+      "name": "Pearl TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "Pearl.GmbH, Enstyle GmbH",
+      "country": "DE",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "2012-03-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.pearl.de/tv/"
+    },
+    {
+      "id": 16,
+      "channel_id": "QVC.de",
+      "name": "QVC",
+      "alt_names": "",
+      "network": "",
+      "owners": "Qurate Retail Group",
+      "country": "DE",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "1996-12-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.qvc.de/"
+    },
+    {
+      "id": 17,
+      "channel_id": "QVCStyle.de",
+      "name": "QVC Style",
+      "alt_names": "QVC Beauty & Style",
+      "network": "",
+      "owners": "Qurate Retail Group",
+      "country": "DE",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.qvc.de/"
+    },
+    {
+      "id": 18,
+      "channel_id": "QVCZwei.de",
+      "name": "QVC Zwei",
+      "alt_names": "QVC2, QVC Plus",
+      "network": "",
+      "owners": "Qurate Retail Group",
+      "country": "DE",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "2010-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.qvc.de/"
+    },
+    {
+      "id": 19,
+      "channel_id": "Shop24Direct.de",
+      "name": "Shop 24 Direct",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.shop24direct.de/"
+    },
+    {
+      "id": 20,
+      "channel_id": "ShopLCDeutschland.de",
+      "name": "Shop LC Deutschland",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.shoplc.de/"
+    }
+  ],
+  "meta": {
+    "title": "Teleshopping-Sender (Shop TV channels) - Kostenloser Download",
+    "description": "Deutsche Fernsehsender der Kategorie \"shop\" (Teleshopping) — 20 Sender aus dem offenen Register iptv-org/database. Enthält Sendername, alternative Namen, Netzwerk, Eigentümer, Kategorien, Start- und Einstellungsdatum sowie Webseite. Enthält 20 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Teleshopping-Sender (Shop TV channels) | ListBase",
+    "seo_description": "Herunterladen Teleshopping-Sender (Shop TV channels) — 20 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 20 Datensätze / 13 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

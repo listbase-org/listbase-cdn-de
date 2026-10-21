@@ -1,0 +1,79 @@
+{
+  "id": "de-masseinheiten-acceleration",
+  "name": "Maßeinheiten — Kategorie 'acceleration' (2)",
+  "title": "Maßeinheiten — Kategorie 'acceleration' (2)",
+  "description": "Maßeinheiten der Kategorie 'acceleration' aus der Locale de in CLDR, mit Namen auf Deutsch.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abkuerzung",
+      "label": "Abkuerzung",
+      "type": "string"
+    },
+    {
+      "key": "schmalform",
+      "label": "Schmalform",
+      "type": "string"
+    },
+    {
+      "key": "muster",
+      "label": "Muster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "acceleration-g-force",
+      "kategorie": "acceleration",
+      "name": "g-Kraft",
+      "abkuerzung": "g-Kraft",
+      "schmalform": "G",
+      "muster": "{0} G"
+    },
+    {
+      "id": 2,
+      "unit_code": "acceleration-meter-per-square-second",
+      "kategorie": "acceleration",
+      "name": "Meter pro Quadratsekunde",
+      "abkuerzung": "m/s²",
+      "schmalform": "m/s²",
+      "muster": "{0} Meter pro Quadratsekunde"
+    }
+  ],
+  "meta": {
+    "title": "Maßeinheiten — Kategorie 'acceleration' (2) - Kostenloser Download",
+    "description": "Maßeinheiten der Kategorie 'acceleration' aus der Locale de in CLDR, mit Namen auf Deutsch. Enthält 2 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Maßeinheiten — Kategorie 'acceleration' (2) | ListBase",
+    "seo_description": "Herunterladen Maßeinheiten — Kategorie 'acceleration' (2) — 2 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 2 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

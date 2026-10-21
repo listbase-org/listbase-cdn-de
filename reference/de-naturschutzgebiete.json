@@ -1,0 +1,340 @@
+{
+  "id": "de-naturschutzgebiete",
+  "name": "Naturschutzgebiete in Deutschland / Nature reserves in Germany",
+  "title": "Naturschutzgebiete in Deutschland / Nature reserves in Germany",
+  "description": "Naturschutzgebiete in Deutschland (Nature reserves in Germany). Geolocated points sourced from Wikidata (instance of Q179049), located in Germany (Q183), each with a coordinate (P625).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_de",
+      "label": "Name De",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q63091732",
+      "name_de": "Baier",
+      "name_en": "Baier",
+      "latitude": 50.745611,
+      "longitude": 10.103394,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63091732"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q1270893",
+      "name_de": "Döberitzer Heide",
+      "name_en": "Döberitzer Heide",
+      "latitude": 52.4982,
+      "longitude": 13.0456,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1270893"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q62031809",
+      "name_de": "Galgenwiesen",
+      "name_en": "Naturschutzgebiet Galgenwiesen",
+      "latitude": 48.1073,
+      "longitude": 8.8948,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q62031809"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q61468921",
+      "name_de": "Gimpelfang",
+      "name_en": "Gimpelfang",
+      "latitude": 50.9705,
+      "longitude": 14.3005,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61468921"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q15222745",
+      "name_de": "Heilige Hallen",
+      "name_en": "Heilige Hallen",
+      "latitude": 50.973889,
+      "longitude": 14.306389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15222745"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q137212577",
+      "name_de": "Hildesheimer Wald - Sonnenberg",
+      "name_en": "Hildesheimer Wald - Sonnenberg",
+      "latitude": 52.6,
+      "longitude": 9.54,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137212577"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q23894765",
+      "name_de": "Kermelbach",
+      "name_en": "Kermelbach",
+      "latitude": 51.420833,
+      "longitude": 7.386667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23894765"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q1796316",
+      "name_de": "Königsbrunner Heide",
+      "name_en": "Königsbrunner Heide",
+      "latitude": 48.2729,
+      "longitude": 10.9061,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1796316"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q105494335",
+      "name_de": "Maaßel",
+      "name_en": "Maaßel",
+      "latitude": 52.404167,
+      "longitude": 10.484722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105494335"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q125465217",
+      "name_de": "Markelfinger Winkel und westlicher Gnadensee",
+      "name_en": "Markelfinger Winkel und westlicher Gnadensee",
+      "latitude": 47.730198,
+      "longitude": 9.011697,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125465217"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q32123740",
+      "name_de": "",
+      "name_en": "Marmorbruch Horwagen",
+      "latitude": 50.33601,
+      "longitude": 11.64699,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32123740"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q128841291",
+      "name_de": "Naturschutzgebietes „Wesenitzhang und -aue zwischen Pirna-Liebethal und Pirna-Copitz“",
+      "name_en": "",
+      "latitude": 50.98805,
+      "longitude": 13.95375,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q128841291"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q115139543",
+      "name_de": "Naturschutzzentrum Krugpark",
+      "name_en": "Naturschutzzentrum Krugpark",
+      "latitude": 52.373686,
+      "longitude": 12.50955,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115139543"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q107351967",
+      "name_de": "Negenborn Quelle",
+      "name_en": "Negenborn spring",
+      "latitude": 51.487083,
+      "longitude": 10.063556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107351967"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q32180389",
+      "name_de": "",
+      "name_en": "Neuenkruger Revier",
+      "latitude": 53.583333,
+      "longitude": 14.05,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32180389"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q32191563",
+      "name_de": "",
+      "name_en": "Nonnenhof",
+      "latitude": 53.46138,
+      "longitude": 13.16626,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32191563"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q62032002",
+      "name_de": "Ortenberg",
+      "name_en": "Naturschutzgebiet Ortenberg",
+      "latitude": 48.1815,
+      "longitude": 8.80434,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q62032002"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q63888836",
+      "name_de": "Pflaumdorfer Moos",
+      "name_en": "Pflaumdorfer Moos",
+      "latitude": 48.083222,
+      "longitude": 11.045528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63888836"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q62032212",
+      "name_de": "Schwarzenbach",
+      "name_en": "Naturschutzgebiet Schwarzenbach",
+      "latitude": 48.2092,
+      "longitude": 8.72098,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q62032212"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q32174534",
+      "name_de": "Schwarzes Moor",
+      "name_en": "Schwarzes Moor",
+      "latitude": 50.51415,
+      "longitude": 10.066061,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32174534"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q1487031",
+      "name_de": "Schwimmendes Moor",
+      "name_en": "Schwimmendes Moor",
+      "latitude": 53.4414,
+      "longitude": 8.30278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1487031"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q1735370",
+      "name_de": "Sielmanns Naturlandschaft Groß Schauener Seen",
+      "name_en": "",
+      "latitude": 52.235054,
+      "longitude": 13.89616,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1735370"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q1305646",
+      "name_de": "Sielmanns Naturlandschaft Wanninchen",
+      "name_en": "Sielmanns Naturlandschaft Wanninchen",
+      "latitude": 51.788136,
+      "longitude": 13.77218,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1305646"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q131287667",
+      "name_de": "Stein – Rachelsberg",
+      "name_en": "",
+      "latitude": 51.289653,
+      "longitude": 10.052352,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131287667"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q32749096",
+      "name_de": "",
+      "name_en": "Steinhorster Basin",
+      "latitude": 54.17346,
+      "longitude": 10.14141,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32749096"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q61452639",
+      "name_de": "Stiefelsbach und Zuflüsse",
+      "name_en": "Stiefelsbach und Zuflüsse",
+      "latitude": 50.589424,
+      "longitude": 6.936625,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61452639"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q32751762",
+      "name_de": "",
+      "name_en": "Uchtelfangen - Sonnenborn - Naturerlebnisweg",
+      "latitude": 49.38779,
+      "longitude": 7.01692,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32751762"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q108155520",
+      "name_de": "Unkenwäldchen Parey",
+      "name_en": "Unken grove Parey",
+      "latitude": 52.384623,
+      "longitude": 11.959495,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108155520"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q117865415",
+      "name_de": "Unterer Inn",
+      "name_en": "Unterer Inntal",
+      "latitude": 48.2956,
+      "longitude": 13.1898,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117865415"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q56464677",
+      "name_de": "Vogelfreistätte Innstausee bei Attel und Freiham",
+      "name_en": "Vogelfreistätte Innstausee bei Attel und Freiham",
+      "latitude": 48.0213,
+      "longitude": 12.1841,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56464677"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q132187078",
+      "name_de": "Ökologische Vorrangfläche Baumkirchen Mitte",
+      "name_en": "Baumkirchen Mitte nature reserve",
+      "latitude": 48.133573,
+      "longitude": 11.625869,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q132187078"
+    }
+  ],
+  "meta": {
+    "title": "Naturschutzgebiete in Deutschland / Nature reserves in Germany - Kostenloser Download",
+    "description": "Naturschutzgebiete in Deutschland (Nature reserves in Germany). Geolocated points sourced from Wikidata (instance of Q179049), located in Germany (Q183), each with a coordinate (P625). Enthält 31 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Naturschutzgebiete in Deutschland / Nature reserves in Germany | ListBase",
+    "seo_description": "Herunterladen Naturschutzgebiete in Deutschland / Nature reserves in Germany — 31 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 31 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

@@ -1,0 +1,2408 @@
+{
+  "id": "de-landkreise",
+  "name": "Landkreise Deutschland",
+  "title": "Landkreise Deutschland",
+  "description": "Vollständige Liste der 294 Landkreise Deutschlands (inklusive kreisfreie Städte tragen kein landkreis-Eintrag in der Quelle und werden nicht in dieser Liste geführt; siehe is_kreisfrei-Flag in de-postleitzahlen). Pro Landkreis: Name, Bundesland, abgeleitete PLZ- und Orts-Zähler.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 294,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "plz_count",
+      "label": "Plz Count",
+      "type": "number"
+    },
+    {
+      "key": "ort_count",
+      "label": "Ort Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alb-Donau-Kreis",
+      "slug": "alb-donau-kreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 45,
+      "ort_count": 55
+    },
+    {
+      "name": "Bodenseekreis",
+      "slug": "bodenseekreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 24,
+      "ort_count": 23
+    },
+    {
+      "name": "Enzkreis",
+      "slug": "enzkreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 28,
+      "ort_count": 28
+    },
+    {
+      "name": "Hohenlohekreis",
+      "slug": "hohenlohekreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 15,
+      "ort_count": 16
+    },
+    {
+      "name": "Landkreis Biberach",
+      "slug": "landkreis-biberach",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 35,
+      "ort_count": 45
+    },
+    {
+      "name": "Landkreis Breisgau-Hochschwarzwald",
+      "slug": "landkreis-breisgau-hochschwarzwald",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 49,
+      "ort_count": 50
+    },
+    {
+      "name": "Landkreis Böblingen",
+      "slug": "landkreis-boeblingen",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 30,
+      "ort_count": 26
+    },
+    {
+      "name": "Landkreis Calw",
+      "slug": "landkreis-calw",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 25,
+      "ort_count": 25
+    },
+    {
+      "name": "Landkreis Emmendingen",
+      "slug": "landkreis-emmendingen",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 24,
+      "ort_count": 24
+    },
+    {
+      "name": "Landkreis Esslingen",
+      "slug": "landkreis-esslingen",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 49,
+      "ort_count": 44
+    },
+    {
+      "name": "Landkreis Freudenstadt",
+      "slug": "landkreis-freudenstadt",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 16,
+      "ort_count": 16
+    },
+    {
+      "name": "Landkreis Göppingen",
+      "slug": "landkreis-goeppingen",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 41,
+      "ort_count": 38
+    },
+    {
+      "name": "Landkreis Heidenheim",
+      "slug": "landkreis-heidenheim",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 14,
+      "ort_count": 11
+    },
+    {
+      "name": "Landkreis Heilbronn",
+      "slug": "landkreis-heilbronn",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 46,
+      "ort_count": 46
+    },
+    {
+      "name": "Landkreis Karlsruhe",
+      "slug": "landkreis-karlsruhe",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 32,
+      "ort_count": 32
+    },
+    {
+      "name": "Landkreis Konstanz",
+      "slug": "landkreis-konstanz",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 28,
+      "ort_count": 25
+    },
+    {
+      "name": "Landkreis Ludwigsburg",
+      "slug": "landkreis-ludwigsburg",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 42,
+      "ort_count": 39
+    },
+    {
+      "name": "Landkreis Lörrach",
+      "slug": "landkreis-loerrach",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 31,
+      "ort_count": 35
+    },
+    {
+      "name": "Landkreis Rastatt",
+      "slug": "landkreis-rastatt",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 23,
+      "ort_count": 23
+    },
+    {
+      "name": "Landkreis Ravensburg",
+      "slug": "landkreis-ravensburg",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 37,
+      "ort_count": 39
+    },
+    {
+      "name": "Landkreis Reutlingen",
+      "slug": "landkreis-reutlingen",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 31,
+      "ort_count": 26
+    },
+    {
+      "name": "Landkreis Rottweil",
+      "slug": "landkreis-rottweil",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 22,
+      "ort_count": 21
+    },
+    {
+      "name": "Landkreis Schwäbisch Hall",
+      "slug": "landkreis-schwaebisch-hall",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 30,
+      "ort_count": 30
+    },
+    {
+      "name": "Landkreis Sigmaringen",
+      "slug": "landkreis-sigmaringen",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 24,
+      "ort_count": 25
+    },
+    {
+      "name": "Landkreis Tuttlingen",
+      "slug": "landkreis-tuttlingen",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 34,
+      "ort_count": 35
+    },
+    {
+      "name": "Landkreis Tübingen",
+      "slug": "landkreis-tuebingen",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 18,
+      "ort_count": 15
+    },
+    {
+      "name": "Landkreis Waldshut",
+      "slug": "landkreis-waldshut",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 30,
+      "ort_count": 32
+    },
+    {
+      "name": "Main-Tauber-Kreis",
+      "slug": "main-tauber-kreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 18,
+      "ort_count": 18
+    },
+    {
+      "name": "Neckar-Odenwald-Kreis",
+      "slug": "neckar-odenwald-kreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 28,
+      "ort_count": 27
+    },
+    {
+      "name": "Ortenaukreis",
+      "slug": "ortenaukreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 51,
+      "ort_count": 51
+    },
+    {
+      "name": "Ostalbkreis",
+      "slug": "ostalbkreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 48,
+      "ort_count": 42
+    },
+    {
+      "name": "Rems-Murr-Kreis",
+      "slug": "rems-murr-kreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 34,
+      "ort_count": 31
+    },
+    {
+      "name": "Rhein-Neckar-Kreis",
+      "slug": "rhein-neckar-kreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 54,
+      "ort_count": 54
+    },
+    {
+      "name": "Schwarzwald-Baar-Kreis",
+      "slug": "schwarzwald-baar-kreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 24,
+      "ort_count": 20
+    },
+    {
+      "name": "Zollernalbkreis",
+      "slug": "zollernalbkreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 27,
+      "ort_count": 25
+    },
+    {
+      "name": "Landkreis Aichach-Friedberg",
+      "slug": "landkreis-aichach-friedberg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 23,
+      "ort_count": 24
+    },
+    {
+      "name": "Landkreis Altötting",
+      "slug": "landkreis-altoetting",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 20,
+      "ort_count": 24
+    },
+    {
+      "name": "Landkreis Amberg-Sulzbach",
+      "slug": "landkreis-amberg-sulzbach",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 27,
+      "ort_count": 27
+    },
+    {
+      "name": "Landkreis Ansbach",
+      "slug": "landkreis-ansbach",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 57,
+      "ort_count": 58
+    },
+    {
+      "name": "Landkreis Aschaffenburg",
+      "slug": "landkreis-aschaffenburg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 30,
+      "ort_count": 32
+    },
+    {
+      "name": "Landkreis Augsburg",
+      "slug": "landkreis-augsburg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 40,
+      "ort_count": 46
+    },
+    {
+      "name": "Landkreis Bad Kissingen",
+      "slug": "landkreis-bad-kissingen",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 23,
+      "ort_count": 26
+    },
+    {
+      "name": "Landkreis Bad Tölz-Wolfratshausen",
+      "slug": "landkreis-bad-toelz-wolfratshausen",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 21,
+      "ort_count": 21
+    },
+    {
+      "name": "Landkreis Bamberg",
+      "slug": "landkreis-bamberg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 35,
+      "ort_count": 36
+    },
+    {
+      "name": "Landkreis Bayreuth",
+      "slug": "landkreis-bayreuth",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 29,
+      "ort_count": 33
+    },
+    {
+      "name": "Landkreis Berchtesgadener Land",
+      "slug": "landkreis-berchtesgadener-land",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 15,
+      "ort_count": 15
+    },
+    {
+      "name": "Landkreis Cham",
+      "slug": "landkreis-cham",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 39,
+      "ort_count": 39
+    },
+    {
+      "name": "Landkreis Coburg",
+      "slug": "landkreis-coburg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 17,
+      "ort_count": 17
+    },
+    {
+      "name": "Landkreis Dachau",
+      "slug": "landkreis-dachau",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 18,
+      "ort_count": 17
+    },
+    {
+      "name": "Landkreis Deggendorf",
+      "slug": "landkreis-deggendorf",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 25,
+      "ort_count": 26
+    },
+    {
+      "name": "Landkreis Dillingen an der Donau",
+      "slug": "landkreis-dillingen-an-der-donau",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 23,
+      "ort_count": 27
+    },
+    {
+      "name": "Landkreis Dingolfing-Landau",
+      "slug": "landkreis-dingolfing-landau",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 15,
+      "ort_count": 15
+    },
+    {
+      "name": "Landkreis Donau-Ries",
+      "slug": "landkreis-donau-ries",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 42,
+      "ort_count": 44
+    },
+    {
+      "name": "Landkreis Ebersberg",
+      "slug": "landkreis-ebersberg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 22,
+      "ort_count": 21
+    },
+    {
+      "name": "Landkreis Eichstätt",
+      "slug": "landkreis-eichstaett",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 30,
+      "ort_count": 30
+    },
+    {
+      "name": "Landkreis Erding",
+      "slug": "landkreis-erding",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 25,
+      "ort_count": 26
+    },
+    {
+      "name": "Landkreis Erlangen-Höchstadt",
+      "slug": "landkreis-erlangen-hoechstadt",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 22,
+      "ort_count": 25
+    },
+    {
+      "name": "Landkreis Forchheim",
+      "slug": "landkreis-forchheim",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 26,
+      "ort_count": 29
+    },
+    {
+      "name": "Landkreis Freising",
+      "slug": "landkreis-freising",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 24,
+      "ort_count": 24
+    },
+    {
+      "name": "Landkreis Freyung-Grafenau",
+      "slug": "landkreis-freyung-grafenau",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 26,
+      "ort_count": 25
+    },
+    {
+      "name": "Landkreis Fürstenfeldbruck",
+      "slug": "landkreis-fuerstenfeldbruck",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 23,
+      "ort_count": 23
+    },
+    {
+      "name": "Landkreis Fürth",
+      "slug": "landkreis-fuerth",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 11,
+      "ort_count": 14
+    },
+    {
+      "name": "Landkreis Garmisch-Partenkirchen",
+      "slug": "landkreis-garmisch-partenkirchen",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 22,
+      "ort_count": 22
+    },
+    {
+      "name": "Landkreis Günzburg",
+      "slug": "landkreis-guenzburg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 33,
+      "ort_count": 34
+    },
+    {
+      "name": "Landkreis Haßberge",
+      "slug": "landkreis-hassberge",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 25,
+      "ort_count": 26
+    },
+    {
+      "name": "Landkreis Hof",
+      "slug": "landkreis-hof",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 25,
+      "ort_count": 27
+    },
+    {
+      "name": "Landkreis Kelheim",
+      "slug": "landkreis-kelheim",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 23,
+      "ort_count": 24
+    },
+    {
+      "name": "Landkreis Kitzingen",
+      "slug": "landkreis-kitzingen",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 15,
+      "ort_count": 31
+    },
+    {
+      "name": "Landkreis Kronach",
+      "slug": "landkreis-kronach",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 17,
+      "ort_count": 18
+    },
+    {
+      "name": "Landkreis Kulmbach",
+      "slug": "landkreis-kulmbach",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 22,
+      "ort_count": 22
+    },
+    {
+      "name": "Landkreis Landsberg am Lech",
+      "slug": "landkreis-landsberg-am-lech",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 32,
+      "ort_count": 31
+    },
+    {
+      "name": "Landkreis Landshut",
+      "slug": "landkreis-landshut",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 34,
+      "ort_count": 35
+    },
+    {
+      "name": "Landkreis Lichtenfels",
+      "slug": "landkreis-lichtenfels",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 10,
+      "ort_count": 11
+    },
+    {
+      "name": "Landkreis Lindau",
+      "slug": "landkreis-lindau",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 11,
+      "ort_count": 19
+    },
+    {
+      "name": "Landkreis Main-Spessart",
+      "slug": "landkreis-main-spessart",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 40,
+      "ort_count": 40
+    },
+    {
+      "name": "Landkreis Miesbach",
+      "slug": "landkreis-miesbach",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 17,
+      "ort_count": 17
+    },
+    {
+      "name": "Landkreis Miltenberg",
+      "slug": "landkreis-miltenberg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 33,
+      "ort_count": 32
+    },
+    {
+      "name": "Landkreis Mühldorf am Inn",
+      "slug": "landkreis-muehldorf-am-inn",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 27,
+      "ort_count": 31
+    },
+    {
+      "name": "Landkreis München",
+      "slug": "landkreis-muenchen",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 31,
+      "ort_count": 29
+    },
+    {
+      "name": "Landkreis Neu-Ulm",
+      "slug": "landkreis-neu-ulm",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 19,
+      "ort_count": 17
+    },
+    {
+      "name": "Landkreis Neuburg-Schrobenhausen",
+      "slug": "landkreis-neuburg-schrobenhausen",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 18,
+      "ort_count": 18
+    },
+    {
+      "name": "Landkreis Neumarkt in der Oberpfalz",
+      "slug": "landkreis-neumarkt-in-der-oberpfalz",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 18,
+      "ort_count": 19
+    },
+    {
+      "name": "Landkreis Neustadt an der Aisch-Bad Windsheim",
+      "slug": "landkreis-neustadt-an-der-aisch-bad-windsheim",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 33,
+      "ort_count": 38
+    },
+    {
+      "name": "Landkreis Neustadt an der Waldnaab",
+      "slug": "landkreis-neustadt-an-der-waldnaab",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 35,
+      "ort_count": 38
+    },
+    {
+      "name": "Landkreis Nürnberger Land",
+      "slug": "landkreis-nuernberger-land",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 25,
+      "ort_count": 27
+    },
+    {
+      "name": "Landkreis Oberallgäu",
+      "slug": "landkreis-oberallgaeu",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 24,
+      "ort_count": 28
+    },
+    {
+      "name": "Landkreis Ostallgäu",
+      "slug": "landkreis-ostallgaeu",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 39,
+      "ort_count": 45
+    },
+    {
+      "name": "Landkreis Passau",
+      "slug": "landkreis-passau",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 35,
+      "ort_count": 38
+    },
+    {
+      "name": "Landkreis Pfaffenhofen an der Ilm",
+      "slug": "landkreis-pfaffenhofen-an-der-ilm",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 19,
+      "ort_count": 19
+    },
+    {
+      "name": "Landkreis Regen",
+      "slug": "landkreis-regen",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 20,
+      "ort_count": 24
+    },
+    {
+      "name": "Landkreis Regensburg",
+      "slug": "landkreis-regensburg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 38,
+      "ort_count": 41
+    },
+    {
+      "name": "Landkreis Rhön-Grabfeld",
+      "slug": "landkreis-rhoen-grabfeld",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 16,
+      "ort_count": 37
+    },
+    {
+      "name": "Landkreis Rosenheim",
+      "slug": "landkreis-rosenheim",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 46,
+      "ort_count": 46
+    },
+    {
+      "name": "Landkreis Roth",
+      "slug": "landkreis-roth",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 15,
+      "ort_count": 16
+    },
+    {
+      "name": "Landkreis Rottal-Inn",
+      "slug": "landkreis-rottal-inn",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 28,
+      "ort_count": 31
+    },
+    {
+      "name": "Landkreis Schwandorf",
+      "slug": "landkreis-schwandorf",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 33,
+      "ort_count": 33
+    },
+    {
+      "name": "Landkreis Schweinfurt",
+      "slug": "landkreis-schweinfurt",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 28,
+      "ort_count": 29
+    },
+    {
+      "name": "Landkreis Starnberg",
+      "slug": "landkreis-starnberg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 15,
+      "ort_count": 14
+    },
+    {
+      "name": "Landkreis Straubing-Bogen",
+      "slug": "landkreis-straubing-bogen",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 34,
+      "ort_count": 37
+    },
+    {
+      "name": "Landkreis Tirschenreuth",
+      "slug": "landkreis-tirschenreuth",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 25,
+      "ort_count": 26
+    },
+    {
+      "name": "Landkreis Traunstein",
+      "slug": "landkreis-traunstein",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 39,
+      "ort_count": 35
+    },
+    {
+      "name": "Landkreis Unterallgäu",
+      "slug": "landkreis-unterallgaeu",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 51,
+      "ort_count": 52
+    },
+    {
+      "name": "Landkreis Weilheim-Schongau",
+      "slug": "landkreis-weilheim-schongau",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 33,
+      "ort_count": 34
+    },
+    {
+      "name": "Landkreis Weißenburg-Gunzenhausen",
+      "slug": "landkreis-weissenburg-gunzenhausen",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 24,
+      "ort_count": 27
+    },
+    {
+      "name": "Landkreis Wunsiedel im Fichtelgebirge",
+      "slug": "landkreis-wunsiedel-im-fichtelgebirge",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 17,
+      "ort_count": 17
+    },
+    {
+      "name": "Landkreis Würzburg",
+      "slug": "landkreis-wuerzburg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 47,
+      "ort_count": 52
+    },
+    {
+      "name": "Landkreis Barnim",
+      "slug": "landkreis-barnim",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 11,
+      "ort_count": 25
+    },
+    {
+      "name": "Landkreis Dahme-Spreewald",
+      "slug": "landkreis-dahme-spreewald",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 20,
+      "ort_count": 37
+    },
+    {
+      "name": "Landkreis Elbe-Elster",
+      "slug": "landkreis-elbe-elster",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 14,
+      "ort_count": 33
+    },
+    {
+      "name": "Landkreis Havelland",
+      "slug": "landkreis-havelland",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 12,
+      "ort_count": 26
+    },
+    {
+      "name": "Landkreis Märkisch-Oderland",
+      "slug": "landkreis-maerkisch-oderland",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 16,
+      "ort_count": 45
+    },
+    {
+      "name": "Landkreis Oberhavel",
+      "slug": "landkreis-oberhavel",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 16,
+      "ort_count": 19
+    },
+    {
+      "name": "Landkreis Oberspreewald-Lausitz",
+      "slug": "landkreis-oberspreewald-lausitz",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 15,
+      "ort_count": 25
+    },
+    {
+      "name": "Landkreis Oder-Spree",
+      "slug": "landkreis-oder-spree",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 15,
+      "ort_count": 37
+    },
+    {
+      "name": "Landkreis Ostprignitz-Ruppin",
+      "slug": "landkreis-ostprignitz-ruppin",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 11,
+      "ort_count": 23
+    },
+    {
+      "name": "Landkreis Potsdam-Mittelmark",
+      "slug": "landkreis-potsdam-mittelmark",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 20,
+      "ort_count": 38
+    },
+    {
+      "name": "Landkreis Prignitz",
+      "slug": "landkreis-prignitz",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 10,
+      "ort_count": 26
+    },
+    {
+      "name": "Landkreis Spree-Neiße",
+      "slug": "landkreis-spree-neisse",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 11,
+      "ort_count": 29
+    },
+    {
+      "name": "Landkreis Teltow-Fläming",
+      "slug": "landkreis-teltow-flaeming",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 13,
+      "ort_count": 16
+    },
+    {
+      "name": "Landkreis Uckermark",
+      "slug": "landkreis-uckermark",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 9,
+      "ort_count": 30
+    },
+    {
+      "name": "Hochtaunuskreis",
+      "slug": "hochtaunuskreis",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 15,
+      "ort_count": 13
+    },
+    {
+      "name": "Kreis Bergstraße",
+      "slug": "kreis-bergstrasse",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 24,
+      "ort_count": 22
+    },
+    {
+      "name": "Kreis Groß-Gerau",
+      "slug": "kreis-gross-gerau",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 14,
+      "ort_count": 14
+    },
+    {
+      "name": "Lahn-Dill-Kreis",
+      "slug": "lahn-dill-kreis",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 39,
+      "ort_count": 23
+    },
+    {
+      "name": "Landkreis Darmstadt-Dieburg",
+      "slug": "landkreis-darmstadt-dieburg",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 24,
+      "ort_count": 23
+    },
+    {
+      "name": "Landkreis Fulda",
+      "slug": "landkreis-fulda",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 25,
+      "ort_count": 23
+    },
+    {
+      "name": "Landkreis Gießen",
+      "slug": "landkreis-giessen",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 22,
+      "ort_count": 18
+    },
+    {
+      "name": "Landkreis Hersfeld-Rotenburg",
+      "slug": "landkreis-hersfeld-rotenburg",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 19,
+      "ort_count": 20
+    },
+    {
+      "name": "Landkreis Kassel",
+      "slug": "landkreis-kassel",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 29,
+      "ort_count": 28
+    },
+    {
+      "name": "Landkreis Limburg-Weilburg",
+      "slug": "landkreis-limburg-weilburg",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 26,
+      "ort_count": 19
+    },
+    {
+      "name": "Landkreis Marburg-Biedenkopf",
+      "slug": "landkreis-marburg-biedenkopf",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 25,
+      "ort_count": 22
+    },
+    {
+      "name": "Landkreis Offenbach",
+      "slug": "landkreis-offenbach",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 13,
+      "ort_count": 13
+    },
+    {
+      "name": "Landkreis Waldeck-Frankenberg",
+      "slug": "landkreis-waldeck-frankenberg",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 21,
+      "ort_count": 21
+    },
+    {
+      "name": "Main-Kinzig-Kreis",
+      "slug": "main-kinzig-kreis",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 33,
+      "ort_count": 29
+    },
+    {
+      "name": "Main-Taunus-Kreis",
+      "slug": "main-taunus-kreis",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 12,
+      "ort_count": 12
+    },
+    {
+      "name": "Odenwaldkreis",
+      "slug": "odenwaldkreis",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 13,
+      "ort_count": 12
+    },
+    {
+      "name": "Rheingau-Taunus-Kreis",
+      "slug": "rheingau-taunus-kreis",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 20,
+      "ort_count": 17
+    },
+    {
+      "name": "Schwalm-Eder-Kreis",
+      "slug": "schwalm-eder-kreis",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 27,
+      "ort_count": 27
+    },
+    {
+      "name": "Vogelsbergkreis",
+      "slug": "vogelsbergkreis",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 19,
+      "ort_count": 19
+    },
+    {
+      "name": "Werra-Meißner-Kreis",
+      "slug": "werra-meissner-kreis",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 21,
+      "ort_count": 16
+    },
+    {
+      "name": "Wetteraukreis",
+      "slug": "wetteraukreis",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 25,
+      "ort_count": 25
+    },
+    {
+      "name": "Landkreis Ludwigslust-Parchim",
+      "slug": "landkreis-ludwigslust-parchim",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "bundesland_slug": "mecklenburg-vorpommern",
+      "plz_count": 30,
+      "ort_count": 142
+    },
+    {
+      "name": "Landkreis Mecklenburgische Seenplatte",
+      "slug": "landkreis-mecklenburgische-seenplatte",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "bundesland_slug": "mecklenburg-vorpommern",
+      "plz_count": 33,
+      "ort_count": 148
+    },
+    {
+      "name": "Landkreis Nordwestmecklenburg",
+      "slug": "landkreis-nordwestmecklenburg",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "bundesland_slug": "mecklenburg-vorpommern",
+      "plz_count": 20,
+      "ort_count": 83
+    },
+    {
+      "name": "Landkreis Rostock",
+      "slug": "landkreis-rostock",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "bundesland_slug": "mecklenburg-vorpommern",
+      "plz_count": 28,
+      "ort_count": 112
+    },
+    {
+      "name": "Landkreis Vorpommern-Greifswald",
+      "slug": "landkreis-vorpommern-greifswald",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "bundesland_slug": "mecklenburg-vorpommern",
+      "plz_count": 36,
+      "ort_count": 137
+    },
+    {
+      "name": "Landkreis Vorpommern-Rügen",
+      "slug": "landkreis-vorpommern-ruegen",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "bundesland_slug": "mecklenburg-vorpommern",
+      "plz_count": 34,
+      "ort_count": 101
+    },
+    {
+      "name": "Landkreis Ammerland",
+      "slug": "landkreis-ammerland",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 6,
+      "ort_count": 6
+    },
+    {
+      "name": "Landkreis Aurich",
+      "slug": "landkreis-aurich",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 17,
+      "ort_count": 24
+    },
+    {
+      "name": "Landkreis Celle",
+      "slug": "landkreis-celle",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 27,
+      "ort_count": 21
+    },
+    {
+      "name": "Landkreis Cloppenburg",
+      "slug": "landkreis-cloppenburg",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 13,
+      "ort_count": 13
+    },
+    {
+      "name": "Landkreis Cuxhaven",
+      "slug": "landkreis-cuxhaven",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 27,
+      "ort_count": 29
+    },
+    {
+      "name": "Landkreis Diepholz",
+      "slug": "landkreis-diepholz",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 25,
+      "ort_count": 45
+    },
+    {
+      "name": "Landkreis Emsland",
+      "slug": "landkreis-emsland",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 31,
+      "ort_count": 60
+    },
+    {
+      "name": "Landkreis Friesland",
+      "slug": "landkreis-friesland",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 8,
+      "ort_count": 8
+    },
+    {
+      "name": "Landkreis Gifhorn",
+      "slug": "landkreis-gifhorn",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 40,
+      "ort_count": 41
+    },
+    {
+      "name": "Landkreis Goslar",
+      "slug": "landkreis-goslar",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 14,
+      "ort_count": 7
+    },
+    {
+      "name": "Landkreis Grafschaft Bentheim",
+      "slug": "landkreis-grafschaft-bentheim",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 12,
+      "ort_count": 25
+    },
+    {
+      "name": "Landkreis Göttingen",
+      "slug": "landkreis-goettingen",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 26,
+      "ort_count": 39
+    },
+    {
+      "name": "Landkreis Hameln-Pyrmont",
+      "slug": "landkreis-hameln-pyrmont",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 10,
+      "ort_count": 8
+    },
+    {
+      "name": "Landkreis Harburg",
+      "slug": "landkreis-harburg",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 33,
+      "ort_count": 42
+    },
+    {
+      "name": "Landkreis Heidekreis",
+      "slug": "landkreis-heidekreis",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 12,
+      "ort_count": 23
+    },
+    {
+      "name": "Landkreis Helmstedt",
+      "slug": "landkreis-helmstedt",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 20,
+      "ort_count": 23
+    },
+    {
+      "name": "Landkreis Hildesheim",
+      "slug": "landkreis-hildesheim",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 24,
+      "ort_count": 20
+    },
+    {
+      "name": "Landkreis Holzminden",
+      "slug": "landkreis-holzminden",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 18,
+      "ort_count": 32
+    },
+    {
+      "name": "Landkreis Leer",
+      "slug": "landkreis-leer",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 14,
+      "ort_count": 19
+    },
+    {
+      "name": "Landkreis Lüchow-Dannenberg",
+      "slug": "landkreis-luechow-dannenberg",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 27,
+      "ort_count": 27
+    },
+    {
+      "name": "Landkreis Lüneburg",
+      "slug": "landkreis-lueneburg",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 31,
+      "ort_count": 43
+    },
+    {
+      "name": "Landkreis Nienburg/Weser",
+      "slug": "landkreis-nienburg-weser",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 29,
+      "ort_count": 36
+    },
+    {
+      "name": "Landkreis Northeim",
+      "slug": "landkreis-northeim",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 11,
+      "ort_count": 11
+    },
+    {
+      "name": "Landkreis Oldenburg",
+      "slug": "landkreis-oldenburg",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 8,
+      "ort_count": 15
+    },
+    {
+      "name": "Landkreis Osnabrück",
+      "slug": "landkreis-osnabrueck",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 32,
+      "ort_count": 34
+    },
+    {
+      "name": "Landkreis Osterholz",
+      "slug": "landkreis-osterholz",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 7,
+      "ort_count": 11
+    },
+    {
+      "name": "Landkreis Peine",
+      "slug": "landkreis-peine",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 10,
+      "ort_count": 7
+    },
+    {
+      "name": "Landkreis Rotenburg (Wümme)",
+      "slug": "landkreis-rotenburg-wuemme",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 13,
+      "ort_count": 57
+    },
+    {
+      "name": "Landkreis Schaumburg",
+      "slug": "landkreis-schaumburg",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 30,
+      "ort_count": 38
+    },
+    {
+      "name": "Landkreis Stade",
+      "slug": "landkreis-stade",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 29,
+      "ort_count": 40
+    },
+    {
+      "name": "Landkreis Uelzen",
+      "slug": "landkreis-uelzen",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 27,
+      "ort_count": 27
+    },
+    {
+      "name": "Landkreis Vechta",
+      "slug": "landkreis-vechta",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 10,
+      "ort_count": 10
+    },
+    {
+      "name": "Landkreis Verden",
+      "slug": "landkreis-verden",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 10,
+      "ort_count": 11
+    },
+    {
+      "name": "Landkreis Wesermarsch",
+      "slug": "landkreis-wesermarsch",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 11,
+      "ort_count": 9
+    },
+    {
+      "name": "Landkreis Wittmund",
+      "slug": "landkreis-wittmund",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 8,
+      "ort_count": 19
+    },
+    {
+      "name": "Landkreis Wolfenbüttel",
+      "slug": "landkreis-wolfenbuettel",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 21,
+      "ort_count": 32
+    },
+    {
+      "name": "Region Hannover",
+      "slug": "region-hannover",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 53,
+      "ort_count": 21
+    },
+    {
+      "name": "Ennepe-Ruhr-Kreis",
+      "slug": "ennepe-ruhr-kreis",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 15,
+      "ort_count": 9
+    },
+    {
+      "name": "Hochsauerlandkreis",
+      "slug": "hochsauerlandkreis",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 16,
+      "ort_count": 12
+    },
+    {
+      "name": "Kreis Borken",
+      "slug": "kreis-borken",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 19,
+      "ort_count": 17
+    },
+    {
+      "name": "Kreis Coesfeld",
+      "slug": "kreis-coesfeld",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 11,
+      "ort_count": 11
+    },
+    {
+      "name": "Kreis Düren",
+      "slug": "kreis-dueren",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 18,
+      "ort_count": 15
+    },
+    {
+      "name": "Kreis Euskirchen",
+      "slug": "kreis-euskirchen",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 12,
+      "ort_count": 11
+    },
+    {
+      "name": "Kreis Gütersloh",
+      "slug": "kreis-guetersloh",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 17,
+      "ort_count": 13
+    },
+    {
+      "name": "Kreis Heinsberg",
+      "slug": "kreis-heinsberg",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 8,
+      "ort_count": 10
+    },
+    {
+      "name": "Kreis Herford",
+      "slug": "kreis-herford",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 11,
+      "ort_count": 9
+    },
+    {
+      "name": "Kreis Höxter",
+      "slug": "kreis-hoexter",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 10,
+      "ort_count": 10
+    },
+    {
+      "name": "Kreis Kleve",
+      "slug": "kreis-kleve",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 20,
+      "ort_count": 16
+    },
+    {
+      "name": "Kreis Lippe",
+      "slug": "kreis-lippe",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 20,
+      "ort_count": 16
+    },
+    {
+      "name": "Kreis Mettmann",
+      "slug": "kreis-mettmann",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 20,
+      "ort_count": 10
+    },
+    {
+      "name": "Kreis Minden-Lübbecke",
+      "slug": "kreis-minden-luebbecke",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 16,
+      "ort_count": 11
+    },
+    {
+      "name": "Kreis Olpe",
+      "slug": "kreis-olpe",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 7,
+      "ort_count": 7
+    },
+    {
+      "name": "Kreis Paderborn",
+      "slug": "kreis-paderborn",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 14,
+      "ort_count": 10
+    },
+    {
+      "name": "Kreis Recklinghausen",
+      "slug": "kreis-recklinghausen",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 24,
+      "ort_count": 10
+    },
+    {
+      "name": "Kreis Siegen-Wittgenstein",
+      "slug": "kreis-siegen-wittgenstein",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 15,
+      "ort_count": 11
+    },
+    {
+      "name": "Kreis Soest",
+      "slug": "kreis-soest",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 17,
+      "ort_count": 14
+    },
+    {
+      "name": "Kreis Steinfurt",
+      "slug": "kreis-steinfurt",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 27,
+      "ort_count": 24
+    },
+    {
+      "name": "Kreis Unna",
+      "slug": "kreis-unna",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 14,
+      "ort_count": 10
+    },
+    {
+      "name": "Kreis Viersen",
+      "slug": "kreis-viersen",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 12,
+      "ort_count": 9
+    },
+    {
+      "name": "Kreis Warendorf",
+      "slug": "kreis-warendorf",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 14,
+      "ort_count": 13
+    },
+    {
+      "name": "Kreis Wesel",
+      "slug": "kreis-wesel",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 20,
+      "ort_count": 13
+    },
+    {
+      "name": "Märkischer Kreis",
+      "slug": "maerkischer-kreis",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 25,
+      "ort_count": 15
+    },
+    {
+      "name": "Oberbergischer Kreis",
+      "slug": "oberbergischer-kreis",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 15,
+      "ort_count": 13
+    },
+    {
+      "name": "Rhein-Erft-Kreis",
+      "slug": "rhein-erft-kreis",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 14,
+      "ort_count": 10
+    },
+    {
+      "name": "Rhein-Kreis Neuss",
+      "slug": "rhein-kreis-neuss",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 22,
+      "ort_count": 8
+    },
+    {
+      "name": "Rhein-Sieg-Kreis",
+      "slug": "rhein-sieg-kreis",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 21,
+      "ort_count": 19
+    },
+    {
+      "name": "Rheinisch-Bergischer Kreis",
+      "slug": "rheinisch-bergischer-kreis",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 12,
+      "ort_count": 8
+    },
+    {
+      "name": "Städteregion Aachen",
+      "slug": "staedteregion-aachen",
+      "bundesland": "Nordrhein-Westfalen",
+      "bundesland_slug": "nordrhein-westfalen",
+      "plz_count": 21,
+      "ort_count": 10
+    },
+    {
+      "name": "Donnersbergkreis",
+      "slug": "donnersbergkreis",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 28,
+      "ort_count": 81
+    },
+    {
+      "name": "Eifelkreis Bitburg-Prüm",
+      "slug": "eifelkreis-bitburg-pruem",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 29,
+      "ort_count": 234
+    },
+    {
+      "name": "Landkreis Ahrweiler",
+      "slug": "landkreis-ahrweiler",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 20,
+      "ort_count": 74
+    },
+    {
+      "name": "Landkreis Altenkirchen",
+      "slug": "landkreis-altenkirchen",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 31,
+      "ort_count": 118
+    },
+    {
+      "name": "Landkreis Alzey-Worms",
+      "slug": "landkreis-alzey-worms",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 25,
+      "ort_count": 69
+    },
+    {
+      "name": "Landkreis Bad Dürkheim",
+      "slug": "landkreis-bad-duerkheim",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 36,
+      "ort_count": 48
+    },
+    {
+      "name": "Landkreis Bad Kreuznach",
+      "slug": "landkreis-bad-kreuznach",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 34,
+      "ort_count": 118
+    },
+    {
+      "name": "Landkreis Bernkastel-Wittlich",
+      "slug": "landkreis-bernkastel-wittlich",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 29,
+      "ort_count": 107
+    },
+    {
+      "name": "Landkreis Birkenfeld",
+      "slug": "landkreis-birkenfeld",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 15,
+      "ort_count": 96
+    },
+    {
+      "name": "Landkreis Cochem-Zell",
+      "slug": "landkreis-cochem-zell",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 25,
+      "ort_count": 89
+    },
+    {
+      "name": "Landkreis Germersheim",
+      "slug": "landkreis-germersheim",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 25,
+      "ort_count": 31
+    },
+    {
+      "name": "Landkreis Kaiserslautern",
+      "slug": "landkreis-kaiserslautern",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 30,
+      "ort_count": 50
+    },
+    {
+      "name": "Landkreis Kusel",
+      "slug": "landkreis-kusel",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 24,
+      "ort_count": 98
+    },
+    {
+      "name": "Landkreis Mainz-Bingen",
+      "slug": "landkreis-mainz-bingen",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 28,
+      "ort_count": 64
+    },
+    {
+      "name": "Landkreis Mayen-Koblenz",
+      "slug": "landkreis-mayen-koblenz",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 31,
+      "ort_count": 87
+    },
+    {
+      "name": "Landkreis Neuwied",
+      "slug": "landkreis-neuwied",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 31,
+      "ort_count": 62
+    },
+    {
+      "name": "Landkreis Südliche Weinstraße",
+      "slug": "landkreis-suedliche-weinstrasse",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 19,
+      "ort_count": 75
+    },
+    {
+      "name": "Landkreis Südwestpfalz",
+      "slug": "landkreis-suedwestpfalz",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 31,
+      "ort_count": 84
+    },
+    {
+      "name": "Landkreis Trier-Saarburg",
+      "slug": "landkreis-trier-saarburg",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 38,
+      "ort_count": 104
+    },
+    {
+      "name": "Landkreis Vulkaneifel",
+      "slug": "landkreis-vulkaneifel",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 22,
+      "ort_count": 109
+    },
+    {
+      "name": "Rhein-Hunsrück-Kreis",
+      "slug": "rhein-hunsrueck-kreis",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 23,
+      "ort_count": 137
+    },
+    {
+      "name": "Rhein-Lahn-Kreis",
+      "slug": "rhein-lahn-kreis",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 24,
+      "ort_count": 137
+    },
+    {
+      "name": "Rhein-Pfalz-Kreis",
+      "slug": "rhein-pfalz-kreis",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 22,
+      "ort_count": 25
+    },
+    {
+      "name": "Westerwaldkreis",
+      "slug": "westerwaldkreis",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 36,
+      "ort_count": 191
+    },
+    {
+      "name": "Landkreis Merzig-Wadern",
+      "slug": "landkreis-merzig-wadern",
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "plz_count": 7,
+      "ort_count": 7
+    },
+    {
+      "name": "Landkreis Neunkirchen",
+      "slug": "landkreis-neunkirchen",
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "plz_count": 9,
+      "ort_count": 7
+    },
+    {
+      "name": "Landkreis Saarlouis",
+      "slug": "landkreis-saarlouis",
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "plz_count": 13,
+      "ort_count": 13
+    },
+    {
+      "name": "Landkreis St. Wendel",
+      "slug": "landkreis-st-wendel",
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "plz_count": 8,
+      "ort_count": 8
+    },
+    {
+      "name": "Regionalverband Saarbrücken",
+      "slug": "regionalverband-saarbruecken",
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "plz_count": 25,
+      "ort_count": 10
+    },
+    {
+      "name": "Saarpfalz-Kreis",
+      "slug": "saarpfalz-kreis",
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "plz_count": 7,
+      "ort_count": 7
+    },
+    {
+      "name": "Erzgebirgskreis",
+      "slug": "erzgebirgskreis",
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "plz_count": 55,
+      "ort_count": 59
+    },
+    {
+      "name": "Landkreis Bautzen",
+      "slug": "landkreis-bautzen",
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "plz_count": 27,
+      "ort_count": 57
+    },
+    {
+      "name": "Landkreis Görlitz",
+      "slug": "landkreis-goerlitz",
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "plz_count": 32,
+      "ort_count": 53
+    },
+    {
+      "name": "Landkreis Leipzig",
+      "slug": "landkreis-leipzig",
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "plz_count": 25,
+      "ort_count": 30
+    },
+    {
+      "name": "Landkreis Meißen",
+      "slug": "landkreis-meissen",
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "plz_count": 19,
+      "ort_count": 28
+    },
+    {
+      "name": "Landkreis Mittelsachsen",
+      "slug": "landkreis-mittelsachsen",
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "plz_count": 36,
+      "ort_count": 52
+    },
+    {
+      "name": "Landkreis Nordsachsen",
+      "slug": "landkreis-nordsachsen",
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "plz_count": 17,
+      "ort_count": 30
+    },
+    {
+      "name": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "slug": "landkreis-saechsische-schweiz-osterzgebirge",
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "plz_count": 27,
+      "ort_count": 36
+    },
+    {
+      "name": "Landkreis Zwickau",
+      "slug": "landkreis-zwickau",
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "plz_count": 31,
+      "ort_count": 33
+    },
+    {
+      "name": "Vogtlandkreis",
+      "slug": "vogtlandkreis",
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "plz_count": 34,
+      "ort_count": 37
+    },
+    {
+      "name": "Altmarkkreis Salzwedel",
+      "slug": "altmarkkreis-salzwedel",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 10,
+      "ort_count": 13
+    },
+    {
+      "name": "Burgenlandkreis",
+      "slug": "burgenlandkreis",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 18,
+      "ort_count": 33
+    },
+    {
+      "name": "Landkreis Anhalt-Bitterfeld",
+      "slug": "landkreis-anhalt-bitterfeld",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 19,
+      "ort_count": 10
+    },
+    {
+      "name": "Landkreis Börde",
+      "slug": "landkreis-boerde",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 17,
+      "ort_count": 34
+    },
+    {
+      "name": "Landkreis Harz",
+      "slug": "landkreis-harz",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 24,
+      "ort_count": 20
+    },
+    {
+      "name": "Landkreis Jerichower Land",
+      "slug": "landkreis-jerichower-land",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 9,
+      "ort_count": 8
+    },
+    {
+      "name": "Landkreis Mansfeld-Südharz",
+      "slug": "landkreis-mansfeld-suedharz",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 14,
+      "ort_count": 22
+    },
+    {
+      "name": "Landkreis Stendal",
+      "slug": "landkreis-stendal",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 12,
+      "ort_count": 25
+    },
+    {
+      "name": "Landkreis Wittenberg",
+      "slug": "landkreis-wittenberg",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 13,
+      "ort_count": 9
+    },
+    {
+      "name": "Saalekreis",
+      "slug": "saalekreis",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 17,
+      "ort_count": 20
+    },
+    {
+      "name": "Salzlandkreis",
+      "slug": "salzlandkreis",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 22,
+      "ort_count": 21
+    },
+    {
+      "name": "Kreis Dithmarschen",
+      "slug": "kreis-dithmarschen",
+      "bundesland": "Schleswig-Holstein",
+      "bundesland_slug": "schleswig-holstein",
+      "plz_count": 31,
+      "ort_count": 116
+    },
+    {
+      "name": "Kreis Herzogtum Lauenburg",
+      "slug": "kreis-herzogtum-lauenburg",
+      "bundesland": "Schleswig-Holstein",
+      "bundesland_slug": "schleswig-holstein",
+      "plz_count": 30,
+      "ort_count": 132
+    },
+    {
+      "name": "Kreis Nordfriesland",
+      "slug": "kreis-nordfriesland",
+      "bundesland": "Schleswig-Holstein",
+      "bundesland_slug": "schleswig-holstein",
+      "plz_count": 49,
+      "ort_count": 133
+    },
+    {
+      "name": "Kreis Ostholstein",
+      "slug": "kreis-ostholstein",
+      "bundesland": "Schleswig-Holstein",
+      "bundesland_slug": "schleswig-holstein",
+      "plz_count": 26,
+      "ort_count": 36
+    },
+    {
+      "name": "Kreis Pinneberg",
+      "slug": "kreis-pinneberg",
+      "bundesland": "Schleswig-Holstein",
+      "bundesland_slug": "schleswig-holstein",
+      "plz_count": 28,
+      "ort_count": 49
+    },
+    {
+      "name": "Kreis Plön",
+      "slug": "kreis-ploen",
+      "bundesland": "Schleswig-Holstein",
+      "bundesland_slug": "schleswig-holstein",
+      "plz_count": 27,
+      "ort_count": 85
+    },
+    {
+      "name": "Kreis Rendsburg-Eckernförde",
+      "slug": "kreis-rendsburg-eckernfoerde",
+      "bundesland": "Schleswig-Holstein",
+      "bundesland_slug": "schleswig-holstein",
+      "plz_count": 70,
+      "ort_count": 165
+    },
+    {
+      "name": "Kreis Schleswig-Flensburg",
+      "slug": "kreis-schleswig-flensburg",
+      "bundesland": "Schleswig-Holstein",
+      "bundesland_slug": "schleswig-holstein",
+      "plz_count": 66,
+      "ort_count": 123
+    },
+    {
+      "name": "Kreis Segeberg",
+      "slug": "kreis-segeberg",
+      "bundesland": "Schleswig-Holstein",
+      "bundesland_slug": "schleswig-holstein",
+      "plz_count": 45,
+      "ort_count": 95
+    },
+    {
+      "name": "Kreis Steinburg",
+      "slug": "kreis-steinburg",
+      "bundesland": "Schleswig-Holstein",
+      "bundesland_slug": "schleswig-holstein",
+      "plz_count": 34,
+      "ort_count": 111
+    },
+    {
+      "name": "Kreis Stormarn",
+      "slug": "kreis-stormarn",
+      "bundesland": "Schleswig-Holstein",
+      "bundesland_slug": "schleswig-holstein",
+      "plz_count": 30,
+      "ort_count": 55
+    },
+    {
+      "name": "Ilm-Kreis",
+      "slug": "ilm-kreis",
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "plz_count": 10,
+      "ort_count": 16
+    },
+    {
+      "name": "Kyffhäuserkreis",
+      "slug": "kyffhaeuserkreis",
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "plz_count": 8,
+      "ort_count": 28
+    },
+    {
+      "name": "Landkreis Altenburger Land",
+      "slug": "landkreis-altenburger-land",
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "plz_count": 8,
+      "ort_count": 30
+    },
+    {
+      "name": "Landkreis Eichsfeld",
+      "slug": "landkreis-eichsfeld",
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "plz_count": 8,
+      "ort_count": 68
+    },
+    {
+      "name": "Landkreis Gotha",
+      "slug": "landkreis-gotha",
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "plz_count": 11,
+      "ort_count": 30
+    },
+    {
+      "name": "Landkreis Greiz",
+      "slug": "landkreis-greiz",
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "plz_count": 14,
+      "ort_count": 43
+    },
+    {
+      "name": "Landkreis Hildburghausen",
+      "slug": "landkreis-hildburghausen",
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "plz_count": 10,
+      "ort_count": 32
+    },
+    {
+      "name": "Landkreis Nordhausen",
+      "slug": "landkreis-nordhausen",
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "plz_count": 7,
+      "ort_count": 15
+    },
+    {
+      "name": "Landkreis Saalfeld-Rudolstadt",
+      "slug": "landkreis-saalfeld-rudolstadt",
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "plz_count": 13,
+      "ort_count": 26
+    },
+    {
+      "name": "Landkreis Schmalkalden-Meiningen",
+      "slug": "landkreis-schmalkalden-meiningen",
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "plz_count": 15,
+      "ort_count": 39
+    },
+    {
+      "name": "Landkreis Sonneberg",
+      "slug": "landkreis-sonneberg",
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "plz_count": 6,
+      "ort_count": 8
+    },
+    {
+      "name": "Landkreis Sömmerda",
+      "slug": "landkreis-soemmerda",
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "plz_count": 10,
+      "ort_count": 37
+    },
+    {
+      "name": "Landkreis Weimarer Land",
+      "slug": "landkreis-weimarer-land",
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "plz_count": 9,
+      "ort_count": 38
+    },
+    {
+      "name": "Saale-Holzland-Kreis",
+      "slug": "saale-holzland-kreis",
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "plz_count": 11,
+      "ort_count": 91
+    },
+    {
+      "name": "Saale-Orla-Kreis",
+      "slug": "saale-orla-kreis",
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "plz_count": 16,
+      "ort_count": 59
+    },
+    {
+      "name": "Unstrut-Hainich-Kreis",
+      "slug": "unstrut-hainich-kreis",
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "plz_count": 11,
+      "ort_count": 27
+    },
+    {
+      "name": "Wartburgkreis",
+      "slug": "wartburgkreis",
+      "bundesland": "Thüringen",
+      "bundesland_slug": "thueringen",
+      "plz_count": 21,
+      "ort_count": 31
+    }
+  ],
+  "meta": {
+    "title": "Landkreise Deutschland - Kostenloser Download",
+    "description": "Vollständige Liste der 294 Landkreise Deutschlands (inklusive kreisfreie Städte tragen kein landkreis-Eintrag in der Quelle und werden nicht in dieser Liste geführt; siehe is_kreisfrei-Flag in de-postleitzahlen). Pro Landkreis: Name, Bundesland, abgeleitete PLZ- und Orts-Zähler. Enthält 294 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Landkreise Deutschland | ListBase",
+    "seo_description": "Herunterladen Landkreise Deutschland — 294 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 294 Datensätze / 6 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

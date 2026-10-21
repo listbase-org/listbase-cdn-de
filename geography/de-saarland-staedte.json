@@ -1,0 +1,346 @@
+{
+  "id": "de-saarland-staedte",
+  "name": "Städte und Gemeinden — Saarland",
+  "title": "Städte und Gemeinden — Saarland",
+  "description": "17 Städte und Gemeinden in Saarland (DE-SL). Mit Landkreis, Einwohnerzahl, Fläche (km^2) und Koordinaten. Quelle: Wikipedia List of cities and towns in Germany via pensnarik/german-cities (CC0).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_de",
+      "label": "Name De",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_en",
+      "label": "Bundesland En",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_iso",
+      "label": "Bundesland Iso",
+      "type": "string"
+    },
+    {
+      "key": "landkreis",
+      "label": "Landkreis",
+      "type": "string"
+    },
+    {
+      "key": "is_kreisfrei",
+      "label": "Is Kreisfrei",
+      "type": "boolean"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bexbach",
+      "name_de": "Bexbach",
+      "slug": "bexbach",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "bundesland_slug": "saarland",
+      "bundesland_iso": "DE-SL",
+      "landkreis": "Saarpfalz",
+      "is_kreisfrei": false,
+      "population": 17565,
+      "area_km2": 31.08,
+      "lat": 49.34944,
+      "lon": 7.25944
+    },
+    {
+      "name": "Blieskastel",
+      "name_de": "Blieskastel",
+      "slug": "blieskastel",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "bundesland_slug": "saarland",
+      "bundesland_iso": "DE-SL",
+      "landkreis": "Saarpfalz",
+      "is_kreisfrei": false,
+      "population": 20287,
+      "area_km2": 108.27,
+      "lat": 49.23306,
+      "lon": 7.25
+    },
+    {
+      "name": "Dillingen",
+      "name_de": "Dillingen",
+      "slug": "dillingen",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "bundesland_slug": "saarland",
+      "bundesland_iso": "DE-SL",
+      "landkreis": "Saarlouis",
+      "is_kreisfrei": false,
+      "population": 19801,
+      "area_km2": 22.07,
+      "lat": 49.35,
+      "lon": 6.733
+    },
+    {
+      "name": "Friedrichsthal",
+      "name_de": "Friedrichsthal",
+      "slug": "friedrichsthal",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "bundesland_slug": "saarland",
+      "bundesland_iso": "DE-SL",
+      "landkreis": "Saarbrücken",
+      "is_kreisfrei": false,
+      "population": 9999,
+      "area_km2": 9.07,
+      "lat": 49.32556,
+      "lon": 7.09611
+    },
+    {
+      "name": "Homburg",
+      "name_de": "Homburg",
+      "slug": "homburg",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "bundesland_slug": "saarland",
+      "bundesland_iso": "DE-SL",
+      "landkreis": "Saarpfalz",
+      "is_kreisfrei": false,
+      "population": 41790,
+      "area_km2": 82.65,
+      "lat": 49.317,
+      "lon": 7.333
+    },
+    {
+      "name": "Lebach",
+      "name_de": "Lebach",
+      "slug": "lebach",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "bundesland_slug": "saarland",
+      "bundesland_iso": "DE-SL",
+      "landkreis": "Saarlouis",
+      "is_kreisfrei": false,
+      "population": 18828,
+      "area_km2": 64.15,
+      "lat": 49.41,
+      "lon": 6.91
+    },
+    {
+      "name": "Merzig",
+      "name_de": "Merzig",
+      "slug": "merzig",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "bundesland_slug": "saarland",
+      "bundesland_iso": "DE-SL",
+      "landkreis": "Merzig-Wadern",
+      "is_kreisfrei": false,
+      "population": 29700,
+      "area_km2": 108.79,
+      "lat": 49.45,
+      "lon": 6.617
+    },
+    {
+      "name": "Neunkirchen",
+      "name_de": "Neunkirchen",
+      "slug": "neunkirchen",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "bundesland_slug": "saarland",
+      "bundesland_iso": "DE-SL",
+      "landkreis": "Neunkirchen",
+      "is_kreisfrei": false,
+      "population": 46037,
+      "area_km2": 75.08,
+      "lat": 49.35,
+      "lon": 7.167
+    },
+    {
+      "name": "Ottweiler",
+      "name_de": "Ottweiler",
+      "slug": "ottweiler",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "bundesland_slug": "saarland",
+      "bundesland_iso": "DE-SL",
+      "landkreis": "Neunkirchen",
+      "is_kreisfrei": false,
+      "population": 14352,
+      "area_km2": 45.51,
+      "lat": 49.367,
+      "lon": 7.167
+    },
+    {
+      "name": "Püttlingen",
+      "name_de": "Püttlingen",
+      "slug": "puettlingen",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "bundesland_slug": "saarland",
+      "bundesland_iso": "DE-SL",
+      "landkreis": "Saarbrücken",
+      "is_kreisfrei": false,
+      "population": 18318,
+      "area_km2": 23.94,
+      "lat": 49.283,
+      "lon": 6.883
+    },
+    {
+      "name": "Saarbrücken",
+      "name_de": "Saarbrücken",
+      "slug": "saarbruecken",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "bundesland_slug": "saarland",
+      "bundesland_iso": "DE-SL",
+      "landkreis": "Saarbrücken",
+      "is_kreisfrei": false,
+      "population": 179349,
+      "area_km2": 167.07,
+      "lat": 49.233,
+      "lon": 7
+    },
+    {
+      "name": "Saarlouis",
+      "name_de": "Saarlouis",
+      "slug": "saarlouis",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "bundesland_slug": "saarland",
+      "bundesland_iso": "DE-SL",
+      "landkreis": "Saarlouis",
+      "is_kreisfrei": false,
+      "population": 34409,
+      "area_km2": 43.27,
+      "lat": 49.31667,
+      "lon": 6.75
+    },
+    {
+      "name": "Sankt Ingbert",
+      "name_de": "Sankt Ingbert",
+      "slug": "sankt-ingbert",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "bundesland_slug": "saarland",
+      "bundesland_iso": "DE-SL",
+      "landkreis": "Saarpfalz-Kreis",
+      "is_kreisfrei": false,
+      "population": 35213,
+      "area_km2": 49.95,
+      "lat": 49.3,
+      "lon": 7.117
+    },
+    {
+      "name": "Sankt Wendel",
+      "name_de": "Sankt Wendel",
+      "slug": "sankt-wendel",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "bundesland_slug": "saarland",
+      "bundesland_iso": "DE-SL",
+      "landkreis": "Sankt Wendel",
+      "is_kreisfrei": false,
+      "population": 25438,
+      "area_km2": 113.54,
+      "lat": 49.467,
+      "lon": 7.167
+    },
+    {
+      "name": "Sulzbach",
+      "name_de": "Sulzbach",
+      "slug": "sulzbach",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "bundesland_slug": "saarland",
+      "bundesland_iso": "DE-SL",
+      "landkreis": "Saarbrücken",
+      "is_kreisfrei": false,
+      "population": 16343,
+      "area_km2": 16.12,
+      "lat": 49.283,
+      "lon": 7.067
+    },
+    {
+      "name": "Völklingen",
+      "name_de": "Völklingen",
+      "slug": "voelklingen",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "bundesland_slug": "saarland",
+      "bundesland_iso": "DE-SL",
+      "landkreis": "Saarbrücken",
+      "is_kreisfrei": false,
+      "population": 39412,
+      "area_km2": 67.06,
+      "lat": 49.25,
+      "lon": 6.833
+    },
+    {
+      "name": "Wadern",
+      "name_de": "Wadern",
+      "slug": "wadern",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "bundesland_slug": "saarland",
+      "bundesland_iso": "DE-SL",
+      "landkreis": "Merzig-Wadern",
+      "is_kreisfrei": false,
+      "population": 15667,
+      "area_km2": 111.17,
+      "lat": 49.517,
+      "lon": 6.867
+    }
+  ],
+  "meta": {
+    "title": "Städte und Gemeinden — Saarland - Kostenloser Download",
+    "description": "17 Städte und Gemeinden in Saarland (DE-SL). Mit Landkreis, Einwohnerzahl, Fläche (km^2) und Koordinaten. Quelle: Wikipedia List of cities and towns in Germany via pensnarik/german-cities (CC0). Enthält 17 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Städte und Gemeinden — Saarland | ListBase",
+    "seo_description": "Herunterladen Städte und Gemeinden — Saarland — 17 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 17 Datensätze / 13 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

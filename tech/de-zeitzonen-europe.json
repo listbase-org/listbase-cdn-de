@@ -1,0 +1,256 @@
+{
+  "id": "de-zeitzonen-europe",
+  "name": "Zeitzonen — Europe (25)",
+  "title": "Zeitzonen — Europe (25)",
+  "description": "Zeitzonen, deren IANA-Identifikator mit 'Europe/' beginnt, mit Namen auf Deutsch.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "stadt",
+      "label": "Stadt",
+      "type": "string"
+    },
+    {
+      "key": "standardname",
+      "label": "Standardname",
+      "type": "string"
+    },
+    {
+      "key": "sommername",
+      "label": "Sommername",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Europe/Astrakhan",
+      "region": "Europe",
+      "stadt": "Astrachan",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Europe/Athens",
+      "region": "Europe",
+      "stadt": "Athen",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Europe/Belgrade",
+      "region": "Europe",
+      "stadt": "Belgrad",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Europe/Brussels",
+      "region": "Europe",
+      "stadt": "Brüssel",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Europe/Bucharest",
+      "region": "Europe",
+      "stadt": "Bukarest",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Europe/Busingen",
+      "region": "Europe",
+      "stadt": "Büsingen",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Europe/Chisinau",
+      "region": "Europe",
+      "stadt": "Chișinău",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Europe/Copenhagen",
+      "region": "Europe",
+      "stadt": "Kopenhagen",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Europe/Dublin",
+      "region": "Europe",
+      "stadt": "",
+      "standardname": "",
+      "sommername": "Irische Sommerzeit"
+    },
+    {
+      "id": 10,
+      "tz_id": "Europe/Kiev",
+      "region": "Europe",
+      "stadt": "Kiew",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Europe/Kirov",
+      "region": "Europe",
+      "stadt": "Kirow",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Europe/Lisbon",
+      "region": "Europe",
+      "stadt": "Lissabon",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Europe/London",
+      "region": "Europe",
+      "stadt": "",
+      "standardname": "",
+      "sommername": "Britische Sommerzeit"
+    },
+    {
+      "id": 14,
+      "tz_id": "Europe/Luxembourg",
+      "region": "Europe",
+      "stadt": "Luxemburg",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Europe/Moscow",
+      "region": "Europe",
+      "stadt": "Moskau",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Europe/Prague",
+      "region": "Europe",
+      "stadt": "Prag",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Europe/Rome",
+      "region": "Europe",
+      "stadt": "Rom",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Europe/Saratov",
+      "region": "Europe",
+      "stadt": "Saratow",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Europe/Tirane",
+      "region": "Europe",
+      "stadt": "Tirana",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Europe/Ulyanovsk",
+      "region": "Europe",
+      "stadt": "Uljanowsk",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Europe/Vatican",
+      "region": "Europe",
+      "stadt": "Vatikan",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Europe/Vienna",
+      "region": "Europe",
+      "stadt": "Wien",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Europe/Volgograd",
+      "region": "Europe",
+      "stadt": "Wolgograd",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Europe/Warsaw",
+      "region": "Europe",
+      "stadt": "Warschau",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Europe/Zurich",
+      "region": "Europe",
+      "stadt": "Zürich",
+      "standardname": "",
+      "sommername": ""
+    }
+  ],
+  "meta": {
+    "title": "Zeitzonen — Europe (25) - Kostenloser Download",
+    "description": "Zeitzonen, deren IANA-Identifikator mit 'Europe/' beginnt, mit Namen auf Deutsch. Enthält 25 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Zeitzonen — Europe (25) | ListBase",
+    "seo_description": "Herunterladen Zeitzonen — Europe (25) — 25 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 25 Datensätze / 6 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

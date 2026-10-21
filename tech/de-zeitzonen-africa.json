@@ -1,0 +1,168 @@
+{
+  "id": "de-zeitzonen-africa",
+  "name": "Zeitzonen — Africa (14)",
+  "title": "Zeitzonen — Africa (14)",
+  "description": "Zeitzonen, deren IANA-Identifikator mit 'Africa/' beginnt, mit Namen auf Deutsch.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "stadt",
+      "label": "Stadt",
+      "type": "string"
+    },
+    {
+      "key": "standardname",
+      "label": "Standardname",
+      "type": "string"
+    },
+    {
+      "key": "sommername",
+      "label": "Sommername",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Africa/Addis_Ababa",
+      "region": "Africa",
+      "stadt": "Addis Abeba",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Africa/Algiers",
+      "region": "Africa",
+      "stadt": "Algier",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Africa/Asmera",
+      "region": "Africa",
+      "stadt": "Asmara",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Africa/Cairo",
+      "region": "Africa",
+      "stadt": "Kairo",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Africa/Dar_es_Salaam",
+      "region": "Africa",
+      "stadt": "Daressalam",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Africa/Djibouti",
+      "region": "Africa",
+      "stadt": "Dschibuti",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Africa/El_Aaiun",
+      "region": "Africa",
+      "stadt": "El Aaiún",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Africa/Khartoum",
+      "region": "Africa",
+      "stadt": "Khartum",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Africa/Lome",
+      "region": "Africa",
+      "stadt": "Lomé",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Africa/Mogadishu",
+      "region": "Africa",
+      "stadt": "Mogadischu",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Africa/Ndjamena",
+      "region": "Africa",
+      "stadt": "N’Djamena",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Africa/Porto-Novo",
+      "region": "Africa",
+      "stadt": "Porto Novo",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Africa/Sao_Tome",
+      "region": "Africa",
+      "stadt": "São Tomé",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Africa/Tripoli",
+      "region": "Africa",
+      "stadt": "Tripolis",
+      "standardname": "",
+      "sommername": ""
+    }
+  ],
+  "meta": {
+    "title": "Zeitzonen — Africa (14) - Kostenloser Download",
+    "description": "Zeitzonen, deren IANA-Identifikator mit 'Africa/' beginnt, mit Namen auf Deutsch. Enthält 14 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Zeitzonen — Africa (14) | ListBase",
+    "seo_description": "Herunterladen Zeitzonen — Africa (14) — 14 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 14 Datensätze / 6 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

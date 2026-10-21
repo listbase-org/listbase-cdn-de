@@ -1,0 +1,166 @@
+{
+  "id": "de-tv-sender-parlament",
+  "name": "Parlamentssender (Legislative TV channels)",
+  "title": "Parlamentssender (Legislative TV channels)",
+  "description": "Deutsche Fernsehsender der Kategorie \"legislative\" (Parlament) — 5 Sender aus dem offenen Register iptv-org/database. Enthält Sendername, alternative Namen, Netzwerk, Eigentümer, Kategorien, Start- und Einstellungsdatum sowie Webseite.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "string"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "LandtagBW.de",
+      "name": "Landtag BW",
+      "alt_names": "Landtag of Baden-Wurttemberg",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.landtag-bw.de/cms/home/mediathek/landtag-live.html"
+    },
+    {
+      "id": 2,
+      "channel_id": "Parlamentsfernsehen1.de",
+      "name": "Parlamentsfernsehen 1",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.bundestag.de/parlamentsfernsehen"
+    },
+    {
+      "id": 3,
+      "channel_id": "Parlamentsfernsehen2.de",
+      "name": "Parlamentsfernsehen 2",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 4,
+      "channel_id": "Parlamentsfernsehen3.de",
+      "name": "Parlamentsfernsehen 3",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 5,
+      "channel_id": "Parlamentsfernsehen4.de",
+      "name": "Parlamentsfernsehen 4",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Parlamentssender (Legislative TV channels) - Kostenloser Download",
+    "description": "Deutsche Fernsehsender der Kategorie \"legislative\" (Parlament) — 5 Sender aus dem offenen Register iptv-org/database. Enthält Sendername, alternative Namen, Netzwerk, Eigentümer, Kategorien, Start- und Einstellungsdatum sowie Webseite. Enthält 5 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Parlamentssender (Legislative TV channels) | ListBase",
+    "seo_description": "Herunterladen Parlamentssender (Legislative TV channels) — 5 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 5 Datensätze / 13 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

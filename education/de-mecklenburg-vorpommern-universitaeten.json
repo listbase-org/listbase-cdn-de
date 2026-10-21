@@ -1,0 +1,208 @@
+{
+  "id": "de-mecklenburg-vorpommern-universitaeten",
+  "name": "Mecklenburg-Vorpommern — Universitäten und Hochschulen",
+  "title": "Mecklenburg-Vorpommern — Universitäten und Hochschulen",
+  "description": "Higher-education institutions with at least one campus in the German Bundesland Mecklenburg-Vorpommern (Mecklenburg-Vorpommern, ISO 3166-2 code DE-MV). Includes institution type, sponsor, doctoral rights, all campus locations, and reported student counts. Sourced from corona-school/universities-info-germany.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "uuid",
+      "label": "Uuid",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "nicknames",
+      "label": "Nicknames",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "type_de",
+      "label": "Type De",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "sponsor",
+      "label": "Sponsor",
+      "type": "string"
+    },
+    {
+      "key": "sponsor_de",
+      "label": "Sponsor De",
+      "type": "string"
+    },
+    {
+      "key": "sponsor_en",
+      "label": "Sponsor En",
+      "type": "string"
+    },
+    {
+      "key": "doctorate",
+      "label": "Doctorate",
+      "type": "boolean"
+    },
+    {
+      "key": "locations",
+      "label": "Locations",
+      "type": "string"
+    },
+    {
+      "key": "states",
+      "label": "States",
+      "type": "string"
+    },
+    {
+      "key": "student_count",
+      "label": "Student Count",
+      "type": "number"
+    },
+    {
+      "key": "student_count_date",
+      "label": "Student Count Date",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "uuid": "07b759cc-f899-4ab3-b57b-73d066851b24",
+      "name": "Fachhochschule für öffentliche Verwaltung, Polizei und Rechtspflege",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "Güstrow: MV: Mecklenburg-Vorpommern: Mecklenburg-Vorpommern",
+      "states": "MV",
+      "student_count": 466,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "6310c91b-ba0a-4951-8c3a-400122f8503f",
+      "name": "Hochschule für Musik und Theater Rostock",
+      "nicknames": "",
+      "type": "Uni",
+      "type_de": "Universität",
+      "type_en": "University",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": true,
+      "locations": "MV: Mecklenburg-Vorpommern: Mecklenburg-Vorpommern",
+      "states": "MV",
+      "student_count": 555,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "c7cb20b8-a6d2-41fd-b9b2-4de2bb01135f",
+      "name": "Hochschule Neubrandenburg",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "MV: Mecklenburg-Vorpommern: Mecklenburg-Vorpommern",
+      "states": "MV",
+      "student_count": 2086,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "1252b641-52bb-42a6-a9c2-ea9674492d2d",
+      "name": "Hochschule Stralsund",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "MV: Mecklenburg-Vorpommern: Mecklenburg-Vorpommern",
+      "states": "MV",
+      "student_count": 2453,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "1252cec7-0850-4047-b02d-54a7031eb6c3",
+      "name": "Hochschule Wismar",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "MV: Mecklenburg-Vorpommern: Mecklenburg-Vorpommern",
+      "states": "MV",
+      "student_count": 7379,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "77289be6-919f-4297-8275-a08c0489a8ef",
+      "name": "Universität Greifswald",
+      "nicknames": "",
+      "type": "Uni",
+      "type_de": "Universität",
+      "type_en": "University",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": true,
+      "locations": "MV: Mecklenburg-Vorpommern: Mecklenburg-Vorpommern",
+      "states": "MV",
+      "student_count": 10058,
+      "student_count_date": "2019/20 (WS)"
+    },
+    {
+      "uuid": "75b6c689-c362-46a1-9fca-bdbac33b5f25",
+      "name": "Universität Rostock",
+      "nicknames": "",
+      "type": "Uni",
+      "type_de": "Universität",
+      "type_en": "University",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": true,
+      "locations": "MV: Mecklenburg-Vorpommern: Mecklenburg-Vorpommern",
+      "states": "MV",
+      "student_count": 12994,
+      "student_count_date": "2019/20 (WS)"
+    }
+  ],
+  "meta": {
+    "title": "Mecklenburg-Vorpommern — Universitäten und Hochschulen - Kostenloser Download",
+    "description": "Higher-education institutions with at least one campus in the German Bundesland Mecklenburg-Vorpommern (Mecklenburg-Vorpommern, ISO 3166-2 code DE-MV). Includes institution type, sponsor, doctoral rights, all campus locations, and reported student counts. Sourced from corona-school/universities-info-germany. Enthält 7 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Mecklenburg-Vorpommern — Universitäten und Hochschulen | ListBase",
+    "seo_description": "Herunterladen Mecklenburg-Vorpommern — Universitäten und Hochschulen — 7 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 7 Datensätze / 14 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

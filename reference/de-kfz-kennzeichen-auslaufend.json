@@ -1,0 +1,406 @@
+{
+  "id": "de-kfz-kennzeichen-auslaufend",
+  "name": "Auslaufende Kfz-Kennzeichen Deutschland — historische Unterscheidungszeichen",
+  "title": "Auslaufende Kfz-Kennzeichen Deutschland — historische Unterscheidungszeichen",
+  "description": "Liste der nicht mehr neu zugeteilten (auslaufenden) deutschen Unterscheidungszeichen mit der heute zuständigen Zulassungsbehörde für die Abwicklung. Quelle: openpotato/kfz-kennzeichen (src/de/kennzeichen.auslaufend.csv).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "unterscheidungszeichen",
+      "label": "Unterscheidungszeichen",
+      "type": "string"
+    },
+    {
+      "key": "bisheriger_verwaltungsbezirk_oder_kreis",
+      "label": "Bisheriger Verwaltungsbezirk Oder Kreis",
+      "type": "string"
+    },
+    {
+      "key": "abwicklung",
+      "label": "Abwicklung",
+      "type": "string"
+    },
+    {
+      "key": "nationalitaetszeichen",
+      "label": "Nationalitaetszeichen",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unterscheidungszeichen": "L",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Lahn-Dill-Kreis in Wetzlar",
+      "abwicklung": "Zulassungsbehörde des Kreises Gießen und Lahn-Dill-Kreis",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "AL",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Altena",
+      "abwicklung": "Zulassungsbehörde des Kreises Märkischer Kreis",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "AR",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Arnsberg",
+      "abwicklung": "Zulassungsbehörde des Kreises Hochsauerlandkreis",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "BR",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Bruchsal",
+      "abwicklung": "Zulassungsbehörde des Kreises Karlsruhe",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "BU",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Burgdorf",
+      "abwicklung": "Zulassungsbehörde des Kreises Region Hannover",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "DT",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Lippe in Detmold",
+      "abwicklung": "Zulassungsbehörde des Kreises Lippe",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "FH",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Main-Taunus-Kreis in Frankfurt Main-Höchst",
+      "abwicklung": "Zulassungsbehörde des Kreises Main-Taunus-Kreis",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "HW",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Halle",
+      "abwicklung": "Zulassungsbehörde des Kreises Gütersloh",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "HZ",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Herzberg",
+      "abwicklung": "Zulassungsbehörde des Kreises Elbe-Elster",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "IS",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Iserlohn",
+      "abwicklung": "Zulassungsbehörde des Kreises Märkischer Kreis",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "LE",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Lemgo",
+      "abwicklung": "Zulassungsbehörde des Kreises Lippe",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "LK",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Lübbecke",
+      "abwicklung": "Zulassungsbehörde des Kreises Minden-Lübbecke",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "LS",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Märkischer Kreis in Lüdenscheid",
+      "abwicklung": "Zulassungsbehörde des Kreises Märkischer Kreis",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "MT",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Montabaur",
+      "abwicklung": "Zulassungsbehörde des Kreises Westerwald",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "OR",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Oranienburg",
+      "abwicklung": "Zulassungsbehörde des Kreises Oberhavel",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "PK",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Pritzwalk",
+      "abwicklung": "Zulassungsbehörde des Kreises Prignitz",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "RY",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Rheydt",
+      "abwicklung": "Zulassungsbehörde des Kreises Stadt Mönchengladbach",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "SF",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Oberallgäu",
+      "abwicklung": "Zulassungsbehörde des Kreises Oberallgäu",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "VL",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Villingen Schwarzwald",
+      "abwicklung": "Zulassungsbehörde des Kreises Schwarzwald-Baar-Kreis",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "WD",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Wiedenbrück",
+      "abwicklung": "Zulassungsbehörde des Kreises Gütersloh",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "ALS",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Vogelsbergkreis in Alsfeld Oberhessen",
+      "abwicklung": "Zulassungsbehörde des Kreises Vogelsbergkreis",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "ASD",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Aschendorf-Hümmling in Papenburg-Aschendorf",
+      "abwicklung": "Zulassungsbehörde des Kreises Emsland",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "BEI",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Beilngries",
+      "abwicklung": "Zulassungsbehörde des Kreises Eichstätt",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "BEL",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Belzig",
+      "abwicklung": "Zulassungsbehörde des Kreises Potsdam-Mittelmark",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "BRI",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Brilon",
+      "abwicklung": "Zulassungsbehörde des Kreises Hochsauerlandkreis",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "BZA",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Bergzabern",
+      "abwicklung": "Zulassungsbehörde des Kreises Südliche Weinstraße",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "EHI",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Ehingen Donau",
+      "abwicklung": "Zulassungsbehörde des Kreises Alb-Donau-Kreis",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "EIH",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Eichstätt",
+      "abwicklung": "Zulassungsbehörde des Kreises Eichstätt",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "ESA",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Eisenach",
+      "abwicklung": "Zulassungsbehörde des Kreises Wartburgkreis",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "EUT",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Eutin",
+      "abwicklung": "Zulassungsbehörde des Kreises Ostholstein",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "FAL",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Fallingbostel",
+      "abwicklung": "Zulassungsbehörde des Kreises Heidekreis",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "GEM",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Gemünden am Main",
+      "abwicklung": "Zulassungsbehörde des Kreises Main-Spessart",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "GRS",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Gransee",
+      "abwicklung": "Zulassungsbehörde des Kreises Oberhavel",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "HUS",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Husum",
+      "abwicklung": "Zulassungsbehörde des Kreises Nordfriesland",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "HÜN",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "",
+      "abwicklung": "Zulassungsbehörde des Kreises Fulda",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "JEV",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Friesland in Jever",
+      "abwicklung": "Zulassungsbehörde des Kreises Friesland",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "KAR",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Main-Spessart in Karlstadt",
+      "abwicklung": "Zulassungsbehörde des Kreises Main-Spessart",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "LAT",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Vogelsbergkreis in Lauterbach Hessen",
+      "abwicklung": "Zulassungsbehörde des Kreises Vogelsbergkreis",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "LIN",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Lingen in Lingen (Ems)",
+      "abwicklung": "Zulassungsbehörde des Kreises Emsland",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "LOH",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Lohr am Main",
+      "abwicklung": "Zulassungsbehörde des Kreises Main-Spessart",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "LÜD",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Lüdenscheid",
+      "abwicklung": "Zulassungsbehörde des Kreises Märkischer Kreis",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "MAR",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Marktheidenfeld",
+      "abwicklung": "Zulassungsbehörde des Kreises Main-Spessart",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "MEP",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Meppen",
+      "abwicklung": "Zulassungsbehörde des Kreises Emsland",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "MES",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Hochsauerlandkreis in Meschede",
+      "abwicklung": "Zulassungsbehörde des Kreises Hochsauerlandkreis",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "MÜN",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Münsingen Württemberg",
+      "abwicklung": "Zulassungsbehörde des Kreises Reutlingen",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "NIB",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Südtondern in Niebüll Schleswig",
+      "abwicklung": "Zulassungsbehörde des Kreises Nordfriesland",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "NRÜ",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Neustadt am Rübenberge",
+      "abwicklung": "Zulassungsbehörde des Kreises Region Hannover",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "OLD",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Oldenburg/Holstein",
+      "abwicklung": "Zulassungsbehörde des Kreises Ostholstein",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "OTT",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Land Hadeln in Otterndorf",
+      "abwicklung": "Zulassungsbehörde des Kreises Cuxhaven",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "PER",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Perleberg",
+      "abwicklung": "Zulassungsbehörde des Kreises Prignitz",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "SFA",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Soltau-Fallingbostel",
+      "abwicklung": "Zulassungsbehörde des Kreises Heidekreis",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "SNH",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Sinsheim Elsenz",
+      "abwicklung": "Zulassungsbehörde des Kreises Rhein-Neckar-Kreis",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "SOL",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Soltau",
+      "abwicklung": "Zulassungsbehörde des Kreises Heidekreis",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "SPR",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Springe",
+      "abwicklung": "Zulassungsbehörde des Kreises Region Hannover",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "STH",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Schaumburg-Lippe in Stadthagen",
+      "abwicklung": "Zulassungsbehörde des Kreises Schaumburg",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "TÖN",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Eiderstedt in Tönning Nordseebad",
+      "abwicklung": "Zulassungsbehörde des Kreises Nordfriesland",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "VOF",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Vilshofen",
+      "abwicklung": "Zulassungsbehörde des Kreises Passau und Deggendorf",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "WEB",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Oberwesterwaldkreis in Westerburg Westerwald",
+      "abwicklung": "Zulassungsbehörde des Kreises Westerwald",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "WEG",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Wegscheid",
+      "abwicklung": "Zulassungsbehörde des Kreises Passau",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "WEM",
+      "bisheriger_verwaltungsbezirk_oder_kreis": "Wesermünde in Bremerhaven",
+      "abwicklung": "Zulassungsbehörde des Kreises Cuxhaven",
+      "nationalitaetszeichen": "D"
+    }
+  ],
+  "meta": {
+    "title": "Auslaufende Kfz-Kennzeichen Deutschland — historische Unterscheidungszeichen - Kostenloser Download",
+    "description": "Liste der nicht mehr neu zugeteilten (auslaufenden) deutschen Unterscheidungszeichen mit der heute zuständigen Zulassungsbehörde für die Abwicklung. Quelle: openpotato/kfz-kennzeichen (src/de/kennzeichen.auslaufend.csv). Enthält 60 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Auslaufende Kfz-Kennzeichen Deutschland — historische Unterscheidungszeichen | ListBase",
+    "seo_description": "Herunterladen Auslaufende Kfz-Kennzeichen Deutschland — historische Unterscheidungszeichen — 60 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 60 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

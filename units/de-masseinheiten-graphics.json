@@ -1,0 +1,133 @@
+{
+  "id": "de-masseinheiten-graphics",
+  "name": "Maßeinheiten — Kategorie 'graphics' (8)",
+  "title": "Maßeinheiten — Kategorie 'graphics' (8)",
+  "description": "Maßeinheiten der Kategorie 'graphics' aus der Locale de in CLDR, mit Namen auf Deutsch.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abkuerzung",
+      "label": "Abkuerzung",
+      "type": "string"
+    },
+    {
+      "key": "schmalform",
+      "label": "Schmalform",
+      "type": "string"
+    },
+    {
+      "key": "muster",
+      "label": "Muster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "graphics-dot",
+      "kategorie": "graphics",
+      "name": "Dots",
+      "abkuerzung": "Dots",
+      "schmalform": "d",
+      "muster": "{0} Dots"
+    },
+    {
+      "id": 2,
+      "unit_code": "graphics-dot-per-centimeter",
+      "kategorie": "graphics",
+      "name": "Dots pro Zentimeter",
+      "abkuerzung": "dpcm",
+      "schmalform": "dpcm",
+      "muster": "{0} Dots pro Zentimeter"
+    },
+    {
+      "id": 3,
+      "unit_code": "graphics-dot-per-inch",
+      "kategorie": "graphics",
+      "name": "Dots pro Inch",
+      "abkuerzung": "dpi",
+      "schmalform": "dpi",
+      "muster": "{0} Dots pro Inch"
+    },
+    {
+      "id": 4,
+      "unit_code": "graphics-em",
+      "kategorie": "graphics",
+      "name": "em",
+      "abkuerzung": "em",
+      "schmalform": "em",
+      "muster": "{0} em"
+    },
+    {
+      "id": 5,
+      "unit_code": "graphics-megapixel",
+      "kategorie": "graphics",
+      "name": "Megapixel",
+      "abkuerzung": "MP",
+      "schmalform": "MP",
+      "muster": "{0} Megapixel"
+    },
+    {
+      "id": 6,
+      "unit_code": "graphics-pixel",
+      "kategorie": "graphics",
+      "name": "Pixel",
+      "abkuerzung": "px",
+      "schmalform": "px",
+      "muster": "{0} Pixel"
+    },
+    {
+      "id": 7,
+      "unit_code": "graphics-pixel-per-centimeter",
+      "kategorie": "graphics",
+      "name": "Pixel pro Zentimeter",
+      "abkuerzung": "ppcm",
+      "schmalform": "ppcm",
+      "muster": "{0} Pixel pro Zentimeter"
+    },
+    {
+      "id": 8,
+      "unit_code": "graphics-pixel-per-inch",
+      "kategorie": "graphics",
+      "name": "Pixel pro Inch",
+      "abkuerzung": "ppi",
+      "schmalform": "ppi",
+      "muster": "{0} Pixel pro Inch"
+    }
+  ],
+  "meta": {
+    "title": "Maßeinheiten — Kategorie 'graphics' (8) - Kostenloser Download",
+    "description": "Maßeinheiten der Kategorie 'graphics' aus der Locale de in CLDR, mit Namen auf Deutsch. Enthält 8 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Maßeinheiten — Kategorie 'graphics' (8) | ListBase",
+    "seo_description": "Herunterladen Maßeinheiten — Kategorie 'graphics' (8) — 8 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 8 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

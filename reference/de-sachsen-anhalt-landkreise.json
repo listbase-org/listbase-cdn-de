@@ -1,0 +1,144 @@
+{
+  "id": "de-sachsen-anhalt-landkreise",
+  "name": "Landkreise — Sachsen-Anhalt",
+  "title": "Landkreise — Sachsen-Anhalt",
+  "description": "Landkreise im Bundesland Sachsen-Anhalt (11 Landkreise). Kreisfreie Städte sind in dieser Liste nicht enthalten und führen kein landkreis-Feld in der Quelle (Quelle: suche-postleitzahl.org / OSM).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "plz_count",
+      "label": "Plz Count",
+      "type": "number"
+    },
+    {
+      "key": "ort_count",
+      "label": "Ort Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Altmarkkreis Salzwedel",
+      "slug": "altmarkkreis-salzwedel",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 10,
+      "ort_count": 13
+    },
+    {
+      "name": "Burgenlandkreis",
+      "slug": "burgenlandkreis",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 18,
+      "ort_count": 33
+    },
+    {
+      "name": "Landkreis Anhalt-Bitterfeld",
+      "slug": "landkreis-anhalt-bitterfeld",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 19,
+      "ort_count": 10
+    },
+    {
+      "name": "Landkreis Börde",
+      "slug": "landkreis-boerde",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 17,
+      "ort_count": 34
+    },
+    {
+      "name": "Landkreis Harz",
+      "slug": "landkreis-harz",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 24,
+      "ort_count": 20
+    },
+    {
+      "name": "Landkreis Jerichower Land",
+      "slug": "landkreis-jerichower-land",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 9,
+      "ort_count": 8
+    },
+    {
+      "name": "Landkreis Mansfeld-Südharz",
+      "slug": "landkreis-mansfeld-suedharz",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 14,
+      "ort_count": 22
+    },
+    {
+      "name": "Landkreis Stendal",
+      "slug": "landkreis-stendal",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 12,
+      "ort_count": 25
+    },
+    {
+      "name": "Landkreis Wittenberg",
+      "slug": "landkreis-wittenberg",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 13,
+      "ort_count": 9
+    },
+    {
+      "name": "Saalekreis",
+      "slug": "saalekreis",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 17,
+      "ort_count": 20
+    },
+    {
+      "name": "Salzlandkreis",
+      "slug": "salzlandkreis",
+      "bundesland": "Sachsen-Anhalt",
+      "bundesland_slug": "sachsen-anhalt",
+      "plz_count": 22,
+      "ort_count": 21
+    }
+  ],
+  "meta": {
+    "title": "Landkreise — Sachsen-Anhalt - Kostenloser Download",
+    "description": "Landkreise im Bundesland Sachsen-Anhalt (11 Landkreise). Kreisfreie Städte sind in dieser Liste nicht enthalten und führen kein landkreis-Feld in der Quelle (Quelle: suche-postleitzahl.org / OSM). Enthält 11 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Landkreise — Sachsen-Anhalt | ListBase",
+    "seo_description": "Herunterladen Landkreise — Sachsen-Anhalt — 11 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 11 Datensätze / 6 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

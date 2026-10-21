@@ -1,0 +1,295 @@
+{
+  "id": "de-at-niederoesterreich-kfz-kennzeichen",
+  "name": "Kfz-Kennzeichen Niederösterreich (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke",
+  "title": "Kfz-Kennzeichen Niederösterreich (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke",
+  "description": "Alle in Niederösterreich (AT-3) gültigen österreichischen Unterscheidungszeichen mit Zulassungsbezirk und Zulassungsbehörde. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = AT-3).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "unterscheidungszeichen",
+      "label": "Unterscheidungszeichen",
+      "type": "string"
+    },
+    {
+      "key": "zulassungsbezirk",
+      "label": "Zulassungsbezirk",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_name",
+      "label": "Bundesland Name",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_iso_3166_2",
+      "label": "Bundesland Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "zulassungsbehoerde",
+      "label": "Zulassungsbehoerde",
+      "type": "string"
+    },
+    {
+      "key": "nationalitaetszeichen",
+      "label": "Nationalitaetszeichen",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unterscheidungszeichen": "P",
+      "zulassungsbezirk": "St. Pölten – Stadt",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "Landespolizeidirektion Niederösterreich für das Gebiet der Gemeinde St. Pölten",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "AM",
+      "zulassungsbezirk": "Amstetten",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Amstetten",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "BL",
+      "zulassungsbezirk": "Bruck an der Leitha",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Bruck an der Leitha",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "BN",
+      "zulassungsbezirk": "Baden",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Baden",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "GD",
+      "zulassungsbezirk": "Gmünd",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Gmünd",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "GF",
+      "zulassungsbezirk": "Gänserndorf",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Gänserndorf",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "HL",
+      "zulassungsbezirk": "Hollabrunn",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Hollabrunn",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "HO",
+      "zulassungsbezirk": "Horn",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Horn",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "KG",
+      "zulassungsbezirk": "Klosterneuburg",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Tulln für das Gebiet der Gemeinde Klosterneuburg (Außenstelle Klosterneuburg)",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "KO",
+      "zulassungsbezirk": "Korneuburg",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Korneuburg",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "KR",
+      "zulassungsbezirk": "Krems/Land",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Krems an der Donau",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "KS",
+      "zulassungsbezirk": "Krems an der Donau – Stadt",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "Magistrat Krems an der Donau",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "LF",
+      "zulassungsbezirk": "Lilienfeld",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Lilienfeld",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "MD",
+      "zulassungsbezirk": "Mödling",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Mödling",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "ME",
+      "zulassungsbezirk": "Melk",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Melk",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "MI",
+      "zulassungsbezirk": "Mistelbach",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Mistelbach",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "NK",
+      "zulassungsbezirk": "Neunkirchen",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Neunkirchen",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "PL",
+      "zulassungsbezirk": "St. Pölten/Land",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH St. Pölten",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "SB",
+      "zulassungsbezirk": "Scheibbs",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Scheibbs",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "SW",
+      "zulassungsbezirk": "Schwechat",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "Landespolizeidirektion Niederösterreich für das Gebiet der Gemeinde Schwechat und die im Gebiet der Gemeinden Fischamend, Klein-Neusiedl und Schwadorf gelegenen Teile des Flughafens Wien-Schwechat",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "TU",
+      "zulassungsbezirk": "Tulln",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Tulln",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "WB",
+      "zulassungsbezirk": "Wiener Neustadt/Land",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Wiener Neustadt",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "WN",
+      "zulassungsbezirk": "Wiener Neustadt – Stadt",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "Landespolizeidirektion Niederösterreich für das Gebiet der Gemeinde Wiener Neustadt",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "WT",
+      "zulassungsbezirk": "Waidhofen an der Thaya",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Waidhofen an der Thaya",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "WY",
+      "zulassungsbezirk": "Waidhofen an der Ybbs",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "Magistrat Waidhofen an der Ybbs",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "ZT",
+      "zulassungsbezirk": "Zwettl",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Zwettl",
+      "nationalitaetszeichen": "A"
+    }
+  ],
+  "meta": {
+    "title": "Kfz-Kennzeichen Niederösterreich (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke - Kostenloser Download",
+    "description": "Alle in Niederösterreich (AT-3) gültigen österreichischen Unterscheidungszeichen mit Zulassungsbezirk und Zulassungsbehörde. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = AT-3). Enthält 26 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Kfz-Kennzeichen Niederösterreich (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke | ListBase",
+    "seo_description": "Herunterladen Kfz-Kennzeichen Niederösterreich (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke — 26 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 26 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

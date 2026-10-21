@@ -1,0 +1,592 @@
+{
+  "id": "de-hessen-kfz-kennzeichen",
+  "name": "Kfz-Kennzeichen Hessen — Unterscheidungszeichen aller Kreise und Städte",
+  "title": "Kfz-Kennzeichen Hessen — Unterscheidungszeichen aller Kreise und Städte",
+  "description": "Alle in Hessen (ISO 3166-2 DE-HE) gültigen Unterscheidungszeichen mit Stadt/Landkreis, Herleitung und Fußnoten. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = DE-HE).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "unterscheidungszeichen",
+      "label": "Unterscheidungszeichen",
+      "type": "string"
+    },
+    {
+      "key": "stadt_oder_kreis",
+      "label": "Stadt Oder Kreis",
+      "type": "string"
+    },
+    {
+      "key": "herleitung",
+      "label": "Herleitung",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_name",
+      "label": "Bundesland Name",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_iso_3166_2",
+      "label": "Bundesland Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "nationalitaetszeichen",
+      "label": "Nationalitaetszeichen",
+      "type": "string"
+    },
+    {
+      "key": "fussnoten",
+      "label": "Fussnoten",
+      "type": "number"
+    },
+    {
+      "key": "fussnoten_text",
+      "label": "Fussnoten Text",
+      "type": "string"
+    },
+    {
+      "key": "bemerkung",
+      "label": "Bemerkung",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unterscheidungszeichen": "F",
+      "stadt_oder_kreis": "Frankfurt/Main, Stadt",
+      "herleitung": "Frankfurt",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "DA",
+      "stadt_oder_kreis": "Darmstadt",
+      "herleitung": "DArmstadt",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "2",
+      "fussnoten_text": "Stadt- und Landkreis führen das gleiche Unterscheidungszeichen. Die zuständige oberste Landesbehörde oder die nach Landesrecht zuständige Stelle stellt durch geeignete verwaltungsinterne Maßnahmen sicher, dass eine Doppelvergabe desselben Kennzeichens ausgeschlossen ist.",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "DI",
+      "stadt_oder_kreis": "Darmstadt-Dieburg",
+      "herleitung": "DIeburg",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "FB",
+      "stadt_oder_kreis": "Wetteraukreis in Friedberg Hessen",
+      "herleitung": "FriedBerg",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "FD",
+      "stadt_oder_kreis": "Fulda",
+      "herleitung": "FulDa",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "FZ",
+      "stadt_oder_kreis": "Schwalm-Eder-Kreis",
+      "herleitung": "FritZlar",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "GG",
+      "stadt_oder_kreis": "Groß-Gerau",
+      "herleitung": "Groß-Gerau",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "GI",
+      "stadt_oder_kreis": "Gießen",
+      "herleitung": "GIeßen",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "GN",
+      "stadt_oder_kreis": "Main-Kinzig-Kreis",
+      "herleitung": "GelnhauseN",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "HG",
+      "stadt_oder_kreis": "Hochtaunuskreis",
+      "herleitung": "HomburG",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "HP",
+      "stadt_oder_kreis": "Bergstraße",
+      "herleitung": "HepPenheim",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "HR",
+      "stadt_oder_kreis": "Schwalm-Eder-Kreis",
+      "herleitung": "HombeRg",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "HU",
+      "stadt_oder_kreis": "Hanau, Main-Kinzig-Kreis",
+      "herleitung": "HanaU",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "2",
+      "fussnoten_text": "Stadt- und Landkreis führen das gleiche Unterscheidungszeichen. Die zuständige oberste Landesbehörde oder die nach Landesrecht zuständige Stelle stellt durch geeignete verwaltungsinterne Maßnahmen sicher, dass eine Doppelvergabe desselben Kennzeichens ausgeschlossen ist.",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "KB",
+      "stadt_oder_kreis": "Waldeck-Frankenberg",
+      "herleitung": "KorBach",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "KS",
+      "stadt_oder_kreis": "Kassel",
+      "herleitung": "KasSel",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "2",
+      "fussnoten_text": "Stadt- und Landkreis führen das gleiche Unterscheidungszeichen. Die zuständige oberste Landesbehörde oder die nach Landesrecht zuständige Stelle stellt durch geeignete verwaltungsinterne Maßnahmen sicher, dass eine Doppelvergabe desselben Kennzeichens ausgeschlossen ist.",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "LM",
+      "stadt_oder_kreis": "Limburg-Weilburg",
+      "herleitung": "LiMburg",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "MR",
+      "stadt_oder_kreis": "Marburg-Biedenkopf",
+      "herleitung": "MaRburg",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "OF",
+      "stadt_oder_kreis": "Offenbach am Main",
+      "herleitung": "OFfenbach",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "2",
+      "fussnoten_text": "Stadt- und Landkreis führen das gleiche Unterscheidungszeichen. Die zuständige oberste Landesbehörde oder die nach Landesrecht zuständige Stelle stellt durch geeignete verwaltungsinterne Maßnahmen sicher, dass eine Doppelvergabe desselben Kennzeichens ausgeschlossen ist.",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "VB",
+      "stadt_oder_kreis": "Vogelsbergkreis",
+      "herleitung": "VogelsBerg",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "WA",
+      "stadt_oder_kreis": "Waldeck-Frankenberg",
+      "herleitung": "WAldeck",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "WI",
+      "stadt_oder_kreis": "Wiesbaden, Stadt",
+      "herleitung": "WIesbaden",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "WZ",
+      "stadt_oder_kreis": "Lahn-Dill-Kreis",
+      "herleitung": "WetZlar",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "BID",
+      "stadt_oder_kreis": "Marburg-Biedenkopf",
+      "herleitung": "BIeDenkopf",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "BÜD",
+      "stadt_oder_kreis": "Wetteraukreis",
+      "herleitung": "BÜDingen",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "DIL",
+      "stadt_oder_kreis": "Lahn-Dill-Kreis",
+      "herleitung": "DILlenburg",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "ERB",
+      "stadt_oder_kreis": "Odenwaldkreis",
+      "herleitung": "ERBach",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "ESW",
+      "stadt_oder_kreis": "Werra-Meißner-Kreis",
+      "herleitung": "ESchWege",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "FKB",
+      "stadt_oder_kreis": "Waldeck-Frankenberg",
+      "herleitung": "FranKenBerg",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "HEF",
+      "stadt_oder_kreis": "Hersfeld-Rotenburg",
+      "herleitung": "HErsFeld",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "HOG",
+      "stadt_oder_kreis": "Kassel",
+      "herleitung": "HOfGeismar",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "LDK",
+      "stadt_oder_kreis": "Lahn-Dill-Kreis in Wetzlar, Kreis",
+      "herleitung": "Lahn-Dill-Kreis",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "MEG",
+      "stadt_oder_kreis": "Schwalm-Eder-Kreis",
+      "herleitung": "MElsunGen",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "MKK",
+      "stadt_oder_kreis": "Main-Kinzig-Kreis",
+      "herleitung": "Main-Kinzig-Kreis",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "MTK",
+      "stadt_oder_kreis": "Main-Taunus-Kreis",
+      "herleitung": "Main-Taunus-Kreis",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "ROF",
+      "stadt_oder_kreis": "Hersfeld-Rotenburg",
+      "herleitung": "ROtenburg an der Fulda",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "RÜD",
+      "stadt_oder_kreis": "Rheingau-Taunus Kreis",
+      "herleitung": "RÜDesheim",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "SLÜ",
+      "stadt_oder_kreis": "Main-Kinzig-Kreis",
+      "herleitung": "SchLÜchtern",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "SWA",
+      "stadt_oder_kreis": "Rheingau-Taunus-Kreis",
+      "herleitung": "SchWAlbach",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "USI",
+      "stadt_oder_kreis": "Hochtaunuskreis",
+      "herleitung": "USIngen",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "WEL",
+      "stadt_oder_kreis": "Limburg-Weilburg",
+      "herleitung": "WEideN",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "WIZ",
+      "stadt_oder_kreis": "Werra-Meißner-Kreis",
+      "herleitung": "WItZenhausen",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "WOH",
+      "stadt_oder_kreis": "Kassel",
+      "herleitung": "WOlfHagen",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "ZIG",
+      "stadt_oder_kreis": "Schwalm-Eder-Kreis",
+      "herleitung": "ZIeGenhain",
+      "bundesland_name": "Hessen",
+      "bundesland_iso_3166_2": "DE-HE",
+      "bundesland_slug": "hessen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    }
+  ],
+  "meta": {
+    "title": "Kfz-Kennzeichen Hessen — Unterscheidungszeichen aller Kreise und Städte - Kostenloser Download",
+    "description": "Alle in Hessen (ISO 3166-2 DE-HE) gültigen Unterscheidungszeichen mit Stadt/Landkreis, Herleitung und Fußnoten. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = DE-HE). Enthält 43 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Kfz-Kennzeichen Hessen — Unterscheidungszeichen aller Kreise und Städte | ListBase",
+    "seo_description": "Herunterladen Kfz-Kennzeichen Hessen — Unterscheidungszeichen aller Kreise und Städte — 43 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 43 Datensätze / 10 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

@@ -1,0 +1,476 @@
+{
+  "id": "de-bremen-postleitzahlen",
+  "name": "Postleitzahlen — Bremen",
+  "title": "Postleitzahlen — Bremen",
+  "description": "41 Postleitzahl-Ort-Kombinationen in Bremen (ISO DE-HB). Mit Landkreis, AGS und OSM-ID.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "plz",
+      "label": "Plz",
+      "type": "number"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "landkreis",
+      "label": "Landkreis",
+      "type": "string"
+    },
+    {
+      "key": "is_kreisfrei",
+      "label": "Is Kreisfrei",
+      "type": "boolean"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "ags",
+      "label": "Ags",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "plz": "27568",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "27568",
+      "ort": "Bremerhaven",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04012000",
+      "osm_id": "62658"
+    },
+    {
+      "plz": "27570",
+      "ort": "Bremerhaven",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04012000",
+      "osm_id": "62658"
+    },
+    {
+      "plz": "27572",
+      "ort": "Bremerhaven",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04012000",
+      "osm_id": "62658"
+    },
+    {
+      "plz": "27574",
+      "ort": "Bremerhaven",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04012000",
+      "osm_id": "62658"
+    },
+    {
+      "plz": "27576",
+      "ort": "Bremerhaven",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04012000",
+      "osm_id": "62658"
+    },
+    {
+      "plz": "27578",
+      "ort": "Bremerhaven",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04012000",
+      "osm_id": "62658"
+    },
+    {
+      "plz": "27580",
+      "ort": "Bremerhaven",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04012000",
+      "osm_id": "62658"
+    },
+    {
+      "plz": "28195",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28197",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28199",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28201",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28203",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28205",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28207",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28209",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28211",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28213",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28215",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28217",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28219",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28237",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28239",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28259",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28277",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28279",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28307",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28309",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28325",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28327",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28329",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28355",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28357",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28359",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28717",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28719",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28755",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28757",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28759",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28777",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    },
+    {
+      "plz": "28779",
+      "ort": "Bremen",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Bremen",
+      "bundesland_slug": "bremen",
+      "ags": "04011000",
+      "osm_id": "62559"
+    }
+  ],
+  "meta": {
+    "title": "Postleitzahlen — Bremen - Kostenloser Download",
+    "description": "41 Postleitzahl-Ort-Kombinationen in Bremen (ISO DE-HB). Mit Landkreis, AGS und OSM-ID. Enthält 41 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Postleitzahlen — Bremen | ListBase",
+    "seo_description": "Herunterladen Postleitzahlen — Bremen — 41 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 41 Datensätze / 8 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

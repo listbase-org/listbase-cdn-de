@@ -1,0 +1,3142 @@
+{
+  "id": "de-vorwahlen-bereich-2",
+  "name": "Deutsche Vorwahlen — Bereich 2 (führende Ziffer 2)",
+  "title": "Deutsche Vorwahlen — Bereich 2 (führende Ziffer 2)",
+  "description": "Ortsnetzkennzahlen mit führender Ziffer 2 aus dem deutschen Nummerierungsbereich. Geografischer Schwerpunkt: Nordrhein-Westfalen (überwiegend), Niedersachsen (Teilbereich). Insgesamt 516 Einträge.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 516,
+  "columns": [
+    {
+      "key": "vorwahl",
+      "label": "Vorwahl",
+      "type": "number"
+    },
+    {
+      "key": "ortsnetzkennzahl",
+      "label": "Ortsnetzkennzahl",
+      "type": "number"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "aktiv",
+      "label": "Aktiv",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "vorwahl": "0201",
+      "ortsnetzkennzahl": 201,
+      "ort": "Essen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0202",
+      "ortsnetzkennzahl": 202,
+      "ort": "Wuppertal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0203",
+      "ortsnetzkennzahl": 203,
+      "ort": "Duisburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0208",
+      "ortsnetzkennzahl": 208,
+      "ort": "Oberhausen Rheinl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0209",
+      "ortsnetzkennzahl": 209,
+      "ort": "Gelsenkirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0211",
+      "ortsnetzkennzahl": 211,
+      "ort": "Düsseldorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0212",
+      "ortsnetzkennzahl": 212,
+      "ort": "Solingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0214",
+      "ortsnetzkennzahl": 214,
+      "ort": "Leverkusen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0221",
+      "ortsnetzkennzahl": 221,
+      "ort": "Köln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0228",
+      "ortsnetzkennzahl": 228,
+      "ort": "Bonn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0231",
+      "ortsnetzkennzahl": 231,
+      "ort": "Dortmund",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0234",
+      "ortsnetzkennzahl": 234,
+      "ort": "Bochum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0241",
+      "ortsnetzkennzahl": 241,
+      "ort": "Aachen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0251",
+      "ortsnetzkennzahl": 251,
+      "ort": "Münster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0261",
+      "ortsnetzkennzahl": 261,
+      "ort": "Koblenz a Rhein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0271",
+      "ortsnetzkennzahl": 271,
+      "ort": "Siegen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0281",
+      "ortsnetzkennzahl": 281,
+      "ort": "Wesel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0291",
+      "ortsnetzkennzahl": 291,
+      "ort": "Meschede",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02041",
+      "ortsnetzkennzahl": 2041,
+      "ort": "Bottrop",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02043",
+      "ortsnetzkennzahl": 2043,
+      "ort": "Gladbeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02045",
+      "ortsnetzkennzahl": 2045,
+      "ort": "Bottrop-Kirchhellen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02051",
+      "ortsnetzkennzahl": 2051,
+      "ort": "Velbert",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02052",
+      "ortsnetzkennzahl": 2052,
+      "ort": "Velbert-Langenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02053",
+      "ortsnetzkennzahl": 2053,
+      "ort": "Velbert-Neviges",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02054",
+      "ortsnetzkennzahl": 2054,
+      "ort": "Essen-Kettwig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02056",
+      "ortsnetzkennzahl": 2056,
+      "ort": "Heiligenhaus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02058",
+      "ortsnetzkennzahl": 2058,
+      "ort": "Wülfrath",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02064",
+      "ortsnetzkennzahl": 2064,
+      "ort": "Dinslaken",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02065",
+      "ortsnetzkennzahl": 2065,
+      "ort": "Duisburg-Rheinhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02066",
+      "ortsnetzkennzahl": 2066,
+      "ort": "Duisburg-Homberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02102",
+      "ortsnetzkennzahl": 2102,
+      "ort": "Ratingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02103",
+      "ortsnetzkennzahl": 2103,
+      "ort": "Hilden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02104",
+      "ortsnetzkennzahl": 2104,
+      "ort": "Mettmann",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02129",
+      "ortsnetzkennzahl": 2129,
+      "ort": "Haan Rheinl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02131",
+      "ortsnetzkennzahl": 2131,
+      "ort": "Neuss",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02132",
+      "ortsnetzkennzahl": 2132,
+      "ort": "Meerbusch-Büderich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02133",
+      "ortsnetzkennzahl": 2133,
+      "ort": "Dormagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02137",
+      "ortsnetzkennzahl": 2137,
+      "ort": "Neuss-Norf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02150",
+      "ortsnetzkennzahl": 2150,
+      "ort": "Meerbusch-Lank",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02151",
+      "ortsnetzkennzahl": 2151,
+      "ort": "Krefeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02152",
+      "ortsnetzkennzahl": 2152,
+      "ort": "Kempen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02153",
+      "ortsnetzkennzahl": 2153,
+      "ort": "Nettetal-Lobberich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02154",
+      "ortsnetzkennzahl": 2154,
+      "ort": "Willich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02156",
+      "ortsnetzkennzahl": 2156,
+      "ort": "Willich-Anrath",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02157",
+      "ortsnetzkennzahl": 2157,
+      "ort": "Nettetal-Kaldenkirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02158",
+      "ortsnetzkennzahl": 2158,
+      "ort": "Grefrath b Krefeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02159",
+      "ortsnetzkennzahl": 2159,
+      "ort": "Meerbusch-Osterath",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02161",
+      "ortsnetzkennzahl": 2161,
+      "ort": "Mönchengladbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02162",
+      "ortsnetzkennzahl": 2162,
+      "ort": "Viersen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02163",
+      "ortsnetzkennzahl": 2163,
+      "ort": "Schwalmtal Niederrhein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02164",
+      "ortsnetzkennzahl": 2164,
+      "ort": "Jüchen-Otzenrath",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02165",
+      "ortsnetzkennzahl": 2165,
+      "ort": "Jüchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02166",
+      "ortsnetzkennzahl": 2166,
+      "ort": "Mönchengladbach-Rheydt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02171",
+      "ortsnetzkennzahl": 2171,
+      "ort": "Leverkusen-Opladen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02173",
+      "ortsnetzkennzahl": 2173,
+      "ort": "Langenfeld Rheinland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02174",
+      "ortsnetzkennzahl": 2174,
+      "ort": "Burscheid Rheinl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02175",
+      "ortsnetzkennzahl": 2175,
+      "ort": "Leichlingen Rheinland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02181",
+      "ortsnetzkennzahl": 2181,
+      "ort": "Grevenbroich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02182",
+      "ortsnetzkennzahl": 2182,
+      "ort": "Grevenbroich-Kapellen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02183",
+      "ortsnetzkennzahl": 2183,
+      "ort": "Rommerskirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02191",
+      "ortsnetzkennzahl": 2191,
+      "ort": "Remscheid",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02192",
+      "ortsnetzkennzahl": 2192,
+      "ort": "Hückeswagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02193",
+      "ortsnetzkennzahl": 2193,
+      "ort": "Dabringhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02195",
+      "ortsnetzkennzahl": 2195,
+      "ort": "Radevormwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02196",
+      "ortsnetzkennzahl": 2196,
+      "ort": "Wermelskirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02202",
+      "ortsnetzkennzahl": 2202,
+      "ort": "Bergisch Gladbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02203",
+      "ortsnetzkennzahl": 2203,
+      "ort": "Köln-Porz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02204",
+      "ortsnetzkennzahl": 2204,
+      "ort": "Bensberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02205",
+      "ortsnetzkennzahl": 2205,
+      "ort": "Rösrath",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02206",
+      "ortsnetzkennzahl": 2206,
+      "ort": "Overath",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02207",
+      "ortsnetzkennzahl": 2207,
+      "ort": "Kürten-Dürscheid",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02208",
+      "ortsnetzkennzahl": 2208,
+      "ort": "Niederkassel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02222",
+      "ortsnetzkennzahl": 2222,
+      "ort": "Bornheim Rheinl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02223",
+      "ortsnetzkennzahl": 2223,
+      "ort": "Königswinter",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02224",
+      "ortsnetzkennzahl": 2224,
+      "ort": "Bad Honnef",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02225",
+      "ortsnetzkennzahl": 2225,
+      "ort": "Meckenheim Rheinl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02226",
+      "ortsnetzkennzahl": 2226,
+      "ort": "Rheinbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02227",
+      "ortsnetzkennzahl": 2227,
+      "ort": "Bornheim-Merten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02228",
+      "ortsnetzkennzahl": 2228,
+      "ort": "Remagen-Rolandseck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02232",
+      "ortsnetzkennzahl": 2232,
+      "ort": "Brühl Rheinl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02233",
+      "ortsnetzkennzahl": 2233,
+      "ort": "Hürth Rheinl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02234",
+      "ortsnetzkennzahl": 2234,
+      "ort": "Frechen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02235",
+      "ortsnetzkennzahl": 2235,
+      "ort": "Erftstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02236",
+      "ortsnetzkennzahl": 2236,
+      "ort": "Wesseling Rheinl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02237",
+      "ortsnetzkennzahl": 2237,
+      "ort": "Kerpen Rheinl-Türnich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02238",
+      "ortsnetzkennzahl": 2238,
+      "ort": "Pulheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02241",
+      "ortsnetzkennzahl": 2241,
+      "ort": "Siegburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02242",
+      "ortsnetzkennzahl": 2242,
+      "ort": "Hennef Sieg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02243",
+      "ortsnetzkennzahl": 2243,
+      "ort": "Eitorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02244",
+      "ortsnetzkennzahl": 2244,
+      "ort": "Königswinter-Oberpleis",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02245",
+      "ortsnetzkennzahl": 2245,
+      "ort": "Much",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02246",
+      "ortsnetzkennzahl": 2246,
+      "ort": "Lohmar Rheinland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02247",
+      "ortsnetzkennzahl": 2247,
+      "ort": "Neunkirchen-Seelscheid",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02248",
+      "ortsnetzkennzahl": 2248,
+      "ort": "Hennef-Uckerath",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02251",
+      "ortsnetzkennzahl": 2251,
+      "ort": "Euskirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02252",
+      "ortsnetzkennzahl": 2252,
+      "ort": "Zülpich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02253",
+      "ortsnetzkennzahl": 2253,
+      "ort": "Bad Münstereifel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02254",
+      "ortsnetzkennzahl": 2254,
+      "ort": "Weilerswist",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02255",
+      "ortsnetzkennzahl": 2255,
+      "ort": "Euskirchen-Flamersheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02256",
+      "ortsnetzkennzahl": 2256,
+      "ort": "Mechernich-Satzvey",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02257",
+      "ortsnetzkennzahl": 2257,
+      "ort": "Reckerscheid",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02261",
+      "ortsnetzkennzahl": 2261,
+      "ort": "Gummersbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02262",
+      "ortsnetzkennzahl": 2262,
+      "ort": "Wiehl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02263",
+      "ortsnetzkennzahl": 2263,
+      "ort": "Engelskirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02264",
+      "ortsnetzkennzahl": 2264,
+      "ort": "Marienheide",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02265",
+      "ortsnetzkennzahl": 2265,
+      "ort": "Reichshof-Eckenhagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02266",
+      "ortsnetzkennzahl": 2266,
+      "ort": "Lindlar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02267",
+      "ortsnetzkennzahl": 2267,
+      "ort": "Wipperfürth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02268",
+      "ortsnetzkennzahl": 2268,
+      "ort": "Kürten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02269",
+      "ortsnetzkennzahl": 2269,
+      "ort": "Kierspe-Rönsahl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02271",
+      "ortsnetzkennzahl": 2271,
+      "ort": "Bergheim Erft",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02272",
+      "ortsnetzkennzahl": 2272,
+      "ort": "Bedburg Erft",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02273",
+      "ortsnetzkennzahl": 2273,
+      "ort": "Kerpen-Horrem",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02274",
+      "ortsnetzkennzahl": 2274,
+      "ort": "Elsdorf Rheinl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02275",
+      "ortsnetzkennzahl": 2275,
+      "ort": "Kerpen-Buir",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02291",
+      "ortsnetzkennzahl": 2291,
+      "ort": "Waldbröl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02292",
+      "ortsnetzkennzahl": 2292,
+      "ort": "Windeck Sieg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02293",
+      "ortsnetzkennzahl": 2293,
+      "ort": "Nümbrecht",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02294",
+      "ortsnetzkennzahl": 2294,
+      "ort": "Morsbach Sieg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02295",
+      "ortsnetzkennzahl": 2295,
+      "ort": "Ruppichteroth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02296",
+      "ortsnetzkennzahl": 2296,
+      "ort": "Reichshof-Brüchermühle",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02297",
+      "ortsnetzkennzahl": 2297,
+      "ort": "Wildbergerhütte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02301",
+      "ortsnetzkennzahl": 2301,
+      "ort": "Holzwickede",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02302",
+      "ortsnetzkennzahl": 2302,
+      "ort": "Witten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02303",
+      "ortsnetzkennzahl": 2303,
+      "ort": "Unna",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02304",
+      "ortsnetzkennzahl": 2304,
+      "ort": "Schwerte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02305",
+      "ortsnetzkennzahl": 2305,
+      "ort": "Castrop-Rauxel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02306",
+      "ortsnetzkennzahl": 2306,
+      "ort": "Lünen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02307",
+      "ortsnetzkennzahl": 2307,
+      "ort": "Kamen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02308",
+      "ortsnetzkennzahl": 2308,
+      "ort": "Unna-Hemmerde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02309",
+      "ortsnetzkennzahl": 2309,
+      "ort": "Waltrop",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02323",
+      "ortsnetzkennzahl": 2323,
+      "ort": "Herne",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02324",
+      "ortsnetzkennzahl": 2324,
+      "ort": "Hattingen Ruhr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02325",
+      "ortsnetzkennzahl": 2325,
+      "ort": "Wanne-Eickel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02327",
+      "ortsnetzkennzahl": 2327,
+      "ort": "Bochum-Wattenscheid",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02330",
+      "ortsnetzkennzahl": 2330,
+      "ort": "Herdecke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02331",
+      "ortsnetzkennzahl": 2331,
+      "ort": "Hagen Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02332",
+      "ortsnetzkennzahl": 2332,
+      "ort": "Gevelsberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02333",
+      "ortsnetzkennzahl": 2333,
+      "ort": "Ennepetal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02334",
+      "ortsnetzkennzahl": 2334,
+      "ort": "Hagen-Hohenlimburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02335",
+      "ortsnetzkennzahl": 2335,
+      "ort": "Wetter Ruhr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02336",
+      "ortsnetzkennzahl": 2336,
+      "ort": "Schwelm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02337",
+      "ortsnetzkennzahl": 2337,
+      "ort": "Hagen-Dahl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02338",
+      "ortsnetzkennzahl": 2338,
+      "ort": "Breckerfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02339",
+      "ortsnetzkennzahl": 2339,
+      "ort": "Sprockhövel-Haßlinghausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02351",
+      "ortsnetzkennzahl": 2351,
+      "ort": "Lüdenscheid",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02352",
+      "ortsnetzkennzahl": 2352,
+      "ort": "Altena Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02353",
+      "ortsnetzkennzahl": 2353,
+      "ort": "Halver",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02354",
+      "ortsnetzkennzahl": 2354,
+      "ort": "Meinerzhagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02355",
+      "ortsnetzkennzahl": 2355,
+      "ort": "Schalksmühle",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02357",
+      "ortsnetzkennzahl": 2357,
+      "ort": "Herscheid Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02358",
+      "ortsnetzkennzahl": 2358,
+      "ort": "Meinerzhagen-Valbert",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02359",
+      "ortsnetzkennzahl": 2359,
+      "ort": "Kierspe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02360",
+      "ortsnetzkennzahl": 2360,
+      "ort": "Haltern-Lippramsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02361",
+      "ortsnetzkennzahl": 2361,
+      "ort": "Recklinghausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02362",
+      "ortsnetzkennzahl": 2362,
+      "ort": "Dorsten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02363",
+      "ortsnetzkennzahl": 2363,
+      "ort": "Datteln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02364",
+      "ortsnetzkennzahl": 2364,
+      "ort": "Haltern Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02365",
+      "ortsnetzkennzahl": 2365,
+      "ort": "Marl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02366",
+      "ortsnetzkennzahl": 2366,
+      "ort": "Herten Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02367",
+      "ortsnetzkennzahl": 2367,
+      "ort": "Henrichenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02368",
+      "ortsnetzkennzahl": 2368,
+      "ort": "Oer-Erkenschwick",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02369",
+      "ortsnetzkennzahl": 2369,
+      "ort": "Dorsten-Wulfen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02371",
+      "ortsnetzkennzahl": 2371,
+      "ort": "Iserlohn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02372",
+      "ortsnetzkennzahl": 2372,
+      "ort": "Hemer",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02373",
+      "ortsnetzkennzahl": 2373,
+      "ort": "Menden Sauerland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02374",
+      "ortsnetzkennzahl": 2374,
+      "ort": "Iserlohn-Letmathe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02375",
+      "ortsnetzkennzahl": 2375,
+      "ort": "Balve",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02377",
+      "ortsnetzkennzahl": 2377,
+      "ort": "Wickede Ruhr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02378",
+      "ortsnetzkennzahl": 2378,
+      "ort": "Fröndenberg-Langschede",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02379",
+      "ortsnetzkennzahl": 2379,
+      "ort": "Menden-Asbeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02381",
+      "ortsnetzkennzahl": 2381,
+      "ort": "Hamm Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02382",
+      "ortsnetzkennzahl": 2382,
+      "ort": "Ahlen Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02383",
+      "ortsnetzkennzahl": 2383,
+      "ort": "Bönen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02384",
+      "ortsnetzkennzahl": 2384,
+      "ort": "Welver",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02385",
+      "ortsnetzkennzahl": 2385,
+      "ort": "Hamm-Rhynern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02387",
+      "ortsnetzkennzahl": 2387,
+      "ort": "Drensteinfurt-Walstedde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02388",
+      "ortsnetzkennzahl": 2388,
+      "ort": "Hamm-Uentrop",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02389",
+      "ortsnetzkennzahl": 2389,
+      "ort": "Werne",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02391",
+      "ortsnetzkennzahl": 2391,
+      "ort": "Plettenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02392",
+      "ortsnetzkennzahl": 2392,
+      "ort": "Werdohl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02393",
+      "ortsnetzkennzahl": 2393,
+      "ort": "Sundern-Allendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02394",
+      "ortsnetzkennzahl": 2394,
+      "ort": "Neuenrade-Affeln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02395",
+      "ortsnetzkennzahl": 2395,
+      "ort": "Finnentrop-Rönkhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02401",
+      "ortsnetzkennzahl": 2401,
+      "ort": "Baesweiler",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02402",
+      "ortsnetzkennzahl": 2402,
+      "ort": "Stolberg Rheinl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02403",
+      "ortsnetzkennzahl": 2403,
+      "ort": "Eschweiler Rheinl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02404",
+      "ortsnetzkennzahl": 2404,
+      "ort": "Alsdorf Rheinl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02405",
+      "ortsnetzkennzahl": 2405,
+      "ort": "Würselen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02406",
+      "ortsnetzkennzahl": 2406,
+      "ort": "Herzogenrath",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02407",
+      "ortsnetzkennzahl": 2407,
+      "ort": "Herzogenrath-Kohlscheid",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02408",
+      "ortsnetzkennzahl": 2408,
+      "ort": "Aachen-Kornelimünster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02409",
+      "ortsnetzkennzahl": 2409,
+      "ort": "Stolberg-Gressenich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02421",
+      "ortsnetzkennzahl": 2421,
+      "ort": "Düren",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02422",
+      "ortsnetzkennzahl": 2422,
+      "ort": "Kreuzau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02423",
+      "ortsnetzkennzahl": 2423,
+      "ort": "Langerwehe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02424",
+      "ortsnetzkennzahl": 2424,
+      "ort": "Vettweiss",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02425",
+      "ortsnetzkennzahl": 2425,
+      "ort": "Nideggen-Embken",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02426",
+      "ortsnetzkennzahl": 2426,
+      "ort": "Nörvenich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02427",
+      "ortsnetzkennzahl": 2427,
+      "ort": "Nideggen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02428",
+      "ortsnetzkennzahl": 2428,
+      "ort": "Niederzier",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02429",
+      "ortsnetzkennzahl": 2429,
+      "ort": "Hürtgenwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02431",
+      "ortsnetzkennzahl": 2431,
+      "ort": "Erkelenz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02432",
+      "ortsnetzkennzahl": 2432,
+      "ort": "Wassenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02433",
+      "ortsnetzkennzahl": 2433,
+      "ort": "Hückelhoven",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02434",
+      "ortsnetzkennzahl": 2434,
+      "ort": "Wegberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02435",
+      "ortsnetzkennzahl": 2435,
+      "ort": "Erkelenz-Lövenich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02436",
+      "ortsnetzkennzahl": 2436,
+      "ort": "Wegberg-Rödgen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02440",
+      "ortsnetzkennzahl": 2440,
+      "ort": "Nettersheim-Tondorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02441",
+      "ortsnetzkennzahl": 2441,
+      "ort": "Kall",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02443",
+      "ortsnetzkennzahl": 2443,
+      "ort": "Mechernich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02444",
+      "ortsnetzkennzahl": 2444,
+      "ort": "Schleiden-Gemünd",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02445",
+      "ortsnetzkennzahl": 2445,
+      "ort": "Schleiden Eifel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02446",
+      "ortsnetzkennzahl": 2446,
+      "ort": "Heimbach Eifel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02447",
+      "ortsnetzkennzahl": 2447,
+      "ort": "Dahlem b Kall",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02448",
+      "ortsnetzkennzahl": 2448,
+      "ort": "Hellenthal-Rescheid",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02449",
+      "ortsnetzkennzahl": 2449,
+      "ort": "Blankenheim Ahr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02451",
+      "ortsnetzkennzahl": 2451,
+      "ort": "Geilenkirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02452",
+      "ortsnetzkennzahl": 2452,
+      "ort": "Heinsberg Rheinl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02453",
+      "ortsnetzkennzahl": 2453,
+      "ort": "Heinsberg-Randerath",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02454",
+      "ortsnetzkennzahl": 2454,
+      "ort": "Gangelt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02455",
+      "ortsnetzkennzahl": 2455,
+      "ort": "Waldfeucht",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02456",
+      "ortsnetzkennzahl": 2456,
+      "ort": "Selfkant",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02461",
+      "ortsnetzkennzahl": 2461,
+      "ort": "Jülich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02462",
+      "ortsnetzkennzahl": 2462,
+      "ort": "Linnich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02463",
+      "ortsnetzkennzahl": 2463,
+      "ort": "Titz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02464",
+      "ortsnetzkennzahl": 2464,
+      "ort": "Aldenhoven b Jülich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02465",
+      "ortsnetzkennzahl": 2465,
+      "ort": "Inden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02471",
+      "ortsnetzkennzahl": 2471,
+      "ort": "Roetgen Eifel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02472",
+      "ortsnetzkennzahl": 2472,
+      "ort": "Monschau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02473",
+      "ortsnetzkennzahl": 2473,
+      "ort": "Simmerath",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02474",
+      "ortsnetzkennzahl": 2474,
+      "ort": "Nideggen-Schmidt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02482",
+      "ortsnetzkennzahl": 2482,
+      "ort": "Hellenthal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02484",
+      "ortsnetzkennzahl": 2484,
+      "ort": "Mechernich-Eiserfey",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02485",
+      "ortsnetzkennzahl": 2485,
+      "ort": "Schleiden-Dreiborn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02486",
+      "ortsnetzkennzahl": 2486,
+      "ort": "Nettersheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02501",
+      "ortsnetzkennzahl": 2501,
+      "ort": "Münster-Hiltrup",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02502",
+      "ortsnetzkennzahl": 2502,
+      "ort": "Nottuln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02504",
+      "ortsnetzkennzahl": 2504,
+      "ort": "Telgte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02505",
+      "ortsnetzkennzahl": 2505,
+      "ort": "Altenberge Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02506",
+      "ortsnetzkennzahl": 2506,
+      "ort": "Münster-Wolbeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02507",
+      "ortsnetzkennzahl": 2507,
+      "ort": "Havixbeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02508",
+      "ortsnetzkennzahl": 2508,
+      "ort": "Drensteinfurt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02509",
+      "ortsnetzkennzahl": 2509,
+      "ort": "Nottuln-Appelhülsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02520",
+      "ortsnetzkennzahl": 2520,
+      "ort": "Wadersloh-Diestedde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02521",
+      "ortsnetzkennzahl": 2521,
+      "ort": "Beckum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02522",
+      "ortsnetzkennzahl": 2522,
+      "ort": "Oelde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02523",
+      "ortsnetzkennzahl": 2523,
+      "ort": "Wadersloh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02524",
+      "ortsnetzkennzahl": 2524,
+      "ort": "Ennigerloh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02525",
+      "ortsnetzkennzahl": 2525,
+      "ort": "Beckum-Neubeckum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02526",
+      "ortsnetzkennzahl": 2526,
+      "ort": "Sendenhorst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02527",
+      "ortsnetzkennzahl": 2527,
+      "ort": "Lippetal-Lippborg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02528",
+      "ortsnetzkennzahl": 2528,
+      "ort": "Ennigerloh-Enniger",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02529",
+      "ortsnetzkennzahl": 2529,
+      "ort": "Oelde-Stromberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02532",
+      "ortsnetzkennzahl": 2532,
+      "ort": "Ostbevern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02533",
+      "ortsnetzkennzahl": 2533,
+      "ort": "Münster-Nienberge",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02534",
+      "ortsnetzkennzahl": 2534,
+      "ort": "Münster-Roxel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02535",
+      "ortsnetzkennzahl": 2535,
+      "ort": "Sendenhorst-Albersloh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02536",
+      "ortsnetzkennzahl": 2536,
+      "ort": "Münster-Albachten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02538",
+      "ortsnetzkennzahl": 2538,
+      "ort": "Drensteinfurt-Rinkerode",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02541",
+      "ortsnetzkennzahl": 2541,
+      "ort": "Coesfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02542",
+      "ortsnetzkennzahl": 2542,
+      "ort": "Gescher",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02543",
+      "ortsnetzkennzahl": 2543,
+      "ort": "Billerbeck Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02545",
+      "ortsnetzkennzahl": 2545,
+      "ort": "Rosendahl-Darfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02546",
+      "ortsnetzkennzahl": 2546,
+      "ort": "Coesfeld-Lette",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02547",
+      "ortsnetzkennzahl": 2547,
+      "ort": "Rosendahl-Osterwick",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02548",
+      "ortsnetzkennzahl": 2548,
+      "ort": "Dülmen-Rorup",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02551",
+      "ortsnetzkennzahl": 2551,
+      "ort": "Steinfurt-Burgsteinfurt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02552",
+      "ortsnetzkennzahl": 2552,
+      "ort": "Steinfurt-Borghorst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02553",
+      "ortsnetzkennzahl": 2553,
+      "ort": "Ochtrup",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02554",
+      "ortsnetzkennzahl": 2554,
+      "ort": "Laer Kr Steinfurt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02555",
+      "ortsnetzkennzahl": 2555,
+      "ort": "Schöppingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02556",
+      "ortsnetzkennzahl": 2556,
+      "ort": "Metelen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02557",
+      "ortsnetzkennzahl": 2557,
+      "ort": "Wettringen Kr Steinfurt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02558",
+      "ortsnetzkennzahl": 2558,
+      "ort": "Horstmar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02561",
+      "ortsnetzkennzahl": 2561,
+      "ort": "Ahaus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02562",
+      "ortsnetzkennzahl": 2562,
+      "ort": "Gronau Westfalen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02563",
+      "ortsnetzkennzahl": 2563,
+      "ort": "Stadtlohn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02564",
+      "ortsnetzkennzahl": 2564,
+      "ort": "Vreden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02565",
+      "ortsnetzkennzahl": 2565,
+      "ort": "Gronau-Epe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02566",
+      "ortsnetzkennzahl": 2566,
+      "ort": "Legden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02567",
+      "ortsnetzkennzahl": 2567,
+      "ort": "Ahaus-Alstätte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02568",
+      "ortsnetzkennzahl": 2568,
+      "ort": "Heek",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02571",
+      "ortsnetzkennzahl": 2571,
+      "ort": "Greven Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02572",
+      "ortsnetzkennzahl": 2572,
+      "ort": "Emsdetten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02573",
+      "ortsnetzkennzahl": 2573,
+      "ort": "Nordwalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02574",
+      "ortsnetzkennzahl": 2574,
+      "ort": "Saerbeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02575",
+      "ortsnetzkennzahl": 2575,
+      "ort": "Greven-Reckenfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02581",
+      "ortsnetzkennzahl": 2581,
+      "ort": "Warendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02582",
+      "ortsnetzkennzahl": 2582,
+      "ort": "Everswinkel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02583",
+      "ortsnetzkennzahl": 2583,
+      "ort": "Sassenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02584",
+      "ortsnetzkennzahl": 2584,
+      "ort": "Warendorf-Milte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02585",
+      "ortsnetzkennzahl": 2585,
+      "ort": "Warendorf-Hoetmar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02586",
+      "ortsnetzkennzahl": 2586,
+      "ort": "Beelen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02587",
+      "ortsnetzkennzahl": 2587,
+      "ort": "Ennigerloh-Westkirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02588",
+      "ortsnetzkennzahl": 2588,
+      "ort": "Harsewinkel-Greffen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02590",
+      "ortsnetzkennzahl": 2590,
+      "ort": "Dülmen-Buldern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02591",
+      "ortsnetzkennzahl": 2591,
+      "ort": "Lüdinghausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02592",
+      "ortsnetzkennzahl": 2592,
+      "ort": "Selm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02593",
+      "ortsnetzkennzahl": 2593,
+      "ort": "Ascheberg Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02594",
+      "ortsnetzkennzahl": 2594,
+      "ort": "Dülmen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02595",
+      "ortsnetzkennzahl": 2595,
+      "ort": "Olfen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02596",
+      "ortsnetzkennzahl": 2596,
+      "ort": "Nordkirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02597",
+      "ortsnetzkennzahl": 2597,
+      "ort": "Senden Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02598",
+      "ortsnetzkennzahl": 2598,
+      "ort": "Senden-Ottmarsbocholt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02599",
+      "ortsnetzkennzahl": 2599,
+      "ort": "Ascheberg-Herbern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02601",
+      "ortsnetzkennzahl": 2601,
+      "ort": "Nauort",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02602",
+      "ortsnetzkennzahl": 2602,
+      "ort": "Montabaur",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02603",
+      "ortsnetzkennzahl": 2603,
+      "ort": "Bad Ems",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02604",
+      "ortsnetzkennzahl": 2604,
+      "ort": "Nassau Lahn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02605",
+      "ortsnetzkennzahl": 2605,
+      "ort": "Löf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02606",
+      "ortsnetzkennzahl": 2606,
+      "ort": "Winningen Mosel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02607",
+      "ortsnetzkennzahl": 2607,
+      "ort": "Kobern-Gondorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02608",
+      "ortsnetzkennzahl": 2608,
+      "ort": "Welschneudorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02620",
+      "ortsnetzkennzahl": 2620,
+      "ort": "Neuhäusel Westerw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02621",
+      "ortsnetzkennzahl": 2621,
+      "ort": "Lahnstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02622",
+      "ortsnetzkennzahl": 2622,
+      "ort": "Bendorf Rhein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02623",
+      "ortsnetzkennzahl": 2623,
+      "ort": "Ransbach-Baumbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02624",
+      "ortsnetzkennzahl": 2624,
+      "ort": "Höhr-Grenzhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02625",
+      "ortsnetzkennzahl": 2625,
+      "ort": "Ochtendung",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02626",
+      "ortsnetzkennzahl": 2626,
+      "ort": "Selters Westferwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02627",
+      "ortsnetzkennzahl": 2627,
+      "ort": "Braubach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02628",
+      "ortsnetzkennzahl": 2628,
+      "ort": "Rhens",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02630",
+      "ortsnetzkennzahl": 2630,
+      "ort": "Mülheim-Kärlich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02631",
+      "ortsnetzkennzahl": 2631,
+      "ort": "Neuwied",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02632",
+      "ortsnetzkennzahl": 2632,
+      "ort": "Andernach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02633",
+      "ortsnetzkennzahl": 2633,
+      "ort": "Brohl-Lützing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02634",
+      "ortsnetzkennzahl": 2634,
+      "ort": "Rengsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02635",
+      "ortsnetzkennzahl": 2635,
+      "ort": "Rheinbrohl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02636",
+      "ortsnetzkennzahl": 2636,
+      "ort": "Burgbrohl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02637",
+      "ortsnetzkennzahl": 2637,
+      "ort": "Weissenthurm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02638",
+      "ortsnetzkennzahl": 2638,
+      "ort": "Waldbreitbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02639",
+      "ortsnetzkennzahl": 2639,
+      "ort": "Anhausen Kr Neuwied",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02641",
+      "ortsnetzkennzahl": 2641,
+      "ort": "Bad Neuenahr-Ahrweiler",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02642",
+      "ortsnetzkennzahl": 2642,
+      "ort": "Remagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02643",
+      "ortsnetzkennzahl": 2643,
+      "ort": "Altenahr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02644",
+      "ortsnetzkennzahl": 2644,
+      "ort": "Linz am Rhein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02645",
+      "ortsnetzkennzahl": 2645,
+      "ort": "Vettelschoss",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02646",
+      "ortsnetzkennzahl": 2646,
+      "ort": "Königsfeld Eifel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02647",
+      "ortsnetzkennzahl": 2647,
+      "ort": "Kesseling",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02651",
+      "ortsnetzkennzahl": 2651,
+      "ort": "Mayen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02652",
+      "ortsnetzkennzahl": 2652,
+      "ort": "Mendig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02653",
+      "ortsnetzkennzahl": 2653,
+      "ort": "Kaisersesch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02654",
+      "ortsnetzkennzahl": 2654,
+      "ort": "Polch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02655",
+      "ortsnetzkennzahl": 2655,
+      "ort": "Weibern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02656",
+      "ortsnetzkennzahl": 2656,
+      "ort": "Virneburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02657",
+      "ortsnetzkennzahl": 2657,
+      "ort": "Uersfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02661",
+      "ortsnetzkennzahl": 2661,
+      "ort": "Bad Marienberg Westerwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02662",
+      "ortsnetzkennzahl": 2662,
+      "ort": "Hachenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02663",
+      "ortsnetzkennzahl": 2663,
+      "ort": "Westerburg Westerw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02664",
+      "ortsnetzkennzahl": 2664,
+      "ort": "Rennerod",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02666",
+      "ortsnetzkennzahl": 2666,
+      "ort": "Freilingen Westerw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02667",
+      "ortsnetzkennzahl": 2667,
+      "ort": "Stein-Neukirch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02671",
+      "ortsnetzkennzahl": 2671,
+      "ort": "Cochem",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02672",
+      "ortsnetzkennzahl": 2672,
+      "ort": "Treis-Karden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02673",
+      "ortsnetzkennzahl": 2673,
+      "ort": "Ellenz-Poltersdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02674",
+      "ortsnetzkennzahl": 2674,
+      "ort": "Bad Bertrich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02675",
+      "ortsnetzkennzahl": 2675,
+      "ort": "Ediger-Eller",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02676",
+      "ortsnetzkennzahl": 2676,
+      "ort": "Ulmen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02677",
+      "ortsnetzkennzahl": 2677,
+      "ort": "Lutzerath",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02678",
+      "ortsnetzkennzahl": 2678,
+      "ort": "Büchel b Cochem",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02680",
+      "ortsnetzkennzahl": 2680,
+      "ort": "Mündersbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02681",
+      "ortsnetzkennzahl": 2681,
+      "ort": "Altenkirchen Westerwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02682",
+      "ortsnetzkennzahl": 2682,
+      "ort": "Hamm Sieg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02683",
+      "ortsnetzkennzahl": 2683,
+      "ort": "Asbach Westerw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02684",
+      "ortsnetzkennzahl": 2684,
+      "ort": "Puderbach Westerw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02685",
+      "ortsnetzkennzahl": 2685,
+      "ort": "Flammersfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02686",
+      "ortsnetzkennzahl": 2686,
+      "ort": "Weyerbusch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02687",
+      "ortsnetzkennzahl": 2687,
+      "ort": "Horhausen Westerwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02688",
+      "ortsnetzkennzahl": 2688,
+      "ort": "Kroppach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02689",
+      "ortsnetzkennzahl": 2689,
+      "ort": "Dierdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02691",
+      "ortsnetzkennzahl": 2691,
+      "ort": "Adenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02692",
+      "ortsnetzkennzahl": 2692,
+      "ort": "Kelberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02693",
+      "ortsnetzkennzahl": 2693,
+      "ort": "Antweiler",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02694",
+      "ortsnetzkennzahl": 2694,
+      "ort": "Wershofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02695",
+      "ortsnetzkennzahl": 2695,
+      "ort": "Insul",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02696",
+      "ortsnetzkennzahl": 2696,
+      "ort": "Nohn Eifel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02697",
+      "ortsnetzkennzahl": 2697,
+      "ort": "Blankenheim-Ahrhütte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02721",
+      "ortsnetzkennzahl": 2721,
+      "ort": "Lennestadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02722",
+      "ortsnetzkennzahl": 2722,
+      "ort": "Attendorn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02723",
+      "ortsnetzkennzahl": 2723,
+      "ort": "Kirchhundem",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02724",
+      "ortsnetzkennzahl": 2724,
+      "ort": "Finnentrop-Serkenrode",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02725",
+      "ortsnetzkennzahl": 2725,
+      "ort": "Lennestadt-Oedingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02732",
+      "ortsnetzkennzahl": 2732,
+      "ort": "Kreuztal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02733",
+      "ortsnetzkennzahl": 2733,
+      "ort": "Hilchenbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02734",
+      "ortsnetzkennzahl": 2734,
+      "ort": "Freudenberg Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02735",
+      "ortsnetzkennzahl": 2735,
+      "ort": "Neunkirchen Siegerl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02736",
+      "ortsnetzkennzahl": 2736,
+      "ort": "Burbach Siegerl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02737",
+      "ortsnetzkennzahl": 2737,
+      "ort": "Netphen-Deuz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02738",
+      "ortsnetzkennzahl": 2738,
+      "ort": "Netphen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02739",
+      "ortsnetzkennzahl": 2739,
+      "ort": "Wilnsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02741",
+      "ortsnetzkennzahl": 2741,
+      "ort": "Betzdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02742",
+      "ortsnetzkennzahl": 2742,
+      "ort": "Wissen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02743",
+      "ortsnetzkennzahl": 2743,
+      "ort": "Daaden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02744",
+      "ortsnetzkennzahl": 2744,
+      "ort": "Herdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02745",
+      "ortsnetzkennzahl": 2745,
+      "ort": "Brachbach Sieg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02747",
+      "ortsnetzkennzahl": 2747,
+      "ort": "Molzhain",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02750",
+      "ortsnetzkennzahl": 2750,
+      "ort": "Diedenshausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02751",
+      "ortsnetzkennzahl": 2751,
+      "ort": "Bad Berleburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02752",
+      "ortsnetzkennzahl": 2752,
+      "ort": "Bad Laasphe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02753",
+      "ortsnetzkennzahl": 2753,
+      "ort": "Erndtebrück",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02754",
+      "ortsnetzkennzahl": 2754,
+      "ort": "Bad Laasphe-Feudingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02755",
+      "ortsnetzkennzahl": 2755,
+      "ort": "Bad Berleburg-Schwarzenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02758",
+      "ortsnetzkennzahl": 2758,
+      "ort": "Bad Berleburg-Girkhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02759",
+      "ortsnetzkennzahl": 2759,
+      "ort": "Bad Berleburg-Aue",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02761",
+      "ortsnetzkennzahl": 2761,
+      "ort": "Olpe Biggesee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02762",
+      "ortsnetzkennzahl": 2762,
+      "ort": "Wenden Südsauerland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02763",
+      "ortsnetzkennzahl": 2763,
+      "ort": "Drolshagen-Bleche",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02764",
+      "ortsnetzkennzahl": 2764,
+      "ort": "Welschen Ennest",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02770",
+      "ortsnetzkennzahl": 2770,
+      "ort": "Eschenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02771",
+      "ortsnetzkennzahl": 2771,
+      "ort": "Dillenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02772",
+      "ortsnetzkennzahl": 2772,
+      "ort": "Herborn Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02773",
+      "ortsnetzkennzahl": 2773,
+      "ort": "Haiger",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02774",
+      "ortsnetzkennzahl": 2774,
+      "ort": "Dietzhölztal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02775",
+      "ortsnetzkennzahl": 2775,
+      "ort": "Driedorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02776",
+      "ortsnetzkennzahl": 2776,
+      "ort": "Bad Endbach-Hartenrod",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02777",
+      "ortsnetzkennzahl": 2777,
+      "ort": "Breitscheid Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02778",
+      "ortsnetzkennzahl": 2778,
+      "ort": "Siegbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02779",
+      "ortsnetzkennzahl": 2779,
+      "ort": "Greifenstein-Beilstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02801",
+      "ortsnetzkennzahl": 2801,
+      "ort": "Xanten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02802",
+      "ortsnetzkennzahl": 2802,
+      "ort": "Alpen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02803",
+      "ortsnetzkennzahl": 2803,
+      "ort": "Wesel-Büderich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02804",
+      "ortsnetzkennzahl": 2804,
+      "ort": "Xanten-Marienbaum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02821",
+      "ortsnetzkennzahl": 2821,
+      "ort": "Kleve Niederrhein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02822",
+      "ortsnetzkennzahl": 2822,
+      "ort": "Emmerich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02823",
+      "ortsnetzkennzahl": 2823,
+      "ort": "Goch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02824",
+      "ortsnetzkennzahl": 2824,
+      "ort": "Kalkar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02825",
+      "ortsnetzkennzahl": 2825,
+      "ort": "Uedem",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02826",
+      "ortsnetzkennzahl": 2826,
+      "ort": "Kranenburg Niederrhein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02827",
+      "ortsnetzkennzahl": 2827,
+      "ort": "Goch-Hassum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02828",
+      "ortsnetzkennzahl": 2828,
+      "ort": "Emmerich-Elten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02831",
+      "ortsnetzkennzahl": 2831,
+      "ort": "Geldern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02832",
+      "ortsnetzkennzahl": 2832,
+      "ort": "Kevelaer",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02833",
+      "ortsnetzkennzahl": 2833,
+      "ort": "Kerken",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02834",
+      "ortsnetzkennzahl": 2834,
+      "ort": "Straelen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02835",
+      "ortsnetzkennzahl": 2835,
+      "ort": "Issum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02836",
+      "ortsnetzkennzahl": 2836,
+      "ort": "Wachtendonk",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02837",
+      "ortsnetzkennzahl": 2837,
+      "ort": "Weeze",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02838",
+      "ortsnetzkennzahl": 2838,
+      "ort": "Sonsbeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02839",
+      "ortsnetzkennzahl": 2839,
+      "ort": "Straelen-Herongen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02841",
+      "ortsnetzkennzahl": 2841,
+      "ort": "Moers",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02842",
+      "ortsnetzkennzahl": 2842,
+      "ort": "Kamp-Lintfort",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02843",
+      "ortsnetzkennzahl": 2843,
+      "ort": "Rheinberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02844",
+      "ortsnetzkennzahl": 2844,
+      "ort": "Rheinberg-Orsoy",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02845",
+      "ortsnetzkennzahl": 2845,
+      "ort": "Neukirchen-Vluyn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02850",
+      "ortsnetzkennzahl": 2850,
+      "ort": "Rees-Haldern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02851",
+      "ortsnetzkennzahl": 2851,
+      "ort": "Rees",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02852",
+      "ortsnetzkennzahl": 2852,
+      "ort": "Hamminkeln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02853",
+      "ortsnetzkennzahl": 2853,
+      "ort": "Schermbeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02855",
+      "ortsnetzkennzahl": 2855,
+      "ort": "Voerde Niederrhein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02856",
+      "ortsnetzkennzahl": 2856,
+      "ort": "Hamminkeln-Brünen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02857",
+      "ortsnetzkennzahl": 2857,
+      "ort": "Rees-Mehr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02858",
+      "ortsnetzkennzahl": 2858,
+      "ort": "Hünxe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02859",
+      "ortsnetzkennzahl": 2859,
+      "ort": "Wesel-Bislich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02861",
+      "ortsnetzkennzahl": 2861,
+      "ort": "Borken Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02862",
+      "ortsnetzkennzahl": 2862,
+      "ort": "Südlohn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02863",
+      "ortsnetzkennzahl": 2863,
+      "ort": "Velen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02864",
+      "ortsnetzkennzahl": 2864,
+      "ort": "Reken",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02865",
+      "ortsnetzkennzahl": 2865,
+      "ort": "Raesfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02866",
+      "ortsnetzkennzahl": 2866,
+      "ort": "Dorsten-Rhade",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02867",
+      "ortsnetzkennzahl": 2867,
+      "ort": "Heiden Kr Borken",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02871",
+      "ortsnetzkennzahl": 2871,
+      "ort": "Bocholt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02872",
+      "ortsnetzkennzahl": 2872,
+      "ort": "Rhede Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02873",
+      "ortsnetzkennzahl": 2873,
+      "ort": "Isselburg-Werth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02874",
+      "ortsnetzkennzahl": 2874,
+      "ort": "Isselburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02902",
+      "ortsnetzkennzahl": 2902,
+      "ort": "Warstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02903",
+      "ortsnetzkennzahl": 2903,
+      "ort": "Meschede-Freienohl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02904",
+      "ortsnetzkennzahl": 2904,
+      "ort": "Bestwig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02905",
+      "ortsnetzkennzahl": 2905,
+      "ort": "Bestwig-Ramsbeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02921",
+      "ortsnetzkennzahl": 2921,
+      "ort": "Soest",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02922",
+      "ortsnetzkennzahl": 2922,
+      "ort": "Werl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02923",
+      "ortsnetzkennzahl": 2923,
+      "ort": "Lippetal-Herzfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02924",
+      "ortsnetzkennzahl": 2924,
+      "ort": "Möhnesee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02925",
+      "ortsnetzkennzahl": 2925,
+      "ort": "Warstein-Allagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02927",
+      "ortsnetzkennzahl": 2927,
+      "ort": "Neuengeseke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02928",
+      "ortsnetzkennzahl": 2928,
+      "ort": "Soest-Ostönnen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02931",
+      "ortsnetzkennzahl": 2931,
+      "ort": "Arnsberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02932",
+      "ortsnetzkennzahl": 2932,
+      "ort": "Neheim-Hüsten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02933",
+      "ortsnetzkennzahl": 2933,
+      "ort": "Sundern Sauerland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02934",
+      "ortsnetzkennzahl": 2934,
+      "ort": "Sundern-Altenhellefeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02935",
+      "ortsnetzkennzahl": 2935,
+      "ort": "Sundern-Hachen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02937",
+      "ortsnetzkennzahl": 2937,
+      "ort": "Arnsberg-Oeventrop",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02938",
+      "ortsnetzkennzahl": 2938,
+      "ort": "Ense",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02941",
+      "ortsnetzkennzahl": 2941,
+      "ort": "Lippstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02942",
+      "ortsnetzkennzahl": 2942,
+      "ort": "Geseke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02943",
+      "ortsnetzkennzahl": 2943,
+      "ort": "Erwitte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02944",
+      "ortsnetzkennzahl": 2944,
+      "ort": "Rietberg-Mastholte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02945",
+      "ortsnetzkennzahl": 2945,
+      "ort": "Lippstadt-Benninghausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02947",
+      "ortsnetzkennzahl": 2947,
+      "ort": "Anröchte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02948",
+      "ortsnetzkennzahl": 2948,
+      "ort": "Lippstadt-Rebbeke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02951",
+      "ortsnetzkennzahl": 2951,
+      "ort": "Büren",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02952",
+      "ortsnetzkennzahl": 2952,
+      "ort": "Rüthen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02953",
+      "ortsnetzkennzahl": 2953,
+      "ort": "Wünnenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02954",
+      "ortsnetzkennzahl": 2954,
+      "ort": "Rüthen-Oestereiden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02955",
+      "ortsnetzkennzahl": 2955,
+      "ort": "Büren-Wewelsburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02957",
+      "ortsnetzkennzahl": 2957,
+      "ort": "Wünnenberg-Haaren",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02958",
+      "ortsnetzkennzahl": 2958,
+      "ort": "Büren-Harth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02961",
+      "ortsnetzkennzahl": 2961,
+      "ort": "Brilon",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02962",
+      "ortsnetzkennzahl": 2962,
+      "ort": "Olsberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02963",
+      "ortsnetzkennzahl": 2963,
+      "ort": "Brilon-Messinghausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02964",
+      "ortsnetzkennzahl": 2964,
+      "ort": "Brilon-Alme",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02971",
+      "ortsnetzkennzahl": 2971,
+      "ort": "Schmallenberg-Dorlar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02972",
+      "ortsnetzkennzahl": 2972,
+      "ort": "Schmallenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02973",
+      "ortsnetzkennzahl": 2973,
+      "ort": "Eslohe Sauerland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02974",
+      "ortsnetzkennzahl": 2974,
+      "ort": "Schmallenberg-Fredeburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02975",
+      "ortsnetzkennzahl": 2975,
+      "ort": "Schmallenberg-Oberkirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02977",
+      "ortsnetzkennzahl": 2977,
+      "ort": "Schmallenberg-Bödefeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02981",
+      "ortsnetzkennzahl": 2981,
+      "ort": "Winterberg Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02982",
+      "ortsnetzkennzahl": 2982,
+      "ort": "Medebach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02983",
+      "ortsnetzkennzahl": 2983,
+      "ort": "Winterberg-Siedlinghausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02984",
+      "ortsnetzkennzahl": 2984,
+      "ort": "Hallenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02985",
+      "ortsnetzkennzahl": 2985,
+      "ort": "Winterberg-Niedersfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02991",
+      "ortsnetzkennzahl": 2991,
+      "ort": "Marsberg-Bredelar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02992",
+      "ortsnetzkennzahl": 2992,
+      "ort": "Marsberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02993",
+      "ortsnetzkennzahl": 2993,
+      "ort": "Marsberg-Canstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "02994",
+      "ortsnetzkennzahl": 2994,
+      "ort": "Marsberg-Westheim",
+      "aktiv": true
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Vorwahlen — Bereich 2 (führende Ziffer 2) - Kostenloser Download",
+    "description": "Ortsnetzkennzahlen mit führender Ziffer 2 aus dem deutschen Nummerierungsbereich. Geografischer Schwerpunkt: Nordrhein-Westfalen (überwiegend), Niedersachsen (Teilbereich). Insgesamt 516 Einträge. Enthält 516 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Deutsche Vorwahlen — Bereich 2 (führende Ziffer 2) | ListBase",
+    "seo_description": "Herunterladen Deutsche Vorwahlen — Bereich 2 (führende Ziffer 2) — 516 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 516 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "id": "de-wochentage-quartale-aeren",
+  "name": "Wochentage, Quartale, Tageszeiten und Ären — Namen auf Deutsch (CLDR)",
+  "title": "Wochentage, Quartale, Tageszeiten und Ären — Namen auf Deutsch (CLDR)",
+  "description": "Deutsche Namen der Wochentage, Quartale, Tageszeiten und Ären des gregorianischen Kalenders in der Locale de in CLDR.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "typ",
+      "label": "Typ",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abkuerzung",
+      "label": "Abkuerzung",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "typ": "wochentag",
+      "code": "sun",
+      "name": "Sonntag",
+      "abkuerzung": "So."
+    },
+    {
+      "id": 2,
+      "typ": "wochentag",
+      "code": "mon",
+      "name": "Montag",
+      "abkuerzung": "Mo."
+    },
+    {
+      "id": 3,
+      "typ": "wochentag",
+      "code": "tue",
+      "name": "Dienstag",
+      "abkuerzung": "Di."
+    },
+    {
+      "id": 4,
+      "typ": "wochentag",
+      "code": "wed",
+      "name": "Mittwoch",
+      "abkuerzung": "Mi."
+    },
+    {
+      "id": 5,
+      "typ": "wochentag",
+      "code": "thu",
+      "name": "Donnerstag",
+      "abkuerzung": "Do."
+    },
+    {
+      "id": 6,
+      "typ": "wochentag",
+      "code": "fri",
+      "name": "Freitag",
+      "abkuerzung": "Fr."
+    },
+    {
+      "id": 7,
+      "typ": "wochentag",
+      "code": "sat",
+      "name": "Samstag",
+      "abkuerzung": "Sa."
+    },
+    {
+      "id": 8,
+      "typ": "quartal",
+      "code": "1",
+      "name": "1. Quartal",
+      "abkuerzung": "Q1"
+    },
+    {
+      "id": 9,
+      "typ": "quartal",
+      "code": "2",
+      "name": "2. Quartal",
+      "abkuerzung": "Q2"
+    },
+    {
+      "id": 10,
+      "typ": "quartal",
+      "code": "3",
+      "name": "3. Quartal",
+      "abkuerzung": "Q3"
+    },
+    {
+      "id": 11,
+      "typ": "quartal",
+      "code": "4",
+      "name": "4. Quartal",
+      "abkuerzung": "Q4"
+    },
+    {
+      "id": 12,
+      "typ": "tageszeit",
+      "code": "midnight",
+      "name": "Mitternacht",
+      "abkuerzung": "Mitternacht"
+    },
+    {
+      "id": 13,
+      "typ": "tageszeit",
+      "code": "am",
+      "name": "AM",
+      "abkuerzung": "AM"
+    },
+    {
+      "id": 14,
+      "typ": "tageszeit",
+      "code": "pm",
+      "name": "PM",
+      "abkuerzung": "PM"
+    },
+    {
+      "id": 15,
+      "typ": "tageszeit",
+      "code": "morning1",
+      "name": "morgens",
+      "abkuerzung": "morgens"
+    },
+    {
+      "id": 16,
+      "typ": "tageszeit",
+      "code": "morning2",
+      "name": "vormittags",
+      "abkuerzung": "vorm."
+    },
+    {
+      "id": 17,
+      "typ": "tageszeit",
+      "code": "afternoon1",
+      "name": "mittags",
+      "abkuerzung": "mittags"
+    },
+    {
+      "id": 18,
+      "typ": "tageszeit",
+      "code": "afternoon2",
+      "name": "nachmittags",
+      "abkuerzung": "nachm."
+    },
+    {
+      "id": 19,
+      "typ": "tageszeit",
+      "code": "evening1",
+      "name": "abends",
+      "abkuerzung": "abends"
+    },
+    {
+      "id": 20,
+      "typ": "tageszeit",
+      "code": "night1",
+      "name": "nachts",
+      "abkuerzung": "nachts"
+    },
+    {
+      "id": 21,
+      "typ": "aera",
+      "code": "0",
+      "name": "v. Chr.",
+      "abkuerzung": "v. Chr."
+    },
+    {
+      "id": 22,
+      "typ": "aera",
+      "code": "0-alt-variant",
+      "name": "vor unserer Zeitrechnung",
+      "abkuerzung": "v. u. Z."
+    },
+    {
+      "id": 23,
+      "typ": "aera",
+      "code": "1",
+      "name": "n. Chr.",
+      "abkuerzung": "n. Chr."
+    },
+    {
+      "id": 24,
+      "typ": "aera",
+      "code": "1-alt-variant",
+      "name": "unserer Zeitrechnung",
+      "abkuerzung": "u. Z."
+    }
+  ],
+  "meta": {
+    "title": "Wochentage, Quartale, Tageszeiten und Ären — Namen auf Deutsch (CLDR) - Kostenloser Download",
+    "description": "Deutsche Namen der Wochentage, Quartale, Tageszeiten und Ären des gregorianischen Kalenders in der Locale de in CLDR. Enthält 24 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Wochentage, Quartale, Tageszeiten und Ären — Namen auf Deutsch (CLDR) | ListBase",
+    "seo_description": "Herunterladen Wochentage, Quartale, Tageszeiten und Ären — Namen auf Deutsch (CLDR) — 24 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 24 Datensätze / 5 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

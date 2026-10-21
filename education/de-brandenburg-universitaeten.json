@@ -1,0 +1,304 @@
+{
+  "id": "de-brandenburg-universitaeten",
+  "name": "Brandenburg — Universitäten und Hochschulen",
+  "title": "Brandenburg — Universitäten und Hochschulen",
+  "description": "Higher-education institutions with at least one campus in the German Bundesland Brandenburg (Brandenburg, ISO 3166-2 code DE-BB). Includes institution type, sponsor, doctoral rights, all campus locations, and reported student counts. Sourced from corona-school/universities-info-germany.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "uuid",
+      "label": "Uuid",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "nicknames",
+      "label": "Nicknames",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "type_de",
+      "label": "Type De",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "sponsor",
+      "label": "Sponsor",
+      "type": "string"
+    },
+    {
+      "key": "sponsor_de",
+      "label": "Sponsor De",
+      "type": "string"
+    },
+    {
+      "key": "sponsor_en",
+      "label": "Sponsor En",
+      "type": "string"
+    },
+    {
+      "key": "doctorate",
+      "label": "Doctorate",
+      "type": "boolean"
+    },
+    {
+      "key": "locations",
+      "label": "Locations",
+      "type": "string"
+    },
+    {
+      "key": "states",
+      "label": "States",
+      "type": "string"
+    },
+    {
+      "key": "student_count",
+      "label": "Student Count",
+      "type": "number"
+    },
+    {
+      "key": "student_count_date",
+      "label": "Student Count Date",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "uuid": "1480114e-aaa4-44e6-bafb-d7ec58721617",
+      "name": "Brandenburgische Technische Universität Cottbus-Senftenberg",
+      "nicknames": "",
+      "type": "Uni",
+      "type_de": "Universität",
+      "type_en": "University",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": true,
+      "locations": "BB: Brandenburg: Brandenburg",
+      "states": "BB",
+      "student_count": 6806,
+      "student_count_date": "2019/20 (WS)"
+    },
+    {
+      "uuid": "ca1703e0-cb5d-4e8e-ba43-72366182fedf",
+      "name": "Europa-Universität Viadrina",
+      "nicknames": "",
+      "type": "Uni",
+      "type_de": "Universität",
+      "type_en": "University",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": true,
+      "locations": "Frankfurt (Oder): BB: Brandenburg: Brandenburg",
+      "states": "BB",
+      "student_count": 6004,
+      "student_count_date": "2019/20 (WS)"
+    },
+    {
+      "uuid": "3546c774-0a5d-4a55-bfcb-1c339e4a4460",
+      "name": "Fachhochschule der Polizei des Landes Brandenburg",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "Oranienburg: BB: Brandenburg: Brandenburg",
+      "states": "BB",
+      "student_count": 268,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "85ab4ca2-7f5a-4474-9ff3-3c05c31d1bfd",
+      "name": "Fachhochschule für Finanzen Brandenburg",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "Königs Wusterhausen: BB: Brandenburg: Brandenburg",
+      "states": "BB",
+      "student_count": 580,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "cc7fcf02-7e2a-4a49-b9ae-761f42634049",
+      "name": "Fachhochschule für Sport & Management Potsdam",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "private",
+      "sponsor_de": "privat",
+      "sponsor_en": "private",
+      "doctorate": false,
+      "locations": "BB: Brandenburg: Brandenburg",
+      "states": "BB",
+      "student_count": 119,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "2faf1663-021d-4ef1-a05c-672dd433c10d",
+      "name": "Fachhochschule Potsdam",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "BB: Brandenburg: Brandenburg",
+      "states": "BB",
+      "student_count": 3283,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "a60f3fc7-4a29-40e7-acda-3c00f03837f2",
+      "name": "Filmuniversität Babelsberg Konrad Wolf",
+      "nicknames": "",
+      "type": "Uni",
+      "type_de": "Universität",
+      "type_en": "University",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": true,
+      "locations": "Potsdam: BB: Brandenburg: Brandenburg",
+      "states": "BB",
+      "student_count": 863,
+      "student_count_date": "2019/20 (WS)"
+    },
+    {
+      "uuid": "9117bf04-4673-4b58-b3d7-05a316fa6b6e",
+      "name": "Hochschule für nachhaltige Entwicklung Eberswalde",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "BB: Brandenburg: Brandenburg",
+      "states": "BB",
+      "student_count": 2033,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "6b5554cf-5eb8-461c-b926-f67af425509b",
+      "name": "Medizinische Hochschule Brandenburg Theodor Fontane",
+      "nicknames": "",
+      "type": "Uni",
+      "type_de": "Universität",
+      "type_en": "University",
+      "sponsor": "private",
+      "sponsor_de": "privat",
+      "sponsor_en": "private",
+      "doctorate": true,
+      "locations": "BB: Brandenburg: Brandenburg",
+      "states": "BB",
+      "student_count": 82,
+      "student_count_date": "2015/16 (WS)"
+    },
+    {
+      "uuid": "ee8dbc1d-9fc6-471b-bde3-133cdd33f5c5",
+      "name": "Technische Hochschule Brandenburg",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "BB: Brandenburg: Brandenburg",
+      "states": "BB",
+      "student_count": 2920,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "c82cb9c5-fe11-4dc2-aa44-d50f1019b767",
+      "name": "Technische Hochschule Wildau",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "FH: BB: Brandenburg: Brandenburg",
+      "states": "BB",
+      "student_count": 4152,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "7f56c908-6403-4de2-96d1-d9f9fd30cf3a",
+      "name": "Theologische Hochschule Elstal",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "confessional",
+      "sponsor_de": "konfessionell",
+      "sponsor_en": "confessional",
+      "doctorate": false,
+      "locations": "BB: Brandenburg: Brandenburg",
+      "states": "BB",
+      "student_count": 65,
+      "student_count_date": "2015/16 (WS)"
+    },
+    {
+      "uuid": "26a73cc0-0ac3-43cc-8473-b04c6814cf9c",
+      "name": "Universität Potsdam",
+      "nicknames": "",
+      "type": "Uni",
+      "type_de": "Universität",
+      "type_en": "University",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": true,
+      "locations": "BB: Brandenburg: Brandenburg",
+      "states": "BB",
+      "student_count": 21223,
+      "student_count_date": "2019/20 (WS)"
+    }
+  ],
+  "meta": {
+    "title": "Brandenburg — Universitäten und Hochschulen - Kostenloser Download",
+    "description": "Higher-education institutions with at least one campus in the German Bundesland Brandenburg (Brandenburg, ISO 3166-2 code DE-BB). Includes institution type, sponsor, doctoral rights, all campus locations, and reported student counts. Sourced from corona-school/universities-info-germany. Enthält 13 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Brandenburg — Universitäten und Hochschulen | ListBase",
+    "seo_description": "Herunterladen Brandenburg — Universitäten und Hochschulen — 13 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 13 Datensätze / 14 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

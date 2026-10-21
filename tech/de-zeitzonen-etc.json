@@ -1,0 +1,72 @@
+{
+  "id": "de-zeitzonen-etc",
+  "name": "Zeitzonen — Etc (2)",
+  "title": "Zeitzonen — Etc (2)",
+  "description": "Zeitzonen, deren IANA-Identifikator mit 'Etc/' beginnt, mit Namen auf Deutsch.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "stadt",
+      "label": "Stadt",
+      "type": "string"
+    },
+    {
+      "key": "standardname",
+      "label": "Standardname",
+      "type": "string"
+    },
+    {
+      "key": "sommername",
+      "label": "Sommername",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Etc/UTC",
+      "region": "Etc",
+      "stadt": "",
+      "standardname": "Koordinierte Weltzeit",
+      "sommername": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Etc/Unknown",
+      "region": "Etc",
+      "stadt": "Unbekannt",
+      "standardname": "",
+      "sommername": ""
+    }
+  ],
+  "meta": {
+    "title": "Zeitzonen — Etc (2) - Kostenloser Download",
+    "description": "Zeitzonen, deren IANA-Identifikator mit 'Etc/' beginnt, mit Namen auf Deutsch. Enthält 2 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Zeitzonen — Etc (2) | ListBase",
+    "seo_description": "Herunterladen Zeitzonen — Etc (2) — 2 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 2 Datensätze / 6 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

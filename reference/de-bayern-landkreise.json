@@ -1,0 +1,624 @@
+{
+  "id": "de-bayern-landkreise",
+  "name": "Landkreise — Bayern",
+  "title": "Landkreise — Bayern",
+  "description": "Landkreise im Bundesland Bayern (71 Landkreise). Kreisfreie Städte sind in dieser Liste nicht enthalten und führen kein landkreis-Feld in der Quelle (Quelle: suche-postleitzahl.org / OSM).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 71,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "plz_count",
+      "label": "Plz Count",
+      "type": "number"
+    },
+    {
+      "key": "ort_count",
+      "label": "Ort Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Landkreis Aichach-Friedberg",
+      "slug": "landkreis-aichach-friedberg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 23,
+      "ort_count": 24
+    },
+    {
+      "name": "Landkreis Altötting",
+      "slug": "landkreis-altoetting",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 20,
+      "ort_count": 24
+    },
+    {
+      "name": "Landkreis Amberg-Sulzbach",
+      "slug": "landkreis-amberg-sulzbach",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 27,
+      "ort_count": 27
+    },
+    {
+      "name": "Landkreis Ansbach",
+      "slug": "landkreis-ansbach",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 57,
+      "ort_count": 58
+    },
+    {
+      "name": "Landkreis Aschaffenburg",
+      "slug": "landkreis-aschaffenburg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 30,
+      "ort_count": 32
+    },
+    {
+      "name": "Landkreis Augsburg",
+      "slug": "landkreis-augsburg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 40,
+      "ort_count": 46
+    },
+    {
+      "name": "Landkreis Bad Kissingen",
+      "slug": "landkreis-bad-kissingen",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 23,
+      "ort_count": 26
+    },
+    {
+      "name": "Landkreis Bad Tölz-Wolfratshausen",
+      "slug": "landkreis-bad-toelz-wolfratshausen",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 21,
+      "ort_count": 21
+    },
+    {
+      "name": "Landkreis Bamberg",
+      "slug": "landkreis-bamberg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 35,
+      "ort_count": 36
+    },
+    {
+      "name": "Landkreis Bayreuth",
+      "slug": "landkreis-bayreuth",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 29,
+      "ort_count": 33
+    },
+    {
+      "name": "Landkreis Berchtesgadener Land",
+      "slug": "landkreis-berchtesgadener-land",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 15,
+      "ort_count": 15
+    },
+    {
+      "name": "Landkreis Cham",
+      "slug": "landkreis-cham",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 39,
+      "ort_count": 39
+    },
+    {
+      "name": "Landkreis Coburg",
+      "slug": "landkreis-coburg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 17,
+      "ort_count": 17
+    },
+    {
+      "name": "Landkreis Dachau",
+      "slug": "landkreis-dachau",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 18,
+      "ort_count": 17
+    },
+    {
+      "name": "Landkreis Deggendorf",
+      "slug": "landkreis-deggendorf",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 25,
+      "ort_count": 26
+    },
+    {
+      "name": "Landkreis Dillingen an der Donau",
+      "slug": "landkreis-dillingen-an-der-donau",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 23,
+      "ort_count": 27
+    },
+    {
+      "name": "Landkreis Dingolfing-Landau",
+      "slug": "landkreis-dingolfing-landau",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 15,
+      "ort_count": 15
+    },
+    {
+      "name": "Landkreis Donau-Ries",
+      "slug": "landkreis-donau-ries",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 42,
+      "ort_count": 44
+    },
+    {
+      "name": "Landkreis Ebersberg",
+      "slug": "landkreis-ebersberg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 22,
+      "ort_count": 21
+    },
+    {
+      "name": "Landkreis Eichstätt",
+      "slug": "landkreis-eichstaett",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 30,
+      "ort_count": 30
+    },
+    {
+      "name": "Landkreis Erding",
+      "slug": "landkreis-erding",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 25,
+      "ort_count": 26
+    },
+    {
+      "name": "Landkreis Erlangen-Höchstadt",
+      "slug": "landkreis-erlangen-hoechstadt",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 22,
+      "ort_count": 25
+    },
+    {
+      "name": "Landkreis Forchheim",
+      "slug": "landkreis-forchheim",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 26,
+      "ort_count": 29
+    },
+    {
+      "name": "Landkreis Freising",
+      "slug": "landkreis-freising",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 24,
+      "ort_count": 24
+    },
+    {
+      "name": "Landkreis Freyung-Grafenau",
+      "slug": "landkreis-freyung-grafenau",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 26,
+      "ort_count": 25
+    },
+    {
+      "name": "Landkreis Fürstenfeldbruck",
+      "slug": "landkreis-fuerstenfeldbruck",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 23,
+      "ort_count": 23
+    },
+    {
+      "name": "Landkreis Fürth",
+      "slug": "landkreis-fuerth",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 11,
+      "ort_count": 14
+    },
+    {
+      "name": "Landkreis Garmisch-Partenkirchen",
+      "slug": "landkreis-garmisch-partenkirchen",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 22,
+      "ort_count": 22
+    },
+    {
+      "name": "Landkreis Günzburg",
+      "slug": "landkreis-guenzburg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 33,
+      "ort_count": 34
+    },
+    {
+      "name": "Landkreis Haßberge",
+      "slug": "landkreis-hassberge",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 25,
+      "ort_count": 26
+    },
+    {
+      "name": "Landkreis Hof",
+      "slug": "landkreis-hof",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 25,
+      "ort_count": 27
+    },
+    {
+      "name": "Landkreis Kelheim",
+      "slug": "landkreis-kelheim",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 23,
+      "ort_count": 24
+    },
+    {
+      "name": "Landkreis Kitzingen",
+      "slug": "landkreis-kitzingen",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 15,
+      "ort_count": 31
+    },
+    {
+      "name": "Landkreis Kronach",
+      "slug": "landkreis-kronach",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 17,
+      "ort_count": 18
+    },
+    {
+      "name": "Landkreis Kulmbach",
+      "slug": "landkreis-kulmbach",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 22,
+      "ort_count": 22
+    },
+    {
+      "name": "Landkreis Landsberg am Lech",
+      "slug": "landkreis-landsberg-am-lech",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 32,
+      "ort_count": 31
+    },
+    {
+      "name": "Landkreis Landshut",
+      "slug": "landkreis-landshut",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 34,
+      "ort_count": 35
+    },
+    {
+      "name": "Landkreis Lichtenfels",
+      "slug": "landkreis-lichtenfels",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 10,
+      "ort_count": 11
+    },
+    {
+      "name": "Landkreis Lindau",
+      "slug": "landkreis-lindau",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 11,
+      "ort_count": 19
+    },
+    {
+      "name": "Landkreis Main-Spessart",
+      "slug": "landkreis-main-spessart",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 40,
+      "ort_count": 40
+    },
+    {
+      "name": "Landkreis Miesbach",
+      "slug": "landkreis-miesbach",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 17,
+      "ort_count": 17
+    },
+    {
+      "name": "Landkreis Miltenberg",
+      "slug": "landkreis-miltenberg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 33,
+      "ort_count": 32
+    },
+    {
+      "name": "Landkreis Mühldorf am Inn",
+      "slug": "landkreis-muehldorf-am-inn",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 27,
+      "ort_count": 31
+    },
+    {
+      "name": "Landkreis München",
+      "slug": "landkreis-muenchen",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 31,
+      "ort_count": 29
+    },
+    {
+      "name": "Landkreis Neu-Ulm",
+      "slug": "landkreis-neu-ulm",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 19,
+      "ort_count": 17
+    },
+    {
+      "name": "Landkreis Neuburg-Schrobenhausen",
+      "slug": "landkreis-neuburg-schrobenhausen",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 18,
+      "ort_count": 18
+    },
+    {
+      "name": "Landkreis Neumarkt in der Oberpfalz",
+      "slug": "landkreis-neumarkt-in-der-oberpfalz",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 18,
+      "ort_count": 19
+    },
+    {
+      "name": "Landkreis Neustadt an der Aisch-Bad Windsheim",
+      "slug": "landkreis-neustadt-an-der-aisch-bad-windsheim",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 33,
+      "ort_count": 38
+    },
+    {
+      "name": "Landkreis Neustadt an der Waldnaab",
+      "slug": "landkreis-neustadt-an-der-waldnaab",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 35,
+      "ort_count": 38
+    },
+    {
+      "name": "Landkreis Nürnberger Land",
+      "slug": "landkreis-nuernberger-land",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 25,
+      "ort_count": 27
+    },
+    {
+      "name": "Landkreis Oberallgäu",
+      "slug": "landkreis-oberallgaeu",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 24,
+      "ort_count": 28
+    },
+    {
+      "name": "Landkreis Ostallgäu",
+      "slug": "landkreis-ostallgaeu",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 39,
+      "ort_count": 45
+    },
+    {
+      "name": "Landkreis Passau",
+      "slug": "landkreis-passau",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 35,
+      "ort_count": 38
+    },
+    {
+      "name": "Landkreis Pfaffenhofen an der Ilm",
+      "slug": "landkreis-pfaffenhofen-an-der-ilm",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 19,
+      "ort_count": 19
+    },
+    {
+      "name": "Landkreis Regen",
+      "slug": "landkreis-regen",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 20,
+      "ort_count": 24
+    },
+    {
+      "name": "Landkreis Regensburg",
+      "slug": "landkreis-regensburg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 38,
+      "ort_count": 41
+    },
+    {
+      "name": "Landkreis Rhön-Grabfeld",
+      "slug": "landkreis-rhoen-grabfeld",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 16,
+      "ort_count": 37
+    },
+    {
+      "name": "Landkreis Rosenheim",
+      "slug": "landkreis-rosenheim",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 46,
+      "ort_count": 46
+    },
+    {
+      "name": "Landkreis Roth",
+      "slug": "landkreis-roth",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 15,
+      "ort_count": 16
+    },
+    {
+      "name": "Landkreis Rottal-Inn",
+      "slug": "landkreis-rottal-inn",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 28,
+      "ort_count": 31
+    },
+    {
+      "name": "Landkreis Schwandorf",
+      "slug": "landkreis-schwandorf",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 33,
+      "ort_count": 33
+    },
+    {
+      "name": "Landkreis Schweinfurt",
+      "slug": "landkreis-schweinfurt",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 28,
+      "ort_count": 29
+    },
+    {
+      "name": "Landkreis Starnberg",
+      "slug": "landkreis-starnberg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 15,
+      "ort_count": 14
+    },
+    {
+      "name": "Landkreis Straubing-Bogen",
+      "slug": "landkreis-straubing-bogen",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 34,
+      "ort_count": 37
+    },
+    {
+      "name": "Landkreis Tirschenreuth",
+      "slug": "landkreis-tirschenreuth",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 25,
+      "ort_count": 26
+    },
+    {
+      "name": "Landkreis Traunstein",
+      "slug": "landkreis-traunstein",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 39,
+      "ort_count": 35
+    },
+    {
+      "name": "Landkreis Unterallgäu",
+      "slug": "landkreis-unterallgaeu",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 51,
+      "ort_count": 52
+    },
+    {
+      "name": "Landkreis Weilheim-Schongau",
+      "slug": "landkreis-weilheim-schongau",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 33,
+      "ort_count": 34
+    },
+    {
+      "name": "Landkreis Weißenburg-Gunzenhausen",
+      "slug": "landkreis-weissenburg-gunzenhausen",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 24,
+      "ort_count": 27
+    },
+    {
+      "name": "Landkreis Wunsiedel im Fichtelgebirge",
+      "slug": "landkreis-wunsiedel-im-fichtelgebirge",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 17,
+      "ort_count": 17
+    },
+    {
+      "name": "Landkreis Würzburg",
+      "slug": "landkreis-wuerzburg",
+      "bundesland": "Bayern",
+      "bundesland_slug": "bayern",
+      "plz_count": 47,
+      "ort_count": 52
+    }
+  ],
+  "meta": {
+    "title": "Landkreise — Bayern - Kostenloser Download",
+    "description": "Landkreise im Bundesland Bayern (71 Landkreise). Kreisfreie Städte sind in dieser Liste nicht enthalten und führen kein landkreis-Feld in der Quelle (Quelle: suche-postleitzahl.org / OSM). Enthält 71 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Landkreise — Bayern | ListBase",
+    "seo_description": "Herunterladen Landkreise — Bayern — 71 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 71 Datensätze / 6 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

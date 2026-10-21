@@ -1,0 +1,639 @@
+{
+  "id": "de-stuttgart-banken",
+  "name": "Banken in Stuttgart — SWIFT/BIC-Codes",
+  "title": "Banken in Stuttgart — SWIFT/BIC-Codes",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Stuttgart, Germany. Subset of de-banken.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 84,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 15,
+      "bank": "AAREAL BANK AG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "AARBDE5W600"
+    },
+    {
+      "id": 66,
+      "bank": "ALLIANZ LEBENSVERSICHERUNGS AG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "ALLVDESL"
+    },
+    {
+      "id": 166,
+      "bank": "BADEN-WUERTTEMBERGISCHE BANK (TRADING AS LANDESBANK BADEN-WUERTTEMBERG)",
+      "city": "STUTTGART",
+      "branch": "(IZV DEPARTMENT)",
+      "swift_code": "SOLADEST600"
+    },
+    {
+      "id": 167,
+      "bank": "BADEN-WUERTTEMBERGISCHE BANK (TRADING AS LANDESBANK BADEN-WUERTTEMBERG)",
+      "city": "STUTTGART",
+      "branch": "(IZV DEPARTMENT)",
+      "swift_code": "SOLADEST601"
+    },
+    {
+      "id": 179,
+      "bank": "BADEN-WUERTTEMBERGISCHE INVESTMENTGESELLSCHAFT MBH",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "BWKGDES1"
+    },
+    {
+      "id": 180,
+      "bank": "BADEN-WUERTTEMBERGISCHE WERTPAPIERBOERSE ZU STUTTGART",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "XSTUDES1"
+    },
+    {
+      "id": 213,
+      "bank": "BANK FUER SOZIALWIRTSCHAFT AG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "BFSWDE33STG"
+    },
+    {
+      "id": 251,
+      "bank": "BANKHAUS BAUER AG",
+      "city": "STUTTGART",
+      "branch": "(WEGEN TARGET 2)",
+      "swift_code": "BHBADES1TAR"
+    },
+    {
+      "id": 252,
+      "bank": "BANKHAUS BAUER AG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "BHBADES1"
+    },
+    {
+      "id": 262,
+      "bank": "BANKHAUS ELLWANGER AND GEIGER KG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "ELGEDES1"
+    },
+    {
+      "id": 1196,
+      "bank": "COMMERZBANK AG",
+      "city": "STUTTGART",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF096"
+    },
+    {
+      "id": 1197,
+      "bank": "COMMERZBANK AG",
+      "city": "STUTTGART",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF097"
+    },
+    {
+      "id": 1198,
+      "bank": "COMMERZBANK AG",
+      "city": "STUTTGART",
+      "branch": "(ZW.01)",
+      "swift_code": "COBADEFF599"
+    },
+    {
+      "id": 1199,
+      "bank": "COMMERZBANK AG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "COBADEFF600"
+    },
+    {
+      "id": 1846,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "STUTTGART",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK 2)",
+      "swift_code": "DRESDEFFI50"
+    },
+    {
+      "id": 1847,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "STUTTGART",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK)",
+      "swift_code": "DRESDEFFI21"
+    },
+    {
+      "id": 1848,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "STUTTGART",
+      "branch": "(PCC DCC-ITGK 3)",
+      "swift_code": "DRESDEFFI54"
+    },
+    {
+      "id": 1849,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "STUTTGART",
+      "branch": "(PCC DCC-ITGK 4)",
+      "swift_code": "DRESDEFFI57"
+    },
+    {
+      "id": 1850,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "STUTTGART",
+      "branch": "(PCC DCC-ITGK 5)",
+      "swift_code": "DRESDEFFI58"
+    },
+    {
+      "id": 1851,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "STUTTGART",
+      "branch": "(ZW 55)",
+      "swift_code": "DRESDEFF608"
+    },
+    {
+      "id": 1852,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "STUTTGART",
+      "branch": "(ZW 57)",
+      "swift_code": "DRESDEFF609"
+    },
+    {
+      "id": 1853,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "DRESDEFF600"
+    },
+    {
+      "id": 1937,
+      "bank": "CREDITPLUS BANK AG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "CPLUDES2"
+    },
+    {
+      "id": 1938,
+      "bank": "CREDITPLUS BANK AKTIENGESELLSCHAFT",
+      "city": "STUTTGART",
+      "branch": "(60030666)",
+      "swift_code": "CPLUDES1666"
+    },
+    {
+      "id": 1939,
+      "bank": "CREDITPLUS BANK AKTIENGESELLSCHAFT",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "CPLUDES1"
+    },
+    {
+      "id": 1949,
+      "bank": "DAIMLER AG",
+      "city": "STUTTGART",
+      "branch": "(INDUSTRIAL ACCOUNTS)",
+      "swift_code": "DCAGDE6SIBA"
+    },
+    {
+      "id": 1950,
+      "bank": "DAIMLER AG",
+      "city": "STUTTGART",
+      "branch": "(REST OF EUROPE)",
+      "swift_code": "DCAGDE6SROE"
+    },
+    {
+      "id": 1951,
+      "bank": "DAIMLER AG",
+      "city": "STUTTGART",
+      "branch": "(TURKEY)",
+      "swift_code": "DCAGDE6STRY"
+    },
+    {
+      "id": 1952,
+      "bank": "DAIMLER AG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "DCAGDE6S"
+    },
+    {
+      "id": 1953,
+      "bank": "DAIMLER PENSION TRUST E.V.",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "DCPTDE6S"
+    },
+    {
+      "id": 1954,
+      "bank": "DAIMLER UNTERSTUETZUNGSKASSE GMBH",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "DCUKDE6S"
+    },
+    {
+      "id": 2036,
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "DAAEDED1009"
+    },
+    {
+      "id": 2800,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "STUTTGART",
+      "branch": "(UNTERTUERKHEIM)",
+      "swift_code": "DEUTDESS659"
+    },
+    {
+      "id": 2801,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "DEUTDESS"
+    },
+    {
+      "id": 3534,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "STUTTGART",
+      "branch": "(UNTERTUERKHEIM)",
+      "swift_code": "DEUTDEDB659"
+    },
+    {
+      "id": 3535,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "DEUTDEDBSTG"
+    },
+    {
+      "id": 3682,
+      "bank": "DEUTSCHE BUNDESBANK",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "MARKDEF1600"
+    },
+    {
+      "id": 3819,
+      "bank": "DEUTSCHE POSTBANK AG",
+      "city": "STUTTGART",
+      "branch": "(STUTTGART BRANCH)",
+      "swift_code": "PBNKDEFF600"
+    },
+    {
+      "id": 3879,
+      "bank": "DUESSELDORFER HYPOTHEKENBANK AG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "DHYPDES1"
+    },
+    {
+      "id": 3909,
+      "bank": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK, STUTTGART BRANCH",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "GENODESG"
+    },
+    {
+      "id": 3916,
+      "bank": "DZ PRIVATBANK S.A. NIEDERLASSUNG STUTTGART",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "GENODEST"
+    },
+    {
+      "id": 4046,
+      "bank": "EUWAX AKTIENGESELLSCHAFT",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "EUWADES1"
+    },
+    {
+      "id": 4061,
+      "bank": "FFS BANK GMBH",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "GENODED1FFS"
+    },
+    {
+      "id": 4062,
+      "bank": "FFS BANK GMBH",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "GENODED1FFZ"
+    },
+    {
+      "id": 4097,
+      "bank": "FONTIS FAMILY OFFICE GMBH",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "FFOGDESS"
+    },
+    {
+      "id": 4214,
+      "bank": "HEDELFINGER BANK EG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "GENODES1HFB"
+    },
+    {
+      "id": 4267,
+      "bank": "HSBC TRINKAUS UND BURKHARDT AG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "TUBDDEDD600"
+    },
+    {
+      "id": 4285,
+      "bank": "IBM DEUTSCHLAND KREDITBANK GESELLSCHAFT MIT BESCHRANKTER HAFTUNG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "IBKBDES1"
+    },
+    {
+      "id": 4343,
+      "bank": "ISBANK AG",
+      "city": "STUTTGART",
+      "branch": "(ZWEIGSTELLE STUTTGART)",
+      "swift_code": "ISBKDEFXSTU"
+    },
+    {
+      "id": 4518,
+      "bank": "LANDESBANK BADEN-WUERTTEMBERG",
+      "city": "STUTTGART",
+      "branch": "(AUTOCOLLATERALISATION)",
+      "swift_code": "SOLADESTACO"
+    },
+    {
+      "id": 4519,
+      "bank": "LANDESBANK BADEN-WUERTTEMBERG",
+      "city": "STUTTGART",
+      "branch": "(INTERNAL MOVEMENTS ONLY)",
+      "swift_code": "SOLADESTDRZ"
+    },
+    {
+      "id": 4520,
+      "bank": "LANDESBANK BADEN-WUERTTEMBERG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "SOLADEST"
+    },
+    {
+      "id": 4521,
+      "bank": "LANDESBANK BADEN-WUERTTEMBERG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "SOLADEST050"
+    },
+    {
+      "id": 4522,
+      "bank": "LANDESBANK BADEN-WUERTTEMBERG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "SOLADEST443"
+    },
+    {
+      "id": 4523,
+      "bank": "LANDESBANK BADEN-WUERTTEMBERG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "SOLADEST448"
+    },
+    {
+      "id": 4524,
+      "bank": "LANDESBANK BADEN-WUERTTEMBERG ASSET MANAGEMENT INVESTMENTGESELLSCHAFT MBH",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "BWISDEST"
+    },
+    {
+      "id": 4547,
+      "bank": "LANDESKREDITBANK BADEN-WUERTTEMBERG - FOERDERBANK",
+      "city": "STUTTGART",
+      "branch": "(NIEDERLASSUNG STUTTGART)",
+      "swift_code": "LKBWDE6K600"
+    },
+    {
+      "id": 4561,
+      "bank": "LBS LANDESBAUSPARKASSE BADEN-WUERTTEMBERG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "LBLBDES1"
+    },
+    {
+      "id": 4600,
+      "bank": "MAHLE GMBH",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "MAHLDES1"
+    },
+    {
+      "id": 4630,
+      "bank": "MCKESSON EUROPE AG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "CELEDEST"
+    },
+    {
+      "id": 4641,
+      "bank": "MERCEDES-BENZ BANK AG",
+      "city": "STUTTGART",
+      "branch": "(PAYMENTS DEPARTMENT)",
+      "swift_code": "MEBEDE6SDCB"
+    },
+    {
+      "id": 4642,
+      "bank": "MERCEDES-BENZ BANK AG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "MEBEDE6S"
+    },
+    {
+      "id": 4650,
+      "bank": "MERCK FINCK PRIVATBANKIERS",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "MEFIDEMM600"
+    },
+    {
+      "id": 4795,
+      "bank": "ODDO BHF AKTIENGESELLSCHAFT",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "BHFBDEFF600"
+    },
+    {
+      "id": 4883,
+      "bank": "PORSCHE AG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "PORHDES1"
+    },
+    {
+      "id": 4919,
+      "bank": "PSD BANK RHEINNECKARSAAR EG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "GENODEF1P20"
+    },
+    {
+      "id": 4920,
+      "bank": "PSD BANK RHEINNECKARSAAR EG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "GENODEF1PY2"
+    },
+    {
+      "id": 4929,
+      "bank": "PUTSCH GMBH AND CO KG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "RECHDESS"
+    },
+    {
+      "id": 5483,
+      "bank": "RAIFFEISENBANK STUTTGART EG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "GENODES1FI2"
+    },
+    {
+      "id": 5739,
+      "bank": "SCHWAEBISCHE BANK AKTIENGESELLSCHAFT",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "SCHWDESS"
+    },
+    {
+      "id": 5740,
+      "bank": "SCHWAEBISCHE BANK AKTIENGESELLSCHAFT",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "SCHWDESSTGT"
+    },
+    {
+      "id": 5981,
+      "bank": "SEB AG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "ESSEDE5F600"
+    },
+    {
+      "id": 6053,
+      "bank": "SPARDA-BANK BADEN WUERTTEMBERG EG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "GENODEF1S02"
+    },
+    {
+      "id": 6054,
+      "bank": "SPARDA-BANK BADEN-WUERTTEMBERG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "SBBWDEST"
+    },
+    {
+      "id": 6540,
+      "bank": "SUEDDEUTSCHE AKTIENBANK AG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "DEAKDES1"
+    },
+    {
+      "id": 6542,
+      "bank": "SUEDWESTBANK AG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "SWBSDESS"
+    },
+    {
+      "id": 6543,
+      "bank": "SUEDWESTBANK AG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "SWBSDESSDOT"
+    },
+    {
+      "id": 6614,
+      "bank": "TULLIUS WALDEN BANK AG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "TUWADES1"
+    },
+    {
+      "id": 6629,
+      "bank": "UBS EUROPE SE",
+      "city": "STUTTGART",
+      "branch": "(STUTTGART)",
+      "swift_code": "SMHBDEFFSTG"
+    },
+    {
+      "id": 6632,
+      "bank": "UHLBACHER BANK EG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "GENODES1UHL"
+    },
+    {
+      "id": 7125,
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "HYVEDEMM473"
+    },
+    {
+      "id": 8049,
+      "bank": "VOLKSBANK STUTTGART EG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "VOBADESS"
+    },
+    {
+      "id": 8148,
+      "bank": "VOLKSBANK ZUFFENHAUSEN EG",
+      "city": "STUTTGART",
+      "branch": "",
+      "swift_code": "GENODES1ZUF"
+    },
+    {
+      "id": 8228,
+      "bank": "VON ESSEN GMBH AND CO. KG BANKGESELLSCHAFT",
+      "city": "STUTTGART",
+      "branch": "(NIEDERLASSUNG STUTTGART)",
+      "swift_code": "VONEDE33STG"
+    }
+  ],
+  "meta": {
+    "title": "Banken in Stuttgart — SWIFT/BIC-Codes - Kostenloser Download",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Stuttgart, Germany. Subset of de-banken. Enthält 84 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Banken in Stuttgart — SWIFT/BIC-Codes | ListBase",
+    "seo_description": "Herunterladen Banken in Stuttgart — SWIFT/BIC-Codes — 84 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 84 Datensätze / 5 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

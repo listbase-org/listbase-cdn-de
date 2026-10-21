@@ -1,0 +1,187 @@
+{
+  "id": "de-masseinheiten-energy",
+  "name": "Maßeinheiten — Kategorie 'energy' (14)",
+  "title": "Maßeinheiten — Kategorie 'energy' (14)",
+  "description": "Maßeinheiten der Kategorie 'energy' aus der Locale de in CLDR, mit Namen auf Deutsch.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abkuerzung",
+      "label": "Abkuerzung",
+      "type": "string"
+    },
+    {
+      "key": "schmalform",
+      "label": "Schmalform",
+      "type": "string"
+    },
+    {
+      "key": "muster",
+      "label": "Muster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "energy-becquerel",
+      "kategorie": "energy",
+      "name": "Becquerel",
+      "abkuerzung": "Bq",
+      "schmalform": "Bq",
+      "muster": "{0} Becquerel"
+    },
+    {
+      "id": 2,
+      "unit_code": "energy-british-thermal-unit",
+      "kategorie": "energy",
+      "name": "British thermal units",
+      "abkuerzung": "Btu",
+      "schmalform": "Btu",
+      "muster": "{0} British thermal units"
+    },
+    {
+      "id": 3,
+      "unit_code": "energy-british-thermal-unit-it",
+      "kategorie": "energy",
+      "name": "BTU-IT",
+      "abkuerzung": "BTU-IT",
+      "schmalform": "BTU-IT",
+      "muster": "{0} BTU-IT"
+    },
+    {
+      "id": 4,
+      "unit_code": "energy-calorie",
+      "kategorie": "energy",
+      "name": "Kalorien",
+      "abkuerzung": "cal",
+      "schmalform": "cal",
+      "muster": "{0} Kalorien"
+    },
+    {
+      "id": 5,
+      "unit_code": "energy-calorie-it",
+      "kategorie": "energy",
+      "name": "Internationale-Tafel-Kalorie",
+      "abkuerzung": "calIT",
+      "schmalform": "calIT",
+      "muster": "{0} Internationale-Tafel-Kalorien"
+    },
+    {
+      "id": 6,
+      "unit_code": "energy-electronvolt",
+      "kategorie": "energy",
+      "name": "Elektronenvolt",
+      "abkuerzung": "eV",
+      "schmalform": "eV",
+      "muster": "{0} Elektronenvolt"
+    },
+    {
+      "id": 7,
+      "unit_code": "energy-foodcalorie",
+      "kategorie": "energy",
+      "name": "Kilokalorien",
+      "abkuerzung": "",
+      "schmalform": "",
+      "muster": "{0} Kilokalorien"
+    },
+    {
+      "id": 8,
+      "unit_code": "energy-gray",
+      "kategorie": "energy",
+      "name": "Gray",
+      "abkuerzung": "Gy",
+      "schmalform": "Gy",
+      "muster": "{0} Gray"
+    },
+    {
+      "id": 9,
+      "unit_code": "energy-joule",
+      "kategorie": "energy",
+      "name": "Joule",
+      "abkuerzung": "Joule",
+      "schmalform": "J",
+      "muster": "{0} Joule"
+    },
+    {
+      "id": 10,
+      "unit_code": "energy-kilocalorie",
+      "kategorie": "energy",
+      "name": "Kilokalorien",
+      "abkuerzung": "kcal",
+      "schmalform": "kcal",
+      "muster": "{0} Kilokalorien"
+    },
+    {
+      "id": 11,
+      "unit_code": "energy-kilojoule",
+      "kategorie": "energy",
+      "name": "Kilojoule",
+      "abkuerzung": "Kilojoule",
+      "schmalform": "kJ",
+      "muster": "{0} Kilojoule"
+    },
+    {
+      "id": 12,
+      "unit_code": "energy-kilowatt-hour",
+      "kategorie": "energy",
+      "name": "Kilowattstunden",
+      "abkuerzung": "kWh",
+      "schmalform": "kWh",
+      "muster": "{0} Kilowattstunden"
+    },
+    {
+      "id": 13,
+      "unit_code": "energy-sievert",
+      "kategorie": "energy",
+      "name": "Sievert",
+      "abkuerzung": "Sv",
+      "schmalform": "Sv",
+      "muster": "{0} Sievert"
+    },
+    {
+      "id": 14,
+      "unit_code": "energy-therm-us",
+      "kategorie": "energy",
+      "name": "US thermal units",
+      "abkuerzung": "US therm",
+      "schmalform": "US therm",
+      "muster": "{0} US thermal units"
+    }
+  ],
+  "meta": {
+    "title": "Maßeinheiten — Kategorie 'energy' (14) - Kostenloser Download",
+    "description": "Maßeinheiten der Kategorie 'energy' aus der Locale de in CLDR, mit Namen auf Deutsch. Enthält 14 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Maßeinheiten — Kategorie 'energy' (14) | ListBase",
+    "seo_description": "Herunterladen Maßeinheiten — Kategorie 'energy' (14) — 14 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 14 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

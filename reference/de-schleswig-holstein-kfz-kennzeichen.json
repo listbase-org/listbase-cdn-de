@@ -1,0 +1,280 @@
+{
+  "id": "de-schleswig-holstein-kfz-kennzeichen",
+  "name": "Kfz-Kennzeichen Schleswig-Holstein — Unterscheidungszeichen aller Kreise und Städte",
+  "title": "Kfz-Kennzeichen Schleswig-Holstein — Unterscheidungszeichen aller Kreise und Städte",
+  "description": "Alle in Schleswig-Holstein (ISO 3166-2 DE-SH) gültigen Unterscheidungszeichen mit Stadt/Landkreis, Herleitung und Fußnoten. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = DE-SH).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "unterscheidungszeichen",
+      "label": "Unterscheidungszeichen",
+      "type": "string"
+    },
+    {
+      "key": "stadt_oder_kreis",
+      "label": "Stadt Oder Kreis",
+      "type": "string"
+    },
+    {
+      "key": "herleitung",
+      "label": "Herleitung",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_name",
+      "label": "Bundesland Name",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_iso_3166_2",
+      "label": "Bundesland Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "nationalitaetszeichen",
+      "label": "Nationalitaetszeichen",
+      "type": "string"
+    },
+    {
+      "key": "fussnoten",
+      "label": "Fussnoten",
+      "type": "string"
+    },
+    {
+      "key": "fussnoten_text",
+      "label": "Fussnoten Text",
+      "type": "string"
+    },
+    {
+      "key": "bemerkung",
+      "label": "Bemerkung",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unterscheidungszeichen": "FL",
+      "stadt_oder_kreis": "Flensburg",
+      "herleitung": "FLensburg",
+      "bundesland_name": "Schleswig-Holstein",
+      "bundesland_iso_3166_2": "DE-SH",
+      "bundesland_slug": "schleswig-holstein",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "HL",
+      "stadt_oder_kreis": "Hansestadt Lübeck",
+      "herleitung": "Hansestadt Lübeck",
+      "bundesland_name": "Schleswig-Holstein",
+      "bundesland_iso_3166_2": "DE-SH",
+      "bundesland_slug": "schleswig-holstein",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "IZ",
+      "stadt_oder_kreis": "Steinburg",
+      "herleitung": "ItZehoe",
+      "bundesland_name": "Schleswig-Holstein",
+      "bundesland_iso_3166_2": "DE-SH",
+      "bundesland_slug": "schleswig-holstein",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "KI",
+      "stadt_oder_kreis": "Kiel",
+      "herleitung": "KIel",
+      "bundesland_name": "Schleswig-Holstein",
+      "bundesland_iso_3166_2": "DE-SH",
+      "bundesland_slug": "schleswig-holstein",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "NF",
+      "stadt_oder_kreis": "Nordfriesland",
+      "herleitung": "NordFriesland",
+      "bundesland_name": "Schleswig-Holstein",
+      "bundesland_iso_3166_2": "DE-SH",
+      "bundesland_slug": "schleswig-holstein",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "OD",
+      "stadt_oder_kreis": "Stormarn",
+      "herleitung": "OlDesloe",
+      "bundesland_name": "Schleswig-Holstein",
+      "bundesland_iso_3166_2": "DE-SH",
+      "bundesland_slug": "schleswig-holstein",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "OH",
+      "stadt_oder_kreis": "Ostholstein",
+      "herleitung": "OstHolstein",
+      "bundesland_name": "Schleswig-Holstein",
+      "bundesland_iso_3166_2": "DE-SH",
+      "bundesland_slug": "schleswig-holstein",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "PI",
+      "stadt_oder_kreis": "Pinneberg",
+      "herleitung": "PInneberg",
+      "bundesland_name": "Schleswig-Holstein",
+      "bundesland_iso_3166_2": "DE-SH",
+      "bundesland_slug": "schleswig-holstein",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "RD",
+      "stadt_oder_kreis": "Rendsburg-Eckernförde",
+      "herleitung": "RenDsburg",
+      "bundesland_name": "Schleswig-Holstein",
+      "bundesland_iso_3166_2": "DE-SH",
+      "bundesland_slug": "schleswig-holstein",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "RZ",
+      "stadt_oder_kreis": "Herzogtum Lauenburg",
+      "herleitung": "RatZeburg",
+      "bundesland_name": "Schleswig-Holstein",
+      "bundesland_iso_3166_2": "DE-SH",
+      "bundesland_slug": "schleswig-holstein",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "SE",
+      "stadt_oder_kreis": "Segeberg",
+      "herleitung": "SEgeberg",
+      "bundesland_name": "Schleswig-Holstein",
+      "bundesland_iso_3166_2": "DE-SH",
+      "bundesland_slug": "schleswig-holstein",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "SL",
+      "stadt_oder_kreis": "Schleswig-Flensburg",
+      "herleitung": "SchLeswig",
+      "bundesland_name": "Schleswig-Holstein",
+      "bundesland_iso_3166_2": "DE-SH",
+      "bundesland_slug": "schleswig-holstein",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "ECK",
+      "stadt_oder_kreis": "Rendsburg-Eckernförde",
+      "herleitung": "ECKernförde",
+      "bundesland_name": "Schleswig-Holstein",
+      "bundesland_iso_3166_2": "DE-SH",
+      "bundesland_slug": "schleswig-holstein",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "HEI",
+      "stadt_oder_kreis": "Dithmarschen",
+      "herleitung": "HEIde",
+      "bundesland_name": "Schleswig-Holstein",
+      "bundesland_iso_3166_2": "DE-SH",
+      "bundesland_slug": "schleswig-holstein",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "MED",
+      "stadt_oder_kreis": "Dithmarschen",
+      "herleitung": "MElDorf",
+      "bundesland_name": "Schleswig-Holstein",
+      "bundesland_iso_3166_2": "DE-SH",
+      "bundesland_slug": "schleswig-holstein",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "NMS",
+      "stadt_oder_kreis": "Neumünster",
+      "herleitung": "NeuMünSter",
+      "bundesland_name": "Schleswig-Holstein",
+      "bundesland_iso_3166_2": "DE-SH",
+      "bundesland_slug": "schleswig-holstein",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "PLÖ",
+      "stadt_oder_kreis": "Plön",
+      "herleitung": "PLÖn",
+      "bundesland_name": "Schleswig-Holstein",
+      "bundesland_iso_3166_2": "DE-SH",
+      "bundesland_slug": "schleswig-holstein",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    }
+  ],
+  "meta": {
+    "title": "Kfz-Kennzeichen Schleswig-Holstein — Unterscheidungszeichen aller Kreise und Städte - Kostenloser Download",
+    "description": "Alle in Schleswig-Holstein (ISO 3166-2 DE-SH) gültigen Unterscheidungszeichen mit Stadt/Landkreis, Herleitung und Fußnoten. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = DE-SH). Enthält 17 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Kfz-Kennzeichen Schleswig-Holstein — Unterscheidungszeichen aller Kreise und Städte | ListBase",
+    "seo_description": "Herunterladen Kfz-Kennzeichen Schleswig-Holstein — Unterscheidungszeichen aller Kreise und Städte — 17 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 17 Datensätze / 10 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "id": "de-schleswig-holstein-universitaeten",
+  "name": "Schleswig-Holstein — Universitäten und Hochschulen",
+  "title": "Schleswig-Holstein — Universitäten und Hochschulen",
+  "description": "Higher-education institutions with at least one campus in the German Bundesland Schleswig-Holstein (Schleswig-Holstein, ISO 3166-2 code DE-SH). Includes institution type, sponsor, doctoral rights, all campus locations, and reported student counts. Sourced from corona-school/universities-info-germany.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "uuid",
+      "label": "Uuid",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "nicknames",
+      "label": "Nicknames",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "type_de",
+      "label": "Type De",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "sponsor",
+      "label": "Sponsor",
+      "type": "string"
+    },
+    {
+      "key": "sponsor_de",
+      "label": "Sponsor De",
+      "type": "string"
+    },
+    {
+      "key": "sponsor_en",
+      "label": "Sponsor En",
+      "type": "string"
+    },
+    {
+      "key": "doctorate",
+      "label": "Doctorate",
+      "type": "boolean"
+    },
+    {
+      "key": "locations",
+      "label": "Locations",
+      "type": "string"
+    },
+    {
+      "key": "states",
+      "label": "States",
+      "type": "string"
+    },
+    {
+      "key": "student_count",
+      "label": "Student Count",
+      "type": "number"
+    },
+    {
+      "key": "student_count_date",
+      "label": "Student Count Date",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "uuid": "3c45f3dd-0419-42b9-a271-cb882d680dd2",
+      "name": "Christian-Albrechts-Universität zu Kiel",
+      "nicknames": "",
+      "type": "Uni",
+      "type_de": "Universität",
+      "type_en": "University",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": true,
+      "locations": "SH: Schleswig-Holstein: Schleswig-Holstein",
+      "states": "SH",
+      "student_count": 27101,
+      "student_count_date": "2019/20 (WS)"
+    },
+    {
+      "uuid": "3262de2d-434d-4e63-8770-2dce452e18ff",
+      "name": "Europa-Universität Flensburg",
+      "nicknames": "",
+      "type": "Uni",
+      "type_de": "Universität",
+      "type_en": "University",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": true,
+      "locations": "SH: Schleswig-Holstein: Schleswig-Holstein",
+      "states": "SH",
+      "student_count": 5938,
+      "student_count_date": "2019/20 (WS)"
+    },
+    {
+      "uuid": "456dd081-6342-4e60-b176-6dc4325f4d52",
+      "name": "Fachhochschule für Verwaltung und Dienstleistung",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "Altenholz: SH: Schleswig-Holstein: Schleswig-Holstein, Reinfeld: SH: Schleswig-Holstein: Schleswig-Holstein",
+      "states": "SH",
+      "student_count": 807,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "e892dd3b-941c-4476-a980-a63ec55689f9",
+      "name": "Fachhochschule Kiel",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "SH: Schleswig-Holstein: Schleswig-Holstein",
+      "states": "SH",
+      "student_count": 7268,
+      "student_count_date": "2014/15 (WS)"
+    },
+    {
+      "uuid": "c3b49684-084e-46ab-b179-e6e190bf75da",
+      "name": "Fachhochschule Wedel",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "private",
+      "sponsor_de": "privat",
+      "sponsor_en": "private",
+      "doctorate": false,
+      "locations": "SH: Schleswig-Holstein: Schleswig-Holstein",
+      "states": "SH",
+      "student_count": 957,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "2188703c-f8a3-4cfc-a1c8-fde64e55c85b",
+      "name": "Fachhochschule Westküste",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "Heide: SH: Schleswig-Holstein: Schleswig-Holstein",
+      "states": "SH",
+      "student_count": 1320,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "b48a9c1b-ecb6-4e55-a796-104cabd56fc1",
+      "name": "Hochschule Flensburg",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "Fachhochschule: SH: Schleswig-Holstein: Schleswig-Holstein",
+      "states": "SH",
+      "student_count": 4047,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "57d9a651-3b2b-4d15-89d8-67fae27c93e5",
+      "name": "Musikhochschule Lübeck",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "SH: Schleswig-Holstein: Schleswig-Holstein",
+      "states": "SH",
+      "student_count": 369,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "125b2bbc-8e99-4d68-9da9-7f635244ff3b",
+      "name": "Muthesius Kunsthochschule",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": true,
+      "locations": "Kiel: SH: Schleswig-Holstein: Schleswig-Holstein",
+      "states": "SH",
+      "student_count": 568,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "a6f1fb4b-4157-460c-991b-d8753253cf11",
+      "name": "Nordakademie",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "private",
+      "sponsor_de": "privat",
+      "sponsor_en": "private",
+      "doctorate": false,
+      "locations": "Elmshorn: SH: Schleswig-Holstein: Schleswig-Holstein",
+      "states": "SH",
+      "student_count": 1327,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "318872e0-8d5a-416f-b890-f6fcaa603935",
+      "name": "Technische Hochschule Lübeck",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "SH: Schleswig-Holstein: Schleswig-Holstein",
+      "states": "SH",
+      "student_count": 5056,
+      "student_count_date": "2019 (SS)"
+    },
+    {
+      "uuid": "7758a84e-3806-462f-9481-c84cd37cedd7",
+      "name": "Universität zu Lübeck",
+      "nicknames": "",
+      "type": "Uni",
+      "type_de": "Universität",
+      "type_en": "University",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": true,
+      "locations": "SH: Schleswig-Holstein: Schleswig-Holstein",
+      "states": "SH",
+      "student_count": 5331,
+      "student_count_date": "2019/20 (WS)"
+    }
+  ],
+  "meta": {
+    "title": "Schleswig-Holstein — Universitäten und Hochschulen - Kostenloser Download",
+    "description": "Higher-education institutions with at least one campus in the German Bundesland Schleswig-Holstein (Schleswig-Holstein, ISO 3166-2 code DE-SH). Includes institution type, sponsor, doctoral rights, all campus locations, and reported student counts. Sourced from corona-school/universities-info-germany. Enthält 12 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Schleswig-Holstein — Universitäten und Hochschulen | ListBase",
+    "seo_description": "Herunterladen Schleswig-Holstein — Universitäten und Hochschulen — 12 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 12 Datensätze / 14 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

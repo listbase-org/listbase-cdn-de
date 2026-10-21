@@ -1,0 +1,248 @@
+{
+  "id": "de-rheinland-pfalz-landkreise",
+  "name": "Landkreise — Rheinland-Pfalz",
+  "title": "Landkreise — Rheinland-Pfalz",
+  "description": "Landkreise im Bundesland Rheinland-Pfalz (24 Landkreise). Kreisfreie Städte sind in dieser Liste nicht enthalten und führen kein landkreis-Feld in der Quelle (Quelle: suche-postleitzahl.org / OSM).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "plz_count",
+      "label": "Plz Count",
+      "type": "number"
+    },
+    {
+      "key": "ort_count",
+      "label": "Ort Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Donnersbergkreis",
+      "slug": "donnersbergkreis",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 28,
+      "ort_count": 81
+    },
+    {
+      "name": "Eifelkreis Bitburg-Prüm",
+      "slug": "eifelkreis-bitburg-pruem",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 29,
+      "ort_count": 234
+    },
+    {
+      "name": "Landkreis Ahrweiler",
+      "slug": "landkreis-ahrweiler",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 20,
+      "ort_count": 74
+    },
+    {
+      "name": "Landkreis Altenkirchen",
+      "slug": "landkreis-altenkirchen",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 31,
+      "ort_count": 118
+    },
+    {
+      "name": "Landkreis Alzey-Worms",
+      "slug": "landkreis-alzey-worms",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 25,
+      "ort_count": 69
+    },
+    {
+      "name": "Landkreis Bad Dürkheim",
+      "slug": "landkreis-bad-duerkheim",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 36,
+      "ort_count": 48
+    },
+    {
+      "name": "Landkreis Bad Kreuznach",
+      "slug": "landkreis-bad-kreuznach",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 34,
+      "ort_count": 118
+    },
+    {
+      "name": "Landkreis Bernkastel-Wittlich",
+      "slug": "landkreis-bernkastel-wittlich",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 29,
+      "ort_count": 107
+    },
+    {
+      "name": "Landkreis Birkenfeld",
+      "slug": "landkreis-birkenfeld",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 15,
+      "ort_count": 96
+    },
+    {
+      "name": "Landkreis Cochem-Zell",
+      "slug": "landkreis-cochem-zell",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 25,
+      "ort_count": 89
+    },
+    {
+      "name": "Landkreis Germersheim",
+      "slug": "landkreis-germersheim",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 25,
+      "ort_count": 31
+    },
+    {
+      "name": "Landkreis Kaiserslautern",
+      "slug": "landkreis-kaiserslautern",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 30,
+      "ort_count": 50
+    },
+    {
+      "name": "Landkreis Kusel",
+      "slug": "landkreis-kusel",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 24,
+      "ort_count": 98
+    },
+    {
+      "name": "Landkreis Mainz-Bingen",
+      "slug": "landkreis-mainz-bingen",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 28,
+      "ort_count": 64
+    },
+    {
+      "name": "Landkreis Mayen-Koblenz",
+      "slug": "landkreis-mayen-koblenz",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 31,
+      "ort_count": 87
+    },
+    {
+      "name": "Landkreis Neuwied",
+      "slug": "landkreis-neuwied",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 31,
+      "ort_count": 62
+    },
+    {
+      "name": "Landkreis Südliche Weinstraße",
+      "slug": "landkreis-suedliche-weinstrasse",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 19,
+      "ort_count": 75
+    },
+    {
+      "name": "Landkreis Südwestpfalz",
+      "slug": "landkreis-suedwestpfalz",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 31,
+      "ort_count": 84
+    },
+    {
+      "name": "Landkreis Trier-Saarburg",
+      "slug": "landkreis-trier-saarburg",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 38,
+      "ort_count": 104
+    },
+    {
+      "name": "Landkreis Vulkaneifel",
+      "slug": "landkreis-vulkaneifel",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 22,
+      "ort_count": 109
+    },
+    {
+      "name": "Rhein-Hunsrück-Kreis",
+      "slug": "rhein-hunsrueck-kreis",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 23,
+      "ort_count": 137
+    },
+    {
+      "name": "Rhein-Lahn-Kreis",
+      "slug": "rhein-lahn-kreis",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 24,
+      "ort_count": 137
+    },
+    {
+      "name": "Rhein-Pfalz-Kreis",
+      "slug": "rhein-pfalz-kreis",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 22,
+      "ort_count": 25
+    },
+    {
+      "name": "Westerwaldkreis",
+      "slug": "westerwaldkreis",
+      "bundesland": "Rheinland-Pfalz",
+      "bundesland_slug": "rheinland-pfalz",
+      "plz_count": 36,
+      "ort_count": 191
+    }
+  ],
+  "meta": {
+    "title": "Landkreise — Rheinland-Pfalz - Kostenloser Download",
+    "description": "Landkreise im Bundesland Rheinland-Pfalz (24 Landkreise). Kreisfreie Städte sind in dieser Liste nicht enthalten und führen kein landkreis-Feld in der Quelle (Quelle: suche-postleitzahl.org / OSM). Enthält 24 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Landkreise — Rheinland-Pfalz | ListBase",
+    "seo_description": "Herunterladen Landkreise — Rheinland-Pfalz — 24 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 24 Datensätze / 6 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

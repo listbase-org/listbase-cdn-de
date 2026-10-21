@@ -1,0 +1,280 @@
+{
+  "id": "de-saarland-orte-postleitzahlen",
+  "name": "Orte mit Postleitzahlen — Saarland",
+  "title": "Orte mit Postleitzahlen — Saarland",
+  "description": "19 Orte in Saarland (DE-SL) mit Postleitzahlen und Telefonvorwahl. Quelle: florianchrometz/german-metadata (MIT).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_de",
+      "label": "Name De",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "postal_codes",
+      "label": "Postal Codes",
+      "type": "number"
+    },
+    {
+      "key": "postal_code_count",
+      "label": "Postal Code Count",
+      "type": "number"
+    },
+    {
+      "key": "primary_postal_code",
+      "label": "Primary Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_code",
+      "label": "Bundesland Code",
+      "type": "string"
+    },
+    {
+      "key": "phone_prefix",
+      "label": "Phone Prefix",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Beckingen",
+      "name_de": "Beckingen",
+      "slug": "beckingen",
+      "postal_codes": "66701",
+      "postal_code_count": 1,
+      "primary_postal_code": "66701",
+      "bundesland": "Saarland",
+      "bundesland_code": "DE-SL",
+      "phone_prefix": 6865
+    },
+    {
+      "name": "Eppelborn",
+      "name_de": "Eppelborn",
+      "slug": "eppelborn",
+      "postal_codes": "66571",
+      "postal_code_count": 1,
+      "primary_postal_code": "66571",
+      "bundesland": "Saarland",
+      "bundesland_code": "DE-SL",
+      "phone_prefix": 6881
+    },
+    {
+      "name": "Freisen",
+      "name_de": "Freisen",
+      "slug": "freisen",
+      "postal_codes": "66629",
+      "postal_code_count": 1,
+      "primary_postal_code": "66629",
+      "bundesland": "Saarland",
+      "bundesland_code": "DE-SL",
+      "phone_prefix": 6855
+    },
+    {
+      "name": "Lebach",
+      "name_de": "Lebach",
+      "slug": "lebach",
+      "postal_codes": "66822",
+      "postal_code_count": 1,
+      "primary_postal_code": "66822",
+      "bundesland": "Saarland",
+      "bundesland_code": "DE-SL",
+      "phone_prefix": 6881
+    },
+    {
+      "name": "Losheim",
+      "name_de": "Losheim",
+      "slug": "losheim",
+      "postal_codes": "66679",
+      "postal_code_count": 1,
+      "primary_postal_code": "66679",
+      "bundesland": "Saarland",
+      "bundesland_code": "DE-SL",
+      "phone_prefix": 6872
+    },
+    {
+      "name": "Marpingen",
+      "name_de": "Marpingen",
+      "slug": "marpingen",
+      "postal_codes": "66646",
+      "postal_code_count": 1,
+      "primary_postal_code": "66646",
+      "bundesland": "Saarland",
+      "bundesland_code": "DE-SL",
+      "phone_prefix": 6853
+    },
+    {
+      "name": "Merzig",
+      "name_de": "Merzig",
+      "slug": "merzig",
+      "postal_codes": "66663",
+      "postal_code_count": 1,
+      "primary_postal_code": "66663",
+      "bundesland": "Saarland",
+      "bundesland_code": "DE-SL",
+      "phone_prefix": 6861
+    },
+    {
+      "name": "Mettlach",
+      "name_de": "Mettlach",
+      "slug": "mettlach",
+      "postal_codes": "66693",
+      "postal_code_count": 1,
+      "primary_postal_code": "66693",
+      "bundesland": "Saarland",
+      "bundesland_code": "DE-SL",
+      "phone_prefix": 6864
+    },
+    {
+      "name": "Namborn",
+      "name_de": "Namborn",
+      "slug": "namborn",
+      "postal_codes": "66640",
+      "postal_code_count": 1,
+      "primary_postal_code": "66640",
+      "bundesland": "Saarland",
+      "bundesland_code": "DE-SL",
+      "phone_prefix": 6873
+    },
+    {
+      "name": "Nohfelden",
+      "name_de": "Nohfelden",
+      "slug": "nohfelden",
+      "postal_codes": "66625",
+      "postal_code_count": 1,
+      "primary_postal_code": "66625",
+      "bundesland": "Saarland",
+      "bundesland_code": "DE-SL",
+      "phone_prefix": 6871
+    },
+    {
+      "name": "Nonnweiler",
+      "name_de": "Nonnweiler",
+      "slug": "nonnweiler",
+      "postal_codes": "66620",
+      "postal_code_count": 1,
+      "primary_postal_code": "66620",
+      "bundesland": "Saarland",
+      "bundesland_code": "DE-SL",
+      "phone_prefix": 6873
+    },
+    {
+      "name": "Oberthal",
+      "name_de": "Oberthal",
+      "slug": "oberthal",
+      "postal_codes": "66649",
+      "postal_code_count": 1,
+      "primary_postal_code": "66649",
+      "bundesland": "Saarland",
+      "bundesland_code": "DE-SL",
+      "phone_prefix": 6854
+    },
+    {
+      "name": "Ottweiler",
+      "name_de": "Ottweiler",
+      "slug": "ottweiler",
+      "postal_codes": "66564",
+      "postal_code_count": 1,
+      "primary_postal_code": "66564",
+      "bundesland": "Saarland",
+      "bundesland_code": "DE-SL",
+      "phone_prefix": 6824
+    },
+    {
+      "name": "Perl",
+      "name_de": "Perl",
+      "slug": "perl",
+      "postal_codes": "66706",
+      "postal_code_count": 1,
+      "primary_postal_code": "66706",
+      "bundesland": "Saarland",
+      "bundesland_code": "DE-SL",
+      "phone_prefix": 6865
+    },
+    {
+      "name": "Sankt Wendel",
+      "name_de": "Sankt Wendel",
+      "slug": "sankt-wendel",
+      "postal_codes": "66606",
+      "postal_code_count": 1,
+      "primary_postal_code": "66606",
+      "bundesland": "Saarland",
+      "bundesland_code": "DE-SL",
+      "phone_prefix": 6851
+    },
+    {
+      "name": "Schmelz",
+      "name_de": "Schmelz",
+      "slug": "schmelz",
+      "postal_codes": "66839",
+      "postal_code_count": 1,
+      "primary_postal_code": "66839",
+      "bundesland": "Saarland",
+      "bundesland_code": "DE-SL",
+      "phone_prefix": 6865
+    },
+    {
+      "name": "Tholey",
+      "name_de": "Tholey",
+      "slug": "tholey",
+      "postal_codes": "66636",
+      "postal_code_count": 1,
+      "primary_postal_code": "66636",
+      "bundesland": "Saarland",
+      "bundesland_code": "DE-SL",
+      "phone_prefix": 6888
+    },
+    {
+      "name": "Wadern",
+      "name_de": "Wadern",
+      "slug": "wadern",
+      "postal_codes": "66687",
+      "postal_code_count": 1,
+      "primary_postal_code": "66687",
+      "bundesland": "Saarland",
+      "bundesland_code": "DE-SL",
+      "phone_prefix": 6871
+    },
+    {
+      "name": "Weiskirchen",
+      "name_de": "Weiskirchen",
+      "slug": "weiskirchen",
+      "postal_codes": "66709",
+      "postal_code_count": 1,
+      "primary_postal_code": "66709",
+      "bundesland": "Saarland",
+      "bundesland_code": "DE-SL",
+      "phone_prefix": 6878
+    }
+  ],
+  "meta": {
+    "title": "Orte mit Postleitzahlen — Saarland - Kostenloser Download",
+    "description": "19 Orte in Saarland (DE-SL) mit Postleitzahlen und Telefonvorwahl. Quelle: florianchrometz/german-metadata (MIT). Enthält 19 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Orte mit Postleitzahlen — Saarland | ListBase",
+    "seo_description": "Herunterladen Orte mit Postleitzahlen — Saarland — 19 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 19 Datensätze / 9 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

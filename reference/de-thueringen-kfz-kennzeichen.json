@@ -1,0 +1,592 @@
+{
+  "id": "de-thueringen-kfz-kennzeichen",
+  "name": "Kfz-Kennzeichen Thüringen — Unterscheidungszeichen aller Kreise und Städte",
+  "title": "Kfz-Kennzeichen Thüringen — Unterscheidungszeichen aller Kreise und Städte",
+  "description": "Alle in Thüringen (ISO 3166-2 DE-TH) gültigen Unterscheidungszeichen mit Stadt/Landkreis, Herleitung und Fußnoten. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = DE-TH).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "unterscheidungszeichen",
+      "label": "Unterscheidungszeichen",
+      "type": "string"
+    },
+    {
+      "key": "stadt_oder_kreis",
+      "label": "Stadt Oder Kreis",
+      "type": "string"
+    },
+    {
+      "key": "herleitung",
+      "label": "Herleitung",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_name",
+      "label": "Bundesland Name",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_iso_3166_2",
+      "label": "Bundesland Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "nationalitaetszeichen",
+      "label": "Nationalitaetszeichen",
+      "type": "string"
+    },
+    {
+      "key": "fussnoten",
+      "label": "Fussnoten",
+      "type": "string"
+    },
+    {
+      "key": "fussnoten_text",
+      "label": "Fussnoten Text",
+      "type": "string"
+    },
+    {
+      "key": "bemerkung",
+      "label": "Bemerkung",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unterscheidungszeichen": "G",
+      "stadt_oder_kreis": "Gera, Stadt",
+      "herleitung": "Gera",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": "auslaufend Kreis, Abwicklung: Zulassungsbehörde Greiz"
+    },
+    {
+      "unterscheidungszeichen": "J",
+      "stadt_oder_kreis": "Jena, Stadt",
+      "herleitung": "Jena",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": "auslaufend Kreis, Abwicklung: Zulassungsbehörde Saale-Holzland-Kreis"
+    },
+    {
+      "unterscheidungszeichen": "AP",
+      "stadt_oder_kreis": "Weimarer Land",
+      "herleitung": "APolda",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "EA",
+      "stadt_oder_kreis": "Wartburgkreis",
+      "herleitung": "EisenAch",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "EF",
+      "stadt_oder_kreis": "Erfurt, Stadt",
+      "herleitung": "ErFurt",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": "auslaufend Kreis, Abwicklung: Zulassungsbehörde Sömmerda"
+    },
+    {
+      "unterscheidungszeichen": "IK",
+      "stadt_oder_kreis": "Ilm-Kreis",
+      "herleitung": "Ilm-Kreis",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "IL",
+      "stadt_oder_kreis": "Ilm-Kreis",
+      "herleitung": "ILmenau",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "NH",
+      "stadt_oder_kreis": "Sonneberg",
+      "herleitung": "NeuHaus",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "PN",
+      "stadt_oder_kreis": "Saale-Orla-Kreis",
+      "herleitung": "PößNeck",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "RU",
+      "stadt_oder_kreis": "Saalfeld-Rudolstadt",
+      "herleitung": "RUdolstadt",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "SM",
+      "stadt_oder_kreis": "Schmalkalden-Meiningen",
+      "herleitung": "SchMalkalden",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "UH",
+      "stadt_oder_kreis": "Unstrut-Hainich-Kreis",
+      "herleitung": "Unstrut, Hainich",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "WE",
+      "stadt_oder_kreis": "Weimar, Stadt",
+      "herleitung": "WEiLburg",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": "auslaufend Kreis, Abwicklung: Zulassungsbehörde Weimarer Land"
+    },
+    {
+      "unterscheidungszeichen": "ZR",
+      "stadt_oder_kreis": "Greiz",
+      "herleitung": "ZeulenRoda",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "ABG",
+      "stadt_oder_kreis": "Altenburger Land",
+      "herleitung": "AltenBurG",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "APD",
+      "stadt_oder_kreis": "Weimarer Land",
+      "herleitung": "APolDa",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "ARN",
+      "stadt_oder_kreis": "Ilm-Kreis",
+      "herleitung": "ARNstadt",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "ART",
+      "stadt_oder_kreis": "Kyffhäuserkreis",
+      "herleitung": "ARTern",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "EIC",
+      "stadt_oder_kreis": "Eichsfeld",
+      "herleitung": "EIChsfeld",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "EIS",
+      "stadt_oder_kreis": "Saale-Holzland-Kreis",
+      "herleitung": "EISenberg",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "GRZ",
+      "stadt_oder_kreis": "Greiz",
+      "herleitung": "GReiZ",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "GTH",
+      "stadt_oder_kreis": "Gotha",
+      "herleitung": "GoTHa",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "HBN",
+      "stadt_oder_kreis": "Hildburghausen",
+      "herleitung": "HildBurghauseN",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "HIG",
+      "stadt_oder_kreis": "Eichsfeld",
+      "herleitung": "HeilIGenstadt",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "KYF",
+      "stadt_oder_kreis": "Kyffhäuserkreis",
+      "herleitung": "KYFfhäuser",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "LBS",
+      "stadt_oder_kreis": "Saale-Orla-Kreis",
+      "herleitung": "LoBenStein",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "LSZ",
+      "stadt_oder_kreis": "Unstrut-Hainich-Kreis",
+      "herleitung": "LangenSalZa",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "MGN",
+      "stadt_oder_kreis": "Schmalkalden-Meiningen",
+      "herleitung": "MeininGeN",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "MHL",
+      "stadt_oder_kreis": "Unstrut-Hainich-Kreis",
+      "herleitung": "MüHLhausen",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "NDH",
+      "stadt_oder_kreis": "Nordhausen",
+      "herleitung": "NorDHausen",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "SCZ",
+      "stadt_oder_kreis": "Saale-Orla-Kreis",
+      "herleitung": "SChleiZ",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "SDH",
+      "stadt_oder_kreis": "Kyffhäuserkreis",
+      "herleitung": "SonDersHausen",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "SHK",
+      "stadt_oder_kreis": "Saale-Holzland-Kreis",
+      "herleitung": "Saale-Holzland-Kreis",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "SHL",
+      "stadt_oder_kreis": "Suhl, Stadt",
+      "herleitung": "SuHL",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": "auslaufend Kreis, Abwicklung: Zulassungsbehörde Hildburghausen"
+    },
+    {
+      "unterscheidungszeichen": "SLF",
+      "stadt_oder_kreis": "Saalfeld-Rudolstadt",
+      "herleitung": "SaaLFeld",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "SLN",
+      "stadt_oder_kreis": "Altenburger Land",
+      "herleitung": "SchmölLN",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "SLZ",
+      "stadt_oder_kreis": "Wartburgkreis",
+      "herleitung": "SaLZungen",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "SOK",
+      "stadt_oder_kreis": "Saale-Orla-Kreis",
+      "herleitung": "Saale-Orla-Kreis",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "SON",
+      "stadt_oder_kreis": "Sonneberg",
+      "herleitung": "SONneberg",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "SRO",
+      "stadt_oder_kreis": "Saale-Holzland-Kreis",
+      "herleitung": "StadtROda",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "SÖM",
+      "stadt_oder_kreis": "Sömmerda",
+      "herleitung": "SÖMmerda",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "WAK",
+      "stadt_oder_kreis": "Wartburgkreis",
+      "herleitung": "WArtburgKreis",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "WBS",
+      "stadt_oder_kreis": "Eichsfeld",
+      "herleitung": "WerDAu",
+      "bundesland_name": "Thüringen",
+      "bundesland_iso_3166_2": "DE-TH",
+      "bundesland_slug": "thueringen",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    }
+  ],
+  "meta": {
+    "title": "Kfz-Kennzeichen Thüringen — Unterscheidungszeichen aller Kreise und Städte - Kostenloser Download",
+    "description": "Alle in Thüringen (ISO 3166-2 DE-TH) gültigen Unterscheidungszeichen mit Stadt/Landkreis, Herleitung und Fußnoten. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = DE-TH). Enthält 43 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Kfz-Kennzeichen Thüringen — Unterscheidungszeichen aller Kreise und Städte | ListBase",
+    "seo_description": "Herunterladen Kfz-Kennzeichen Thüringen — Unterscheidungszeichen aller Kreise und Städte — 43 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 43 Datensätze / 10 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "de-masseinheiten-digital",
+  "name": "Maßeinheiten — Kategorie 'digital' (11)",
+  "title": "Maßeinheiten — Kategorie 'digital' (11)",
+  "description": "Maßeinheiten der Kategorie 'digital' aus der Locale de in CLDR, mit Namen auf Deutsch.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abkuerzung",
+      "label": "Abkuerzung",
+      "type": "string"
+    },
+    {
+      "key": "schmalform",
+      "label": "Schmalform",
+      "type": "string"
+    },
+    {
+      "key": "muster",
+      "label": "Muster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "digital-bit",
+      "kategorie": "digital",
+      "name": "Bits",
+      "abkuerzung": "Bit",
+      "schmalform": "b",
+      "muster": "{0} Bit"
+    },
+    {
+      "id": 2,
+      "unit_code": "digital-byte",
+      "kategorie": "digital",
+      "name": "Bytes",
+      "abkuerzung": "Byte",
+      "schmalform": "B",
+      "muster": "{0} Byte"
+    },
+    {
+      "id": 3,
+      "unit_code": "digital-gigabit",
+      "kategorie": "digital",
+      "name": "Gigabits",
+      "abkuerzung": "Gigabit",
+      "schmalform": "Gb",
+      "muster": "{0} Gigabit"
+    },
+    {
+      "id": 4,
+      "unit_code": "digital-gigabyte",
+      "kategorie": "digital",
+      "name": "Gigabytes",
+      "abkuerzung": "Gigabyte",
+      "schmalform": "GB",
+      "muster": "{0} Gigabyte"
+    },
+    {
+      "id": 5,
+      "unit_code": "digital-kilobit",
+      "kategorie": "digital",
+      "name": "Kilobits",
+      "abkuerzung": "kbit",
+      "schmalform": "kb",
+      "muster": "{0} Kilobit"
+    },
+    {
+      "id": 6,
+      "unit_code": "digital-kilobyte",
+      "kategorie": "digital",
+      "name": "Kilobytes",
+      "abkuerzung": "kbyte",
+      "schmalform": "kB",
+      "muster": "{0} Kilobyte"
+    },
+    {
+      "id": 7,
+      "unit_code": "digital-megabit",
+      "kategorie": "digital",
+      "name": "Megabits",
+      "abkuerzung": "Mbit",
+      "schmalform": "Mb",
+      "muster": "{0} Megabit"
+    },
+    {
+      "id": 8,
+      "unit_code": "digital-megabyte",
+      "kategorie": "digital",
+      "name": "Megabytes",
+      "abkuerzung": "Mbyte",
+      "schmalform": "MB",
+      "muster": "{0} Megabyte"
+    },
+    {
+      "id": 9,
+      "unit_code": "digital-petabyte",
+      "kategorie": "digital",
+      "name": "Petabytes",
+      "abkuerzung": "PB",
+      "schmalform": "PB",
+      "muster": "{0} Petabyte"
+    },
+    {
+      "id": 10,
+      "unit_code": "digital-terabit",
+      "kategorie": "digital",
+      "name": "Terabits",
+      "abkuerzung": "Tb",
+      "schmalform": "Tb",
+      "muster": "{0} Terabit"
+    },
+    {
+      "id": 11,
+      "unit_code": "digital-terabyte",
+      "kategorie": "digital",
+      "name": "Terabytes",
+      "abkuerzung": "TB",
+      "schmalform": "TB",
+      "muster": "{0} Terabyte"
+    }
+  ],
+  "meta": {
+    "title": "Maßeinheiten — Kategorie 'digital' (11) - Kostenloser Download",
+    "description": "Maßeinheiten der Kategorie 'digital' aus der Locale de in CLDR, mit Namen auf Deutsch. Enthält 11 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Maßeinheiten — Kategorie 'digital' (11) | ListBase",
+    "seo_description": "Herunterladen Maßeinheiten — Kategorie 'digital' (11) — 11 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 11 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

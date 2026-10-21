@@ -1,0 +1,178 @@
+{
+  "id": "de-masseinheiten-area",
+  "name": "Maßeinheiten — Kategorie 'area' (13)",
+  "title": "Maßeinheiten — Kategorie 'area' (13)",
+  "description": "Maßeinheiten der Kategorie 'area' aus der Locale de in CLDR, mit Namen auf Deutsch.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abkuerzung",
+      "label": "Abkuerzung",
+      "type": "string"
+    },
+    {
+      "key": "schmalform",
+      "label": "Schmalform",
+      "type": "string"
+    },
+    {
+      "key": "muster",
+      "label": "Muster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "area-acre",
+      "kategorie": "area",
+      "name": "Acres",
+      "abkuerzung": "ac",
+      "schmalform": "ac",
+      "muster": "{0} Acres"
+    },
+    {
+      "id": 2,
+      "unit_code": "area-bu-jp",
+      "kategorie": "area",
+      "name": "bu [JP]",
+      "abkuerzung": "bu [JP]",
+      "schmalform": "bu [JP]",
+      "muster": "{0} bu [JP]"
+    },
+    {
+      "id": 3,
+      "unit_code": "area-cho",
+      "kategorie": "area",
+      "name": "cho [JP]",
+      "abkuerzung": "cho [JP]",
+      "schmalform": "cho [JP]",
+      "muster": "{0} cho [JP]"
+    },
+    {
+      "id": 4,
+      "unit_code": "area-dunam",
+      "kategorie": "area",
+      "name": "Dunams",
+      "abkuerzung": "Dunams",
+      "schmalform": "Dunam",
+      "muster": "{0} Dunams"
+    },
+    {
+      "id": 5,
+      "unit_code": "area-hectare",
+      "kategorie": "area",
+      "name": "Hektar",
+      "abkuerzung": "Hektar",
+      "schmalform": "ha",
+      "muster": "{0} Hektar"
+    },
+    {
+      "id": 6,
+      "unit_code": "area-se-jp",
+      "kategorie": "area",
+      "name": "se [JP]",
+      "abkuerzung": "se [JP]",
+      "schmalform": "se [JP]",
+      "muster": "{0} se [JP]"
+    },
+    {
+      "id": 7,
+      "unit_code": "area-square-centimeter",
+      "kategorie": "area",
+      "name": "Quadratzentimeter",
+      "abkuerzung": "cm²",
+      "schmalform": "cm²",
+      "muster": "{0} Quadratzentimeter"
+    },
+    {
+      "id": 8,
+      "unit_code": "area-square-foot",
+      "kategorie": "area",
+      "name": "Quadratfuß",
+      "abkuerzung": "ft²",
+      "schmalform": "ft²",
+      "muster": "{0} Quadratfuß"
+    },
+    {
+      "id": 9,
+      "unit_code": "area-square-inch",
+      "kategorie": "area",
+      "name": "Quadratzoll",
+      "abkuerzung": "in²",
+      "schmalform": "in²",
+      "muster": "{0} Quadratzoll"
+    },
+    {
+      "id": 10,
+      "unit_code": "area-square-kilometer",
+      "kategorie": "area",
+      "name": "Quadratkilometer",
+      "abkuerzung": "km²",
+      "schmalform": "km²",
+      "muster": "{0} Quadratkilometer"
+    },
+    {
+      "id": 11,
+      "unit_code": "area-square-meter",
+      "kategorie": "area",
+      "name": "Quadratmeter",
+      "abkuerzung": "m²",
+      "schmalform": "m²",
+      "muster": "{0} Quadratmeter"
+    },
+    {
+      "id": 12,
+      "unit_code": "area-square-mile",
+      "kategorie": "area",
+      "name": "Quadratmeilen",
+      "abkuerzung": "mi²",
+      "schmalform": "mi²",
+      "muster": "{0} Quadratmeilen"
+    },
+    {
+      "id": 13,
+      "unit_code": "area-square-yard",
+      "kategorie": "area",
+      "name": "Quadratyards",
+      "abkuerzung": "yd²",
+      "schmalform": "yd²",
+      "muster": "{0} Quadratyards"
+    }
+  ],
+  "meta": {
+    "title": "Maßeinheiten — Kategorie 'area' (13) - Kostenloser Download",
+    "description": "Maßeinheiten der Kategorie 'area' aus der Locale de in CLDR, mit Namen auf Deutsch. Enthält 13 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Maßeinheiten — Kategorie 'area' (13) | ListBase",
+    "seo_description": "Herunterladen Maßeinheiten — Kategorie 'area' (13) — 13 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 13 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

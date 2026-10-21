@@ -1,0 +1,97 @@
+{
+  "id": "de-masseinheiten-consumption",
+  "name": "Maßeinheiten — Kategorie 'consumption' (4)",
+  "title": "Maßeinheiten — Kategorie 'consumption' (4)",
+  "description": "Maßeinheiten der Kategorie 'consumption' aus der Locale de in CLDR, mit Namen auf Deutsch.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abkuerzung",
+      "label": "Abkuerzung",
+      "type": "string"
+    },
+    {
+      "key": "schmalform",
+      "label": "Schmalform",
+      "type": "string"
+    },
+    {
+      "key": "muster",
+      "label": "Muster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "kategorie": "consumption",
+      "name": "Liter pro 100 Kilometer",
+      "abkuerzung": "L/100 km",
+      "schmalform": "L/100km",
+      "muster": "{0} Liter pro 100 Kilometer"
+    },
+    {
+      "id": 2,
+      "unit_code": "consumption-liter-per-kilometer",
+      "kategorie": "consumption",
+      "name": "Liter pro Kilometer",
+      "abkuerzung": "l/km",
+      "schmalform": "l/km",
+      "muster": "{0} Liter pro Kilometer"
+    },
+    {
+      "id": 3,
+      "unit_code": "consumption-mile-per-gallon",
+      "kategorie": "consumption",
+      "name": "Meilen pro Gallone",
+      "abkuerzung": "mpg",
+      "schmalform": "mpg",
+      "muster": "{0} Meilen pro Gallone"
+    },
+    {
+      "id": 4,
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "kategorie": "consumption",
+      "name": "Meilen pro Imp. Gallone",
+      "abkuerzung": "Meilen/ Imp. Gal.",
+      "schmalform": "mpg UK",
+      "muster": "{0} Meilen pro Imp. Gallone"
+    }
+  ],
+  "meta": {
+    "title": "Maßeinheiten — Kategorie 'consumption' (4) - Kostenloser Download",
+    "description": "Maßeinheiten der Kategorie 'consumption' aus der Locale de in CLDR, mit Namen auf Deutsch. Enthält 4 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Maßeinheiten — Kategorie 'consumption' (4) | ListBase",
+    "seo_description": "Herunterladen Maßeinheiten — Kategorie 'consumption' (4) — 4 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 4 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

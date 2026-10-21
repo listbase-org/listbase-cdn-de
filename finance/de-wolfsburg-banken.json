@@ -1,0 +1,485 @@
+{
+  "id": "de-wolfsburg-banken",
+  "name": "Banken in Wolfsburg — SWIFT/BIC-Codes",
+  "title": "Banken in Wolfsburg — SWIFT/BIC-Codes",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Wolfsburg, Germany. Subset of de-banken.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 96,
+      "bank": "AUTO EUROPA BANK GMBH",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "ECBKDE21"
+    },
+    {
+      "id": 98,
+      "bank": "AUTOVISION - DER PERSONALDIENSTLEIS  TER GMBH AND CO. OHG",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "AZGODE21"
+    },
+    {
+      "id": 1259,
+      "bank": "COMMERZBANK AG",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "COBADEFF269"
+    },
+    {
+      "id": 1902,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "WOLFSBURG",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK)",
+      "swift_code": "DRESDEFFI11"
+    },
+    {
+      "id": 1903,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "DRESDEFF269"
+    },
+    {
+      "id": 1945,
+      "bank": "CTF BETRIEBS GMBH",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "CTBGDE21"
+    },
+    {
+      "id": 2885,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "DEUTDE2H269"
+    },
+    {
+      "id": 3620,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "DEUTDEDB269"
+    },
+    {
+      "id": 4186,
+      "bank": "GVZ ENTWICKLUNGSGESELLSCHAFT WOLFSBURG MBH",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "GVZEDE21"
+    },
+    {
+      "id": 5733,
+      "bank": "SCHNELLECKE GROUP AG AND CO. KG",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "SCNGDE22"
+    },
+    {
+      "id": 5991,
+      "bank": "SEB AG",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "ESSEDE5F272"
+    },
+    {
+      "id": 6539,
+      "bank": "STIFTUNG AUTOMUSEUM VOLKSWAGEN",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "STAWDE21"
+    },
+    {
+      "id": 6611,
+      "bank": "TRUCK AND BUS GMBH",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "TRBMDE21"
+    },
+    {
+      "id": 7502,
+      "bank": "VOLKSBANK EG BRAUNSCHWEIG WOLFSBURG",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "GENODEF1WOB"
+    },
+    {
+      "id": 8140,
+      "bank": "VOLKSBANK WOLFSBURG EHM VB VORSFELDE EG",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "GENODEF1WOV"
+    },
+    {
+      "id": 8174,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22"
+    },
+    {
+      "id": 8175,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22000"
+    },
+    {
+      "id": 8176,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22001"
+    },
+    {
+      "id": 8177,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22002"
+    },
+    {
+      "id": 8178,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22003"
+    },
+    {
+      "id": 8179,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22004"
+    },
+    {
+      "id": 8180,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22005"
+    },
+    {
+      "id": 8181,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22006"
+    },
+    {
+      "id": 8182,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22007"
+    },
+    {
+      "id": 8183,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22008"
+    },
+    {
+      "id": 8184,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22009"
+    },
+    {
+      "id": 8185,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22010"
+    },
+    {
+      "id": 8186,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22011"
+    },
+    {
+      "id": 8187,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22012"
+    },
+    {
+      "id": 8188,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22013"
+    },
+    {
+      "id": 8189,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22014"
+    },
+    {
+      "id": 8190,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22015"
+    },
+    {
+      "id": 8191,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22016"
+    },
+    {
+      "id": 8192,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22017"
+    },
+    {
+      "id": 8193,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22018"
+    },
+    {
+      "id": 8194,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22019"
+    },
+    {
+      "id": 8195,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22020"
+    },
+    {
+      "id": 8196,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22021"
+    },
+    {
+      "id": 8197,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22022"
+    },
+    {
+      "id": 8198,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22023"
+    },
+    {
+      "id": 8199,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22024"
+    },
+    {
+      "id": 8200,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22025"
+    },
+    {
+      "id": 8201,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22026"
+    },
+    {
+      "id": 8202,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22027"
+    },
+    {
+      "id": 8203,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22028"
+    },
+    {
+      "id": 8204,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22029"
+    },
+    {
+      "id": 8205,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22030"
+    },
+    {
+      "id": 8206,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22031"
+    },
+    {
+      "id": 8207,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22032"
+    },
+    {
+      "id": 8208,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22033"
+    },
+    {
+      "id": 8209,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22034"
+    },
+    {
+      "id": 8210,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22035"
+    },
+    {
+      "id": 8211,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22036"
+    },
+    {
+      "id": 8212,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22037"
+    },
+    {
+      "id": 8213,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22038"
+    },
+    {
+      "id": 8214,
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22039"
+    },
+    {
+      "id": 8215,
+      "bank": "VOLKSWAGEN AG / BETRIEBSSTAETTE HEIZKRAFTWERK WEST",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VBHWDE21"
+    },
+    {
+      "id": 8216,
+      "bank": "VOLKSWAGEN AG PREUSSENELEKTRA AG OHG",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VOPODE21"
+    },
+    {
+      "id": 8221,
+      "bank": "VOLKSWAGEN BANK GMBH",
+      "city": "WOLFSBURG",
+      "branch": "(GROUP TEASURY)",
+      "swift_code": "VOWADE2BKDT"
+    },
+    {
+      "id": 8457,
+      "bank": "VW KRAFTWERK",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "KRATDE21"
+    },
+    {
+      "id": 8458,
+      "bank": "VW PENSION TRUST E. V.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWPTDE21"
+    },
+    {
+      "id": 8499,
+      "bank": "WOLFSBURG AG",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "WOLGDE21"
+    }
+  ],
+  "meta": {
+    "title": "Banken in Wolfsburg — SWIFT/BIC-Codes - Kostenloser Download",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Wolfsburg, Germany. Subset of de-banken. Enthält 62 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Banken in Wolfsburg — SWIFT/BIC-Codes | ListBase",
+    "seo_description": "Herunterladen Banken in Wolfsburg — SWIFT/BIC-Codes — 62 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 62 Datensätze / 5 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

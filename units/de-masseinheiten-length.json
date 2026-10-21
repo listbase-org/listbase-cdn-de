@@ -1,0 +1,340 @@
+{
+  "id": "de-masseinheiten-length",
+  "name": "Maßeinheiten — Kategorie 'length' (31)",
+  "title": "Maßeinheiten — Kategorie 'length' (31)",
+  "description": "Maßeinheiten der Kategorie 'length' aus der Locale de in CLDR, mit Namen auf Deutsch.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abkuerzung",
+      "label": "Abkuerzung",
+      "type": "string"
+    },
+    {
+      "key": "schmalform",
+      "label": "Schmalform",
+      "type": "string"
+    },
+    {
+      "key": "muster",
+      "label": "Muster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "length-astronomical-unit",
+      "kategorie": "length",
+      "name": "Astronomische Einheiten",
+      "abkuerzung": "AE",
+      "schmalform": "AE",
+      "muster": "{0} Astronomische Einheiten"
+    },
+    {
+      "id": 2,
+      "unit_code": "length-centimeter",
+      "kategorie": "length",
+      "name": "Zentimeter",
+      "abkuerzung": "cm",
+      "schmalform": "cm",
+      "muster": "{0} Zentimeter"
+    },
+    {
+      "id": 3,
+      "unit_code": "length-chain",
+      "kategorie": "length",
+      "name": "chain",
+      "abkuerzung": "chain",
+      "schmalform": "chain",
+      "muster": "{0} chain"
+    },
+    {
+      "id": 4,
+      "unit_code": "length-decimeter",
+      "kategorie": "length",
+      "name": "Dezimeter",
+      "abkuerzung": "dm",
+      "schmalform": "dm",
+      "muster": "{0} Dezimeter"
+    },
+    {
+      "id": 5,
+      "unit_code": "length-earth-radius",
+      "kategorie": "length",
+      "name": "Erdradius",
+      "abkuerzung": "R⊕",
+      "schmalform": "R⊕",
+      "muster": "{0} Erdradien"
+    },
+    {
+      "id": 6,
+      "unit_code": "length-fathom",
+      "kategorie": "length",
+      "name": "Nautischer Faden",
+      "abkuerzung": "Faden",
+      "schmalform": "Faden",
+      "muster": "{0} Faden"
+    },
+    {
+      "id": 7,
+      "unit_code": "length-foot",
+      "kategorie": "length",
+      "name": "Fuß",
+      "abkuerzung": "Fuß",
+      "schmalform": "ft",
+      "muster": "{0} Fuß"
+    },
+    {
+      "id": 8,
+      "unit_code": "length-furlong",
+      "kategorie": "length",
+      "name": "Furlongs",
+      "abkuerzung": "Furlong",
+      "schmalform": "Furlong",
+      "muster": "{0} Furlong"
+    },
+    {
+      "id": 9,
+      "unit_code": "length-inch",
+      "kategorie": "length",
+      "name": "Zoll",
+      "abkuerzung": "in",
+      "schmalform": "in",
+      "muster": "{0} Zoll"
+    },
+    {
+      "id": 10,
+      "unit_code": "length-jo-jp",
+      "kategorie": "length",
+      "name": "jo [JP]",
+      "abkuerzung": "jo [JP]",
+      "schmalform": "jo [JP]",
+      "muster": "{0} jo [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "length-ken",
+      "kategorie": "length",
+      "name": "ken [JP]",
+      "abkuerzung": "ken [JP]",
+      "schmalform": "ken [JP]",
+      "muster": "{0} ken [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "length-kilometer",
+      "kategorie": "length",
+      "name": "Kilometer",
+      "abkuerzung": "km",
+      "schmalform": "km",
+      "muster": "{0} Kilometer"
+    },
+    {
+      "id": 13,
+      "unit_code": "length-light-year",
+      "kategorie": "length",
+      "name": "Lichtjahre",
+      "abkuerzung": "Lj",
+      "schmalform": "Lj",
+      "muster": "{0} Lichtjahre"
+    },
+    {
+      "id": 14,
+      "unit_code": "length-meter",
+      "kategorie": "length",
+      "name": "Meter",
+      "abkuerzung": "Meter",
+      "schmalform": "Meter",
+      "muster": "{0} Meter"
+    },
+    {
+      "id": 15,
+      "unit_code": "length-micrometer",
+      "kategorie": "length",
+      "name": "Mikrometer",
+      "abkuerzung": "μm",
+      "schmalform": "μm",
+      "muster": "{0} Mikrometer"
+    },
+    {
+      "id": 16,
+      "unit_code": "length-mile",
+      "kategorie": "length",
+      "name": "Meilen",
+      "abkuerzung": "Meilen",
+      "schmalform": "mi",
+      "muster": "{0} Meilen"
+    },
+    {
+      "id": 17,
+      "unit_code": "length-mile-scandinavian",
+      "kategorie": "length",
+      "name": "skandinavische Meilen",
+      "abkuerzung": "smi",
+      "schmalform": "smi",
+      "muster": "{0} skandinavische Meilen"
+    },
+    {
+      "id": 18,
+      "unit_code": "length-millimeter",
+      "kategorie": "length",
+      "name": "Millimeter",
+      "abkuerzung": "mm",
+      "schmalform": "mm",
+      "muster": "{0} Millimeter"
+    },
+    {
+      "id": 19,
+      "unit_code": "length-nanometer",
+      "kategorie": "length",
+      "name": "Nanometer",
+      "abkuerzung": "nm",
+      "schmalform": "nm",
+      "muster": "{0} Nanometer"
+    },
+    {
+      "id": 20,
+      "unit_code": "length-nautical-mile",
+      "kategorie": "length",
+      "name": "Seemeilen",
+      "abkuerzung": "sm",
+      "schmalform": "sm",
+      "muster": "{0} Seemeilen"
+    },
+    {
+      "id": 21,
+      "unit_code": "length-parsec",
+      "kategorie": "length",
+      "name": "Parsec",
+      "abkuerzung": "pc",
+      "schmalform": "pc",
+      "muster": "{0} Parsec"
+    },
+    {
+      "id": 22,
+      "unit_code": "length-picometer",
+      "kategorie": "length",
+      "name": "Pikometer",
+      "abkuerzung": "Pikometer",
+      "schmalform": "pm",
+      "muster": "{0} Pikometer"
+    },
+    {
+      "id": 23,
+      "unit_code": "length-point",
+      "kategorie": "length",
+      "name": "DTP-Punkte",
+      "abkuerzung": "p",
+      "schmalform": "p",
+      "muster": "{0} DTP-Punkte"
+    },
+    {
+      "id": 24,
+      "unit_code": "length-ri-jp",
+      "kategorie": "length",
+      "name": "ri [JP]",
+      "abkuerzung": "ri [JP]",
+      "schmalform": "ri [JP]",
+      "muster": "{0} ri [JP]"
+    },
+    {
+      "id": 25,
+      "unit_code": "length-rin",
+      "kategorie": "length",
+      "name": "rin [JP]",
+      "abkuerzung": "rin [JP]",
+      "schmalform": "rin [JP]",
+      "muster": "{0} rin [JP]"
+    },
+    {
+      "id": 26,
+      "unit_code": "length-rod",
+      "kategorie": "length",
+      "name": "rod",
+      "abkuerzung": "rod",
+      "schmalform": "rod",
+      "muster": "{0} rod"
+    },
+    {
+      "id": 27,
+      "unit_code": "length-shaku-cloth",
+      "kategorie": "length",
+      "name": "shaku [cloth, JP]",
+      "abkuerzung": "shaku [cloth, JP]",
+      "schmalform": "shaku [cloth, JP]",
+      "muster": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 28,
+      "unit_code": "length-shaku-length",
+      "kategorie": "length",
+      "name": "shaku [JP]",
+      "abkuerzung": "shaku [JP]",
+      "schmalform": "shaku [JP]",
+      "muster": "{0} shaku [JP]"
+    },
+    {
+      "id": 29,
+      "unit_code": "length-solar-radius",
+      "kategorie": "length",
+      "name": "Sonnenradien",
+      "abkuerzung": "R☉",
+      "schmalform": "R☉",
+      "muster": "{0} Sonnenradien"
+    },
+    {
+      "id": 30,
+      "unit_code": "length-sun",
+      "kategorie": "length",
+      "name": "sun [JP]",
+      "abkuerzung": "sun [JP]",
+      "schmalform": "sun [JP]",
+      "muster": "{0} sun [JP]"
+    },
+    {
+      "id": 31,
+      "unit_code": "length-yard",
+      "kategorie": "length",
+      "name": "Yards",
+      "abkuerzung": "Yards",
+      "schmalform": "yd",
+      "muster": "{0} Yards"
+    }
+  ],
+  "meta": {
+    "title": "Maßeinheiten — Kategorie 'length' (31) - Kostenloser Download",
+    "description": "Maßeinheiten der Kategorie 'length' aus der Locale de in CLDR, mit Namen auf Deutsch. Enthält 31 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Maßeinheiten — Kategorie 'length' (31) | ListBase",
+    "seo_description": "Herunterladen Maßeinheiten — Kategorie 'length' (31) — 31 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 31 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

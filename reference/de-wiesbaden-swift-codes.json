@@ -1,0 +1,244 @@
+{
+  "id": "de-wiesbaden-swift-codes",
+  "name": "SWIFT-/BIC-Codes — Wiesbaden",
+  "title": "SWIFT-/BIC-Codes — Wiesbaden",
+  "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 33 Institute, die die Quelle mit der Stadt \"WIESBADEN\" angibt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "AAREAL BANK AG",
+      "city": "WIESBADEN",
+      "branch": "(CLEARING)",
+      "swift_code": "AARBDE5WCLE"
+    },
+    {
+      "bank": "AAREAL BANK AG",
+      "city": "WIESBADEN",
+      "branch": "(GF -BK01-)",
+      "swift_code": "AARBDE5WDOM"
+    },
+    {
+      "bank": "AAREAL BANK AG",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "AARBDE5W"
+    },
+    {
+      "bank": "AAREAL BANK AG",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "AARBDE5W108"
+    },
+    {
+      "bank": "AAREAL BANK AG (FORMERLY WESTDEUTSCHE IMMOBILIENBANK AG)",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "IMMODE5M"
+    },
+    {
+      "bank": "COMMERZ REAL INVESTMENTGESELLSCHAFT MBH",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "CGIVDE61"
+    },
+    {
+      "bank": "COMMERZ REAL SPEZIALFONDSGESELLSCHAFT MBH",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "COGBDE61"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "COBADEFF510"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "WIESBADEN",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK)",
+      "swift_code": "DRESDEFFI20"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "WIESBADEN",
+      "branch": "(PCC DCC-ITGK 1)",
+      "swift_code": "DRESDEFFJ16"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "WIESBADEN",
+      "branch": "(PCC DCC-ITGK 2)",
+      "swift_code": "DRESDEFFJ17"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "DRESDEFF510"
+    },
+    {
+      "bank": "CSC DEUTSCHLAND SOLUTIONS GMBH",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "CSCEDE51"
+    },
+    {
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "DAAEDED1036"
+    },
+    {
+      "bank": "DEUTSCHE BANK AG",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "DEUTDEFF510"
+    },
+    {
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "DEUTDEDB510"
+    },
+    {
+      "bank": "HESSISCHES MINISTERIUM DER FINANZEN",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "HEMFDE81"
+    },
+    {
+      "bank": "IKANO BANK AB (PUBL), ZWEIGNIEDERLASSUNG DEUTSCHLAND",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "PLFGDE51"
+    },
+    {
+      "bank": "IKANO BANK AB (PUBL), ZWEIGNIEDERLASSUNG DEUTSCHLAND",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "PLFGDE5A"
+    },
+    {
+      "bank": "IKANO BANK GMBH",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "IKGMDE51"
+    },
+    {
+      "bank": "IVG INSTITUTIONAL FUNDS GMBH",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "OIMODE61"
+    },
+    {
+      "bank": "NASSAUISCHE SPARKASSE",
+      "city": "WIESBADEN",
+      "branch": "(DOTATIONSKONTO)",
+      "swift_code": "NASSDE51DOT"
+    },
+    {
+      "bank": "NASSAUISCHE SPARKASSE",
+      "city": "WIESBADEN",
+      "branch": "(HEAD OFFICE/ADMINISTRATION)",
+      "swift_code": "NASSDE55"
+    },
+    {
+      "bank": "ODDO BHF AKTIENGESELLSCHAFT",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "BHFBDEFF510"
+    },
+    {
+      "bank": "PRIVATBANK REITHINGER GMBH AND CO. KG",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "REITDE61510"
+    },
+    {
+      "bank": "S BROKER AG",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "PULSDEDD001"
+    },
+    {
+      "bank": "S BROKER AG AND CO KG",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "PULSDE5W"
+    },
+    {
+      "bank": "SCHRODER PROPERTY KAPITALANLAGEGESELLSCHAFT MBH",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "AARIDE61"
+    },
+    {
+      "bank": "SEB AG",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "ESSEDE5F510"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "HYVEDEMM478"
+    },
+    {
+      "bank": "WIESBADENER VOLKSBANK EG",
+      "city": "WIESBADEN",
+      "branch": "(HANDELSABWICKLUNG/TARGET)",
+      "swift_code": "WIBADE51HAW"
+    },
+    {
+      "bank": "WIESBADENER VOLKSBANK EG",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "GENODEF1WIY"
+    },
+    {
+      "bank": "WIESBADENER VOLKSBANK EG",
+      "city": "WIESBADEN",
+      "branch": "",
+      "swift_code": "WIBADE5W"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT-/BIC-Codes — Wiesbaden - Kostenloser Download",
+    "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 33 Institute, die die Quelle mit der Stadt \"WIESBADEN\" angibt. Enthält 33 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "SWIFT-/BIC-Codes — Wiesbaden | ListBase",
+    "seo_description": "Herunterladen SWIFT-/BIC-Codes — Wiesbaden — 33 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 33 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

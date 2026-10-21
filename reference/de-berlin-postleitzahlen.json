@@ -1,0 +1,1966 @@
+{
+  "id": "de-berlin-postleitzahlen",
+  "name": "Postleitzahlen — Berlin",
+  "title": "Postleitzahlen — Berlin",
+  "description": "190 Postleitzahl-Ort-Kombinationen in Berlin (ISO DE-BE). Mit Landkreis, AGS und OSM-ID.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 190,
+  "columns": [
+    {
+      "key": "plz",
+      "label": "Plz",
+      "type": "number"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "landkreis",
+      "label": "Landkreis",
+      "type": "string"
+    },
+    {
+      "key": "is_kreisfrei",
+      "label": "Is Kreisfrei",
+      "type": "boolean"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "ags",
+      "label": "Ags",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "plz": "10115",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10117",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10119",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10178",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10179",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10243",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10245",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10247",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10249",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10315",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10317",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10318",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10319",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10365",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10367",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10369",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10405",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10407",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10409",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10435",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10437",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10439",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10551",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10553",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10555",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10557",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10559",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10585",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10587",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10589",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10623",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10625",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10627",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10629",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10707",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10709",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10711",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10713",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10715",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10717",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10719",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10777",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10779",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10781",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10783",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10785",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10787",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10789",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10823",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10825",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10827",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10829",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10961",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10963",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10965",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10967",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10969",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10997",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "10999",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12043",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12045",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12047",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12049",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12051",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12053",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12055",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12057",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12059",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12099",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12101",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12103",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12105",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12107",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12109",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12157",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12159",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12161",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12163",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12165",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12167",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12169",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12203",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12205",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12207",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12209",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12247",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12249",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12277",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12279",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12305",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12307",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12309",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12347",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12349",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12351",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12353",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12355",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12357",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12359",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12435",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12437",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12439",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12459",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12487",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12489",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12524",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12526",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12527",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12555",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12557",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12559",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12587",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12589",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12619",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12621",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12623",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12627",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12629",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12679",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12681",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12683",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12685",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12687",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "12689",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13051",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13053",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13055",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13057",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13059",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13086",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13088",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13089",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13125",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13127",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13129",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13156",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13158",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13159",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13187",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13189",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13347",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13349",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13351",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13353",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13355",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13357",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13359",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13403",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13405",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13407",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13409",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13435",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13437",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13439",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13465",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13467",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13469",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13503",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13505",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13507",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13509",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13581",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13583",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13585",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13587",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13589",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13591",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13593",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13595",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13597",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13599",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13627",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "13629",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "14050",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "14052",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "14053",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "14055",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "14057",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "14059",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "14089",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "14109",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "14129",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "14163",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "14165",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "14167",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "14169",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "14193",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "14195",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "14197",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    },
+    {
+      "plz": "14199",
+      "ort": "Berlin",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Berlin",
+      "bundesland_slug": "berlin",
+      "ags": "11000000",
+      "osm_id": "62422"
+    }
+  ],
+  "meta": {
+    "title": "Postleitzahlen — Berlin - Kostenloser Download",
+    "description": "190 Postleitzahl-Ort-Kombinationen in Berlin (ISO DE-BE). Mit Landkreis, AGS und OSM-ID. Enthält 190 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Postleitzahlen — Berlin | ListBase",
+    "seo_description": "Herunterladen Postleitzahlen — Berlin — 190 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 190 Datensätze / 8 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

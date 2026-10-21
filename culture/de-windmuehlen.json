@@ -1,0 +1,4264 @@
+{
+  "id": "de-windmuehlen",
+  "name": "Windmühlen in Deutschland / Windmills in Germany",
+  "title": "Windmühlen in Deutschland / Windmills in Germany",
+  "description": "Windmühlen in Deutschland (Windmills in Germany). Geolocated points sourced from Wikidata (instance of Q38720), located in Germany (Q183), each with a coordinate (P625).",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 467,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_de",
+      "label": "Name De",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q339651",
+      "name_de": "Accumer Mühle",
+      "name_en": "",
+      "latitude": 53.5465,
+      "longitude": 8.0193,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q339651"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q37687214",
+      "name_de": "Alte Mühle (Fürstenberg)",
+      "name_en": "Alte Mühle (Fürstenberg)",
+      "latitude": 51.73054,
+      "longitude": 9.40439,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q37687214"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q137675121",
+      "name_de": "Alte Mühle in Binnen",
+      "name_en": "",
+      "latitude": 52.62421,
+      "longitude": 9.132174,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137675121"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q56234837",
+      "name_de": "Alte Mühle Twisteden",
+      "name_en": "Alte Mühle Twisteden",
+      "latitude": 51.557606,
+      "longitude": 6.206836,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56234837"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q106779064",
+      "name_de": "Alte Windmühle (Laboe)",
+      "name_en": "Old Windmill (Laboe)",
+      "latitude": 54.401265,
+      "longitude": 10.221629,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106779064"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q14084161",
+      "name_de": "Alteburger Mühle",
+      "name_en": "Alteburger Mühle",
+      "latitude": 50.9054,
+      "longitude": 6.97768,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14084161"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q2635867",
+      "name_de": "Altfunnixsieler Mühle",
+      "name_en": "Altfunnixsieler Mühle",
+      "latitude": 53.65232,
+      "longitude": 7.77871,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2635867"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q12269607",
+      "name_de": "Amanda",
+      "name_en": "",
+      "latitude": 53.592845,
+      "longitude": 9.381474,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12269607"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q629621",
+      "name_de": "Arberger Mühle",
+      "name_en": "Arberger Mühle",
+      "latitude": 53.038,
+      "longitude": 8.92271,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q629621"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q137667715",
+      "name_de": "Arnumer Mühle",
+      "name_en": "",
+      "latitude": 52.307025,
+      "longitude": 9.73256,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137667715"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q133317915",
+      "name_de": "Aschwardener Mühle",
+      "name_en": "",
+      "latitude": 53.28186,
+      "longitude": 8.5246,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133317915"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q777211",
+      "name_de": "Aurora",
+      "name_en": "Borsteler Mühle",
+      "latitude": 53.5397,
+      "longitude": 9.69279,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q777211"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q798260",
+      "name_de": "Bachtor",
+      "name_en": "Bachtor",
+      "latitude": 50.9278,
+      "longitude": 6.94569,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q798260"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q131471344",
+      "name_de": "Bahnhofstraße 7",
+      "name_en": "",
+      "latitude": 53.946773,
+      "longitude": 9.138522,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131471344"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q49451964",
+      "name_de": "Ballendorfer Bockwindmühle",
+      "name_en": "Ballendorfer Windmühle",
+      "latitude": 51.140327,
+      "longitude": 12.683889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49451964"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q136417056",
+      "name_de": "Bansiner Mühle",
+      "name_en": "",
+      "latitude": 53.960833,
+      "longitude": 14.125,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136417056"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q807028",
+      "name_de": "Banzkower Mühle",
+      "name_en": "Banzkower Mühle",
+      "latitude": 53.5214,
+      "longitude": 11.5047,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q807028"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q118125947",
+      "name_de": "Barver Windmühle",
+      "name_en": "",
+      "latitude": 52.62571,
+      "longitude": 8.57612,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118125947"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q137667164",
+      "name_de": "Bassesche Mühle",
+      "name_en": "",
+      "latitude": 52.261814,
+      "longitude": 9.628361,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137667164"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q49444848",
+      "name_de": "Bechers Windmühle Eilenburg",
+      "name_en": "Bechers Mühle Eilenburg",
+      "latitude": 51.456172,
+      "longitude": 12.609319,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49444848"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q27087927",
+      "name_de": "Bockwindmühle Altbelgern",
+      "name_en": "Windmühle Altbelgern",
+      "latitude": 51.477083,
+      "longitude": 13.1985,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27087927"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q105980719",
+      "name_de": "Bockwindmühle Borne",
+      "name_en": "Bockwindmühle Borne",
+      "latitude": 52.107188,
+      "longitude": 12.53908,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105980719"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q49445400",
+      "name_de": "Bockwindmühle Dölzig Dölzig",
+      "name_en": "Windmühle Dölzig",
+      "latitude": 51.352445,
+      "longitude": 12.211459,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49445400"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q49452004",
+      "name_de": "Bockwindmühle Ebersbach",
+      "name_en": "Ebersbacher Windmühle",
+      "latitude": 51.102789,
+      "longitude": 12.706654,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49452004"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q49450227",
+      "name_de": "Bockwindmühle Ebersbach Ebersbach",
+      "name_en": "Bockwindmühle Ebersbach",
+      "latitude": 51.233243,
+      "longitude": 13.651977,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49450227"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q111669100",
+      "name_de": "Bockwindmühle Fahrland",
+      "name_en": "Fahrland post mill",
+      "latitude": 52.475102,
+      "longitude": 12.997679,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111669100"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q15792839",
+      "name_de": "Bockwindmühle Fermersleben",
+      "name_en": "",
+      "latitude": 52.09071,
+      "longitude": 11.65298,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15792839"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q49444987",
+      "name_de": "Bockwindmühle Fiehn Authausen",
+      "name_en": "Mühle Fiehn Authausen",
+      "latitude": 51.589223,
+      "longitude": 12.672493,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49444987"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q49453079",
+      "name_de": "Bockwindmühle Fuchshain",
+      "name_en": "wind mill in Fuchshain",
+      "latitude": 51.280403,
+      "longitude": 12.530431,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49453079"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q107479223",
+      "name_de": "Bockwindmühle Gorsdorf",
+      "name_en": "Gorsdorfer Windmühle",
+      "latitude": 51.792226,
+      "longitude": 12.875468,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107479223"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q76633342",
+      "name_de": "Bockwindmühle Inselstadt",
+      "name_en": "Inselstadt wind mill",
+      "latitude": 52.376903,
+      "longitude": 12.94257,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q76633342"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q56477531",
+      "name_de": "Bockwindmühle Krosigk",
+      "name_en": "Bockwindmühle Krosigk",
+      "latitude": 51.613905,
+      "longitude": 11.927878,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56477531"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q76636721",
+      "name_de": "Bockwindmühle Kästorf",
+      "name_en": "Bockwindmühle Kästorf",
+      "latitude": 52.448813,
+      "longitude": 10.784134,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q76636721"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q56476899",
+      "name_de": "Bockwindmühle Langeneichstädt",
+      "name_en": "Bockwindmühle Langeneichstädt",
+      "latitude": 51.347772,
+      "longitude": 11.745992,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56476899"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q73165938",
+      "name_de": "Bockwindmühle Lauenroth",
+      "name_en": "Breitfeldsche Mühle",
+      "latitude": 52.014707,
+      "longitude": 11.124824,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q73165938"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q889314",
+      "name_de": "Bockwindmühle Liebenburg",
+      "name_en": "Bockwindmühle Liebenburg",
+      "latitude": 52.0287,
+      "longitude": 10.4464,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q889314"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q49590881",
+      "name_de": "Bockwindmühle Lindenhayner Straße 6",
+      "name_en": "Bockmühle Schönwölkau-Brinnis",
+      "latitude": 51.516742,
+      "longitude": 12.450055,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49590881"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q101647297",
+      "name_de": "Bockwindmühle Luckau",
+      "name_en": "Bockwindmühle Luckau",
+      "latitude": 51.847805,
+      "longitude": 13.715016,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q101647297"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q49444991",
+      "name_de": "Bockwindmühle Ludwig Authausen",
+      "name_en": "Windmühle Authausen",
+      "latitude": 51.586115,
+      "longitude": 12.675079,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49444991"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q49445757",
+      "name_de": "Bockwindmühle Luppa Luppa (Wermsdorf)",
+      "name_en": "Webersche Windmühle Luppa",
+      "latitude": 51.343566,
+      "longitude": 12.953573,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49445757"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q21821248",
+      "name_de": "Bockwindmühle Oppenwehe",
+      "name_en": "Post mill Oppenwehe",
+      "latitude": 52.469555,
+      "longitude": 8.532913,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21821248"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q889316",
+      "name_de": "Bockwindmühle Pechau",
+      "name_en": "",
+      "latitude": 52.0942,
+      "longitude": 11.715,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q889316"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q49445841",
+      "name_de": "Bockwindmühle Peterwitz Peterwitz (Wiedemar)",
+      "name_en": "Windmühle Peterwitz",
+      "latitude": 51.500185,
+      "longitude": 12.248987,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49445841"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q124990429",
+      "name_de": "Bockwindmühle Pudagla",
+      "name_en": "",
+      "latitude": 53.960868,
+      "longitude": 14.063782,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124990429"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q106859242",
+      "name_de": "Bockwindmühle Sargstedt",
+      "name_en": "Bockwindmühle Sargstedt",
+      "latitude": 51.937839,
+      "longitude": 10.981503,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106859242"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q49445848",
+      "name_de": "Bockwindmühle Schkeuditz Zwochau",
+      "name_en": "Bockwindmühle Zwochau",
+      "latitude": 51.459105,
+      "longitude": 12.27391,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49445848"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q106372468",
+      "name_de": "Bockwindmühle Schradersche Mühle",
+      "name_en": "",
+      "latitude": 52.44873,
+      "longitude": 10.78487,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106372468"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q49444782",
+      "name_de": "Bockwindmühle Selben",
+      "name_en": "Bockmühle Döbernitz-Selben",
+      "latitude": 51.493663,
+      "longitude": 12.363044,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49444782"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q111812846",
+      "name_de": "Bockwindmühle Speckenwiesen",
+      "name_en": "Bockwindmühle",
+      "latitude": 52.604502,
+      "longitude": 9.456311,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111812846"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q889324",
+      "name_de": "Bockwindmühle Trebbus",
+      "name_en": "Windmühle Trebbus",
+      "latitude": 51.6917,
+      "longitude": 13.5137,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q889324"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q126364337",
+      "name_de": "",
+      "name_en": "Bockwindmühle Vehlefanz / Schön Kathrein",
+      "latitude": 52.725721,
+      "longitude": 13.094679,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126364337"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q14518543",
+      "name_de": "Bockwindmühle Weseke",
+      "name_en": "Weseke windmill",
+      "latitude": 51.897549,
+      "longitude": 6.857185,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14518543"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q107423762",
+      "name_de": "Bockwindmühle Zierau",
+      "name_en": "Bockwindmühle Zierau",
+      "latitude": 52.750796,
+      "longitude": 11.314033,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107423762"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q49445856",
+      "name_de": "Bockwindmühle »Wolkwitz« Niederglaucha Glaucha",
+      "name_en": "Bockwindmühle Wolkwitz",
+      "latitude": 51.564885,
+      "longitude": 12.563406,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49445856"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q889481",
+      "name_de": "Bodenburgsche Windmühle",
+      "name_en": "Bodenburgsche Windmühle",
+      "latitude": 52.0686,
+      "longitude": 11.6724,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q889481"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q71840556",
+      "name_de": "Bokeler Mühle",
+      "name_en": "Bokeler Mühle",
+      "latitude": 53.231429,
+      "longitude": 8.135548,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q71840556"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q58400695",
+      "name_de": "Braaker Mühle",
+      "name_en": "",
+      "latitude": 53.601237,
+      "longitude": 10.244935,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58400695"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q27895192",
+      "name_de": "",
+      "name_en": "Brachter Mühle",
+      "latitude": 51.279556,
+      "longitude": 6.192611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27895192"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q113119148",
+      "name_de": "Brahmsche Mühle",
+      "name_en": "Brahmsche Mühle",
+      "latitude": 51.521435,
+      "longitude": 6.787111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113119148"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q902119",
+      "name_de": "Braunsmühle",
+      "name_en": "Braunsmühle",
+      "latitude": 51.1976,
+      "longitude": 6.62521,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q902119"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q921149",
+      "name_de": "Britzer Mühle",
+      "name_en": "Britzer Mühle",
+      "latitude": 52.4319,
+      "longitude": 13.4336,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q921149"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q924191",
+      "name_de": "Brodauer Mühle",
+      "name_en": "Brodauer Mühle",
+      "latitude": 54.1205,
+      "longitude": 10.8659,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q924191"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q115868904",
+      "name_de": "Buchholzer Windmühle",
+      "name_en": "Buchholzer Windmühle",
+      "latitude": 52.40519,
+      "longitude": 9.80769,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115868904"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q106984050",
+      "name_de": "Buddesche Windmühle Woldegk",
+      "name_en": "Buddesche Mühle",
+      "latitude": 53.463142,
+      "longitude": 13.578745,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106984050"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q20794932",
+      "name_de": "Buschfrantzenmühle",
+      "name_en": "",
+      "latitude": 51.19855,
+      "longitude": 6.570272,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20794932"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q1017660",
+      "name_de": "Buss-Mühle",
+      "name_en": "Bussmühle",
+      "latitude": 51.3581,
+      "longitude": 6.6334,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1017660"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q1019585",
+      "name_de": "Böckelmannsche Windmühle",
+      "name_en": "",
+      "latitude": 52.0645,
+      "longitude": 11.6709,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1019585"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q110161462",
+      "name_de": "Büsdorfer Mühle",
+      "name_en": "Büsdorfer Mühle",
+      "latitude": 50.988064,
+      "longitude": 6.716305,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110161462"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q49445045",
+      "name_de": "Clanzschwitzer Windmühle Clanzschwitz (Liebschützberg)",
+      "name_en": "Windmühle Clanzschwitz",
+      "latitude": 51.333113,
+      "longitude": 13.155532,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49445045"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q1144581",
+      "name_de": "Curiosche Windmühle",
+      "name_en": "Curiosche Windmühle",
+      "latitude": 52.0676,
+      "longitude": 11.6711,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1144581"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q1180473",
+      "name_de": "De Vrouw Johanna",
+      "name_en": "De Vrouw Johanna",
+      "latitude": 53.372384,
+      "longitude": 7.21334,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1180473"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q1183137",
+      "name_de": "Deichmühle",
+      "name_en": "Deichmühle",
+      "latitude": 53.5899,
+      "longitude": 7.21434,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1183137"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q1183140",
+      "name_de": "Deichmühle Haseldorf",
+      "name_en": "",
+      "latitude": 53.6379,
+      "longitude": 9.59013,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1183140"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q1271976",
+      "name_de": "Düppler Mühle",
+      "name_en": "Düppler Mühle",
+      "latitude": 52.1475,
+      "longitude": 11.5881,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1271976"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q1297095",
+      "name_de": "Egelsbergmühle",
+      "name_en": "Egelsbergmühle",
+      "latitude": 51.3861,
+      "longitude": 6.59535,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1297095"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q97994826",
+      "name_de": "Eidelstedter Mühle",
+      "name_en": "Eidelstedter Mühle",
+      "latitude": 53.60061,
+      "longitude": 9.90368,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97994826"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q49604742",
+      "name_de": "Einzeldenkmale der Sachgesamtheit Deutsches Landwirtschaftsmuseum Schloss Blankenhain: Bockwindmühle mit Müllerhaus sowie Trinkpavillon (siehe auch Sachgesamtheitsdokument Obj. 09301045) An der Windmühle -",
+      "name_en": "",
+      "latitude": 50.798276,
+      "longitude": 12.28249,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49604742"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q1328568",
+      "name_de": "Elfrather Mühle",
+      "name_en": "Elfrather Mühle",
+      "latitude": 51.3781,
+      "longitude": 6.61167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1328568"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q137661671",
+      "name_de": "Erbenzinsmühle",
+      "name_en": "",
+      "latitude": 52.335606,
+      "longitude": 9.841484,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137661671"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q1378933",
+      "name_de": "Eutiner Windmühle",
+      "name_en": "Eutiner Windmühle",
+      "latitude": 54.1364,
+      "longitude": 10.6102,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1378933"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q1397236",
+      "name_de": "Farver Mühle",
+      "name_en": "Farver Mühle",
+      "latitude": 54.2894,
+      "longitude": 10.7933,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1397236"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q133894152",
+      "name_de": "Flohrmühle",
+      "name_en": "Flohrmühle",
+      "latitude": 52.734042,
+      "longitude": 10.231705,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133894152"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q137691420",
+      "name_de": "Frankenburger Mühle",
+      "name_en": "",
+      "latitude": 53.175271,
+      "longitude": 8.905896,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137691420"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q1469182",
+      "name_de": "Fritzdorfer Windmühle",
+      "name_en": "Fritzdorfer Windmühle",
+      "latitude": 50.5868,
+      "longitude": 7.09368,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1469182"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q49453083",
+      "name_de": "Fuchshainer Paltrockmühle",
+      "name_en": "Fuchshainer Paltrockmühle",
+      "latitude": 51.285546,
+      "longitude": 12.52961,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49453083"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q121081634",
+      "name_de": "Fünfflügelmühle",
+      "name_en": "Fünfflügelmühle",
+      "latitude": 52.4532,
+      "longitude": 10.0124,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121081634"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q111792527",
+      "name_de": "Galerie-Holländerwindmühle Borstel",
+      "name_en": "Holländerwindmühle Borstel",
+      "latitude": 52.590587,
+      "longitude": 9.398568,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111792527"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q137660676",
+      "name_de": "Galerieholländerwindmühle Schabacker",
+      "name_en": "",
+      "latitude": 52.709047,
+      "longitude": 9.250464,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137660676"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q1498920",
+      "name_de": "Geismühle",
+      "name_en": "Geismühle",
+      "latitude": 51.3108,
+      "longitude": 6.63289,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1498920"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q19964491",
+      "name_de": "Gerkerather Mühle",
+      "name_en": "",
+      "latitude": 51.155624,
+      "longitude": 6.361255,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19964491"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q1520111",
+      "name_de": "Gettorfer Mühle",
+      "name_en": "Gettorfer Mühle",
+      "latitude": 54.4091,
+      "longitude": 9.9785,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1520111"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q131349594",
+      "name_de": "Gnurre-Mühle Frisia (Norden)",
+      "name_en": "",
+      "latitude": 53.590832,
+      "longitude": 7.215134,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131349594"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q109946722",
+      "name_de": "Godorfer Mühle",
+      "name_en": "Godorfer Mühle",
+      "latitude": 50.847258,
+      "longitude": 6.979114,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109946722"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q137687460",
+      "name_de": "Gradierwerk-Windmühle Bad Rothenfelde",
+      "name_en": "",
+      "latitude": 52.107674,
+      "longitude": 8.170803,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137687460"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q1425061",
+      "name_de": "Grebiner Windmühle",
+      "name_en": "Grebiner Windmühle",
+      "latitude": 54.1964,
+      "longitude": 10.4886,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1425061"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q106859564",
+      "name_de": "Grohner Mühle",
+      "name_en": "Grohner Mühle",
+      "latitude": 53.171613,
+      "longitude": 8.650063,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106859564"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q1561287",
+      "name_de": "Günther-Mühle",
+      "name_en": "",
+      "latitude": 51.0062,
+      "longitude": 14.8273,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1561287"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q78153001",
+      "name_de": "Habers Mühle",
+      "name_en": "Turmwindmühle Habers",
+      "latitude": 51.814194,
+      "longitude": 6.725889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q78153001"
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q102300111",
+      "name_de": "Haseborgsche Windmühle",
+      "name_en": "Haseborgsche Mühle",
+      "latitude": 53.178725,
+      "longitude": 7.304811,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q102300111"
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q15814533",
+      "name_de": "Haxtumer Mühle",
+      "name_en": "Haxtumer Mühle",
+      "latitude": 53.45939,
+      "longitude": 7.45506,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15814533"
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q1593843",
+      "name_de": "Heidbergmühle",
+      "name_en": "Heidbergmühle (Lank)",
+      "latitude": 51.3048,
+      "longitude": 6.69669,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1593843"
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q125704955",
+      "name_de": "Heiser Mühle",
+      "name_en": "Heiser Mühle",
+      "latitude": 53.414506,
+      "longitude": 8.685999,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125704955"
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q18625484",
+      "name_de": "Hengstforder Mühle",
+      "name_en": "Hengstforder Mühle",
+      "latitude": 53.21709,
+      "longitude": 7.785941,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18625484"
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q1609640",
+      "name_de": "Herdentorswallmühle",
+      "name_en": "Am Wall Windmill",
+      "latitude": 53.0801,
+      "longitude": 8.80682,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1609640"
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q49445234",
+      "name_de": "Hesselmühle Querbitzsch",
+      "name_en": "Hesselmühle",
+      "latitude": 51.23652,
+      "longitude": 12.958929,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49445234"
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q137757513",
+      "name_de": "Hilter Mühle",
+      "name_en": "",
+      "latitude": 52.826991,
+      "longitude": 7.310449,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137757513"
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q1620893",
+      "name_de": "Historische Mühle von Sanssouci",
+      "name_en": "Historic Mill of Sanssouci",
+      "latitude": 52.4041,
+      "longitude": 13.0356,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1620893"
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q130394754",
+      "name_de": "Historische Windkraftanlage",
+      "name_en": "",
+      "latitude": 48.230881,
+      "longitude": 9.681897,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130394754"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q1623654",
+      "name_de": "Hohenbrücker Mühle",
+      "name_en": "Hohenbrücker Windmühle",
+      "latitude": 52.0895,
+      "longitude": 13.9027,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1623654"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q75020337",
+      "name_de": "Hollingstedter Windmühle",
+      "name_en": "Hollingstedter Windmühle",
+      "latitude": 54.278139,
+      "longitude": 10.089778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q75020337"
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q134126500",
+      "name_de": "Holländermühle Benz",
+      "name_en": "Holländermühle Benz",
+      "latitude": 53.938022,
+      "longitude": 14.070696,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134126500"
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q49444648",
+      "name_de": "Holländermühle Börln Börln",
+      "name_en": "Holländermühle Börln",
+      "latitude": 51.376477,
+      "longitude": 12.910405,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49444648"
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q49453338",
+      "name_de": "Holländermühle Canitz",
+      "name_en": "Canitzer Holländermühle",
+      "latitude": 51.409407,
+      "longitude": 12.689817,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49453338"
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q87716604",
+      "name_de": "Holländermühle Naumburg",
+      "name_en": "Holländermühle Naumburg",
+      "latitude": 51.14615,
+      "longitude": 11.78587,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q87716604"
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q49448070",
+      "name_de": "Holländermühle Wallbach",
+      "name_en": "Holländermühle Wallbach",
+      "latitude": 51.122539,
+      "longitude": 12.967315,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49448070"
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q123284043",
+      "name_de": "Holländerwindmühle Mellendorf",
+      "name_en": "Mellendorf windmill",
+      "latitude": 52.54203,
+      "longitude": 9.74496,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123284043"
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q28740264",
+      "name_de": "Holländerwindmühle Rövershagen",
+      "name_en": "Rövershagen windmill",
+      "latitude": 54.163214,
+      "longitude": 12.237146,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28740264"
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q1624958",
+      "name_de": "Holländerwindmühle Straupitz",
+      "name_en": "Windmühle Straupitz",
+      "latitude": 51.9159,
+      "longitude": 14.127,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1624958"
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q1624959",
+      "name_de": "Holländerwindmühle Syrau",
+      "name_en": "Syrauer Holländermühle",
+      "latitude": 50.5504,
+      "longitude": 12.0939,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1624959"
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q1628448",
+      "name_de": "Horner Mühle",
+      "name_en": "Horner Mühle",
+      "latitude": 53.1015,
+      "longitude": 8.87785,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1628448"
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q111827835",
+      "name_de": "Horster Mühle",
+      "name_en": "Horst mill",
+      "latitude": 52.436514,
+      "longitude": 9.542241,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111827835"
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q1630538",
+      "name_de": "Hossesche Windmühle",
+      "name_en": "",
+      "latitude": 52.0617,
+      "longitude": 11.6786,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1630538"
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q69059987",
+      "name_de": "Hummelbecker Windmühle, Dützen",
+      "name_en": "Hummelbecker Windmühle, Dützen",
+      "latitude": 52.27127,
+      "longitude": 8.852832,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q69059987"
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q96323710",
+      "name_de": "Höxbergmühle",
+      "name_en": "Höxbergmühle",
+      "latitude": 51.732355,
+      "longitude": 8.056316,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96323710"
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q1319020",
+      "name_de": "Hüvener Mühle",
+      "name_en": "Hüvener Mühle",
+      "latitude": 52.7718,
+      "longitude": 7.56428,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1319020"
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q60423317",
+      "name_de": "Immerather Mühle",
+      "name_en": "",
+      "latitude": 51.042,
+      "longitude": 6.447028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60423317"
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q1642613",
+      "name_de": "Inselmühle Norderney",
+      "name_en": "Inselmühle Norderney",
+      "latitude": 53.7061,
+      "longitude": 7.15639,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1642613"
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q21176092",
+      "name_de": "Jungfernmühle",
+      "name_en": "Jungfernmühle",
+      "latitude": 52.43211,
+      "longitude": 13.468051,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21176092"
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q111666209",
+      "name_de": "Jungs Mühle",
+      "name_en": "Jungs wind mill",
+      "latitude": 51.606412,
+      "longitude": 13.891297,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111666209"
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q30154215",
+      "name_de": "Kageler Mühle",
+      "name_en": "Kageler Mühle Mützel",
+      "latitude": 52.372878,
+      "longitude": 12.176132,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30154215"
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q3916184",
+      "name_de": "Kalkarer Mühle",
+      "name_en": "Kalkarer Mühle",
+      "latitude": 51.7397,
+      "longitude": 6.295667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3916184"
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q58402877",
+      "name_de": "Kampffs Mühle",
+      "name_en": "",
+      "latitude": 53.37691,
+      "longitude": 10.56116,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58402877"
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q106475030",
+      "name_de": "Kappen-Holländermühle",
+      "name_en": "Kappen-Holländermühle",
+      "latitude": 52.407084,
+      "longitude": 10.174299,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106475030"
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q96345788",
+      "name_de": "Kappenwindmühle (Laer)",
+      "name_en": "Kappenwindmühle",
+      "latitude": 52.056389,
+      "longitude": 7.361685,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96345788"
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q95680588",
+      "name_de": "Kappenwindmühle (Lette)",
+      "name_en": "Kappenwindmühle",
+      "latitude": 51.901533,
+      "longitude": 7.183432,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q95680588"
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q1330536",
+      "name_de": "Klaashensche Mühle",
+      "name_en": "Klaashensche Mühle",
+      "latitude": 53.5976,
+      "longitude": 7.47141,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1330536"
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q1746682",
+      "name_de": "Klostermühle Lahde (Petershagen)",
+      "name_en": "Klostermühle Lahde (Petershagen)",
+      "latitude": 52.3689,
+      "longitude": 8.99106,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1746682"
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q881485",
+      "name_de": "Kriemhildmühle",
+      "name_en": "Kriemhildmühle",
+      "latitude": 51.663611,
+      "longitude": 6.450556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q881485"
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q20754376",
+      "name_de": "Kröpeliner Mühle",
+      "name_en": "Windmill in Kröpelin",
+      "latitude": 54.070278,
+      "longitude": 11.801667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20754376"
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q137671189",
+      "name_de": "Königsmühle",
+      "name_en": "",
+      "latitude": 53.189281,
+      "longitude": 7.271532,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137671189"
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q69282197",
+      "name_de": "Königsmühle Eilhausen",
+      "name_en": "Königsmühle Eilhausen",
+      "latitude": 52.309953,
+      "longitude": 8.673503,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q69282197"
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q1492992",
+      "name_de": "Langenrader Windmühle",
+      "name_en": "Langenrader Windmühle",
+      "latitude": 54.1645,
+      "longitude": 10.3343,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1492992"
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q1812272",
+      "name_de": "Leezdorfer Mühle",
+      "name_en": "Leezdorfer Mühle",
+      "latitude": 53.5491,
+      "longitude": 7.29206,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1812272"
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q21848498",
+      "name_de": "Leutewitzer Windmühle",
+      "name_en": "Leutewitzer Windmühle",
+      "latitude": 51.053569,
+      "longitude": 13.673762,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21848498"
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q121095902",
+      "name_de": "Levester Windmühle",
+      "name_en": "Levester Windmühle",
+      "latitude": 52.3227,
+      "longitude": 9.5579,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121095902"
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q28791174",
+      "name_de": "Limmer Windmühle",
+      "name_en": "Limmer windmill",
+      "latitude": 52.37791,
+      "longitude": 9.69237,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28791174"
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q28730364",
+      "name_de": "Lindener Turm",
+      "name_en": "Lindener Turm",
+      "latitude": 52.36205,
+      "longitude": 9.70526,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28730364"
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q137661599",
+      "name_de": "Lister Bockwindmühle",
+      "name_en": "",
+      "latitude": 52.406624,
+      "longitude": 9.746099,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137661599"
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q137687451",
+      "name_de": "Lohmühle",
+      "name_en": "",
+      "latitude": 52.279211,
+      "longitude": 8.033786,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137687451"
+    },
+    {
+      "id": 150,
+      "wikidata_id": "Q19294953",
+      "name_de": "Lohmühle Mönchengladbach",
+      "name_en": "",
+      "latitude": 51.19917,
+      "longitude": 6.43172,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19294953"
+    },
+    {
+      "id": 151,
+      "wikidata_id": "Q16833213",
+      "name_de": "Lukasmühle",
+      "name_en": "",
+      "latitude": 52.29494,
+      "longitude": 7.09409,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16833213"
+    },
+    {
+      "id": 152,
+      "wikidata_id": "Q134444339",
+      "name_de": "Lübberstedter Mühle",
+      "name_en": "",
+      "latitude": 53.33861,
+      "longitude": 8.81381,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134444339"
+    },
+    {
+      "id": 153,
+      "wikidata_id": "Q16218124",
+      "name_de": "Lümbacher Windmühle Clarissa",
+      "name_en": "Lümbacher Mühle",
+      "latitude": 51.0775,
+      "longitude": 6.063333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16218124"
+    },
+    {
+      "id": 154,
+      "wikidata_id": "Q18288425",
+      "name_de": "Meints Mühle",
+      "name_en": "Meints Mühle",
+      "latitude": 53.51422,
+      "longitude": 7.470987,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18288425"
+    },
+    {
+      "id": 155,
+      "wikidata_id": "Q1922098",
+      "name_de": "Mersmühle",
+      "name_en": "Mersmühle",
+      "latitude": 52.8027,
+      "longitude": 7.22818,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1922098"
+    },
+    {
+      "id": 156,
+      "wikidata_id": "Q15694577",
+      "name_de": "Micktner Windmühle",
+      "name_en": "Micktner Windmühle",
+      "latitude": 51.077778,
+      "longitude": 13.706111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15694577"
+    },
+    {
+      "id": 157,
+      "wikidata_id": "Q3105451",
+      "name_de": "Mühle Donsbrüggen",
+      "name_en": "Mühle von Donsbrüggen",
+      "latitude": 51.80535,
+      "longitude": 6.087689,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3105451"
+    },
+    {
+      "id": 158,
+      "wikidata_id": "Q137686009",
+      "name_de": "Mühle Dralle",
+      "name_en": "",
+      "latitude": 52.451654,
+      "longitude": 9.137864,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137686009"
+    },
+    {
+      "id": 159,
+      "wikidata_id": "Q137691643",
+      "name_de": "Mühle Elsdorf",
+      "name_en": "",
+      "latitude": 53.245789,
+      "longitude": 9.359117,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137691643"
+    },
+    {
+      "id": 160,
+      "wikidata_id": "Q15836050",
+      "name_de": "Mühle Hinte",
+      "name_en": "",
+      "latitude": 53.41358,
+      "longitude": 7.19541,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15836050"
+    },
+    {
+      "id": 161,
+      "wikidata_id": "Q112602111",
+      "name_de": "Mühle Liebeherr, Sachsendorf",
+      "name_en": "Mühle Liebeherr, Sachsendorf",
+      "latitude": 51.869696,
+      "longitude": 11.878164,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112602111"
+    },
+    {
+      "id": 162,
+      "wikidata_id": "Q1702695",
+      "name_de": "Mühle Münkeboe",
+      "name_en": "",
+      "latitude": 53.5155,
+      "longitude": 7.37263,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1702695"
+    },
+    {
+      "id": 163,
+      "wikidata_id": "Q137671255",
+      "name_de": "Mühle Nanowa",
+      "name_en": "",
+      "latitude": 53.260928,
+      "longitude": 7.258236,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137671255"
+    },
+    {
+      "id": 164,
+      "wikidata_id": "Q137687446",
+      "name_de": "Mühle Rinker",
+      "name_en": "",
+      "latitude": 52.278489,
+      "longitude": 8.034152,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137687446"
+    },
+    {
+      "id": 165,
+      "wikidata_id": "Q106314941",
+      "name_de": "Mühle van Schayck",
+      "name_en": "",
+      "latitude": 51.450957,
+      "longitude": 6.252908,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106314941"
+    },
+    {
+      "id": 166,
+      "wikidata_id": "Q1615009",
+      "name_de": "Mühle von Rönn",
+      "name_en": "Rönn windmill",
+      "latitude": 53.2297,
+      "longitude": 8.79063,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1615009"
+    },
+    {
+      "id": 167,
+      "wikidata_id": "Q1958388",
+      "name_de": "Mühle Wiegboldsbur",
+      "name_en": "",
+      "latitude": 53.4562,
+      "longitude": 7.34545,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1958388"
+    },
+    {
+      "id": 168,
+      "wikidata_id": "Q113050991",
+      "name_de": "Mühle Wippingen",
+      "name_en": "Windmühle Wippingen",
+      "latitude": 52.92647,
+      "longitude": 7.40887,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113050991"
+    },
+    {
+      "id": 169,
+      "wikidata_id": "Q58398296",
+      "name_de": "Mühlenhof Manhagen: Windmühle",
+      "name_en": "",
+      "latitude": 54.21893,
+      "longitude": 9.922769,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58398296"
+    },
+    {
+      "id": 170,
+      "wikidata_id": "Q105241507",
+      "name_de": "Mühlenkirche",
+      "name_en": "Mühlenkirche",
+      "latitude": 52.306404,
+      "longitude": 10.493383,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105241507"
+    },
+    {
+      "id": 171,
+      "wikidata_id": "Q1958491",
+      "name_de": "Mühlenmuseum Pewsum",
+      "name_en": "",
+      "latitude": 53.4351,
+      "longitude": 7.08936,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1958491"
+    },
+    {
+      "id": 172,
+      "wikidata_id": "Q25975838",
+      "name_de": "Mühlenstumpf (Auerberg)",
+      "name_en": "Mühlenstumpf Auerberg",
+      "latitude": 50.75621,
+      "longitude": 7.08136,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25975838"
+    },
+    {
+      "id": 173,
+      "wikidata_id": "Q106314942",
+      "name_de": "Mühlenturm",
+      "name_en": "",
+      "latitude": 51.514667,
+      "longitude": 6.326472,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106314942"
+    },
+    {
+      "id": 174,
+      "wikidata_id": "Q19965623",
+      "name_de": "Mülforter Straße 27 a",
+      "name_en": "",
+      "latitude": 51.151228,
+      "longitude": 6.497541,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19965623"
+    },
+    {
+      "id": 175,
+      "wikidata_id": "Q28833337",
+      "name_de": "Nordstädter Windmühle",
+      "name_en": "Nordstädter Windmühle",
+      "latitude": 52.38241,
+      "longitude": 9.71999,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28833337"
+    },
+    {
+      "id": 176,
+      "wikidata_id": "Q139661106",
+      "name_de": "Oberahmer Peldemühle",
+      "name_en": "",
+      "latitude": 53.476953,
+      "longitude": 7.995292,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q139661106"
+    },
+    {
+      "id": 177,
+      "wikidata_id": "Q2009117",
+      "name_de": "Oberaußemer Mühle",
+      "name_en": "Mühlenstumpf Oberaußem",
+      "latitude": 50.9741,
+      "longitude": 6.68953,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2009117"
+    },
+    {
+      "id": 178,
+      "wikidata_id": "Q2010536",
+      "name_de": "Oberneulander Mühle",
+      "name_en": "Oberneulander Mühle",
+      "latitude": 53.086369,
+      "longitude": 8.936181,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2010536"
+    },
+    {
+      "id": 179,
+      "wikidata_id": "Q106485367",
+      "name_de": "Osdorfer Mühle",
+      "name_en": "Osdorfer Mühle",
+      "latitude": 53.57263,
+      "longitude": 9.85517,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106485367"
+    },
+    {
+      "id": 180,
+      "wikidata_id": "Q1399763",
+      "name_de": "Osterather Windmühle",
+      "name_en": "Osterather Windmühle",
+      "latitude": 51.2677,
+      "longitude": 6.60892,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1399763"
+    },
+    {
+      "id": 181,
+      "wikidata_id": "Q2048438",
+      "name_de": "Paltrock- und Bockwindmühlen Langerwisch",
+      "name_en": "Paltrockmühle Langerwisch",
+      "latitude": 52.3208,
+      "longitude": 13.0843,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2048438"
+    },
+    {
+      "id": 182,
+      "wikidata_id": "Q101647248",
+      "name_de": "Paltrockmühle Saalow",
+      "name_en": "Paltrockmühle Saalow",
+      "latitude": 52.190266,
+      "longitude": 13.387147,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q101647248"
+    },
+    {
+      "id": 183,
+      "wikidata_id": "Q22672066",
+      "name_de": "Papiermühle",
+      "name_en": "",
+      "latitude": 51.321202,
+      "longitude": 12.415264,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22672066"
+    },
+    {
+      "id": 184,
+      "wikidata_id": "Q131743527",
+      "name_de": "Patentmühle",
+      "name_en": "Patentmühle",
+      "latitude": 52.189405,
+      "longitude": 10.224455,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131743527"
+    },
+    {
+      "id": 185,
+      "wikidata_id": "Q1653866",
+      "name_de": "Paula",
+      "name_en": "Paula",
+      "latitude": 52.4535,
+      "longitude": 9.36869,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1653866"
+    },
+    {
+      "id": 186,
+      "wikidata_id": "Q16003204",
+      "name_de": "Peldemühle",
+      "name_en": "Peldemühle",
+      "latitude": 53.58168,
+      "longitude": 7.77444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16003204"
+    },
+    {
+      "id": 187,
+      "wikidata_id": "Q1701646",
+      "name_de": "Peldemühle Esens",
+      "name_en": "",
+      "latitude": 53.6499,
+      "longitude": 7.61226,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1701646"
+    },
+    {
+      "id": 188,
+      "wikidata_id": "Q49408535",
+      "name_de": "Pommritzer Turmwindmühle Pommritz 25e",
+      "name_en": "Pommritzer Holländermühle",
+      "latitude": 51.157066,
+      "longitude": 14.582703,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49408535"
+    },
+    {
+      "id": 189,
+      "wikidata_id": "Q49452685",
+      "name_de": "Prösitzer Windmühle",
+      "name_en": "Prösitzer Windmühle",
+      "latitude": 51.245536,
+      "longitude": 12.872881,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49452685"
+    },
+    {
+      "id": 190,
+      "wikidata_id": "Q20619280",
+      "name_de": "Pulvermühle Heeßel",
+      "name_en": "",
+      "latitude": 53.674765,
+      "longitude": 9.12885,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20619280"
+    },
+    {
+      "id": 191,
+      "wikidata_id": "Q2122143",
+      "name_de": "Quandtsche Tabaksmühle",
+      "name_en": "Quandt's Tobacco Mill",
+      "latitude": 51.3136,
+      "longitude": 12.4072,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2122143"
+    },
+    {
+      "id": 192,
+      "wikidata_id": "Q134721290",
+      "name_de": "",
+      "name_en": "Quantwicker Mühle",
+      "latitude": 52.056935,
+      "longitude": 6.986125,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134721290"
+    },
+    {
+      "id": 193,
+      "wikidata_id": "Q131471358",
+      "name_de": "Querdielenhaus, Mitteldeichweg 15",
+      "name_en": "",
+      "latitude": 54.204774,
+      "longitude": 8.869315,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131471358"
+    },
+    {
+      "id": 194,
+      "wikidata_id": "Q110154167",
+      "name_de": "Rather Mühle",
+      "name_en": "Rath - Rather Mühle",
+      "latitude": 51.005041,
+      "longitude": 6.647746,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110154167"
+    },
+    {
+      "id": 195,
+      "wikidata_id": "Q33165481",
+      "name_de": "Rehburger Windmühle",
+      "name_en": "Rehburg windmill",
+      "latitude": 52.461667,
+      "longitude": 9.225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33165481"
+    },
+    {
+      "id": 196,
+      "wikidata_id": "Q25089094",
+      "name_de": "Reitzendorfer Windmühle",
+      "name_en": "Windmühle Reitzendorf",
+      "latitude": 51.021189,
+      "longitude": 13.911626,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25089094"
+    },
+    {
+      "id": 197,
+      "wikidata_id": "Q1408932",
+      "name_de": "Rekumer Mühle",
+      "name_en": "Rekumer Mühle",
+      "latitude": 53.2222,
+      "longitude": 8.51323,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1408932"
+    },
+    {
+      "id": 198,
+      "wikidata_id": "Q1805620",
+      "name_de": "Riepenburger Mühle",
+      "name_en": "Riepenburger Mühle",
+      "latitude": 53.408111,
+      "longitude": 10.208278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1805620"
+    },
+    {
+      "id": 199,
+      "wikidata_id": "Q114776900",
+      "name_de": "Ristedter Windmühle",
+      "name_en": "",
+      "latitude": 52.94088,
+      "longitude": 8.75713,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114776900"
+    },
+    {
+      "id": 200,
+      "wikidata_id": "Q124736304",
+      "name_de": "Rittersche Windmühle",
+      "name_en": "",
+      "latitude": 53.350327,
+      "longitude": 8.630485,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124736304"
+    },
+    {
+      "id": 201,
+      "wikidata_id": "Q125398878",
+      "name_de": "Rodenberger Mühle",
+      "name_en": "Rodenberger Mühle",
+      "latitude": 52.31196,
+      "longitude": 9.34349,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125398878"
+    },
+    {
+      "id": 202,
+      "wikidata_id": "Q49408551",
+      "name_de": "Rodewitzer Turmwindmühle Rodewitz 3",
+      "name_en": "Holländermühle Rodewitz",
+      "latitude": 51.170684,
+      "longitude": 14.582397,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49408551"
+    },
+    {
+      "id": 203,
+      "wikidata_id": "Q115941113",
+      "name_de": "Rote Mühle",
+      "name_en": "",
+      "latitude": 52.72006,
+      "longitude": 14.149302,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115941113"
+    },
+    {
+      "id": 204,
+      "wikidata_id": "Q58399701",
+      "name_de": "Rumflether Windmühle",
+      "name_en": "",
+      "latitude": 53.926648,
+      "longitude": 9.363773,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58399701"
+    },
+    {
+      "id": 205,
+      "wikidata_id": "Q111444546",
+      "name_de": "Rutteler Mühle",
+      "name_en": "",
+      "latitude": 53.39141,
+      "longitude": 7.93211,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111444546"
+    },
+    {
+      "id": 206,
+      "wikidata_id": "Q2178296",
+      "name_de": "Rysumer Mühle",
+      "name_en": "Rysumer Mühle",
+      "latitude": 53.3788,
+      "longitude": 7.03416,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2178296"
+    },
+    {
+      "id": 207,
+      "wikidata_id": "Q56543653",
+      "name_de": "Rönnauer Mühle",
+      "name_en": "Rönnauer Mühle",
+      "latitude": 53.953742,
+      "longitude": 10.847785,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56543653"
+    },
+    {
+      "id": 208,
+      "wikidata_id": "Q108000628",
+      "name_de": "Rügenwalder Mühle",
+      "name_en": "Rügenwalder Mühle",
+      "latitude": 53.184567,
+      "longitude": 8.032752,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108000628"
+    },
+    {
+      "id": 209,
+      "wikidata_id": "Q17305364",
+      "name_de": "Schaager Mühle",
+      "name_en": "",
+      "latitude": 51.284833,
+      "longitude": 6.233972,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17305364"
+    },
+    {
+      "id": 210,
+      "wikidata_id": "Q1478644",
+      "name_de": "Scheunenwindmühle Saalow",
+      "name_en": "Scheunenmühle Saalow",
+      "latitude": 52.1953,
+      "longitude": 13.3775,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1478644"
+    },
+    {
+      "id": 211,
+      "wikidata_id": "Q117965471",
+      "name_de": "Schierbroker Windmühle",
+      "name_en": "Schierbroker Windmühle",
+      "latitude": 53.091095,
+      "longitude": 8.58203,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117965471"
+    },
+    {
+      "id": 212,
+      "wikidata_id": "Q124368561",
+      "name_de": "Schiffdorfer Windmühle",
+      "name_en": "",
+      "latitude": 53.53063,
+      "longitude": 8.64868,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124368561"
+    },
+    {
+      "id": 213,
+      "wikidata_id": "Q2834138",
+      "name_de": "Scholten-Mühle",
+      "name_en": "Scholten-Mühle",
+      "latitude": 51.769897,
+      "longitude": 6.410928,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2834138"
+    },
+    {
+      "id": 214,
+      "wikidata_id": "Q76635915",
+      "name_de": "Schweger Windmühle",
+      "name_en": "",
+      "latitude": 52.663181,
+      "longitude": 8.121843,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q76635915"
+    },
+    {
+      "id": 215,
+      "wikidata_id": "Q111666227",
+      "name_de": "Schäfers Mühle",
+      "name_en": "",
+      "latitude": 51.605863,
+      "longitude": 13.892196,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111666227"
+    },
+    {
+      "id": 216,
+      "wikidata_id": "Q58396972",
+      "name_de": "Schönberger Windmühle",
+      "name_en": "",
+      "latitude": 54.38938,
+      "longitude": 10.37999,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58396972"
+    },
+    {
+      "id": 217,
+      "wikidata_id": "Q49450827",
+      "name_de": "Schönborner Windmühle Schönborn",
+      "name_en": "Erdholländer Lampertswalde-Schönborn",
+      "latitude": 51.329979,
+      "longitude": 13.704168,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49450827"
+    },
+    {
+      "id": 218,
+      "wikidata_id": "Q133876963",
+      "name_de": "Schöpfmühle Honigfleth",
+      "name_en": "",
+      "latitude": 53.9123,
+      "longitude": 9.41022,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133876963"
+    },
+    {
+      "id": 219,
+      "wikidata_id": "Q61968459",
+      "name_de": "Seefelder Mühle",
+      "name_en": "",
+      "latitude": 53.45742,
+      "longitude": 8.34679,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61968459"
+    },
+    {
+      "id": 220,
+      "wikidata_id": "Q112304086",
+      "name_de": "Siebentrappenmühle",
+      "name_en": "Benthe windmill",
+      "latitude": 52.331527,
+      "longitude": 9.628201,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112304086"
+    },
+    {
+      "id": 221,
+      "wikidata_id": "Q2290776",
+      "name_de": "Siuts-Mühle",
+      "name_en": "",
+      "latitude": 53.575,
+      "longitude": 7.77786,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2290776"
+    },
+    {
+      "id": 222,
+      "wikidata_id": "Q2303572",
+      "name_de": "Sorsumer Mühle",
+      "name_en": "Sorsumer Mühle",
+      "latitude": 52.2798,
+      "longitude": 9.62058,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2303572"
+    },
+    {
+      "id": 223,
+      "wikidata_id": "Q75020828",
+      "name_de": "Spinnkopfmühle Molfsee",
+      "name_en": "Spinnkopfmühle Molfsee",
+      "latitude": 54.275194,
+      "longitude": 10.082333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q75020828"
+    },
+    {
+      "id": 224,
+      "wikidata_id": "Q106464593",
+      "name_de": "Stadtmühle Malchow",
+      "name_en": "Malchower Stadtmühle",
+      "latitude": 53.47973,
+      "longitude": 12.42119,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106464593"
+    },
+    {
+      "id": 225,
+      "wikidata_id": "Q1540486",
+      "name_de": "Stammenmühle",
+      "name_en": "",
+      "latitude": 51.3325,
+      "longitude": 6.28929,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1540486"
+    },
+    {
+      "id": 226,
+      "wikidata_id": "Q130474785",
+      "name_de": "Steffenssche Mühle",
+      "name_en": "",
+      "latitude": 53.70005,
+      "longitude": 9.13688,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130474785"
+    },
+    {
+      "id": 227,
+      "wikidata_id": "Q107742522",
+      "name_de": "Stemmer Windmühle",
+      "name_en": "Stemmer Windmühle",
+      "latitude": 52.3438,
+      "longitude": 9.534,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107742522"
+    },
+    {
+      "id": 228,
+      "wikidata_id": "Q20084074",
+      "name_de": "Steprather Mühle",
+      "name_en": "Steprather Mühle",
+      "latitude": 51.49961,
+      "longitude": 6.24479,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20084074"
+    },
+    {
+      "id": 229,
+      "wikidata_id": "Q15130511",
+      "name_de": "Stiftsmühle (Aurich)",
+      "name_en": "Stiftsmühle",
+      "latitude": 53.467979,
+      "longitude": 7.471497,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15130511"
+    },
+    {
+      "id": 230,
+      "wikidata_id": "Q137670445",
+      "name_de": "Stover Windmühle",
+      "name_en": "",
+      "latitude": 53.428657,
+      "longitude": 10.304797,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137670445"
+    },
+    {
+      "id": 231,
+      "wikidata_id": "Q56234838",
+      "name_de": "Streuff-Mühle",
+      "name_en": "Streuff-Mühle",
+      "latitude": 51.324358,
+      "longitude": 6.4892,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56234838"
+    },
+    {
+      "id": 232,
+      "wikidata_id": "Q15130641",
+      "name_de": "Stroiter Mühle",
+      "name_en": "Stroiter Mühle",
+      "latitude": 51.891944,
+      "longitude": 9.871667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15130641"
+    },
+    {
+      "id": 233,
+      "wikidata_id": "Q96657842",
+      "name_de": "Struckmeyersche Mühle",
+      "name_en": "Struckmeyersche Mühle",
+      "latitude": 52.30925,
+      "longitude": 9.58647,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96657842"
+    },
+    {
+      "id": 234,
+      "wikidata_id": "Q54166051",
+      "name_de": "Stumpenser Mühle",
+      "name_en": "Stumpenser Mühle",
+      "latitude": 53.689767,
+      "longitude": 7.984989,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54166051"
+    },
+    {
+      "id": 235,
+      "wikidata_id": "Q13188920",
+      "name_de": "Südermühle",
+      "name_en": "",
+      "latitude": 54.477588,
+      "longitude": 11.070833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q13188920"
+    },
+    {
+      "id": 236,
+      "wikidata_id": "Q2402380",
+      "name_de": "Teloy-Mühle",
+      "name_en": "Teloy-Mühle",
+      "latitude": 51.3063,
+      "longitude": 6.6793,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2402380"
+    },
+    {
+      "id": 237,
+      "wikidata_id": "Q2403098",
+      "name_de": "Temps Mühle",
+      "name_en": "Temps mill",
+      "latitude": 52.3968,
+      "longitude": 11.3163,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2403098"
+    },
+    {
+      "id": 238,
+      "wikidata_id": "Q108311606",
+      "name_de": "Tjücher Mühle",
+      "name_en": "Tjücher Mühle",
+      "latitude": 53.52755,
+      "longitude": 7.27187,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108311606"
+    },
+    {
+      "id": 239,
+      "wikidata_id": "Q49372110",
+      "name_de": "Turmholländer Torgauer Straße 33",
+      "name_en": "Windmühle Strehla",
+      "latitude": 51.359013,
+      "longitude": 13.222478,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49372110"
+    },
+    {
+      "id": 240,
+      "wikidata_id": "Q49385591",
+      "name_de": "Turmholländer Windmühlenhöhe 2",
+      "name_en": "Possendorfer Windmühle",
+      "latitude": 50.97142,
+      "longitude": 13.71656,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49385591"
+    },
+    {
+      "id": 241,
+      "wikidata_id": "Q49384719",
+      "name_de": "Turmholländer Windmühlenweg -",
+      "name_en": "Windmühle Boxdorf",
+      "latitude": 51.12104,
+      "longitude": 13.69421,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49384719"
+    },
+    {
+      "id": 242,
+      "wikidata_id": "Q49371449",
+      "name_de": "Turmholländer-Windmühle (Gründelmühle) Mühlenhügel 22",
+      "name_en": "Windmühle Brockwitz",
+      "latitude": 51.13502,
+      "longitude": 13.5558,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49371449"
+    },
+    {
+      "id": 243,
+      "wikidata_id": "Q49464740",
+      "name_de": "Turmholländer-Windmühle Großdobritz Mühlweg 5",
+      "name_en": "Windmühle Großdobritz",
+      "latitude": 51.21535,
+      "longitude": 13.57449,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49464740"
+    },
+    {
+      "id": 244,
+      "wikidata_id": "Q139737557",
+      "name_de": "Turmholländer-Windmühle Güsen",
+      "name_en": "Güsen Tower Windmill",
+      "latitude": 52.354765,
+      "longitude": 11.98673,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q139737557"
+    },
+    {
+      "id": 245,
+      "wikidata_id": "Q133855003",
+      "name_de": "Turmholländermühle Naundorf",
+      "name_en": "",
+      "latitude": 51.926528,
+      "longitude": 12.897528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133855003"
+    },
+    {
+      "id": 246,
+      "wikidata_id": "Q56457301",
+      "name_de": "Turmholländermühle Schafstädt",
+      "name_en": "Turmholländermühle Schafstädt",
+      "latitude": 51.389849,
+      "longitude": 11.771548,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56457301"
+    },
+    {
+      "id": 247,
+      "wikidata_id": "Q111666002",
+      "name_de": "Turmholländermühle Zerkwitz",
+      "name_en": "",
+      "latitude": 51.860399,
+      "longitude": 13.921599,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111666002"
+    },
+    {
+      "id": 248,
+      "wikidata_id": "Q49394954",
+      "name_de": "Turmwindmühle Forstweg 1a",
+      "name_en": "Holländermühle am Forstweg",
+      "latitude": 51.353127,
+      "longitude": 14.05644,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49394954"
+    },
+    {
+      "id": 249,
+      "wikidata_id": "Q2461151",
+      "name_de": "Turmwindmühle Grottenherten",
+      "name_en": "Windmühle Grottenherten",
+      "latitude": 51.0008,
+      "longitude": 6.47599,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2461151"
+    },
+    {
+      "id": 250,
+      "wikidata_id": "Q49403607",
+      "name_de": "Turmwindmühle Jahnstraße 16",
+      "name_en": "Holländermühle Niedermühle",
+      "latitude": 51.236256,
+      "longitude": 14.026223,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49403607"
+    },
+    {
+      "id": 251,
+      "wikidata_id": "Q98381928",
+      "name_de": "Turmwindmühle Mehderitzsch",
+      "name_en": "Holländermühle Mehderitzsch",
+      "latitude": 51.506188,
+      "longitude": 13.045662,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98381928"
+    },
+    {
+      "id": 252,
+      "wikidata_id": "Q49259502",
+      "name_de": "Turmwindmühle Rehbacher Straße 83",
+      "name_en": "",
+      "latitude": 51.27385,
+      "longitude": 12.30091,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49259502"
+    },
+    {
+      "id": 253,
+      "wikidata_id": "Q15132689",
+      "name_de": "Turmwindmühle Tultewitz",
+      "name_en": "Windmühle Tultewitz",
+      "latitude": 51.095228,
+      "longitude": 11.711059,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15132689"
+    },
+    {
+      "id": 254,
+      "wikidata_id": "Q49403656",
+      "name_de": "Turmwindmühle Wiesenweg 5",
+      "name_en": "Hustig- oder Hustemühle Gersdorf",
+      "latitude": 51.230515,
+      "longitude": 14.056308,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49403656"
+    },
+    {
+      "id": 255,
+      "wikidata_id": "Q49403691",
+      "name_de": "Turmwindmühle Windmühle 1",
+      "name_en": "Holländermühle Möhrsdorf",
+      "latitude": 51.209651,
+      "longitude": 14.084983,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49403691"
+    },
+    {
+      "id": 256,
+      "wikidata_id": "Q49430017",
+      "name_de": "Turmwindmühle Windmühlenweg 5",
+      "name_en": "Neudorfer Holländermühle",
+      "latitude": 51.061192,
+      "longitude": 14.566733,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49430017"
+    },
+    {
+      "id": 257,
+      "wikidata_id": "Q59926331",
+      "name_de": "Valentinsmühle",
+      "name_en": "Valentinsmühle",
+      "latitude": 52.32821,
+      "longitude": 8.92683,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q59926331"
+    },
+    {
+      "id": 258,
+      "wikidata_id": "Q1548731",
+      "name_de": "Vareler Windmühle",
+      "name_en": "Varel windmill",
+      "latitude": 53.4006,
+      "longitude": 8.14306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1548731"
+    },
+    {
+      "id": 259,
+      "wikidata_id": "Q28074546",
+      "name_de": "Vetschauer Mühle",
+      "name_en": "Vetschauer Mühle",
+      "latitude": 50.804239,
+      "longitude": 6.032525,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28074546"
+    },
+    {
+      "id": 260,
+      "wikidata_id": "Q111812779",
+      "name_de": "Wagenzeller Bockwindmühle",
+      "name_en": "Wagenzeller Bockwindmühle",
+      "latitude": 52.472382,
+      "longitude": 9.729908,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111812779"
+    },
+    {
+      "id": 261,
+      "wikidata_id": "Q28112198",
+      "name_de": "Waldfeuchter Windmühle",
+      "name_en": "Waldfeuchter Windmühle",
+      "latitude": 51.0614,
+      "longitude": 5.985831,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28112198"
+    },
+    {
+      "id": 262,
+      "wikidata_id": "Q134497853",
+      "name_de": "Wallhöfener Mühle",
+      "name_en": "",
+      "latitude": 53.316546,
+      "longitude": 8.894909,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134497853"
+    },
+    {
+      "id": 263,
+      "wikidata_id": "Q130603900",
+      "name_de": "Waltringhausener Windmühle",
+      "name_en": "Waltringhausen windmill",
+      "latitude": 52.346015,
+      "longitude": 9.402315,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130603900"
+    },
+    {
+      "id": 264,
+      "wikidata_id": "Q2551494",
+      "name_de": "Wasserschöpfmühle Agnes",
+      "name_en": "Wasserschöpfmühle Agnes",
+      "latitude": 53.4486,
+      "longitude": 7.30865,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2551494"
+    },
+    {
+      "id": 265,
+      "wikidata_id": "Q137671213",
+      "name_de": "Wasserschöpfmühle Charlottenpolder",
+      "name_en": "",
+      "latitude": 53.193782,
+      "longitude": 7.217588,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137671213"
+    },
+    {
+      "id": 266,
+      "wikidata_id": "Q56037532",
+      "name_de": "Wehbers Mühle",
+      "name_en": "Wehbers Mühle",
+      "latitude": 53.61536,
+      "longitude": 9.30167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56037532"
+    },
+    {
+      "id": 267,
+      "wikidata_id": "Q131841172",
+      "name_de": "Wendlandsche Mühle",
+      "name_en": "Wendlandsche Mühle",
+      "latitude": 52.31734,
+      "longitude": 9.599,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131841172"
+    },
+    {
+      "id": 268,
+      "wikidata_id": "Q1604961",
+      "name_de": "Werdumer Mühle",
+      "name_en": "Werdumer Mühle",
+      "latitude": 53.6604,
+      "longitude": 7.71936,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1604961"
+    },
+    {
+      "id": 269,
+      "wikidata_id": "Q2563508",
+      "name_de": "Werther Mühle",
+      "name_en": "Turmwindmühle Werth",
+      "latitude": 51.818889,
+      "longitude": 6.507778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2563508"
+    },
+    {
+      "id": 270,
+      "wikidata_id": "Q131349655",
+      "name_de": "Westgaster Mühle (Norden)",
+      "name_en": "",
+      "latitude": 53.591796,
+      "longitude": 7.193233,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131349655"
+    },
+    {
+      "id": 271,
+      "wikidata_id": "Q116206693",
+      "name_de": "Wettberger Mühle",
+      "name_en": "Wettberger Mühle",
+      "latitude": 52.335241,
+      "longitude": 9.691752,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116206693"
+    },
+    {
+      "id": 272,
+      "wikidata_id": "Q108852071",
+      "name_de": "Windmühle",
+      "name_en": "Stommeler Windmühle",
+      "latitude": 51.021329,
+      "longitude": 6.761205,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108852071"
+    },
+    {
+      "id": 273,
+      "wikidata_id": "Q109180131",
+      "name_de": "Windmühle",
+      "name_en": "Windmühle Wittenburg",
+      "latitude": 53.499879,
+      "longitude": 11.092917,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109180131"
+    },
+    {
+      "id": 274,
+      "wikidata_id": "Q114948818",
+      "name_de": "Windmühle",
+      "name_en": "Windmühle Vitte",
+      "latitude": 54.569661,
+      "longitude": 13.103701,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114948818"
+    },
+    {
+      "id": 275,
+      "wikidata_id": "Q58394183",
+      "name_de": "Windmühle",
+      "name_en": "",
+      "latitude": 54.64928,
+      "longitude": 9.13722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58394183"
+    },
+    {
+      "id": 276,
+      "wikidata_id": "Q58400392",
+      "name_de": "Windmühle",
+      "name_en": "",
+      "latitude": 54.233959,
+      "longitude": 10.133378,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58400392"
+    },
+    {
+      "id": 277,
+      "wikidata_id": "Q58403769",
+      "name_de": "Windmühle",
+      "name_en": "",
+      "latitude": 53.641867,
+      "longitude": 10.829091,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58403769"
+    },
+    {
+      "id": 278,
+      "wikidata_id": "Q58393765",
+      "name_de": "Windmühle (Bauernmühle)",
+      "name_en": "",
+      "latitude": 54.236643,
+      "longitude": 9.374318,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58393765"
+    },
+    {
+      "id": 279,
+      "wikidata_id": "Q110017244",
+      "name_de": "Windmühle (Handorf)",
+      "name_en": "Smock mill (Handorf)",
+      "latitude": 53.338696,
+      "longitude": 10.347926,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110017244"
+    },
+    {
+      "id": 280,
+      "wikidata_id": "Q134983184",
+      "name_de": "Windmühle (Weimar)",
+      "name_en": "",
+      "latitude": 50.971871,
+      "longitude": 11.314684,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134983184"
+    },
+    {
+      "id": 281,
+      "wikidata_id": "Q49450754",
+      "name_de": "Windmühle Adelsdorf Adelsdorf (Lampertswalde)",
+      "name_en": "Holländermühle Adelsdorf",
+      "latitude": 51.312706,
+      "longitude": 13.590154,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49450754"
+    },
+    {
+      "id": 282,
+      "wikidata_id": "Q58394292",
+      "name_de": "Windmühle Aeolus",
+      "name_en": "Aeolus wind mill",
+      "latitude": 54.70081,
+      "longitude": 8.96813,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58394292"
+    },
+    {
+      "id": 283,
+      "wikidata_id": "Q136368192",
+      "name_de": "Windmühle Ahrenshoop",
+      "name_en": "",
+      "latitude": 54.379145,
+      "longitude": 12.421221,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136368192"
+    },
+    {
+      "id": 284,
+      "wikidata_id": "Q110503027",
+      "name_de": "Windmühle Altdöbern",
+      "name_en": "Windmill in Altdöbern",
+      "latitude": 51.644573,
+      "longitude": 14.034774,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110503027"
+    },
+    {
+      "id": 285,
+      "wikidata_id": "Q49596946",
+      "name_de": "Windmühle Altenhain Mühlenweg 1a",
+      "name_en": "",
+      "latitude": 51.287532,
+      "longitude": 12.700745,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49596946"
+    },
+    {
+      "id": 286,
+      "wikidata_id": "Q25621750",
+      "name_de": "Windmühle Altenwalde",
+      "name_en": "Altenwalde windmill",
+      "latitude": 53.819083,
+      "longitude": 8.659143,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25621750"
+    },
+    {
+      "id": 287,
+      "wikidata_id": "Q132559620",
+      "name_de": "Windmühle am Hafen",
+      "name_en": "",
+      "latitude": 53.218394,
+      "longitude": 8.806044,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q132559620"
+    },
+    {
+      "id": 288,
+      "wikidata_id": "Q21035158",
+      "name_de": "Windmühle am Schiffertor",
+      "name_en": "Windmühle am Schiffertor",
+      "latitude": 53.604998,
+      "longitude": 9.466188,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21035158"
+    },
+    {
+      "id": 289,
+      "wikidata_id": "Q23926351",
+      "name_de": "Windmühle Anderbeck",
+      "name_en": "Anderbecker Windmühle",
+      "latitude": 51.977405,
+      "longitude": 10.934416,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23926351"
+    },
+    {
+      "id": 290,
+      "wikidata_id": "Q27917192",
+      "name_de": "Windmühle Anna",
+      "name_en": "",
+      "latitude": 54.27581,
+      "longitude": 9.62216,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27917192"
+    },
+    {
+      "id": 291,
+      "wikidata_id": "Q58398205",
+      "name_de": "Windmühle Auguste",
+      "name_en": "Auguste wind mill",
+      "latitude": 54.40223,
+      "longitude": 9.764178,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58398205"
+    },
+    {
+      "id": 292,
+      "wikidata_id": "Q21501394",
+      "name_de": "Windmühle aus Borsfleth",
+      "name_en": "Windmühle Borsfleth",
+      "latitude": 50.27919,
+      "longitude": 8.523856,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21501394"
+    },
+    {
+      "id": 293,
+      "wikidata_id": "Q25621698",
+      "name_de": "Windmühle Bad Bederkesa",
+      "name_en": "",
+      "latitude": 53.62143,
+      "longitude": 8.83888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25621698"
+    },
+    {
+      "id": 294,
+      "wikidata_id": "Q137645293",
+      "name_de": "Windmühle Bad Bentheim",
+      "name_en": "",
+      "latitude": 52.302053,
+      "longitude": 7.166764,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137645293"
+    },
+    {
+      "id": 295,
+      "wikidata_id": "Q1560505",
+      "name_de": "Windmühle Bavenhausen",
+      "name_en": "Windmühle Bavenhausen",
+      "latitude": 52.0814,
+      "longitude": 8.95084,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1560505"
+    },
+    {
+      "id": 296,
+      "wikidata_id": "Q112304289",
+      "name_de": "Windmühle Bennigsen",
+      "name_en": "Bennigsen wind mill",
+      "latitude": 52.240998,
+      "longitude": 9.672804,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112304289"
+    },
+    {
+      "id": 297,
+      "wikidata_id": "Q116884501",
+      "name_de": "Windmühle Bensen",
+      "name_en": "",
+      "latitude": 52.80473,
+      "longitude": 8.8763,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116884501"
+    },
+    {
+      "id": 298,
+      "wikidata_id": "Q2583703",
+      "name_de": "Windmühle Bentorf",
+      "name_en": "Windmühle Bentorf",
+      "latitude": 52.1386,
+      "longitude": 8.91644,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2583703"
+    },
+    {
+      "id": 299,
+      "wikidata_id": "Q122956636",
+      "name_de": "Windmühle Berne",
+      "name_en": "",
+      "latitude": 53.199864,
+      "longitude": 8.495797,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122956636"
+    },
+    {
+      "id": 300,
+      "wikidata_id": "Q49452151",
+      "name_de": "Windmühle Beucha",
+      "name_en": "Turmholländer Beucha",
+      "latitude": 51.318975,
+      "longitude": 12.567517,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49452151"
+    },
+    {
+      "id": 301,
+      "wikidata_id": "Q137668098",
+      "name_de": "Windmühle Bilm",
+      "name_en": "",
+      "latitude": 52.345264,
+      "longitude": 9.91579,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137668098"
+    },
+    {
+      "id": 302,
+      "wikidata_id": "Q135443333",
+      "name_de": "Windmühle Boitzen",
+      "name_en": "",
+      "latitude": 53.339318,
+      "longitude": 9.376425,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135443333"
+    },
+    {
+      "id": 303,
+      "wikidata_id": "Q135440515",
+      "name_de": "Windmühle Brockel",
+      "name_en": "",
+      "latitude": 53.09341,
+      "longitude": 9.51898,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135440515"
+    },
+    {
+      "id": 304,
+      "wikidata_id": "Q49371452",
+      "name_de": "Windmühle Brockwitz Mühlenweg 15",
+      "name_en": "Coswig Mühlenweg 15",
+      "latitude": 51.13678,
+      "longitude": 13.55163,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49371452"
+    },
+    {
+      "id": 305,
+      "wikidata_id": "Q49445262",
+      "name_de": "Windmühle Casabra Casabra",
+      "name_en": "Holländermühle Casabra",
+      "latitude": 51.257295,
+      "longitude": 13.128325,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49445262"
+    },
+    {
+      "id": 306,
+      "wikidata_id": "Q49450418",
+      "name_de": "Windmühle Colmnitz Colmnitz (Großenhain)",
+      "name_en": "Holländermühle Colmnitz - Wildenhain",
+      "latitude": 51.329038,
+      "longitude": 13.43845,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49450418"
+    },
+    {
+      "id": 307,
+      "wikidata_id": "Q125222958",
+      "name_de": "Windmühle Dedesdorf",
+      "name_en": "",
+      "latitude": 53.44101,
+      "longitude": 8.51673,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125222958"
+    },
+    {
+      "id": 308,
+      "wikidata_id": "Q49453423",
+      "name_de": "Windmühle Dehnitz",
+      "name_en": "Holländermühle Dehnitz",
+      "latitude": 51.352966,
+      "longitude": 12.737206,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49453423"
+    },
+    {
+      "id": 309,
+      "wikidata_id": "Q107719023",
+      "name_de": "Windmühle Demmin",
+      "name_en": "",
+      "latitude": 53.907692,
+      "longitude": 13.051577,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107719023"
+    },
+    {
+      "id": 310,
+      "wikidata_id": "Q64736603",
+      "name_de": "Windmühle Destel",
+      "name_en": "Windmill Destel",
+      "latitude": 52.367772,
+      "longitude": 8.491186,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64736603"
+    },
+    {
+      "id": 311,
+      "wikidata_id": "Q49451758",
+      "name_de": "Windmühle Dobernitz Dobernitz (Stauchitz)",
+      "name_en": "",
+      "latitude": 51.23508,
+      "longitude": 13.232242,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49451758"
+    },
+    {
+      "id": 312,
+      "wikidata_id": "Q16799799",
+      "name_de": "Windmühle Dörrwalde",
+      "name_en": "Windmill in Dörrwalde",
+      "latitude": 51.584617,
+      "longitude": 14.057144,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16799799"
+    },
+    {
+      "id": 313,
+      "wikidata_id": "Q107434835",
+      "name_de": "Windmühle Eckartsberga",
+      "name_en": "Windmühle Eckartsberga",
+      "latitude": 51.121944,
+      "longitude": 11.567171,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107434835"
+    },
+    {
+      "id": 314,
+      "wikidata_id": "Q137691462",
+      "name_de": "Windmühle Edemissen",
+      "name_en": "",
+      "latitude": 52.390951,
+      "longitude": 10.262146,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137691462"
+    },
+    {
+      "id": 315,
+      "wikidata_id": "Q114437684",
+      "name_de": "Windmühle Eickhorst",
+      "name_en": "Windmühle Eickhorst",
+      "latitude": 52.304488,
+      "longitude": 8.746483,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114437684"
+    },
+    {
+      "id": 316,
+      "wikidata_id": "Q137670542",
+      "name_de": "Windmühle Eilte",
+      "name_en": "",
+      "latitude": 52.75928,
+      "longitude": 9.482713,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137670542"
+    },
+    {
+      "id": 317,
+      "wikidata_id": "Q105045688",
+      "name_de": "Windmühle Eisbergen",
+      "name_en": "Windmühle Eisbergen",
+      "latitude": 52.218856,
+      "longitude": 9.008714,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105045688"
+    },
+    {
+      "id": 318,
+      "wikidata_id": "Q58397518",
+      "name_de": "Windmühle Elfriede",
+      "name_en": "",
+      "latitude": 54.06975,
+      "longitude": 10.04399,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58397518"
+    },
+    {
+      "id": 319,
+      "wikidata_id": "Q134777053",
+      "name_de": "Windmühle Elm",
+      "name_en": "Henriette",
+      "latitude": 53.522573,
+      "longitude": 9.213405,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134777053"
+    },
+    {
+      "id": 320,
+      "wikidata_id": "Q2583706",
+      "name_de": "Windmühle Emtinghausen",
+      "name_en": "Emtinghausen wind mill",
+      "latitude": 52.9319,
+      "longitude": 8.9675,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2583706"
+    },
+    {
+      "id": 321,
+      "wikidata_id": "Q112602221",
+      "name_de": "Windmühle Endorf",
+      "name_en": "Windmill Endorf",
+      "latitude": 51.705232,
+      "longitude": 11.368094,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112602221"
+    },
+    {
+      "id": 322,
+      "wikidata_id": "Q69385962",
+      "name_de": "Windmühle Ennigerloh",
+      "name_en": "Windmühle Ennigerloh",
+      "latitude": 51.835011,
+      "longitude": 8.01965,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q69385962"
+    },
+    {
+      "id": 323,
+      "wikidata_id": "Q137691693",
+      "name_de": "Windmühle Escher",
+      "name_en": "",
+      "latitude": 52.234951,
+      "longitude": 9.259285,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137691693"
+    },
+    {
+      "id": 324,
+      "wikidata_id": "Q2583711",
+      "name_de": "Windmühle Exter",
+      "name_en": "Windmühle Exter",
+      "latitude": 52.1512,
+      "longitude": 8.78297,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2583711"
+    },
+    {
+      "id": 325,
+      "wikidata_id": "Q49444804",
+      "name_de": "Windmühle Friedemann Paschwitz",
+      "name_en": "Mühle Friedemann Paschwitz",
+      "latitude": 51.463492,
+      "longitude": 12.724654,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49444804"
+    },
+    {
+      "id": 326,
+      "wikidata_id": "Q116860526",
+      "name_de": "Windmühle Fürstlich Drehna",
+      "name_en": "",
+      "latitude": 51.765786,
+      "longitude": 13.808815,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116860526"
+    },
+    {
+      "id": 327,
+      "wikidata_id": "Q120484363",
+      "name_de": "Windmühle Gerhardt",
+      "name_en": "Gerhardt windmill",
+      "latitude": 52.29287,
+      "longitude": 10.74527,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q120484363"
+    },
+    {
+      "id": 328,
+      "wikidata_id": "Q15854788",
+      "name_de": "Windmühle Gernrode",
+      "name_en": "Holländermühle Gernrode",
+      "latitude": 51.73151,
+      "longitude": 11.15382,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15854788"
+    },
+    {
+      "id": 329,
+      "wikidata_id": "Q107974124",
+      "name_de": "Windmühle Goldberg",
+      "name_en": "",
+      "latitude": 53.584923,
+      "longitude": 12.105119,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107974124"
+    },
+    {
+      "id": 330,
+      "wikidata_id": "Q2583715",
+      "name_de": "Windmühle Groß-Mimmelage",
+      "name_en": "Groß-Mimmelage wind mill",
+      "latitude": 52.653056,
+      "longitude": 7.879722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2583715"
+    },
+    {
+      "id": 331,
+      "wikidata_id": "Q137661086",
+      "name_de": "Windmühle Harkenblecker Straße 1",
+      "name_en": "",
+      "latitude": 52.28083,
+      "longitude": 9.76535,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137661086"
+    },
+    {
+      "id": 332,
+      "wikidata_id": "Q69079491",
+      "name_de": "Windmühle Hartum (Hille)",
+      "name_en": "Windmühle Hartum (Hille)",
+      "latitude": 52.315861,
+      "longitude": 8.813917,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q69079491"
+    },
+    {
+      "id": 333,
+      "wikidata_id": "Q119004110",
+      "name_de": "Windmühle Hassel",
+      "name_en": "Hassel windmill",
+      "latitude": 52.80353,
+      "longitude": 9.20906,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q119004110"
+    },
+    {
+      "id": 334,
+      "wikidata_id": "Q118976866",
+      "name_de": "Windmühle Haßbergen",
+      "name_en": "",
+      "latitude": 52.726513,
+      "longitude": 9.229123,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118976866"
+    },
+    {
+      "id": 335,
+      "wikidata_id": "Q114437584",
+      "name_de": "Windmühle Hille „Auf der Höchte“",
+      "name_en": "Windmühle Hille \"Auf der Höchte\"",
+      "latitude": 52.350732,
+      "longitude": 8.729313,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114437584"
+    },
+    {
+      "id": 336,
+      "wikidata_id": "Q126378487",
+      "name_de": "Windmühle Holungen",
+      "name_en": "Windmill in Holungen",
+      "latitude": 51.4953,
+      "longitude": 10.39106,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378487"
+    },
+    {
+      "id": 337,
+      "wikidata_id": "Q118265129",
+      "name_de": "Windmühle Hoyerhagen",
+      "name_en": "",
+      "latitude": 52.824371,
+      "longitude": 9.08036,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118265129"
+    },
+    {
+      "id": 338,
+      "wikidata_id": "Q126378542",
+      "name_de": "Windmühle in Altenbeichlingen",
+      "name_en": "Windmill in Altenbeichlingen",
+      "latitude": 51.224835,
+      "longitude": 11.237685,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378542"
+    },
+    {
+      "id": 339,
+      "wikidata_id": "Q126378595",
+      "name_de": "Windmühle in Aschara",
+      "name_en": "Windmill in Aschara",
+      "latitude": 51.060617,
+      "longitude": 10.683772,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378595"
+    },
+    {
+      "id": 340,
+      "wikidata_id": "Q126378538",
+      "name_de": "Windmühle in Auma",
+      "name_en": "Windmill in Auma",
+      "latitude": 50.69405,
+      "longitude": 11.90555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378538"
+    },
+    {
+      "id": 341,
+      "wikidata_id": "Q126378507",
+      "name_de": "Windmühle in Bachra",
+      "name_en": "Windmill in Bachra",
+      "latitude": 51.19302,
+      "longitude": 11.357725,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378507"
+    },
+    {
+      "id": 342,
+      "wikidata_id": "Q126378519",
+      "name_de": "Windmühle in Bieblach",
+      "name_en": "Windmill in Bieblach",
+      "latitude": 50.89446,
+      "longitude": 12.08936,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378519"
+    },
+    {
+      "id": 343,
+      "wikidata_id": "Q126378601",
+      "name_de": "Windmühle in Bottendorf",
+      "name_en": "Windmill in Bottendorf",
+      "latitude": 51.30468,
+      "longitude": 11.40728,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378601"
+    },
+    {
+      "id": 344,
+      "wikidata_id": "Q126378592",
+      "name_de": "Windmühle in Buttstädt",
+      "name_en": "Windmill in Buttstädt",
+      "latitude": 51.1229,
+      "longitude": 11.43265,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378592"
+    },
+    {
+      "id": 345,
+      "wikidata_id": "Q126378553",
+      "name_de": "Windmühle in Dittersdorf (Thuringia)",
+      "name_en": "Windmill in Dittersdorf (Thuringia)",
+      "latitude": 50.646248,
+      "longitude": 11.81596,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378553"
+    },
+    {
+      "id": 346,
+      "wikidata_id": "Q126392811",
+      "name_de": "Windmühle in Döllstädt",
+      "name_en": "Windmill in Döllstädt",
+      "latitude": 51.08637,
+      "longitude": 10.8184,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126392811"
+    },
+    {
+      "id": 347,
+      "wikidata_id": "Q126378578",
+      "name_de": "Windmühle in Eliasbrunn",
+      "name_en": "Windmill in Eliasbrunn",
+      "latitude": 50.49535,
+      "longitude": 11.59707,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378578"
+    },
+    {
+      "id": 348,
+      "wikidata_id": "Q126378572",
+      "name_de": "Windmühle in Eßleben",
+      "name_en": "Windmill in Eßleben",
+      "latitude": 51.148045,
+      "longitude": 11.45998,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378572"
+    },
+    {
+      "id": 349,
+      "wikidata_id": "Q126378525",
+      "name_de": "Windmühle in Frauenprießnitz",
+      "name_en": "Windmill in Frauenprießnitz",
+      "latitude": 51.011344,
+      "longitude": 11.728298,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378525"
+    },
+    {
+      "id": 350,
+      "wikidata_id": "Q126378577",
+      "name_de": "Windmühle in Großmehlra",
+      "name_en": "Windmill in Großmehlra",
+      "latitude": 51.268049,
+      "longitude": 10.61632,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378577"
+    },
+    {
+      "id": 351,
+      "wikidata_id": "Q126378532",
+      "name_de": "Windmühle in Haselbach (Rückersdorf)",
+      "name_en": "Windmill in Haselbach (Rückersdorf)",
+      "latitude": 50.826,
+      "longitude": 12.2415,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378532"
+    },
+    {
+      "id": 352,
+      "wikidata_id": "Q126378544",
+      "name_de": "Windmühle in Hauteroda",
+      "name_en": "Windmill in Hauteroda",
+      "latitude": 51.268315,
+      "longitude": 11.278225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378544"
+    },
+    {
+      "id": 353,
+      "wikidata_id": "Q126378501",
+      "name_de": "Windmühle in Heichelheim",
+      "name_en": "Windmill in Heichelheim",
+      "latitude": 51.047725,
+      "longitude": 11.3193,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378501"
+    },
+    {
+      "id": 354,
+      "wikidata_id": "Q126378492",
+      "name_de": "Windmühle in Hopfgarten",
+      "name_en": "Windmill in Hopfgarten",
+      "latitude": 50.98563,
+      "longitude": 11.203145,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378492"
+    },
+    {
+      "id": 355,
+      "wikidata_id": "Q126378526",
+      "name_de": "Windmühle in Immenrode",
+      "name_en": "Windmill in Immenrode",
+      "latitude": 51.362448,
+      "longitude": 10.735172,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378526"
+    },
+    {
+      "id": 356,
+      "wikidata_id": "Q126378530",
+      "name_de": "Windmühle in Kischlitz",
+      "name_en": "Windmill in Kischlitz",
+      "latitude": 50.984319,
+      "longitude": 11.812322,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378530"
+    },
+    {
+      "id": 357,
+      "wikidata_id": "Q126378528",
+      "name_de": "Windmühle in Kleinaga",
+      "name_en": "Windmill in Kleinaga",
+      "latitude": 50.96164,
+      "longitude": 12.10147,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378528"
+    },
+    {
+      "id": 358,
+      "wikidata_id": "Q126378540",
+      "name_de": "Windmühle in Mühlhausen",
+      "name_en": "Windmill in Mühlhausen",
+      "latitude": 51.2017,
+      "longitude": 10.44954,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378540"
+    },
+    {
+      "id": 359,
+      "wikidata_id": "Q126378550",
+      "name_de": "Windmühle in Nermsdorf",
+      "name_en": "Windmill in Nermsdorf",
+      "latitude": 51.082614,
+      "longitude": 11.373775,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378550"
+    },
+    {
+      "id": 360,
+      "wikidata_id": "Q126477442",
+      "name_de": "Windmühle in Oberreißen",
+      "name_en": "Windmill in Oberreißen",
+      "latitude": 51.089,
+      "longitude": 11.408,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126477442"
+    },
+    {
+      "id": 361,
+      "wikidata_id": "Q126378557",
+      "name_de": "Windmühle in Pölzig",
+      "name_en": "Windmill in Pölzig",
+      "latitude": 50.9589,
+      "longitude": 12.1887,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378557"
+    },
+    {
+      "id": 362,
+      "wikidata_id": "Q126378581",
+      "name_de": "Windmühle in Rüdersdorf (Kraftsdorf)",
+      "name_en": "Windmill in Rüdersdorf (Kraftsdorf)",
+      "latitude": 50.896512,
+      "longitude": 11.968023,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378581"
+    },
+    {
+      "id": 363,
+      "wikidata_id": "Q126378567",
+      "name_de": "Windmühle in Schlotheim",
+      "name_en": "Windmill in Schlotheim",
+      "latitude": 51.250778,
+      "longitude": 10.658263,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378567"
+    },
+    {
+      "id": 364,
+      "wikidata_id": "Q126378584",
+      "name_de": "Windmühle in Schloßvippach",
+      "name_en": "Windmill in Schloßvippach",
+      "latitude": 51.107847,
+      "longitude": 11.155924,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378584"
+    },
+    {
+      "id": 365,
+      "wikidata_id": "Q126378564",
+      "name_de": "Windmühle in Schmiedehausen",
+      "name_en": "Windmill in Schmiedehausen",
+      "latitude": 51.072635,
+      "longitude": 11.664215,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378564"
+    },
+    {
+      "id": 366,
+      "wikidata_id": "Q126378574",
+      "name_de": "Windmühle in Sprötau",
+      "name_en": "Windmill in Sprötau",
+      "latitude": 51.128276,
+      "longitude": 11.203909,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378574"
+    },
+    {
+      "id": 367,
+      "wikidata_id": "Q126392792",
+      "name_de": "Windmühle in Suhl",
+      "name_en": "Windmill in Suhl",
+      "latitude": 50.60562,
+      "longitude": 10.6912,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126392792"
+    },
+    {
+      "id": 368,
+      "wikidata_id": "Q126378523",
+      "name_de": "Windmühle in Triptis",
+      "name_en": "Windmill in Triptis",
+      "latitude": 50.742075,
+      "longitude": 11.875605,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378523"
+    },
+    {
+      "id": 369,
+      "wikidata_id": "Q126378539",
+      "name_de": "Windmühle in Weira",
+      "name_en": "Windmill in Weira",
+      "latitude": 50.7041,
+      "longitude": 11.7076,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378539"
+    },
+    {
+      "id": 370,
+      "wikidata_id": "Q126378456",
+      "name_de": "Windmühle in Weißensee",
+      "name_en": "Windmill in Weißensee",
+      "latitude": 51.204675,
+      "longitude": 11.06569,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378456"
+    },
+    {
+      "id": 371,
+      "wikidata_id": "Q126378588",
+      "name_de": "Windmühle in Wildenbörten",
+      "name_en": "Windmill in Wildenbörten",
+      "latitude": 50.9118,
+      "longitude": 12.2916,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378588"
+    },
+    {
+      "id": 372,
+      "wikidata_id": "Q126378570",
+      "name_de": "Windmühle in Windeberg",
+      "name_en": "Windmill in Windeberg",
+      "latitude": 51.2704,
+      "longitude": 10.5076,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378570"
+    },
+    {
+      "id": 373,
+      "wikidata_id": "Q126378496",
+      "name_de": "Windmühle in Zeulenroda",
+      "name_en": "Windmill in Zeulenroda",
+      "latitude": 50.65272,
+      "longitude": 11.9964,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378496"
+    },
+    {
+      "id": 374,
+      "wikidata_id": "Q24248553",
+      "name_de": "Windmühle Johanna",
+      "name_en": "Windmühle \"Johanna\"",
+      "latitude": 53.499777,
+      "longitude": 10.023203,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24248553"
+    },
+    {
+      "id": 375,
+      "wikidata_id": "Q49444280",
+      "name_de": "Windmühle Kaufbach Kaufbach (Wilsdruff)",
+      "name_en": "Windmühle Kaufbach",
+      "latitude": 51.047326,
+      "longitude": 13.576893,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49444280"
+    },
+    {
+      "id": 376,
+      "wikidata_id": "Q54339445",
+      "name_de": "Windmühle Klein Germersleben",
+      "name_en": "Paltrockmühle Klein Germersleben",
+      "latitude": 52.016667,
+      "longitude": 11.402778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54339445"
+    },
+    {
+      "id": 377,
+      "wikidata_id": "Q2583721",
+      "name_de": "Windmühle Klütz",
+      "name_en": "Klützer Holländermühle",
+      "latitude": 53.970856,
+      "longitude": 11.162078,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2583721"
+    },
+    {
+      "id": 378,
+      "wikidata_id": "Q2583724",
+      "name_de": "Windmühle Kollmar",
+      "name_en": "Windmühle Kollmar",
+      "latitude": 53.7381,
+      "longitude": 9.49953,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2583724"
+    },
+    {
+      "id": 379,
+      "wikidata_id": "Q58400394",
+      "name_de": "Windmühle Krokau",
+      "name_en": "Windmühle Krokau",
+      "latitude": 54.406792,
+      "longitude": 10.337038,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58400394"
+    },
+    {
+      "id": 380,
+      "wikidata_id": "Q2583725",
+      "name_de": "Windmühle Kummer",
+      "name_en": "",
+      "latitude": 53.3294,
+      "longitude": 11.3823,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2583725"
+    },
+    {
+      "id": 381,
+      "wikidata_id": "Q49444984",
+      "name_de": "Windmühle Kupsal Kupsal",
+      "name_en": "Erdholländer Krostitz-Kupsal",
+      "latitude": 51.461354,
+      "longitude": 12.494665,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49444984"
+    },
+    {
+      "id": 382,
+      "wikidata_id": "Q49445837",
+      "name_de": "Windmühle Kyhna",
+      "name_en": "Dornmühle Kleinkyhna",
+      "latitude": 51.522393,
+      "longitude": 12.265187,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49445837"
+    },
+    {
+      "id": 383,
+      "wikidata_id": "Q116415471",
+      "name_de": "Windmühle Kätingen",
+      "name_en": "",
+      "latitude": 52.903104,
+      "longitude": 8.72548,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116415471"
+    },
+    {
+      "id": 384,
+      "wikidata_id": "Q15135055",
+      "name_de": "Windmühle Kühlungsborn",
+      "name_en": "Kühlungsborn Windmill",
+      "latitude": 54.142161,
+      "longitude": 11.759837,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15135055"
+    },
+    {
+      "id": 385,
+      "wikidata_id": "Q139798475",
+      "name_de": "Windmühle Labbus",
+      "name_en": "",
+      "latitude": 52.687748,
+      "longitude": 8.843247,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q139798475"
+    },
+    {
+      "id": 386,
+      "wikidata_id": "Q1440123",
+      "name_de": "Windmühle Lechtingen",
+      "name_en": "Windmühle Lechtingen",
+      "latitude": 52.3417,
+      "longitude": 8.03417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1440123"
+    },
+    {
+      "id": 387,
+      "wikidata_id": "Q67790000",
+      "name_de": "Windmühle Levern (Stemwede)",
+      "name_en": "Windmill Levern (Stemwede)",
+      "latitude": 52.36957,
+      "longitude": 8.46334,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q67790000"
+    },
+    {
+      "id": 388,
+      "wikidata_id": "Q49444933",
+      "name_de": "Windmühle Liemehna",
+      "name_en": "Holländermühle Liemehna",
+      "latitude": 51.436959,
+      "longitude": 12.521073,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49444933"
+    },
+    {
+      "id": 389,
+      "wikidata_id": "Q105029102",
+      "name_de": "Windmühle Linda",
+      "name_en": "Windmill in Linda",
+      "latitude": 50.6844,
+      "longitude": 11.7835,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105029102"
+    },
+    {
+      "id": 390,
+      "wikidata_id": "Q82516276",
+      "name_de": "Windmühle Lintig",
+      "name_en": "",
+      "latitude": 53.603435,
+      "longitude": 8.886927,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82516276"
+    },
+    {
+      "id": 391,
+      "wikidata_id": "Q76883192",
+      "name_de": "Windmühle Logabirum",
+      "name_en": "Mühle Eiklenborg",
+      "latitude": 53.24755,
+      "longitude": 7.515635,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q76883192"
+    },
+    {
+      "id": 392,
+      "wikidata_id": "Q87070658",
+      "name_de": "Windmühle Lüdingworth",
+      "name_en": "Windmühle Lüdingworth",
+      "latitude": 53.794922,
+      "longitude": 8.805472,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q87070658"
+    },
+    {
+      "id": 393,
+      "wikidata_id": "Q58394512",
+      "name_de": "Windmühle Margaretha",
+      "name_en": "",
+      "latitude": 54.148924,
+      "longitude": 9.076812,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58394512"
+    },
+    {
+      "id": 394,
+      "wikidata_id": "Q58395356",
+      "name_de": "Windmühle Margaretha",
+      "name_en": "Margaretha wind mill",
+      "latitude": 54.16357,
+      "longitude": 8.866199,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58395356"
+    },
+    {
+      "id": 395,
+      "wikidata_id": "Q118459388",
+      "name_de": "Windmühle Margarethe",
+      "name_en": "Windmühle Margarethe",
+      "latitude": 52.775108,
+      "longitude": 9.220832,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118459388"
+    },
+    {
+      "id": 396,
+      "wikidata_id": "Q140111059",
+      "name_de": "Windmühle Meine",
+      "name_en": "",
+      "latitude": 52.373204,
+      "longitude": 10.548376,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q140111059"
+    },
+    {
+      "id": 397,
+      "wikidata_id": "Q67184318",
+      "name_de": "Windmühle Meißen (Minden)",
+      "name_en": "Windmill Meißen (Minden)",
+      "latitude": 52.276368,
+      "longitude": 8.960147,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q67184318"
+    },
+    {
+      "id": 398,
+      "wikidata_id": "Q2583729",
+      "name_de": "Windmühle Meßlingen",
+      "name_en": "Windmühle Messlingen",
+      "latitude": 52.3834,
+      "longitude": 8.88837,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2583729"
+    },
+    {
+      "id": 399,
+      "wikidata_id": "Q124429860",
+      "name_de": "Windmühle Midlum",
+      "name_en": "Midlum windmill",
+      "latitude": 53.732212,
+      "longitude": 8.615735,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124429860"
+    },
+    {
+      "id": 400,
+      "wikidata_id": "Q137686195",
+      "name_de": "Windmühle Münchehagen",
+      "name_en": "",
+      "latitude": 52.431939,
+      "longitude": 9.187864,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137686195"
+    },
+    {
+      "id": 401,
+      "wikidata_id": "Q49445877",
+      "name_de": "Windmühle Naundorf Naundorf",
+      "name_en": "Turmholländer Zschepplin-Naundorf",
+      "latitude": 51.494071,
+      "longitude": 12.533341,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49445877"
+    },
+    {
+      "id": 402,
+      "wikidata_id": "Q49450270",
+      "name_de": "Windmühle Naunhof Naunhof",
+      "name_en": "Naunhofer Holländermühle",
+      "latitude": 51.219879,
+      "longitude": 13.619888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49450270"
+    },
+    {
+      "id": 403,
+      "wikidata_id": "Q49452677",
+      "name_de": "Windmühle Nerchau",
+      "name_en": "Nerchauer Mühle",
+      "latitude": 51.267062,
+      "longitude": 12.796109,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49452677"
+    },
+    {
+      "id": 404,
+      "wikidata_id": "Q137671226",
+      "name_de": "Windmühle Neu-Diele",
+      "name_en": "",
+      "latitude": 53.12582,
+      "longitude": 7.319112,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137671226"
+    },
+    {
+      "id": 405,
+      "wikidata_id": "Q83153512",
+      "name_de": "Windmühle Neubuckow",
+      "name_en": "",
+      "latitude": 54.035457,
+      "longitude": 11.665771,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q83153512"
+    },
+    {
+      "id": 406,
+      "wikidata_id": "Q49451077",
+      "name_de": "Windmühle Niederau",
+      "name_en": "Windmühle Niederau",
+      "latitude": 51.17169,
+      "longitude": 13.54097,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49451077"
+    },
+    {
+      "id": 407,
+      "wikidata_id": "Q136473000",
+      "name_de": "Windmühle Niederböhmersdorf",
+      "name_en": "Windmill Niederböhmersdorf",
+      "latitude": 50.661565,
+      "longitude": 12.020544,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136473000"
+    },
+    {
+      "id": 408,
+      "wikidata_id": "Q114437795",
+      "name_de": "Windmühle Nordhemmern (Hille)",
+      "name_en": "Windmühle Nordhemmern",
+      "latitude": 52.345635,
+      "longitude": 8.789672,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114437795"
+    },
+    {
+      "id": 409,
+      "wikidata_id": "Q25621748",
+      "name_de": "Windmühle Nordholz",
+      "name_en": "Nordholz windmill",
+      "latitude": 53.774814,
+      "longitude": 8.589494,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25621748"
+    },
+    {
+      "id": 410,
+      "wikidata_id": "Q126902350",
+      "name_de": "Windmühle Osterbruch",
+      "name_en": "",
+      "latitude": 53.75414,
+      "longitude": 8.92785,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126902350"
+    },
+    {
+      "id": 411,
+      "wikidata_id": "Q134355728",
+      "name_de": "Windmühle Ostersode",
+      "name_en": "",
+      "latitude": 53.311506,
+      "longitude": 8.962482,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134355728"
+    },
+    {
+      "id": 412,
+      "wikidata_id": "Q49450670",
+      "name_de": "Windmühle Pahrenz; Jenichen-Mühle Pahrenz",
+      "name_en": "Windmühle Pahrenz",
+      "latitude": 51.246309,
+      "longitude": 13.312708,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49450670"
+    },
+    {
+      "id": 413,
+      "wikidata_id": "Q22255990",
+      "name_de": "Windmühle Parey",
+      "name_en": "Ogen Mühle, Parey",
+      "latitude": 52.386546,
+      "longitude": 11.980831,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22255990"
+    },
+    {
+      "id": 414,
+      "wikidata_id": "Q49368966",
+      "name_de": "Windmühle Pegenau Windmühlenweg 1",
+      "name_en": "Windmühle Pegenau",
+      "latitude": 51.11879,
+      "longitude": 13.52532,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49368966"
+    },
+    {
+      "id": 415,
+      "wikidata_id": "Q22137037",
+      "name_de": "Windmühle Plößnitz",
+      "name_en": "Windmühle Plößnitz",
+      "latitude": 51.538258,
+      "longitude": 12.058104,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22137037"
+    },
+    {
+      "id": 416,
+      "wikidata_id": "Q1421170",
+      "name_de": "Windmühle Pohrsdorf",
+      "name_en": "Windmühle Pohrsdorf",
+      "latitude": 50.996,
+      "longitude": 13.5278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1421170"
+    },
+    {
+      "id": 417,
+      "wikidata_id": "Q49450674",
+      "name_de": "Windmühle Prausitz",
+      "name_en": "Windmühle Prausitz",
+      "latitude": 51.262065,
+      "longitude": 13.308821,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49450674"
+    },
+    {
+      "id": 418,
+      "wikidata_id": "Q124156734",
+      "name_de": "",
+      "name_en": "Windmühle Puls",
+      "latitude": 54.08218,
+      "longitude": 9.52308,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124156734"
+    },
+    {
+      "id": 419,
+      "wikidata_id": "Q136479512",
+      "name_de": "Windmühle Quelkhorn",
+      "name_en": "Quelkhorn windmill",
+      "latitude": 53.13664,
+      "longitude": 9.07698,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136479512"
+    },
+    {
+      "id": 420,
+      "wikidata_id": "Q126378537",
+      "name_de": "Windmühle Ranis",
+      "name_en": "Windmill in Ranis",
+      "latitude": 50.65811,
+      "longitude": 11.56861,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126378537"
+    },
+    {
+      "id": 421,
+      "wikidata_id": "Q22694640",
+      "name_de": "Windmühle Reina Roxana",
+      "name_en": "Windmühle Reina Roxana",
+      "latitude": 52.671998,
+      "longitude": 8.963861,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22694640"
+    },
+    {
+      "id": 422,
+      "wikidata_id": "Q16498266",
+      "name_de": "Windmühle Reken",
+      "name_en": "Windmühle Reken",
+      "latitude": 51.832221,
+      "longitude": 7.053476,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16498266"
+    },
+    {
+      "id": 423,
+      "wikidata_id": "Q15854789",
+      "name_de": "Windmühle Remels",
+      "name_en": "",
+      "latitude": 53.307729,
+      "longitude": 7.753147,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15854789"
+    },
+    {
+      "id": 424,
+      "wikidata_id": "Q49445155",
+      "name_de": "Windmühle Richter Mockrehna",
+      "name_en": "Mühle Richter Mockrehna",
+      "latitude": 51.500461,
+      "longitude": 12.819903,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49445155"
+    },
+    {
+      "id": 425,
+      "wikidata_id": "Q136294249",
+      "name_de": "Windmühle Sandbostel",
+      "name_en": "Sandbostel windmill",
+      "latitude": 53.41277,
+      "longitude": 9.12883,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136294249"
+    },
+    {
+      "id": 426,
+      "wikidata_id": "Q132560664",
+      "name_de": "Windmühle Sandhausen",
+      "name_en": "",
+      "latitude": 53.262451,
+      "longitude": 8.815406,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q132560664"
+    },
+    {
+      "id": 427,
+      "wikidata_id": "Q136303858",
+      "name_de": "Windmühle Selsingen",
+      "name_en": "Selsingen windmill",
+      "latitude": 53.366958,
+      "longitude": 9.219247,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136303858"
+    },
+    {
+      "id": 428,
+      "wikidata_id": "Q49447609",
+      "name_de": "Windmühle Strocken",
+      "name_en": "Windmühle Strocken",
+      "latitude": 51.196666,
+      "longitude": 13.007307,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49447609"
+    },
+    {
+      "id": 429,
+      "wikidata_id": "Q116877020",
+      "name_de": "Windmühle Sudwalde",
+      "name_en": "",
+      "latitude": 52.792078,
+      "longitude": 8.8451,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116877020"
+    },
+    {
+      "id": 430,
+      "wikidata_id": "Q106157818",
+      "name_de": "Windmühle Säritzer Weg",
+      "name_en": "Windmühle Säritzer Weg",
+      "latitude": 51.745952,
+      "longitude": 13.936994,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106157818"
+    },
+    {
+      "id": 431,
+      "wikidata_id": "Q58394876",
+      "name_de": "Windmühle Südermühle",
+      "name_en": "",
+      "latitude": 54.085729,
+      "longitude": 9.071326,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58394876"
+    },
+    {
+      "id": 432,
+      "wikidata_id": "Q114434384",
+      "name_de": "Windmühle Südhemmern",
+      "name_en": "Windmühle Südhemmern",
+      "latitude": 52.321415,
+      "longitude": 8.777373,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114434384"
+    },
+    {
+      "id": 433,
+      "wikidata_id": "Q136304767",
+      "name_de": "Windmühle Tarmstedt",
+      "name_en": "",
+      "latitude": 53.224756,
+      "longitude": 9.085689,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136304767"
+    },
+    {
+      "id": 434,
+      "wikidata_id": "Q49438842",
+      "name_de": "Windmühle Tettau",
+      "name_en": "windmill Tettau",
+      "latitude": 50.8844,
+      "longitude": 12.50004,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49438842"
+    },
+    {
+      "id": 435,
+      "wikidata_id": "Q106986616",
+      "name_de": "Windmühle und Mühlencafè Woldegk",
+      "name_en": "",
+      "latitude": 53.463142,
+      "longitude": 13.578745,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106986616"
+    },
+    {
+      "id": 436,
+      "wikidata_id": "Q56703635",
+      "name_de": "Windmühle Veltheim",
+      "name_en": "Windmühle Veltheim",
+      "latitude": 52.199444,
+      "longitude": 8.988889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56703635"
+    },
+    {
+      "id": 437,
+      "wikidata_id": "Q58393792",
+      "name_de": "Windmühle Vergißmeinnicht",
+      "name_en": "",
+      "latitude": 54.01442,
+      "longitude": 8.89429,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58393792"
+    },
+    {
+      "id": 438,
+      "wikidata_id": "Q99495717",
+      "name_de": "Windmühle Wallwitz",
+      "name_en": "Windmühle Wallwitz",
+      "latitude": 52.113272,
+      "longitude": 11.912807,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99495717"
+    },
+    {
+      "id": 439,
+      "wikidata_id": "Q138807415",
+      "name_de": "Windmühle Wardböhmen",
+      "name_en": "",
+      "latitude": 52.849638,
+      "longitude": 9.910805,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138807415"
+    },
+    {
+      "id": 440,
+      "wikidata_id": "Q119695235",
+      "name_de": "Windmühle Wechold",
+      "name_en": "",
+      "latitude": 52.851778,
+      "longitude": 9.117796,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q119695235"
+    },
+    {
+      "id": 441,
+      "wikidata_id": "Q116427705",
+      "name_de": "Windmühle Wedehorn",
+      "name_en": "Windmühle Wedehorn",
+      "latitude": 52.78749,
+      "longitude": 8.70913,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116427705"
+    },
+    {
+      "id": 442,
+      "wikidata_id": "Q69062258",
+      "name_de": "Windmühle Wegholm (Petershagen)",
+      "name_en": "Windmühle Wegholm (Petershagen)",
+      "latitude": 52.271561,
+      "longitude": 8.853089,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q69062258"
+    },
+    {
+      "id": 443,
+      "wikidata_id": "Q49450834",
+      "name_de": "Windmühle Weißig am Raschütz",
+      "name_en": "Holländermühle Weißig am Raschütz",
+      "latitude": 51.348639,
+      "longitude": 13.657809,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49450834"
+    },
+    {
+      "id": 444,
+      "wikidata_id": "Q23808155",
+      "name_de": "Windmühle Wendhausen",
+      "name_en": "Wendhausen Windmill",
+      "latitude": 52.316194,
+      "longitude": 10.63275,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23808155"
+    },
+    {
+      "id": 445,
+      "wikidata_id": "Q41774486",
+      "name_de": "Windmühle Wengelsdorf (Turmholländer)",
+      "name_en": "Turmholländer Wengelsdorf",
+      "latitude": 51.27755,
+      "longitude": 12.037065,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q41774486"
+    },
+    {
+      "id": 446,
+      "wikidata_id": "Q125692960",
+      "name_de": "Windmühle Wesermünder Straße 53",
+      "name_en": "Wesermünder Straße 53 windmill",
+      "latitude": 53.466798,
+      "longitude": 8.741229,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125692960"
+    },
+    {
+      "id": 447,
+      "wikidata_id": "Q123485471",
+      "name_de": "Windmühle Westen",
+      "name_en": "Windmühle Westen",
+      "latitude": 52.8334,
+      "longitude": 9.3126,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123485471"
+    },
+    {
+      "id": 448,
+      "wikidata_id": "Q136296412",
+      "name_de": "Windmühle Westervesede",
+      "name_en": "",
+      "latitude": 53.150438,
+      "longitude": 9.55859,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136296412"
+    },
+    {
+      "id": 449,
+      "wikidata_id": "Q140265301",
+      "name_de": "Windmühle Weyhausen",
+      "name_en": "",
+      "latitude": 52.466609,
+      "longitude": 10.729992,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q140265301"
+    },
+    {
+      "id": 450,
+      "wikidata_id": "Q49450610",
+      "name_de": "Windmühle Weßnitz Weßnitz",
+      "name_en": "Erdholländer Großenhain-Weßnitz",
+      "latitude": 51.276517,
+      "longitude": 13.562885,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49450610"
+    },
+    {
+      "id": 451,
+      "wikidata_id": "Q135450919",
+      "name_de": "Windmühle Winkeldorf",
+      "name_en": "",
+      "latitude": 53.199455,
+      "longitude": 9.21404,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135450919"
+    },
+    {
+      "id": 452,
+      "wikidata_id": "Q134324139",
+      "name_de": "Windmühle Worpswede",
+      "name_en": "",
+      "latitude": 53.22246,
+      "longitude": 8.90503,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134324139"
+    },
+    {
+      "id": 453,
+      "wikidata_id": "Q107434836",
+      "name_de": "Windmühle Wöpel",
+      "name_en": "Windmühle Wöpel",
+      "latitude": 52.761802,
+      "longitude": 11.086683,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107434836"
+    },
+    {
+      "id": 454,
+      "wikidata_id": "Q58394643",
+      "name_de": "Windmühle „Anna“",
+      "name_en": "",
+      "latitude": 54.06925,
+      "longitude": 9.17477,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58394643"
+    },
+    {
+      "id": 455,
+      "wikidata_id": "Q58395385",
+      "name_de": "Windmühle „Aurora“",
+      "name_en": "",
+      "latitude": 54.237,
+      "longitude": 9.0867,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58395385"
+    },
+    {
+      "id": 456,
+      "wikidata_id": "Q58395434",
+      "name_de": "Windmühle „Edda“",
+      "name_en": "",
+      "latitude": 53.98949,
+      "longitude": 9.12363,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58395434"
+    },
+    {
+      "id": 457,
+      "wikidata_id": "Q58395227",
+      "name_de": "Windmühle „Emanuel“",
+      "name_en": "windmill Emanuel",
+      "latitude": 54.32966,
+      "longitude": 8.79099,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58395227"
+    },
+    {
+      "id": 458,
+      "wikidata_id": "Q58396152",
+      "name_de": "Windmühle „Fortuna“",
+      "name_en": "",
+      "latitude": 54.793121,
+      "longitude": 9.655755,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58396152"
+    },
+    {
+      "id": 459,
+      "wikidata_id": "Q58393775",
+      "name_de": "Windmühle „Gott mit uns“",
+      "name_en": "",
+      "latitude": 53.94337,
+      "longitude": 9.1406,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58393775"
+    },
+    {
+      "id": 460,
+      "wikidata_id": "Q58394852",
+      "name_de": "Windmühle „Nordermühle Fortuna“",
+      "name_en": "",
+      "latitude": 54.093601,
+      "longitude": 9.069989,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58394852"
+    },
+    {
+      "id": 461,
+      "wikidata_id": "Q58398400",
+      "name_de": "Windmühle „Senta“",
+      "name_en": "",
+      "latitude": 54.129806,
+      "longitude": 9.559875,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58398400"
+    },
+    {
+      "id": 462,
+      "wikidata_id": "Q58393696",
+      "name_de": "Windmühle „Ursula“",
+      "name_en": "Windmühle Ursula Barlt",
+      "latitude": 54.01648,
+      "longitude": 9.06206,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58393696"
+    },
+    {
+      "id": 463,
+      "wikidata_id": "Q25089364",
+      "name_de": "Windmühlenstumpf",
+      "name_en": "Windmühlenstumpf",
+      "latitude": 52.107405,
+      "longitude": 8.774799,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25089364"
+    },
+    {
+      "id": 464,
+      "wikidata_id": "Q1697701",
+      "name_de": "Wirichsbongardstor",
+      "name_en": "Wirichsbongardstor",
+      "latitude": 50.77111,
+      "longitude": 6.09083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1697701"
+    },
+    {
+      "id": 465,
+      "wikidata_id": "Q125421503",
+      "name_de": "Wittenhorst Mühle",
+      "name_en": "Wittenhorst Mühle",
+      "latitude": 51.865729,
+      "longitude": 6.159005,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125421503"
+    },
+    {
+      "id": 466,
+      "wikidata_id": "Q49451502",
+      "name_de": "Zottewitzer Windmühle",
+      "name_en": "Erdholländer Priestewitz-Zottewitz",
+      "latitude": 51.251414,
+      "longitude": 13.447055,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49451502"
+    },
+    {
+      "id": 467,
+      "wikidata_id": "Q29657261",
+      "name_de": "Ölmühle des Franz Köcheln",
+      "name_en": "Ölmühle des Franz Köcheln",
+      "latitude": 53.083333,
+      "longitude": 8.7875,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29657261"
+    }
+  ],
+  "meta": {
+    "title": "Windmühlen in Deutschland / Windmills in Germany - Kostenloser Download",
+    "description": "Windmühlen in Deutschland (Windmills in Germany). Geolocated points sourced from Wikidata (instance of Q38720), located in Germany (Q183), each with a coordinate (P625). Enthält 467 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Windmühlen in Deutschland / Windmills in Germany | ListBase",
+    "seo_description": "Herunterladen Windmühlen in Deutschland / Windmills in Germany — 467 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 467 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

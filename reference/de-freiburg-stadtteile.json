@@ -1,0 +1,115 @@
+{
+  "id": "de-freiburg-stadtteile",
+  "name": "Stadtteile von Freiburg im Breisgau",
+  "title": "Stadtteile von Freiburg im Breisgau",
+  "description": "Die 28 Stadtteile (city districts) der Stadt Freiburg im Breisgau, extrahiert aus den Grenz-GeoJSON-Dateien des Projekts Code for Germany / click_that_hood. Nur der native deutsche Name je Teilgebiet wurde übernommen; die Polygon-Geometrie wurde verworfen.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Altstadt"
+    },
+    {
+      "name": "Betzenhausen"
+    },
+    {
+      "name": "Brühl"
+    },
+    {
+      "name": "Ebnet"
+    },
+    {
+      "name": "Günterstal"
+    },
+    {
+      "name": "Haslach"
+    },
+    {
+      "name": "Herdern"
+    },
+    {
+      "name": "Hochdorf"
+    },
+    {
+      "name": "Kappel"
+    },
+    {
+      "name": "Landwasser"
+    },
+    {
+      "name": "Lehen"
+    },
+    {
+      "name": "Littenweiler"
+    },
+    {
+      "name": "Mooswald"
+    },
+    {
+      "name": "Mundenhof"
+    },
+    {
+      "name": "Munzingen"
+    },
+    {
+      "name": "Neuburg"
+    },
+    {
+      "name": "Oberau"
+    },
+    {
+      "name": "Opfingen"
+    },
+    {
+      "name": "Rieselfeld"
+    },
+    {
+      "name": "St. Georges"
+    },
+    {
+      "name": "Stühlinger"
+    },
+    {
+      "name": "Tiengen"
+    },
+    {
+      "name": "Vauban"
+    },
+    {
+      "name": "Waldsee"
+    },
+    {
+      "name": "Waltershofen"
+    },
+    {
+      "name": "Weingarten"
+    },
+    {
+      "name": "Wiehre"
+    },
+    {
+      "name": "Zähringen"
+    }
+  ],
+  "meta": {
+    "title": "Stadtteile von Freiburg im Breisgau - Kostenloser Download",
+    "description": "Die 28 Stadtteile (city districts) der Stadt Freiburg im Breisgau, extrahiert aus den Grenz-GeoJSON-Dateien des Projekts Code for Germany / click_that_hood. Nur der native deutsche Name je Teilgebiet wurde übernommen; die Polygon-Geometrie wurde verworfen. Enthält 28 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Stadtteile von Freiburg im Breisgau | ListBase",
+    "seo_description": "Herunterladen Stadtteile von Freiburg im Breisgau — 28 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 28 Datensätze / 1 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

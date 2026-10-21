@@ -1,0 +1,97 @@
+{
+  "id": "de-masseinheiten-force",
+  "name": "Maßeinheiten — Kategorie 'force' (4)",
+  "title": "Maßeinheiten — Kategorie 'force' (4)",
+  "description": "Maßeinheiten der Kategorie 'force' aus der Locale de in CLDR, mit Namen auf Deutsch.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abkuerzung",
+      "label": "Abkuerzung",
+      "type": "string"
+    },
+    {
+      "key": "schmalform",
+      "label": "Schmalform",
+      "type": "string"
+    },
+    {
+      "key": "muster",
+      "label": "Muster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "force-kilogram-force",
+      "kategorie": "force",
+      "name": "Kraftkilogramm",
+      "abkuerzung": "kgf",
+      "schmalform": "kgf",
+      "muster": "{0} Krafatkilogramm"
+    },
+    {
+      "id": 2,
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "kategorie": "force",
+      "name": "Kilowattstunde pro 100 Kilometer",
+      "abkuerzung": "kWh/100 km",
+      "schmalform": "kWh/100km",
+      "muster": "{0} Kilowattstunden pro 100 Kilometer"
+    },
+    {
+      "id": 3,
+      "unit_code": "force-newton",
+      "kategorie": "force",
+      "name": "Newton",
+      "abkuerzung": "Newton",
+      "schmalform": "Newton",
+      "muster": "{0} Newton"
+    },
+    {
+      "id": 4,
+      "unit_code": "force-pound-force",
+      "kategorie": "force",
+      "name": "Pound-force",
+      "abkuerzung": "lbf",
+      "schmalform": "lbf",
+      "muster": "{0} Pound-force"
+    }
+  ],
+  "meta": {
+    "title": "Maßeinheiten — Kategorie 'force' (4) - Kostenloser Download",
+    "description": "Maßeinheiten der Kategorie 'force' aus der Locale de in CLDR, mit Namen auf Deutsch. Enthält 4 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Maßeinheiten — Kategorie 'force' (4) | ListBase",
+    "seo_description": "Herunterladen Maßeinheiten — Kategorie 'force' (4) — 4 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 4 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "id": "de-bremen-banken",
+  "name": "Banken in Bremen — SWIFT/BIC-Codes",
+  "title": "Banken in Bremen — SWIFT/BIC-Codes",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Bremen, Germany. Subset of de-banken.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 255,
+      "bank": "BANKHAUS CARL F. PLUMP AND CO",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "PLUMDE29"
+    },
+    {
+      "id": 256,
+      "bank": "BANKHAUS CARL F. PLUMP AND CO",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "PLUMDE29T2S"
+    },
+    {
+      "id": 257,
+      "bank": "BANKHAUS CARL F. PLUMP AND CO",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "PLUMDE29TGT"
+    },
+    {
+      "id": 281,
+      "bank": "BANKHAUS NEELMEYER AG",
+      "city": "BREMEN",
+      "branch": "(DOTATIONSKONTO)",
+      "swift_code": "NEELDE22DTK"
+    },
+    {
+      "id": 282,
+      "bank": "BANKHAUS NEELMEYER AG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "NEELDE22"
+    },
+    {
+      "id": 422,
+      "bank": "BREMER AUFBAU-BANK GMBH",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "BABBDE21"
+    },
+    {
+      "id": 424,
+      "bank": "BREMER KREDITBANK AG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "BANVDEHB"
+    },
+    {
+      "id": 429,
+      "bank": "BREMISCHE VOLKSBANK EG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "GENODEF1HB1"
+    },
+    {
+      "id": 721,
+      "bank": "COMMERZBANK AG",
+      "city": "BREMEN",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF072"
+    },
+    {
+      "id": 722,
+      "bank": "COMMERZBANK AG",
+      "city": "BREMEN",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF073"
+    },
+    {
+      "id": 723,
+      "bank": "COMMERZBANK AG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "COBADEFF290"
+    },
+    {
+      "id": 1271,
+      "bank": "COMMERZBANK AG (FORMERLY BREMER BANK (DRESDNER BANK AG))",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "DRESDEFF290"
+    },
+    {
+      "id": 1360,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "BREMEN",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK)",
+      "swift_code": "DRESDEFFI13"
+    },
+    {
+      "id": 1995,
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "DAAEDED1005"
+    },
+    {
+      "id": 2156,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "DEUTDEHB"
+    },
+    {
+      "id": 3017,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "DEUTDEDBBRE"
+    },
+    {
+      "id": 3650,
+      "bank": "DEUTSCHE BUNDESBANK",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "MARKDEF1290"
+    },
+    {
+      "id": 3747,
+      "bank": "DEUTSCHE FACTORING BANK DEUTSCHE FACTORING GMBH AND CO.KG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "DFABDE21"
+    },
+    {
+      "id": 4113,
+      "bank": "FREIE HANSESTADT BREMEN",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "FRHRDE81"
+    },
+    {
+      "id": 4114,
+      "bank": "FREIE HANSESTADT BREMEN",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "FRHRDE81BRE"
+    },
+    {
+      "id": 4179,
+      "bank": "GREENSILL BANK AG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "NFHBDE21"
+    },
+    {
+      "id": 4180,
+      "bank": "GREENSILL BANK AG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "NFHBDE22"
+    },
+    {
+      "id": 4728,
+      "bank": "NASDAQ DEUTSCHLAND AG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "XBREDE21"
+    },
+    {
+      "id": 4753,
+      "bank": "NORDDEUTSCHE LANDESBANK - GIROZENTRALE -",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "BRLADE22"
+    },
+    {
+      "id": 4898,
+      "bank": "PSD BANK BREMEN",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "GENODEF1P03"
+    },
+    {
+      "id": 5676,
+      "bank": "ROEHLIG LOGISTICS GMBH  CO.KG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "ROHLDE22"
+    },
+    {
+      "id": 5755,
+      "bank": "SEB AG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "ESSEDE5F290"
+    },
+    {
+      "id": 6059,
+      "bank": "SPARDA-BANK HANNOVER EG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "GENODEF1SY9"
+    },
+    {
+      "id": 6060,
+      "bank": "SPARDA-BANK HANNOVER EG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "SPHRDE21"
+    },
+    {
+      "id": 6130,
+      "bank": "SPARKASSE BREMEN AG, DIE",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "SBREDE22"
+    },
+    {
+      "id": 7401,
+      "bank": "VOLKSBANK BREMEN-NORD EG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "GENODEF1HB2"
+    }
+  ],
+  "meta": {
+    "title": "Banken in Bremen — SWIFT/BIC-Codes - Kostenloser Download",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Bremen, Germany. Subset of de-banken. Enthält 31 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Banken in Bremen — SWIFT/BIC-Codes | ListBase",
+    "seo_description": "Herunterladen Banken in Bremen — SWIFT/BIC-Codes — 31 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 31 Datensätze / 5 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

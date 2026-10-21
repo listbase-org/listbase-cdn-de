@@ -1,0 +1,580 @@
+{
+  "id": "de-rheinland-pfalz-kfz-kennzeichen",
+  "name": "Kfz-Kennzeichen Rheinland-Pfalz — Unterscheidungszeichen aller Kreise und Städte",
+  "title": "Kfz-Kennzeichen Rheinland-Pfalz — Unterscheidungszeichen aller Kreise und Städte",
+  "description": "Alle in Rheinland-Pfalz (ISO 3166-2 DE-RP) gültigen Unterscheidungszeichen mit Stadt/Landkreis, Herleitung und Fußnoten. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = DE-RP).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "unterscheidungszeichen",
+      "label": "Unterscheidungszeichen",
+      "type": "string"
+    },
+    {
+      "key": "stadt_oder_kreis",
+      "label": "Stadt Oder Kreis",
+      "type": "string"
+    },
+    {
+      "key": "herleitung",
+      "label": "Herleitung",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_name",
+      "label": "Bundesland Name",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_iso_3166_2",
+      "label": "Bundesland Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "nationalitaetszeichen",
+      "label": "Nationalitaetszeichen",
+      "type": "string"
+    },
+    {
+      "key": "fussnoten",
+      "label": "Fussnoten",
+      "type": "number"
+    },
+    {
+      "key": "fussnoten_text",
+      "label": "Fussnoten Text",
+      "type": "string"
+    },
+    {
+      "key": "bemerkung",
+      "label": "Bemerkung",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unterscheidungszeichen": "AK",
+      "stadt_oder_kreis": "Altenkirchen (Westerwald)",
+      "herleitung": "AltenKirchen",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "AW",
+      "stadt_oder_kreis": "Ahrweiler",
+      "herleitung": "AhrWeiler",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "AZ",
+      "stadt_oder_kreis": "Alzey-Worms",
+      "herleitung": "AlZey",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "FT",
+      "stadt_oder_kreis": "Frankenthal (Pfalz), Stadt",
+      "herleitung": "FrankenThal",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": "auslaufend Kreis, Abwicklung: Zulassungsbehörde Bad Dürkheim und Rhein-Pfalz-Kreis"
+    },
+    {
+      "unterscheidungszeichen": "KH",
+      "stadt_oder_kreis": "Bad Kreuznach",
+      "herleitung": "KreuznacH",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "KL",
+      "stadt_oder_kreis": "Kaiserslautern",
+      "herleitung": "KaisersLautern",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "1",
+      "fussnoten_text": "Stadt- und Landkreis führen das gleiche Unterscheidungszeichen. Die Festlegung der Gruppen oder Nummerngruppen der Erkennungsnummer nach Anlage 2 der Fahrzeug-Zulassungsverordnung für deren Behörden oder zusätzliche Verwaltungsstellen erfolgt durch die zuständige oberste Landesbehörde oder die nach Landesrecht zuständige Stelle. Die Festlegung ist dem Kraftfahrt-Bundesamt rechtzeitig anzuzeigen.",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "KO",
+      "stadt_oder_kreis": "Koblenz, Stadt",
+      "herleitung": "KOblenz",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": "auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Mayen-Koblenz"
+    },
+    {
+      "unterscheidungszeichen": "LD",
+      "stadt_oder_kreis": "Landau in der Pfalz, Stadt",
+      "herleitung": "LanDau",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": "auslaufend Kreis, Abwicklung: Zulassungsbehörde Kreis Südliche Weinstraße"
+    },
+    {
+      "unterscheidungszeichen": "LU",
+      "stadt_oder_kreis": "Ludwigshafen am Rhein",
+      "herleitung": "LUdwigshafen",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": "auslaufend Kreis, Abwicklung: Zulassungsbehörde Rhein-Pfalz-Kreis"
+    },
+    {
+      "unterscheidungszeichen": "MY",
+      "stadt_oder_kreis": "Mayen-Koblenz",
+      "herleitung": "MaYen",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "MZ",
+      "stadt_oder_kreis": "Mainz",
+      "herleitung": "MainZ",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "1",
+      "fussnoten_text": "Stadt- und Landkreis führen das gleiche Unterscheidungszeichen. Die Festlegung der Gruppen oder Nummerngruppen der Erkennungsnummer nach Anlage 2 der Fahrzeug-Zulassungsverordnung für deren Behörden oder zusätzliche Verwaltungsstellen erfolgt durch die zuständige oberste Landesbehörde oder die nach Landesrecht zuständige Stelle. Die Festlegung ist dem Kraftfahrt-Bundesamt rechtzeitig anzuzeigen.",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "NR",
+      "stadt_oder_kreis": "Neuwied",
+      "herleitung": "Neuwied am Rhein",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "NW",
+      "stadt_oder_kreis": "Neustadt an der Weinstraße",
+      "herleitung": "Neustadt an der Weinstraße",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": "auslaufend Kreis, Abwicklung: Zulassungsbehörde Bad Dürkheim"
+    },
+    {
+      "unterscheidungszeichen": "PS",
+      "stadt_oder_kreis": "Pirmasens, Stadt, Südwestpfalz",
+      "herleitung": "PirmaSens",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "3",
+      "fussnoten_text": "amtlicher Hinweis: Das Unterscheidungszeichen wird durch mehrere Verwaltungsbezirke verwaltet. Die Festlegung der Gruppen oder Nummerngruppen der Erkennungsnummer nach Anlage 2 der Fahrzeug-Zulassungsverordnung, die in den jeweiligen Verwaltungsbezirken durch die dort zuständigen Behörden oder zusätzliche Verwaltungsstellen ausgegeben werden, erfolgt durch die zuständige oberste Landesbehörde oder die nach Landesrecht zuständige Stelle.",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "RP",
+      "stadt_oder_kreis": "Rhein-Pfalz-Kreis",
+      "herleitung": "Rhein-Pfalz",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "SP",
+      "stadt_oder_kreis": "Speyer, Stadt",
+      "herleitung": "SPeyer",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": "auslaufend Kreis, Abwicklung: Zulassungsbehörde Rhein-Pfalz-Kreis"
+    },
+    {
+      "unterscheidungszeichen": "TR",
+      "stadt_oder_kreis": "Trier, Stadt und Trier-Saarburg",
+      "herleitung": "TRier",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "WO",
+      "stadt_oder_kreis": "Worms, Stadt",
+      "herleitung": "WOrms",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "WW",
+      "stadt_oder_kreis": "Westerwald",
+      "herleitung": "WesterWald",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "ZW",
+      "stadt_oder_kreis": "Südwestpfalz, Zweibrücken, Stadt",
+      "herleitung": "ZWeibrücken",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "3",
+      "fussnoten_text": "amtlicher Hinweis: Das Unterscheidungszeichen wird durch mehrere Verwaltungsbezirke verwaltet. Die Festlegung der Gruppen oder Nummerngruppen der Erkennungsnummer nach Anlage 2 der Fahrzeug-Zulassungsverordnung, die in den jeweiligen Verwaltungsbezirken durch die dort zuständigen Behörden oder zusätzliche Verwaltungsstellen ausgegeben werden, erfolgt durch die zuständige oberste Landesbehörde oder die nach Landesrecht zuständige Stelle.",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "BIN",
+      "stadt_oder_kreis": "Mainz-Bingen",
+      "herleitung": "BINgen",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "BIR",
+      "stadt_oder_kreis": "Birkenfeld",
+      "herleitung": "BIRkenfeld",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "BIT",
+      "stadt_oder_kreis": "Eifelkreis Bitburg-Prüm",
+      "herleitung": "BITburg",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "BKS",
+      "stadt_oder_kreis": "Bernkastel-Wittlich",
+      "herleitung": "BernKaStel",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "COC",
+      "stadt_oder_kreis": "Cochem-Zell",
+      "herleitung": "COChem",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "DAU",
+      "stadt_oder_kreis": "Vulkaneifel",
+      "herleitung": "DAUn",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "DIZ",
+      "stadt_oder_kreis": "Rhein-Lahn-Kreis",
+      "herleitung": "DIeZ",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "DÜW",
+      "stadt_oder_kreis": "Bad Dürkheim",
+      "herleitung": "DÜrkheim an der Weinstraße",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "EMS",
+      "stadt_oder_kreis": "Rhein-Lahn-Kreis",
+      "herleitung": "EMS",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "GER",
+      "stadt_oder_kreis": "Germersheim",
+      "herleitung": "GERmersheim",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "GOA",
+      "stadt_oder_kreis": "Rhein-Hunsrück-Kreis",
+      "herleitung": "Sankt GOAr",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "GOH",
+      "stadt_oder_kreis": "Rhein-Lahn-Kreis",
+      "herleitung": "Sankt GOarsHausen",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "KIB",
+      "stadt_oder_kreis": "Donnersbergkreis",
+      "herleitung": "KIrchheimBolanden",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "KUS",
+      "stadt_oder_kreis": "Kusel",
+      "herleitung": "KUSel",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "MYK",
+      "stadt_oder_kreis": "Mayen-Koblenz",
+      "herleitung": "MaYen, Koblenz",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "PRÜ",
+      "stadt_oder_kreis": "Eifelkreis Bitburg-Prüm",
+      "herleitung": "PRÜm",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "ROK",
+      "stadt_oder_kreis": "Donnersbergkreis",
+      "herleitung": "ROcKenhausen",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "SAB",
+      "stadt_oder_kreis": "Trier-Saarburg",
+      "herleitung": "SAarBurg",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "SIM",
+      "stadt_oder_kreis": "Rhein-Hunsrück-Kreis",
+      "herleitung": "SIMmern",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "SÜW",
+      "stadt_oder_kreis": "Südliche Weinstraße",
+      "herleitung": "SÜdliche Weinstraße",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "WIL",
+      "stadt_oder_kreis": "Bernkastel-Wittlich",
+      "herleitung": "WIttLich",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "ZEL",
+      "stadt_oder_kreis": "Cochem-Zell",
+      "herleitung": "ZELl",
+      "bundesland_name": "Rheinland-Pfalz",
+      "bundesland_iso_3166_2": "DE-RP",
+      "bundesland_slug": "rheinland-pfalz",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    }
+  ],
+  "meta": {
+    "title": "Kfz-Kennzeichen Rheinland-Pfalz — Unterscheidungszeichen aller Kreise und Städte - Kostenloser Download",
+    "description": "Alle in Rheinland-Pfalz (ISO 3166-2 DE-RP) gültigen Unterscheidungszeichen mit Stadt/Landkreis, Herleitung und Fußnoten. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = DE-RP). Enthält 42 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Kfz-Kennzeichen Rheinland-Pfalz — Unterscheidungszeichen aller Kreise und Städte | ListBase",
+    "seo_description": "Herunterladen Kfz-Kennzeichen Rheinland-Pfalz — Unterscheidungszeichen aller Kreise und Städte — 42 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 42 Datensätze / 10 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

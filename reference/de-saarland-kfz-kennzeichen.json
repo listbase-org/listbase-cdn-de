@@ -1,0 +1,184 @@
+{
+  "id": "de-saarland-kfz-kennzeichen",
+  "name": "Kfz-Kennzeichen Saarland — Unterscheidungszeichen aller Kreise und Städte",
+  "title": "Kfz-Kennzeichen Saarland — Unterscheidungszeichen aller Kreise und Städte",
+  "description": "Alle in Saarland (ISO 3166-2 DE-SL) gültigen Unterscheidungszeichen mit Stadt/Landkreis, Herleitung und Fußnoten. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = DE-SL).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "unterscheidungszeichen",
+      "label": "Unterscheidungszeichen",
+      "type": "string"
+    },
+    {
+      "key": "stadt_oder_kreis",
+      "label": "Stadt Oder Kreis",
+      "type": "string"
+    },
+    {
+      "key": "herleitung",
+      "label": "Herleitung",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_name",
+      "label": "Bundesland Name",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_iso_3166_2",
+      "label": "Bundesland Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "nationalitaetszeichen",
+      "label": "Nationalitaetszeichen",
+      "type": "string"
+    },
+    {
+      "key": "fussnoten",
+      "label": "Fussnoten",
+      "type": "string"
+    },
+    {
+      "key": "fussnoten_text",
+      "label": "Fussnoten Text",
+      "type": "string"
+    },
+    {
+      "key": "bemerkung",
+      "label": "Bemerkung",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unterscheidungszeichen": "NK",
+      "stadt_oder_kreis": "Neunkirchen Saar",
+      "herleitung": "NeunKirchen",
+      "bundesland_name": "Saarland",
+      "bundesland_iso_3166_2": "DE-SL",
+      "bundesland_slug": "saarland",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "SB",
+      "stadt_oder_kreis": "Saarbrücken, Stadt und Stadtverband außer Völklingen, Stadt (VK)",
+      "herleitung": "SaarBrücken",
+      "bundesland_name": "Saarland",
+      "bundesland_iso_3166_2": "DE-SL",
+      "bundesland_slug": "saarland",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "VK",
+      "stadt_oder_kreis": "Völklingen, Stadt",
+      "herleitung": "VölKlingen",
+      "bundesland_name": "Saarland",
+      "bundesland_iso_3166_2": "DE-SL",
+      "bundesland_slug": "saarland",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "HOM",
+      "stadt_oder_kreis": "Saarpfalz-Kreis außer Stadt St. Ingbert (IGB)",
+      "herleitung": "HOMburg",
+      "bundesland_name": "Saarland",
+      "bundesland_iso_3166_2": "DE-SL",
+      "bundesland_slug": "saarland",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "IGB",
+      "stadt_oder_kreis": "St. Ingbert, Stadt",
+      "herleitung": "InGBert",
+      "bundesland_name": "Saarland",
+      "bundesland_iso_3166_2": "DE-SL",
+      "bundesland_slug": "saarland",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "MZG",
+      "stadt_oder_kreis": "Merzig-Wadern",
+      "herleitung": "MerZiG",
+      "bundesland_name": "Saarland",
+      "bundesland_iso_3166_2": "DE-SL",
+      "bundesland_slug": "saarland",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "OTW",
+      "stadt_oder_kreis": "Neunkirchen",
+      "herleitung": "OTtWeiler",
+      "bundesland_name": "Saarland",
+      "bundesland_iso_3166_2": "DE-SL",
+      "bundesland_slug": "saarland",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "SLS",
+      "stadt_oder_kreis": "Saarlouis",
+      "herleitung": "SaarLouiS",
+      "bundesland_name": "Saarland",
+      "bundesland_iso_3166_2": "DE-SL",
+      "bundesland_slug": "saarland",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    },
+    {
+      "unterscheidungszeichen": "WND",
+      "stadt_oder_kreis": "St. Wendel",
+      "herleitung": "WeNDel",
+      "bundesland_name": "Saarland",
+      "bundesland_iso_3166_2": "DE-SL",
+      "bundesland_slug": "saarland",
+      "nationalitaetszeichen": "D",
+      "fussnoten": "",
+      "fussnoten_text": "",
+      "bemerkung": ""
+    }
+  ],
+  "meta": {
+    "title": "Kfz-Kennzeichen Saarland — Unterscheidungszeichen aller Kreise und Städte - Kostenloser Download",
+    "description": "Alle in Saarland (ISO 3166-2 DE-SL) gültigen Unterscheidungszeichen mit Stadt/Landkreis, Herleitung und Fußnoten. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = DE-SL). Enthält 9 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Kfz-Kennzeichen Saarland — Unterscheidungszeichen aller Kreise und Städte | ListBase",
+    "seo_description": "Herunterladen Kfz-Kennzeichen Saarland — Unterscheidungszeichen aller Kreise und Städte — 9 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 9 Datensätze / 10 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

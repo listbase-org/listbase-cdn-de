@@ -1,0 +1,336 @@
+{
+  "id": "de-baden-wuerttemberg-landkreise",
+  "name": "Landkreise — Baden-Württemberg",
+  "title": "Landkreise — Baden-Württemberg",
+  "description": "Landkreise im Bundesland Baden-Württemberg (35 Landkreise). Kreisfreie Städte sind in dieser Liste nicht enthalten und führen kein landkreis-Feld in der Quelle (Quelle: suche-postleitzahl.org / OSM).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "plz_count",
+      "label": "Plz Count",
+      "type": "number"
+    },
+    {
+      "key": "ort_count",
+      "label": "Ort Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alb-Donau-Kreis",
+      "slug": "alb-donau-kreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 45,
+      "ort_count": 55
+    },
+    {
+      "name": "Bodenseekreis",
+      "slug": "bodenseekreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 24,
+      "ort_count": 23
+    },
+    {
+      "name": "Enzkreis",
+      "slug": "enzkreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 28,
+      "ort_count": 28
+    },
+    {
+      "name": "Hohenlohekreis",
+      "slug": "hohenlohekreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 15,
+      "ort_count": 16
+    },
+    {
+      "name": "Landkreis Biberach",
+      "slug": "landkreis-biberach",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 35,
+      "ort_count": 45
+    },
+    {
+      "name": "Landkreis Breisgau-Hochschwarzwald",
+      "slug": "landkreis-breisgau-hochschwarzwald",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 49,
+      "ort_count": 50
+    },
+    {
+      "name": "Landkreis Böblingen",
+      "slug": "landkreis-boeblingen",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 30,
+      "ort_count": 26
+    },
+    {
+      "name": "Landkreis Calw",
+      "slug": "landkreis-calw",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 25,
+      "ort_count": 25
+    },
+    {
+      "name": "Landkreis Emmendingen",
+      "slug": "landkreis-emmendingen",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 24,
+      "ort_count": 24
+    },
+    {
+      "name": "Landkreis Esslingen",
+      "slug": "landkreis-esslingen",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 49,
+      "ort_count": 44
+    },
+    {
+      "name": "Landkreis Freudenstadt",
+      "slug": "landkreis-freudenstadt",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 16,
+      "ort_count": 16
+    },
+    {
+      "name": "Landkreis Göppingen",
+      "slug": "landkreis-goeppingen",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 41,
+      "ort_count": 38
+    },
+    {
+      "name": "Landkreis Heidenheim",
+      "slug": "landkreis-heidenheim",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 14,
+      "ort_count": 11
+    },
+    {
+      "name": "Landkreis Heilbronn",
+      "slug": "landkreis-heilbronn",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 46,
+      "ort_count": 46
+    },
+    {
+      "name": "Landkreis Karlsruhe",
+      "slug": "landkreis-karlsruhe",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 32,
+      "ort_count": 32
+    },
+    {
+      "name": "Landkreis Konstanz",
+      "slug": "landkreis-konstanz",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 28,
+      "ort_count": 25
+    },
+    {
+      "name": "Landkreis Ludwigsburg",
+      "slug": "landkreis-ludwigsburg",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 42,
+      "ort_count": 39
+    },
+    {
+      "name": "Landkreis Lörrach",
+      "slug": "landkreis-loerrach",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 31,
+      "ort_count": 35
+    },
+    {
+      "name": "Landkreis Rastatt",
+      "slug": "landkreis-rastatt",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 23,
+      "ort_count": 23
+    },
+    {
+      "name": "Landkreis Ravensburg",
+      "slug": "landkreis-ravensburg",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 37,
+      "ort_count": 39
+    },
+    {
+      "name": "Landkreis Reutlingen",
+      "slug": "landkreis-reutlingen",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 31,
+      "ort_count": 26
+    },
+    {
+      "name": "Landkreis Rottweil",
+      "slug": "landkreis-rottweil",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 22,
+      "ort_count": 21
+    },
+    {
+      "name": "Landkreis Schwäbisch Hall",
+      "slug": "landkreis-schwaebisch-hall",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 30,
+      "ort_count": 30
+    },
+    {
+      "name": "Landkreis Sigmaringen",
+      "slug": "landkreis-sigmaringen",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 24,
+      "ort_count": 25
+    },
+    {
+      "name": "Landkreis Tuttlingen",
+      "slug": "landkreis-tuttlingen",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 34,
+      "ort_count": 35
+    },
+    {
+      "name": "Landkreis Tübingen",
+      "slug": "landkreis-tuebingen",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 18,
+      "ort_count": 15
+    },
+    {
+      "name": "Landkreis Waldshut",
+      "slug": "landkreis-waldshut",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 30,
+      "ort_count": 32
+    },
+    {
+      "name": "Main-Tauber-Kreis",
+      "slug": "main-tauber-kreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 18,
+      "ort_count": 18
+    },
+    {
+      "name": "Neckar-Odenwald-Kreis",
+      "slug": "neckar-odenwald-kreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 28,
+      "ort_count": 27
+    },
+    {
+      "name": "Ortenaukreis",
+      "slug": "ortenaukreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 51,
+      "ort_count": 51
+    },
+    {
+      "name": "Ostalbkreis",
+      "slug": "ostalbkreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 48,
+      "ort_count": 42
+    },
+    {
+      "name": "Rems-Murr-Kreis",
+      "slug": "rems-murr-kreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 34,
+      "ort_count": 31
+    },
+    {
+      "name": "Rhein-Neckar-Kreis",
+      "slug": "rhein-neckar-kreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 54,
+      "ort_count": 54
+    },
+    {
+      "name": "Schwarzwald-Baar-Kreis",
+      "slug": "schwarzwald-baar-kreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 24,
+      "ort_count": 20
+    },
+    {
+      "name": "Zollernalbkreis",
+      "slug": "zollernalbkreis",
+      "bundesland": "Baden-Württemberg",
+      "bundesland_slug": "baden-wuerttemberg",
+      "plz_count": 27,
+      "ort_count": 25
+    }
+  ],
+  "meta": {
+    "title": "Landkreise — Baden-Württemberg - Kostenloser Download",
+    "description": "Landkreise im Bundesland Baden-Württemberg (35 Landkreise). Kreisfreie Städte sind in dieser Liste nicht enthalten und führen kein landkreis-Feld in der Quelle (Quelle: suche-postleitzahl.org / OSM). Enthält 35 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Landkreise — Baden-Württemberg | ListBase",
+    "seo_description": "Herunterladen Landkreise — Baden-Württemberg — 35 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 35 Datensätze / 6 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

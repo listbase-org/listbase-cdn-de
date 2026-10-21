@@ -1,0 +1,352 @@
+{
+  "id": "de-niedersachsen-landkreise",
+  "name": "Landkreise — Niedersachsen",
+  "title": "Landkreise — Niedersachsen",
+  "description": "Landkreise im Bundesland Niedersachsen (37 Landkreise). Kreisfreie Städte sind in dieser Liste nicht enthalten und führen kein landkreis-Feld in der Quelle (Quelle: suche-postleitzahl.org / OSM).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "plz_count",
+      "label": "Plz Count",
+      "type": "number"
+    },
+    {
+      "key": "ort_count",
+      "label": "Ort Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Landkreis Ammerland",
+      "slug": "landkreis-ammerland",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 6,
+      "ort_count": 6
+    },
+    {
+      "name": "Landkreis Aurich",
+      "slug": "landkreis-aurich",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 17,
+      "ort_count": 24
+    },
+    {
+      "name": "Landkreis Celle",
+      "slug": "landkreis-celle",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 27,
+      "ort_count": 21
+    },
+    {
+      "name": "Landkreis Cloppenburg",
+      "slug": "landkreis-cloppenburg",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 13,
+      "ort_count": 13
+    },
+    {
+      "name": "Landkreis Cuxhaven",
+      "slug": "landkreis-cuxhaven",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 27,
+      "ort_count": 29
+    },
+    {
+      "name": "Landkreis Diepholz",
+      "slug": "landkreis-diepholz",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 25,
+      "ort_count": 45
+    },
+    {
+      "name": "Landkreis Emsland",
+      "slug": "landkreis-emsland",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 31,
+      "ort_count": 60
+    },
+    {
+      "name": "Landkreis Friesland",
+      "slug": "landkreis-friesland",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 8,
+      "ort_count": 8
+    },
+    {
+      "name": "Landkreis Gifhorn",
+      "slug": "landkreis-gifhorn",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 40,
+      "ort_count": 41
+    },
+    {
+      "name": "Landkreis Goslar",
+      "slug": "landkreis-goslar",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 14,
+      "ort_count": 7
+    },
+    {
+      "name": "Landkreis Grafschaft Bentheim",
+      "slug": "landkreis-grafschaft-bentheim",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 12,
+      "ort_count": 25
+    },
+    {
+      "name": "Landkreis Göttingen",
+      "slug": "landkreis-goettingen",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 26,
+      "ort_count": 39
+    },
+    {
+      "name": "Landkreis Hameln-Pyrmont",
+      "slug": "landkreis-hameln-pyrmont",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 10,
+      "ort_count": 8
+    },
+    {
+      "name": "Landkreis Harburg",
+      "slug": "landkreis-harburg",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 33,
+      "ort_count": 42
+    },
+    {
+      "name": "Landkreis Heidekreis",
+      "slug": "landkreis-heidekreis",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 12,
+      "ort_count": 23
+    },
+    {
+      "name": "Landkreis Helmstedt",
+      "slug": "landkreis-helmstedt",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 20,
+      "ort_count": 23
+    },
+    {
+      "name": "Landkreis Hildesheim",
+      "slug": "landkreis-hildesheim",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 24,
+      "ort_count": 20
+    },
+    {
+      "name": "Landkreis Holzminden",
+      "slug": "landkreis-holzminden",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 18,
+      "ort_count": 32
+    },
+    {
+      "name": "Landkreis Leer",
+      "slug": "landkreis-leer",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 14,
+      "ort_count": 19
+    },
+    {
+      "name": "Landkreis Lüchow-Dannenberg",
+      "slug": "landkreis-luechow-dannenberg",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 27,
+      "ort_count": 27
+    },
+    {
+      "name": "Landkreis Lüneburg",
+      "slug": "landkreis-lueneburg",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 31,
+      "ort_count": 43
+    },
+    {
+      "name": "Landkreis Nienburg/Weser",
+      "slug": "landkreis-nienburg-weser",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 29,
+      "ort_count": 36
+    },
+    {
+      "name": "Landkreis Northeim",
+      "slug": "landkreis-northeim",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 11,
+      "ort_count": 11
+    },
+    {
+      "name": "Landkreis Oldenburg",
+      "slug": "landkreis-oldenburg",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 8,
+      "ort_count": 15
+    },
+    {
+      "name": "Landkreis Osnabrück",
+      "slug": "landkreis-osnabrueck",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 32,
+      "ort_count": 34
+    },
+    {
+      "name": "Landkreis Osterholz",
+      "slug": "landkreis-osterholz",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 7,
+      "ort_count": 11
+    },
+    {
+      "name": "Landkreis Peine",
+      "slug": "landkreis-peine",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 10,
+      "ort_count": 7
+    },
+    {
+      "name": "Landkreis Rotenburg (Wümme)",
+      "slug": "landkreis-rotenburg-wuemme",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 13,
+      "ort_count": 57
+    },
+    {
+      "name": "Landkreis Schaumburg",
+      "slug": "landkreis-schaumburg",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 30,
+      "ort_count": 38
+    },
+    {
+      "name": "Landkreis Stade",
+      "slug": "landkreis-stade",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 29,
+      "ort_count": 40
+    },
+    {
+      "name": "Landkreis Uelzen",
+      "slug": "landkreis-uelzen",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 27,
+      "ort_count": 27
+    },
+    {
+      "name": "Landkreis Vechta",
+      "slug": "landkreis-vechta",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 10,
+      "ort_count": 10
+    },
+    {
+      "name": "Landkreis Verden",
+      "slug": "landkreis-verden",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 10,
+      "ort_count": 11
+    },
+    {
+      "name": "Landkreis Wesermarsch",
+      "slug": "landkreis-wesermarsch",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 11,
+      "ort_count": 9
+    },
+    {
+      "name": "Landkreis Wittmund",
+      "slug": "landkreis-wittmund",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 8,
+      "ort_count": 19
+    },
+    {
+      "name": "Landkreis Wolfenbüttel",
+      "slug": "landkreis-wolfenbuettel",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 21,
+      "ort_count": 32
+    },
+    {
+      "name": "Region Hannover",
+      "slug": "region-hannover",
+      "bundesland": "Niedersachsen",
+      "bundesland_slug": "niedersachsen",
+      "plz_count": 53,
+      "ort_count": 21
+    }
+  ],
+  "meta": {
+    "title": "Landkreise — Niedersachsen - Kostenloser Download",
+    "description": "Landkreise im Bundesland Niedersachsen (37 Landkreise). Kreisfreie Städte sind in dieser Liste nicht enthalten und führen kein landkreis-Feld in der Quelle (Quelle: suche-postleitzahl.org / OSM). Enthält 37 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Landkreise — Niedersachsen | ListBase",
+    "seo_description": "Herunterladen Landkreise — Niedersachsen — 37 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 37 Datensätze / 6 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

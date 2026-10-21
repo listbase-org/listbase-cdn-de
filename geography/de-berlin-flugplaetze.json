@@ -1,0 +1,289 @@
+{
+  "id": "de-berlin-flugplaetze",
+  "name": "Flugplaetze in Berlin",
+  "title": "Flugplaetze in Berlin",
+  "description": "Alle 8 aktiven Flugplaetze und Luftfahrtanlagen im Bundesland Berlin (Berlin) aus der OurAirports-Datenbank, darunter 0 Flugplaetze und 8 Hubschrauberlandeplaetze. Teilmenge der nationalen Liste de-flugplaetze, abgegrenzt ueber iso_region=DE-BE.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "type_de",
+      "label": "Type De",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_en",
+      "label": "Bundesland En",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "boolean"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ident": "DE-0458",
+      "type": "heliport",
+      "type_de": "Hubschrauberlandeplatz",
+      "name": "Berlin Emergency Hospital Heliport",
+      "latitude": 52.51926,
+      "longitude": 13.56769,
+      "elevation_ft": 233,
+      "iso_region": "DE-BE",
+      "bundesland": "Berlin",
+      "bundesland_en": "Berlin",
+      "municipality": "Berlin",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "ident": "DE-0459",
+      "type": "heliport",
+      "type_de": "Hubschrauberlandeplatz",
+      "name": "Helios Clinic Berlin-Buch Heliport",
+      "latitude": 52.63,
+      "longitude": 13.51039,
+      "elevation_ft": "",
+      "iso_region": "DE-BE",
+      "bundesland": "Berlin",
+      "bundesland_en": "Berlin",
+      "municipality": "Berlin",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "ident": "DE-0460",
+      "type": "heliport",
+      "type_de": "Hubschrauberlandeplatz",
+      "name": "Vivantes Humboldt Clinic Heliport",
+      "latitude": 52.59042,
+      "longitude": 13.30846,
+      "elevation_ft": 118,
+      "iso_region": "DE-BE",
+      "bundesland": "Berlin",
+      "bundesland_en": "Berlin",
+      "municipality": "Berlin",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "ident": "DE-0461",
+      "type": "heliport",
+      "type_de": "Hubschrauberlandeplatz",
+      "name": "Charité Clinic Virchow Campus Heliport",
+      "latitude": 52.54049,
+      "longitude": 13.34266,
+      "elevation_ft": 131,
+      "iso_region": "DE-BE",
+      "bundesland": "Berlin",
+      "bundesland_en": "Berlin",
+      "municipality": "Berlin",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "ident": "DE-0462",
+      "type": "heliport",
+      "type_de": "Hubschrauberlandeplatz",
+      "name": "Vivantes Freidrichshain Clinic Heliport",
+      "latitude": 52.52701,
+      "longitude": 13.43915,
+      "elevation_ft": 194,
+      "iso_region": "DE-BE",
+      "bundesland": "Berlin",
+      "bundesland_en": "Berlin",
+      "municipality": "Berlin",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "ident": "DE-0463",
+      "type": "heliport",
+      "type_de": "Hubschrauberlandeplatz",
+      "name": "Berlin Tempelhof Heliport",
+      "latitude": 52.48243,
+      "longitude": 13.39561,
+      "elevation_ft": 157,
+      "iso_region": "DE-BE",
+      "bundesland": "Berlin",
+      "bundesland_en": "Berlin",
+      "municipality": "Berlin",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "ident": "DE-0464",
+      "type": "heliport",
+      "type_de": "Hubschrauberlandeplatz",
+      "name": "Charité Clinic Benjamin Franklin Campus Heliport",
+      "latitude": 52.44135,
+      "longitude": 13.32286,
+      "elevation_ft": 128,
+      "iso_region": "DE-BE",
+      "bundesland": "Berlin",
+      "bundesland_en": "Berlin",
+      "municipality": "Berlin",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "ident": "DE-0465",
+      "type": "heliport",
+      "type_de": "Hubschrauberlandeplatz",
+      "name": "Havelhöhe Medical Heliport",
+      "latitude": 52.46104,
+      "longitude": 13.16276,
+      "elevation_ft": 177,
+      "iso_region": "DE-BE",
+      "bundesland": "Berlin",
+      "bundesland_en": "Berlin",
+      "municipality": "Berlin",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    }
+  ],
+  "meta": {
+    "title": "Flugplaetze in Berlin - Kostenloser Download",
+    "description": "Alle 8 aktiven Flugplaetze und Luftfahrtanlagen im Bundesland Berlin (Berlin) aus der OurAirports-Datenbank, darunter 0 Flugplaetze und 8 Hubschrauberlandeplaetze. Teilmenge der nationalen Liste de-flugplaetze, abgegrenzt ueber iso_region=DE-BE. Enthält 8 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Flugplaetze in Berlin | ListBase",
+    "seo_description": "Herunterladen Flugplaetze in Berlin — 8 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 8 Datensätze / 19 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

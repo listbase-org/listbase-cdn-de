@@ -1,0 +1,97 @@
+{
+  "id": "de-masseinheiten-light",
+  "name": "Maßeinheiten — Kategorie 'light' (4)",
+  "title": "Maßeinheiten — Kategorie 'light' (4)",
+  "description": "Maßeinheiten der Kategorie 'light' aus der Locale de in CLDR, mit Namen auf Deutsch.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abkuerzung",
+      "label": "Abkuerzung",
+      "type": "string"
+    },
+    {
+      "key": "schmalform",
+      "label": "Schmalform",
+      "type": "string"
+    },
+    {
+      "key": "muster",
+      "label": "Muster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "light-candela",
+      "kategorie": "light",
+      "name": "Candela",
+      "abkuerzung": "cd",
+      "schmalform": "cd",
+      "muster": "{0} Candela"
+    },
+    {
+      "id": 2,
+      "unit_code": "light-lumen",
+      "kategorie": "light",
+      "name": "Lumen",
+      "abkuerzung": "lm",
+      "schmalform": "lm",
+      "muster": "{0} Lumen"
+    },
+    {
+      "id": 3,
+      "unit_code": "light-lux",
+      "kategorie": "light",
+      "name": "Lux",
+      "abkuerzung": "Lux",
+      "schmalform": "lx",
+      "muster": "{0} Lux"
+    },
+    {
+      "id": 4,
+      "unit_code": "light-solar-luminosity",
+      "kategorie": "light",
+      "name": "Sonnenleuchtkräfte",
+      "abkuerzung": "L☉",
+      "schmalform": "L☉",
+      "muster": "{0} Sonnenleuchtkräfte"
+    }
+  ],
+  "meta": {
+    "title": "Maßeinheiten — Kategorie 'light' (4) - Kostenloser Download",
+    "description": "Maßeinheiten der Kategorie 'light' aus der Locale de in CLDR, mit Namen auf Deutsch. Enthält 4 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Maßeinheiten — Kategorie 'light' (4) | ListBase",
+    "seo_description": "Herunterladen Maßeinheiten — Kategorie 'light' (4) — 4 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 4 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

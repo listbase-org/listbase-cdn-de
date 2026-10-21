@@ -1,0 +1,133 @@
+{
+  "id": "de-potsdam-stadtteile",
+  "name": "Stadtteile von Potsdam",
+  "title": "Stadtteile von Potsdam",
+  "description": "Die 34 Stadtteile (city districts) der Stadt Potsdam, extrahiert aus den Grenz-GeoJSON-Dateien des Projekts Code for Germany / click_that_hood. Nur der native deutsche Name je Teilgebiet wurde übernommen; die Polygon-Geometrie wurde verworfen.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Am Schlaatz"
+    },
+    {
+      "name": "Babelsberg Nord"
+    },
+    {
+      "name": "Babelsberg Süd"
+    },
+    {
+      "name": "Berliner Vorstadt"
+    },
+    {
+      "name": "Bornim"
+    },
+    {
+      "name": "Bornstedt"
+    },
+    {
+      "name": "Brandenburger Vorstadt"
+    },
+    {
+      "name": "Drewitz"
+    },
+    {
+      "name": "Eiche"
+    },
+    {
+      "name": "Fahrland"
+    },
+    {
+      "name": "Forst Potsdam Süd"
+    },
+    {
+      "name": "Golm"
+    },
+    {
+      "name": "Groß Glienicke"
+    },
+    {
+      "name": "Grube"
+    },
+    {
+      "name": "Industriegelände"
+    },
+    {
+      "name": "Jägervorstadt"
+    },
+    {
+      "name": "Kirchsteigfeld"
+    },
+    {
+      "name": "Klein Glienicke"
+    },
+    {
+      "name": "Marquardt"
+    },
+    {
+      "name": "Nauener Vorstadt"
+    },
+    {
+      "name": "Nedlitz"
+    },
+    {
+      "name": "Neu Fahrland"
+    },
+    {
+      "name": "Nördliche Innenstadt"
+    },
+    {
+      "name": "Potsdam West"
+    },
+    {
+      "name": "Sacrow"
+    },
+    {
+      "name": "Satzkorn"
+    },
+    {
+      "name": "Stern"
+    },
+    {
+      "name": "Südliche Innenstadt"
+    },
+    {
+      "name": "Teltower Vorstadt"
+    },
+    {
+      "name": "Templiner Vorstadt"
+    },
+    {
+      "name": "Uetz-Paaren"
+    },
+    {
+      "name": "Waldstadt I"
+    },
+    {
+      "name": "Waldstadt II"
+    },
+    {
+      "name": "Wildpark"
+    }
+  ],
+  "meta": {
+    "title": "Stadtteile von Potsdam - Kostenloser Download",
+    "description": "Die 34 Stadtteile (city districts) der Stadt Potsdam, extrahiert aus den Grenz-GeoJSON-Dateien des Projekts Code for Germany / click_that_hood. Nur der native deutsche Name je Teilgebiet wurde übernommen; die Polygon-Geometrie wurde verworfen. Enthält 34 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Stadtteile von Potsdam | ListBase",
+    "seo_description": "Herunterladen Stadtteile von Potsdam — 34 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 34 Datensätze / 1 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

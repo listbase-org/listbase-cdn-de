@@ -1,0 +1,104 @@
+{
+  "id": "de-saarland-landkreise",
+  "name": "Landkreise — Saarland",
+  "title": "Landkreise — Saarland",
+  "description": "Landkreise im Bundesland Saarland (6 Landkreise). Kreisfreie Städte sind in dieser Liste nicht enthalten und führen kein landkreis-Feld in der Quelle (Quelle: suche-postleitzahl.org / OSM).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "plz_count",
+      "label": "Plz Count",
+      "type": "number"
+    },
+    {
+      "key": "ort_count",
+      "label": "Ort Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Landkreis Merzig-Wadern",
+      "slug": "landkreis-merzig-wadern",
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "plz_count": 7,
+      "ort_count": 7
+    },
+    {
+      "name": "Landkreis Neunkirchen",
+      "slug": "landkreis-neunkirchen",
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "plz_count": 9,
+      "ort_count": 7
+    },
+    {
+      "name": "Landkreis Saarlouis",
+      "slug": "landkreis-saarlouis",
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "plz_count": 13,
+      "ort_count": 13
+    },
+    {
+      "name": "Landkreis St. Wendel",
+      "slug": "landkreis-st-wendel",
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "plz_count": 8,
+      "ort_count": 8
+    },
+    {
+      "name": "Regionalverband Saarbrücken",
+      "slug": "regionalverband-saarbruecken",
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "plz_count": 25,
+      "ort_count": 10
+    },
+    {
+      "name": "Saarpfalz-Kreis",
+      "slug": "saarpfalz-kreis",
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "plz_count": 7,
+      "ort_count": 7
+    }
+  ],
+  "meta": {
+    "title": "Landkreise — Saarland - Kostenloser Download",
+    "description": "Landkreise im Bundesland Saarland (6 Landkreise). Kreisfreie Städte sind in dieser Liste nicht enthalten und führen kein landkreis-Feld in der Quelle (Quelle: suche-postleitzahl.org / OSM). Enthält 6 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Landkreise — Saarland | ListBase",
+    "seo_description": "Herunterladen Landkreise — Saarland — 6 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 6 Datensätze / 6 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

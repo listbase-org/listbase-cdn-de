@@ -1,0 +1,97 @@
+{
+  "id": "de-masseinheiten-frequency",
+  "name": "Maßeinheiten — Kategorie 'frequency' (4)",
+  "title": "Maßeinheiten — Kategorie 'frequency' (4)",
+  "description": "Maßeinheiten der Kategorie 'frequency' aus der Locale de in CLDR, mit Namen auf Deutsch.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abkuerzung",
+      "label": "Abkuerzung",
+      "type": "string"
+    },
+    {
+      "key": "schmalform",
+      "label": "Schmalform",
+      "type": "string"
+    },
+    {
+      "key": "muster",
+      "label": "Muster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "frequency-gigahertz",
+      "kategorie": "frequency",
+      "name": "Gigahertz",
+      "abkuerzung": "GHz",
+      "schmalform": "GHz",
+      "muster": "{0} Gigahertz"
+    },
+    {
+      "id": 2,
+      "unit_code": "frequency-hertz",
+      "kategorie": "frequency",
+      "name": "Hertz",
+      "abkuerzung": "Hz",
+      "schmalform": "Hz",
+      "muster": "{0} Hertz"
+    },
+    {
+      "id": 3,
+      "unit_code": "frequency-kilohertz",
+      "kategorie": "frequency",
+      "name": "Kilohertz",
+      "abkuerzung": "kHz",
+      "schmalform": "kHz",
+      "muster": "{0} Kilohertz"
+    },
+    {
+      "id": 4,
+      "unit_code": "frequency-megahertz",
+      "kategorie": "frequency",
+      "name": "Megahertz",
+      "abkuerzung": "MHz",
+      "schmalform": "MHz",
+      "muster": "{0} Megahertz"
+    }
+  ],
+  "meta": {
+    "title": "Maßeinheiten — Kategorie 'frequency' (4) - Kostenloser Download",
+    "description": "Maßeinheiten der Kategorie 'frequency' aus der Locale de in CLDR, mit Namen auf Deutsch. Enthält 4 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Maßeinheiten — Kategorie 'frequency' (4) | ListBase",
+    "seo_description": "Herunterladen Maßeinheiten — Kategorie 'frequency' (4) — 4 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 4 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

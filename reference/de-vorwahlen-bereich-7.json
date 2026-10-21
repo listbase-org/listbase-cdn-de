@@ -1,0 +1,3106 @@
+{
+  "id": "de-vorwahlen-bereich-7",
+  "name": "Deutsche Vorwahlen — Bereich 7 (führende Ziffer 7)",
+  "title": "Deutsche Vorwahlen — Bereich 7 (führende Ziffer 7)",
+  "description": "Ortsnetzkennzahlen mit führender Ziffer 7 aus dem deutschen Nummerierungsbereich. Geografischer Schwerpunkt: Stuttgart (0711), Baden-Württemberg, Hessen-Süd. Insgesamt 510 Einträge.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 510,
+  "columns": [
+    {
+      "key": "vorwahl",
+      "label": "Vorwahl",
+      "type": "number"
+    },
+    {
+      "key": "ortsnetzkennzahl",
+      "label": "Ortsnetzkennzahl",
+      "type": "number"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "aktiv",
+      "label": "Aktiv",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "vorwahl": "0711",
+      "ortsnetzkennzahl": 711,
+      "ort": "Stuttgart",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0721",
+      "ortsnetzkennzahl": 721,
+      "ort": "Karlsruhe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0731",
+      "ortsnetzkennzahl": 731,
+      "ort": "Ulm Donau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0741",
+      "ortsnetzkennzahl": 741,
+      "ort": "Rottweil",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0751",
+      "ortsnetzkennzahl": 751,
+      "ort": "Ravensburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0761",
+      "ortsnetzkennzahl": 761,
+      "ort": "Freiburg im Breisgau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0771",
+      "ortsnetzkennzahl": 771,
+      "ort": "Donaueschingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0781",
+      "ortsnetzkennzahl": 781,
+      "ort": "Offenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0791",
+      "ortsnetzkennzahl": 791,
+      "ort": "Schwäbisch Hall",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07021",
+      "ortsnetzkennzahl": 7021,
+      "ort": "Kirchheim unter Teck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07022",
+      "ortsnetzkennzahl": 7022,
+      "ort": "Nürtingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07023",
+      "ortsnetzkennzahl": 7023,
+      "ort": "Weilheim an der Teck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07024",
+      "ortsnetzkennzahl": 7024,
+      "ort": "Wendlingen am Neckar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07025",
+      "ortsnetzkennzahl": 7025,
+      "ort": "Neuffen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07026",
+      "ortsnetzkennzahl": 7026,
+      "ort": "Lenningen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07031",
+      "ortsnetzkennzahl": 7031,
+      "ort": "Böblingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07032",
+      "ortsnetzkennzahl": 7032,
+      "ort": "Herrenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07033",
+      "ortsnetzkennzahl": 7033,
+      "ort": "Weil Der Stadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07034",
+      "ortsnetzkennzahl": 7034,
+      "ort": "Ehningen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07041",
+      "ortsnetzkennzahl": 7041,
+      "ort": "Mühlacker",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07042",
+      "ortsnetzkennzahl": 7042,
+      "ort": "Vaihingen an der Enz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07043",
+      "ortsnetzkennzahl": 7043,
+      "ort": "Maulbronn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07044",
+      "ortsnetzkennzahl": 7044,
+      "ort": "Mönsheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07045",
+      "ortsnetzkennzahl": 7045,
+      "ort": "Oberderdingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07046",
+      "ortsnetzkennzahl": 7046,
+      "ort": "Zaberfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07051",
+      "ortsnetzkennzahl": 7051,
+      "ort": "Calw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07052",
+      "ortsnetzkennzahl": 7052,
+      "ort": "Bad Liebenzell",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07053",
+      "ortsnetzkennzahl": 7053,
+      "ort": "Bad Teinach-Zavelstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07054",
+      "ortsnetzkennzahl": 7054,
+      "ort": "Wildberg Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07055",
+      "ortsnetzkennzahl": 7055,
+      "ort": "Neuweiler Kr Calw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07056",
+      "ortsnetzkennzahl": 7056,
+      "ort": "Gechingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07062",
+      "ortsnetzkennzahl": 7062,
+      "ort": "Beilstein Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07063",
+      "ortsnetzkennzahl": 7063,
+      "ort": "Bad Wimpfen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07066",
+      "ortsnetzkennzahl": 7066,
+      "ort": "Bad Rappenau-Bonfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07071",
+      "ortsnetzkennzahl": 7071,
+      "ort": "Tübingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07072",
+      "ortsnetzkennzahl": 7072,
+      "ort": "Gomaringen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07073",
+      "ortsnetzkennzahl": 7073,
+      "ort": "Ammerbuch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07081",
+      "ortsnetzkennzahl": 7081,
+      "ort": "Bad Wildbad",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07082",
+      "ortsnetzkennzahl": 7082,
+      "ort": "Neuenbürg Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07083",
+      "ortsnetzkennzahl": 7083,
+      "ort": "Bad Herrenalb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07084",
+      "ortsnetzkennzahl": 7084,
+      "ort": "Schömberg b Neuenbürg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07085",
+      "ortsnetzkennzahl": 7085,
+      "ort": "Enzklösterle",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07121",
+      "ortsnetzkennzahl": 7121,
+      "ort": "Reutlingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07122",
+      "ortsnetzkennzahl": 7122,
+      "ort": "St Johann Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07123",
+      "ortsnetzkennzahl": 7123,
+      "ort": "Metzingen Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07124",
+      "ortsnetzkennzahl": 7124,
+      "ort": "Trochtelfingen Hohenz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07125",
+      "ortsnetzkennzahl": 7125,
+      "ort": "Bad Urach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07126",
+      "ortsnetzkennzahl": 7126,
+      "ort": "Burladingen-Melchingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07127",
+      "ortsnetzkennzahl": 7127,
+      "ort": "Neckartenzlingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07128",
+      "ortsnetzkennzahl": 7128,
+      "ort": "Sonnenbühl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07129",
+      "ortsnetzkennzahl": 7129,
+      "ort": "Lichtenstein Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07130",
+      "ortsnetzkennzahl": 7130,
+      "ort": "Löwenstein Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07131",
+      "ortsnetzkennzahl": 7131,
+      "ort": "Heilbronn Neckar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07132",
+      "ortsnetzkennzahl": 7132,
+      "ort": "Neckarsulm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07133",
+      "ortsnetzkennzahl": 7133,
+      "ort": "Lauffen am Neckar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07134",
+      "ortsnetzkennzahl": 7134,
+      "ort": "Weinsberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07135",
+      "ortsnetzkennzahl": 7135,
+      "ort": "Brackenheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07136",
+      "ortsnetzkennzahl": 7136,
+      "ort": "Bad Friedrichshall",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07138",
+      "ortsnetzkennzahl": 7138,
+      "ort": "Schwaigern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07139",
+      "ortsnetzkennzahl": 7139,
+      "ort": "Neuenstadt am Kocher",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07141",
+      "ortsnetzkennzahl": 7141,
+      "ort": "Ludwigsburg Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07142",
+      "ortsnetzkennzahl": 7142,
+      "ort": "Bietigheim-Bissingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07143",
+      "ortsnetzkennzahl": 7143,
+      "ort": "Besigheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07144",
+      "ortsnetzkennzahl": 7144,
+      "ort": "Marbach am Neckar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07145",
+      "ortsnetzkennzahl": 7145,
+      "ort": "Markgröningen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07146",
+      "ortsnetzkennzahl": 7146,
+      "ort": "Remseck am Neckar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07147",
+      "ortsnetzkennzahl": 7147,
+      "ort": "Sachsenheim Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07148",
+      "ortsnetzkennzahl": 7148,
+      "ort": "Grossbottwar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07150",
+      "ortsnetzkennzahl": 7150,
+      "ort": "Korntal-Münchingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07151",
+      "ortsnetzkennzahl": 7151,
+      "ort": "Waiblingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07152",
+      "ortsnetzkennzahl": 7152,
+      "ort": "Leonberg Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07153",
+      "ortsnetzkennzahl": 7153,
+      "ort": "Plochingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07154",
+      "ortsnetzkennzahl": 7154,
+      "ort": "Kornwestheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07156",
+      "ortsnetzkennzahl": 7156,
+      "ort": "Ditzingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07157",
+      "ortsnetzkennzahl": 7157,
+      "ort": "Waldenbuch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07158",
+      "ortsnetzkennzahl": 7158,
+      "ort": "Neuhausen auf den Fildern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07159",
+      "ortsnetzkennzahl": 7159,
+      "ort": "Renningen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07161",
+      "ortsnetzkennzahl": 7161,
+      "ort": "Göppingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07162",
+      "ortsnetzkennzahl": 7162,
+      "ort": "Süßen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07163",
+      "ortsnetzkennzahl": 7163,
+      "ort": "Ebersbach an der Fils",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07164",
+      "ortsnetzkennzahl": 7164,
+      "ort": "Boll Kr Göppingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07165",
+      "ortsnetzkennzahl": 7165,
+      "ort": "Göppingen-Hohenstaufen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07166",
+      "ortsnetzkennzahl": 7166,
+      "ort": "Adelberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07171",
+      "ortsnetzkennzahl": 7171,
+      "ort": "Schwäbisch Gmünd",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07172",
+      "ortsnetzkennzahl": 7172,
+      "ort": "Lorch Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07173",
+      "ortsnetzkennzahl": 7173,
+      "ort": "Heubach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07174",
+      "ortsnetzkennzahl": 7174,
+      "ort": "Mögglingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07175",
+      "ortsnetzkennzahl": 7175,
+      "ort": "Leinzell",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07176",
+      "ortsnetzkennzahl": 7176,
+      "ort": "Spraitbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07181",
+      "ortsnetzkennzahl": 7181,
+      "ort": "Schorndorf Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07182",
+      "ortsnetzkennzahl": 7182,
+      "ort": "Welzheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07183",
+      "ortsnetzkennzahl": 7183,
+      "ort": "Rudersberg Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07184",
+      "ortsnetzkennzahl": 7184,
+      "ort": "Kaisersbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07191",
+      "ortsnetzkennzahl": 7191,
+      "ort": "Backnang",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07192",
+      "ortsnetzkennzahl": 7192,
+      "ort": "Murrhardt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07193",
+      "ortsnetzkennzahl": 7193,
+      "ort": "Sulzbach an der Murr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07194",
+      "ortsnetzkennzahl": 7194,
+      "ort": "Spiegelberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07195",
+      "ortsnetzkennzahl": 7195,
+      "ort": "Winnenden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07202",
+      "ortsnetzkennzahl": 7202,
+      "ort": "Karlsbad",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07203",
+      "ortsnetzkennzahl": 7203,
+      "ort": "Walzbachtal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07204",
+      "ortsnetzkennzahl": 7204,
+      "ort": "Malsch-Völkersbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07220",
+      "ortsnetzkennzahl": 7220,
+      "ort": "Forbach-Hundsbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07221",
+      "ortsnetzkennzahl": 7221,
+      "ort": "Baden-Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07222",
+      "ortsnetzkennzahl": 7222,
+      "ort": "Rastatt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07223",
+      "ortsnetzkennzahl": 7223,
+      "ort": "Bühl Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07224",
+      "ortsnetzkennzahl": 7224,
+      "ort": "Gernsbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07225",
+      "ortsnetzkennzahl": 7225,
+      "ort": "Gaggenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07226",
+      "ortsnetzkennzahl": 7226,
+      "ort": "Bühl-Sand",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07227",
+      "ortsnetzkennzahl": 7227,
+      "ort": "Lichtenau Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07228",
+      "ortsnetzkennzahl": 7228,
+      "ort": "Forbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07229",
+      "ortsnetzkennzahl": 7229,
+      "ort": "Iffezheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07231",
+      "ortsnetzkennzahl": 7231,
+      "ort": "Pforzheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07232",
+      "ortsnetzkennzahl": 7232,
+      "ort": "Königsbach-Stein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07233",
+      "ortsnetzkennzahl": 7233,
+      "ort": "Niefern-Öschelbronn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07234",
+      "ortsnetzkennzahl": 7234,
+      "ort": "Tiefenbronn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07235",
+      "ortsnetzkennzahl": 7235,
+      "ort": "Unterreichenbach Kr Calw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07236",
+      "ortsnetzkennzahl": 7236,
+      "ort": "Keltern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07237",
+      "ortsnetzkennzahl": 7237,
+      "ort": "Neulingen Enzkreis",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07240",
+      "ortsnetzkennzahl": 7240,
+      "ort": "Pfinztal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07242",
+      "ortsnetzkennzahl": 7242,
+      "ort": "Rheinstetten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07243",
+      "ortsnetzkennzahl": 7243,
+      "ort": "Ettlingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07244",
+      "ortsnetzkennzahl": 7244,
+      "ort": "Weingarten Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07245",
+      "ortsnetzkennzahl": 7245,
+      "ort": "Durmersheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07246",
+      "ortsnetzkennzahl": 7246,
+      "ort": "Malsch Kr Karlsruhe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07247",
+      "ortsnetzkennzahl": 7247,
+      "ort": "Linkenheim-Hochstetten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07248",
+      "ortsnetzkennzahl": 7248,
+      "ort": "Marxzell",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07249",
+      "ortsnetzkennzahl": 7249,
+      "ort": "Stutensee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07250",
+      "ortsnetzkennzahl": 7250,
+      "ort": "Kraichtal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07251",
+      "ortsnetzkennzahl": 7251,
+      "ort": "Bruchsal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07252",
+      "ortsnetzkennzahl": 7252,
+      "ort": "Bretten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07253",
+      "ortsnetzkennzahl": 7253,
+      "ort": "Bad Schönborn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07254",
+      "ortsnetzkennzahl": 7254,
+      "ort": "Waghäusel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07255",
+      "ortsnetzkennzahl": 7255,
+      "ort": "Graben-Neudorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07256",
+      "ortsnetzkennzahl": 7256,
+      "ort": "Philippsburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07257",
+      "ortsnetzkennzahl": 7257,
+      "ort": "Bruchsal-Untergrombach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07258",
+      "ortsnetzkennzahl": 7258,
+      "ort": "Oberderdingen-Flehingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07259",
+      "ortsnetzkennzahl": 7259,
+      "ort": "Östringen-Odenheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07260",
+      "ortsnetzkennzahl": 7260,
+      "ort": "Sinsheim-Hilsbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07261",
+      "ortsnetzkennzahl": 7261,
+      "ort": "Sinsheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07262",
+      "ortsnetzkennzahl": 7262,
+      "ort": "Eppingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07263",
+      "ortsnetzkennzahl": 7263,
+      "ort": "Waibstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07264",
+      "ortsnetzkennzahl": 7264,
+      "ort": "Bad Rappenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07265",
+      "ortsnetzkennzahl": 7265,
+      "ort": "Angelbachtal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07266",
+      "ortsnetzkennzahl": 7266,
+      "ort": "Kirchardt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07267",
+      "ortsnetzkennzahl": 7267,
+      "ort": "Gemmingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07268",
+      "ortsnetzkennzahl": 7268,
+      "ort": "Bad Rappenau-Obergimpern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07269",
+      "ortsnetzkennzahl": 7269,
+      "ort": "Sulzfeld Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07271",
+      "ortsnetzkennzahl": 7271,
+      "ort": "Wörth am Rhein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07272",
+      "ortsnetzkennzahl": 7272,
+      "ort": "Rülzheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07273",
+      "ortsnetzkennzahl": 7273,
+      "ort": "Hagenbach Pfalz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07274",
+      "ortsnetzkennzahl": 7274,
+      "ort": "Germersheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07275",
+      "ortsnetzkennzahl": 7275,
+      "ort": "Kandel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07276",
+      "ortsnetzkennzahl": 7276,
+      "ort": "Herxheim bei Landau Pfalz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07277",
+      "ortsnetzkennzahl": 7277,
+      "ort": "Wörth-Büchelberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07300",
+      "ortsnetzkennzahl": 7300,
+      "ort": "Roggenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07302",
+      "ortsnetzkennzahl": 7302,
+      "ort": "Pfaffenhofen a d Roth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07303",
+      "ortsnetzkennzahl": 7303,
+      "ort": "Illertissen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07304",
+      "ortsnetzkennzahl": 7304,
+      "ort": "Blaustein Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07305",
+      "ortsnetzkennzahl": 7305,
+      "ort": "Erbach Donau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07306",
+      "ortsnetzkennzahl": 7306,
+      "ort": "Vöhringen Iller",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07307",
+      "ortsnetzkennzahl": 7307,
+      "ort": "Senden Iller",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07308",
+      "ortsnetzkennzahl": 7308,
+      "ort": "Nersingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07309",
+      "ortsnetzkennzahl": 7309,
+      "ort": "Weissenhorn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07321",
+      "ortsnetzkennzahl": 7321,
+      "ort": "Heidenheim a d Brenz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07322",
+      "ortsnetzkennzahl": 7322,
+      "ort": "Giengen a d Brenz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07323",
+      "ortsnetzkennzahl": 7323,
+      "ort": "Gerstetten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07324",
+      "ortsnetzkennzahl": 7324,
+      "ort": "Herbrechtingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07325",
+      "ortsnetzkennzahl": 7325,
+      "ort": "Sontheim a d Brenz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07326",
+      "ortsnetzkennzahl": 7326,
+      "ort": "Neresheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07327",
+      "ortsnetzkennzahl": 7327,
+      "ort": "Dischingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07328",
+      "ortsnetzkennzahl": 7328,
+      "ort": "Königsbronn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07329",
+      "ortsnetzkennzahl": 7329,
+      "ort": "Steinheim am Albuch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07331",
+      "ortsnetzkennzahl": 7331,
+      "ort": "Geislingen an der Steige",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07332",
+      "ortsnetzkennzahl": 7332,
+      "ort": "Lauterstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07333",
+      "ortsnetzkennzahl": 7333,
+      "ort": "Laichingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07334",
+      "ortsnetzkennzahl": 7334,
+      "ort": "Deggingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07335",
+      "ortsnetzkennzahl": 7335,
+      "ort": "Wiesensteig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07336",
+      "ortsnetzkennzahl": 7336,
+      "ort": "Lonsee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07337",
+      "ortsnetzkennzahl": 7337,
+      "ort": "Nellingen Alb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07340",
+      "ortsnetzkennzahl": 7340,
+      "ort": "Neenstetten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07343",
+      "ortsnetzkennzahl": 7343,
+      "ort": "Buch b Illertissen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07344",
+      "ortsnetzkennzahl": 7344,
+      "ort": "Blaubeuren",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07345",
+      "ortsnetzkennzahl": 7345,
+      "ort": "Langenau Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07346",
+      "ortsnetzkennzahl": 7346,
+      "ort": "Illerkirchberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07347",
+      "ortsnetzkennzahl": 7347,
+      "ort": "Dietenheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07348",
+      "ortsnetzkennzahl": 7348,
+      "ort": "Beimerstetten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07351",
+      "ortsnetzkennzahl": 7351,
+      "ort": "Biberach an der Riß",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07352",
+      "ortsnetzkennzahl": 7352,
+      "ort": "Ochsenhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07353",
+      "ortsnetzkennzahl": 7353,
+      "ort": "Schwendi",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07354",
+      "ortsnetzkennzahl": 7354,
+      "ort": "Erolzheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07355",
+      "ortsnetzkennzahl": 7355,
+      "ort": "Hochdorf Riß",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07356",
+      "ortsnetzkennzahl": 7356,
+      "ort": "Schemmerhofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07357",
+      "ortsnetzkennzahl": 7357,
+      "ort": "Attenweiler",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07358",
+      "ortsnetzkennzahl": 7358,
+      "ort": "Eberhardzell-Füramoos",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07361",
+      "ortsnetzkennzahl": 7361,
+      "ort": "Aalen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07362",
+      "ortsnetzkennzahl": 7362,
+      "ort": "Bopfingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07363",
+      "ortsnetzkennzahl": 7363,
+      "ort": "Lauchheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07364",
+      "ortsnetzkennzahl": 7364,
+      "ort": "Oberkochen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07365",
+      "ortsnetzkennzahl": 7365,
+      "ort": "Essingen Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07366",
+      "ortsnetzkennzahl": 7366,
+      "ort": "Abtsgmünd",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07367",
+      "ortsnetzkennzahl": 7367,
+      "ort": "Aalen-Ebnat",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07371",
+      "ortsnetzkennzahl": 7371,
+      "ort": "Riedlingen Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07373",
+      "ortsnetzkennzahl": 7373,
+      "ort": "Zwiefalten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07374",
+      "ortsnetzkennzahl": 7374,
+      "ort": "Uttenweiler",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07375",
+      "ortsnetzkennzahl": 7375,
+      "ort": "Obermarchtal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07376",
+      "ortsnetzkennzahl": 7376,
+      "ort": "Langenenslingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07381",
+      "ortsnetzkennzahl": 7381,
+      "ort": "Münsingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07382",
+      "ortsnetzkennzahl": 7382,
+      "ort": "Römerstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07383",
+      "ortsnetzkennzahl": 7383,
+      "ort": "Münsingen-Buttenhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07384",
+      "ortsnetzkennzahl": 7384,
+      "ort": "Schelklingen-Hütten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07385",
+      "ortsnetzkennzahl": 7385,
+      "ort": "Gomadingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07386",
+      "ortsnetzkennzahl": 7386,
+      "ort": "Hayingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07387",
+      "ortsnetzkennzahl": 7387,
+      "ort": "Hohenstein Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07388",
+      "ortsnetzkennzahl": 7388,
+      "ort": "Pfronstetten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07389",
+      "ortsnetzkennzahl": 7389,
+      "ort": "Heroldstatt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07391",
+      "ortsnetzkennzahl": 7391,
+      "ort": "Ehingen Donau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07392",
+      "ortsnetzkennzahl": 7392,
+      "ort": "Laupheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07393",
+      "ortsnetzkennzahl": 7393,
+      "ort": "Munderkingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07394",
+      "ortsnetzkennzahl": 7394,
+      "ort": "Schelklingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07395",
+      "ortsnetzkennzahl": 7395,
+      "ort": "Ehingen-Dächingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07402",
+      "ortsnetzkennzahl": 7402,
+      "ort": "Fluorn-Winzeln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07403",
+      "ortsnetzkennzahl": 7403,
+      "ort": "Dunningen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07404",
+      "ortsnetzkennzahl": 7404,
+      "ort": "Epfendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07420",
+      "ortsnetzkennzahl": 7420,
+      "ort": "Deisslingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07422",
+      "ortsnetzkennzahl": 7422,
+      "ort": "Schramberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07423",
+      "ortsnetzkennzahl": 7423,
+      "ort": "Oberndorf am Neckar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07424",
+      "ortsnetzkennzahl": 7424,
+      "ort": "Spaichingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07425",
+      "ortsnetzkennzahl": 7425,
+      "ort": "Trossingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07426",
+      "ortsnetzkennzahl": 7426,
+      "ort": "Gosheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07427",
+      "ortsnetzkennzahl": 7427,
+      "ort": "Schömberg b Balingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07428",
+      "ortsnetzkennzahl": 7428,
+      "ort": "Rosenfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07429",
+      "ortsnetzkennzahl": 7429,
+      "ort": "Egesheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07431",
+      "ortsnetzkennzahl": 7431,
+      "ort": "Albstadt-Ebingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07432",
+      "ortsnetzkennzahl": 7432,
+      "ort": "Albstadt-Tailfingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07433",
+      "ortsnetzkennzahl": 7433,
+      "ort": "Balingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07434",
+      "ortsnetzkennzahl": 7434,
+      "ort": "Winterlingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07435",
+      "ortsnetzkennzahl": 7435,
+      "ort": "Albstadt-Laufen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07436",
+      "ortsnetzkennzahl": 7436,
+      "ort": "Messstetten-Oberdigisheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07440",
+      "ortsnetzkennzahl": 7440,
+      "ort": "Bad Rippoldsau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07441",
+      "ortsnetzkennzahl": 7441,
+      "ort": "Freudenstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07442",
+      "ortsnetzkennzahl": 7442,
+      "ort": "Baiersbronn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07443",
+      "ortsnetzkennzahl": 7443,
+      "ort": "Dornstetten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07444",
+      "ortsnetzkennzahl": 7444,
+      "ort": "Alpirsbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07445",
+      "ortsnetzkennzahl": 7445,
+      "ort": "Pfalzgrafenweiler",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07446",
+      "ortsnetzkennzahl": 7446,
+      "ort": "Lossburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07447",
+      "ortsnetzkennzahl": 7447,
+      "ort": "Baiersbronn-Schwarzenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07448",
+      "ortsnetzkennzahl": 7448,
+      "ort": "Seewald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07449",
+      "ortsnetzkennzahl": 7449,
+      "ort": "Baiersbronn-Obertal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07451",
+      "ortsnetzkennzahl": 7451,
+      "ort": "Horb am Neckar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07452",
+      "ortsnetzkennzahl": 7452,
+      "ort": "Nagold",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07453",
+      "ortsnetzkennzahl": 7453,
+      "ort": "Altensteig Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07454",
+      "ortsnetzkennzahl": 7454,
+      "ort": "Sulz am Neckar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07455",
+      "ortsnetzkennzahl": 7455,
+      "ort": "Dornhan",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07456",
+      "ortsnetzkennzahl": 7456,
+      "ort": "Haiterbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07457",
+      "ortsnetzkennzahl": 7457,
+      "ort": "Rottenburg-Ergenzingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07458",
+      "ortsnetzkennzahl": 7458,
+      "ort": "Ebhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07459",
+      "ortsnetzkennzahl": 7459,
+      "ort": "Nagold-Hochdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07461",
+      "ortsnetzkennzahl": 7461,
+      "ort": "Tuttlingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07462",
+      "ortsnetzkennzahl": 7462,
+      "ort": "Immendingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07463",
+      "ortsnetzkennzahl": 7463,
+      "ort": "Mühlheim an der Donau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07464",
+      "ortsnetzkennzahl": 7464,
+      "ort": "Talheim Kr Tuttlingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07465",
+      "ortsnetzkennzahl": 7465,
+      "ort": "Emmingen-Liptingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07466",
+      "ortsnetzkennzahl": 7466,
+      "ort": "Beuron",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07467",
+      "ortsnetzkennzahl": 7467,
+      "ort": "Neuhausen ob Eck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07471",
+      "ortsnetzkennzahl": 7471,
+      "ort": "Hechingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07472",
+      "ortsnetzkennzahl": 7472,
+      "ort": "Rottenburg am Neckar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07473",
+      "ortsnetzkennzahl": 7473,
+      "ort": "Mössingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07474",
+      "ortsnetzkennzahl": 7474,
+      "ort": "Haigerloch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07475",
+      "ortsnetzkennzahl": 7475,
+      "ort": "Burladingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07476",
+      "ortsnetzkennzahl": 7476,
+      "ort": "Bisingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07477",
+      "ortsnetzkennzahl": 7477,
+      "ort": "Jungingen b Hechingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07478",
+      "ortsnetzkennzahl": 7478,
+      "ort": "Hirrlingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07482",
+      "ortsnetzkennzahl": 7482,
+      "ort": "Horb-Dettingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07483",
+      "ortsnetzkennzahl": 7483,
+      "ort": "Horb-Mühringen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07484",
+      "ortsnetzkennzahl": 7484,
+      "ort": "Simmersfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07485",
+      "ortsnetzkennzahl": 7485,
+      "ort": "Empfingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07486",
+      "ortsnetzkennzahl": 7486,
+      "ort": "Horb-Altheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07502",
+      "ortsnetzkennzahl": 7502,
+      "ort": "Wolpertswende",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07503",
+      "ortsnetzkennzahl": 7503,
+      "ort": "Wilhelmsdorf Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07504",
+      "ortsnetzkennzahl": 7504,
+      "ort": "Horgenzell",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07505",
+      "ortsnetzkennzahl": 7505,
+      "ort": "Fronreute",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07506",
+      "ortsnetzkennzahl": 7506,
+      "ort": "Wangen-Leupolz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07520",
+      "ortsnetzkennzahl": 7520,
+      "ort": "Bodnegg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07522",
+      "ortsnetzkennzahl": 7522,
+      "ort": "Wangen im Allgäu",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07524",
+      "ortsnetzkennzahl": 7524,
+      "ort": "Bad Waldsee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07525",
+      "ortsnetzkennzahl": 7525,
+      "ort": "Aulendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07527",
+      "ortsnetzkennzahl": 7527,
+      "ort": "Wolfegg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07528",
+      "ortsnetzkennzahl": 7528,
+      "ort": "Neukirch b Tettnang",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07529",
+      "ortsnetzkennzahl": 7529,
+      "ort": "Waldburg Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07531",
+      "ortsnetzkennzahl": 7531,
+      "ort": "Konstanz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07532",
+      "ortsnetzkennzahl": 7532,
+      "ort": "Meersburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07533",
+      "ortsnetzkennzahl": 7533,
+      "ort": "Allensbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07534",
+      "ortsnetzkennzahl": 7534,
+      "ort": "Reichenau Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07541",
+      "ortsnetzkennzahl": 7541,
+      "ort": "Friedrichshafen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07542",
+      "ortsnetzkennzahl": 7542,
+      "ort": "Tettnang",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07543",
+      "ortsnetzkennzahl": 7543,
+      "ort": "Kressbronn am Bodensee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07544",
+      "ortsnetzkennzahl": 7544,
+      "ort": "Markdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07545",
+      "ortsnetzkennzahl": 7545,
+      "ort": "Immenstaad am Bodensee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07546",
+      "ortsnetzkennzahl": 7546,
+      "ort": "Oberteuringen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07551",
+      "ortsnetzkennzahl": 7551,
+      "ort": "Überlingen Bodensee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07552",
+      "ortsnetzkennzahl": 7552,
+      "ort": "Pfullendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07553",
+      "ortsnetzkennzahl": 7553,
+      "ort": "Salem Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07554",
+      "ortsnetzkennzahl": 7554,
+      "ort": "Heiligenberg Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07555",
+      "ortsnetzkennzahl": 7555,
+      "ort": "Deggenhausertal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07556",
+      "ortsnetzkennzahl": 7556,
+      "ort": "Uhldingen-Mühlhofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07557",
+      "ortsnetzkennzahl": 7557,
+      "ort": "Herdwangen-Schönach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07558",
+      "ortsnetzkennzahl": 7558,
+      "ort": "Illmensee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07561",
+      "ortsnetzkennzahl": 7561,
+      "ort": "Leutkirch im Allgäu",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07562",
+      "ortsnetzkennzahl": 7562,
+      "ort": "Isny im Allgäu",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07563",
+      "ortsnetzkennzahl": 7563,
+      "ort": "Kisslegg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07564",
+      "ortsnetzkennzahl": 7564,
+      "ort": "Bad Wurzach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07565",
+      "ortsnetzkennzahl": 7565,
+      "ort": "Aichstetten Kr Ravensburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07566",
+      "ortsnetzkennzahl": 7566,
+      "ort": "Argenbühl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07567",
+      "ortsnetzkennzahl": 7567,
+      "ort": "Leutkirch-Friesenhofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07568",
+      "ortsnetzkennzahl": 7568,
+      "ort": "Bad Wurzach-Hauerz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07569",
+      "ortsnetzkennzahl": 7569,
+      "ort": "Isny-Eisenbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07570",
+      "ortsnetzkennzahl": 7570,
+      "ort": "Sigmaringen-Gutenstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07571",
+      "ortsnetzkennzahl": 7571,
+      "ort": "Sigmaringen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07572",
+      "ortsnetzkennzahl": 7572,
+      "ort": "Mengen Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07573",
+      "ortsnetzkennzahl": 7573,
+      "ort": "Stetten am kalten Markt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07574",
+      "ortsnetzkennzahl": 7574,
+      "ort": "Gammertingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07575",
+      "ortsnetzkennzahl": 7575,
+      "ort": "Messkirch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07576",
+      "ortsnetzkennzahl": 7576,
+      "ort": "Krauchenwies",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07577",
+      "ortsnetzkennzahl": 7577,
+      "ort": "Veringenstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07578",
+      "ortsnetzkennzahl": 7578,
+      "ort": "Wald Hohenz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07579",
+      "ortsnetzkennzahl": 7579,
+      "ort": "Schwenningen Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07581",
+      "ortsnetzkennzahl": 7581,
+      "ort": "Saulgau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07582",
+      "ortsnetzkennzahl": 7582,
+      "ort": "Bad Buchau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07583",
+      "ortsnetzkennzahl": 7583,
+      "ort": "Bad Schussenried",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07584",
+      "ortsnetzkennzahl": 7584,
+      "ort": "Altshausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07585",
+      "ortsnetzkennzahl": 7585,
+      "ort": "Ostrach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07586",
+      "ortsnetzkennzahl": 7586,
+      "ort": "Herbertingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07587",
+      "ortsnetzkennzahl": 7587,
+      "ort": "Hosskirch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07602",
+      "ortsnetzkennzahl": 7602,
+      "ort": "Oberried Breisgau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07620",
+      "ortsnetzkennzahl": 7620,
+      "ort": "Schopfheim-Gersbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07621",
+      "ortsnetzkennzahl": 7621,
+      "ort": "Lörrach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07622",
+      "ortsnetzkennzahl": 7622,
+      "ort": "Schopfheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07623",
+      "ortsnetzkennzahl": 7623,
+      "ort": "Rheinfelden Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07624",
+      "ortsnetzkennzahl": 7624,
+      "ort": "Grenzach-Wyhlen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07625",
+      "ortsnetzkennzahl": 7625,
+      "ort": "Zell im Wiesental",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07626",
+      "ortsnetzkennzahl": 7626,
+      "ort": "Kandern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07627",
+      "ortsnetzkennzahl": 7627,
+      "ort": "Steinen Kr Lörrach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07628",
+      "ortsnetzkennzahl": 7628,
+      "ort": "Efringen-Kirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07629",
+      "ortsnetzkennzahl": 7629,
+      "ort": "Tegernau Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07631",
+      "ortsnetzkennzahl": 7631,
+      "ort": "Müllheim Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07632",
+      "ortsnetzkennzahl": 7632,
+      "ort": "Badenweiler",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07633",
+      "ortsnetzkennzahl": 7633,
+      "ort": "Staufen im Breisgau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07634",
+      "ortsnetzkennzahl": 7634,
+      "ort": "Sulzburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07635",
+      "ortsnetzkennzahl": 7635,
+      "ort": "Schliengen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07636",
+      "ortsnetzkennzahl": 7636,
+      "ort": "Münstertal Schwarzwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07641",
+      "ortsnetzkennzahl": 7641,
+      "ort": "Emmendingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07642",
+      "ortsnetzkennzahl": 7642,
+      "ort": "Endingen Kaiserstuhl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07643",
+      "ortsnetzkennzahl": 7643,
+      "ort": "Herbolzheim Breisgau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07644",
+      "ortsnetzkennzahl": 7644,
+      "ort": "Kenzingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07645",
+      "ortsnetzkennzahl": 7645,
+      "ort": "Freiamt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07646",
+      "ortsnetzkennzahl": 7646,
+      "ort": "Weisweil Breisgau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07651",
+      "ortsnetzkennzahl": 7651,
+      "ort": "Titisee-Neustadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07652",
+      "ortsnetzkennzahl": 7652,
+      "ort": "Hinterzarten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07653",
+      "ortsnetzkennzahl": 7653,
+      "ort": "Lenzkirch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07654",
+      "ortsnetzkennzahl": 7654,
+      "ort": "Löffingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07655",
+      "ortsnetzkennzahl": 7655,
+      "ort": "Feldberg-Altglashütten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07656",
+      "ortsnetzkennzahl": 7656,
+      "ort": "Schluchsee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07657",
+      "ortsnetzkennzahl": 7657,
+      "ort": "Eisenbach Hochschwarzwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07660",
+      "ortsnetzkennzahl": 7660,
+      "ort": "St Peter Schwarzw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07661",
+      "ortsnetzkennzahl": 7661,
+      "ort": "Kirchzarten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07662",
+      "ortsnetzkennzahl": 7662,
+      "ort": "Vogtsburg im Kaiserstuhl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07663",
+      "ortsnetzkennzahl": 7663,
+      "ort": "Eichstetten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07664",
+      "ortsnetzkennzahl": 7664,
+      "ort": "Freiburg-Tiengen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07665",
+      "ortsnetzkennzahl": 7665,
+      "ort": "March Breisgau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07666",
+      "ortsnetzkennzahl": 7666,
+      "ort": "Denzlingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07667",
+      "ortsnetzkennzahl": 7667,
+      "ort": "Breisach am Rhein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07668",
+      "ortsnetzkennzahl": 7668,
+      "ort": "Ihringen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07669",
+      "ortsnetzkennzahl": 7669,
+      "ort": "St Märgen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07671",
+      "ortsnetzkennzahl": 7671,
+      "ort": "Todtnau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07672",
+      "ortsnetzkennzahl": 7672,
+      "ort": "St Blasien",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07673",
+      "ortsnetzkennzahl": 7673,
+      "ort": "Schönau im Schwarzwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07674",
+      "ortsnetzkennzahl": 7674,
+      "ort": "Todtmoos",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07675",
+      "ortsnetzkennzahl": 7675,
+      "ort": "Bernau Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07676",
+      "ortsnetzkennzahl": 7676,
+      "ort": "Feldberg Schwarzwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07681",
+      "ortsnetzkennzahl": 7681,
+      "ort": "Waldkirch Breisgau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07682",
+      "ortsnetzkennzahl": 7682,
+      "ort": "Elzach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07683",
+      "ortsnetzkennzahl": 7683,
+      "ort": "Simonswald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07684",
+      "ortsnetzkennzahl": 7684,
+      "ort": "Glottertal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07685",
+      "ortsnetzkennzahl": 7685,
+      "ort": "Gutach-Bleibach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07702",
+      "ortsnetzkennzahl": 7702,
+      "ort": "Blumberg Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07703",
+      "ortsnetzkennzahl": 7703,
+      "ort": "Bonndorf im Schwarzwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07704",
+      "ortsnetzkennzahl": 7704,
+      "ort": "Geisingen Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07705",
+      "ortsnetzkennzahl": 7705,
+      "ort": "Wolterdingen Schwarzw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07706",
+      "ortsnetzkennzahl": 7706,
+      "ort": "Oberbaldingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07707",
+      "ortsnetzkennzahl": 7707,
+      "ort": "Bräunlingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07708",
+      "ortsnetzkennzahl": 7708,
+      "ort": "Geisingen-Leipferdingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07709",
+      "ortsnetzkennzahl": 7709,
+      "ort": "Wutach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07720",
+      "ortsnetzkennzahl": 7720,
+      "ort": "Schwenningen a Neckar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07721",
+      "ortsnetzkennzahl": 7721,
+      "ort": "Villingen i Schwarzw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07722",
+      "ortsnetzkennzahl": 7722,
+      "ort": "Triberg im Schwarzwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07723",
+      "ortsnetzkennzahl": 7723,
+      "ort": "Furtwangen im Schwarzwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07724",
+      "ortsnetzkennzahl": 7724,
+      "ort": "St Georgen im Schwarzwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07725",
+      "ortsnetzkennzahl": 7725,
+      "ort": "Königsfeld im Schwarzwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07726",
+      "ortsnetzkennzahl": 7726,
+      "ort": "Bad Dürrheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07727",
+      "ortsnetzkennzahl": 7727,
+      "ort": "Vöhrenbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07728",
+      "ortsnetzkennzahl": 7728,
+      "ort": "Niedereschach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07729",
+      "ortsnetzkennzahl": 7729,
+      "ort": "Tennenbronn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07731",
+      "ortsnetzkennzahl": 7731,
+      "ort": "Singen Hohentwiel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07732",
+      "ortsnetzkennzahl": 7732,
+      "ort": "Radolfzell am Bodensee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07733",
+      "ortsnetzkennzahl": 7733,
+      "ort": "Engen Hegau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07734",
+      "ortsnetzkennzahl": 7734,
+      "ort": "Gailingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07735",
+      "ortsnetzkennzahl": 7735,
+      "ort": "Öhningen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07736",
+      "ortsnetzkennzahl": 7736,
+      "ort": "Tengen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07738",
+      "ortsnetzkennzahl": 7738,
+      "ort": "Steisslingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07739",
+      "ortsnetzkennzahl": 7739,
+      "ort": "Hilzingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07741",
+      "ortsnetzkennzahl": 7741,
+      "ort": "Tiengen Hochrhein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07742",
+      "ortsnetzkennzahl": 7742,
+      "ort": "Klettgau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07743",
+      "ortsnetzkennzahl": 7743,
+      "ort": "Ühlingen-Birkendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07744",
+      "ortsnetzkennzahl": 7744,
+      "ort": "Stühlingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07745",
+      "ortsnetzkennzahl": 7745,
+      "ort": "Jestetten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07746",
+      "ortsnetzkennzahl": 7746,
+      "ort": "Wutöschingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07747",
+      "ortsnetzkennzahl": 7747,
+      "ort": "Berau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07748",
+      "ortsnetzkennzahl": 7748,
+      "ort": "Grafenhausen Hochschwarzw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07751",
+      "ortsnetzkennzahl": 7751,
+      "ort": "Waldshut",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07753",
+      "ortsnetzkennzahl": 7753,
+      "ort": "Albbruck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07754",
+      "ortsnetzkennzahl": 7754,
+      "ort": "Görwihl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07755",
+      "ortsnetzkennzahl": 7755,
+      "ort": "Weilheim Kr Waldshut",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07761",
+      "ortsnetzkennzahl": 7761,
+      "ort": "Bad Säckingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07762",
+      "ortsnetzkennzahl": 7762,
+      "ort": "Wehr Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07763",
+      "ortsnetzkennzahl": 7763,
+      "ort": "Murg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07764",
+      "ortsnetzkennzahl": 7764,
+      "ort": "Herrischried",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07765",
+      "ortsnetzkennzahl": 7765,
+      "ort": "Rickenbach Hotzenw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07771",
+      "ortsnetzkennzahl": 7771,
+      "ort": "Stockach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07773",
+      "ortsnetzkennzahl": 7773,
+      "ort": "Bodman-Ludwigshafen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07774",
+      "ortsnetzkennzahl": 7774,
+      "ort": "Eigeltingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07775",
+      "ortsnetzkennzahl": 7775,
+      "ort": "Mühlingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07777",
+      "ortsnetzkennzahl": 7777,
+      "ort": "Sauldorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07802",
+      "ortsnetzkennzahl": 7802,
+      "ort": "Oberkirch Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07803",
+      "ortsnetzkennzahl": 7803,
+      "ort": "Gengenbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07804",
+      "ortsnetzkennzahl": 7804,
+      "ort": "Oppenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07805",
+      "ortsnetzkennzahl": 7805,
+      "ort": "Appenweier",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07806",
+      "ortsnetzkennzahl": 7806,
+      "ort": "Bad Peterstal-Griesbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07807",
+      "ortsnetzkennzahl": 7807,
+      "ort": "Neuried Ortenaukreis",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07808",
+      "ortsnetzkennzahl": 7808,
+      "ort": "Hohberg b Offenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07821",
+      "ortsnetzkennzahl": 7821,
+      "ort": "Lahr Schwarzwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07822",
+      "ortsnetzkennzahl": 7822,
+      "ort": "Ettenheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07823",
+      "ortsnetzkennzahl": 7823,
+      "ort": "Seelbach Schutter",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07824",
+      "ortsnetzkennzahl": 7824,
+      "ort": "Schwanau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07825",
+      "ortsnetzkennzahl": 7825,
+      "ort": "Kippenheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07826",
+      "ortsnetzkennzahl": 7826,
+      "ort": "Schuttertal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07831",
+      "ortsnetzkennzahl": 7831,
+      "ort": "Hausach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07832",
+      "ortsnetzkennzahl": 7832,
+      "ort": "Haslach im Kinzigtal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07833",
+      "ortsnetzkennzahl": 7833,
+      "ort": "Hornberg Schwarzwaldbahn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07834",
+      "ortsnetzkennzahl": 7834,
+      "ort": "Wolfach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07835",
+      "ortsnetzkennzahl": 7835,
+      "ort": "Zell am Harmersbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07836",
+      "ortsnetzkennzahl": 7836,
+      "ort": "Schiltach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07837",
+      "ortsnetzkennzahl": 7837,
+      "ort": "Oberharmersbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07838",
+      "ortsnetzkennzahl": 7838,
+      "ort": "Nordrach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07839",
+      "ortsnetzkennzahl": 7839,
+      "ort": "Schapbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07841",
+      "ortsnetzkennzahl": 7841,
+      "ort": "Achern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07842",
+      "ortsnetzkennzahl": 7842,
+      "ort": "Kappelrodeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07843",
+      "ortsnetzkennzahl": 7843,
+      "ort": "Renchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07844",
+      "ortsnetzkennzahl": 7844,
+      "ort": "Rheinau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07851",
+      "ortsnetzkennzahl": 7851,
+      "ort": "Kehl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07852",
+      "ortsnetzkennzahl": 7852,
+      "ort": "Willstätt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07853",
+      "ortsnetzkennzahl": 7853,
+      "ort": "Kehl-Bodersweier",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07854",
+      "ortsnetzkennzahl": 7854,
+      "ort": "Kehl-Goldscheuer",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07903",
+      "ortsnetzkennzahl": 7903,
+      "ort": "Mainhardt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07904",
+      "ortsnetzkennzahl": 7904,
+      "ort": "Ilshofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07905",
+      "ortsnetzkennzahl": 7905,
+      "ort": "Langenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07906",
+      "ortsnetzkennzahl": 7906,
+      "ort": "Braunsbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07907",
+      "ortsnetzkennzahl": 7907,
+      "ort": "Schwäbisch Hall-Sulzdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07930",
+      "ortsnetzkennzahl": 7930,
+      "ort": "Boxberg Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07931",
+      "ortsnetzkennzahl": 7931,
+      "ort": "Bad Mergentheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07932",
+      "ortsnetzkennzahl": 7932,
+      "ort": "Niederstetten Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07933",
+      "ortsnetzkennzahl": 7933,
+      "ort": "Creglingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07934",
+      "ortsnetzkennzahl": 7934,
+      "ort": "Weikersheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07935",
+      "ortsnetzkennzahl": 7935,
+      "ort": "Schrozberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07936",
+      "ortsnetzkennzahl": 7936,
+      "ort": "Schrozberg-Bartenstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07937",
+      "ortsnetzkennzahl": 7937,
+      "ort": "Dörzbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07938",
+      "ortsnetzkennzahl": 7938,
+      "ort": "Mulfingen Jagst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07939",
+      "ortsnetzkennzahl": 7939,
+      "ort": "Schrozberg-Spielbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07940",
+      "ortsnetzkennzahl": 7940,
+      "ort": "Künzelsau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07941",
+      "ortsnetzkennzahl": 7941,
+      "ort": "Öhringen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07942",
+      "ortsnetzkennzahl": 7942,
+      "ort": "Neuenstein Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07943",
+      "ortsnetzkennzahl": 7943,
+      "ort": "Schöntal Jagst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07944",
+      "ortsnetzkennzahl": 7944,
+      "ort": "Kupferzell",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07945",
+      "ortsnetzkennzahl": 7945,
+      "ort": "Wüstenrot",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07946",
+      "ortsnetzkennzahl": 7946,
+      "ort": "Bretzfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07947",
+      "ortsnetzkennzahl": 7947,
+      "ort": "Forchtenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07948",
+      "ortsnetzkennzahl": 7948,
+      "ort": "Öhringen-Ohrnberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07949",
+      "ortsnetzkennzahl": 7949,
+      "ort": "Pfedelbach-Untersteinbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07950",
+      "ortsnetzkennzahl": 7950,
+      "ort": "Schnelldorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07951",
+      "ortsnetzkennzahl": 7951,
+      "ort": "Crailsheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07952",
+      "ortsnetzkennzahl": 7952,
+      "ort": "Gerabronn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07953",
+      "ortsnetzkennzahl": 7953,
+      "ort": "Blaufelden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07954",
+      "ortsnetzkennzahl": 7954,
+      "ort": "Kirchberg an der Jagst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07955",
+      "ortsnetzkennzahl": 7955,
+      "ort": "Wallhausen Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07957",
+      "ortsnetzkennzahl": 7957,
+      "ort": "Kressberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07958",
+      "ortsnetzkennzahl": 7958,
+      "ort": "Rot Am See-Brettheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07959",
+      "ortsnetzkennzahl": 7959,
+      "ort": "Frankenhardt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07961",
+      "ortsnetzkennzahl": 7961,
+      "ort": "Ellwangen Jagst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07962",
+      "ortsnetzkennzahl": 7962,
+      "ort": "Fichtenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07963",
+      "ortsnetzkennzahl": 7963,
+      "ort": "Adelmannsfelden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07964",
+      "ortsnetzkennzahl": 7964,
+      "ort": "Stödtlen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07965",
+      "ortsnetzkennzahl": 7965,
+      "ort": "Ellwangen-Röhlingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07966",
+      "ortsnetzkennzahl": 7966,
+      "ort": "Unterschneidheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07967",
+      "ortsnetzkennzahl": 7967,
+      "ort": "Jagstzell",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07971",
+      "ortsnetzkennzahl": 7971,
+      "ort": "Gaildorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07972",
+      "ortsnetzkennzahl": 7972,
+      "ort": "Gschwend b Gaildorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07973",
+      "ortsnetzkennzahl": 7973,
+      "ort": "Obersontheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07974",
+      "ortsnetzkennzahl": 7974,
+      "ort": "Bühlerzell",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07975",
+      "ortsnetzkennzahl": 7975,
+      "ort": "Untergröningen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07976",
+      "ortsnetzkennzahl": 7976,
+      "ort": "Sulzbach-Laufen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "07977",
+      "ortsnetzkennzahl": 7977,
+      "ort": "Oberrot b Gaildorf",
+      "aktiv": true
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Vorwahlen — Bereich 7 (führende Ziffer 7) - Kostenloser Download",
+    "description": "Ortsnetzkennzahlen mit führender Ziffer 7 aus dem deutschen Nummerierungsbereich. Geografischer Schwerpunkt: Stuttgart (0711), Baden-Württemberg, Hessen-Süd. Insgesamt 510 Einträge. Enthält 510 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Deutsche Vorwahlen — Bereich 7 (führende Ziffer 7) | ListBase",
+    "seo_description": "Herunterladen Deutsche Vorwahlen — Bereich 7 (führende Ziffer 7) — 510 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 510 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

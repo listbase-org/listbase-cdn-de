@@ -1,0 +1,592 @@
+{
+  "id": "de-festungen",
+  "name": "Festungen in Deutschland / Fortresses in Germany",
+  "title": "Festungen in Deutschland / Fortresses in Germany",
+  "description": "Festungen in Deutschland (Fortresses in Germany). Geolocated points sourced from Wikidata (instance of Q57831), located in Germany (Q183), each with a coordinate (P625).",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 59,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_de",
+      "label": "Name De",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q66809931",
+      "name_de": "Batterie Waddens",
+      "name_en": "Battery Waddens",
+      "latitude": 53.562553,
+      "longitude": 8.436352,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66809931"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q50709",
+      "name_de": "Bundesfestung Ulm",
+      "name_en": "Ulm Fortress",
+      "latitude": 48.411944,
+      "longitude": 9.982778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q50709"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q1012449",
+      "name_de": "Burg Hohenurach",
+      "name_en": "Hohenurach Castle",
+      "latitude": 48.4933,
+      "longitude": 9.37833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1012449"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q108057181",
+      "name_de": "Burg Lauerens",
+      "name_en": "Burg Lauerens",
+      "latitude": 53.659379,
+      "longitude": 7.907892,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108057181"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q1019125",
+      "name_de": "Bärenkasten Oderberg",
+      "name_en": "Bärenkasten",
+      "latitude": 52.861944,
+      "longitude": 14.039722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1019125"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q1043366",
+      "name_de": "Carlsburg (Lehe)",
+      "name_en": "Carlsburg",
+      "latitude": 53.54,
+      "longitude": 8.58333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1043366"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q15108771",
+      "name_de": "Christiansburg (Varel)",
+      "name_en": "Christiansburg",
+      "latitude": 53.405592,
+      "longitude": 8.16915,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15108771"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q1408446",
+      "name_de": "Feste Kaiser Alexander",
+      "name_en": "Feste Kaiser Alexander",
+      "latitude": 50.3473,
+      "longitude": 7.57957,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1408446"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q1408444",
+      "name_de": "Feste Kaiser Franz",
+      "name_en": "Emperor Franz Stronghold",
+      "latitude": 50.3707,
+      "longitude": 7.59101,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1408444"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q60983325",
+      "name_de": "Festung Apen",
+      "name_en": "Festung Apen",
+      "latitude": 53.21875,
+      "longitude": 7.797667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60983325"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q871843",
+      "name_de": "Festung Berlin",
+      "name_en": "Berlin Fortress",
+      "latitude": 52.5175,
+      "longitude": 13.395833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q871843"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q878560",
+      "name_de": "Festung Dömitz",
+      "name_en": "Dömitz Fortress",
+      "latitude": 53.1424,
+      "longitude": 11.2457,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q878560"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q50712",
+      "name_de": "Festung Ehrenbreitstein",
+      "name_en": "Ehrenbreitstein Fortress",
+      "latitude": 50.365,
+      "longitude": 7.61528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q50712"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q827096",
+      "name_de": "Festung Friedrichsort",
+      "name_en": "Christianpris",
+      "latitude": 54.391389,
+      "longitude": 10.186111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q827096"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q1408880",
+      "name_de": "Festung Germersheim",
+      "name_en": "Festung Germersheim",
+      "latitude": 49.2186,
+      "longitude": 8.37167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1408880"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q1408886",
+      "name_de": "Festung Grauerort",
+      "name_en": "Grauerort Fortress",
+      "latitude": 53.677778,
+      "longitude": 9.490278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1408886"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q1408892",
+      "name_de": "Festung Heldrungen",
+      "name_en": "Festung Heldrungen",
+      "latitude": 51.2989,
+      "longitude": 11.2189,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1408892"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q835404",
+      "name_de": "Festung Hohenasperg",
+      "name_en": "Hohenasperg",
+      "latitude": 48.9103,
+      "longitude": 9.13833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q835404"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q1408898",
+      "name_de": "Festung Hohentwiel",
+      "name_en": "Festung Hohentwiel",
+      "latitude": 47.764722,
+      "longitude": 8.818889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1408898"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q1408912",
+      "name_de": "Festung Jülich",
+      "name_en": "Festung Jülich",
+      "latitude": 50.9255,
+      "longitude": 6.36006,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1408912"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q1408921",
+      "name_de": "Festung Kehl",
+      "name_en": "Festung Kehl",
+      "latitude": 48.575553,
+      "longitude": 7.807329,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1408921"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q50710",
+      "name_de": "Festung Koblenz",
+      "name_en": "Koblenz Fortress",
+      "latitude": 50.35,
+      "longitude": 7.6,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q50710"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q700562",
+      "name_de": "Festung Königstein",
+      "name_en": "Königstein Fortress",
+      "latitude": 50.918889,
+      "longitude": 14.056667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q700562"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q1408933",
+      "name_de": "Festung Landau",
+      "name_en": "fortress of Landau",
+      "latitude": 49.1945,
+      "longitude": 8.114,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1408933"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q1408934",
+      "name_de": "Festung Leerort",
+      "name_en": "Leerort",
+      "latitude": 53.2119,
+      "longitude": 7.42641,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1408934"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q1408940",
+      "name_de": "Festung Lichtenau",
+      "name_en": "Lichtenau Fortress",
+      "latitude": 49.278523,
+      "longitude": 10.687157,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1408940"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q1408941",
+      "name_de": "Festung Magdeburg",
+      "name_en": "Fortresses in Magdeburg",
+      "latitude": 52.13762,
+      "longitude": 11.64589,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1408941"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q50772",
+      "name_de": "Festung Mainz",
+      "name_en": "Fortress of Mainz",
+      "latitude": 49.9931,
+      "longitude": 8.27444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q50772"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q138918637",
+      "name_de": "Festung Marburg",
+      "name_en": "",
+      "latitude": 50.810278,
+      "longitude": 8.765556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138918637"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q328352",
+      "name_de": "Festung Marienberg",
+      "name_en": "Marienberg Fortress",
+      "latitude": 49.789774,
+      "longitude": 9.921106,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q328352"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q1359738",
+      "name_de": "Festung Minden",
+      "name_en": "Festung Minden",
+      "latitude": 52.2917,
+      "longitude": 8.93528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1359738"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q375841",
+      "name_de": "Festung Peitz",
+      "name_en": "Festung Peitz",
+      "latitude": 51.8574,
+      "longitude": 14.4094,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q375841"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q19962372",
+      "name_de": "Festung Philippsburg",
+      "name_en": "Festung Philippsburg",
+      "latitude": 49.236606,
+      "longitude": 8.454135,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19962372"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q1408961",
+      "name_de": "Festung Rosenberg",
+      "name_en": "Rosenberg Fortress",
+      "latitude": 50.244556,
+      "longitude": 11.327821,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1408961"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q2168640",
+      "name_de": "Festung Rothenberg",
+      "name_en": "Rothenberg Fortress",
+      "latitude": 49.5544,
+      "longitude": 11.36,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2168640"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q1408963",
+      "name_de": "Festung Rüsselsheim",
+      "name_en": "Festung Rüsselsheim",
+      "latitude": 49.9993,
+      "longitude": 8.41939,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1408963"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q96313206",
+      "name_de": "Festung Saarlouis",
+      "name_en": "Festung Saarlouis",
+      "latitude": 49.31679,
+      "longitude": 6.74891,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96313206"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q1408971",
+      "name_de": "Festung Senftenberg",
+      "name_en": "Schloss Senftenberg",
+      "latitude": 51.5164,
+      "longitude": 14.0067,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1408971"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q14906655",
+      "name_de": "Festung Spandau",
+      "name_en": "Festung Spandau",
+      "latitude": 52.537099,
+      "longitude": 13.201212,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14906655"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q1408977",
+      "name_de": "Festung Spantekow",
+      "name_en": "Spantekow Fortress",
+      "latitude": 53.7869,
+      "longitude": 13.5322,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1408977"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q14538492",
+      "name_de": "Festung Torgau",
+      "name_en": "Fortresses in Torgau",
+      "latitude": 51.5583,
+      "longitude": 13.0042,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14538492"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q98630475",
+      "name_de": "Festung Westtor 2 in Nürnberg (D-5-64-000-2129#5)",
+      "name_en": "Festung Westtor 2 in Nürnberg",
+      "latitude": 49.454145,
+      "longitude": 11.07066,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98630475"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q1423439",
+      "name_de": "Friedrichsburg",
+      "name_en": "Friedrichsburg",
+      "latitude": 49.4842,
+      "longitude": 8.46291,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1423439"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q1572351",
+      "name_de": "Landesfestung Ingolstadt",
+      "name_en": "Ingolstadt Fortress",
+      "latitude": 48.7678,
+      "longitude": 11.4162,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1572351"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q881352",
+      "name_de": "Mont Royal",
+      "name_en": "Fortress Mont Royal",
+      "latitude": 49.96472,
+      "longitude": 7.11694,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q881352"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q1949072",
+      "name_de": "Moselbatterie",
+      "name_en": "Moselbatterie",
+      "latitude": 50.3466,
+      "longitude": 7.56706,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1949072"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q1949086",
+      "name_de": "Moselflesche",
+      "name_en": "Moselflesche",
+      "latitude": 50.368,
+      "longitude": 7.58583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1949086"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q24574691",
+      "name_de": "Peenemünder Schanze",
+      "name_en": "Peenemünder Schanze",
+      "latitude": 54.13932,
+      "longitude": 13.75623,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24574691"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q16774273",
+      "name_de": "Prosnitzer Schanze",
+      "name_en": "Prosnitzer Schanze",
+      "latitude": 54.271502,
+      "longitude": 13.20075,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16774273"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q49517",
+      "name_de": "Sandsee",
+      "name_en": "Sandsee Castle",
+      "latitude": 49.115694,
+      "longitude": 11.02125,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49517"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q1439458",
+      "name_de": "Schwedenschanze",
+      "name_en": "Schwedenschanze",
+      "latitude": 54.3332,
+      "longitude": 13.0785,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1439458"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q1792518",
+      "name_de": "Schwedische Festung Gustavsburg",
+      "name_en": "Gustavsburg",
+      "latitude": 49.996,
+      "longitude": 8.31133,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1792518"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q561923",
+      "name_de": "Veste Coburg",
+      "name_en": "Veste Coburg",
+      "latitude": 50.2639,
+      "longitude": 10.9814,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q561923"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q317084",
+      "name_de": "Veste Oberhaus",
+      "name_en": "Veste Oberhaus",
+      "latitude": 48.577527,
+      "longitude": 13.471102,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q317084"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q2550963",
+      "name_de": "Wasserfestung Ziegenhain",
+      "name_en": "Ziegenhain Fortress",
+      "latitude": 50.911,
+      "longitude": 9.235,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2550963"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q2576336",
+      "name_de": "Wilhelmstein",
+      "name_en": "Wilhelmstein",
+      "latitude": 52.4603,
+      "longitude": 9.30778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2576336"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q49584",
+      "name_de": "Wülzburg",
+      "name_en": "Wülzburg",
+      "latitude": 49.025556,
+      "longitude": 11.005278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49584"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q206172",
+      "name_de": "Zitadelle Cyriaksburg",
+      "name_en": "Citadel Cyriaksburg",
+      "latitude": 50.9675,
+      "longitude": 11.0072,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q206172"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q206217",
+      "name_de": "Zitadelle Wesel",
+      "name_en": "Wesel citadel",
+      "latitude": 51.6517,
+      "longitude": 6.61528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q206217"
+    }
+  ],
+  "meta": {
+    "title": "Festungen in Deutschland / Fortresses in Germany - Kostenloser Download",
+    "description": "Festungen in Deutschland (Fortresses in Germany). Geolocated points sourced from Wikidata (instance of Q57831), located in Germany (Q183), each with a coordinate (P625). Enthält 59 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Festungen in Deutschland / Fortresses in Germany | ListBase",
+    "seo_description": "Herunterladen Festungen in Deutschland / Fortresses in Germany — 59 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 59 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

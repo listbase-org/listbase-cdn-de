@@ -1,0 +1,390 @@
+{
+  "id": "de-bremen-orte-postleitzahlen",
+  "name": "Orte mit Postleitzahlen — Bremen",
+  "title": "Orte mit Postleitzahlen — Bremen",
+  "description": "29 Orte in Bremen (DE-HB) mit Postleitzahlen und Telefonvorwahl. Quelle: florianchrometz/german-metadata (MIT).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_de",
+      "label": "Name De",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "postal_codes",
+      "label": "Postal Codes",
+      "type": "number"
+    },
+    {
+      "key": "postal_code_count",
+      "label": "Postal Code Count",
+      "type": "number"
+    },
+    {
+      "key": "primary_postal_code",
+      "label": "Primary Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_code",
+      "label": "Bundesland Code",
+      "type": "string"
+    },
+    {
+      "key": "phone_prefix",
+      "label": "Phone Prefix",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bahnhofsvorstadt",
+      "name_de": "Bahnhofsvorstadt",
+      "slug": "bahnhofsvorstadt",
+      "postal_codes": "28195",
+      "postal_code_count": 1,
+      "primary_postal_code": "28195",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "Bremen",
+      "name_de": "Bremen",
+      "slug": "bremen",
+      "postal_codes": "28197, 28199, 28201, 28203, 28205, 28207, 28209, 28211, 28215, 28259, 28277, 28279, 28307, 28309, 28325, 28327, 28329, 28355, 28359, 28717",
+      "postal_code_count": 20,
+      "primary_postal_code": "28197",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "Bremen (Borgfeld",
+      "name_de": "Bremen (Borgfeld",
+      "slug": "bremen-borgfeld",
+      "postal_codes": "28357",
+      "postal_code_count": 1,
+      "primary_postal_code": "28357",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "Bremen Altstadt",
+      "name_de": "Bremen Altstadt",
+      "slug": "bremen-altstadt",
+      "postal_codes": "28195",
+      "postal_code_count": 1,
+      "primary_postal_code": "28195",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "Bremen Oslebshausen",
+      "name_de": "Bremen Oslebshausen",
+      "slug": "bremen-oslebshausen",
+      "postal_codes": "28239",
+      "postal_code_count": 1,
+      "primary_postal_code": "28239",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "Bremen Walle",
+      "name_de": "Bremen Walle",
+      "slug": "bremen-walle",
+      "postal_codes": "28219",
+      "postal_code_count": 1,
+      "primary_postal_code": "28219",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "Bremen Westend",
+      "name_de": "Bremen Westend",
+      "slug": "bremen-westend",
+      "postal_codes": "28217",
+      "postal_code_count": 1,
+      "primary_postal_code": "28217",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "Bremen d. i. Aumund",
+      "name_de": "Bremen d. i. Aumund",
+      "slug": "bremen-d-i-aumund",
+      "postal_codes": "28755",
+      "postal_code_count": 1,
+      "primary_postal_code": "28755",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "Bremerhaven",
+      "name_de": "Bremerhaven",
+      "slug": "bremerhaven",
+      "postal_codes": "27568, 27570, 27572, 27574, 27576, 27578, 27580",
+      "postal_code_count": 7,
+      "primary_postal_code": "27568",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 471
+    },
+    {
+      "name": "Burgdamm (Ostteil) Mittelsbüren gehört auch dazu",
+      "name_de": "Burgdamm (Ostteil) Mittelsbüren gehört auch dazu",
+      "slug": "burgdamm-ostteil-mittelsbueren-gehoert-auch-dazu",
+      "postal_codes": "28719",
+      "postal_code_count": 1,
+      "primary_postal_code": "28719",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "Farge",
+      "name_de": "Farge",
+      "slug": "farge",
+      "postal_codes": "28777",
+      "postal_code_count": 1,
+      "primary_postal_code": "28777",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 471
+    },
+    {
+      "name": "Fähr",
+      "name_de": "Fähr",
+      "slug": "faehr",
+      "postal_codes": "28755",
+      "postal_code_count": 1,
+      "primary_postal_code": "28755",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "Gröpelingen",
+      "name_de": "Gröpelingen",
+      "slug": "groepelingen",
+      "postal_codes": "28237",
+      "postal_code_count": 1,
+      "primary_postal_code": "28237",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "Hammersbeck",
+      "name_de": "Hammersbeck",
+      "slug": "hammersbeck",
+      "postal_codes": "28755",
+      "postal_code_count": 1,
+      "primary_postal_code": "28755",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "I d Wischen)",
+      "name_de": "I d Wischen)",
+      "slug": "i-d-wischen",
+      "postal_codes": "28237",
+      "postal_code_count": 1,
+      "primary_postal_code": "28237",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "Lehesterdeich)",
+      "name_de": "Lehesterdeich)",
+      "slug": "lehesterdeich",
+      "postal_codes": "28357",
+      "postal_code_count": 1,
+      "primary_postal_code": "28357",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 471
+    },
+    {
+      "name": "Lindenhof (Häfen",
+      "name_de": "Lindenhof (Häfen",
+      "slug": "lindenhof-haefen",
+      "postal_codes": "28237",
+      "postal_code_count": 1,
+      "primary_postal_code": "28237",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "Lobbendorf",
+      "name_de": "Lobbendorf",
+      "slug": "lobbendorf",
+      "postal_codes": "28755",
+      "postal_code_count": 1,
+      "primary_postal_code": "28755",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "Lüssum-Bockhorn",
+      "name_de": "Lüssum-Bockhorn",
+      "slug": "luessum-bockhorn",
+      "postal_codes": "28779",
+      "postal_code_count": 1,
+      "primary_postal_code": "28779",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 471
+    },
+    {
+      "name": "Neu-Schwachhausen",
+      "name_de": "Neu-Schwachhausen",
+      "slug": "neu-schwachhausen",
+      "postal_codes": "28213",
+      "postal_code_count": 1,
+      "primary_postal_code": "28213",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "Ohlenhof",
+      "name_de": "Ohlenhof",
+      "slug": "ohlenhof",
+      "postal_codes": "28239",
+      "postal_code_count": 1,
+      "primary_postal_code": "28239",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "Rekum",
+      "name_de": "Rekum",
+      "slug": "rekum",
+      "postal_codes": "28777",
+      "postal_code_count": 1,
+      "primary_postal_code": "28777",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "Riensberg",
+      "name_de": "Riensberg",
+      "slug": "riensberg",
+      "postal_codes": "28213",
+      "postal_code_count": 1,
+      "primary_postal_code": "28213",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "St. Magnus",
+      "name_de": "St. Magnus",
+      "slug": "st-magnus",
+      "postal_codes": "28759",
+      "postal_code_count": 1,
+      "primary_postal_code": "28759",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "Steffensweg",
+      "name_de": "Steffensweg",
+      "slug": "steffensweg",
+      "postal_codes": "28217",
+      "postal_code_count": 1,
+      "primary_postal_code": "28217",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "Utbremen",
+      "name_de": "Utbremen",
+      "slug": "utbremen",
+      "postal_codes": "28217",
+      "postal_code_count": 1,
+      "primary_postal_code": "28217",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "d. i. Grohn",
+      "name_de": "d. i. Grohn",
+      "slug": "d-i-grohn",
+      "postal_codes": "28759",
+      "postal_code_count": 1,
+      "primary_postal_code": "28759",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "d. i. Vegesack",
+      "name_de": "d. i. Vegesack",
+      "slug": "d-i-vegesack",
+      "postal_codes": "28757",
+      "postal_code_count": 1,
+      "primary_postal_code": "28757",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    },
+    {
+      "name": "Überseehafen",
+      "name_de": "Überseehafen",
+      "slug": "ueberseehafen",
+      "postal_codes": "28217",
+      "postal_code_count": 1,
+      "primary_postal_code": "28217",
+      "bundesland": "Bremen",
+      "bundesland_code": "DE-HB",
+      "phone_prefix": 421
+    }
+  ],
+  "meta": {
+    "title": "Orte mit Postleitzahlen — Bremen - Kostenloser Download",
+    "description": "29 Orte in Bremen (DE-HB) mit Postleitzahlen und Telefonvorwahl. Quelle: florianchrometz/german-metadata (MIT). Enthält 29 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Orte mit Postleitzahlen — Bremen | ListBase",
+    "seo_description": "Herunterladen Orte mit Postleitzahlen — Bremen — 29 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 29 Datensätze / 9 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

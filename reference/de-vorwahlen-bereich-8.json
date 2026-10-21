@@ -1,0 +1,2698 @@
+{
+  "id": "de-vorwahlen-bereich-8",
+  "name": "Deutsche Vorwahlen — Bereich 8 (führende Ziffer 8)",
+  "title": "Deutsche Vorwahlen — Bereich 8 (führende Ziffer 8)",
+  "description": "Ortsnetzkennzahlen mit führender Ziffer 8 aus dem deutschen Nummerierungsbereich. Geografischer Schwerpunkt: München (089), Bayern-Süd (Oberbayern, Niederbayern, Schwaben). Insgesamt 442 Einträge.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 442,
+  "columns": [
+    {
+      "key": "vorwahl",
+      "label": "Vorwahl",
+      "type": "number"
+    },
+    {
+      "key": "ortsnetzkennzahl",
+      "label": "Ortsnetzkennzahl",
+      "type": "number"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "aktiv",
+      "label": "Aktiv",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "vorwahl": "089",
+      "ortsnetzkennzahl": 89,
+      "ort": "München",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0811",
+      "ortsnetzkennzahl": 811,
+      "ort": "Hallbergmoos",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0821",
+      "ortsnetzkennzahl": 821,
+      "ort": "Augsburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0831",
+      "ortsnetzkennzahl": 831,
+      "ort": "Kempten Allgäu",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0841",
+      "ortsnetzkennzahl": 841,
+      "ort": "Ingolstadt Donau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0851",
+      "ortsnetzkennzahl": 851,
+      "ort": "Passau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0861",
+      "ortsnetzkennzahl": 861,
+      "ort": "Traunstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0871",
+      "ortsnetzkennzahl": 871,
+      "ort": "Landshut",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0881",
+      "ortsnetzkennzahl": 881,
+      "ort": "Weilheim i OB",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08020",
+      "ortsnetzkennzahl": 8020,
+      "ort": "Weyarn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08021",
+      "ortsnetzkennzahl": 8021,
+      "ort": "Waakirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08022",
+      "ortsnetzkennzahl": 8022,
+      "ort": "Tegernsee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08023",
+      "ortsnetzkennzahl": 8023,
+      "ort": "Bayrischzell",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08024",
+      "ortsnetzkennzahl": 8024,
+      "ort": "Holzkirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08025",
+      "ortsnetzkennzahl": 8025,
+      "ort": "Miesbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08026",
+      "ortsnetzkennzahl": 8026,
+      "ort": "Hausham",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08027",
+      "ortsnetzkennzahl": 8027,
+      "ort": "Dietramszell",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08028",
+      "ortsnetzkennzahl": 8028,
+      "ort": "Fischbachau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08029",
+      "ortsnetzkennzahl": 8029,
+      "ort": "Kreuth b Tegernsee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08031",
+      "ortsnetzkennzahl": 8031,
+      "ort": "Rosenheim Oberbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08032",
+      "ortsnetzkennzahl": 8032,
+      "ort": "Rohrdorf Kr Rosenheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08033",
+      "ortsnetzkennzahl": 8033,
+      "ort": "Oberaudorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08034",
+      "ortsnetzkennzahl": 8034,
+      "ort": "Brannenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08035",
+      "ortsnetzkennzahl": 8035,
+      "ort": "Raubling",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08036",
+      "ortsnetzkennzahl": 8036,
+      "ort": "Stephanskirchen Simssee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08038",
+      "ortsnetzkennzahl": 8038,
+      "ort": "Vogtareuth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08039",
+      "ortsnetzkennzahl": 8039,
+      "ort": "Rott a Inn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08041",
+      "ortsnetzkennzahl": 8041,
+      "ort": "Bad Tölz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08042",
+      "ortsnetzkennzahl": 8042,
+      "ort": "Lenggries",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08043",
+      "ortsnetzkennzahl": 8043,
+      "ort": "Jachenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08045",
+      "ortsnetzkennzahl": 8045,
+      "ort": "Lenggries-Fall",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08046",
+      "ortsnetzkennzahl": 8046,
+      "ort": "Bad Heilbrunn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08051",
+      "ortsnetzkennzahl": 8051,
+      "ort": "Prien a Chiemsee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08052",
+      "ortsnetzkennzahl": 8052,
+      "ort": "Aschau i Chiemgau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08053",
+      "ortsnetzkennzahl": 8053,
+      "ort": "Bad Endorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08054",
+      "ortsnetzkennzahl": 8054,
+      "ort": "Breitbrunn a Chiemsee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08055",
+      "ortsnetzkennzahl": 8055,
+      "ort": "Halfing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08056",
+      "ortsnetzkennzahl": 8056,
+      "ort": "Eggstätt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08057",
+      "ortsnetzkennzahl": 8057,
+      "ort": "Aschau-Sachrang",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08061",
+      "ortsnetzkennzahl": 8061,
+      "ort": "Bad Aibling",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08062",
+      "ortsnetzkennzahl": 8062,
+      "ort": "Bruckmühl Mangfall",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08063",
+      "ortsnetzkennzahl": 8063,
+      "ort": "Feldkirchen-Westerham",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08064",
+      "ortsnetzkennzahl": 8064,
+      "ort": "Au b Bad Aibling",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08065",
+      "ortsnetzkennzahl": 8065,
+      "ort": "Tuntenhausen-Schönau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08066",
+      "ortsnetzkennzahl": 8066,
+      "ort": "Bad Feilnbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08067",
+      "ortsnetzkennzahl": 8067,
+      "ort": "Tuntenhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08071",
+      "ortsnetzkennzahl": 8071,
+      "ort": "Wasserburg a Inn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08072",
+      "ortsnetzkennzahl": 8072,
+      "ort": "Haag i OB",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08073",
+      "ortsnetzkennzahl": 8073,
+      "ort": "Gars a Inn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08074",
+      "ortsnetzkennzahl": 8074,
+      "ort": "Schnaitsee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08075",
+      "ortsnetzkennzahl": 8075,
+      "ort": "Amerang",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08076",
+      "ortsnetzkennzahl": 8076,
+      "ort": "Pfaffing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08081",
+      "ortsnetzkennzahl": 8081,
+      "ort": "Dorfen Stadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08082",
+      "ortsnetzkennzahl": 8082,
+      "ort": "Schwindegg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08083",
+      "ortsnetzkennzahl": 8083,
+      "ort": "Isen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08084",
+      "ortsnetzkennzahl": 8084,
+      "ort": "Taufkirchen Vils",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08085",
+      "ortsnetzkennzahl": 8085,
+      "ort": "Sankt Wolfgang",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08086",
+      "ortsnetzkennzahl": 8086,
+      "ort": "Buchbach Oberbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08091",
+      "ortsnetzkennzahl": 8091,
+      "ort": "Kirchseeon",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08092",
+      "ortsnetzkennzahl": 8092,
+      "ort": "Grafing b München",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08093",
+      "ortsnetzkennzahl": 8093,
+      "ort": "Glonn Kr Ebersberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08094",
+      "ortsnetzkennzahl": 8094,
+      "ort": "Steinhöring",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08095",
+      "ortsnetzkennzahl": 8095,
+      "ort": "Aying",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08102",
+      "ortsnetzkennzahl": 8102,
+      "ort": "Höhenkirchen-Siegertsbrunn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08104",
+      "ortsnetzkennzahl": 8104,
+      "ort": "Sauerlach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08105",
+      "ortsnetzkennzahl": 8105,
+      "ort": "Gilching",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08106",
+      "ortsnetzkennzahl": 8106,
+      "ort": "Vaterstetten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08121",
+      "ortsnetzkennzahl": 8121,
+      "ort": "Markt Schwaben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08122",
+      "ortsnetzkennzahl": 8122,
+      "ort": "Erding",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08123",
+      "ortsnetzkennzahl": 8123,
+      "ort": "Moosinning",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08124",
+      "ortsnetzkennzahl": 8124,
+      "ort": "Forstern Oberbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08131",
+      "ortsnetzkennzahl": 8131,
+      "ort": "Dachau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08133",
+      "ortsnetzkennzahl": 8133,
+      "ort": "Haimhausen Oberbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08134",
+      "ortsnetzkennzahl": 8134,
+      "ort": "Odelzhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08135",
+      "ortsnetzkennzahl": 8135,
+      "ort": "Sulzemoos",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08136",
+      "ortsnetzkennzahl": 8136,
+      "ort": "Markt Indersdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08137",
+      "ortsnetzkennzahl": 8137,
+      "ort": "Petershausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08138",
+      "ortsnetzkennzahl": 8138,
+      "ort": "Schwabhausen b Dachau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08139",
+      "ortsnetzkennzahl": 8139,
+      "ort": "Röhrmoos",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08141",
+      "ortsnetzkennzahl": 8141,
+      "ort": "Fürstenfeldbruck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08142",
+      "ortsnetzkennzahl": 8142,
+      "ort": "Olching",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08143",
+      "ortsnetzkennzahl": 8143,
+      "ort": "Inning a Ammersee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08144",
+      "ortsnetzkennzahl": 8144,
+      "ort": "Grafrath",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08145",
+      "ortsnetzkennzahl": 8145,
+      "ort": "Mammendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08146",
+      "ortsnetzkennzahl": 8146,
+      "ort": "Moorenweis",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08151",
+      "ortsnetzkennzahl": 8151,
+      "ort": "Starnberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08152",
+      "ortsnetzkennzahl": 8152,
+      "ort": "Herrsching a Ammersee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08153",
+      "ortsnetzkennzahl": 8153,
+      "ort": "Wessling",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08157",
+      "ortsnetzkennzahl": 8157,
+      "ort": "Feldafing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08158",
+      "ortsnetzkennzahl": 8158,
+      "ort": "Tutzing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08161",
+      "ortsnetzkennzahl": 8161,
+      "ort": "Freising",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08165",
+      "ortsnetzkennzahl": 8165,
+      "ort": "Neufahrn b Freising",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08166",
+      "ortsnetzkennzahl": 8166,
+      "ort": "Allershausen Oberbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08167",
+      "ortsnetzkennzahl": 8167,
+      "ort": "Zolling",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08168",
+      "ortsnetzkennzahl": 8168,
+      "ort": "Attenkirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08170",
+      "ortsnetzkennzahl": 8170,
+      "ort": "Straßlach-Dingharting",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08171",
+      "ortsnetzkennzahl": 8171,
+      "ort": "Wolfratshausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08176",
+      "ortsnetzkennzahl": 8176,
+      "ort": "Egling b Wolfratshausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08177",
+      "ortsnetzkennzahl": 8177,
+      "ort": "Münsing Starnberger See",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08178",
+      "ortsnetzkennzahl": 8178,
+      "ort": "Icking",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08179",
+      "ortsnetzkennzahl": 8179,
+      "ort": "Eurasburg a d Loisach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08191",
+      "ortsnetzkennzahl": 8191,
+      "ort": "Landsberg a Lech",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08192",
+      "ortsnetzkennzahl": 8192,
+      "ort": "Schondorf a Ammersee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08193",
+      "ortsnetzkennzahl": 8193,
+      "ort": "Geltendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08194",
+      "ortsnetzkennzahl": 8194,
+      "ort": "Vilgertshofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08195",
+      "ortsnetzkennzahl": 8195,
+      "ort": "Weil Kr Landsberg a Lech",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08196",
+      "ortsnetzkennzahl": 8196,
+      "ort": "Pürgen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08202",
+      "ortsnetzkennzahl": 8202,
+      "ort": "Althegnenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08203",
+      "ortsnetzkennzahl": 8203,
+      "ort": "Grossaitingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08204",
+      "ortsnetzkennzahl": 8204,
+      "ort": "Mickhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08205",
+      "ortsnetzkennzahl": 8205,
+      "ort": "Dasing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08206",
+      "ortsnetzkennzahl": 8206,
+      "ort": "Egling a d Paar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08207",
+      "ortsnetzkennzahl": 8207,
+      "ort": "Affing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08208",
+      "ortsnetzkennzahl": 8208,
+      "ort": "Eurasburg b Augsburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08221",
+      "ortsnetzkennzahl": 8221,
+      "ort": "Günzburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08222",
+      "ortsnetzkennzahl": 8222,
+      "ort": "Burgau Schwab",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08223",
+      "ortsnetzkennzahl": 8223,
+      "ort": "Ichenhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08224",
+      "ortsnetzkennzahl": 8224,
+      "ort": "Offingen Donau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08225",
+      "ortsnetzkennzahl": 8225,
+      "ort": "Jettingen-Scheppach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08226",
+      "ortsnetzkennzahl": 8226,
+      "ort": "Bibertal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08230",
+      "ortsnetzkennzahl": 8230,
+      "ort": "Gablingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08231",
+      "ortsnetzkennzahl": 8231,
+      "ort": "Königsbrunn b Augsburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08232",
+      "ortsnetzkennzahl": 8232,
+      "ort": "Schwabmünchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08233",
+      "ortsnetzkennzahl": 8233,
+      "ort": "Kissing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08234",
+      "ortsnetzkennzahl": 8234,
+      "ort": "Bobingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08236",
+      "ortsnetzkennzahl": 8236,
+      "ort": "Fischach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08237",
+      "ortsnetzkennzahl": 8237,
+      "ort": "Aindling",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08238",
+      "ortsnetzkennzahl": 8238,
+      "ort": "Gessertshausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08239",
+      "ortsnetzkennzahl": 8239,
+      "ort": "Langenneufnach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08241",
+      "ortsnetzkennzahl": 8241,
+      "ort": "Buchloe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08243",
+      "ortsnetzkennzahl": 8243,
+      "ort": "Fuchstal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08245",
+      "ortsnetzkennzahl": 8245,
+      "ort": "Türkheim Wertach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08246",
+      "ortsnetzkennzahl": 8246,
+      "ort": "Waal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08247",
+      "ortsnetzkennzahl": 8247,
+      "ort": "Bad Wörishofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08248",
+      "ortsnetzkennzahl": 8248,
+      "ort": "Lamerdingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08249",
+      "ortsnetzkennzahl": 8249,
+      "ort": "Ettringen Wertach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08250",
+      "ortsnetzkennzahl": 8250,
+      "ort": "Hilgertshausen-Tandern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08251",
+      "ortsnetzkennzahl": 8251,
+      "ort": "Aichach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08252",
+      "ortsnetzkennzahl": 8252,
+      "ort": "Schrobenhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08253",
+      "ortsnetzkennzahl": 8253,
+      "ort": "Pöttmes",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08254",
+      "ortsnetzkennzahl": 8254,
+      "ort": "Altomünster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08257",
+      "ortsnetzkennzahl": 8257,
+      "ort": "Inchenhofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08258",
+      "ortsnetzkennzahl": 8258,
+      "ort": "Sielenbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08259",
+      "ortsnetzkennzahl": 8259,
+      "ort": "Schiltberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08261",
+      "ortsnetzkennzahl": 8261,
+      "ort": "Mindelheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08262",
+      "ortsnetzkennzahl": 8262,
+      "ort": "Mittelneufnach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08263",
+      "ortsnetzkennzahl": 8263,
+      "ort": "Breitenbrunn Schwab",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08265",
+      "ortsnetzkennzahl": 8265,
+      "ort": "Pfaffenhausen Schwab",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08266",
+      "ortsnetzkennzahl": 8266,
+      "ort": "Kirchheim i Schw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08267",
+      "ortsnetzkennzahl": 8267,
+      "ort": "Dirlewang",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08268",
+      "ortsnetzkennzahl": 8268,
+      "ort": "Tussenhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08269",
+      "ortsnetzkennzahl": 8269,
+      "ort": "Unteregg b Mindelheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08271",
+      "ortsnetzkennzahl": 8271,
+      "ort": "Meitingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08272",
+      "ortsnetzkennzahl": 8272,
+      "ort": "Wertingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08273",
+      "ortsnetzkennzahl": 8273,
+      "ort": "Nordendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08274",
+      "ortsnetzkennzahl": 8274,
+      "ort": "Buttenwiesen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08276",
+      "ortsnetzkennzahl": 8276,
+      "ort": "Baar Schwaben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08281",
+      "ortsnetzkennzahl": 8281,
+      "ort": "Thannhausen Schwab",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08282",
+      "ortsnetzkennzahl": 8282,
+      "ort": "Krumbach Schwaben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08283",
+      "ortsnetzkennzahl": 8283,
+      "ort": "Neuburg a d Kammel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08284",
+      "ortsnetzkennzahl": 8284,
+      "ort": "Ziemetshausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08285",
+      "ortsnetzkennzahl": 8285,
+      "ort": "Burtenbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08291",
+      "ortsnetzkennzahl": 8291,
+      "ort": "Zusmarshausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08292",
+      "ortsnetzkennzahl": 8292,
+      "ort": "Dinkelscherben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08293",
+      "ortsnetzkennzahl": 8293,
+      "ort": "Welden b Augsburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08294",
+      "ortsnetzkennzahl": 8294,
+      "ort": "Horgau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08295",
+      "ortsnetzkennzahl": 8295,
+      "ort": "Altenmünster Schwab",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08296",
+      "ortsnetzkennzahl": 8296,
+      "ort": "Villenbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08302",
+      "ortsnetzkennzahl": 8302,
+      "ort": "Görisried",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08303",
+      "ortsnetzkennzahl": 8303,
+      "ort": "Waltenhofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08304",
+      "ortsnetzkennzahl": 8304,
+      "ort": "Wildpoldsried",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08306",
+      "ortsnetzkennzahl": 8306,
+      "ort": "Ronsberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08320",
+      "ortsnetzkennzahl": 8320,
+      "ort": "Missen-Wilhams",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08321",
+      "ortsnetzkennzahl": 8321,
+      "ort": "Sonthofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08322",
+      "ortsnetzkennzahl": 8322,
+      "ort": "Oberstdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08323",
+      "ortsnetzkennzahl": 8323,
+      "ort": "Immenstadt i Allgäu",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08324",
+      "ortsnetzkennzahl": 8324,
+      "ort": "Hindelang",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08325",
+      "ortsnetzkennzahl": 8325,
+      "ort": "Oberstaufen-Thalkirchdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08326",
+      "ortsnetzkennzahl": 8326,
+      "ort": "Fischen i Allgäu",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08327",
+      "ortsnetzkennzahl": 8327,
+      "ort": "Rettenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08328",
+      "ortsnetzkennzahl": 8328,
+      "ort": "Balderschwang",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08330",
+      "ortsnetzkennzahl": 8330,
+      "ort": "Legau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08331",
+      "ortsnetzkennzahl": 8331,
+      "ort": "Memmingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08332",
+      "ortsnetzkennzahl": 8332,
+      "ort": "Ottobeuren",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08333",
+      "ortsnetzkennzahl": 8333,
+      "ort": "Babenhausen Schwab",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08334",
+      "ortsnetzkennzahl": 8334,
+      "ort": "Bad Grönenbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08335",
+      "ortsnetzkennzahl": 8335,
+      "ort": "Fellheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08336",
+      "ortsnetzkennzahl": 8336,
+      "ort": "Erkheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08337",
+      "ortsnetzkennzahl": 8337,
+      "ort": "Altenstadt Iller",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08338",
+      "ortsnetzkennzahl": 8338,
+      "ort": "Böhen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08340",
+      "ortsnetzkennzahl": 8340,
+      "ort": "Baisweil",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08341",
+      "ortsnetzkennzahl": 8341,
+      "ort": "Kaufbeuren",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08342",
+      "ortsnetzkennzahl": 8342,
+      "ort": "Marktoberdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08343",
+      "ortsnetzkennzahl": 8343,
+      "ort": "Aitrang",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08344",
+      "ortsnetzkennzahl": 8344,
+      "ort": "Westendorf b Kaufbeuren",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08345",
+      "ortsnetzkennzahl": 8345,
+      "ort": "Stöttwang",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08346",
+      "ortsnetzkennzahl": 8346,
+      "ort": "Pforzen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08347",
+      "ortsnetzkennzahl": 8347,
+      "ort": "Friesenried",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08348",
+      "ortsnetzkennzahl": 8348,
+      "ort": "Bidingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08349",
+      "ortsnetzkennzahl": 8349,
+      "ort": "Stötten a Auerberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08361",
+      "ortsnetzkennzahl": 8361,
+      "ort": "Nesselwang",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08362",
+      "ortsnetzkennzahl": 8362,
+      "ort": "Füssen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08363",
+      "ortsnetzkennzahl": 8363,
+      "ort": "Pfronten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08364",
+      "ortsnetzkennzahl": 8364,
+      "ort": "Seeg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08365",
+      "ortsnetzkennzahl": 8365,
+      "ort": "Wertach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08366",
+      "ortsnetzkennzahl": 8366,
+      "ort": "Oy-Mittelberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08367",
+      "ortsnetzkennzahl": 8367,
+      "ort": "Roßhaupten Forggensee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08368",
+      "ortsnetzkennzahl": 8368,
+      "ort": "Halblech",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08369",
+      "ortsnetzkennzahl": 8369,
+      "ort": "Rückholz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08370",
+      "ortsnetzkennzahl": 8370,
+      "ort": "Wiggensbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08372",
+      "ortsnetzkennzahl": 8372,
+      "ort": "Obergünzburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08373",
+      "ortsnetzkennzahl": 8373,
+      "ort": "Altusried",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08374",
+      "ortsnetzkennzahl": 8374,
+      "ort": "Dietmannsried",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08375",
+      "ortsnetzkennzahl": 8375,
+      "ort": "Weitnau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08376",
+      "ortsnetzkennzahl": 8376,
+      "ort": "Sulzberg Allgäu",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08377",
+      "ortsnetzkennzahl": 8377,
+      "ort": "Unterthingau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08378",
+      "ortsnetzkennzahl": 8378,
+      "ort": "Buchenberg b Kempten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08379",
+      "ortsnetzkennzahl": 8379,
+      "ort": "Waltenhofen-Oberdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08380",
+      "ortsnetzkennzahl": 8380,
+      "ort": "Achberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08381",
+      "ortsnetzkennzahl": 8381,
+      "ort": "Lindenberg i Allgäu",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08382",
+      "ortsnetzkennzahl": 8382,
+      "ort": "Lindau Bodensee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08383",
+      "ortsnetzkennzahl": 8383,
+      "ort": "Grünenbach Allgäu",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08384",
+      "ortsnetzkennzahl": 8384,
+      "ort": "Röthenbach Allgäu",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08385",
+      "ortsnetzkennzahl": 8385,
+      "ort": "Hergatz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08386",
+      "ortsnetzkennzahl": 8386,
+      "ort": "Oberstaufen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08387",
+      "ortsnetzkennzahl": 8387,
+      "ort": "Weiler-Simmerberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08388",
+      "ortsnetzkennzahl": 8388,
+      "ort": "Hergensweiler",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08389",
+      "ortsnetzkennzahl": 8389,
+      "ort": "Weissensberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08392",
+      "ortsnetzkennzahl": 8392,
+      "ort": "Markt Rettenbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08393",
+      "ortsnetzkennzahl": 8393,
+      "ort": "Holzgünz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08394",
+      "ortsnetzkennzahl": 8394,
+      "ort": "Lautrach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08395",
+      "ortsnetzkennzahl": 8395,
+      "ort": "Tannheim Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08402",
+      "ortsnetzkennzahl": 8402,
+      "ort": "Münchsmünster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08403",
+      "ortsnetzkennzahl": 8403,
+      "ort": "Pförring",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08404",
+      "ortsnetzkennzahl": 8404,
+      "ort": "Oberdolling",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08405",
+      "ortsnetzkennzahl": 8405,
+      "ort": "Stammham b Ingolstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08406",
+      "ortsnetzkennzahl": 8406,
+      "ort": "Böhmfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08407",
+      "ortsnetzkennzahl": 8407,
+      "ort": "Grossmehring",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08421",
+      "ortsnetzkennzahl": 8421,
+      "ort": "Eichstätt Bay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08422",
+      "ortsnetzkennzahl": 8422,
+      "ort": "Dollnstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08423",
+      "ortsnetzkennzahl": 8423,
+      "ort": "Titting",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08424",
+      "ortsnetzkennzahl": 8424,
+      "ort": "Nassenfels",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08426",
+      "ortsnetzkennzahl": 8426,
+      "ort": "Walting Kr Eichstätt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08427",
+      "ortsnetzkennzahl": 8427,
+      "ort": "Wellheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08431",
+      "ortsnetzkennzahl": 8431,
+      "ort": "Neuburg a d Donau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08432",
+      "ortsnetzkennzahl": 8432,
+      "ort": "Burgheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08433",
+      "ortsnetzkennzahl": 8433,
+      "ort": "Königsmoos",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08434",
+      "ortsnetzkennzahl": 8434,
+      "ort": "Rennertshofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08435",
+      "ortsnetzkennzahl": 8435,
+      "ort": "Ehekirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08441",
+      "ortsnetzkennzahl": 8441,
+      "ort": "Pfaffenhofen a d Ilm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08442",
+      "ortsnetzkennzahl": 8442,
+      "ort": "Wolnzach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08443",
+      "ortsnetzkennzahl": 8443,
+      "ort": "Hohenwart Paar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08444",
+      "ortsnetzkennzahl": 8444,
+      "ort": "Schweitenkirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08445",
+      "ortsnetzkennzahl": 8445,
+      "ort": "Gerolsbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08446",
+      "ortsnetzkennzahl": 8446,
+      "ort": "Pörnbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08450",
+      "ortsnetzkennzahl": 8450,
+      "ort": "Ingolstadt-Zuchering",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08452",
+      "ortsnetzkennzahl": 8452,
+      "ort": "Geisenfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08453",
+      "ortsnetzkennzahl": 8453,
+      "ort": "Reichertshofen Oberbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08454",
+      "ortsnetzkennzahl": 8454,
+      "ort": "Karlshuld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08456",
+      "ortsnetzkennzahl": 8456,
+      "ort": "Lenting",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08457",
+      "ortsnetzkennzahl": 8457,
+      "ort": "Vohburg a d Donau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08458",
+      "ortsnetzkennzahl": 8458,
+      "ort": "Gaimersheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08459",
+      "ortsnetzkennzahl": 8459,
+      "ort": "Manching",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08460",
+      "ortsnetzkennzahl": 8460,
+      "ort": "Berching-Holnstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08461",
+      "ortsnetzkennzahl": 8461,
+      "ort": "Beilngries",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08462",
+      "ortsnetzkennzahl": 8462,
+      "ort": "Berching",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08463",
+      "ortsnetzkennzahl": 8463,
+      "ort": "Greding",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08464",
+      "ortsnetzkennzahl": 8464,
+      "ort": "Dietfurt a d Altmühl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08465",
+      "ortsnetzkennzahl": 8465,
+      "ort": "Kipfenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08466",
+      "ortsnetzkennzahl": 8466,
+      "ort": "Denkendorf Oberbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08467",
+      "ortsnetzkennzahl": 8467,
+      "ort": "Kinding",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08468",
+      "ortsnetzkennzahl": 8468,
+      "ort": "Altmannstein-Pondorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08469",
+      "ortsnetzkennzahl": 8469,
+      "ort": "Freystadt-Burggriesbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08501",
+      "ortsnetzkennzahl": 8501,
+      "ort": "Thyrnau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08502",
+      "ortsnetzkennzahl": 8502,
+      "ort": "Fürstenzell",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08503",
+      "ortsnetzkennzahl": 8503,
+      "ort": "Neuhaus a Inn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08504",
+      "ortsnetzkennzahl": 8504,
+      "ort": "Tittling",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08505",
+      "ortsnetzkennzahl": 8505,
+      "ort": "Hutthurm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08506",
+      "ortsnetzkennzahl": 8506,
+      "ort": "Bad Höhenstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08507",
+      "ortsnetzkennzahl": 8507,
+      "ort": "Neuburg a Inn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08509",
+      "ortsnetzkennzahl": 8509,
+      "ort": "Ruderting",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08531",
+      "ortsnetzkennzahl": 8531,
+      "ort": "Pocking",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08532",
+      "ortsnetzkennzahl": 8532,
+      "ort": "Griesbach i Rottal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08533",
+      "ortsnetzkennzahl": 8533,
+      "ort": "Rotthalmünster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08534",
+      "ortsnetzkennzahl": 8534,
+      "ort": "Tettenweis",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08535",
+      "ortsnetzkennzahl": 8535,
+      "ort": "Haarbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08536",
+      "ortsnetzkennzahl": 8536,
+      "ort": "Kößlarn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08537",
+      "ortsnetzkennzahl": 8537,
+      "ort": "Bad Füssing-Aigen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08538",
+      "ortsnetzkennzahl": 8538,
+      "ort": "Pocking-Hartkirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08541",
+      "ortsnetzkennzahl": 8541,
+      "ort": "Vilshofen Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08542",
+      "ortsnetzkennzahl": 8542,
+      "ort": "Ortenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08543",
+      "ortsnetzkennzahl": 8543,
+      "ort": "Aidenbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08544",
+      "ortsnetzkennzahl": 8544,
+      "ort": "Eging a See",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08545",
+      "ortsnetzkennzahl": 8545,
+      "ort": "Hofkirchen Bay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08546",
+      "ortsnetzkennzahl": 8546,
+      "ort": "Windorf-Otterskirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08547",
+      "ortsnetzkennzahl": 8547,
+      "ort": "Osterhofen-Gergweis",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08548",
+      "ortsnetzkennzahl": 8548,
+      "ort": "Vilshofen-Sandbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08549",
+      "ortsnetzkennzahl": 8549,
+      "ort": "Vilshofen-Pleinting",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08550",
+      "ortsnetzkennzahl": 8550,
+      "ort": "Philippsreut",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08551",
+      "ortsnetzkennzahl": 8551,
+      "ort": "Freyung",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08552",
+      "ortsnetzkennzahl": 8552,
+      "ort": "Grafenau Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08553",
+      "ortsnetzkennzahl": 8553,
+      "ort": "Spiegelau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08554",
+      "ortsnetzkennzahl": 8554,
+      "ort": "Schönberg Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08555",
+      "ortsnetzkennzahl": 8555,
+      "ort": "Perlesreut",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08556",
+      "ortsnetzkennzahl": 8556,
+      "ort": "Haidmühle",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08557",
+      "ortsnetzkennzahl": 8557,
+      "ort": "Mauth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08558",
+      "ortsnetzkennzahl": 8558,
+      "ort": "Hohenau Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08561",
+      "ortsnetzkennzahl": 8561,
+      "ort": "Pfarrkirchen Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08562",
+      "ortsnetzkennzahl": 8562,
+      "ort": "Triftern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08563",
+      "ortsnetzkennzahl": 8563,
+      "ort": "Bad Birnbach Rottal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08564",
+      "ortsnetzkennzahl": 8564,
+      "ort": "Johanniskirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08565",
+      "ortsnetzkennzahl": 8565,
+      "ort": "Dietersburg-Baumgarten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08571",
+      "ortsnetzkennzahl": 8571,
+      "ort": "Simbach a Inn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08572",
+      "ortsnetzkennzahl": 8572,
+      "ort": "Tann Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08573",
+      "ortsnetzkennzahl": 8573,
+      "ort": "Ering",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08574",
+      "ortsnetzkennzahl": 8574,
+      "ort": "Wittibreut",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08581",
+      "ortsnetzkennzahl": 8581,
+      "ort": "Waldkirchen Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08582",
+      "ortsnetzkennzahl": 8582,
+      "ort": "Röhrnbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08583",
+      "ortsnetzkennzahl": 8583,
+      "ort": "Neureichenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08584",
+      "ortsnetzkennzahl": 8584,
+      "ort": "Breitenberg Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08585",
+      "ortsnetzkennzahl": 8585,
+      "ort": "Grainet",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08586",
+      "ortsnetzkennzahl": 8586,
+      "ort": "Hauzenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08591",
+      "ortsnetzkennzahl": 8591,
+      "ort": "Obernzell",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08592",
+      "ortsnetzkennzahl": 8592,
+      "ort": "Wegscheid Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08593",
+      "ortsnetzkennzahl": 8593,
+      "ort": "Untergriesbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08621",
+      "ortsnetzkennzahl": 8621,
+      "ort": "Trostberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08622",
+      "ortsnetzkennzahl": 8622,
+      "ort": "Tacherting- Peterskirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08623",
+      "ortsnetzkennzahl": 8623,
+      "ort": "Kirchweidach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08624",
+      "ortsnetzkennzahl": 8624,
+      "ort": "Obing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08628",
+      "ortsnetzkennzahl": 8628,
+      "ort": "Kienberg Oberbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08629",
+      "ortsnetzkennzahl": 8629,
+      "ort": "Palling",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08630",
+      "ortsnetzkennzahl": 8630,
+      "ort": "Oberneukirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08631",
+      "ortsnetzkennzahl": 8631,
+      "ort": "Mühldorf a Inn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08633",
+      "ortsnetzkennzahl": 8633,
+      "ort": "Tüßling",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08634",
+      "ortsnetzkennzahl": 8634,
+      "ort": "Garching a d Alz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08635",
+      "ortsnetzkennzahl": 8635,
+      "ort": "Pleiskirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08636",
+      "ortsnetzkennzahl": 8636,
+      "ort": "Ampfing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08637",
+      "ortsnetzkennzahl": 8637,
+      "ort": "Lohkirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08638",
+      "ortsnetzkennzahl": 8638,
+      "ort": "Waldkraiburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08639",
+      "ortsnetzkennzahl": 8639,
+      "ort": "Neumarkt-Sankt Veit",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08640",
+      "ortsnetzkennzahl": 8640,
+      "ort": "Reit Im Winkl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08641",
+      "ortsnetzkennzahl": 8641,
+      "ort": "Grassau Kr Traunstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08642",
+      "ortsnetzkennzahl": 8642,
+      "ort": "Übersee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08649",
+      "ortsnetzkennzahl": 8649,
+      "ort": "Schleching",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08650",
+      "ortsnetzkennzahl": 8650,
+      "ort": "Marktschellenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08651",
+      "ortsnetzkennzahl": 8651,
+      "ort": "Bad Reichenhall",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08652",
+      "ortsnetzkennzahl": 8652,
+      "ort": "Berchtesgaden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08654",
+      "ortsnetzkennzahl": 8654,
+      "ort": "Freilassing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08656",
+      "ortsnetzkennzahl": 8656,
+      "ort": "Anger",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08657",
+      "ortsnetzkennzahl": 8657,
+      "ort": "Ramsau b Berchtesgaden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08661",
+      "ortsnetzkennzahl": 8661,
+      "ort": "Grabenstätt Chiemsee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08662",
+      "ortsnetzkennzahl": 8662,
+      "ort": "Siegsdorf Kr Traunstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08663",
+      "ortsnetzkennzahl": 8663,
+      "ort": "Ruhpolding",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08664",
+      "ortsnetzkennzahl": 8664,
+      "ort": "Chieming",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08665",
+      "ortsnetzkennzahl": 8665,
+      "ort": "Inzell",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08666",
+      "ortsnetzkennzahl": 8666,
+      "ort": "Teisendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08667",
+      "ortsnetzkennzahl": 8667,
+      "ort": "Seeon-Seebruck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08669",
+      "ortsnetzkennzahl": 8669,
+      "ort": "Traunreut",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08670",
+      "ortsnetzkennzahl": 8670,
+      "ort": "Reischach Kr Altötting",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08671",
+      "ortsnetzkennzahl": 8671,
+      "ort": "Altötting",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08677",
+      "ortsnetzkennzahl": 8677,
+      "ort": "Burghausen Salzach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08678",
+      "ortsnetzkennzahl": 8678,
+      "ort": "Marktl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08679",
+      "ortsnetzkennzahl": 8679,
+      "ort": "Burgkirchen a d Alz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08681",
+      "ortsnetzkennzahl": 8681,
+      "ort": "Waging a See",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08682",
+      "ortsnetzkennzahl": 8682,
+      "ort": "Laufen Salzach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08683",
+      "ortsnetzkennzahl": 8683,
+      "ort": "Tittmoning",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08684",
+      "ortsnetzkennzahl": 8684,
+      "ort": "Fridolfing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08685",
+      "ortsnetzkennzahl": 8685,
+      "ort": "Kirchanschöring",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08686",
+      "ortsnetzkennzahl": 8686,
+      "ort": "Petting",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08687",
+      "ortsnetzkennzahl": 8687,
+      "ort": "Taching-Tengling",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08702",
+      "ortsnetzkennzahl": 8702,
+      "ort": "Wörth a d Isar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08703",
+      "ortsnetzkennzahl": 8703,
+      "ort": "Essenbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08704",
+      "ortsnetzkennzahl": 8704,
+      "ort": "Altdorf-Pfettrach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08705",
+      "ortsnetzkennzahl": 8705,
+      "ort": "Altfraunhofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08706",
+      "ortsnetzkennzahl": 8706,
+      "ort": "Vilsheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08707",
+      "ortsnetzkennzahl": 8707,
+      "ort": "Adlkofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08708",
+      "ortsnetzkennzahl": 8708,
+      "ort": "Weihmichl-Unterneuhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08709",
+      "ortsnetzkennzahl": 8709,
+      "ort": "Eching Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08721",
+      "ortsnetzkennzahl": 8721,
+      "ort": "Eggenfelden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08722",
+      "ortsnetzkennzahl": 8722,
+      "ort": "Gangkofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08723",
+      "ortsnetzkennzahl": 8723,
+      "ort": "Arnstorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08724",
+      "ortsnetzkennzahl": 8724,
+      "ort": "Massing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08725",
+      "ortsnetzkennzahl": 8725,
+      "ort": "Wurmannsquick",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08726",
+      "ortsnetzkennzahl": 8726,
+      "ort": "Schönau Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08727",
+      "ortsnetzkennzahl": 8727,
+      "ort": "Falkenberg Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08728",
+      "ortsnetzkennzahl": 8728,
+      "ort": "Geratskirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08731",
+      "ortsnetzkennzahl": 8731,
+      "ort": "Dingolfing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08732",
+      "ortsnetzkennzahl": 8732,
+      "ort": "Frontenhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08733",
+      "ortsnetzkennzahl": 8733,
+      "ort": "Mengkofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08734",
+      "ortsnetzkennzahl": 8734,
+      "ort": "Reisbach Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08735",
+      "ortsnetzkennzahl": 8735,
+      "ort": "Gangkofen-Kollbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08741",
+      "ortsnetzkennzahl": 8741,
+      "ort": "Vilsbiburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08742",
+      "ortsnetzkennzahl": 8742,
+      "ort": "Velden Vils",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08743",
+      "ortsnetzkennzahl": 8743,
+      "ort": "Geisenhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08744",
+      "ortsnetzkennzahl": 8744,
+      "ort": "Gerzen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08745",
+      "ortsnetzkennzahl": 8745,
+      "ort": "Bodenkirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08751",
+      "ortsnetzkennzahl": 8751,
+      "ort": "Mainburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08752",
+      "ortsnetzkennzahl": 8752,
+      "ort": "Au i d Hallertau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08753",
+      "ortsnetzkennzahl": 8753,
+      "ort": "Elsendorf Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08754",
+      "ortsnetzkennzahl": 8754,
+      "ort": "Volkenschwand",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08756",
+      "ortsnetzkennzahl": 8756,
+      "ort": "Nandlstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08761",
+      "ortsnetzkennzahl": 8761,
+      "ort": "Moosburg a d Isar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08762",
+      "ortsnetzkennzahl": 8762,
+      "ort": "Wartenberg Oberbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08764",
+      "ortsnetzkennzahl": 8764,
+      "ort": "Mauern Kr Freising",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08765",
+      "ortsnetzkennzahl": 8765,
+      "ort": "Bruckberg Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08766",
+      "ortsnetzkennzahl": 8766,
+      "ort": "Gammelsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08771",
+      "ortsnetzkennzahl": 8771,
+      "ort": "Ergoldsbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08772",
+      "ortsnetzkennzahl": 8772,
+      "ort": "Mallersdorf-Pfaffenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08773",
+      "ortsnetzkennzahl": 8773,
+      "ort": "Neufahrn i NB",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08774",
+      "ortsnetzkennzahl": 8774,
+      "ort": "Bayerbach b Ergoldsbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08781",
+      "ortsnetzkennzahl": 8781,
+      "ort": "Rottenburg a d Laaber",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08782",
+      "ortsnetzkennzahl": 8782,
+      "ort": "Pfeffenhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08783",
+      "ortsnetzkennzahl": 8783,
+      "ort": "Rohr i NB",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08784",
+      "ortsnetzkennzahl": 8784,
+      "ort": "Hohenthann",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08785",
+      "ortsnetzkennzahl": 8785,
+      "ort": "Rottenburg-Oberroning",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08801",
+      "ortsnetzkennzahl": 8801,
+      "ort": "Seeshaupt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08802",
+      "ortsnetzkennzahl": 8802,
+      "ort": "Huglfing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08803",
+      "ortsnetzkennzahl": 8803,
+      "ort": "Peissenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08805",
+      "ortsnetzkennzahl": 8805,
+      "ort": "Hohenpeissenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08806",
+      "ortsnetzkennzahl": 8806,
+      "ort": "Utting a Ammersee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08807",
+      "ortsnetzkennzahl": 8807,
+      "ort": "Dießen a Ammersee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08808",
+      "ortsnetzkennzahl": 8808,
+      "ort": "Pähl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08809",
+      "ortsnetzkennzahl": 8809,
+      "ort": "Wessobrunn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08821",
+      "ortsnetzkennzahl": 8821,
+      "ort": "Garmisch-Partenkirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08822",
+      "ortsnetzkennzahl": 8822,
+      "ort": "Oberammergau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08823",
+      "ortsnetzkennzahl": 8823,
+      "ort": "Mittenwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08824",
+      "ortsnetzkennzahl": 8824,
+      "ort": "Oberau Loisach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08825",
+      "ortsnetzkennzahl": 8825,
+      "ort": "Krün",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08841",
+      "ortsnetzkennzahl": 8841,
+      "ort": "Murnau a Staffelsee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08845",
+      "ortsnetzkennzahl": 8845,
+      "ort": "Bad Kohlgrub",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08846",
+      "ortsnetzkennzahl": 8846,
+      "ort": "Uffing a Staffelsee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08847",
+      "ortsnetzkennzahl": 8847,
+      "ort": "Obersöchering",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08851",
+      "ortsnetzkennzahl": 8851,
+      "ort": "Kochel a See",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08856",
+      "ortsnetzkennzahl": 8856,
+      "ort": "Penzberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08857",
+      "ortsnetzkennzahl": 8857,
+      "ort": "Benediktbeuern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08858",
+      "ortsnetzkennzahl": 8858,
+      "ort": "Kochel-Walchensee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08860",
+      "ortsnetzkennzahl": 8860,
+      "ort": "Bernbeuren",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08861",
+      "ortsnetzkennzahl": 8861,
+      "ort": "Schongau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08862",
+      "ortsnetzkennzahl": 8862,
+      "ort": "Steingaden Oberbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08867",
+      "ortsnetzkennzahl": 8867,
+      "ort": "Rottenbuch Oberbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08868",
+      "ortsnetzkennzahl": 8868,
+      "ort": "Schwabsoien",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "08869",
+      "ortsnetzkennzahl": 8869,
+      "ort": "Kinsau",
+      "aktiv": true
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Vorwahlen — Bereich 8 (führende Ziffer 8) - Kostenloser Download",
+    "description": "Ortsnetzkennzahlen mit führender Ziffer 8 aus dem deutschen Nummerierungsbereich. Geografischer Schwerpunkt: München (089), Bayern-Süd (Oberbayern, Niederbayern, Schwaben). Insgesamt 442 Einträge. Enthält 442 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Deutsche Vorwahlen — Bereich 8 (führende Ziffer 8) | ListBase",
+    "seo_description": "Herunterladen Deutsche Vorwahlen — Bereich 8 (führende Ziffer 8) — 442 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 442 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

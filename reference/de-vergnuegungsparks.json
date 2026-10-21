@@ -1,0 +1,673 @@
+{
+  "id": "de-vergnuegungsparks",
+  "name": "Vergnügungsparks in Deutschland / Amusement parks in Germany",
+  "title": "Vergnügungsparks in Deutschland / Amusement parks in Germany",
+  "description": "Vergnügungsparks in Deutschland (Amusement parks in Germany). Geolocated points sourced from Wikidata (instance of Q194195), located in Germany (Q183), each with a coordinate (P625).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 68,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_de",
+      "label": "Name De",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q265505",
+      "name_de": "Alpincenter Bottrop",
+      "name_en": "Alpincenter Bottrop",
+      "latitude": 51.5242,
+      "longitude": 6.96611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q265505"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q2651140",
+      "name_de": "Alpincenter Hamburg-Wittenburg",
+      "name_en": "Alpincenter Hamburg-Wittenburg",
+      "latitude": 53.5082,
+      "longitude": 11.0938,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2651140"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q744161",
+      "name_de": "Bayern Park",
+      "name_en": "Bayern Park",
+      "latitude": 48.5306,
+      "longitude": 12.6356,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q744161"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q815261",
+      "name_de": "Belantis",
+      "name_en": "Belantis",
+      "latitude": 51.2518,
+      "longitude": 12.3153,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q815261"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q1089931",
+      "name_de": "Churpfalzpark Loifling",
+      "name_en": "",
+      "latitude": 49.1699,
+      "longitude": 12.639,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1089931"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q1791757",
+      "name_de": "Die geheime Welt von Turisede",
+      "name_en": "Kulturinsel Einsiedel",
+      "latitude": 51.296389,
+      "longitude": 15.0225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1791757"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q1148373",
+      "name_de": "Dinosaurierland Rügen",
+      "name_en": "Dinosaur Land",
+      "latitude": 54.5636,
+      "longitude": 13.5254,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1148373"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q1325056",
+      "name_de": "Elbauenpark",
+      "name_en": "Elbauenpark",
+      "latitude": 52.1349,
+      "longitude": 11.669,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1325056"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q1350068",
+      "name_de": "Erfahrungsfeld der Sinne Eins+Alles",
+      "name_en": "Eins-und-Alles Welzheim",
+      "latitude": 48.8819,
+      "longitude": 9.60675,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1350068"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q1355398",
+      "name_de": "Erlebnispark Schloss Thurn",
+      "name_en": "Erlebnispark Schloss Thurn",
+      "latitude": 49.6852,
+      "longitude": 10.9992,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1355398"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q140050406",
+      "name_de": "Erlebnispark Steinau an der Straße",
+      "name_en": "",
+      "latitude": 50.296056,
+      "longitude": 9.486111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q140050406"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q1718218",
+      "name_de": "Erlebnispark Steinau an der Straße",
+      "name_en": "Erlebnispark Steinau an der Straße",
+      "latitude": 50.2961,
+      "longitude": 9.48611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1718218"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q520675",
+      "name_de": "Erlebnispark Tripsdrill",
+      "name_en": "Erlebnispark Tripsdrill",
+      "latitude": 49.0353,
+      "longitude": 9.0525,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q520675"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q1355404",
+      "name_de": "Erlebnispark Ziegenhagen",
+      "name_en": "",
+      "latitude": 51.3708,
+      "longitude": 9.76472,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1355404"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q1355419",
+      "name_de": "Erlebniswelt steinzeichen steinbergen",
+      "name_en": "",
+      "latitude": 52.2158,
+      "longitude": 9.125,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1355419"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q1361784",
+      "name_de": "Erse-Park",
+      "name_en": "Erse Park",
+      "latitude": 52.4728,
+      "longitude": 10.2311,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1361784"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q159144",
+      "name_de": "Europa-Park",
+      "name_en": "Europa-Park",
+      "latitude": 48.268333,
+      "longitude": 7.720833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q159144"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q139665620",
+      "name_de": "Ferienzentrum Schloss Dankern",
+      "name_en": "",
+      "latitude": 52.794692,
+      "longitude": 7.201164,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q139665620"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q1415173",
+      "name_de": "Filmpark Babelsberg",
+      "name_en": "Filmpark Babelsberg",
+      "latitude": 52.38655,
+      "longitude": 13.11705,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1415173"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q878022",
+      "name_de": "Fort Fun Abenteuerland",
+      "name_en": "Fort Fun Abenteuerland",
+      "latitude": 51.3086,
+      "longitude": 8.4375,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q878022"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q1454963",
+      "name_de": "Freizeit-Land Geiselwind",
+      "name_en": "Freizeit-Land Geiselwind",
+      "latitude": 49.7804,
+      "longitude": 10.4576,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1454963"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q19962434",
+      "name_de": "Freizeitpark Kirchhorst",
+      "name_en": "Freizeitpark Kirchhorst",
+      "latitude": 52.45,
+      "longitude": 9.925,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19962434"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q1454992",
+      "name_de": "Freizeitpark Lochmühle",
+      "name_en": "Freizeitpark Lochmühle",
+      "latitude": 50.2839,
+      "longitude": 8.58361,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1454992"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q1426470",
+      "name_de": "Freizeitpark Plohn",
+      "name_en": "Freizeitpark Plohn",
+      "latitude": 50.565833,
+      "longitude": 12.399722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1426470"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q130434865",
+      "name_de": "Freizeitpark Ruhpolding",
+      "name_en": "",
+      "latitude": 47.740537,
+      "longitude": 12.617014,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130434865"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q1454994",
+      "name_de": "Freizeitpark Traumland auf der Bärenhöhle",
+      "name_en": "Traumland Bärenhöhle",
+      "latitude": 48.3714,
+      "longitude": 9.21556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1454994"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q1417123",
+      "name_de": "Fränkisches Wunderland",
+      "name_en": "Fränkisches Wunderland",
+      "latitude": 49.6571,
+      "longitude": 11.4632,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1417123"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q1474750",
+      "name_de": "Funny World",
+      "name_en": "Funny-World",
+      "latitude": 48.2938,
+      "longitude": 7.73238,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1474750"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q571557",
+      "name_de": "Hansa-Park",
+      "name_en": "Hansa Park",
+      "latitude": 54.0755,
+      "longitude": 10.7802,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q571557"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q702179",
+      "name_de": "Heide Park",
+      "name_en": "Heide Park",
+      "latitude": 53.0253,
+      "longitude": 9.879,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q702179"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q111663495",
+      "name_de": "Hot Gun Town",
+      "name_en": "Hot Gun Town",
+      "latitude": 48.13628,
+      "longitude": 11.14516,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111663495"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q131454129",
+      "name_de": "Jochen Schweizer Arena",
+      "name_en": "Jochen Schweizer Arena",
+      "latitude": 48.04266,
+      "longitude": 11.65322,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131454129"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q125125313",
+      "name_de": "Karls Erlebnis-Dorf Döbeln",
+      "name_en": "Karls Erlebnis-Dorf Döbeln",
+      "latitude": 51.1532,
+      "longitude": 13.1251,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125125313"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q117744732",
+      "name_de": "Karls Erlebnis-Dorf Rövershagen",
+      "name_en": "Karls Erlebnis-Dorf Rövershagen",
+      "latitude": 54.161,
+      "longitude": 12.231,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117744732"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q1739912",
+      "name_de": "Ketteler Hof",
+      "name_en": "Ketteler Hof",
+      "latitude": 51.7803,
+      "longitude": 7.13083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1739912"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q3178547",
+      "name_de": "Legoland Deutschland",
+      "name_en": "Legoland Deutschland",
+      "latitude": 48.424444,
+      "longitude": 10.299722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3178547"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q829491",
+      "name_de": "Luna-Park am Auensee",
+      "name_en": "Luna Park",
+      "latitude": 51.37,
+      "longitude": 12.321,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q829491"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q2843806",
+      "name_de": "Lütge Land",
+      "name_en": "Lütge Land",
+      "latitude": 53.653811,
+      "longitude": 7.786742,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2843806"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q1884087",
+      "name_de": "Magic Park Verden",
+      "name_en": "Magic Park Verden",
+      "latitude": 52.9342,
+      "longitude": 9.27111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1884087"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q1723143",
+      "name_de": "Maximilianpark",
+      "name_en": "Maximilianpark Hamm",
+      "latitude": 51.6802,
+      "longitude": 7.88254,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1723143"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q1945336",
+      "name_de": "Monsterpark Rattelsdorf",
+      "name_en": "Monsterpark Rattelsdorf",
+      "latitude": 50.0192,
+      "longitude": 10.8922,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1945336"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q314414",
+      "name_de": "Movie Park Germany",
+      "name_en": "Movie Park Germany",
+      "latitude": 51.62,
+      "longitude": 6.9725,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q314414"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q66722676",
+      "name_de": "Märchengarten",
+      "name_en": "",
+      "latitude": 48.901806,
+      "longitude": 9.198917,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66722676"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q118235626",
+      "name_de": "Oskarshausen",
+      "name_en": "",
+      "latitude": 51.004948,
+      "longitude": 13.664424,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118235626"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q19298191",
+      "name_de": "Panarbora-Park",
+      "name_en": "Panarbora Park",
+      "latitude": 50.860278,
+      "longitude": 7.6075,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19298191"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q134983286",
+      "name_de": "Peppa Pig Park Günzburg",
+      "name_en": "Peppa Pig Park Günzburg",
+      "latitude": 48.42491,
+      "longitude": 10.297205,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134983286"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q819530",
+      "name_de": "Phantasialand",
+      "name_en": "Phantasialand",
+      "latitude": 50.8,
+      "longitude": 6.879444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q819530"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q565945",
+      "name_de": "Plopsaland Deutschland",
+      "name_en": "Plopsaland Deutschland",
+      "latitude": 49.3197,
+      "longitude": 8.29472,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q565945"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q1677960",
+      "name_de": "Potts park",
+      "name_en": "Potts park",
+      "latitude": 52.2633,
+      "longitude": 8.84306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1677960"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q2132175",
+      "name_de": "Rasti-Land",
+      "name_en": "Rasti-Land",
+      "latitude": 52.096111,
+      "longitude": 9.663889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2132175"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q2133667",
+      "name_de": "Ravensburger Spieleland",
+      "name_en": "Ravensburger Spieleland",
+      "latitude": 47.711389,
+      "longitude": 9.595278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2133667"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q880597",
+      "name_de": "Schloss Beck",
+      "name_en": "Schloss Beck",
+      "latitude": 51.6133,
+      "longitude": 6.97806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q880597"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q947775",
+      "name_de": "Schwaben Park",
+      "name_en": "Schwaben Park",
+      "latitude": 48.9022,
+      "longitude": 9.65639,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q947775"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q895689",
+      "name_de": "Sea Life Abenteuer Park",
+      "name_en": "Centro-Park",
+      "latitude": 51.4917,
+      "longitude": 6.87667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q895689"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q56438282",
+      "name_de": "Sioux Montana Ranch",
+      "name_en": "Sioux Montana Ranch",
+      "latitude": 51.394167,
+      "longitude": 6.693333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56438282"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q1695355",
+      "name_de": "Skyline Park",
+      "name_en": "Skyline Park",
+      "latitude": 48.0431,
+      "longitude": 10.5914,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1695355"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q111805063",
+      "name_de": "Sommerrodelbahn",
+      "name_en": "The Schwarzwaldbob",
+      "latitude": 48.26535,
+      "longitude": 8.20217,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111805063"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q115265416",
+      "name_de": "Sonnenlandpark Lichtenau",
+      "name_en": "",
+      "latitude": 50.91627,
+      "longitude": 12.9848,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115265416"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q314045",
+      "name_de": "Spreepark",
+      "name_en": "Spreepark",
+      "latitude": 52.4858,
+      "longitude": 13.4878,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q314045"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q134579421",
+      "name_de": "Steglitzer Woche",
+      "name_en": "Steglitzer Woche",
+      "latitude": 52.434694,
+      "longitude": 13.318056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134579421"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q2341753",
+      "name_de": "Steinwasen-Park",
+      "name_en": "Steinwasen Park",
+      "latitude": 47.899722,
+      "longitude": 7.922222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2341753"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q1536315",
+      "name_de": "Störtebeker Park",
+      "name_en": "Störtebeker Park",
+      "latitude": 53.5625,
+      "longitude": 8.1,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1536315"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q1498410",
+      "name_de": "Taunus Wunderland",
+      "name_en": "Taunus Wunderland",
+      "latitude": 50.115,
+      "longitude": 8.11028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1498410"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q2439289",
+      "name_de": "Tolk-Schau",
+      "name_en": "Tolk-Schau",
+      "latitude": 54.5753,
+      "longitude": 9.6271,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2439289"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q2450363",
+      "name_de": "Traumlandpark",
+      "name_en": "Traumlandpark",
+      "latitude": 51.62,
+      "longitude": 6.9725,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2450363"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q115206549",
+      "name_de": "Triolago",
+      "name_en": "",
+      "latitude": 49.790905,
+      "longitude": 6.811583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115206549"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q2570257",
+      "name_de": "Wild- und Freizeitpark Klotten",
+      "name_en": "Wild- und Freizeitpark Klotten",
+      "latitude": 50.1606,
+      "longitude": 7.165,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2570257"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q442538",
+      "name_de": "Wunderland Kalkar",
+      "name_en": "Wunderland Kalkar",
+      "latitude": 51.76417,
+      "longitude": 6.32611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q442538"
+    }
+  ],
+  "meta": {
+    "title": "Vergnügungsparks in Deutschland / Amusement parks in Germany - Kostenloser Download",
+    "description": "Vergnügungsparks in Deutschland (Amusement parks in Germany). Geolocated points sourced from Wikidata (instance of Q194195), located in Germany (Q183), each with a coordinate (P625). Enthält 68 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Vergnügungsparks in Deutschland / Amusement parks in Germany | ListBase",
+    "seo_description": "Herunterladen Vergnügungsparks in Deutschland / Amusement parks in Germany — 68 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 68 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

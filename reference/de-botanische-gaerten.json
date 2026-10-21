@@ -1,0 +1,1384 @@
+{
+  "id": "de-botanische-gaerten",
+  "name": "Botanische Gärten in Deutschland / Botanical gardens in Germany",
+  "title": "Botanische Gärten in Deutschland / Botanical gardens in Germany",
+  "description": "Botanische Gärten in Deutschland (Botanical gardens in Germany). Geolocated points sourced from Wikidata (instance of Q167346), located in Germany (Q183), each with a coordinate (P625).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 147,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_de",
+      "label": "Name De",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q11679872",
+      "name_de": "Alter Botanischer Garten",
+      "name_en": "Alter Botanischer Garten Hamburg",
+      "latitude": 53.559889,
+      "longitude": 9.985222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11679872"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q153829",
+      "name_de": "Alter Botanischer Garten",
+      "name_en": "Alter Botanischer Garten",
+      "latitude": 48.141842,
+      "longitude": 11.564299,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q153829"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q437790",
+      "name_de": "Alter Botanischer Garten",
+      "name_en": "Old Botanical Garden Marburg",
+      "latitude": 50.8124,
+      "longitude": 8.77236,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q437790"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q4736267",
+      "name_de": "Alter Botanischer Garten",
+      "name_en": "Alter Botanischer Garten Tübingen",
+      "latitude": 48.5234,
+      "longitude": 9.0571,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4736267"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q570148",
+      "name_de": "Alter Botanischer Garten",
+      "name_en": "Old Botanical Garden of Göttingen University",
+      "latitude": 51.5382,
+      "longitude": 9.9367,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q570148"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q437788",
+      "name_de": "Alter Botanischer Garten (Kiel)",
+      "name_en": "Old Botanical Garden, Kiel",
+      "latitude": 54.3308,
+      "longitude": 10.1469,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q437788"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q15782773",
+      "name_de": "Alter Friedhof Minden",
+      "name_en": "",
+      "latitude": 52.289722,
+      "longitude": 8.907222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15782773"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q4784790",
+      "name_de": "Arboretum Burgholz",
+      "name_en": "Arboretum Burgholz",
+      "latitude": 51.2667,
+      "longitude": 7.18333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4784790"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q630410",
+      "name_de": "Arboretum Ellerhoop-Thiensen",
+      "name_en": "Ellerhoop-Thiensen Arboretum",
+      "latitude": 53.7173,
+      "longitude": 9.77642,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q630410"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q4784796",
+      "name_de": "Arboretum Freiburg-Günterstal",
+      "name_en": "Arboretum Freiburg-Günterstal",
+      "latitude": 47.972801,
+      "longitude": 7.842693,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4784796"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q4784797",
+      "name_de": "Arboretum Habichtsborn",
+      "name_en": "Arboretum Habichtsborn",
+      "latitude": 51.327984,
+      "longitude": 9.676112,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4784797"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q4784800",
+      "name_de": "Arboretum Lehmkuhlen",
+      "name_en": "Arboretum Lehmkuhlen",
+      "latitude": 54.2263,
+      "longitude": 10.3606,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4784800"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q630433",
+      "name_de": "Arboretum Lohbrügge",
+      "name_en": "Arboretum Lohbrügge",
+      "latitude": 53.503889,
+      "longitude": 10.199167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q630433"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q630447",
+      "name_de": "Arboretum Main-Taunus",
+      "name_en": "Arboretum Main-Taunus",
+      "latitude": 50.1356,
+      "longitude": 8.54972,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q630447"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q630459",
+      "name_de": "Arboretum Park Härle",
+      "name_en": "Arboretum Park Härle",
+      "latitude": 50.7152,
+      "longitude": 7.16911,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q630459"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q4792056",
+      "name_de": "",
+      "name_en": "Arktisch-Alpiner Pflanzengarten und Alpine Staudengärtnerei",
+      "latitude": 51.166667,
+      "longitude": 12.916667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4792056"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q673954",
+      "name_de": "Arktisch-Alpiner-Garten",
+      "name_en": "Arktisch-Alpiner-Garten der Walter-Meusel-Stiftung",
+      "latitude": 50.8876,
+      "longitude": 12.9399,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q673954"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q697970",
+      "name_de": "Aromagarten Erlangen",
+      "name_en": "Aromagarten Erlangen",
+      "latitude": 49.6025,
+      "longitude": 11.0156,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q697970"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q25089735",
+      "name_de": "Arzneipflanzengarten",
+      "name_en": "",
+      "latitude": 52.281029,
+      "longitude": 10.54743,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25089735"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q56636348",
+      "name_de": "Bastionsgarten",
+      "name_en": "Bastionsgarten",
+      "latitude": 48.894136,
+      "longitude": 11.171297,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56636348"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q819663",
+      "name_de": "Berggarten",
+      "name_en": "Berggarten",
+      "latitude": 52.3941,
+      "longitude": 9.69876,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q819663"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q894629",
+      "name_de": "Botanika",
+      "name_en": "Botanika",
+      "latitude": 53.0936,
+      "longitude": 8.88492,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q894629"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q131386807",
+      "name_de": "Botanikum",
+      "name_en": "Botanikum",
+      "latitude": 48.190118,
+      "longitude": 11.519167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131386807"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q15107882",
+      "name_de": "Botanischer Blindengarten Radeberg",
+      "name_en": "botanical garden for handicaped persons Radeberg",
+      "latitude": 51.105011,
+      "longitude": 13.922714,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15107882"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q4948465",
+      "name_de": "Botanischer Erlebnisgarten Altenburg",
+      "name_en": "Botanischer Erlebnisgarten Altenburg",
+      "latitude": 50.9904,
+      "longitude": 12.4311,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4948465"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q4948492",
+      "name_de": "Botanischer Garten",
+      "name_en": "Botanischer Garten in Bad Langensalza",
+      "latitude": 51.113889,
+      "longitude": 10.648611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4948492"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q56636347",
+      "name_de": "Botanischer Garten",
+      "name_en": "Botanischer Garten",
+      "latitude": 52.3509,
+      "longitude": 14.5298,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56636347"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q827373",
+      "name_de": "Botanischer Garten",
+      "name_en": "Botanischer Garten Universität Rostock",
+      "latitude": 54.0907,
+      "longitude": 12.0931,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q827373"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q830674",
+      "name_de": "Botanischer Garten",
+      "name_en": "Botanischer Garten Schellerhau",
+      "latitude": 50.7678,
+      "longitude": 13.6997,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q830674"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q894633",
+      "name_de": "Botanischer Garten",
+      "name_en": "Botanical Garden",
+      "latitude": 53.0663,
+      "longitude": 8.85228,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q894633"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q98482492",
+      "name_de": "Botanischer Garten",
+      "name_en": "Botanischer Garten",
+      "latitude": 49.991124,
+      "longitude": 9.571718,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98482492"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q4948466",
+      "name_de": "Botanischer Garten Adorf",
+      "name_en": "Botanischer Garten Adorf",
+      "latitude": 50.3062,
+      "longitude": 12.246,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4948466"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q9010949",
+      "name_de": "Botanischer Garten am Karlsruher Institut für Technologie",
+      "name_en": "Botanical Garden of the KIT",
+      "latitude": 49.0129,
+      "longitude": 8.4191,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q9010949"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q474085",
+      "name_de": "Botanischer Garten Augsburg",
+      "name_en": "Botanischer Garten Augsburg",
+      "latitude": 48.34977,
+      "longitude": 10.912424,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q474085"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q7179815",
+      "name_de": "Botanischer Garten Bad Schandau",
+      "name_en": "Pflanzengarten Bad Schandau",
+      "latitude": 50.9019,
+      "longitude": 14.1863,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7179815"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q827398",
+      "name_de": "Botanischer Garten Bielefeld",
+      "name_en": "Botanischer Garten Bielefeld",
+      "latitude": 52.0147,
+      "longitude": 8.51,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q827398"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q322634",
+      "name_de": "Botanischer Garten Bonn",
+      "name_en": "Bonn Botanical Garden",
+      "latitude": 50.7247,
+      "longitude": 7.09167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q322634"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q833862",
+      "name_de": "Botanischer Garten Chemnitz",
+      "name_en": "Chemnitz Botanical Garden",
+      "latitude": 50.850268,
+      "longitude": 12.890263,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q833862"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q883976",
+      "name_de": "Botanischer Garten Darmstadt",
+      "name_en": "Botanischer Garten der TU Darmstadt",
+      "latitude": 49.8692,
+      "longitude": 8.67861,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q883976"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q4948474",
+      "name_de": "",
+      "name_en": "Botanischer Garten der Nationalpark Bayerischer Wald",
+      "latitude": 48.8898,
+      "longitude": 13.486,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4948474"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q882377",
+      "name_de": "Botanischer Garten der Ruhr-Universität Bochum",
+      "name_en": "Botanischer Garten der Ruhr-Universität Bochum",
+      "latitude": 51.4419,
+      "longitude": 7.2675,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q882377"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q4948464",
+      "name_de": "Botanischer Garten der RWTH Aachen",
+      "name_en": "Botanischer Garten Aachen",
+      "latitude": 50.778927,
+      "longitude": 6.045891,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4948464"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q4948475",
+      "name_de": "Botanischer Garten der Stadt Hof",
+      "name_en": "Botanischer Garten der Stadt Hof",
+      "latitude": 50.329542,
+      "longitude": 11.922732,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4948475"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q4948477",
+      "name_de": "Botanischer Garten der Stadt Neuss",
+      "name_en": "Botanischer Garten der Stadt Neuss",
+      "latitude": 51.1896,
+      "longitude": 6.69216,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4948477"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q873682",
+      "name_de": "Botanischer Garten der Technischen Universität Braunschweig",
+      "name_en": "Botanischer Garten der Technischen Universität Braunschweig",
+      "latitude": 52.2708,
+      "longitude": 10.5331,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q873682"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q824180",
+      "name_de": "Botanischer Garten der Universität des Saarlandes",
+      "name_en": "Botanischer Garten der Universität des Saarlandes",
+      "latitude": 49.2545,
+      "longitude": 7.0378,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q824180"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q877942",
+      "name_de": "Botanischer Garten der Universität Duisburg-Essen",
+      "name_en": "Botanischer Garten der Universität Duisburg-Essen",
+      "latitude": 51.4281,
+      "longitude": 6.98139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q877942"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q4948481",
+      "name_de": "Botanischer Garten der Universität Konstanz",
+      "name_en": "Botanical Garden of the University of Konstanz",
+      "latitude": 47.6921,
+      "longitude": 9.1788,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4948481"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q323954",
+      "name_de": "Botanischer Garten der Universität Leipzig",
+      "name_en": "Leipzig Botanical Garden",
+      "latitude": 51.3287,
+      "longitude": 12.3913,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q323954"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q4948484",
+      "name_de": "Botanischer Garten der Universität Regensburg",
+      "name_en": "Botanischer Garten der Universität Regensburg",
+      "latitude": 48.9932,
+      "longitude": 12.0915,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4948484"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q4948488",
+      "name_de": "Botanischer Garten der Universität Würzburg",
+      "name_en": "Botanischer Garten der Universität Würzburg",
+      "latitude": 49.7653,
+      "longitude": 9.9313,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4948488"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q321575",
+      "name_de": "Botanischer Garten Dresden",
+      "name_en": "Botanischer Garten der Technischen Universität Dresden",
+      "latitude": 51.04302,
+      "longitude": 13.75856,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q321575"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q4948467",
+      "name_de": "Botanischer Garten Duisburg-Hamborn",
+      "name_en": "Botanischer Garten Duisburg-Hamborn",
+      "latitude": 51.4869,
+      "longitude": 6.7665,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4948467"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q894642",
+      "name_de": "Botanischer Garten Duissern",
+      "name_en": "Duissern Botanical Garden",
+      "latitude": 51.4358,
+      "longitude": 6.79725,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q894642"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q879081",
+      "name_de": "Botanischer Garten Düsseldorf",
+      "name_en": "Düsseldorf Botanical Garden",
+      "latitude": 51.1869,
+      "longitude": 6.8025,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q879081"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q323124",
+      "name_de": "Botanischer Garten Erlangen",
+      "name_en": "Botanischer Garten Erlangen",
+      "latitude": 49.5992,
+      "longitude": 11.0067,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q323124"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q319334",
+      "name_de": "Botanischer Garten Frankfurt am Main",
+      "name_en": "Botanischer Garten Frankfurt am Main",
+      "latitude": 50.1272,
+      "longitude": 8.65833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q319334"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q328848",
+      "name_de": "Botanischer Garten Freiburg",
+      "name_en": "Freiburg Botanical Garden",
+      "latitude": 48.0097,
+      "longitude": 7.85833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q328848"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q769851",
+      "name_de": "Botanischer Garten Gera",
+      "name_en": "Botanischer Garten Gera",
+      "latitude": 50.8758,
+      "longitude": 12.0878,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q769851"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q834198",
+      "name_de": "Botanischer Garten Gießen",
+      "name_en": "Botanischer Garten Gießen",
+      "latitude": 50.5864,
+      "longitude": 8.67889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q834198"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q98739037",
+      "name_de": "Botanischer Garten Griesbadgasse 30; Griesbadgasse 38 in Ingolstadt (D-1-61-000-40#1)",
+      "name_en": "Botanischer Garten Griesbadgasse 30; Griesbadgasse 38 in Ingolstadt",
+      "latitude": 48.762774,
+      "longitude": 11.419577,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98739037"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q28009161",
+      "name_de": "Botanischer Garten Grugapark",
+      "name_en": "Botanischer Garten Grugapark",
+      "latitude": 51.4281,
+      "longitude": 6.9876,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28009161"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q894645",
+      "name_de": "Botanischer Garten Halle",
+      "name_en": "Botanischer Garten der Martin-Luther-Universität Halle-Wittenberg",
+      "latitude": 51.4889,
+      "longitude": 11.9614,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q894645"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q18337868",
+      "name_de": "Botanischer Garten Hamborn",
+      "name_en": "Botanischer Garten, Duisburg-Hamborn",
+      "latitude": 51.487073,
+      "longitude": 6.766841,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18337868"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q875332",
+      "name_de": "Botanischer Garten Heidelberg",
+      "name_en": "Botanischer Garten der Universität Heidelberg",
+      "latitude": 49.4148,
+      "longitude": 8.66778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q875332"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q98587721",
+      "name_de": "Botanischer Garten Jakobsplatz 15 in Bamberg (D-4-61-000-389#1)",
+      "name_en": "Botanischer Garten Jakobsplatz 15 in Bamberg",
+      "latitude": 49.89002,
+      "longitude": 10.876687,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98587721"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q317714",
+      "name_de": "Botanischer Garten Jena",
+      "name_en": "Botanischer Garten Jena",
+      "latitude": 50.9311,
+      "longitude": 11.5861,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q317714"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q130542938",
+      "name_de": "Botanischer Garten Karl-von-Frisch-Straße 6",
+      "name_en": "Botanical Garden Karl-von-Frisch-Straße 6",
+      "latitude": 50.80215,
+      "longitude": 8.807155,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130542938"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q475580",
+      "name_de": "Botanischer Garten Karlsruhe",
+      "name_en": "Botanischer Garten Karlsruhe",
+      "latitude": 49.0131,
+      "longitude": 8.40044,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q475580"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q4948469",
+      "name_de": "Botanischer Garten Kassel",
+      "name_en": "Botanischer Garten Kassel",
+      "latitude": 51.2989,
+      "longitude": 9.47,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4948469"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q894647",
+      "name_de": "Botanischer Garten Kiel",
+      "name_en": "Botanischer Garten Kiel",
+      "latitude": 54.3481,
+      "longitude": 10.1167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q894647"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q874042",
+      "name_de": "Botanischer Garten Krefeld",
+      "name_en": "Botanischer Garten Krefeld",
+      "latitude": 51.3325,
+      "longitude": 6.60306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q874042"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q63191876",
+      "name_de": "Botanischer Garten Loismann",
+      "name_en": "Botanischer Garten Loismann",
+      "latitude": 52.237778,
+      "longitude": 7.675,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63191876"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q871292",
+      "name_de": "Botanischer Garten Mainz",
+      "name_en": "Botanischer Garten der Johannes Gutenberg-Universität Mainz",
+      "latitude": 49.9923,
+      "longitude": 8.24369,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q871292"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q323980",
+      "name_de": "Botanischer Garten Marburg",
+      "name_en": "Botanischer Garten Marburg",
+      "latitude": 50.803,
+      "longitude": 8.80938,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q323980"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q98740088",
+      "name_de": "Botanischer Garten Maria-Ward-Straße 1i; Maria-Ward-Straße 1k; Menzinger Straße 61; Menzinger Straße 63; Menzinger Straße 65; Menzinger Straße 67 in München (D-1-62-000-4516#9)",
+      "name_en": "Botanischer Garten Maria-Ward-Straße 1i; Maria-Ward-Straße 1k; Menzinger Straße 61; Menzinger Straße 63; Menzinger Straße 65; Menzinger Straße 67 in München",
+      "latitude": 48.16311,
+      "longitude": 11.499961,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98740088"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q707660",
+      "name_de": "Botanischer Garten München-Nymphenburg",
+      "name_en": "Botanischer Garten München-Nymphenburg",
+      "latitude": 48.163131,
+      "longitude": 11.499946,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q707660"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q877692",
+      "name_de": "Botanischer Garten Münster",
+      "name_en": "Münster Botanical Garden",
+      "latitude": 51.9637,
+      "longitude": 7.61056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q877692"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q4948490",
+      "name_de": "Botanischer Garten Oberholz",
+      "name_en": "Botanischer Garten für Arznei- und Gewürzpflanzen Oberholz",
+      "latitude": 51.260389,
+      "longitude": 12.500248,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4948490"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q4948470",
+      "name_de": "Botanischer Garten Oldenburg",
+      "name_en": "Botanischer Garten Oldenburg",
+      "latitude": 53.147489,
+      "longitude": 8.197978,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4948470"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q296170",
+      "name_de": "Botanischer Garten Osnabrück",
+      "name_en": "Osnabrück  Botanical Garden",
+      "latitude": 52.2814,
+      "longitude": 8.02793,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q296170"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q98624910",
+      "name_de": "Botanischer Garten Otto-Seeling-Promenade 31; Otto-Seeling-Promenade 33; Otto-Seeling-Promenade 37; Otto-Seeling-Promenade 39 in Fürth (D-5-63-000-1326#4)",
+      "name_en": "Botanischer Garten Otto-Seeling-Promenade 31; Otto-Seeling-Promenade 33; Otto-Seeling-Promenade 37; Otto-Seeling-Promenade 39 in Fürth",
+      "latitude": 49.472058,
+      "longitude": 11.000042,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98624910"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q321565",
+      "name_de": "Botanischer Garten Potsdam",
+      "name_en": "Botanical Garden Potsdam",
+      "latitude": 52.4041,
+      "longitude": 13.0252,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q321565"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q56640903",
+      "name_de": "Botanischer Garten Prieros",
+      "name_en": "Biosphere Prieros, Brandenburg, Germany.",
+      "latitude": 52.22,
+      "longitude": 13.773056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56640903"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q134727810",
+      "name_de": "Botanischer Garten Schloss Bieberstein",
+      "name_en": "",
+      "latitude": 50.301285,
+      "longitude": 8.064608,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134727810"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q4948472",
+      "name_de": "Botanischer Garten Solingen",
+      "name_en": "Botanischer Garten Solingen",
+      "latitude": 51.1845,
+      "longitude": 7.0647,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4948472"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q4948485",
+      "name_de": "Botanischer Garten Tübingen",
+      "name_en": "Botanischer Garten der Universität Tübingen",
+      "latitude": 48.5395,
+      "longitude": 9.0359,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4948485"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q870486",
+      "name_de": "Botanischer Garten Ulm",
+      "name_en": "Botanischer Garten der Universität Ulm",
+      "latitude": 48.4194,
+      "longitude": 9.96667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q870486"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q56640901",
+      "name_de": "Botanischer Garten und Arboretum der Universität Greifswald",
+      "name_en": "Greifswald Botanic Garden and Arboretum",
+      "latitude": 54.093611,
+      "longitude": 13.366944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56640901"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q163255",
+      "name_de": "Botanischer Garten und Botanisches Museum Berlin",
+      "name_en": "Botanic Garden and Botanical Museum Berlin",
+      "latitude": 52.455,
+      "longitude": 13.3036,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q163255"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q4948478",
+      "name_de": "Botanischer Garten Wilhelmshaven",
+      "name_en": "Botanischer Garten Wilhelmshaven",
+      "latitude": 53.541667,
+      "longitude": 8.108889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4948478"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q318081",
+      "name_de": "Botanischer Garten Wuppertal",
+      "name_en": "Botanischer Garten Wuppertal",
+      "latitude": 51.260278,
+      "longitude": 7.160556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q318081"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q894668",
+      "name_de": "Botanischer Obstgarten Heilbronn",
+      "name_en": "Botanischer Obstgarten Heilbronn",
+      "latitude": 49.1512,
+      "longitude": 9.23472,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q894668"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q3398986",
+      "name_de": "Botanischer Sondergarten Wandsbek",
+      "name_en": "Botanischer Sondergarten Wandsbek",
+      "latitude": 53.5824,
+      "longitude": 10.0985,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3398986"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q923683",
+      "name_de": "Brockengarten",
+      "name_en": "Brocken Garden",
+      "latitude": 51.798333,
+      "longitude": 10.6175,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q923683"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q880814",
+      "name_de": "Bunter Garten",
+      "name_en": "Bunter Garten",
+      "latitude": 51.2039,
+      "longitude": 6.43389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q880814"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q446505",
+      "name_de": "Europa-Rosarium",
+      "name_en": "Europa-Rosarium",
+      "latitude": 51.4752,
+      "longitude": 11.3148,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q446505"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q836254",
+      "name_de": "Exotenwald",
+      "name_en": "Exotenwald Weinheim",
+      "latitude": 49.5408,
+      "longitude": 8.675,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q836254"
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q11695430",
+      "name_de": "Experimenteller Botanischer Garten",
+      "name_en": "Experimenteller Botanischer Garten",
+      "latitude": 51.5578,
+      "longitude": 9.9623,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11695430"
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q320082",
+      "name_de": "Flora",
+      "name_en": "Flora und Botanischer Garten Köln",
+      "latitude": 50.95932,
+      "longitude": 6.97194,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q320082"
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q56636346",
+      "name_de": "Forstbotanischer Garten",
+      "name_en": "Forstbotanischer Garten (Göttingen)",
+      "latitude": 51.557667,
+      "longitude": 9.961639,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56636346"
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q895589",
+      "name_de": "Forstbotanischer Garten Eberswalde",
+      "name_en": "Forstbotanischer Garten Eberswalde",
+      "latitude": 52.8251,
+      "longitude": 13.7961,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q895589"
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q5470627",
+      "name_de": "Forstbotanischer Garten in Hannoversch Münden",
+      "name_en": "Forstbotanischer Garten in Hannoversch Münden",
+      "latitude": 51.415,
+      "longitude": 9.6595,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5470627"
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q873964",
+      "name_de": "Forstbotanischer Garten Köln",
+      "name_en": "Forstbotanischer Garten Köln",
+      "latitude": 50.885,
+      "longitude": 6.97944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q873964"
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q827406",
+      "name_de": "Forstbotanischer Garten Tharandt",
+      "name_en": "Forstbotanischer Garten Tharandt",
+      "latitude": 50.984363,
+      "longitude": 13.57819,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q827406"
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q5395528",
+      "name_de": "Forstbotanischer Garten und Pflanzengeographisches Arboretum der Universität Göttingen",
+      "name_en": "Forstbotanischer Garten und Pflanzengeographisches Arboretum der Universität Göttingen",
+      "latitude": 51.5578,
+      "longitude": 9.9623,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5395528"
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q5470640",
+      "name_de": "Forstlicher Versuchsgarten Grafrath",
+      "name_en": "Forstlicher Versuchsgarten Grafrath",
+      "latitude": 48.1312,
+      "longitude": 11.1585,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5470640"
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q5554951",
+      "name_de": "Gewächshaus für tropische Nutzpflanzen",
+      "name_en": "Gewächshaus für tropische Nutzpflanzen",
+      "latitude": 51.3445,
+      "longitude": 9.8605,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5554951"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q875233",
+      "name_de": "Gruson-Gewächshäuser",
+      "name_en": "Gruson-Gewächshäuser",
+      "latitude": 52.1138,
+      "longitude": 11.6316,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q875233"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q5699399",
+      "name_de": "Heil- und Giftpflanzengarten der Tierärztlichen Hochschule Hannover",
+      "name_en": "Heil- und Giftpflanzengarten der Tierärztlichen Hochschule Hannover",
+      "latitude": 52.3539,
+      "longitude": 9.8085,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5699399"
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q574773",
+      "name_de": "Herrenhäuser Gärten",
+      "name_en": "Herrenhausen Gardens",
+      "latitude": 52.391667,
+      "longitude": 9.698333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q574773"
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q873982",
+      "name_de": "Herzogspark",
+      "name_en": "Herzogspark",
+      "latitude": 49.0231,
+      "longitude": 12.0822,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q873982"
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q107475841",
+      "name_de": "Hofgarten",
+      "name_en": "Court Garden",
+      "latitude": 48.39505,
+      "longitude": 11.730392,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107475841"
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q1623728",
+      "name_de": "Hohenheimer Gärten",
+      "name_en": "Hohenheim Gardens",
+      "latitude": 48.7082,
+      "longitude": 9.2146,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1623728"
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q3786842",
+      "name_de": "Hortus Eystettensis",
+      "name_en": "Bastionsgarten (Eichstätt)",
+      "latitude": 48.894167,
+      "longitude": 11.171111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3786842"
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q76637618",
+      "name_de": "Klein-Vogtland und Botanischer Garten Adorf",
+      "name_en": "little Vogtland, botanical garden Adorf",
+      "latitude": 50.308579,
+      "longitude": 12.25015,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q76637618"
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q20128291",
+      "name_de": "Kräuterpark Altenau",
+      "name_en": "Kräuterpark Altenau",
+      "latitude": 51.805012,
+      "longitude": 10.45347,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20128291"
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q6446462",
+      "name_de": "",
+      "name_en": "Kurpark Bad Bellingen",
+      "latitude": 47.7305,
+      "longitude": 7.5538,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6446462"
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q256160",
+      "name_de": "Königshaus am Schachen",
+      "name_en": "King's House on Schachen",
+      "latitude": 47.419697,
+      "longitude": 11.112586,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q256160"
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q877915",
+      "name_de": "Landesarboretum Baden-Württemberg",
+      "name_en": "Landesarboretum Baden-Württemberg",
+      "latitude": 48.7092,
+      "longitude": 9.20778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q877915"
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q878970",
+      "name_de": "Lehmann-Garten",
+      "name_en": "Lehmann-Garten",
+      "latitude": 53.1251,
+      "longitude": 13.5273,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q878970"
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q613250",
+      "name_de": "Loki-Schmidt-Garten",
+      "name_en": "Loki-Schmidt-Garten",
+      "latitude": 53.562222,
+      "longitude": 9.861111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q613250"
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q202120",
+      "name_de": "Luisenpark Mannheim",
+      "name_en": "Luisenpark",
+      "latitude": 49.4827,
+      "longitude": 8.4974,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q202120"
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q663149",
+      "name_de": "Palmengarten Frankfurt",
+      "name_en": "Palmengarten",
+      "latitude": 50.123611,
+      "longitude": 8.655556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q663149"
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q121338055",
+      "name_de": "Parterregarten",
+      "name_en": "Parterregarten",
+      "latitude": 48.39553,
+      "longitude": 11.73033,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121338055"
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q49582348",
+      "name_de": "Pflanzengarten auf dem Schlechteberg",
+      "name_en": "botanical garden at Schlechteberg",
+      "latitude": 50.999764,
+      "longitude": 14.589722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49582348"
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q870156",
+      "name_de": "Rennsteiggarten Oberhof",
+      "name_en": "Rennsteiggarten Oberhof",
+      "latitude": 50.6925,
+      "longitude": 10.7194,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q870156"
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q328729",
+      "name_de": "Rhododendron-Park Bremen",
+      "name_en": "Rhododendron-Park Bremen",
+      "latitude": 53.0917,
+      "longitude": 8.88611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q328729"
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q1472957",
+      "name_de": "Rhododendronpark Graal-Müritz",
+      "name_en": "Rhododendronpark Graal-Müritz",
+      "latitude": 54.2531,
+      "longitude": 12.2286,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1472957"
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q18289109",
+      "name_de": "Rhododendronpark Hobbie",
+      "name_en": "Rhododendronpark Hobbie",
+      "latitude": 53.287,
+      "longitude": 8.007103,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18289109"
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q2148221",
+      "name_de": "Rhododendronpark Kleine Bastei",
+      "name_en": "Rhododendronpark Kleine Bastei",
+      "latitude": 50.9569,
+      "longitude": 14.0853,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2148221"
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q225403",
+      "name_de": "Rombergpark",
+      "name_en": "Botanischer Garten Rombergpark",
+      "latitude": 51.4807,
+      "longitude": 7.4684,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q225403"
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q328081",
+      "name_de": "Rosarium Uetersen",
+      "name_en": "Rosarium Uetersen",
+      "latitude": 53.6838,
+      "longitude": 9.66981,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q328081"
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q1644473",
+      "name_de": "Schau- und Sichtungsgarten Hermannshof",
+      "name_en": "Schau- und Sichtungsgarten Hermannshof",
+      "latitude": 49.5477,
+      "longitude": 8.6697,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1644473"
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q1296160",
+      "name_de": "Schulbiologiezentrum Hannover",
+      "name_en": "Botanischer Schulgarten Burg",
+      "latitude": 52.3986,
+      "longitude": 9.69306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1296160"
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q123124896",
+      "name_de": "Schulbiologiezentrum Leipzig",
+      "name_en": "",
+      "latitude": 51.33063,
+      "longitude": 12.35897,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123124896"
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q1368384",
+      "name_de": "Schulgarten",
+      "name_en": "Schulgarten Lübeck",
+      "latitude": 53.8693,
+      "longitude": 10.7039,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1368384"
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q824193",
+      "name_de": "Sichtungsgarten Weihenstephan",
+      "name_en": "Sichtungsgarten Weihenstephan",
+      "latitude": 48.400756,
+      "longitude": 11.728992,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q824193"
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q5397998",
+      "name_de": "",
+      "name_en": "Staatliche Baderverwaltung Badenweiler",
+      "latitude": 47.8029,
+      "longitude": 7.6681,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5397998"
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q870492",
+      "name_de": "Stadtpark Gütersloh",
+      "name_en": "Stadtpark und Botanischer Garten Gütersloh",
+      "latitude": 51.8979,
+      "longitude": 8.391,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q870492"
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q135651148",
+      "name_de": "Tropenhaus der Hochschule Rhein-Waal",
+      "name_en": "Tropenhaus der Hochschule Rhein-Waal",
+      "latitude": 51.796196,
+      "longitude": 6.143592,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135651148"
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q827442",
+      "name_de": "Usedoms Botanischer Garten Mellenthin",
+      "name_en": "Usedom Botanical Gardens",
+      "latitude": 53.916667,
+      "longitude": 14.016667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q827442"
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q79965733",
+      "name_de": "Wehranlagen",
+      "name_en": "",
+      "latitude": 50.04196,
+      "longitude": 10.24137,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q79965733"
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q630395",
+      "name_de": "WeltWald Harz",
+      "name_en": "WeltWald Harz",
+      "latitude": 51.8199,
+      "longitude": 10.2286,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q630395"
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q679067",
+      "name_de": "Wilhelma",
+      "name_en": "Wilhelma",
+      "latitude": 48.805,
+      "longitude": 9.205,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q679067"
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q174823",
+      "name_de": "Ökologisch-Botanischer Garten der Universität Bayreuth",
+      "name_en": "Ökologisch-Botanischer Garten der Universität Bayreuth",
+      "latitude": 49.9235,
+      "longitude": 11.5854,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q174823"
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q123439104",
+      "name_de": "Überlinger Stadtgarten",
+      "name_en": "",
+      "latitude": 47.769167,
+      "longitude": 9.153056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123439104"
+    }
+  ],
+  "meta": {
+    "title": "Botanische Gärten in Deutschland / Botanical gardens in Germany - Kostenloser Download",
+    "description": "Botanische Gärten in Deutschland (Botanical gardens in Germany). Geolocated points sourced from Wikidata (instance of Q167346), located in Germany (Q183), each with a coordinate (P625). Enthält 147 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Botanische Gärten in Deutschland / Botanical gardens in Germany | ListBase",
+    "seo_description": "Herunterladen Botanische Gärten in Deutschland / Botanical gardens in Germany — 147 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 147 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

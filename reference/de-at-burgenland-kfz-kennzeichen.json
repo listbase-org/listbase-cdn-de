@@ -1,0 +1,133 @@
+{
+  "id": "de-at-burgenland-kfz-kennzeichen",
+  "name": "Kfz-Kennzeichen Burgenland (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke",
+  "title": "Kfz-Kennzeichen Burgenland (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke",
+  "description": "Alle in Burgenland (AT-1) gültigen österreichischen Unterscheidungszeichen mit Zulassungsbezirk und Zulassungsbehörde. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = AT-1).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "unterscheidungszeichen",
+      "label": "Unterscheidungszeichen",
+      "type": "string"
+    },
+    {
+      "key": "zulassungsbezirk",
+      "label": "Zulassungsbezirk",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_name",
+      "label": "Bundesland Name",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_iso_3166_2",
+      "label": "Bundesland Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "zulassungsbehoerde",
+      "label": "Zulassungsbehoerde",
+      "type": "string"
+    },
+    {
+      "key": "nationalitaetszeichen",
+      "label": "Nationalitaetszeichen",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unterscheidungszeichen": "E",
+      "zulassungsbezirk": "Eisenstadt – Stadt",
+      "bundesland_name": "Burgenland",
+      "bundesland_iso_3166_2": "AT-1",
+      "bundesland_slug": "burgenland",
+      "zulassungsbehoerde": "Landespolizeidirektion Burgenland für das Gebiet der Gemeinden Eisenstadt und Rust",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "EU",
+      "zulassungsbezirk": "Eisenstadt/Umgebung",
+      "bundesland_name": "Burgenland",
+      "bundesland_iso_3166_2": "AT-1",
+      "bundesland_slug": "burgenland",
+      "zulassungsbehoerde": "BH Eisenstadt",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "GS",
+      "zulassungsbezirk": "Güssing",
+      "bundesland_name": "Burgenland",
+      "bundesland_iso_3166_2": "AT-1",
+      "bundesland_slug": "burgenland",
+      "zulassungsbehoerde": "BH Güssing",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "JE",
+      "zulassungsbezirk": "Jennersdorf",
+      "bundesland_name": "Burgenland",
+      "bundesland_iso_3166_2": "AT-1",
+      "bundesland_slug": "burgenland",
+      "zulassungsbehoerde": "BH Jennersdorf",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "MA",
+      "zulassungsbezirk": "Mattersburg",
+      "bundesland_name": "Burgenland",
+      "bundesland_iso_3166_2": "AT-1",
+      "bundesland_slug": "burgenland",
+      "zulassungsbehoerde": "BH Mattersburg",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "ND",
+      "zulassungsbezirk": "Neusiedl am See",
+      "bundesland_name": "Burgenland",
+      "bundesland_iso_3166_2": "AT-1",
+      "bundesland_slug": "burgenland",
+      "zulassungsbehoerde": "BH Neusiedl am See",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "OP",
+      "zulassungsbezirk": "Oberpullendorf",
+      "bundesland_name": "Burgenland",
+      "bundesland_iso_3166_2": "AT-1",
+      "bundesland_slug": "burgenland",
+      "zulassungsbehoerde": "BH Oberpullendorf",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "OW",
+      "zulassungsbezirk": "Oberwart",
+      "bundesland_name": "Burgenland",
+      "bundesland_iso_3166_2": "AT-1",
+      "bundesland_slug": "burgenland",
+      "zulassungsbehoerde": "BH Oberwart",
+      "nationalitaetszeichen": "A"
+    }
+  ],
+  "meta": {
+    "title": "Kfz-Kennzeichen Burgenland (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke - Kostenloser Download",
+    "description": "Alle in Burgenland (AT-1) gültigen österreichischen Unterscheidungszeichen mit Zulassungsbezirk und Zulassungsbehörde. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = AT-1). Enthält 8 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Kfz-Kennzeichen Burgenland (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke | ListBase",
+    "seo_description": "Herunterladen Kfz-Kennzeichen Burgenland (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke — 8 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 8 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

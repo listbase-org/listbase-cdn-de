@@ -1,0 +1,91 @@
+{
+  "id": "de-braunschweig-stadtteile",
+  "name": "Stadtbezirke von Braunschweig",
+  "title": "Stadtbezirke von Braunschweig",
+  "description": "Die 20 Stadtbezirke (city districts) der Stadt Braunschweig, extrahiert aus den Grenz-GeoJSON-Dateien des Projekts Code for Germany / click_that_hood. Nur der native deutsche Name je Teilgebiet wurde übernommen; die Polygon-Geometrie wurde verworfen.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Broitzem"
+    },
+    {
+      "name": "Heidberg-Melverode"
+    },
+    {
+      "name": "Hondelage"
+    },
+    {
+      "name": "Innenstadt"
+    },
+    {
+      "name": "Lehndorf-Watenbüttel"
+    },
+    {
+      "name": "Nordstadt"
+    },
+    {
+      "name": "Querumer Forst"
+    },
+    {
+      "name": "Rüningen"
+    },
+    {
+      "name": "Schunteraue"
+    },
+    {
+      "name": "Stöckheim- Leiferde"
+    },
+    {
+      "name": "Südstadt- Rautheim- Mascherode"
+    },
+    {
+      "name": "Timmerlah-Geitelde-Stiddien"
+    },
+    {
+      "name": "Veltenhof-Rühme"
+    },
+    {
+      "name": "Viewegs Garten- Bebelhof"
+    },
+    {
+      "name": "Volkmarode"
+    },
+    {
+      "name": "Wabe-Schunter-Beberbach"
+    },
+    {
+      "name": "Wenden-Thune-Harxbüttel"
+    },
+    {
+      "name": "Westliches Ringgebiet"
+    },
+    {
+      "name": "Weststadt"
+    },
+    {
+      "name": "Östliches Ringgebiet"
+    }
+  ],
+  "meta": {
+    "title": "Stadtbezirke von Braunschweig - Kostenloser Download",
+    "description": "Die 20 Stadtbezirke (city districts) der Stadt Braunschweig, extrahiert aus den Grenz-GeoJSON-Dateien des Projekts Code for Germany / click_that_hood. Nur der native deutsche Name je Teilgebiet wurde übernommen; die Polygon-Geometrie wurde verworfen. Enthält 20 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Stadtbezirke von Braunschweig | ListBase",
+    "seo_description": "Herunterladen Stadtbezirke von Braunschweig — 20 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 20 Datensätze / 1 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

@@ -1,0 +1,1933 @@
+{
+  "id": "de-leuchttuerme",
+  "name": "Leuchttürme in Deutschland / Lighthouses in Germany",
+  "title": "Leuchttürme in Deutschland / Lighthouses in Germany",
+  "description": "Leuchttürme in Deutschland (Lighthouses in Germany). Geolocated points sourced from Wikidata (instance of Q39715), located in Germany (Q183), each with a coordinate (P625).",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 208,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_de",
+      "label": "Name De",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q436392",
+      "name_de": "Alte Weser",
+      "name_en": "Alte Weser",
+      "latitude": 53.863461,
+      "longitude": 8.127451,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q436392"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q28375188",
+      "name_de": "Altenbruch Unterfeuer",
+      "name_en": "Altenbruch Unterfeuer",
+      "latitude": 53.833617,
+      "longitude": 8.794783,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28375188"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q29946613",
+      "name_de": "Alter Leuchtturm",
+      "name_en": "Old lighthouse",
+      "latitude": 54.474036,
+      "longitude": 9.84095,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29946613"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q438067",
+      "name_de": "Alter Leuchtturm Borkum",
+      "name_en": "Old Lighthouse Borkum",
+      "latitude": 53.5878,
+      "longitude": 6.67056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q438067"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q30147105",
+      "name_de": "Alter Leuchtturm Kap Arkona",
+      "name_en": "Schinkel Tower",
+      "latitude": 54.679654,
+      "longitude": 13.432462,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30147105"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q118727843",
+      "name_de": "Alter Leuchtturm Marienleuchte",
+      "name_en": "Old Marienleuchte lighthouse",
+      "latitude": 54.49365,
+      "longitude": 11.237512,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118727843"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q21561366",
+      "name_de": "Alter Leuchtturm Pagensand-Süd",
+      "name_en": "Leuchtturm Pagensand Süd",
+      "latitude": 53.54405,
+      "longitude": 9.91458,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21561366"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q28332814",
+      "name_de": "Alter Leuchtturm Wangerooge",
+      "name_en": "Alter Leuchtturm Wangerooge",
+      "latitude": 53.78879,
+      "longitude": 7.89923,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28332814"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q1471332",
+      "name_de": "Alter Leuchtturm Westermarkelsdorf",
+      "name_en": "Old Westermarkelsdorf lighthouse",
+      "latitude": 54.527329,
+      "longitude": 11.058091,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1471332"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q34933181",
+      "name_de": "Balje Oberfeuer",
+      "name_en": "Balje range rear",
+      "latitude": 53.858284,
+      "longitude": 9.080565,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q34933181"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q34933409",
+      "name_de": "Balje Unterfeuer",
+      "name_en": "Balje range front",
+      "latitude": 53.854855,
+      "longitude": 9.043615,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q34933409"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q66475705",
+      "name_de": "Belum Oberfeuer",
+      "name_en": "Belum range rear light",
+      "latitude": 53.834722,
+      "longitude": 8.955833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66475705"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q33182476",
+      "name_de": "Berne Oberfeuer",
+      "name_en": "Berne Range Rear",
+      "latitude": 53.19378,
+      "longitude": 8.51855,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33182476"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q33182475",
+      "name_de": "Berne-Juliusplate Unterfeuer",
+      "name_en": "Berne-Juliusplate Range Front",
+      "latitude": 53.19537,
+      "longitude": 8.516718,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33182475"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q30144699",
+      "name_de": "Brunsbüttel Mole 1",
+      "name_en": "Brunsbüttel Mole 1",
+      "latitude": 53.887833,
+      "longitude": 9.142833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30144699"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q30147435",
+      "name_de": "Brunsbüttel Mole 2",
+      "name_en": "Brunsbüttel Mole 2",
+      "latitude": 53.8875,
+      "longitude": 9.138167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30147435"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q30147436",
+      "name_de": "Brunsbüttel Mole 3",
+      "name_en": "Brunsbüttel Mole 3",
+      "latitude": 53.8875,
+      "longitude": 9.1345,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30147436"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q30147437",
+      "name_de": "Brunsbüttel Mole 4",
+      "name_en": "Brunsbüttel Mole 4",
+      "latitude": 53.8875,
+      "longitude": 9.125667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30147437"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q30058309",
+      "name_de": "Brunsbüttel Oberfeuer",
+      "name_en": "Brunsbüttel range rear",
+      "latitude": 53.89476,
+      "longitude": 9.163778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30058309"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q30058311",
+      "name_de": "Brunsbüttel Unterfeuer",
+      "name_en": "Brunsbüttel range front",
+      "latitude": 53.88871,
+      "longitude": 9.141333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30058311"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q58393728",
+      "name_de": "Brunsbüttel, Alte Schleuse Ost",
+      "name_en": "Brunsbüttel, Alte Schleuse Ost",
+      "latitude": 53.88788,
+      "longitude": 9.14286,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58393728"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q1209895",
+      "name_de": "Dicke Berta (Leuchtturm)",
+      "name_en": "Leuchtturm Dicke Berta",
+      "latitude": 53.8358,
+      "longitude": 8.77139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1209895"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q28375614",
+      "name_de": "Ellerholz Oberfeuer",
+      "name_en": "Ellerholz Oberfeuer",
+      "latitude": 53.494929,
+      "longitude": 9.944867,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28375614"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q28375612",
+      "name_de": "Ellerholz Unterfeuer",
+      "name_en": "Ellerholz range front light",
+      "latitude": 53.495778,
+      "longitude": 9.944529,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28375612"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q30020898",
+      "name_de": "Fischereihafen-Oberfeuer",
+      "name_en": "Fischereihafen-Oberfeuer",
+      "latitude": 53.521389,
+      "longitude": 8.584722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30020898"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q29906893",
+      "name_de": "Großensiel Oberfeuer",
+      "name_en": "Großensiel range rear",
+      "latitude": 53.46522,
+      "longitude": 8.47613,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29906893"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q29906891",
+      "name_de": "Großensiel Unterfeuer",
+      "name_en": "Großensiel range front",
+      "latitude": 53.46838,
+      "longitude": 8.47915,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29906891"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q28375197",
+      "name_de": "Grünendeich Oberfeuer",
+      "name_en": "Grünendeich Oberfeuer",
+      "latitude": 53.57382,
+      "longitude": 9.609577,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28375197"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q1573066",
+      "name_de": "Hamburger Leuchtturm",
+      "name_en": "Leuchtfeuer Cuxhaven",
+      "latitude": 53.872778,
+      "longitude": 8.709444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1573066"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q28375669",
+      "name_de": "Heliosturm",
+      "name_en": "Helios-Leuchtturm",
+      "latitude": 50.950835,
+      "longitude": 6.914003,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28375669"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q30426821",
+      "name_de": "Hollerwettern alter Leuchtturm",
+      "name_en": "Hollerwettern Lighthouse",
+      "latitude": 53.84088,
+      "longitude": 9.352916,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30426821"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q66475431",
+      "name_de": "Juliusplate Oberfeuer",
+      "name_en": "Juliusplate Range rear",
+      "latitude": 53.197778,
+      "longitude": 8.510278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66475431"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q1325729",
+      "name_de": "Kleiner Leuchtturm Borkum",
+      "name_en": "Kleiner Leuchtturm (Borkum)",
+      "latitude": 53.57875,
+      "longitude": 6.66703,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1325729"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q60813977",
+      "name_de": "Kleiner Leuchtturm Neuwerk",
+      "name_en": "Little lighthouse Neuwerk",
+      "latitude": 53.919331,
+      "longitude": 8.490028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60813977"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q1746660",
+      "name_de": "Kleiner Preuße",
+      "name_en": "Kleiner Preuße",
+      "latitude": 53.645944,
+      "longitude": 8.493389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1746660"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q1816208",
+      "name_de": "Leitfeuer Dagebüll",
+      "name_en": "Sector light Dagebüll",
+      "latitude": 54.730157,
+      "longitude": 8.68934,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1816208"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q1439052",
+      "name_de": "Leitfeuer Nieblum",
+      "name_en": "Nieblum Lighthouse",
+      "latitude": 54.68441,
+      "longitude": 8.485702,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1439052"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q137566498",
+      "name_de": "Leuchtbake Twielenfleth",
+      "name_en": "",
+      "latitude": 53.605435,
+      "longitude": 9.55708,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137566498"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q30275539",
+      "name_de": "Leuchtbake Wriakhörn",
+      "name_en": "Wriakhörn Lighthouse",
+      "latitude": 54.626233,
+      "longitude": 8.352367,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30275539"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q28376225",
+      "name_de": "Leuchtfeuer Aurich",
+      "name_en": "Aurich lighthouse",
+      "latitude": 53.4646,
+      "longitude": 7.47455,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376225"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q27580153",
+      "name_de": "Leuchtfeuer Blankeck",
+      "name_en": "Blankeck warning light",
+      "latitude": 54.35363,
+      "longitude": 10.86612,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27580153"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q1759209",
+      "name_de": "Leuchtfeuer Bunthaus",
+      "name_en": "Leuchtturm Bunthäuser Spitze",
+      "latitude": 53.456858,
+      "longitude": 10.069061,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1759209"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q28375190",
+      "name_de": "Leuchtfeuer Cuxhaven-Duhnen",
+      "name_en": "Leuchtfeuer Cuxhaven-Duhnen",
+      "latitude": 53.8848,
+      "longitude": 8.6359,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28375190"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q1821420",
+      "name_de": "Leuchtfeuer Dornbusch",
+      "name_en": "Dornbusch Lighthouse",
+      "latitude": 54.599167,
+      "longitude": 13.119444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821420"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q1567574",
+      "name_de": "Leuchtfeuer Geestemündung",
+      "name_en": "Leuchtturm Geestemole Nord",
+      "latitude": 53.5359,
+      "longitude": 8.57493,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1567574"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q19946245",
+      "name_de": "Leuchtfeuer Gellen",
+      "name_en": "Leuchtturm Gellen",
+      "latitude": 54.508056,
+      "longitude": 13.074444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19946245"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q1821373",
+      "name_de": "Leuchtfeuer Heidkate",
+      "name_en": "Leuchtfeuer Heidkate",
+      "latitude": 54.4342,
+      "longitude": 10.3169,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821373"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q17484687",
+      "name_de": "Leuchtfeuer Heiligenhafen",
+      "name_en": "Heiligenhafen warning light",
+      "latitude": 54.3816,
+      "longitude": 10.93546,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17484687"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q1428567",
+      "name_de": "Leuchtfeuer Hubertsberg",
+      "name_en": "Hubertsberg lighthouse",
+      "latitude": 54.378,
+      "longitude": 10.5429,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1428567"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q123475170",
+      "name_de": "Leuchtfeuer Liener Hörn",
+      "name_en": "",
+      "latitude": 53.253184,
+      "longitude": 8.472817,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123475170"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q20031500",
+      "name_de": "Leuchtfeuer Minsener Oog Buhne A",
+      "name_en": "Minsener Oog Buhne A lighthouse",
+      "latitude": 53.7875,
+      "longitude": 8.0063,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20031500"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q28599017",
+      "name_de": "Leuchtfeuer Minsener Oog Buhne C",
+      "name_en": "Minsener Oog Buhne C Lighthouse",
+      "latitude": 53.75573,
+      "longitude": 8.022085,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28599017"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q139381933",
+      "name_de": "Leuchtfeuer Niegripp",
+      "name_en": "Niegripp Lighthouse",
+      "latitude": 52.254448,
+      "longitude": 11.733023,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q139381933"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q18410748",
+      "name_de": "Leuchtfeuer Peenemünde",
+      "name_en": "Peenemünde lighthouse",
+      "latitude": 54.18562,
+      "longitude": 13.77528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18410748"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q20826461",
+      "name_de": "Leuchtfeuer Wessek",
+      "name_en": "Wessek warning light",
+      "latitude": 54.3161,
+      "longitude": 10.8009,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20826461"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q1798958",
+      "name_de": "Leuchtturm Altenbruch",
+      "name_en": "Leuchtturm Altenbruch",
+      "latitude": 53.83009,
+      "longitude": 8.75743,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1798958"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q20669",
+      "name_de": "Leuchtturm Amrum",
+      "name_en": "Amrum Lighthouse",
+      "latitude": 54.6312,
+      "longitude": 8.35458,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20669"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q990511",
+      "name_de": "Leuchtturm Arngast",
+      "name_en": "Leuchtturm Arngast",
+      "latitude": 53.481342,
+      "longitude": 8.181597,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q990511"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q21486130",
+      "name_de": "Leuchtturm Balje",
+      "name_en": "Leuchtfeuer Balje",
+      "latitude": 53.85965,
+      "longitude": 9.08035,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21486130"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q28376433",
+      "name_de": "Leuchtturm Barßel",
+      "name_en": "Barßel lighthouse",
+      "latitude": 53.168833,
+      "longitude": 7.735,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376433"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q1821410",
+      "name_de": "Leuchtturm Billerbek",
+      "name_en": "Leuchtturm Billerbek",
+      "latitude": 53.566667,
+      "longitude": 9.733333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821410"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q304471",
+      "name_de": "Leuchtturm Bremerhaven",
+      "name_en": "Bremerhaven lighthouse",
+      "latitude": 53.546306,
+      "longitude": 8.570111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q304471"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q28374843",
+      "name_de": "Leuchtturm Bremerhaven Unterfeuer",
+      "name_en": "Leuchtturm Bremerhaven Unterfeuer",
+      "latitude": 53.54442,
+      "longitude": 8.56976,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28374843"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q15118331",
+      "name_de": "Leuchtturm Brinkamahof",
+      "name_en": "Leuchtturm Brinkamahof",
+      "latitude": 53.50877,
+      "longitude": 8.57796,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15118331"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q1821409",
+      "name_de": "Leuchtturm Buk",
+      "name_en": "Bastorf Lighthouse",
+      "latitude": 54.1319,
+      "longitude": 11.6936,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821409"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q1821413",
+      "name_de": "Leuchtturm Bülk",
+      "name_en": "Bülk Lighthouse",
+      "latitude": 54.455261,
+      "longitude": 10.1973,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821413"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q1664973",
+      "name_de": "Leuchtturm Büsum",
+      "name_en": "Büsum Lighthouse",
+      "latitude": 54.12684,
+      "longitude": 8.85825,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1664973"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q284886",
+      "name_de": "Leuchtturm Campen",
+      "name_en": "Campen Lighthouse",
+      "latitude": 53.40574,
+      "longitude": 7.01562,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q284886"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q1682221",
+      "name_de": "Leuchtturm Dagebüll",
+      "name_en": "Dagebüll lighthouse",
+      "latitude": 54.72528,
+      "longitude": 8.699874,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1682221"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q1767868",
+      "name_de": "Leuchtturm Dahmeshöved",
+      "name_en": "Leuchtturm Dahmeshöved",
+      "latitude": 54.201777,
+      "longitude": 11.09024,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1767868"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q1720366",
+      "name_de": "Leuchtturm Darßer Ort",
+      "name_en": "Lighthouse Darßer Ort",
+      "latitude": 54.4728,
+      "longitude": 12.5022,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1720366"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q19403412",
+      "name_de": "Leuchtturm Eckernförde",
+      "name_en": "Eckernförde lighthouse (1986)",
+      "latitude": 54.459583,
+      "longitude": 9.842778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19403412"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q19409199",
+      "name_de": "Leuchtturm Eckernförde (Hafen)",
+      "name_en": "Eckernförde lighthouse (1981)",
+      "latitude": 54.473067,
+      "longitude": 9.842433,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19409199"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q1821415",
+      "name_de": "Leuchtturm Ellerholzhafen",
+      "name_en": "Leuchtturm Ellerholzhöft",
+      "latitude": 53.531656,
+      "longitude": 9.955444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821415"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q1310598",
+      "name_de": "Leuchtturm Emden Westmole",
+      "name_en": "Emden Harbour entry light Westmole",
+      "latitude": 53.334444,
+      "longitude": 7.175,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1310598"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q1821417",
+      "name_de": "Leuchtturm Estemündung",
+      "name_en": "Estemündung Lighthouse",
+      "latitude": 53.535794,
+      "longitude": 9.791514,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821417"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q1821421",
+      "name_de": "Leuchtturm Falshöft",
+      "name_en": "Leuchtturm Falshöft",
+      "latitude": 54.767083,
+      "longitude": 9.965056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821421"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q1821427",
+      "name_de": "Leuchtturm Flügge",
+      "name_en": "Fehmarn Flügge",
+      "latitude": 54.4425,
+      "longitude": 11.019167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821427"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q1821426",
+      "name_de": "Leuchtturm Friedrichsort",
+      "name_en": "Leuchtturm Friedrichsort",
+      "latitude": 54.390278,
+      "longitude": 10.193333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821426"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q30337181",
+      "name_de": "Leuchtturm Glückstadt Nordmole",
+      "name_en": "Glückstadt Harbour entry north",
+      "latitude": 53.78531,
+      "longitude": 9.409055,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30337181"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q18410750",
+      "name_de": "Leuchtturm Gollwitz",
+      "name_en": "Gollwitz lighthouse",
+      "latitude": 54.02388,
+      "longitude": 11.47059,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18410750"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q28376045",
+      "name_de": "Leuchtturm Greifswalder Oie",
+      "name_en": "Greifswalder Oie Lighthouse",
+      "latitude": 54.249,
+      "longitude": 13.92397,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376045"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q1740187",
+      "name_de": "Leuchtturm Großer Vogelsand",
+      "name_en": "Großer Vogelsand lighthouse",
+      "latitude": 53.988333,
+      "longitude": 8.478056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1740187"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q16889793",
+      "name_de": "Leuchtturm Heiligenhafen",
+      "name_en": "Heiligenhafen lighthouse",
+      "latitude": 54.367167,
+      "longitude": 11.02133,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16889793"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q50740",
+      "name_de": "Leuchtturm Helgoland",
+      "name_en": "Helgoland lighthouse",
+      "latitude": 54.181833,
+      "longitude": 7.882389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q50740"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q50736",
+      "name_de": "Leuchtturm Helgoland Düne",
+      "name_en": "Heligoland Düne Lighthouse",
+      "latitude": 54.182289,
+      "longitude": 7.914062,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q50736"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q1657846",
+      "name_de": "Leuchtturm Hohe Weg",
+      "name_en": "Hohe Weg Lighthouse",
+      "latitude": 53.701944,
+      "longitude": 8.235,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1657846"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q1567074",
+      "name_de": "Leuchtturm Holnis",
+      "name_en": "Leuchtturm Schausende",
+      "latitude": 54.8617,
+      "longitude": 9.57341,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1567074"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q1680064",
+      "name_de": "Leuchtturm Holtenau",
+      "name_en": "Leuchtturm Kiel-Holtenau",
+      "latitude": 54.369248,
+      "longitude": 10.153896,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1680064"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q1821434",
+      "name_de": "Leuchtturm Hörnum",
+      "name_en": "Hörnum Lighthouse",
+      "latitude": 54.754078,
+      "longitude": 8.292197,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821434"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q19979483",
+      "name_de": "Leuchtturm Julssand",
+      "name_en": "Julssand Leuchtturm",
+      "latitude": 53.621667,
+      "longitude": 9.556111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19979483"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q1321463",
+      "name_de": "Leuchtturm Kaiserschleuse",
+      "name_en": "Kaiserschleuse lighthouse",
+      "latitude": 53.553612,
+      "longitude": 8.559953,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1321463"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q15825728",
+      "name_de": "Leuchtturm Kalkgrund",
+      "name_en": "Kalkgrund lighthouse",
+      "latitude": 54.824617,
+      "longitude": 9.888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15825728"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q896813",
+      "name_de": "Leuchtturm Kampen",
+      "name_en": "Kampen lighthouse",
+      "latitude": 54.9461,
+      "longitude": 8.34083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q896813"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q830182",
+      "name_de": "Leuchtturm Kap Arkona",
+      "name_en": "Cape Arkona Lighthouse",
+      "latitude": 54.6796,
+      "longitude": 13.4326,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q830182"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q107646942",
+      "name_de": "Leuchtturm Kemnader See",
+      "name_en": "Lake Kemnade Lighthouse",
+      "latitude": 51.43094,
+      "longitude": 7.27245,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107646942"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q1821432",
+      "name_de": "Leuchtturm Kiel",
+      "name_en": "Leuchtturm Kiel",
+      "latitude": 54.499722,
+      "longitude": 10.273611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821432"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q1821430",
+      "name_de": "Leuchtturm Knock",
+      "name_en": "Knock lighthouse",
+      "latitude": 53.338694,
+      "longitude": 7.023667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821430"
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q1267767",
+      "name_de": "Leuchtturm Kollicker Ort",
+      "name_en": "Leuchtturm Kollicker Ort",
+      "latitude": 54.562369,
+      "longitude": 13.679564,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1267767"
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q107642596",
+      "name_de": "Leuchtturm Lausitz",
+      "name_en": "",
+      "latitude": 51.491667,
+      "longitude": 14.116389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107642596"
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q110936484",
+      "name_de": "Leuchtturm Lauterbach",
+      "name_en": "Leuchtturm Lauterbach",
+      "latitude": 54.34252,
+      "longitude": 13.50007,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110936484"
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q1980205",
+      "name_de": "Leuchtturm Lindau",
+      "name_en": "Lindau Lighthouse",
+      "latitude": 47.542917,
+      "longitude": 9.683583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1980205"
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q1821436",
+      "name_de": "Leuchtturm List Ost",
+      "name_en": "Leuchtturm List Ost",
+      "latitude": 55.049423,
+      "longitude": 8.443734,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821436"
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q1821440",
+      "name_de": "Leuchtturm Moritzburg",
+      "name_en": "Lighthouse Moritzburg",
+      "latitude": 51.1685,
+      "longitude": 13.7097,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821440"
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q1821439",
+      "name_de": "Leuchtturm Nebel",
+      "name_en": "Nebel Lighthouse",
+      "latitude": 54.6453,
+      "longitude": 8.36124,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821439"
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q833471",
+      "name_de": "Leuchtturm Neuland",
+      "name_en": "Neuland Lighthouse",
+      "latitude": 54.36065,
+      "longitude": 10.60093,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q833471"
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q1821443",
+      "name_de": "Leuchtturm Neuwerk",
+      "name_en": "Great Tower Neuwerk",
+      "latitude": 53.915222,
+      "longitude": 8.495833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821443"
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q1821445",
+      "name_de": "Leuchtturm Norddorf",
+      "name_en": "Leuchtturm Norddorf",
+      "latitude": 54.6692,
+      "longitude": 8.30861,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821445"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q1821446",
+      "name_de": "Leuchtturm Norderney",
+      "name_en": "Leuchtturm Norderney",
+      "latitude": 53.7093,
+      "longitude": 7.2296,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821446"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q19979478",
+      "name_de": "Leuchtturm Nordmarsch",
+      "name_en": "Leuchtturm Nordmarsch",
+      "latitude": 54.625717,
+      "longitude": 8.529828,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19979478"
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q98742419",
+      "name_de": "Leuchtturm Nähe Nördliche Seestraße, Starnberger See in Münsing (D-1-73-137-62#3)",
+      "name_en": "Leuchtturm Nähe Nördliche Seestraße, Starnberger See in Münsing",
+      "latitude": 47.933453,
+      "longitude": 11.334064,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98742419"
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q1821448",
+      "name_de": "Leuchtturm Obereversand",
+      "name_en": "Leuchtturm Obereversand",
+      "latitude": 53.7423,
+      "longitude": 8.5135,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821448"
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q121074445",
+      "name_de": "Leuchtturm Oberfeuer Blankenese",
+      "name_en": "Blankenese Oberfeuer",
+      "latitude": 53.554167,
+      "longitude": 9.824167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121074445"
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q1340048",
+      "name_de": "Leuchtturm Oberfeuer Blankenese (1984)",
+      "name_en": "Blankenese Upper Lighthouse (1984)",
+      "latitude": 53.55602,
+      "longitude": 9.81614,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1340048"
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q1821452",
+      "name_de": "Leuchtturm Oberfeuer Bubendey-Ufer",
+      "name_en": "Bubendey-Ufer Oberfeuer",
+      "latitude": 53.53717,
+      "longitude": 9.90078,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821452"
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q1226093",
+      "name_de": "Leuchtturm Oland",
+      "name_en": "Oland lighthouse",
+      "latitude": 54.674722,
+      "longitude": 8.686944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1226093"
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q1821455",
+      "name_de": "Leuchtturm Olhörn",
+      "name_en": "Olhörn lighthouse",
+      "latitude": 54.680764,
+      "longitude": 8.566319,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821455"
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q1325054",
+      "name_de": "Leuchtturm Pellworm",
+      "name_en": "Leuchtturm Pellworm",
+      "latitude": 54.496286,
+      "longitude": 8.665969,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1325054"
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q1375159",
+      "name_de": "Leuchtturm Pelzerhaken",
+      "name_en": "Leuchtturm Pelzerhaken",
+      "latitude": 54.086944,
+      "longitude": 10.866944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1375159"
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q104971548",
+      "name_de": "Leuchtturm Plau am See",
+      "name_en": "Plau am See Lighthouse",
+      "latitude": 53.460833,
+      "longitude": 12.27675,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104971548"
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q61145812",
+      "name_de": "Leuchtturm Ranzow",
+      "name_en": "Leuchtturm Ranzow",
+      "latitude": 54.584556,
+      "longitude": 13.634389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61145812"
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q19681514",
+      "name_de": "Leuchtturm Rathenow",
+      "name_en": "Rathenow lighthouse",
+      "latitude": 52.60755,
+      "longitude": 12.32873,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19681514"
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q1821463",
+      "name_de": "Leuchtturm Robbenplate",
+      "name_en": "Robbenplate Lighthouse",
+      "latitude": 53.676666,
+      "longitude": 8.396183,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821463"
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q19979499",
+      "name_de": "Leuchtturm Schleimünde",
+      "name_en": "lighthouse of Schleimünde",
+      "latitude": 54.67142,
+      "longitude": 10.03627,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19979499"
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q58395162",
+      "name_de": "Leuchtturm St. Peter-Böhl",
+      "name_en": "St. Peter-Böhl Lighthouse",
+      "latitude": 54.287311,
+      "longitude": 8.652103,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58395162"
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q1707940",
+      "name_de": "Leuchtturm Staberhuk",
+      "name_en": "Leuchtturm Staberhuk",
+      "latitude": 54.4025,
+      "longitude": 11.310833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1707940"
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q98749916",
+      "name_de": "Leuchtturm Starnberger See in Starnberger See (gemeindefreies Gebiet) (D-1-88-118-65#5)",
+      "name_en": "Leuchtturm Starnberger See in Starnberger See (gemeindefreies Gebiet)",
+      "latitude": 47.920463,
+      "longitude": 11.293122,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98749916"
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q58398678",
+      "name_de": "Leuchtturm Steindeich",
+      "name_en": "Steindeich lighthouse",
+      "latitude": 53.73364,
+      "longitude": 9.4579,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58398678"
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q1349230",
+      "name_de": "Leuchtturm Strukkamphuk",
+      "name_en": "Leuchtturm Strukkamphuk",
+      "latitude": 54.409367,
+      "longitude": 11.095616,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1349230"
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q1853447",
+      "name_de": "Leuchtturm Tegeler Plate",
+      "name_en": "Tegeler Plate Lighthouse",
+      "latitude": 53.797831,
+      "longitude": 8.191169,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1853447"
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q1821458",
+      "name_de": "Leuchtturm Timmendorf",
+      "name_en": "Leuchtturm Timmendorf",
+      "latitude": 53.991944,
+      "longitude": 11.376667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821458"
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q1821457",
+      "name_de": "Leuchtturm Tinsdal",
+      "name_en": "Oberfeuer Tinsdal",
+      "latitude": 53.566111,
+      "longitude": 9.74,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821457"
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q1821461",
+      "name_de": "Leuchtturm Travemünde",
+      "name_en": "Leuchtturm Travemünde",
+      "latitude": 53.9605,
+      "longitude": 10.8794,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821461"
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q30036000",
+      "name_de": "Leuchtturm Ueckermünde",
+      "name_en": "Leuchtturm Ueckermünde",
+      "latitude": 53.751111,
+      "longitude": 14.07,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30036000"
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q1821464",
+      "name_de": "Leuchtturm Untereversand",
+      "name_en": "Leuchtturm Untereversand",
+      "latitude": 53.7395,
+      "longitude": 8.3565,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821464"
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q1821466",
+      "name_de": "Leuchtturm Unterfeuer Blankenese",
+      "name_en": "Blankenese Low Lighthouse",
+      "latitude": 53.55769,
+      "longitude": 9.79583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821466"
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q1821467",
+      "name_de": "Leuchtturm Unterfeuer Bubendey-Ufer",
+      "name_en": "Bubendey-Ufer Unterfeuer",
+      "latitude": 53.53975,
+      "longitude": 9.88613,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821467"
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q109673410",
+      "name_de": "Leuchtturm Vareler Siel",
+      "name_en": "Vareler Siel lighthouse",
+      "latitude": 53.41389,
+      "longitude": 8.18417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109673410"
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q21522650",
+      "name_de": "Leuchtturm Voslapp",
+      "name_en": "Voslapp lighthouse",
+      "latitude": 53.603972,
+      "longitude": 8.117028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21522650"
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q1697562",
+      "name_de": "Leuchtturm Warnemünde",
+      "name_en": "Warnemünde Lighthouse",
+      "latitude": 54.1814,
+      "longitude": 12.0858,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1697562"
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q454681",
+      "name_de": "Leuchtturm Westerheversand",
+      "name_en": "Westerheversand Lighthouse",
+      "latitude": 54.3734,
+      "longitude": 8.63992,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q454681"
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q1739921",
+      "name_de": "Leuchtturm Wittdün",
+      "name_en": "Wittdün lighthouse",
+      "latitude": 54.625111,
+      "longitude": 8.390917,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1739921"
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q1318152",
+      "name_de": "Leuchtturm Wittenbergen",
+      "name_en": "Unterfeuer Wittenbergen",
+      "latitude": 53.563917,
+      "longitude": 9.751461,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1318152"
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q107631358",
+      "name_de": "Leuchtturm Wustrow",
+      "name_en": "",
+      "latitude": 54.352419,
+      "longitude": 12.384294,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107631358"
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q19289152",
+      "name_de": "Leuchtturm Wustrow",
+      "name_en": "Wustrow Lighthouse",
+      "latitude": 54.33578,
+      "longitude": 12.37584,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19289152"
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q1821469",
+      "name_de": "Leuchtturm Wybelsum",
+      "name_en": "Wybelsum lighthouse",
+      "latitude": 53.336111,
+      "longitude": 7.108333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821469"
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q1821438",
+      "name_de": "Leuchttürme Marienleuchte",
+      "name_en": "Marienleuchte lighthouses",
+      "latitude": 54.495,
+      "longitude": 11.238056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821438"
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q979088",
+      "name_de": "List West",
+      "name_en": "Leuchtturm List West",
+      "latitude": 55.0529,
+      "longitude": 8.40145,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q979088"
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q30276141",
+      "name_de": "Lühe Unterfeuer",
+      "name_en": "Lühe range front light",
+      "latitude": 53.57184,
+      "longitude": 9.632644,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30276141"
+    },
+    {
+      "id": 150,
+      "wikidata_id": "Q28375414",
+      "name_de": "Mangturm",
+      "name_en": "Mangturm",
+      "latitude": 47.544438,
+      "longitude": 9.683491,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28375414"
+    },
+    {
+      "id": 151,
+      "wikidata_id": "Q1899371",
+      "name_de": "Maritim Travemünde",
+      "name_en": "Maritim Hotel Lübeck-Travemünde",
+      "latitude": 53.961667,
+      "longitude": 10.881944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1899371"
+    },
+    {
+      "id": 152,
+      "wikidata_id": "Q1885120",
+      "name_de": "Mellumplate",
+      "name_en": "Leuchtturm Mellumplate",
+      "latitude": 53.771667,
+      "longitude": 8.0925,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1885120"
+    },
+    {
+      "id": 153,
+      "wikidata_id": "Q33057954",
+      "name_de": "Memmertfeuer",
+      "name_en": "Memmertfeuer",
+      "latitude": 53.675011,
+      "longitude": 6.995078,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33057954"
+    },
+    {
+      "id": 154,
+      "wikidata_id": "Q28375203",
+      "name_de": "Mielstack Unterfeuer",
+      "name_en": "Mielstack Unterfeuer",
+      "latitude": 53.56836,
+      "longitude": 9.641833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28375203"
+    },
+    {
+      "id": 155,
+      "wikidata_id": "Q58393729",
+      "name_de": "Molenfeuer Brunsbüttel West",
+      "name_en": "Harbour entry light Brunsbüttel West",
+      "latitude": 53.88751,
+      "longitude": 9.13739,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58393729"
+    },
+    {
+      "id": 156,
+      "wikidata_id": "Q58359944",
+      "name_de": "Molenfeuer Mukran",
+      "name_en": "Mukran harbour entrance light",
+      "latitude": 54.476444,
+      "longitude": 13.597667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58359944"
+    },
+    {
+      "id": 157,
+      "wikidata_id": "Q1943419",
+      "name_de": "Molenfeuer Sassnitz",
+      "name_en": "Molenfeuer Sassnitz",
+      "latitude": 54.506022,
+      "longitude": 13.637319,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1943419"
+    },
+    {
+      "id": 158,
+      "wikidata_id": "Q19573735",
+      "name_de": "Molenfeuer Travemünde",
+      "name_en": "Travemünde harbour entrance lights",
+      "latitude": 53.961667,
+      "longitude": 10.889167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19573735"
+    },
+    {
+      "id": 159,
+      "wikidata_id": "Q19689171",
+      "name_de": "Molenfeuer Warnemünde",
+      "name_en": "Warnemünde harbour entrance lights",
+      "latitude": 54.187,
+      "longitude": 12.089,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19689171"
+    },
+    {
+      "id": 160,
+      "wikidata_id": "Q33129407",
+      "name_de": "Molenfeuer Überseehafen Bremen Nord",
+      "name_en": "Molenfeuer Überseehafen Nord",
+      "latitude": 53.1089,
+      "longitude": 8.74565,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33129407"
+    },
+    {
+      "id": 161,
+      "wikidata_id": "Q1679282",
+      "name_de": "Molenfeuer Überseehafen Süd",
+      "name_en": "Molenfeuer Überseehafen Süd",
+      "latitude": 53.1061,
+      "longitude": 8.7475,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1679282"
+    },
+    {
+      "id": 162,
+      "wikidata_id": "Q522946",
+      "name_de": "Neuer Leuchtturm Borkum",
+      "name_en": "Borkum Großer Leuchtturm",
+      "latitude": 53.58879,
+      "longitude": 6.6621,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q522946"
+    },
+    {
+      "id": 163,
+      "wikidata_id": "Q118728256",
+      "name_de": "Neuer Leuchtturm Marienleuchte",
+      "name_en": "New Marienleuchte lighthouse",
+      "latitude": 54.494972,
+      "longitude": 11.238225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118728256"
+    },
+    {
+      "id": 164,
+      "wikidata_id": "Q19832618",
+      "name_de": "Neuer Leuchtturm Wangerooge",
+      "name_en": "Neuer Leuchtturm Wangerooge",
+      "latitude": 53.790083,
+      "longitude": 7.857183,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19832618"
+    },
+    {
+      "id": 165,
+      "wikidata_id": "Q118658286",
+      "name_de": "Neuer Leuchtturm Westermarkelsdorf",
+      "name_en": "New Westermarkelsdorf lighthouse",
+      "latitude": 54.527506,
+      "longitude": 11.058415,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118658286"
+    },
+    {
+      "id": 166,
+      "wikidata_id": "Q30342271",
+      "name_de": "Nordenham Oberfeuer",
+      "name_en": "Nordenham range rear",
+      "latitude": 53.481,
+      "longitude": 8.486,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30342271"
+    },
+    {
+      "id": 167,
+      "wikidata_id": "Q30342272",
+      "name_de": "Nordenham Unterfeuer",
+      "name_en": "Nordenham range front",
+      "latitude": 53.4645,
+      "longitude": 8.488,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30342272"
+    },
+    {
+      "id": 168,
+      "wikidata_id": "Q28375610",
+      "name_de": "Oberfeuer Altenwerder",
+      "name_en": "Altenwerder Oberfeuer",
+      "latitude": 53.49506,
+      "longitude": 9.939997,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28375610"
+    },
+    {
+      "id": 169,
+      "wikidata_id": "Q30434618",
+      "name_de": "Oberfeuer Brokdorf",
+      "name_en": "Brokdorf range rear",
+      "latitude": 53.852617,
+      "longitude": 9.346433,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30434618"
+    },
+    {
+      "id": 170,
+      "wikidata_id": "Q30316745",
+      "name_de": "Oberfeuer Bützflethersand",
+      "name_en": "Bützflethersand range rear light",
+      "latitude": 53.634833,
+      "longitude": 9.517333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30316745"
+    },
+    {
+      "id": 171,
+      "wikidata_id": "Q30337173",
+      "name_de": "Oberfeuer Glückstadt",
+      "name_en": "Glückstadt range rear light",
+      "latitude": 53.79749,
+      "longitude": 9.418555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30337173"
+    },
+    {
+      "id": 172,
+      "wikidata_id": "Q63441665",
+      "name_de": "Oberfeuer Großerpater",
+      "name_en": "Großerpater range rear light",
+      "latitude": 53.31671,
+      "longitude": 8.505966,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63441665"
+    },
+    {
+      "id": 173,
+      "wikidata_id": "Q134711186",
+      "name_de": "Oberfeuer Harriersand",
+      "name_en": "Harriersand range rear light",
+      "latitude": 53.323946,
+      "longitude": 8.497356,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134711186"
+    },
+    {
+      "id": 174,
+      "wikidata_id": "Q137566420",
+      "name_de": "Oberfeuer Krautsand",
+      "name_en": "",
+      "latitude": 53.758972,
+      "longitude": 9.374441,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137566420"
+    },
+    {
+      "id": 175,
+      "wikidata_id": "Q63283661",
+      "name_de": "Oberfeuer Lemwerder",
+      "name_en": "Lemwerder range rear",
+      "latitude": 53.168879,
+      "longitude": 8.594535,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63283661"
+    },
+    {
+      "id": 176,
+      "wikidata_id": "Q18510670",
+      "name_de": "Oberfeuer Preußeneck",
+      "name_en": "Eckwarden rear range light",
+      "latitude": 53.52103,
+      "longitude": 8.23247,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18510670"
+    },
+    {
+      "id": 177,
+      "wikidata_id": "Q63283417",
+      "name_de": "Oberfeuer Sandstedt",
+      "name_en": "Sandstedt range rear",
+      "latitude": 53.364577,
+      "longitude": 8.51276,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63283417"
+    },
+    {
+      "id": 178,
+      "wikidata_id": "Q56436567",
+      "name_de": "Oberfeuer Schillig",
+      "name_en": "Schillig range rear",
+      "latitude": 53.700431,
+      "longitude": 8.021464,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56436567"
+    },
+    {
+      "id": 179,
+      "wikidata_id": "Q30309916",
+      "name_de": "Oberfeuer Stadersand",
+      "name_en": "Stadersand range rear light",
+      "latitude": 53.62145,
+      "longitude": 9.531015,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30309916"
+    },
+    {
+      "id": 180,
+      "wikidata_id": "Q3378139",
+      "name_de": "Oberfeuer Voslapp",
+      "name_en": "Voslapp Range Rear Light",
+      "latitude": 53.5815,
+      "longitude": 8.1309,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3378139"
+    },
+    {
+      "id": 181,
+      "wikidata_id": "Q66475482",
+      "name_de": "Otterndorf Oberfeuer",
+      "name_en": "Otterndorf range rear light",
+      "latitude": 53.826111,
+      "longitude": 8.901111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66475482"
+    },
+    {
+      "id": 182,
+      "wikidata_id": "Q66475512",
+      "name_de": "Otterndorf-Belum Unterfeuer",
+      "name_en": "Otterndorf Belum range front light",
+      "latitude": 53.835278,
+      "longitude": 8.935833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66475512"
+    },
+    {
+      "id": 183,
+      "wikidata_id": "Q539709",
+      "name_de": "Pilsumer Leuchtturm",
+      "name_en": "Pilsum Lighthouse",
+      "latitude": 53.49799,
+      "longitude": 7.04565,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q539709"
+    },
+    {
+      "id": 184,
+      "wikidata_id": "Q21073997",
+      "name_de": "Quermarkenfeuer Düne",
+      "name_en": "Borkum Düne lighthouse",
+      "latitude": 53.5788,
+      "longitude": 6.67042,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21073997"
+    },
+    {
+      "id": 185,
+      "wikidata_id": "Q1821460",
+      "name_de": "Quermarkenfeuer Rotes Kliff",
+      "name_en": "Rotes Kliff lighthouse",
+      "latitude": 54.9657,
+      "longitude": 8.33781,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1821460"
+    },
+    {
+      "id": 186,
+      "wikidata_id": "Q220034",
+      "name_de": "Roter Sand",
+      "name_en": "Roter Sand",
+      "latitude": 53.855,
+      "longitude": 8.081667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220034"
+    },
+    {
+      "id": 187,
+      "wikidata_id": "Q63283639",
+      "name_de": "Schwarzer Leuchtturm",
+      "name_en": "Schwarzer Leuchtturm",
+      "latitude": 53.165521,
+      "longitude": 8.603287,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63283639"
+    },
+    {
+      "id": 188,
+      "wikidata_id": "Q28376373",
+      "name_de": "Schwarzer Leuchtturm Warfleth",
+      "name_en": "Lighthouse Warflether Sand",
+      "latitude": 53.186581,
+      "longitude": 8.534837,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376373"
+    },
+    {
+      "id": 189,
+      "wikidata_id": "Q30018355",
+      "name_de": "Somfletherwisch Oberfeuer",
+      "name_en": "Somfletherwisch Oberfeuer",
+      "latitude": 53.56355,
+      "longitude": 9.64964,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30018355"
+    },
+    {
+      "id": 190,
+      "wikidata_id": "Q30018353",
+      "name_de": "Somfletherwisch Unterfeuer",
+      "name_en": "Somfletherwisch Unterfeuer",
+      "latitude": 53.56966,
+      "longitude": 9.63962,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30018353"
+    },
+    {
+      "id": 191,
+      "wikidata_id": "Q30092979",
+      "name_de": "Tossens Oberfeuer",
+      "name_en": "Tossens range rear",
+      "latitude": 53.54638,
+      "longitude": 8.23783,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30092979"
+    },
+    {
+      "id": 192,
+      "wikidata_id": "Q30092978",
+      "name_de": "Tossens Unterfeuer",
+      "name_en": "Tossens range front",
+      "latitude": 53.57511,
+      "longitude": 8.20547,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30092978"
+    },
+    {
+      "id": 193,
+      "wikidata_id": "Q28375608",
+      "name_de": "Unterfeuer Altenwerder",
+      "name_en": "Altenwerder Unterfeuer",
+      "latitude": 53.49645,
+      "longitude": 9.939933,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28375608"
+    },
+    {
+      "id": 194,
+      "wikidata_id": "Q30311552",
+      "name_de": "Unterfeuer Bützflethersand",
+      "name_en": "Lower range light Bützflethersand",
+      "latitude": 53.6315,
+      "longitude": 9.5245,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30311552"
+    },
+    {
+      "id": 195,
+      "wikidata_id": "Q30337149",
+      "name_de": "Unterfeuer Glückstadt",
+      "name_en": "Glückstadt range front light",
+      "latitude": 53.80504,
+      "longitude": 9.404249,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30337149"
+    },
+    {
+      "id": 196,
+      "wikidata_id": "Q63441680",
+      "name_de": "Unterfeuer Großerpater",
+      "name_en": "Großerpater range front light",
+      "latitude": 53.328545,
+      "longitude": 8.504563,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63441680"
+    },
+    {
+      "id": 197,
+      "wikidata_id": "Q134711201",
+      "name_de": "Unterfeuer Harriersand",
+      "name_en": "Harriersand range front light",
+      "latitude": 53.315435,
+      "longitude": 8.495425,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134711201"
+    },
+    {
+      "id": 198,
+      "wikidata_id": "Q137566756",
+      "name_de": "Unterfeuer Hohenzollern",
+      "name_en": "",
+      "latitude": 53.228923,
+      "longitude": 8.481708,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137566756"
+    },
+    {
+      "id": 199,
+      "wikidata_id": "Q30425617",
+      "name_de": "Unterfeuer Hollerwettern",
+      "name_en": "Unterfeuer Hollerwettern",
+      "latitude": 53.839333,
+      "longitude": 9.354333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30425617"
+    },
+    {
+      "id": 200,
+      "wikidata_id": "Q30337477",
+      "name_de": "Unterfeuer Krautsand",
+      "name_en": "Lower range light Krautsand",
+      "latitude": 53.754483,
+      "longitude": 9.3863,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30337477"
+    },
+    {
+      "id": 201,
+      "wikidata_id": "Q63283688",
+      "name_de": "Unterfeuer Lemwerder",
+      "name_en": "Lemwerder range front",
+      "latitude": 53.17085,
+      "longitude": 8.588733,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63283688"
+    },
+    {
+      "id": 202,
+      "wikidata_id": "Q137566468",
+      "name_de": "Unterfeuer Lühe",
+      "name_en": "",
+      "latitude": 53.572126,
+      "longitude": 9.630091,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137566468"
+    },
+    {
+      "id": 203,
+      "wikidata_id": "Q1314979",
+      "name_de": "Unterfeuer Pellworm",
+      "name_en": "Pellworm range front light",
+      "latitude": 54.486417,
+      "longitude": 8.651139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1314979"
+    },
+    {
+      "id": 204,
+      "wikidata_id": "Q63283388",
+      "name_de": "Unterfeuer Sandstedt",
+      "name_en": "Sandstedt range front",
+      "latitude": 53.361183,
+      "longitude": 8.51065,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63283388"
+    },
+    {
+      "id": 205,
+      "wikidata_id": "Q28375943",
+      "name_de": "Unterfeuer Schillig",
+      "name_en": "Schillig range front",
+      "latitude": 53.6966,
+      "longitude": 8.02815,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28375943"
+    },
+    {
+      "id": 206,
+      "wikidata_id": "Q30308230",
+      "name_de": "Unterfeuer Stadersand",
+      "name_en": "Stadersand range front light",
+      "latitude": 53.62827,
+      "longitude": 9.527432,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30308230"
+    },
+    {
+      "id": 207,
+      "wikidata_id": "Q21546362",
+      "name_de": "Unterfeuer Voslapp",
+      "name_en": "Voslapp Range Front Light",
+      "latitude": 53.619275,
+      "longitude": 8.113311,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21546362"
+    },
+    {
+      "id": 208,
+      "wikidata_id": "Q28375186",
+      "name_de": "Wehldorf Oberfeuer",
+      "name_en": "Wehldorf Oberfeuer",
+      "latitude": 53.83011,
+      "longitude": 8.80165,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28375186"
+    }
+  ],
+  "meta": {
+    "title": "Leuchttürme in Deutschland / Lighthouses in Germany - Kostenloser Download",
+    "description": "Leuchttürme in Deutschland (Lighthouses in Germany). Geolocated points sourced from Wikidata (instance of Q39715), located in Germany (Q183), each with a coordinate (P625). Enthält 208 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Leuchttürme in Deutschland / Lighthouses in Germany | ListBase",
+    "seo_description": "Herunterladen Leuchttürme in Deutschland / Lighthouses in Germany — 208 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 208 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

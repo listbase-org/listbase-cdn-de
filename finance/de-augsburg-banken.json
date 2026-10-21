@@ -1,0 +1,219 @@
+{
+  "id": "de-augsburg-banken",
+  "name": "Banken in Augsburg — SWIFT/BIC-Codes",
+  "title": "Banken in Augsburg — SWIFT/BIC-Codes",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Augsburg, Germany. Subset of de-banken.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 88,
+      "bank": "AUGSBURGER AKTIENBANK AG",
+      "city": "AUGSBURG",
+      "branch": "(AUGSBURG BRANCH)",
+      "swift_code": "AUGBDE71AUG"
+    },
+    {
+      "id": 89,
+      "bank": "AUGSBURGER AKTIENBANK AG",
+      "city": "AUGSBURG",
+      "branch": "(NETBANK)",
+      "swift_code": "AUGBDE71NET"
+    },
+    {
+      "id": 90,
+      "bank": "AUGSBURGER AKTIENBANK AG",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "AUGBDE77"
+    },
+    {
+      "id": 93,
+      "bank": "AUGUSTA-BANK EG RAIFFEISEN-VOLKSBANK",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "GENODEF1AUB"
+    },
+    {
+      "id": 247,
+      "bank": "BANKHAUS ANTON HAFNER KG",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "ANHODE77"
+    },
+    {
+      "id": 248,
+      "bank": "BANKHAUS ANTON HAFNER KG",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "ANHODE77PAY"
+    },
+    {
+      "id": 664,
+      "bank": "COMMERZBANK AG",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "COBADEFF720"
+    },
+    {
+      "id": 1294,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "DRESDEFF720"
+    },
+    {
+      "id": 1990,
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "DAAEDED1027"
+    },
+    {
+      "id": 2077,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "DEUTDEMM720"
+    },
+    {
+      "id": 2937,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "DEUTDEDB720"
+    },
+    {
+      "id": 3645,
+      "bank": "DEUTSCHE BUNDESBANK",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "MARKDEF1720"
+    },
+    {
+      "id": 3890,
+      "bank": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "GENODEF1503"
+    },
+    {
+      "id": 4129,
+      "bank": "FURST FUGGER PRIVATBANK AKTIENGESELLSCHAFT",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "FUBKDE71"
+    },
+    {
+      "id": 4419,
+      "bank": "KREISSPARKASSE AUGSBURG",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "BYLADEM1AUG"
+    },
+    {
+      "id": 4579,
+      "bank": "LIGA BANK EG",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "GENODEF1M5Z"
+    },
+    {
+      "id": 4739,
+      "bank": "NETBANK - MARKE DER AUGSBURGER AKTIENBANK AG",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "NETCDEHH"
+    },
+    {
+      "id": 4908,
+      "bank": "PSD BANK MUENCHEN EG",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "GENODEF1P14"
+    },
+    {
+      "id": 5745,
+      "bank": "SEB AG",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "ESSEDE5F720"
+    },
+    {
+      "id": 6051,
+      "bank": "SPARDA-BANK AUGSBURG EG",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "GENODEF1S03"
+    },
+    {
+      "id": 6052,
+      "bank": "SPARDA-BANK AUGSBURG EG",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "SPBKDE7A"
+    },
+    {
+      "id": 6423,
+      "bank": "STADTSPARKASSE AUGSBURG",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "AUGSDE77"
+    },
+    {
+      "id": 6652,
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "HYVEDEMM408"
+    },
+    {
+      "id": 8381,
+      "bank": "VR-BANK HANDELS- UND GEWERBEBANK EG",
+      "city": "AUGSBURG",
+      "branch": "",
+      "swift_code": "VRHGDE71"
+    }
+  ],
+  "meta": {
+    "title": "Banken in Augsburg — SWIFT/BIC-Codes - Kostenloser Download",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Augsburg, Germany. Subset of de-banken. Enthält 24 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Banken in Augsburg — SWIFT/BIC-Codes | ListBase",
+    "seo_description": "Herunterladen Banken in Augsburg — SWIFT/BIC-Codes — 24 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 24 Datensätze / 5 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

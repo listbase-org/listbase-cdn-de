@@ -1,0 +1,121 @@
+{
+  "id": "de-bremen-staedte",
+  "name": "Städte und Gemeinden — Bremen",
+  "title": "Städte und Gemeinden — Bremen",
+  "description": "2 Städte und Gemeinden in Bremen (DE-HB). Mit Landkreis, Einwohnerzahl, Fläche (km^2) und Koordinaten. Quelle: Wikipedia List of cities and towns in Germany via pensnarik/german-cities (CC0).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_de",
+      "label": "Name De",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_en",
+      "label": "Bundesland En",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_iso",
+      "label": "Bundesland Iso",
+      "type": "string"
+    },
+    {
+      "key": "landkreis",
+      "label": "Landkreis",
+      "type": "string"
+    },
+    {
+      "key": "is_kreisfrei",
+      "label": "Is Kreisfrei",
+      "type": "boolean"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bremen",
+      "name_de": "Bremen",
+      "slug": "bremen",
+      "bundesland": "Bremen",
+      "bundesland_en": "Bremen",
+      "bundesland_slug": "bremen",
+      "bundesland_iso": "DE-HB",
+      "landkreis": "",
+      "is_kreisfrei": false,
+      "population": 566573,
+      "area_km2": 326.73,
+      "lat": 53.083,
+      "lon": 8.8
+    },
+    {
+      "name": "Bremerhaven",
+      "name_de": "Bremerhaven",
+      "slug": "bremerhaven",
+      "bundesland": "Bremen",
+      "bundesland_en": "Bremen",
+      "bundesland_slug": "bremen",
+      "bundesland_iso": "DE-HB",
+      "landkreis": "",
+      "is_kreisfrei": false,
+      "population": 113557,
+      "area_km2": 93.82,
+      "lat": 53.55,
+      "lon": 8.58333
+    }
+  ],
+  "meta": {
+    "title": "Städte und Gemeinden — Bremen - Kostenloser Download",
+    "description": "2 Städte und Gemeinden in Bremen (DE-HB). Mit Landkreis, Einwohnerzahl, Fläche (km^2) und Koordinaten. Quelle: Wikipedia List of cities and towns in Germany via pensnarik/german-cities (CC0). Enthält 2 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Städte und Gemeinden — Bremen | ListBase",
+    "seo_description": "Herunterladen Städte und Gemeinden — Bremen — 2 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 2 Datensätze / 13 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

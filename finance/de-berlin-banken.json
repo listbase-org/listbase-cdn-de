@@ -1,0 +1,856 @@
+{
+  "id": "de-berlin-banken",
+  "name": "Banken in Berlin — SWIFT/BIC-Codes",
+  "title": "Banken in Berlin — SWIFT/BIC-Codes",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Berlin, Germany. Subset of de-banken.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 115,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 7,
+      "bank": "AAREAL BANK AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "AARBDE5W100"
+    },
+    {
+      "id": 50,
+      "bank": "ALLGEMEINE BEAMTEN KASSE KREDITBANK AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "ABKBDEB1"
+    },
+    {
+      "id": 51,
+      "bank": "ALLGEMEINE BEAMTEN KASSE KREDITBANK AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "ABKBDEBB"
+    },
+    {
+      "id": 196,
+      "bank": "BANK FUER KIRCHE UND DIAKONIE EG-KD-BANK GF SONDER-BLZ",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "GENODED1KDB"
+    },
+    {
+      "id": 201,
+      "bank": "BANK FUER SCHIFFAHRT EG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "GENODEF1BSB"
+    },
+    {
+      "id": 203,
+      "bank": "BANK FUER SOZIALWIRTSCHAFT AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "BFSWDE33BER"
+    },
+    {
+      "id": 235,
+      "bank": "BANK OF SCOTLAND",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "BOFSDEB1"
+    },
+    {
+      "id": 274,
+      "bank": "BANKHAUS LOEBBECKE AG",
+      "city": "BERLIN",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "LOEBDEBB"
+    },
+    {
+      "id": 275,
+      "bank": "BANKHAUS LOEBBECKE AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "LOEBDEBBTGT"
+    },
+    {
+      "id": 309,
+      "bank": "BAYERISCHE LANDESBANK, MUENCHEN",
+      "city": "BERLIN",
+      "branch": "(TARGET2SECURITIES)",
+      "swift_code": "BYLADEMMSM4"
+    },
+    {
+      "id": 324,
+      "bank": "BERGFUERST BANK AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "BEGGDEB1"
+    },
+    {
+      "id": 326,
+      "bank": "BERLIN HYP AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "BHYPDEB2"
+    },
+    {
+      "id": 327,
+      "bank": "BERLIN-CHEMIE AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "BCHEDEB1"
+    },
+    {
+      "id": 328,
+      "bank": "BERLINER SPARKASSE - LANDESBANK BERLIN AG",
+      "city": "BERLIN",
+      "branch": "(DIREKTBANK SERVICE)",
+      "swift_code": "BELADEB1DB5"
+    },
+    {
+      "id": 329,
+      "bank": "BERLINER SPARKASSE - LANDESBANK BERLIN AG",
+      "city": "BERLIN",
+      "branch": "(DIREKTBANK SERVICE)",
+      "swift_code": "BELADEB1DB6"
+    },
+    {
+      "id": 330,
+      "bank": "BERLINER SPARKASSE - LANDESBANK BERLIN AG",
+      "city": "BERLIN",
+      "branch": "(DIREKTBANK SERVICE)",
+      "swift_code": "BELADEB1DB7"
+    },
+    {
+      "id": 331,
+      "bank": "BERLINER SPARKASSE - LANDESBANK BERLIN AG",
+      "city": "BERLIN",
+      "branch": "(DIREKTBANK SERVICE)",
+      "swift_code": "BELADEB1DB8"
+    },
+    {
+      "id": 332,
+      "bank": "BERLINER SPARKASSE - LANDESBANK BERLIN AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "BELADEB1DOT"
+    },
+    {
+      "id": 333,
+      "bank": "BERLINER SPARKASSE - LANDESBANK BERLIN AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "BELADEBE"
+    },
+    {
+      "id": 334,
+      "bank": "BERLINER SPARKASSE - LANDESBANK BERLIN AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "BELADEBECFS"
+    },
+    {
+      "id": 335,
+      "bank": "BERLINER VOLKSBANK EG",
+      "city": "BERLIN",
+      "branch": "(PM LIGHT BUNDESBANK)",
+      "swift_code": "BEVODEBBBBK"
+    },
+    {
+      "id": 336,
+      "bank": "BERLINER VOLKSBANK EG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "BEVODEBB"
+    },
+    {
+      "id": 337,
+      "bank": "BERLINER VOLKSBANK EG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "BEVODEBBDOT"
+    },
+    {
+      "id": 350,
+      "bank": "BIOTRONIK SE AND CO. KG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "BIOTDEBB"
+    },
+    {
+      "id": 354,
+      "bank": "BKMU BANK AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "BKMUDEB1"
+    },
+    {
+      "id": 414,
+      "bank": "BOERSE BERLIN AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "XBERDEB1"
+    },
+    {
+      "id": 423,
+      "bank": "BREMER KREDITBANK AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "BANVDEHB100"
+    },
+    {
+      "id": 695,
+      "bank": "COMMERZBANK AG",
+      "city": "BERLIN",
+      "branch": "(BER GF-B48)",
+      "swift_code": "COBADEFF910"
+    },
+    {
+      "id": 696,
+      "bank": "COMMERZBANK AG",
+      "city": "BERLIN",
+      "branch": "(BERLIN BRANCH - MITTE)",
+      "swift_code": "COBADEBB120"
+    },
+    {
+      "id": 697,
+      "bank": "COMMERZBANK AG",
+      "city": "BERLIN",
+      "branch": "(BERLIN BRANCH)",
+      "swift_code": "COBADEBB"
+    },
+    {
+      "id": 698,
+      "bank": "COMMERZBANK AG",
+      "city": "BERLIN",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF102"
+    },
+    {
+      "id": 699,
+      "bank": "COMMERZBANK AG",
+      "city": "BERLIN",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF103"
+    },
+    {
+      "id": 700,
+      "bank": "COMMERZBANK AG",
+      "city": "BERLIN",
+      "branch": "(CC SP1)",
+      "swift_code": "COBADEFFS01"
+    },
+    {
+      "id": 701,
+      "bank": "COMMERZBANK AG",
+      "city": "BERLIN",
+      "branch": "(COMMERZBANK SERVICE-BZ)",
+      "swift_code": "COBADEFFBZB"
+    },
+    {
+      "id": 1327,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "BERLIN",
+      "branch": "(CORPORATE BANKING DCC-ITGK II)",
+      "swift_code": "DRESDEFFI99"
+    },
+    {
+      "id": 1328,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "BERLIN",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK)",
+      "swift_code": "DRESDEFFI14"
+    },
+    {
+      "id": 1329,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "BERLIN",
+      "branch": "(FILIALE BERLIN I)",
+      "swift_code": "DRESDEFF100"
+    },
+    {
+      "id": 1330,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "BERLIN",
+      "branch": "(FILIALE BERLIN II)",
+      "swift_code": "DRESDEFF120"
+    },
+    {
+      "id": 1331,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "BERLIN",
+      "branch": "(FILIALE BERLIN III)",
+      "swift_code": "DRESDEFF199"
+    },
+    {
+      "id": 1332,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "BERLIN",
+      "branch": "(P AND G BERLIN (ZW A)",
+      "swift_code": "DRESDEFFI26"
+    },
+    {
+      "id": 1333,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "BERLIN",
+      "branch": "(PCC DCC-ITGK 3)",
+      "swift_code": "DRESDEFFI53"
+    },
+    {
+      "id": 1334,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "BERLIN",
+      "branch": "(PCC DCC-ITGK 4)",
+      "swift_code": "DRESDEFFI71"
+    },
+    {
+      "id": 1335,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "BERLIN",
+      "branch": "(PCC DCC-ITGK 5)",
+      "swift_code": "DRESDEFFI72"
+    },
+    {
+      "id": 1336,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "BERLIN",
+      "branch": "(PCC DCC-ITGK 6)",
+      "swift_code": "DRESDEFFI73"
+    },
+    {
+      "id": 1337,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "BERLIN",
+      "branch": "(ZW 55)",
+      "swift_code": "DRESDEFF112"
+    },
+    {
+      "id": 1338,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "BERLIN",
+      "branch": "(ZW 57)",
+      "swift_code": "DRESDEFF114"
+    },
+    {
+      "id": 1972,
+      "bank": "DEKABANK DEUTSCHE GIROZENTRALE FRANKFURT",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "DGZFDEFFBER"
+    },
+    {
+      "id": 1992,
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "BERLIN",
+      "branch": "(OST)",
+      "swift_code": "DAAEDED1050"
+    },
+    {
+      "id": 1993,
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "DAAEDED1003"
+    },
+    {
+      "id": 2127,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "BERLIN",
+      "branch": "(BERLIN II)",
+      "swift_code": "DEUTDEBB101"
+    },
+    {
+      "id": 2128,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "DEUTDEBB"
+    },
+    {
+      "id": 2987,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "BERLIN",
+      "branch": "(BERLIN II)",
+      "swift_code": "DEUTDEDB101"
+    },
+    {
+      "id": 2988,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "DEUTDEDB110"
+    },
+    {
+      "id": 2989,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "DEUTDEDBBER"
+    },
+    {
+      "id": 3647,
+      "bank": "DEUTSCHE BUNDESBANK",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "MARKDEF1100"
+    },
+    {
+      "id": 3746,
+      "bank": "DEUTSCHE EMISSIONS HANDELS STELLE IM UMWELTBUNDESAMT",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "DEHSDEB1"
+    },
+    {
+      "id": 3755,
+      "bank": "DEUTSCHE KREDIT BANK A.G. BERLIN",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "BYLADEM1001"
+    },
+    {
+      "id": 3771,
+      "bank": "DEUTSCHE POSTBANK AG",
+      "city": "BERLIN",
+      "branch": "(BERLIN BRANCH)",
+      "swift_code": "PBNKDEFF100"
+    },
+    {
+      "id": 3851,
+      "bank": "DEXIA KOMMUNALBANK DEUTSCHLAND AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "DXIADEBB"
+    },
+    {
+      "id": 3852,
+      "bank": "DEXIA KOMMUNALBANK DEUTSCHLAND AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "DXIADEBBCOV"
+    },
+    {
+      "id": 3891,
+      "bank": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "GENODEFF120"
+    },
+    {
+      "id": 3933,
+      "bank": "EIS EINLAGENSICHERUNGSBANK GMBH",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "EIEGDEB1"
+    },
+    {
+      "id": 4049,
+      "bank": "EVANGELISCHE DARLEHNSGENOSSENSCHAFT EG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "GENODEF1EDY"
+    },
+    {
+      "id": 4073,
+      "bank": "FINANZ INFORMATIK",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "NOLADE21DVS"
+    },
+    {
+      "id": 4167,
+      "bank": "GESCHAEFTSFUEHRUNG ZENTRALE DIENSTLEISTUNGEN",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "GEZIDEB1"
+    },
+    {
+      "id": 4240,
+      "bank": "HOFMANN SCHNEIDER WERTPAPIER GMBH",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "HOSWDEB1"
+    },
+    {
+      "id": 4242,
+      "bank": "HOLVI PAYMENT SERVICES OY ZWEIGNIEDERLASSUNG DEUTSCHLAND MARKETING",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "HOLVDEB1"
+    },
+    {
+      "id": 4248,
+      "bank": "HSBC TRINKAUS UND BURKHARDT AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "TUBDDEDD100"
+    },
+    {
+      "id": 4283,
+      "bank": "I.C.M. INVESTMENTBANK AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "ICIEDEB1"
+    },
+    {
+      "id": 4322,
+      "bank": "INVESTITIONSBANK BERLIN",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "IBBBDEBB"
+    },
+    {
+      "id": 4328,
+      "bank": "ISBANK AG",
+      "city": "BERLIN",
+      "branch": "(BERLIN KREUZBERG)",
+      "swift_code": "ISBKDEFXKRZ"
+    },
+    {
+      "id": 4329,
+      "bank": "ISBANK AG",
+      "city": "BERLIN",
+      "branch": "(FILIALE BERLIN)",
+      "swift_code": "ISBKDEFXBER"
+    },
+    {
+      "id": 4403,
+      "bank": "KPMG AG WIRTSCHAFTSPRFUNGSGESELLSC",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "KPMGDEBE"
+    },
+    {
+      "id": 4404,
+      "bank": "KREDITANSTALT FUR WIEDERAUFBAU",
+      "city": "BERLIN",
+      "branch": "(NIEDERLASSUNG BERLIN)",
+      "swift_code": "KFWIDEFF100"
+    },
+    {
+      "id": 4525,
+      "bank": "LANDESBANK BERLIN AG-S-KREDITPARTNER",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "SKPADEB1"
+    },
+    {
+      "id": 4526,
+      "bank": "LANDESBANK BERLIN INVESTMENT GMBH",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "BBIVDEB1"
+    },
+    {
+      "id": 4564,
+      "bank": "LBS OSTDEUTSCHE LANDESBAUSPARKASSE AKTIENGESELLSCHAFT",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "LBSODEB1BLN"
+    },
+    {
+      "id": 4645,
+      "bank": "MERCK FINCK PRIVATBANKIERS",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "MEFIDEMM100"
+    },
+    {
+      "id": 4727,
+      "bank": "N26 BANK GMBH",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "NTSBDEB1"
+    },
+    {
+      "id": 4767,
+      "bank": "NORISBANK GMBH",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "NORSDE51"
+    },
+    {
+      "id": 4780,
+      "bank": "ODDO BHF AKTIENGESELLSCHAFT",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "BHFBDEFF100"
+    },
+    {
+      "id": 4864,
+      "bank": "PAX-BANK EG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "GENODED1PA6"
+    },
+    {
+      "id": 4887,
+      "bank": "PRIVATBANK BERLIN VON 1929 AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "MACODEB1"
+    },
+    {
+      "id": 4894,
+      "bank": "PSD BANK BERLIN-BRANDENBURG EG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "GENODEF1P01"
+    },
+    {
+      "id": 4895,
+      "bank": "PSD BANK BERLIN-BRANDENBURG EG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "GENODEF1PY1"
+    },
+    {
+      "id": 4932,
+      "bank": "QUIRIN BANK AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "BEFFDEB1"
+    },
+    {
+      "id": 4933,
+      "bank": "QUIRIN BANK AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "QUBKDEBB"
+    },
+    {
+      "id": 4934,
+      "bank": "QUIRIN BANK AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "QUBKDEBB107"
+    },
+    {
+      "id": 4935,
+      "bank": "QUIRIN BANK AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "QUBKDEBB144"
+    },
+    {
+      "id": 4936,
+      "bank": "QUIRIN BANK AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "QUBKDEBB253"
+    },
+    {
+      "id": 4937,
+      "bank": "QUIRIN BANK AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "QUBKDEBB254"
+    },
+    {
+      "id": 4938,
+      "bank": "QUIRIN BANK AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "QUBKDEBB255"
+    },
+    {
+      "id": 4939,
+      "bank": "QUIRIN BANK AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "QUBKDEBB256"
+    },
+    {
+      "id": 4940,
+      "bank": "QUIRIN BANK AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "QUBKDEBBDOT"
+    },
+    {
+      "id": 5749,
+      "bank": "SEB AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "ESSEDE5F100"
+    },
+    {
+      "id": 6004,
+      "bank": "SENATSVERWALTUNG FUER FINANZEN DES LANDES BERLIN",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "SFLEDEB1"
+    },
+    {
+      "id": 6015,
+      "bank": "SKANDIA LEBENSVERSICHERUNG AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "SKLEDEB1"
+    },
+    {
+      "id": 6027,
+      "bank": "SOLARIS BANK AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "SOBKDEBB"
+    },
+    {
+      "id": 6055,
+      "bank": "SPARDA-BANK BERLIN",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "GENODEF1S10"
+    },
+    {
+      "id": 6056,
+      "bank": "SPARDA-BANK BERLIN EG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "SPBKDEBB"
+    },
+    {
+      "id": 6550,
+      "bank": "SYDBANK A/S",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "SYBKDE22BER"
+    },
+    {
+      "id": 6585,
+      "bank": "TRADEGATE AG WERTPAPIERHANDELSBANK",
+      "city": "BERLIN",
+      "branch": "(PRIVAT BANKING)",
+      "swift_code": "TRDADEB1PBK"
+    },
+    {
+      "id": 6586,
+      "bank": "TRADEGATE AG WERTPAPIERHANDELSBANK",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "TRDADEBB"
+    },
+    {
+      "id": 6587,
+      "bank": "TRAILSTONE GMBH",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "TRGMDEB1"
+    },
+    {
+      "id": 6588,
+      "bank": "TRANSACT ELEKTRONISCHE ZAHLUNGSSYSTEME GMBH",
+      "city": "BERLIN",
+      "branch": "(BERLIN 1)",
+      "swift_code": "TEZGDEB1001"
+    },
+    {
+      "id": 6589,
+      "bank": "TRANSACT ELEKTRONISCHE ZAHLUNGSSYSTEME GMBH",
+      "city": "BERLIN",
+      "branch": "(BERLIN 2)",
+      "swift_code": "TEZGDEB1002"
+    },
+    {
+      "id": 6590,
+      "bank": "TRANSACT ELEKTRONISCHE ZAHLUNGSSYSTEME GMBH",
+      "city": "BERLIN",
+      "branch": "(BERLIN 3)",
+      "swift_code": "TEZGDEB1003"
+    },
+    {
+      "id": 6591,
+      "bank": "TRANSACT ELEKTRONISCHE ZAHLUNGSSYSTEME GMBH",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "TEZGDEB1"
+    },
+    {
+      "id": 6618,
+      "bank": "UBS EUROPE SE",
+      "city": "BERLIN",
+      "branch": "(BERLIN)",
+      "swift_code": "SMHBDEFFBER"
+    },
+    {
+      "id": 6678,
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "HYVEDEMM488"
+    },
+    {
+      "id": 8224,
+      "bank": "VON ESSEN GMBH AND CO. KG BANKGESELLSCHAFT",
+      "city": "BERLIN",
+      "branch": "(NIEDERLASSUNG BERLIN)",
+      "swift_code": "VONEDE33BLN"
+    },
+    {
+      "id": 8472,
+      "bank": "WEBERBANK AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "HELADEF1WEB"
+    },
+    {
+      "id": 8473,
+      "bank": "WEBERBANK AG",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "WELADED1WBB"
+    },
+    {
+      "id": 8509,
+      "bank": "ZALANDO SE",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "ZALADEBB"
+    },
+    {
+      "id": 8514,
+      "bank": "ZLABELS",
+      "city": "BERLIN",
+      "branch": "",
+      "swift_code": "ZLABDEB1"
+    }
+  ],
+  "meta": {
+    "title": "Banken in Berlin — SWIFT/BIC-Codes - Kostenloser Download",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Berlin, Germany. Subset of de-banken. Enthält 115 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Banken in Berlin — SWIFT/BIC-Codes | ListBase",
+    "seo_description": "Herunterladen Banken in Berlin — SWIFT/BIC-Codes — 115 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 115 Datensätze / 5 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

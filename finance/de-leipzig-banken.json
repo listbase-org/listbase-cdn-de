@@ -1,0 +1,268 @@
+{
+  "id": "de-leipzig-banken",
+  "name": "Banken in Leipzig — SWIFT/BIC-Codes",
+  "title": "Banken in Leipzig — SWIFT/BIC-Codes",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Leipzig, Germany. Subset of de-banken.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 12,
+      "bank": "AAREAL BANK AG",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "AARBDE5W860"
+    },
+    {
+      "id": 209,
+      "bank": "BANK FUER SOZIALWIRTSCHAFT AG",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "BFSWDE33LPZ"
+    },
+    {
+      "id": 996,
+      "bank": "COMMERZBANK AG",
+      "city": "LEIPZIG",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF106"
+    },
+    {
+      "id": 997,
+      "bank": "COMMERZBANK AG",
+      "city": "LEIPZIG",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF107"
+    },
+    {
+      "id": 998,
+      "bank": "COMMERZBANK AG",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "COBADEFF860"
+    },
+    {
+      "id": 1652,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "LEIPZIG",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK)",
+      "swift_code": "DRESDEFFI16"
+    },
+    {
+      "id": 1653,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "LEIPZIG",
+      "branch": "(PCC DCC-ITGK 1)",
+      "swift_code": "DRESDEFFJ31"
+    },
+    {
+      "id": 1654,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "LEIPZIG",
+      "branch": "(PCC DCC-ITGK 2)",
+      "swift_code": "DRESDEFFJ32"
+    },
+    {
+      "id": 1655,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "LEIPZIG",
+      "branch": "(ZW 55)",
+      "swift_code": "DRESDEFF862"
+    },
+    {
+      "id": 1656,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "LEIPZIG",
+      "branch": "(ZW 57)",
+      "swift_code": "DRESDEFF867"
+    },
+    {
+      "id": 1657,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "DRESDEFF860"
+    },
+    {
+      "id": 2019,
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "DAAEDED1041"
+    },
+    {
+      "id": 2560,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "DEUTDE8L"
+    },
+    {
+      "id": 3292,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "DEUTDEDBLEG"
+    },
+    {
+      "id": 3668,
+      "bank": "DEUTSCHE BUNDESBANK",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "MARKDEF1860"
+    },
+    {
+      "id": 3756,
+      "bank": "DEUTSCHE KREDITBANK AG",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "DEKDDE21"
+    },
+    {
+      "id": 3799,
+      "bank": "DEUTSCHE POSTBANK AG",
+      "city": "LEIPZIG",
+      "branch": "(LEIPZIG BRANCH)",
+      "swift_code": "PBNKDEFF860"
+    },
+    {
+      "id": 4041,
+      "bank": "EUROPEAN COMMODITY CLEARING AG",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "EEXCDE8L"
+    },
+    {
+      "id": 4042,
+      "bank": "EUROPEAN COMMODITY CLEARING AG",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "EEXCDE8LAPX"
+    },
+    {
+      "id": 4043,
+      "bank": "EUROPEAN COMMODITY CLEARING AG",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "EEXCDE8LIN1"
+    },
+    {
+      "id": 4044,
+      "bank": "EUROPEAN COMMODITY CLEARING AG",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "EEXCDE8LIN2"
+    },
+    {
+      "id": 4045,
+      "bank": "EUROPEAN COMMODITY CLEARING AG",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "EEXCDE8LT2S"
+    },
+    {
+      "id": 4570,
+      "bank": "LEIPZIGER VOLKSBANK EG",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "GENODEF1LVB"
+    },
+    {
+      "id": 4792,
+      "bank": "ODDO BHF AKTIENGESELLSCHAFT",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "BHFBDEFF860"
+    },
+    {
+      "id": 5709,
+      "bank": "SACHSEN BANK (TRADING AS LANDESBANK BADEN-WUERTTEMBERG)",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "SOLADEST860"
+    },
+    {
+      "id": 5710,
+      "bank": "SACHSEN BANK (TRADING AS LANDESBANK BADEN-WUERTTEMBERG)",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "SOLADEST861"
+    },
+    {
+      "id": 5936,
+      "bank": "SEB AG",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "ESSEDE5F860"
+    },
+    {
+      "id": 6420,
+      "bank": "STADT- UND KREISSPARKASSE LEIPZIG",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "WELADED1LPZ"
+    },
+    {
+      "id": 6485,
+      "bank": "STADT-UND KREISSPARKASSE LEIPZIG",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "WELADE8L"
+    },
+    {
+      "id": 6861,
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "HYVEDEMM495"
+    },
+    {
+      "id": 7761,
+      "bank": "VOLKSBANK LEIPZIG",
+      "city": "LEIPZIG",
+      "branch": "",
+      "swift_code": "VOLPDE81"
+    }
+  ],
+  "meta": {
+    "title": "Banken in Leipzig — SWIFT/BIC-Codes - Kostenloser Download",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Leipzig, Germany. Subset of de-banken. Enthält 31 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Banken in Leipzig — SWIFT/BIC-Codes | ListBase",
+    "seo_description": "Herunterladen Banken in Leipzig — SWIFT/BIC-Codes — 31 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 31 Datensätze / 5 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

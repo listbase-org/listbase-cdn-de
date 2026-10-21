@@ -1,0 +1,289 @@
+{
+  "id": "de-bonn-banken",
+  "name": "Banken in Bonn — SWIFT/BIC-Codes",
+  "title": "Banken in Bonn — SWIFT/BIC-Codes",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Bonn, Germany. Subset of de-banken.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 712,
+      "bank": "COMMERZBANK AG",
+      "city": "BONN",
+      "branch": "(BAD GODESBERG)",
+      "swift_code": "COBADEFF381"
+    },
+    {
+      "id": 713,
+      "bank": "COMMERZBANK AG",
+      "city": "BONN",
+      "branch": "(BEUEL)",
+      "swift_code": "COBADEFF382"
+    },
+    {
+      "id": 714,
+      "bank": "COMMERZBANK AG",
+      "city": "BONN",
+      "branch": "",
+      "swift_code": "COBADEFF380"
+    },
+    {
+      "id": 1352,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "BONN",
+      "branch": "(BAD GODESBERG)",
+      "swift_code": "DRESDEFF381"
+    },
+    {
+      "id": 1353,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "BONN",
+      "branch": "(BEUEL)",
+      "swift_code": "DRESDEFF383"
+    },
+    {
+      "id": 1354,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "BONN",
+      "branch": "",
+      "swift_code": "DRESDEFF380"
+    },
+    {
+      "id": 2145,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "BONN",
+      "branch": "(BAD GODESBERG)",
+      "swift_code": "DEUTDEDK381"
+    },
+    {
+      "id": 2146,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "BONN",
+      "branch": "(BEUEL)",
+      "swift_code": "DEUTDEDK382"
+    },
+    {
+      "id": 2147,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "BONN",
+      "branch": "",
+      "swift_code": "DEUTDEDK380"
+    },
+    {
+      "id": 3006,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "BONN",
+      "branch": "",
+      "swift_code": "DEUTDEDB380"
+    },
+    {
+      "id": 3007,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "BONN",
+      "branch": "",
+      "swift_code": "DEUTDEDB381"
+    },
+    {
+      "id": 3008,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "BONN",
+      "branch": "",
+      "swift_code": "DEUTDEDB382"
+    },
+    {
+      "id": 3766,
+      "bank": "DEUTSCHE POST AG",
+      "city": "BONN",
+      "branch": "",
+      "swift_code": "DPAGDE33"
+    },
+    {
+      "id": 3767,
+      "bank": "DEUTSCHE POST ZAHLUNGSDIENSTE GMBH",
+      "city": "BONN",
+      "branch": "",
+      "swift_code": "DEZMDE31"
+    },
+    {
+      "id": 3772,
+      "bank": "DEUTSCHE POSTBANK AG",
+      "city": "BONN",
+      "branch": "(BONN,TREASURY)",
+      "swift_code": "PBNKDEFF380"
+    },
+    {
+      "id": 3823,
+      "bank": "DEUTSCHE POSTBANK PRIVAT INVESTMENT KAPITALANLAGEGESELLSCHAFT MBH",
+      "city": "BONN",
+      "branch": "",
+      "swift_code": "PBNKDE31"
+    },
+    {
+      "id": 3824,
+      "bank": "DEUTSCHE TELEKOM AG",
+      "city": "BONN",
+      "branch": "",
+      "swift_code": "DTAGDE31"
+    },
+    {
+      "id": 4204,
+      "bank": "HARIBO HOLDING GMBH AND CO KG",
+      "city": "BONN",
+      "branch": "",
+      "swift_code": "HRBODE33"
+    },
+    {
+      "id": 4345,
+      "bank": "IVG INSTITUTIONAL MANAGEMENT GMBH",
+      "city": "BONN",
+      "branch": "",
+      "swift_code": "IVGIDED1"
+    },
+    {
+      "id": 4387,
+      "bank": "KFW",
+      "city": "BONN",
+      "branch": "(AUSBILDUNGSFOERDERUNG)",
+      "swift_code": "DTABDED1AUS"
+    },
+    {
+      "id": 5753,
+      "bank": "SEB AG",
+      "city": "BONN",
+      "branch": "",
+      "swift_code": "ESSEDE5F380"
+    },
+    {
+      "id": 6683,
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "BONN",
+      "branch": "",
+      "swift_code": "HYVEDEMM402"
+    },
+    {
+      "id": 7285,
+      "bank": "VOEB-ZVD BANK FUER ZAHLUNGSVERKEHRSDIENSTLEISTUNGEN GMBH",
+      "city": "BONN",
+      "branch": "(FINANCIAL INSTITUTION TRANSFERS)",
+      "swift_code": "VZVDDED1001"
+    },
+    {
+      "id": 7286,
+      "bank": "VOEB-ZVD BANK FUER ZAHLUNGSVERKEHRSDIENSTLEISTUNGEN GMBH",
+      "city": "BONN",
+      "branch": "(FINANCIAL INSTITUTION TRANSFERS)",
+      "swift_code": "VZVDDED1002"
+    },
+    {
+      "id": 7287,
+      "bank": "VOEB-ZVD BANK FUER ZAHLUNGSVERKEHRSDIENSTLEISTUNGEN GMBH",
+      "city": "BONN",
+      "branch": "(FINANCIAL INSTITUTION TRANSFERS)",
+      "swift_code": "VZVDDED1003"
+    },
+    {
+      "id": 7288,
+      "bank": "VOEB-ZVD BANK FUER ZAHLUNGSVERKEHRSDIENSTLEISTUNGEN GMBH",
+      "city": "BONN",
+      "branch": "(FINANCIAL INSTITUTION TRANSFERS)",
+      "swift_code": "VZVDDED1004"
+    },
+    {
+      "id": 7289,
+      "bank": "VOEB-ZVD BANK FUER ZAHLUNGSVERKEHRSDIENSTLEISTUNGEN GMBH",
+      "city": "BONN",
+      "branch": "(FINANCIAL INSTITUTION TRANSFERS)",
+      "swift_code": "VZVDDED1005"
+    },
+    {
+      "id": 7290,
+      "bank": "VOEB-ZVD BANK FUER ZAHLUNGSVERKEHRSDIENSTLEISTUNGEN GMBH",
+      "city": "BONN",
+      "branch": "(FINANCIAL INSTITUTION TRANSFERS)",
+      "swift_code": "VZVDDED1006"
+    },
+    {
+      "id": 7291,
+      "bank": "VOEB-ZVD BANK FUER ZAHLUNGSVERKEHRSDIENSTLEISTUNGEN GMBH",
+      "city": "BONN",
+      "branch": "(FINANCIAL INSTITUTION TRANSFERS)",
+      "swift_code": "VZVDDED1007"
+    },
+    {
+      "id": 7292,
+      "bank": "VOEB-ZVD BANK FUER ZAHLUNGSVERKEHRSDIENSTLEISTUNGEN GMBH",
+      "city": "BONN",
+      "branch": "(FINANCIAL INSTITUTION TRANSFERS)",
+      "swift_code": "VZVDDED1008"
+    },
+    {
+      "id": 7293,
+      "bank": "VOEB-ZVD BANK FUER ZAHLUNGSVERKEHRSDIENSTLEISTUNGEN GMBH",
+      "city": "BONN",
+      "branch": "",
+      "swift_code": "VZVDDED1"
+    },
+    {
+      "id": 7386,
+      "bank": "VOLKSBANK BONN RHEIN-SIEG EG",
+      "city": "BONN",
+      "branch": "",
+      "swift_code": "GENODED1BRS"
+    },
+    {
+      "id": 8340,
+      "bank": "VR-BANK BONN EG",
+      "city": "BONN",
+      "branch": "",
+      "swift_code": "GENODED1HBO"
+    },
+    {
+      "id": 8510,
+      "bank": "ZENTRUM FUR INFORMATIONSVERARBEITUNG UND INFORMATIONSTECHNIK",
+      "city": "BONN",
+      "branch": "",
+      "swift_code": "ZEIIDE31"
+    }
+  ],
+  "meta": {
+    "title": "Banken in Bonn — SWIFT/BIC-Codes - Kostenloser Download",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Bonn, Germany. Subset of de-banken. Enthält 34 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Banken in Bonn — SWIFT/BIC-Codes | ListBase",
+    "seo_description": "Herunterladen Banken in Bonn — SWIFT/BIC-Codes — 34 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 34 Datensätze / 5 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

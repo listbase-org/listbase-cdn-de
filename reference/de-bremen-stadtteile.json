@@ -1,0 +1,295 @@
+{
+  "id": "de-bremen-stadtteile",
+  "name": "Ortsteile von Bremen",
+  "title": "Ortsteile von Bremen",
+  "description": "Die 88 Ortsteile (localities) der Stadt Bremen, extrahiert aus den Grenz-GeoJSON-Dateien des Projekts Code for Germany / click_that_hood. Nur der native deutsche Name je Teilgebiet wurde übernommen; die Polygon-Geometrie wurde verworfen.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 88,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alte Neustadt"
+    },
+    {
+      "name": "Altstadt"
+    },
+    {
+      "name": "Arbergen"
+    },
+    {
+      "name": "Arsten"
+    },
+    {
+      "name": "Aumund-Hammersbeck"
+    },
+    {
+      "name": "Bahnhofsvorstadt"
+    },
+    {
+      "name": "Barkhof"
+    },
+    {
+      "name": "Blockdiek"
+    },
+    {
+      "name": "Blockland"
+    },
+    {
+      "name": "Blumenthal"
+    },
+    {
+      "name": "Borgfeld"
+    },
+    {
+      "name": "Buntentor"
+    },
+    {
+      "name": "Burg-Grambke"
+    },
+    {
+      "name": "Burgdamm"
+    },
+    {
+      "name": "Bürgerpark"
+    },
+    {
+      "name": "Ellener Feld"
+    },
+    {
+      "name": "Ellenerbrok-Schevemoor"
+    },
+    {
+      "name": "Farge"
+    },
+    {
+      "name": "Fesenfeld"
+    },
+    {
+      "name": "Findorff-Bürgerweide"
+    },
+    {
+      "name": "Fähr-Lobbendorf"
+    },
+    {
+      "name": "Gartenstadt Süd"
+    },
+    {
+      "name": "Gartenstadt Vahr"
+    },
+    {
+      "name": "Gete"
+    },
+    {
+      "name": "Grohn"
+    },
+    {
+      "name": "Grolland"
+    },
+    {
+      "name": "Gröpelingen"
+    },
+    {
+      "name": "Habenhausen"
+    },
+    {
+      "name": "Hastedt"
+    },
+    {
+      "name": "Hemelingen"
+    },
+    {
+      "name": "Hohentor"
+    },
+    {
+      "name": "Hohentorshafen"
+    },
+    {
+      "name": "Hohweg"
+    },
+    {
+      "name": "Horn"
+    },
+    {
+      "name": "Huckelriede"
+    },
+    {
+      "name": "Hulsberg"
+    },
+    {
+      "name": "In den Hufen"
+    },
+    {
+      "name": "In den Wischen"
+    },
+    {
+      "name": "Industriehäfen"
+    },
+    {
+      "name": "Kattenesch"
+    },
+    {
+      "name": "Kattenturm"
+    },
+    {
+      "name": "Kirchhuchting"
+    },
+    {
+      "name": "Lehe"
+    },
+    {
+      "name": "Lehesterdeich"
+    },
+    {
+      "name": "Lesum"
+    },
+    {
+      "name": "Lindenhof"
+    },
+    {
+      "name": "Lüssum-Bockhorn"
+    },
+    {
+      "name": "Mahndorf"
+    },
+    {
+      "name": "Mittelshuchting"
+    },
+    {
+      "name": "Neu-Schwachhausen"
+    },
+    {
+      "name": "Neue Vahr Nord"
+    },
+    {
+      "name": "Neue Vahr Südost"
+    },
+    {
+      "name": "Neue Vahr Südwest"
+    },
+    {
+      "name": "Neuenland"
+    },
+    {
+      "name": "Neustadt"
+    },
+    {
+      "name": "Neustädter Häfen"
+    },
+    {
+      "name": "Oberneuland"
+    },
+    {
+      "name": "Ohlenhof"
+    },
+    {
+      "name": "Oslebshausen"
+    },
+    {
+      "name": "Osterfeuerberg"
+    },
+    {
+      "name": "Osterholz"
+    },
+    {
+      "name": "Ostertor"
+    },
+    {
+      "name": "Peterswerder"
+    },
+    {
+      "name": "Rablinghausen"
+    },
+    {
+      "name": "Radio Bremen"
+    },
+    {
+      "name": "Regensburger Straße"
+    },
+    {
+      "name": "Rekum"
+    },
+    {
+      "name": "Riensberg"
+    },
+    {
+      "name": "Rönnebeck"
+    },
+    {
+      "name": "Schwachhausen"
+    },
+    {
+      "name": "Schönebeck"
+    },
+    {
+      "name": "Sebaldsbrück"
+    },
+    {
+      "name": "Seehausen"
+    },
+    {
+      "name": "Sodenmatt"
+    },
+    {
+      "name": "St. Magnus"
+    },
+    {
+      "name": "Steffensweg"
+    },
+    {
+      "name": "Steintor"
+    },
+    {
+      "name": "Strom"
+    },
+    {
+      "name": "Südervorstadt"
+    },
+    {
+      "name": "Tenever"
+    },
+    {
+      "name": "Utbremen"
+    },
+    {
+      "name": "Vegesack"
+    },
+    {
+      "name": "Walle"
+    },
+    {
+      "name": "Weidedamm"
+    },
+    {
+      "name": "Werderland"
+    },
+    {
+      "name": "Westend"
+    },
+    {
+      "name": "Woltmershausen"
+    },
+    {
+      "name": "Überseestadt"
+    }
+  ],
+  "meta": {
+    "title": "Ortsteile von Bremen - Kostenloser Download",
+    "description": "Die 88 Ortsteile (localities) der Stadt Bremen, extrahiert aus den Grenz-GeoJSON-Dateien des Projekts Code for Germany / click_that_hood. Nur der native deutsche Name je Teilgebiet wurde übernommen; die Polygon-Geometrie wurde verworfen. Enthält 88 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Ortsteile von Bremen | ListBase",
+    "seo_description": "Herunterladen Ortsteile von Bremen — 88 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 88 Datensätze / 1 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

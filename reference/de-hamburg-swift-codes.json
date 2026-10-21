@@ -1,0 +1,802 @@
+{
+  "id": "de-hamburg-swift-codes",
+  "name": "SWIFT-/BIC-Codes — Hamburg",
+  "title": "SWIFT-/BIC-Codes — Hamburg",
+  "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 126 Institute, die die Quelle mit der Stadt \"HAMBURG\" angibt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 126,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "AAREAL BANK AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "AARBDE5W200"
+    },
+    {
+      "bank": "AQUILA CAPITAL CONCEPTS GMBH",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "ACCHDEH1"
+    },
+    {
+      "bank": "AQX SECURITIES GMBH",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "AQSGDEH1"
+    },
+    {
+      "bank": "AUGSBURGER AKTIENBANK AG (NETBANK)",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "GENODEF1S15"
+    },
+    {
+      "bank": "BANK MELLI IRAN",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "MELIDEHH"
+    },
+    {
+      "bank": "BANK OF CHINA",
+      "city": "HAMBURG",
+      "branch": "(HAMBURG BRANCH)",
+      "swift_code": "BKCHDEFFHMB"
+    },
+    {
+      "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+      "city": "HAMBURG",
+      "branch": "(HAMBURG BRANCH)",
+      "swift_code": "BOTKDEH1"
+    },
+    {
+      "bank": "BANK SADERAT IRAN HAMBURG BRANCH",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "SIHRDEH1"
+    },
+    {
+      "bank": "BANK SADERAT IRAN HAMBURG BRANCH",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "SIHRDEH1HAM"
+    },
+    {
+      "bank": "BANKHAUS FISCHER AND CO KOMMANDITGESELLSCHAFT",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "BKFIDEH1"
+    },
+    {
+      "bank": "BANKHAUS LAMPE KG",
+      "city": "HAMBURG",
+      "branch": "(HAMBURG BRANCH)",
+      "swift_code": "LAMPDEDD500"
+    },
+    {
+      "bank": "BARCLAYCARD BARCLAYS BANK PLC",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "BARCDEHA"
+    },
+    {
+      "bank": "BHN BOERSENHANDEL NORD GMBH",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "BBNGDEH1"
+    },
+    {
+      "bank": "BIESTERFELD AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "BISFDEHH"
+    },
+    {
+      "bank": "BOMIN DEUTSCHLAND GMBH AND CO KG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "BOMIDEHH"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "HAMBURG",
+      "branch": "(ALTONA)",
+      "swift_code": "COBADEFF200"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "HAMBURG",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF074"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "HAMBURG",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF075"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "HAMBURG",
+      "branch": "(CC SP2)",
+      "swift_code": "COBADEFFS02"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "HAMBURG",
+      "branch": "(COC GLOBSHIP AND RENEWENERGIES)",
+      "swift_code": "COBADEFF208"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "HAMBURG",
+      "branch": "(COMMERZBANK REGIONAL MARKET DEVELOPMENT)",
+      "swift_code": "COBADEFFRME"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "HAMBURG",
+      "branch": "(HBG GF-H48)",
+      "swift_code": "COBADEFF920"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "COBADEHH"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "HAMBURG",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK)",
+      "swift_code": "DRESDEFFI06"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "HAMBURG",
+      "branch": "(PCC DCC-ITGK 10)",
+      "swift_code": "DRESDEFFJ36"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "HAMBURG",
+      "branch": "(PCC DCC-ITGK 11)",
+      "swift_code": "DRESDEFFJ37"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "HAMBURG",
+      "branch": "(PCC DCC-ITGK 2)",
+      "swift_code": "DRESDEFFI56"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "HAMBURG",
+      "branch": "(PCC DCC-ITGK 3)",
+      "swift_code": "DRESDEFFI63"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "HAMBURG",
+      "branch": "(PCC DCC-ITGK 4)",
+      "swift_code": "DRESDEFFI64"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "HAMBURG",
+      "branch": "(PCC DCC-ITGK 5)",
+      "swift_code": "DRESDEFFI74"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "HAMBURG",
+      "branch": "(PCC DCC-ITGK 6)",
+      "swift_code": "DRESDEFFI75"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "HAMBURG",
+      "branch": "(PCC DCC-ITGK 7)",
+      "swift_code": "DRESDEFFJ33"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "HAMBURG",
+      "branch": "(PCC DCC-ITGK 8)",
+      "swift_code": "DRESDEFFJ34"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "HAMBURG",
+      "branch": "(PCC DCC-ITGK 9)",
+      "swift_code": "DRESDEFFJ35"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "HAMBURG",
+      "branch": "(ZW 55)",
+      "swift_code": "DRESDEFF207"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "HAMBURG",
+      "branch": "(ZW 57)",
+      "swift_code": "DRESDEFF208"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "DRESDEFF200"
+    },
+    {
+      "bank": "DANSKE BANK",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "DABADEHH"
+    },
+    {
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "DAAEDED1002"
+    },
+    {
+      "bank": "DEUTSCHE BANK AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "DEUTDEHH"
+    },
+    {
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "DEUTDEDBHAM"
+    },
+    {
+      "bank": "DEUTSCHE BUNDESBANK",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "MARKDEF1200"
+    },
+    {
+      "bank": "DEUTSCHE GENOSSENSCHAFTS-HYPOTHEKENBANK AKTIENGESELLSCHAFT",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "DGHYDEH1"
+    },
+    {
+      "bank": "DEUTSCHE POSTBANK AG",
+      "city": "HAMBURG",
+      "branch": "(HAMBURG BRANCH)",
+      "swift_code": "PBNKDEFF200"
+    },
+    {
+      "bank": "DEUTSCHE POSTBANK AG",
+      "city": "HAMBURG",
+      "branch": "(HAMBURG SAVINGS)",
+      "swift_code": "PBNKDEFF201"
+    },
+    {
+      "bank": "DEUTSCHER RING BAUSPARKASSE AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "DRBKDEHA"
+    },
+    {
+      "bank": "DEUTSCHER RING BAUSPARKASSE AKTIENGESELLSCHAFT",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "DRBKDEH1"
+    },
+    {
+      "bank": "DNB BANK ASA, FILIALE DEUTSCHLAND",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "DNBADEHX"
+    },
+    {
+      "bank": "DONNER AND REUSCHEL AKTIENGESELLSCHAFT",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "CHDBDEHH"
+    },
+    {
+      "bank": "DZ BANK AG DEUTSCHE ZENTRALGENOSSENSCHAFTSBANK",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "GENODEFF200"
+    },
+    {
+      "bank": "EBANK GF CASH",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "EDECDEH1"
+    },
+    {
+      "bank": "EBURY PARTNERS UK LIMITED",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "EBURDEH1"
+    },
+    {
+      "bank": "EDEKABANK AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "EDEKDEHH"
+    },
+    {
+      "bank": "EULER HERMES DEUTSCHLAND, NIEDERLASSUNG DER EULER HERMES SA",
+      "city": "HAMBURG",
+      "branch": "(CORPORATE REQUESTS - GERMANY)",
+      "swift_code": "EHKVDEHH001"
+    },
+    {
+      "bank": "EULER HERMES DEUTSCHLAND, NIEDERLASSUNG DER EULER HERMES SA",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "EHKVDEHH"
+    },
+    {
+      "bank": "EULER HERMES RATING GMBH",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "EHRGDEH1"
+    },
+    {
+      "bank": "EUROPAEISCH-IRANISCHE HANDELSBANK AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "EIHBDEHH"
+    },
+    {
+      "bank": "FREIE UND HANSESTADT HAMBURG, FINANZBEHOERDE",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "FHHFDEH1"
+    },
+    {
+      "bank": "GEBR. HEINEMANN SE AND CO.KG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "GHECDEHH"
+    },
+    {
+      "bank": "GOYER AND GOEPPEL KG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "GOGODEH1"
+    },
+    {
+      "bank": "HAMBURGER SPARKASSE AG",
+      "city": "HAMBURG",
+      "branch": "(T2S CLEARSTREAM)",
+      "swift_code": "HASPDEHHNOS"
+    },
+    {
+      "bank": "HAMBURGER SPARKASSE AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "HASPDEHH"
+    },
+    {
+      "bank": "HAMBURGER VOLKSBANK EG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "GENODEF1HH2"
+    },
+    {
+      "bank": "HAMBURGISCHE WOHNUNGSBAUKREDITANSTALT AOR",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "HAWODEH1"
+    },
+    {
+      "bank": "HAMBURG-MANNHEIMER INVESTMENT TRUST",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "HMITDEH1"
+    },
+    {
+      "bank": "HANSAINVEST HANSEATISCHE INVESTMENT-GMBH",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "HIHHDEHH"
+    },
+    {
+      "bank": "HANSEATIC BANK GMBH AND CO KG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "HSTBDEHH"
+    },
+    {
+      "bank": "HANSEATISCHE WERTPAPIERBOERSE HAMBURG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "XHAMDEH1"
+    },
+    {
+      "bank": "HM TRUST AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "HTRSDEHH"
+    },
+    {
+      "bank": "HSBC TRINKAUS UND BURKHARDT AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "TUBDDEHH"
+    },
+    {
+      "bank": "HSH FINANZFONDS AOR",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "HSFADEH1"
+    },
+    {
+      "bank": "HSH NORDBANK AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "HSHNDEHH"
+    },
+    {
+      "bank": "HSH NORDBANK AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "HSHNDEHH200"
+    },
+    {
+      "bank": "HVB INVESTITIONSBANK GMBH",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "HINVDEH1"
+    },
+    {
+      "bank": "ISBANK AG",
+      "city": "HAMBURG",
+      "branch": "(FILIALE HAMBURG)",
+      "swift_code": "ISBKDEFXHAM"
+    },
+    {
+      "bank": "JOH. BERENBERG,GOSSLER UND CO.KG",
+      "city": "HAMBURG",
+      "branch": "(BERENBERG HAMBURG, FOREIGN EXCHANGE BACKOFFICE)",
+      "swift_code": "BEGODEHHCLS"
+    },
+    {
+      "bank": "JOH. BERENBERG,GOSSLER UND CO.KG",
+      "city": "HAMBURG",
+      "branch": "(CUSTODY SERVICES)",
+      "swift_code": "BEGODEHHCUS"
+    },
+    {
+      "bank": "JOH. BERENBERG,GOSSLER UND CO.KG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "BEGODEHH"
+    },
+    {
+      "bank": "JUNGHEINRICH AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "JUNGDEHA"
+    },
+    {
+      "bank": "JYSKE BANK A/S, HAMBURG BRANCH",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "JYBADEHH"
+    },
+    {
+      "bank": "KREDITECH HOLDING SSL GMBH",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "KRDTDEHH"
+    },
+    {
+      "bank": "LB IMMO INVEST GMBH",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "LBIMDEH1"
+    },
+    {
+      "bank": "M.M. WARBURG UND CO HYPOTHEKENBANK AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "MMWHDEHA"
+    },
+    {
+      "bank": "M.M.WARBURG AND CO HYPOTHEKENBANK AKTIENGESELLSCHAFT",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "MMWHDEH1"
+    },
+    {
+      "bank": "M.M.WARBURG U. CO (AG U. CO.) KGAA",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "WBWCDEHH"
+    },
+    {
+      "bank": "M.M.WARBURG U. CO (AG U. CO.) KGAA",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "WBWCDEHHT2F"
+    },
+    {
+      "bank": "M.M.WARBURG U. CO (AG U. CO.) KGAA",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "WBWCDEHHT2S"
+    },
+    {
+      "bank": "MARCARD, STEIN UND CO.",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "MCRDDEHH"
+    },
+    {
+      "bank": "MARCARD, STEIN UND CO.",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "MCRDDEHHTGT"
+    },
+    {
+      "bank": "MARQUARD  BAHLS AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "MBAGDEHH"
+    },
+    {
+      "bank": "MAX HEINR. SUTOR OHG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "MHSBDEHB"
+    },
+    {
+      "bank": "MAXINGVEST AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "MAXIDEHH"
+    },
+    {
+      "bank": "MERCK FINCK PRIVATBANKIERS",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "MEFIDEMM200"
+    },
+    {
+      "bank": "MKB MITTELSTANDSKREDITBANK AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "GENODEF1MKB"
+    },
+    {
+      "bank": "MPC CAPITAL PRIVATBANK AKTIENGESELLSCHAFT",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "HIBADEH1"
+    },
+    {
+      "bank": "MPC MUENCHMEYER PETERSEN CAPITAL AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "MPCCDEH1"
+    },
+    {
+      "bank": "N.V. DE INDONESISCHE OVERZEESE BANK (THE INDONESIA OVERSEAS BANK) NIEDERLASSUNG HAMBURG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "IOVEDEH1"
+    },
+    {
+      "bank": "NEUMANN GRUPPE GMBH",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "NKGWDEHH"
+    },
+    {
+      "bank": "NORDEX SE",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "NXSEDEHH"
+    },
+    {
+      "bank": "NORDINVEST NORDDEUTSCHE INVESTMENT-GESELLSCHAFT MIT BESCHRANKTER HAFTUNG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "NOIGDEH1"
+    },
+    {
+      "bank": "ODDO BHF AKTIENGESELLSCHAFT",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "BHFBDEFF200"
+    },
+    {
+      "bank": "OTTO M. SCHROEDER BANK AKTIENGESELLSCHAFT",
+      "city": "HAMBURG",
+      "branch": "(DOTATIONSKONTO)",
+      "swift_code": "OSCBDEH1DOT"
+    },
+    {
+      "bank": "OTTO M. SCHROEDER BANK AKTIENGESELLSCHAFT",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "OSCBDEH1"
+    },
+    {
+      "bank": "PSD BANK NORD EG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "GENODEF1P08"
+    },
+    {
+      "bank": "SAXO PAYMENTS A/S",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "SXPYDEHH"
+    },
+    {
+      "bank": "SCHIFFSHYPOTHEKENBANK ZU LUEBECK AKTIENGESELLSCHAFT",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "DEUTDEH1"
+    },
+    {
+      "bank": "SEB AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "ESSEDE5F200"
+    },
+    {
+      "bank": "SECURITY DEPOT KT HAMBURG GMBH",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "SDHHDEH1"
+    },
+    {
+      "bank": "SIGNAL IDUNA BAUSPAR AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "SIBSDEH1"
+    },
+    {
+      "bank": "SIGNAL IDUNA BAUSPAR AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "SIBSDEHH"
+    },
+    {
+      "bank": "SPARDA-BANK HAMBURG EG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "GENODEF1S11"
+    },
+    {
+      "bank": "SPARDA-BANK HAMBURG EG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "SPBKDEHH"
+    },
+    {
+      "bank": "SYDBANK A/S",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "SYBKDE22HAM"
+    },
+    {
+      "bank": "TER HELL  CO. GMBH",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "THELDEHH"
+    },
+    {
+      "bank": "TXB TRANSAKTIONSBANK GMBH",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "PBTBDEH1"
+    },
+    {
+      "bank": "UBS EUROPE SE",
+      "city": "HAMBURG",
+      "branch": "(HAMBURG)",
+      "swift_code": "SMHBDEFFHAM"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "HYVEDEMM300"
+    },
+    {
+      "bank": "UNILEVER DEUTSCHLAND HOLDING GMBH",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "UDHODEH1"
+    },
+    {
+      "bank": "UNION INVESTMENT REAL ESTATE AKTIENGESELLSCHAFT",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "DIFODEH1"
+    },
+    {
+      "bank": "UNION INVESTMENT REAL ESTATE GMBH",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "UIREDEHH"
+    },
+    {
+      "bank": "VARENGOLD BANK AG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "VGAGDEHH"
+    },
+    {
+      "bank": "VIERLAENDER VOLKSBANK EG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "GENODEF1HH3"
+    },
+    {
+      "bank": "VOLKSBANK HAMBURG OST-WEST",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "GENODEF1HH1"
+    },
+    {
+      "bank": "VOLKSBANK STORMARN EG",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "GENODEF1HH4"
+    },
+    {
+      "bank": "VTG AKTIENGESELLSCHAFT",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "VTGADEHH"
+    },
+    {
+      "bank": "WARBURG-HENDERSON KAPITALANLAGEGESELLSCHAFT FUER IMMOBILIEN MBH",
+      "city": "HAMBURG",
+      "branch": "",
+      "swift_code": "WAHEDEH1"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT-/BIC-Codes — Hamburg - Kostenloser Download",
+    "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 126 Institute, die die Quelle mit der Stadt \"HAMBURG\" angibt. Enthält 126 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "SWIFT-/BIC-Codes — Hamburg | ListBase",
+    "seo_description": "Herunterladen SWIFT-/BIC-Codes — Hamburg — 126 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 126 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

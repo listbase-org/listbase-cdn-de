@@ -1,0 +1,301 @@
+{
+  "id": "de-tv-sender-religion",
+  "name": "Religiöse Sender (Religious TV channels)",
+  "title": "Religiöse Sender (Religious TV channels)",
+  "description": "Deutsche Fernsehsender der Kategorie \"religious\" (Religion) — 14 Sender aus dem offenen Register iptv-org/database. Enthält Sendername, alternative Namen, Netzwerk, Eigentümer, Kategorien, Start- und Einstellungsdatum sowie Webseite.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "ERF1.de",
+      "name": "ERF 1",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.erf.de"
+    },
+    {
+      "id": 2,
+      "channel_id": "ERFWebTV.de",
+      "name": "ERF Web-TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.erf.de/erf-mediathek/erf-web-tv/4072?reset=1"
+    },
+    {
+      "id": 3,
+      "channel_id": "EWTN.de",
+      "name": "EWTN",
+      "alt_names": "EWTN Deutschland, Katholisches TV",
+      "network": "EWTN",
+      "owners": "",
+      "country": "DE",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.ewtn.de/"
+    },
+    {
+      "id": 4,
+      "channel_id": "EchtJetztTV.de",
+      "name": "EchtJetzt TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://echtjetzt.tv/"
+    },
+    {
+      "id": 5,
+      "channel_id": "GabrieleTVAfrica.de",
+      "name": "Gabriele TV Africa",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.gabriele.tv/"
+    },
+    {
+      "id": 6,
+      "channel_id": "HopeChannelGerman.de",
+      "name": "Hope Channel German",
+      "alt_names": "Hope TV Deutsch",
+      "network": "",
+      "owners": "Seventh-day Adventist Church",
+      "country": "DE",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://hopetv.de/"
+    },
+    {
+      "id": 7,
+      "channel_id": "KTV.de",
+      "name": "K-TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "1999-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.k-tv.org/"
+    },
+    {
+      "id": 8,
+      "channel_id": "LightChannel.de",
+      "name": "Light Channel",
+      "alt_names": "",
+      "network": "",
+      "owners": "Gospel Ministries International",
+      "country": "DE",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 9,
+      "channel_id": "MissionErweckungderWelt.de",
+      "name": "Mission Erweckung der Welt",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://revival-mission.de/"
+    },
+    {
+      "id": 10,
+      "channel_id": "NewJerusalem.de",
+      "name": "New Jerusalem",
+      "alt_names": "",
+      "network": "",
+      "owners": "TV-Sender Neu-Jerusalem weltweit GmbH",
+      "country": "DE",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "2007-08-23",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.neu-jerusalem.de/"
+    },
+    {
+      "id": 11,
+      "channel_id": "NewJerusalemBroadcasts.de",
+      "name": "New Jerusalem Broadcasts",
+      "alt_names": "",
+      "network": "",
+      "owners": "TV-Sender Neu-Jerusalem weltweit GmbH",
+      "country": "DE",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "2007-08-23",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.neu-jerusalem.de/"
+    },
+    {
+      "id": 12,
+      "channel_id": "SophiaTV.de",
+      "name": "Sophia TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 13,
+      "channel_id": "SophiaTVFrancais.de",
+      "name": "Sophia TV Francais",
+      "alt_names": "Sophia TV Français",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://radio-santec.com/fr/"
+    },
+    {
+      "id": 14,
+      "channel_id": "SophiaTVPortugues.de",
+      "name": "Sophia TV Portugues",
+      "alt_names": "Sophia TV Português",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://radio-santec.com/pt-br/"
+    }
+  ],
+  "meta": {
+    "title": "Religiöse Sender (Religious TV channels) - Kostenloser Download",
+    "description": "Deutsche Fernsehsender der Kategorie \"religious\" (Religion) — 14 Sender aus dem offenen Register iptv-org/database. Enthält Sendername, alternative Namen, Netzwerk, Eigentümer, Kategorien, Start- und Einstellungsdatum sowie Webseite. Enthält 14 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Religiöse Sender (Religious TV channels) | ListBase",
+    "seo_description": "Herunterladen Religiöse Sender (Religious TV channels) — 14 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 14 Datensätze / 13 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

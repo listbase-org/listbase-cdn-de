@@ -1,0 +1,7807 @@
+{
+  "id": "de-frankfurt-am-main-banken",
+  "name": "Banken in Frankfurt Am Main — SWIFT/BIC-Codes",
+  "title": "Banken in Frankfurt Am Main — SWIFT/BIC-Codes",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Frankfurt Am Main, Germany. Subset of de-banken.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1108,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "360 TREASURY SYSTEMS AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "TRSYDEFF"
+    },
+    {
+      "id": 9,
+      "bank": "AAREAL BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "AARBDE5W500"
+    },
+    {
+      "id": 22,
+      "bank": "ABC INTERNATIONAL BANK PLC, ZWEIGNIEDERLASSUNG FRANKFURT AM MAIN",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ADM)",
+      "swift_code": "ABCADEFFKTO"
+    },
+    {
+      "id": 23,
+      "bank": "ABC INTERNATIONAL BANK PLC, ZWEIGNIEDERLASSUNG FRANKFURT AM MAIN",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ABCADEFF"
+    },
+    {
+      "id": 28,
+      "bank": "ABN AMRO BANK N.V.GERMAN BRANCH(FORMELY KNOWN AS FORTIS BANK (NEDERLAND) NV ZWEIGNIEDERLASSUNG FRANKFURT)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(MONEY YOU)",
+      "swift_code": "FTSBDEFAMYO"
+    },
+    {
+      "id": 29,
+      "bank": "ABN AMRO BANK N.V.GERMAN BRANCH(FORMELY KNOWN AS FORTIS BANK (NEDERLAND) NV ZWEIGNIEDERLASSUNG FRANKFURT)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(PROSPERY)",
+      "swift_code": "FTSBDEFAPRO"
+    },
+    {
+      "id": 30,
+      "bank": "ABN AMRO BANK N.V.GERMAN BRANCH(FORMELY KNOWN AS FORTIS BANK (NEDERLAND) NV ZWEIGNIEDERLASSUNG FRANKFURT)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEC FINANCING)",
+      "swift_code": "FTSBDEFASFI"
+    },
+    {
+      "id": 31,
+      "bank": "ABN AMRO BANK N.V.GERMAN BRANCH(FORMELY KNOWN AS FORTIS BANK (NEDERLAND) NV ZWEIGNIEDERLASSUNG FRANKFURT)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "FTSBDEFA"
+    },
+    {
+      "id": 35,
+      "bank": "AGRICULTURAL BANK OF CHINA FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ABOCDEF1DOT"
+    },
+    {
+      "id": 36,
+      "bank": "AGRICULTURAL BANK OF CHINA FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ABOCDEFF"
+    },
+    {
+      "id": 42,
+      "bank": "AKA AUSFUHRKREDIT-GESELLSCHAFT MBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "AUSKDEFF"
+    },
+    {
+      "id": 43,
+      "bank": "AKBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "AKBKDEFF"
+    },
+    {
+      "id": 52,
+      "bank": "ALLIANZ GLOBAL INVESTORS ADVISORY GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ADIMDEF1"
+    },
+    {
+      "id": 53,
+      "bank": "ALLIANZ GLOBAL INVESTORS GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(AGIA)",
+      "swift_code": "AGIDDEFFIAM"
+    },
+    {
+      "id": 54,
+      "bank": "ALLIANZ GLOBAL INVESTORS GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FOR SPECIAL PURPOSES)",
+      "swift_code": "AGIDDEFFPA1"
+    },
+    {
+      "id": 55,
+      "bank": "ALLIANZ GLOBAL INVESTORS GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FUND ADMINISTRATION)",
+      "swift_code": "AGIDDEFFFOA"
+    },
+    {
+      "id": 56,
+      "bank": "ALLIANZ GLOBAL INVESTORS GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INVESTMENT MIDDLE OFFICE)",
+      "swift_code": "AGIDDEFFINV"
+    },
+    {
+      "id": 57,
+      "bank": "ALLIANZ GLOBAL INVESTORS GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "AGIDDEFB"
+    },
+    {
+      "id": 58,
+      "bank": "ALLIANZ GLOBAL INVESTORS GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "AGIDDEFBSGF"
+    },
+    {
+      "id": 59,
+      "bank": "ALLIANZ GLOBAL INVESTORS GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "AGIDDEFBSSL"
+    },
+    {
+      "id": 60,
+      "bank": "ALLIANZ GLOBAL INVESTORS GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "AGIDDEFF"
+    },
+    {
+      "id": 61,
+      "bank": "ALLIANZ GLOBAL INVESTORS GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "AGIDDEFFHOF"
+    },
+    {
+      "id": 62,
+      "bank": "ALLIANZ GLOBAL INVESTORS GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "AGIDDEFFPAR"
+    },
+    {
+      "id": 72,
+      "bank": "AMERICAN EXPRESS SERVICES EUROPE LIMITED, ZWEIGNIEDERLASSUNG FRANKFURT AM MAIN",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "AESUDEF1"
+    },
+    {
+      "id": 73,
+      "bank": "AMETHYST MANAGED FUTURES FUND",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "AMFFDEF1"
+    },
+    {
+      "id": 81,
+      "bank": "ARCHELON DEUTSCHLAND GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ARDGDEF1"
+    },
+    {
+      "id": 82,
+      "bank": "ASECURIS ASSET MANAGEMENT ADVISORY GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ASECDEF1"
+    },
+    {
+      "id": 85,
+      "bank": "ATTIJARIWAFA BANK EUROPE GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BCMADEFF"
+    },
+    {
+      "id": 95,
+      "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED NIEDERLASSUNG FRANKFURT AM MAIN",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ANZBDEFF"
+    },
+    {
+      "id": 105,
+      "bank": "AXG INVESTMENTBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "AXGIDEF1"
+    },
+    {
+      "id": 106,
+      "bank": "BAADER BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FONDSHANDEL)",
+      "swift_code": "BDWBDEMMFND"
+    },
+    {
+      "id": 126,
+      "bank": "BADEN-WUERTTEMBERGISCHE BANK (TRADING AS LANDESBANK BADEN-WUERTTEMBERG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BOERSENBUERO FRANKFURT/MAIN)",
+      "swift_code": "SOLADEST514"
+    },
+    {
+      "id": 183,
+      "bank": "BANCO BILBAO VIZCAYA ARGENTARIA SA.",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BBVADEFF"
+    },
+    {
+      "id": 184,
+      "bank": "BANCO DO BRASIL S.A. FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BRASDEFF"
+    },
+    {
+      "id": 185,
+      "bank": "BANCO SANTANDER S.A.",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BSCHDEFF"
+    },
+    {
+      "id": 218,
+      "bank": "BANK J. SAFRA SARASIN (DEUTSCHLAND) AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(PM LIGHT)",
+      "swift_code": "SRRADEM1BBK"
+    },
+    {
+      "id": 219,
+      "bank": "BANK J. SAFRA SARASIN (DEUTSCHLAND) AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SRRADEM1"
+    },
+    {
+      "id": 220,
+      "bank": "BANK JULIUS BAER EUROPE AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BAERDEF1"
+    },
+    {
+      "id": 222,
+      "bank": "BANK OF AMERICA, N.A.",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(MANAGED TRANSACTION BANKING SERVICES)",
+      "swift_code": "BOFADEFXVAM"
+    },
+    {
+      "id": 223,
+      "bank": "BANK OF AMERICA, N.A.",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BOFADEFX"
+    },
+    {
+      "id": 224,
+      "bank": "BANK OF AMERICA, N.A. MILITARY BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MNBIDEF1"
+    },
+    {
+      "id": 226,
+      "bank": "BANK OF BEIRUT (UK) LTD FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BABEDEFF"
+    },
+    {
+      "id": 227,
+      "bank": "BANK OF CHINA",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DOTATIONSKONTO)",
+      "swift_code": "BKCHDEFFDOT"
+    },
+    {
+      "id": 228,
+      "bank": "BANK OF CHINA",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BKCHDEFF"
+    },
+    {
+      "id": 230,
+      "bank": "BANK OF COMMUNICATIONS CO. LTD FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "COMMDEFF"
+    },
+    {
+      "id": 232,
+      "bank": "BANK OF NEW YORK MELLON SA/NV",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BNYMDEF1"
+    },
+    {
+      "id": 233,
+      "bank": "BANK OF NEW YORK MELLON SA/NV",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BNYMDEF1BUB"
+    },
+    {
+      "id": 234,
+      "bank": "BANK OF NEW YORK MELLON SA/NV ASSET SERVICING, NL FRANKFURT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BNYMDEFX"
+    },
+    {
+      "id": 236,
+      "bank": "BANK OF SCOTLAND - NIEDERLASSUNG FRANKFURT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(PM-KONTO)",
+      "swift_code": "BOFSDEF1TG2"
+    },
+    {
+      "id": 237,
+      "bank": "BANK OF SCOTLAND - NIEDERLASSUNG FRANKFURT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BOFSDEF1"
+    },
+    {
+      "id": 240,
+      "bank": "BANK SADERAT IRAN HAMBURG BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SIHRDEH1FFM"
+    },
+    {
+      "id": 245,
+      "bank": "BANK SEPAH-IRAN",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SEPBDEFF"
+    },
+    {
+      "id": 279,
+      "bank": "BANKHAUS MAIN AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BMAIDEF1"
+    },
+    {
+      "id": 290,
+      "bank": "BANQUE CHAABI DU MAROC NIEDERLASSUNG DEUTSCHLAND AGENTUR",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BCDMDEF1"
+    },
+    {
+      "id": 291,
+      "bank": "BANQUE EUROPEENNE DU CREDIT MUTUEL",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CMCIDEF1"
+    },
+    {
+      "id": 292,
+      "bank": "BANQUE EUROPEENNE DU CREDIT MUTUEL",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CMCIDEFF"
+    },
+    {
+      "id": 296,
+      "bank": "BARCLAYS BANK PLC",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CASH MANAGEMENT SERVICE)",
+      "swift_code": "BARCDEFFMCH"
+    },
+    {
+      "id": 297,
+      "bank": "BARCLAYS BANK PLC",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FRANKFURT BRANCH)",
+      "swift_code": "BARCDEFF"
+    },
+    {
+      "id": 298,
+      "bank": "BARCLAYS BANK PLC",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BARCDEF1TCS"
+    },
+    {
+      "id": 318,
+      "bank": "BBBANK EG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BBAKDEF1"
+    },
+    {
+      "id": 339,
+      "bank": "BETHMANN BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DOTATION)",
+      "swift_code": "DELBDE33FFM"
+    },
+    {
+      "id": 340,
+      "bank": "BETHMANN BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DELBDE33"
+    },
+    {
+      "id": 351,
+      "bank": "BIRKERT WERTPAPIERHANDELSHAUS GMBH UND CO. KG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BIWGDEF1"
+    },
+    {
+      "id": 355,
+      "bank": "BMCE EUROSERVICES",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BMEUDEF1"
+    },
+    {
+      "id": 359,
+      "bank": "BNP PARIBAS S.A. NIEDERLASSUNG DEUTSCHLAND",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FRANKFURT BRANCH)",
+      "swift_code": "BNPADEFF"
+    },
+    {
+      "id": 360,
+      "bank": "BNP PARIBAS S.A. NIEDERLASSUNG DEUTSCHLAND",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BNPADEFFTGT"
+    },
+    {
+      "id": 368,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BNP PARIBAS FRANKFURT)",
+      "swift_code": "PARBDEFFALA"
+    },
+    {
+      "id": 369,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BNP PARIBAS SA)",
+      "swift_code": "PARBDEFFWAW"
+    },
+    {
+      "id": 370,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BNP PARIBAS SECURITIES SERVICES)",
+      "swift_code": "PARBDEFFALO"
+    },
+    {
+      "id": 371,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BNP PARIBAS SECURITIES SERVICES)",
+      "swift_code": "PARBDEFFZUR"
+    },
+    {
+      "id": 372,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BNP PARIBAS SECURITIES SERVICES, GERMANY)",
+      "swift_code": "PARBDEFFBA1"
+    },
+    {
+      "id": 373,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S EBK)",
+      "swift_code": "PARBDEFFEBK"
+    },
+    {
+      "id": 374,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S FEC GERMANY)",
+      "swift_code": "PARBDEFFFEC"
+    },
+    {
+      "id": 375,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S FRANKFURT GOLD PROCESSING)",
+      "swift_code": "PARBDEF1GOL"
+    },
+    {
+      "id": 376,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S FRANKFURT)",
+      "swift_code": "PARBDEFFLND"
+    },
+    {
+      "id": 377,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S GERMANY)",
+      "swift_code": "PARBDEFFAUT"
+    },
+    {
+      "id": 378,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S ITG)",
+      "swift_code": "PARBDEFFITG"
+    },
+    {
+      "id": 379,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S T2S GERMANY)",
+      "swift_code": "PARBDEFFAB1"
+    },
+    {
+      "id": 380,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S T2S GERMANY)",
+      "swift_code": "PARBDEFFAB2"
+    },
+    {
+      "id": 381,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S T2S GERMANY)",
+      "swift_code": "PARBDEFFBC1"
+    },
+    {
+      "id": 382,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S T2S GERMANY)",
+      "swift_code": "PARBDEFFBSG"
+    },
+    {
+      "id": 383,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S T2S GERMANY)",
+      "swift_code": "PARBDEFFCTS"
+    },
+    {
+      "id": 384,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S T2S GERMANY)",
+      "swift_code": "PARBDEFFCY1"
+    },
+    {
+      "id": 385,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S T2S GERMANY)",
+      "swift_code": "PARBDEFFFS1"
+    },
+    {
+      "id": 386,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S T2S GERMANY)",
+      "swift_code": "PARBDEFFIC1"
+    },
+    {
+      "id": 387,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S T2S GERMANY)",
+      "swift_code": "PARBDEFFIN1"
+    },
+    {
+      "id": 388,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S T2S GERMANY)",
+      "swift_code": "PARBDEFFKN1"
+    },
+    {
+      "id": 389,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S T2S GERMANY)",
+      "swift_code": "PARBDEFFML1"
+    },
+    {
+      "id": 390,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S T2S GERMANY)",
+      "swift_code": "PARBDEFFRD1"
+    },
+    {
+      "id": 391,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S T2S GERMANY)",
+      "swift_code": "PARBDEFFTA1"
+    },
+    {
+      "id": 392,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S T2S GERMANY)",
+      "swift_code": "PARBDEFFTU1"
+    },
+    {
+      "id": 393,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S TAX)",
+      "swift_code": "PARBDEFFTAX"
+    },
+    {
+      "id": 394,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BP2S ZWEIGNIEDERSLASSUNG FRANKFURT)",
+      "swift_code": "PARBDEFFBRE"
+    },
+    {
+      "id": 395,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CBF - BP2S FRANKFURT)",
+      "swift_code": "PARBDEFFPBC"
+    },
+    {
+      "id": 396,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CBF - BP2S FRANKFURT)",
+      "swift_code": "PARBDEFFPBH"
+    },
+    {
+      "id": 397,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CBF - BP2S FRANKFURT)",
+      "swift_code": "PARBDEFFPBI"
+    },
+    {
+      "id": 398,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CBF - BP2S FRANKFURT)",
+      "swift_code": "PARBDEFFPBJ"
+    },
+    {
+      "id": 399,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CBF - BP2S FRANKFURT)",
+      "swift_code": "PARBDEFFPBR"
+    },
+    {
+      "id": 400,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CBF - BP2S FRANKFURT)",
+      "swift_code": "PARBDEFFPBS"
+    },
+    {
+      "id": 401,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CBF - BP2S FRANKFURT)",
+      "swift_code": "PARBDEFFPBT"
+    },
+    {
+      "id": 402,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CBF - BP2S FRANKFURT)",
+      "swift_code": "PARBDEFFPBW"
+    },
+    {
+      "id": 403,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CBF - BP2S FRANKFURT)",
+      "swift_code": "PARBDEFFPBY"
+    },
+    {
+      "id": 404,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CBF - BP2S FRANKFURT)",
+      "swift_code": "PARBDEFFPCA"
+    },
+    {
+      "id": 405,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CBF - BP2S FRANKFURT)",
+      "swift_code": "PARBDEFFZKJ"
+    },
+    {
+      "id": 406,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(GLOBAL CUSTODY)",
+      "swift_code": "PARBDEFFISI"
+    },
+    {
+      "id": 407,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(PROJECT: T2S)",
+      "swift_code": "PARBDEFFTG1"
+    },
+    {
+      "id": 408,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S)",
+      "swift_code": "PARBDEFFNX1"
+    },
+    {
+      "id": 409,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "PARBDEFF"
+    },
+    {
+      "id": 410,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "PARBDEFFJPM"
+    },
+    {
+      "id": 411,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "PARBDEFFMIL"
+    },
+    {
+      "id": 412,
+      "bank": "BNP PARIBAS SECURITIES SERVICES, GERMANY",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "PARBDEFH"
+    },
+    {
+      "id": 419,
+      "bank": "BRAINTRADE GESELLSCHAFT FUR BORSENSYSTEME MBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BGBMDEF1"
+    },
+    {
+      "id": 426,
+      "bank": "BREMER KREDITBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BACKOFFICE)",
+      "swift_code": "BANVDEHB700"
+    },
+    {
+      "id": 427,
+      "bank": "BREMER KREDITBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BANVDEHB500"
+    },
+    {
+      "id": 437,
+      "bank": "BUNDESREPUBLIK DEUTSCHLAND-FINANZAGENTUR GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE FINANZAGENTUR)",
+      "swift_code": "BDFGDEF1YZX"
+    },
+    {
+      "id": 438,
+      "bank": "BUNDESREPUBLIK DEUTSCHLAND-FINANZAGENTUR GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BDFGDEF1"
+    },
+    {
+      "id": 460,
+      "bank": "CAIXABANK,S.A.,ZWEIGNIEDERLASSUNG DEUTSCHLAND",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CAIXDEFF"
+    },
+    {
+      "id": 463,
+      "bank": "CASHEXPRESS GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CAGBDEF1"
+    },
+    {
+      "id": 464,
+      "bank": "CASHEXPRESS GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CAGBDEF1CMI"
+    },
+    {
+      "id": 466,
+      "bank": "CEFDEX AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CEFEDEF1"
+    },
+    {
+      "id": 469,
+      "bank": "CHINA CONSTRUCTION BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FRANKFURT BRANCH)",
+      "swift_code": "PCBCDEFF"
+    },
+    {
+      "id": 471,
+      "bank": "CITIBANK N.A., FILIALE FRANKFURT/MAIN",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FILIALE FRANKFURT,TARGET 2 (RESTRICTED USE))",
+      "swift_code": "CITIDE55SEC"
+    },
+    {
+      "id": 472,
+      "bank": "CITIBANK N.A., FILIALE FRANKFURT/MAIN",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CITIDE55"
+    },
+    {
+      "id": 473,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CGML, EUREX BUSINESS)",
+      "swift_code": "CITIDEFFSBI"
+    },
+    {
+      "id": 474,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CITIBANK FRANKFURT ML BUSINESS)",
+      "swift_code": "CITIDEFFMLL"
+    },
+    {
+      "id": 475,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(KELER KSZV)",
+      "swift_code": "CITIDEFFKEL"
+    },
+    {
+      "id": 476,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(RESTRICTED USE CITIBANK FRANKFURT TARGET 2)",
+      "swift_code": "CITIDEFFSEC"
+    },
+    {
+      "id": 477,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 001)",
+      "swift_code": "CITIDEF1001"
+    },
+    {
+      "id": 478,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 002)",
+      "swift_code": "CITIDEF1002"
+    },
+    {
+      "id": 479,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 003)",
+      "swift_code": "CITIDEF1003"
+    },
+    {
+      "id": 480,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 004)",
+      "swift_code": "CITIDEF1004"
+    },
+    {
+      "id": 481,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 005)",
+      "swift_code": "CITIDEF1005"
+    },
+    {
+      "id": 482,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 006)",
+      "swift_code": "CITIDEF1006"
+    },
+    {
+      "id": 483,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 007)",
+      "swift_code": "CITIDEF1007"
+    },
+    {
+      "id": 484,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 008)",
+      "swift_code": "CITIDEF1008"
+    },
+    {
+      "id": 485,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 009)",
+      "swift_code": "CITIDEF1009"
+    },
+    {
+      "id": 486,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 010)",
+      "swift_code": "CITIDEF1010"
+    },
+    {
+      "id": 487,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 011)",
+      "swift_code": "CITIDEF1011"
+    },
+    {
+      "id": 488,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 012)",
+      "swift_code": "CITIDEF1012"
+    },
+    {
+      "id": 489,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 013)",
+      "swift_code": "CITIDEF1013"
+    },
+    {
+      "id": 490,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 014)",
+      "swift_code": "CITIDEF1014"
+    },
+    {
+      "id": 491,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 015)",
+      "swift_code": "CITIDEF1015"
+    },
+    {
+      "id": 492,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 016)",
+      "swift_code": "CITIDEF1016"
+    },
+    {
+      "id": 493,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 017)",
+      "swift_code": "CITIDEF1017"
+    },
+    {
+      "id": 494,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 018)",
+      "swift_code": "CITIDEF1018"
+    },
+    {
+      "id": 495,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 019)",
+      "swift_code": "CITIDEF1019"
+    },
+    {
+      "id": 496,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 020)",
+      "swift_code": "CITIDEF1020"
+    },
+    {
+      "id": 497,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 021)",
+      "swift_code": "CITIDEF1021"
+    },
+    {
+      "id": 498,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 022)",
+      "swift_code": "CITIDEF1022"
+    },
+    {
+      "id": 499,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 023)",
+      "swift_code": "CITIDEF1023"
+    },
+    {
+      "id": 500,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 024)",
+      "swift_code": "CITIDEF1024"
+    },
+    {
+      "id": 501,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 025)",
+      "swift_code": "CITIDEF1025"
+    },
+    {
+      "id": 502,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 026)",
+      "swift_code": "CITIDEF1026"
+    },
+    {
+      "id": 503,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 027)",
+      "swift_code": "CITIDEF1027"
+    },
+    {
+      "id": 504,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 028)",
+      "swift_code": "CITIDEF1028"
+    },
+    {
+      "id": 505,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 029)",
+      "swift_code": "CITIDEF1029"
+    },
+    {
+      "id": 506,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 030)",
+      "swift_code": "CITIDEF1030"
+    },
+    {
+      "id": 507,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 031)",
+      "swift_code": "CITIDEF1031"
+    },
+    {
+      "id": 508,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 032)",
+      "swift_code": "CITIDEF1032"
+    },
+    {
+      "id": 509,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 033)",
+      "swift_code": "CITIDEF1033"
+    },
+    {
+      "id": 510,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 034)",
+      "swift_code": "CITIDEF1034"
+    },
+    {
+      "id": 511,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S 035)",
+      "swift_code": "CITIDEF1035"
+    },
+    {
+      "id": 512,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CITIDEF1"
+    },
+    {
+      "id": 513,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CITIDEFF"
+    },
+    {
+      "id": 514,
+      "bank": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SLMBDEF1"
+    },
+    {
+      "id": 516,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CBF CONTINGENCY)",
+      "swift_code": "DAKVDEFFCON"
+    },
+    {
+      "id": 517,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CBF ESES CASH PROCESSING)",
+      "swift_code": "DAKVDEFFESE"
+    },
+    {
+      "id": 518,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CBF ESES MARKET ACCOUNT BE)",
+      "swift_code": "DAKVDEFFBE1"
+    },
+    {
+      "id": 519,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CBF ESES MARKET ACCOUNT FOR FR)",
+      "swift_code": "DAKVDEFFFR1"
+    },
+    {
+      "id": 520,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CBF ESES MARKET ACCOUNT NL)",
+      "swift_code": "DAKVDEFFNL1"
+    },
+    {
+      "id": 521,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CBF ONE CLEARSTREAM SERVICE)",
+      "swift_code": "DAKVDEFFONE"
+    },
+    {
+      "id": 522,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CBF TA DTP)",
+      "swift_code": "DAKVDEFFAS2"
+    },
+    {
+      "id": 523,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DOMESTIC)",
+      "swift_code": "DAKVDEFFDOM"
+    },
+    {
+      "id": 524,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S)",
+      "swift_code": "DAKVDEFFBE2"
+    },
+    {
+      "id": 525,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S)",
+      "swift_code": "DAKVDEFFNL2"
+    },
+    {
+      "id": 526,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(TRANSACTION- AND SAFE CUSTODY FEES FOR GBC ACCOUNTS)",
+      "swift_code": "DAKVDEFFONF"
+    },
+    {
+      "id": 527,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(VAULTS AND SECURITIES DELIVERIES)",
+      "swift_code": "DAKVDEFFVAU"
+    },
+    {
+      "id": 528,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFF"
+    },
+    {
+      "id": 529,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFF700"
+    },
+    {
+      "id": 530,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFF702"
+    },
+    {
+      "id": 531,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFF704"
+    },
+    {
+      "id": 532,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFF705"
+    },
+    {
+      "id": 533,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFF706"
+    },
+    {
+      "id": 534,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFF707"
+    },
+    {
+      "id": 535,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFF708"
+    },
+    {
+      "id": 536,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFF709"
+    },
+    {
+      "id": 537,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFF710"
+    },
+    {
+      "id": 538,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFF711"
+    },
+    {
+      "id": 539,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFCMS"
+    },
+    {
+      "id": 540,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFCOS"
+    },
+    {
+      "id": 541,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFGCP"
+    },
+    {
+      "id": 542,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFIRS"
+    },
+    {
+      "id": 543,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFLIO"
+    },
+    {
+      "id": 544,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFMIG"
+    },
+    {
+      "id": 545,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFOPS"
+    },
+    {
+      "id": 546,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFSIS"
+    },
+    {
+      "id": 547,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFSLS"
+    },
+    {
+      "id": 548,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFSTO"
+    },
+    {
+      "id": 549,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT01"
+    },
+    {
+      "id": 550,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT02"
+    },
+    {
+      "id": 551,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT03"
+    },
+    {
+      "id": 552,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT04"
+    },
+    {
+      "id": 553,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT05"
+    },
+    {
+      "id": 554,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT06"
+    },
+    {
+      "id": 555,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT07"
+    },
+    {
+      "id": 556,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT08"
+    },
+    {
+      "id": 557,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT09"
+    },
+    {
+      "id": 558,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT10"
+    },
+    {
+      "id": 559,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT11"
+    },
+    {
+      "id": 560,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT12"
+    },
+    {
+      "id": 561,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT13"
+    },
+    {
+      "id": 562,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT14"
+    },
+    {
+      "id": 563,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT15"
+    },
+    {
+      "id": 564,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT16"
+    },
+    {
+      "id": 565,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT17"
+    },
+    {
+      "id": 566,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT18"
+    },
+    {
+      "id": 567,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT19"
+    },
+    {
+      "id": 568,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT20"
+    },
+    {
+      "id": 569,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT21"
+    },
+    {
+      "id": 570,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT22"
+    },
+    {
+      "id": 571,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT23"
+    },
+    {
+      "id": 572,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT24"
+    },
+    {
+      "id": 573,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT25"
+    },
+    {
+      "id": 574,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT26"
+    },
+    {
+      "id": 575,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT27"
+    },
+    {
+      "id": 576,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT28"
+    },
+    {
+      "id": 577,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT29"
+    },
+    {
+      "id": 578,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT2A"
+    },
+    {
+      "id": 579,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT30"
+    },
+    {
+      "id": 580,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT31"
+    },
+    {
+      "id": 581,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT32"
+    },
+    {
+      "id": 582,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT33"
+    },
+    {
+      "id": 583,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT34"
+    },
+    {
+      "id": 584,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT35"
+    },
+    {
+      "id": 585,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT36"
+    },
+    {
+      "id": 586,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT37"
+    },
+    {
+      "id": 587,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT38"
+    },
+    {
+      "id": 588,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT39"
+    },
+    {
+      "id": 589,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT40"
+    },
+    {
+      "id": 590,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT41"
+    },
+    {
+      "id": 591,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT42"
+    },
+    {
+      "id": 592,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT43"
+    },
+    {
+      "id": 593,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT44"
+    },
+    {
+      "id": 594,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT45"
+    },
+    {
+      "id": 595,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT46"
+    },
+    {
+      "id": 596,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT47"
+    },
+    {
+      "id": 597,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT48"
+    },
+    {
+      "id": 598,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT49"
+    },
+    {
+      "id": 599,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT50"
+    },
+    {
+      "id": 600,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT51"
+    },
+    {
+      "id": 601,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT52"
+    },
+    {
+      "id": 602,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT53"
+    },
+    {
+      "id": 603,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT54"
+    },
+    {
+      "id": 604,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT55"
+    },
+    {
+      "id": 605,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT56"
+    },
+    {
+      "id": 606,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT57"
+    },
+    {
+      "id": 607,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT58"
+    },
+    {
+      "id": 608,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT59"
+    },
+    {
+      "id": 609,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT60"
+    },
+    {
+      "id": 610,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT61"
+    },
+    {
+      "id": 611,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT62"
+    },
+    {
+      "id": 612,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT63"
+    },
+    {
+      "id": 613,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT64"
+    },
+    {
+      "id": 614,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT65"
+    },
+    {
+      "id": 615,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT66"
+    },
+    {
+      "id": 616,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT67"
+    },
+    {
+      "id": 617,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT68"
+    },
+    {
+      "id": 618,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT69"
+    },
+    {
+      "id": 619,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT70"
+    },
+    {
+      "id": 620,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT71"
+    },
+    {
+      "id": 621,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT72"
+    },
+    {
+      "id": 622,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT73"
+    },
+    {
+      "id": 623,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT74"
+    },
+    {
+      "id": 624,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT75"
+    },
+    {
+      "id": 625,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT76"
+    },
+    {
+      "id": 626,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT77"
+    },
+    {
+      "id": 627,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT78"
+    },
+    {
+      "id": 628,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT79"
+    },
+    {
+      "id": 629,
+      "bank": "CLEARSTREAM BANKING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAKVDEFFT80"
+    },
+    {
+      "id": 631,
+      "bank": "CLEARSTREAM BANKING AKTIENGESELLSCHAFT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "XETRDEF1"
+    },
+    {
+      "id": 635,
+      "bank": "COMDIRECT BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DERIVATES)",
+      "swift_code": "COBADEH1DER"
+    },
+    {
+      "id": 640,
+      "bank": "COMDIRECT BANK UND GF ONVISTA BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BOURDEFF"
+    },
+    {
+      "id": 641,
+      "bank": "COMMERZ ASSET MANAGEMENT HOLDING GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CAMHDEF1"
+    },
+    {
+      "id": 806,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ADMINISTRATION)",
+      "swift_code": "COBADEFFCRS"
+    },
+    {
+      "id": 807,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BUSINESS DEPT. INTERNAL INVOICE 160)",
+      "swift_code": "COBADEFF060"
+    },
+    {
+      "id": 808,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BUSINESS DEPT. INTERNAL INVOICE 161)",
+      "swift_code": "COBADEFF061"
+    },
+    {
+      "id": 809,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BUSINESS DEPT. INTERNAL INVOICE 260)",
+      "swift_code": "COBADEFF062"
+    },
+    {
+      "id": 810,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BUSINESS DEPT. INTERNAL INVOICE 261)",
+      "swift_code": "COBADEFF063"
+    },
+    {
+      "id": 811,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BUSINESS DEPT. INTERNAL INVOICE 460)",
+      "swift_code": "COBADEFF066"
+    },
+    {
+      "id": 812,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BUSINESS DEPT. INTERNAL INVOICE 461)",
+      "swift_code": "COBADEFF067"
+    },
+    {
+      "id": 813,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BUSINESS DEPT. INTERNAL INVOICE 660)",
+      "swift_code": "COBADEFF064"
+    },
+    {
+      "id": 814,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BUSINESS DEPT. INTERNAL INVOICE 661)",
+      "swift_code": "COBADEFF065"
+    },
+    {
+      "id": 815,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BUSINESS DEPT. INTERNAL INVOICE 860)",
+      "swift_code": "COBADEFF068"
+    },
+    {
+      "id": 816,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BUSINESS DEPT. INTERNAL INVOICE 861)",
+      "swift_code": "COBADEFF069"
+    },
+    {
+      "id": 817,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF090"
+    },
+    {
+      "id": 818,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF091"
+    },
+    {
+      "id": 819,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CC SP5)",
+      "swift_code": "COBADEFFS05"
+    },
+    {
+      "id": 820,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CORPORATES AND MARKETS)",
+      "swift_code": "COBADEFFZCM"
+    },
+    {
+      "id": 821,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FFM GF-F48)",
+      "swift_code": "COBADEFF950"
+    },
+    {
+      "id": 822,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FFM-TUI)",
+      "swift_code": "COBADEFFTUI"
+    },
+    {
+      "id": 823,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FFM-ZAM)",
+      "swift_code": "COBADEFFZAM"
+    },
+    {
+      "id": 824,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FRANKFURT-AIRPORT BRANCH)",
+      "swift_code": "COBADEFF016"
+    },
+    {
+      "id": 825,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FRANKFURT-BRS)",
+      "swift_code": "COBADEF1BRS"
+    },
+    {
+      "id": 826,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(GLOBAL CASH MANAGEMENT)",
+      "swift_code": "COBADEFFGCM"
+    },
+    {
+      "id": 827,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(GLOBAL CREDIT OPERATIONS SPEZIALIZED FINANCE)",
+      "swift_code": "COBADEFFGCO"
+    },
+    {
+      "id": 828,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(IFB CONNECTION)",
+      "swift_code": "COBADEFFKAG"
+    },
+    {
+      "id": 829,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNATIONAL CASH MANAGEMENT)",
+      "swift_code": "COBADEFFICM"
+    },
+    {
+      "id": 830,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INVESTMENT BANKING)",
+      "swift_code": "COBADEFIINV"
+    },
+    {
+      "id": 831,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ISLAENDISCHE ZENTRALBANK)",
+      "swift_code": "COBADEFFISL"
+    },
+    {
+      "id": 832,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(MBP)",
+      "swift_code": "COBADEFFMBP"
+    },
+    {
+      "id": 833,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(MIFID)",
+      "swift_code": "COBADEF1DER"
+    },
+    {
+      "id": 834,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(MINDESTRESERVE)",
+      "swift_code": "COBADEF1MIR"
+    },
+    {
+      "id": 835,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(OMGEO CTM CONNECTION, BONDS)",
+      "swift_code": "COBADEFFTMB"
+    },
+    {
+      "id": 836,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(REGIONAL BRANCH HANAUER LANDSTRASSE)",
+      "swift_code": "COBADEFF001"
+    },
+    {
+      "id": 837,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(REGIONAL BRANCH MAINZER LANDSTRASSE)",
+      "swift_code": "COBADEFF002"
+    },
+    {
+      "id": 838,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(RETAIL CREDIT)",
+      "swift_code": "COBADEFFZRK"
+    },
+    {
+      "id": 839,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SERVICE BZ)",
+      "swift_code": "COBADEFF071"
+    },
+    {
+      "id": 840,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SERVICE-BZ)",
+      "swift_code": "COBADEFFBZF"
+    },
+    {
+      "id": 841,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SERVICE-BZ)",
+      "swift_code": "COBADEFFFBZ"
+    },
+    {
+      "id": 842,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(TRADE SERVICES)",
+      "swift_code": "COBADEFFDOC"
+    },
+    {
+      "id": 843,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ZGO-IB)",
+      "swift_code": "COBADEFFCLS"
+    },
+    {
+      "id": 844,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "COBADEFA"
+    },
+    {
+      "id": 845,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "COBADEFF"
+    },
+    {
+      "id": 846,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "COBADEFF070"
+    },
+    {
+      "id": 847,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "COBADEFFAES"
+    },
+    {
+      "id": 848,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "COBADEFFEQU"
+    },
+    {
+      "id": 849,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "COBADEFFMAQ"
+    },
+    {
+      "id": 850,
+      "bank": "COMMERZBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "COBADEFI"
+    },
+    {
+      "id": 1270,
+      "bank": "COMMERZBANK AG (BANKING COMMUNICATION SYSTEM)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "COBADEFFBCS"
+    },
+    {
+      "id": 1464,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(AGI KAPITALANLAGE)",
+      "swift_code": "DRESDEFFAGI"
+    },
+    {
+      "id": 1465,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(AVB)",
+      "swift_code": "DRESDEFFAVB"
+    },
+    {
+      "id": 1466,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK 3)",
+      "swift_code": "DRESDEFFI49"
+    },
+    {
+      "id": 1467,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK)",
+      "swift_code": "DRESDEFFI01"
+    },
+    {
+      "id": 1468,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DKIB SEC. LENDING)",
+      "swift_code": "DRESDEFFLDG"
+    },
+    {
+      "id": 1469,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FINANCE AND CONTROLLING)",
+      "swift_code": "DRESDEFFFCO"
+    },
+    {
+      "id": 1470,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(GB PKI)",
+      "swift_code": "DRESDEFFMBP"
+    },
+    {
+      "id": 1471,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERN. CASH MANAGEMENT)",
+      "swift_code": "DRESDEFFICM"
+    },
+    {
+      "id": 1472,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(MACUG)",
+      "swift_code": "DRESDEFFMCD"
+    },
+    {
+      "id": 1473,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(P AND G FRANKFURT (BS 80)",
+      "swift_code": "DRESDEFFI41"
+    },
+    {
+      "id": 1474,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(P AND G FRANKFURT (ZW 15)",
+      "swift_code": "DRESDEFFI39"
+    },
+    {
+      "id": 1475,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(P AND G FRANKFURT (ZW 35)",
+      "swift_code": "DRESDEFFI40"
+    },
+    {
+      "id": 1476,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(P AND G FRANKFURT (ZW 99)",
+      "swift_code": "DRESDEFFI42"
+    },
+    {
+      "id": 1477,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(PCC DCC-ITGK 4)",
+      "swift_code": "DRESDEFFJ08"
+    },
+    {
+      "id": 1478,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(PCC DCC-ITGK 5)",
+      "swift_code": "DRESDEFFJ09"
+    },
+    {
+      "id": 1479,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(PCC DCC-ITGK 6)",
+      "swift_code": "DRESDEFFJ10"
+    },
+    {
+      "id": 1480,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(PCC DCC-ITGK 7)",
+      "swift_code": "DRESDEFFJ11"
+    },
+    {
+      "id": 1481,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(PRIVATE BANKING INLAND)",
+      "swift_code": "DRESDEFF500"
+    },
+    {
+      "id": 1482,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SCORE)",
+      "swift_code": "DRESDEFFSCD"
+    },
+    {
+      "id": 1483,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ZW 55)",
+      "swift_code": "DRESDEFF516"
+    },
+    {
+      "id": 1484,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ZW 57)",
+      "swift_code": "DRESDEFF522"
+    },
+    {
+      "id": 1485,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DRESDEFF"
+    },
+    {
+      "id": 1922,
+      "bank": "CONCORD FINANCIAL INTERMEDIARY GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CFIBDEF1"
+    },
+    {
+      "id": 1923,
+      "bank": "CONCORD INVESTMENTBANK AKTIENGESELLSCHAFT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CEAGDEF1"
+    },
+    {
+      "id": 1927,
+      "bank": "CREDIT AGRICOLE CHEUVREUX NL DEUTSCHLAND",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CACHDEF1"
+    },
+    {
+      "id": 1928,
+      "bank": "CREDIT AGRICOLE CIB",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BSUIDEFF"
+    },
+    {
+      "id": 1929,
+      "bank": "CREDIT AGRICOLE CIB",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BSUIDEFFKTO"
+    },
+    {
+      "id": 1930,
+      "bank": "CREDIT AGRICOLE INDOSUEZ CHEUVREUX DEUTSCHLAND GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CAICDEF1"
+    },
+    {
+      "id": 1931,
+      "bank": "CREDIT EUROPE BANK N.V. NIEDERLASSUNG DEUTSCHLAND",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "FBHLDEFF"
+    },
+    {
+      "id": 1932,
+      "bank": "CREDIT SUISSE (DEUTSCHLAND) AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CRESDE55"
+    },
+    {
+      "id": 1933,
+      "bank": "CREDIT SUISSE ASSET MANAGEMENT IMMOBILIEN KAPITALANLAGEGESELLSCHAFT MBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CRESDEA1"
+    },
+    {
+      "id": 1934,
+      "bank": "CREDIT SUISSE SECURITIES (EUROPE) LIMITED, FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CSFBDEFF"
+    },
+    {
+      "id": 1948,
+      "bank": "D E G I DEUTSCHE GESELLSCHAFT FUER IMMOBILIENFONDS M.B.H.",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEGIDEF1"
+    },
+    {
+      "id": 1955,
+      "bank": "DAIWA EUROPE (DEUTSCHLAND) GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEDGDEF1"
+    },
+    {
+      "id": 1958,
+      "bank": "DBI DRESDNERBANK INVESTMENT MANAGEMENT KAPITALANLAGEGESELLSCHAFT MBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DBIKDEF1"
+    },
+    {
+      "id": 1962,
+      "bank": "DEFO-DEUTSCHE FONDS FUER IMMOBILIENVERMOEGEN GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DTFODEF1"
+    },
+    {
+      "id": 1964,
+      "bank": "DEGUSSA BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(COLLATERALS EUREX)",
+      "swift_code": "DEGUDEFFCOL"
+    },
+    {
+      "id": 1965,
+      "bank": "DEGUSSA BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEGUDEFF"
+    },
+    {
+      "id": 1966,
+      "bank": "DEGUSSA BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEGUDEFFTRH"
+    },
+    {
+      "id": 1969,
+      "bank": "DEKA IMMOBILIEN INVESTMENT GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEKIDEF1"
+    },
+    {
+      "id": 1970,
+      "bank": "DEKA INVESTMENT GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEKADEFF"
+    },
+    {
+      "id": 1971,
+      "bank": "DEKA INVESTMENT GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DFMIDEFF"
+    },
+    {
+      "id": 1973,
+      "bank": "DEKABANK DEUTSCHE GIROZENTRALE FRANKFURT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S)",
+      "swift_code": "DGZFDEFFEXC"
+    },
+    {
+      "id": 1974,
+      "bank": "DEKABANK DEUTSCHE GIROZENTRALE FRANKFURT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DGZFDEFF"
+    },
+    {
+      "id": 1975,
+      "bank": "DEKABANK DEUTSCHE GIROZENTRALE FRANKFURT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DGZFDEFFAMI"
+    },
+    {
+      "id": 1976,
+      "bank": "DEKABANK DEUTSCHE GIROZENTRALE FRANKFURT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DGZFDEFFDII"
+    },
+    {
+      "id": 1977,
+      "bank": "DEKABANK DEUTSCHE GIROZENTRALE FRANKFURT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DGZFDEFFLCD"
+    },
+    {
+      "id": 1978,
+      "bank": "DEKABANK DEUTSCHE GIROZENTRALE FRANKFURT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DGZFDEFFLCH"
+    },
+    {
+      "id": 1979,
+      "bank": "DELBRUECK BETHMANN MAFFEI AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BETHDEF1"
+    },
+    {
+      "id": 1983,
+      "bank": "DENIZBANK (WIEN) AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ESBKDEFF"
+    },
+    {
+      "id": 1984,
+      "bank": "DER TOURISTIK FRANKFURT GMBH UND CO. KG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "TOFGDEF1"
+    },
+    {
+      "id": 2009,
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DAAEDED1007"
+    },
+    {
+      "id": 2041,
+      "bank": "DEUTSCHE ASSET MANAGEMENT GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEAB"
+    },
+    {
+      "id": 2042,
+      "bank": "DEUTSCHE ASSET MANAGEMENT INTERNATIONAL GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(RECONCILIATION DEPT.)",
+      "swift_code": "DEUTDEAMCON"
+    },
+    {
+      "id": 2043,
+      "bank": "DEUTSCHE ASSET MANAGEMENT INTERNATIONAL GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEAM"
+    },
+    {
+      "id": 2044,
+      "bank": "DEUTSCHE ASSET MANAGEMENT INTERNATIONAL GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEAMINT"
+    },
+    {
+      "id": 2045,
+      "bank": "DEUTSCHE ASSET MANAGEMENT INTERNATIONAL GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEAMINV"
+    },
+    {
+      "id": 2046,
+      "bank": "DEUTSCHE ASSET MANAGEMENT INVESTMENTGESELLSCHAFT MBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DGOMDEF1"
+    },
+    {
+      "id": 2247,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ACCESS AND ENTRY POINT FOR DCS BUSINESS)",
+      "swift_code": "DEUTDEFFUAE"
+    },
+    {
+      "id": 2248,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ASSET SERVICES AGENT)",
+      "swift_code": "DEUTDEFFASA"
+    },
+    {
+      "id": 2249,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ASSET SERVICES)",
+      "swift_code": "DEUTDEFFASO"
+    },
+    {
+      "id": 2250,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CIB OPERATIONS)",
+      "swift_code": "DEUTDEFFT20"
+    },
+    {
+      "id": 2251,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CLIENT SUPPORT)",
+      "swift_code": "DEUTDEFFP9U"
+    },
+    {
+      "id": 2252,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CLS-BANKING)",
+      "swift_code": "DEUTDEFFCLS"
+    },
+    {
+      "id": 2253,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CUSTODY SERVICES)",
+      "swift_code": "DEUTDEFFCUS"
+    },
+    {
+      "id": 2254,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFF444"
+    },
+    {
+      "id": 2255,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFF475"
+    },
+    {
+      "id": 2256,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFF605"
+    },
+    {
+      "id": 2257,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFF607"
+    },
+    {
+      "id": 2258,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFF618"
+    },
+    {
+      "id": 2259,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFF706"
+    },
+    {
+      "id": 2260,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFAGI"
+    },
+    {
+      "id": 2261,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFAIF"
+    },
+    {
+      "id": 2262,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFANB"
+    },
+    {
+      "id": 2263,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFBG5"
+    },
+    {
+      "id": 2264,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFBGC"
+    },
+    {
+      "id": 2265,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFBGF"
+    },
+    {
+      "id": 2266,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFCF0"
+    },
+    {
+      "id": 2267,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFCF1"
+    },
+    {
+      "id": 2268,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFCF2"
+    },
+    {
+      "id": 2269,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFCF3"
+    },
+    {
+      "id": 2270,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFCFE"
+    },
+    {
+      "id": 2271,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFCFN"
+    },
+    {
+      "id": 2272,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFCOL"
+    },
+    {
+      "id": 2273,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFDPB"
+    },
+    {
+      "id": 2274,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFDPC"
+    },
+    {
+      "id": 2275,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFDPD"
+    },
+    {
+      "id": 2276,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFDWS"
+    },
+    {
+      "id": 2277,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFGF2"
+    },
+    {
+      "id": 2278,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFGFI"
+    },
+    {
+      "id": 2279,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFMAL"
+    },
+    {
+      "id": 2280,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFSAN"
+    },
+    {
+      "id": 2281,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFTAX"
+    },
+    {
+      "id": 2282,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK AG ICSS)",
+      "swift_code": "DEUTDEFFVIT"
+    },
+    {
+      "id": 2283,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK VIRTUAL ACCOUNTING)",
+      "swift_code": "DEUTDEFFVAC"
+    },
+    {
+      "id": 2284,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DOMESTIC CUSTODY SERVICES)",
+      "swift_code": "DEUTDEFFP2R"
+    },
+    {
+      "id": 2285,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DSO)",
+      "swift_code": "DEUTDEFFDSO"
+    },
+    {
+      "id": 2286,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(EUROPEAN SECURITISATION GROUP)",
+      "swift_code": "DEUTDE5FESG"
+    },
+    {
+      "id": 2287,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FRANKFURT STE)",
+      "swift_code": "DEUTDE5FSTE"
+    },
+    {
+      "id": 2288,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FRANKFURT STZ)",
+      "swift_code": "DEUTDE5FSTZ"
+    },
+    {
+      "id": 2289,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(GLOBAL EQUITY SERVICES)",
+      "swift_code": "DEUTDEFFGES"
+    },
+    {
+      "id": 2290,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(GLOBAL MARKETS EQUITIES CBF 7363)",
+      "swift_code": "DEUTDEFFGMF"
+    },
+    {
+      "id": 2291,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(GLOBAL MARKETS EQUITIES EURTLX)",
+      "swift_code": "DEUTDEFFEI4"
+    },
+    {
+      "id": 2292,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(GLOBAL MARKETS EQUITIES GED 1)",
+      "swift_code": "DEUTDEFFEI1"
+    },
+    {
+      "id": 2293,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(GLOBAL MARKETS EQUITIES GED 2)",
+      "swift_code": "DEUTDEFFEI2"
+    },
+    {
+      "id": 2294,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(GLOBAL MARKETS EQUITIES GME)",
+      "swift_code": "DEUTDEFFEI3"
+    },
+    {
+      "id": 2295,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(GLOBAL MARKETS EQUITIES IDEM DERI)",
+      "swift_code": "DEUTDEFFEI5"
+    },
+    {
+      "id": 2296,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(GLOBAL MARKETS EQUITIES)",
+      "swift_code": "DEUTDEFFGME"
+    },
+    {
+      "id": 2297,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTRA-01)",
+      "swift_code": "DEUTDEFFT60"
+    },
+    {
+      "id": 2298,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTRA-02)",
+      "swift_code": "DEUTDEFFT61"
+    },
+    {
+      "id": 2299,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTRA-03)",
+      "swift_code": "DEUTDEFFT62"
+    },
+    {
+      "id": 2300,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTRA-04)",
+      "swift_code": "DEUTDEFFT63"
+    },
+    {
+      "id": 2301,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTRA-05)",
+      "swift_code": "DEUTDEFFT64"
+    },
+    {
+      "id": 2302,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTRA-06)",
+      "swift_code": "DEUTDEFFT65"
+    },
+    {
+      "id": 2303,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTRA-07)",
+      "swift_code": "DEUTDEFFT66"
+    },
+    {
+      "id": 2304,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTRA-08)",
+      "swift_code": "DEUTDEFFT67"
+    },
+    {
+      "id": 2305,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTRA-09)",
+      "swift_code": "DEUTDEFFT68"
+    },
+    {
+      "id": 2306,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTRA-10)",
+      "swift_code": "DEUTDEFFT69"
+    },
+    {
+      "id": 2307,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INVESTMENT SERVICES)",
+      "swift_code": "DEUTDEFFT54"
+    },
+    {
+      "id": 2308,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(PAYBOX-DEPT.)",
+      "swift_code": "DEUTDEFFP71"
+    },
+    {
+      "id": 2309,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SETS ORDERBOOK DEPARTMENT)",
+      "swift_code": "DEUTDEFFSET"
+    },
+    {
+      "id": 2310,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SPS SYSTEM FOR CASH)",
+      "swift_code": "DEUTDEFFSPC"
+    },
+    {
+      "id": 2311,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(STRUCTURED TRANSACTION GROUP)",
+      "swift_code": "DEUTDEFFSTE"
+    },
+    {
+      "id": 2312,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(TRADE FINANCE-CENTRAL ENTRY POINT EUROPE)",
+      "swift_code": "DEUTDEFFCEP"
+    },
+    {
+      "id": 2313,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEF1MTA"
+    },
+    {
+      "id": 2314,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFF"
+    },
+    {
+      "id": 2315,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFF003"
+    },
+    {
+      "id": 2316,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFF012"
+    },
+    {
+      "id": 2317,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFF024"
+    },
+    {
+      "id": 2318,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFF077"
+    },
+    {
+      "id": 2319,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFF178"
+    },
+    {
+      "id": 2320,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFF277"
+    },
+    {
+      "id": 2321,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFF288"
+    },
+    {
+      "id": 2322,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFF298"
+    },
+    {
+      "id": 2323,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFF310"
+    },
+    {
+      "id": 2324,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFF374"
+    },
+    {
+      "id": 2325,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFF402"
+    },
+    {
+      "id": 2326,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFF424"
+    },
+    {
+      "id": 2327,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFF453"
+    },
+    {
+      "id": 2328,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFF568"
+    },
+    {
+      "id": 2329,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFF635"
+    },
+    {
+      "id": 2330,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFF636"
+    },
+    {
+      "id": 2331,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFF665"
+    },
+    {
+      "id": 2332,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFF769"
+    },
+    {
+      "id": 2333,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFF770"
+    },
+    {
+      "id": 2334,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFF830"
+    },
+    {
+      "id": 2335,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFASL"
+    },
+    {
+      "id": 2336,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFCT1"
+    },
+    {
+      "id": 2337,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFDNB"
+    },
+    {
+      "id": 2338,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFEEQ"
+    },
+    {
+      "id": 2339,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFEEX"
+    },
+    {
+      "id": 2340,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFEOC"
+    },
+    {
+      "id": 2341,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFEPB"
+    },
+    {
+      "id": 2342,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFGED"
+    },
+    {
+      "id": 2343,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFHBK"
+    },
+    {
+      "id": 2344,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFITT"
+    },
+    {
+      "id": 2345,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFP1V"
+    },
+    {
+      "id": 2346,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFP2V"
+    },
+    {
+      "id": 2347,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFSIP"
+    },
+    {
+      "id": 2348,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT21"
+    },
+    {
+      "id": 2349,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT70"
+    },
+    {
+      "id": 2350,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT71"
+    },
+    {
+      "id": 2351,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT72"
+    },
+    {
+      "id": 2352,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT73"
+    },
+    {
+      "id": 2353,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT74"
+    },
+    {
+      "id": 2354,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT75"
+    },
+    {
+      "id": 2355,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT76"
+    },
+    {
+      "id": 2356,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT77"
+    },
+    {
+      "id": 2357,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT78"
+    },
+    {
+      "id": 2358,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT79"
+    },
+    {
+      "id": 2359,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT80"
+    },
+    {
+      "id": 2360,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT81"
+    },
+    {
+      "id": 2361,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT82"
+    },
+    {
+      "id": 2362,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT83"
+    },
+    {
+      "id": 2363,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT84"
+    },
+    {
+      "id": 2364,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT85"
+    },
+    {
+      "id": 2365,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT86"
+    },
+    {
+      "id": 2366,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT87"
+    },
+    {
+      "id": 2367,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT88"
+    },
+    {
+      "id": 2368,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT89"
+    },
+    {
+      "id": 2369,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT90"
+    },
+    {
+      "id": 2370,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT91"
+    },
+    {
+      "id": 2371,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT92"
+    },
+    {
+      "id": 2372,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT93"
+    },
+    {
+      "id": 2373,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT94"
+    },
+    {
+      "id": 2374,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT95"
+    },
+    {
+      "id": 2375,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT96"
+    },
+    {
+      "id": 2376,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT97"
+    },
+    {
+      "id": 2377,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT98"
+    },
+    {
+      "id": 2378,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFT99"
+    },
+    {
+      "id": 2379,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEFFZEQ"
+    },
+    {
+      "id": 2905,
+      "bank": "DEUTSCHE BANK BAUSPAR AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEJ1"
+    },
+    {
+      "id": 2906,
+      "bank": "DEUTSCHE BANK EUROPE GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDE5X"
+    },
+    {
+      "id": 3107,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DEUTSCHE BANK VIRTUAL ACCOUNTING)",
+      "swift_code": "DEUTDEDBPAL"
+    },
+    {
+      "id": 3108,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(PGK-INTRA)",
+      "swift_code": "DEUTDEDBLCR"
+    },
+    {
+      "id": 3109,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEDB"
+    },
+    {
+      "id": 3110,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDEDBFRA"
+    },
+    {
+      "id": 3643,
+      "bank": "DEUTSCHE BOERSE AKTIENGESELLSCHAFT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "XDWZDEF1EKN"
+    },
+    {
+      "id": 3644,
+      "bank": "DEUTSCHE BOERSE AKTIENGESELLSCHAFT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "XDWZDEF1GCP"
+    },
+    {
+      "id": 3657,
+      "bank": "DEUTSCHE BUNDESBANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MARKDEF1500"
+    },
+    {
+      "id": 3688,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(AUTO COLLATERALISATION)",
+      "swift_code": "MARKDEFFATC"
+    },
+    {
+      "id": 3689,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BRANCH 900)",
+      "swift_code": "MARKDEF1900"
+    },
+    {
+      "id": 3690,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(COVERED BONDS)",
+      "swift_code": "MARKDEFFCOB"
+    },
+    {
+      "id": 3691,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(EFSF)",
+      "swift_code": "MARKDEFFEFS"
+    },
+    {
+      "id": 3692,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ESM)",
+      "swift_code": "MARKDEFFESM"
+    },
+    {
+      "id": 3693,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ESM)",
+      "swift_code": "MARKDEFFPIC"
+    },
+    {
+      "id": 3694,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FMSA RESTRUKTURIERUNGSFONDS)",
+      "swift_code": "MARKDEFFFMR"
+    },
+    {
+      "id": 3695,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FMSA/SOFFIN)",
+      "swift_code": "MARKDEFFFST"
+    },
+    {
+      "id": 3696,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FMS-WM)",
+      "swift_code": "MARKDEFFFWM"
+    },
+    {
+      "id": 3697,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL)",
+      "swift_code": "MARKDEFFCON"
+    },
+    {
+      "id": 3698,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL.PROC.BKTRIER)",
+      "swift_code": "MARKDEFFBKT"
+    },
+    {
+      "id": 3699,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL.PROC.BRD)",
+      "swift_code": "MARKDEFFBRD"
+    },
+    {
+      "id": 3700,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL.PROC.BSB)",
+      "swift_code": "MARKDEFFBSB"
+    },
+    {
+      "id": 3701,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL.PROC.COLL.MGMT)",
+      "swift_code": "MARKDEFFOBS"
+    },
+    {
+      "id": 3702,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL.PROC.EIGENGESCHAEFTE)",
+      "swift_code": "MARKDEFFEIG"
+    },
+    {
+      "id": 3703,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL.PROC.FMS)",
+      "swift_code": "MARKDEFFFMS"
+    },
+    {
+      "id": 3704,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL.PROC.HAM RM)",
+      "swift_code": "MARKDEFFHRM"
+    },
+    {
+      "id": 3705,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL.PROC.HAM SF)",
+      "swift_code": "MARKDEFFHSF"
+    },
+    {
+      "id": 3706,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL.PROC.INT)",
+      "swift_code": "MARKDEFFINT"
+    },
+    {
+      "id": 3707,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL.PROC.LHK)",
+      "swift_code": "MARKDEFFLHK"
+    },
+    {
+      "id": 3708,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL.PROC.LST)",
+      "swift_code": "MARKDEFFLST"
+    },
+    {
+      "id": 3709,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL.PROC.PM RM)",
+      "swift_code": "MARKDEFFPRM"
+    },
+    {
+      "id": 3710,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL.PROC.PM SF)",
+      "swift_code": "MARKDEFFPSF"
+    },
+    {
+      "id": 3711,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL.PROC.SEK)",
+      "swift_code": "MARKDEFFSEK"
+    },
+    {
+      "id": 3712,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL.PROC.SELBSTBESICHERUNGSVERFAHREN)",
+      "swift_code": "MARKDEFFSBS"
+    },
+    {
+      "id": 3713,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL.PROC.SEPA-CARD-CLEARING)",
+      "swift_code": "MARKDEFFTAB"
+    },
+    {
+      "id": 3714,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL.PROC.SEPA-CARD-CLEARING)",
+      "swift_code": "MARKDEFFTAE"
+    },
+    {
+      "id": 3715,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL.PROC.SEPA-CLEARER EQU)",
+      "swift_code": "MARKDEFFEQU"
+    },
+    {
+      "id": 3716,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL.PROC.SEPA-CLEARER)",
+      "swift_code": "MARKDEFFSCL"
+    },
+    {
+      "id": 3717,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL.PROC.SNB)",
+      "swift_code": "MARKDEFFSNB"
+    },
+    {
+      "id": 3718,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL.PROC.UBA)",
+      "swift_code": "MARKDEFFUBA"
+    },
+    {
+      "id": 3719,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERVENTIONSGESCHAEFTE)",
+      "swift_code": "MARKDEFFIVG"
+    },
+    {
+      "id": 3720,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INVESTIGATIONS)",
+      "swift_code": "MARKDEFFINV"
+    },
+    {
+      "id": 3721,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(KUNDEN)",
+      "swift_code": "MARKDEFFCUS"
+    },
+    {
+      "id": 3722,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(RHEINLAND-PFALZ)",
+      "swift_code": "MARKDEFFRLP"
+    },
+    {
+      "id": 3723,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(RUECKGABE BSB)",
+      "swift_code": "MARKDEFFRBS"
+    },
+    {
+      "id": 3724,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SACHSEN-ANHALT)",
+      "swift_code": "MARKDEFFSAH"
+    },
+    {
+      "id": 3725,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(USD FW)",
+      "swift_code": "MARKDEFFUSD"
+    },
+    {
+      "id": 3726,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MARKDEFF"
+    },
+    {
+      "id": 3727,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MARKDEFFBDE"
+    },
+    {
+      "id": 3728,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MARKDEFFBDF"
+    },
+    {
+      "id": 3729,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MARKDEFFBDI"
+    },
+    {
+      "id": 3730,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MARKDEFFBOJ"
+    },
+    {
+      "id": 3731,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MARKDEFFCCB"
+    },
+    {
+      "id": 3732,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MARKDEFFCLC"
+    },
+    {
+      "id": 3733,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MARKDEFFDCA"
+    },
+    {
+      "id": 3734,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MARKDEFFDIS"
+    },
+    {
+      "id": 3735,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MARKDEFFDNB"
+    },
+    {
+      "id": 3736,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MARKDEFFECD"
+    },
+    {
+      "id": 3737,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MARKDEFFEDE"
+    },
+    {
+      "id": 3738,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MARKDEFFEIS"
+    },
+    {
+      "id": 3739,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MARKDEFFEMZ"
+    },
+    {
+      "id": 3740,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MARKDEFFENT"
+    },
+    {
+      "id": 3741,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MARKDEFFIBP"
+    },
+    {
+      "id": 3742,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MARKDEFFMAS"
+    },
+    {
+      "id": 3743,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MARKDEFFNBB"
+    },
+    {
+      "id": 3744,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MARKDEFFONB"
+    },
+    {
+      "id": 3745,
+      "bank": "DEUTSCHE BUNDESBANK, ZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MARKDEFFSCD"
+    },
+    {
+      "id": 3748,
+      "bank": "DEUTSCHE GENOSSENSCHAFTS-HYPOTHEKENBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEGHDE51"
+    },
+    {
+      "id": 3758,
+      "bank": "DEUTSCHE LUFTHANSA AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "LHAGDEFF"
+    },
+    {
+      "id": 3759,
+      "bank": "DEUTSCHE PENSEXPERT GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEPHDEFF"
+    },
+    {
+      "id": 3784,
+      "bank": "DEUTSCHE POSTBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FRANKFURT BRANCH)",
+      "swift_code": "PBNKDEFF"
+    },
+    {
+      "id": 3785,
+      "bank": "DEUTSCHE POSTBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "PBNKDEFFDSL"
+    },
+    {
+      "id": 3825,
+      "bank": "DEUTSCHE VERMOEGENSBILDUNGSGESELLSCHAFT MIT BESCHRANKTER HAFTUNG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DVGIDEF1"
+    },
+    {
+      "id": 3827,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFF"
+    },
+    {
+      "id": 3828,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFFBHF"
+    },
+    {
+      "id": 3829,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFFBRL"
+    },
+    {
+      "id": 3830,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFFBSK"
+    },
+    {
+      "id": 3831,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFFBYE"
+    },
+    {
+      "id": 3832,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFFBYF"
+    },
+    {
+      "id": 3833,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFFBYL"
+    },
+    {
+      "id": 3834,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFFDEG"
+    },
+    {
+      "id": 3835,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFFDUR"
+    },
+    {
+      "id": 3836,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFFDZB"
+    },
+    {
+      "id": 3837,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFFDZE"
+    },
+    {
+      "id": 3838,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFFDZL"
+    },
+    {
+      "id": 3839,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFFHLB"
+    },
+    {
+      "id": 3840,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFFHSH"
+    },
+    {
+      "id": 3841,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFFSEE"
+    },
+    {
+      "id": 3842,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFFSEK"
+    },
+    {
+      "id": 3843,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFFSEL"
+    },
+    {
+      "id": 3844,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFFSET"
+    },
+    {
+      "id": 3845,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFFSLB"
+    },
+    {
+      "id": 3846,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFFWGZ"
+    },
+    {
+      "id": 3847,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFFWRB"
+    },
+    {
+      "id": 3848,
+      "bank": "DEUTSCHE WERTPAPIERSERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DWPBDEFFWWL"
+    },
+    {
+      "id": 3871,
+      "bank": "DOTATIONSKONTO DZ BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "GENODEFFDOK"
+    },
+    {
+      "id": 3880,
+      "bank": "DVB BANK SE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ALL GERMAN OFFICES)",
+      "swift_code": "DVKBDEFF"
+    },
+    {
+      "id": 3881,
+      "bank": "DWS INVESTMENT GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CONTROLLING)",
+      "swift_code": "DEUTDE5DCON"
+    },
+    {
+      "id": 3882,
+      "bank": "DWS INVESTMENT GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FUND ADMINISTRATION)",
+      "swift_code": "DEUTDE5DFAD"
+    },
+    {
+      "id": 3883,
+      "bank": "DWS INVESTMENT GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INVESTMENT KONTO SERVICE)",
+      "swift_code": "DEUTDE5DIKS"
+    },
+    {
+      "id": 3884,
+      "bank": "DWS INVESTMENT GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DEUTDE5D"
+    },
+    {
+      "id": 3885,
+      "bank": "DZ BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DZBADEF1"
+    },
+    {
+      "id": 3892,
+      "bank": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BILATERAL CLEARING)",
+      "swift_code": "GENODEFFBIL"
+    },
+    {
+      "id": 3893,
+      "bank": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DOTATIONSKONTO)",
+      "swift_code": "GENODEF1DOT"
+    },
+    {
+      "id": 3894,
+      "bank": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DZ BANK GF VK 6)",
+      "swift_code": "GENODEF1VK6"
+    },
+    {
+      "id": 3895,
+      "bank": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DZ BANK GF VK 7)",
+      "swift_code": "GENODEF1VK7"
+    },
+    {
+      "id": 3896,
+      "bank": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DZ BANK VIRTUELLE KONTEN)",
+      "swift_code": "GENODEF1VK1"
+    },
+    {
+      "id": 3897,
+      "bank": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FIRST CASH SOLUTION)",
+      "swift_code": "GENODEF1FCS"
+    },
+    {
+      "id": 3898,
+      "bank": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(MUNICH)",
+      "swift_code": "GENODEFFBRO"
+    },
+    {
+      "id": 3899,
+      "bank": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SECURITY MARKETS)",
+      "swift_code": "GENODEFFSMK"
+    },
+    {
+      "id": 3900,
+      "bank": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(UNICASH)",
+      "swift_code": "GENODEFFEBL"
+    },
+    {
+      "id": 3901,
+      "bank": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "GENODEFF"
+    },
+    {
+      "id": 3907,
+      "bank": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK, FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "GENODE55"
+    },
+    {
+      "id": 3910,
+      "bank": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK,FM(F.DG BANK)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CLS-CONTINUOUS LINKED SETTLEMENT DEPARTMENT)",
+      "swift_code": "GENODEFFCLS"
+    },
+    {
+      "id": 3912,
+      "bank": "DZ BANK FUER BAUSPARKASSE SCHWAEBISCH HALL AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "GENODEF1VK3"
+    },
+    {
+      "id": 3913,
+      "bank": "DZ BANK FUER BAUSPARKASSE SCHWAEBISCH HALL AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "GENODEF1VK4"
+    },
+    {
+      "id": 3914,
+      "bank": "DZ BANK VIRTUELLE KONTEN 2",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "GENODEF1VK2"
+    },
+    {
+      "id": 3915,
+      "bank": "DZ DIREKTSERVICE GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "GENODEF1GEB"
+    },
+    {
+      "id": 3940,
+      "bank": "EQUENSWORLDLINE SE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "EQNSDEFF"
+    },
+    {
+      "id": 3941,
+      "bank": "EQUINET BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "EQUNDEFF"
+    },
+    {
+      "id": 3957,
+      "bank": "EUREX BONDS GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "XEUBDEF1"
+    },
+    {
+      "id": 3958,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BACKUP MEMBER PAYMENTS)",
+      "swift_code": "EUXCDEFFBCP"
+    },
+    {
+      "id": 3959,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(COLLATERAL MNGMT)",
+      "swift_code": "EUXCDEFFCOL"
+    },
+    {
+      "id": 3960,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CURR. USED FOR DKK BONDS)",
+      "swift_code": "EUXCDEFFABB"
+    },
+    {
+      "id": 3961,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DUMMY FOR T2S)",
+      "swift_code": "EUXCDEFF005"
+    },
+    {
+      "id": 3962,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DUMMY FOR T2S)",
+      "swift_code": "EUXCDEFF006"
+    },
+    {
+      "id": 3963,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DUMMY FOR T2S)",
+      "swift_code": "EUXCDEFF007"
+    },
+    {
+      "id": 3964,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DUMMY FOR T2S)",
+      "swift_code": "EUXCDEFF008"
+    },
+    {
+      "id": 3965,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DUMMY FOR T2S)",
+      "swift_code": "EUXCDEFF009"
+    },
+    {
+      "id": 3966,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DUMMY FOR T2S)",
+      "swift_code": "EUXCDEFF010"
+    },
+    {
+      "id": 3967,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DUMMY FOR T2S)",
+      "swift_code": "EUXCDEFF011"
+    },
+    {
+      "id": 3968,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DUMMY FOR T2S)",
+      "swift_code": "EUXCDEFF012"
+    },
+    {
+      "id": 3969,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DUMMY FOR T2S)",
+      "swift_code": "EUXCDEFF013"
+    },
+    {
+      "id": 3970,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DUMMY FOR T2S)",
+      "swift_code": "EUXCDEFF014"
+    },
+    {
+      "id": 3971,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DUMMY FOR T2S)",
+      "swift_code": "EUXCDEFF015"
+    },
+    {
+      "id": 3972,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DUMMY FOR T2S)",
+      "swift_code": "EUXCDEFF016"
+    },
+    {
+      "id": 3973,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DUMMY FOR T2S)",
+      "swift_code": "EUXCDEFF017"
+    },
+    {
+      "id": 3974,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(GC POOLING/RTS ZAHLUNGEN AUS CBF)",
+      "swift_code": "EUXCDEFFRTS"
+    },
+    {
+      "id": 3975,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNATIONAL SEGMENT)",
+      "swift_code": "EUXCDEFFGCI"
+    },
+    {
+      "id": 3976,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S - CLIENT ASSET PROTECTION)",
+      "swift_code": "EUXCDEFFCAP"
+    },
+    {
+      "id": 3977,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S - EQUITY BUY-IN ACCOUNT)",
+      "swift_code": "EUXCDEFFBYI"
+    },
+    {
+      "id": 3978,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S - SECURITIES LENDING)",
+      "swift_code": "EUXCDEFFESL"
+    },
+    {
+      "id": 3979,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S - SETTL. OF CSC BONDS)",
+      "swift_code": "EUXCDEFFBON"
+    },
+    {
+      "id": 3980,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S - USED FOR TREASURY REPOS)",
+      "swift_code": "EUXCDEFFTRE"
+    },
+    {
+      "id": 3981,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S DEFAULT HANDLING)",
+      "swift_code": "EUXCDEFFABA"
+    },
+    {
+      "id": 3982,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S)",
+      "swift_code": "EUXCDEFFT2S"
+    },
+    {
+      "id": 3983,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(TARGET2-1)",
+      "swift_code": "EUXCDEFF001"
+    },
+    {
+      "id": 3984,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(TARGET2-2)",
+      "swift_code": "EUXCDEFF002"
+    },
+    {
+      "id": 3985,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(TARGET2-3)",
+      "swift_code": "EUXCDEFF003"
+    },
+    {
+      "id": 3986,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(TARGET2-4)",
+      "swift_code": "EUXCDEFF004"
+    },
+    {
+      "id": 3987,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "EUXCDEFF"
+    },
+    {
+      "id": 3988,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "EUXCDEFFCCP"
+    },
+    {
+      "id": 3989,
+      "bank": "EUREX CLEARING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "EUXCDEFZ"
+    },
+    {
+      "id": 3990,
+      "bank": "EUREX DEUTSCHLAND",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "XEURDEF1"
+    },
+    {
+      "id": 3991,
+      "bank": "EUREX REPO GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "EUXCDEF2"
+    },
+    {
+      "id": 3992,
+      "bank": "EUROCITY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DLGHDEA1"
+    },
+    {
+      "id": 3993,
+      "bank": "EUROCITY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DLGHDEB1"
+    },
+    {
+      "id": 3994,
+      "bank": "EUROCITY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ECBSDEFF"
+    },
+    {
+      "id": 3995,
+      "bank": "EUROCONSULTONE GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "EUGMDEF1"
+    },
+    {
+      "id": 3997,
+      "bank": "EUROPE ARAB BANK PLC",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ARABDEFF"
+    },
+    {
+      "id": 4000,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BACK OFFICE)",
+      "swift_code": "ECBFDEFFBAC"
+    },
+    {
+      "id": 4001,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CCBM)",
+      "swift_code": "ECBFDEF1CCB"
+    },
+    {
+      "id": 4002,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB ECB ACCOUNT)",
+      "swift_code": "ECBFDEFFEUX"
+    },
+    {
+      "id": 4003,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB ITX)",
+      "swift_code": "ECBFDEFFITX"
+    },
+    {
+      "id": 4004,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR AUSTRIA)",
+      "swift_code": "ECBFDEFFATM"
+    },
+    {
+      "id": 4005,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR BELGIUM)",
+      "swift_code": "ECBFDEFFBEM"
+    },
+    {
+      "id": 4006,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR CYPRUS)",
+      "swift_code": "ECBFDEFFCYM"
+    },
+    {
+      "id": 4007,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR DENMARK)",
+      "swift_code": "ECBFDEFFDKM"
+    },
+    {
+      "id": 4008,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR ESTONIA)",
+      "swift_code": "ECBFDEFFEEM"
+    },
+    {
+      "id": 4009,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR EUROPEAN CENTRAL BANK)",
+      "swift_code": "ECBFDEFFEUM"
+    },
+    {
+      "id": 4010,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR FINLAND)",
+      "swift_code": "ECBFDEFFFIM"
+    },
+    {
+      "id": 4011,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR FRANCE)",
+      "swift_code": "ECBFDEFFFRM"
+    },
+    {
+      "id": 4012,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR GERMANY)",
+      "swift_code": "ECBFDEFFDEM"
+    },
+    {
+      "id": 4013,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR GREECE)",
+      "swift_code": "ECBFDEFFGRM"
+    },
+    {
+      "id": 4014,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR IRELAND)",
+      "swift_code": "ECBFDEFFIEM"
+    },
+    {
+      "id": 4015,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR ITALY)",
+      "swift_code": "ECBFDEFFITM"
+    },
+    {
+      "id": 4016,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR LATVIA)",
+      "swift_code": "ECBFDEFFLVM"
+    },
+    {
+      "id": 4017,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR LITHUANIA)",
+      "swift_code": "ECBFDEFFLTM"
+    },
+    {
+      "id": 4018,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR LUXEMBOURG)",
+      "swift_code": "ECBFDEFFLUM"
+    },
+    {
+      "id": 4019,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR MALTA)",
+      "swift_code": "ECBFDEFFMTM"
+    },
+    {
+      "id": 4020,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR NETHERLANDS)",
+      "swift_code": "ECBFDEFFNLM"
+    },
+    {
+      "id": 4021,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR POLAND)",
+      "swift_code": "ECBFDEFFPLM"
+    },
+    {
+      "id": 4022,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR PORTUGAL)",
+      "swift_code": "ECBFDEFFPTM"
+    },
+    {
+      "id": 4023,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR ROMANIA)",
+      "swift_code": "ECBFDEFFROM"
+    },
+    {
+      "id": 4024,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR SLOVAKIA)",
+      "swift_code": "ECBFDEFFSKM"
+    },
+    {
+      "id": 4025,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR SLOVENIA)",
+      "swift_code": "ECBFDEFFSIM"
+    },
+    {
+      "id": 4026,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR SPAIN)",
+      "swift_code": "ECBFDEFFESM"
+    },
+    {
+      "id": 4027,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT FOR UNITED KINGDOM)",
+      "swift_code": "ECBFDEFFGBM"
+    },
+    {
+      "id": 4028,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ECB MIRROR ACCOUNT)",
+      "swift_code": "ECBFDEFFBGM"
+    },
+    {
+      "id": 4029,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INTERNAL FINANCES)",
+      "swift_code": "ECBFDEFFINF"
+    },
+    {
+      "id": 4030,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INVESTMENTS)",
+      "swift_code": "ECBFDEFFOWN"
+    },
+    {
+      "id": 4031,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(PM-CM ACCOUNT)",
+      "swift_code": "ECBFDEFFCMA"
+    },
+    {
+      "id": 4032,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(T2S FINANCIALS)",
+      "swift_code": "ECBFDEFFFIN"
+    },
+    {
+      "id": 4033,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(TARGET AND PAYMENTS PROCESSING)",
+      "swift_code": "ECBFDEFFTPP"
+    },
+    {
+      "id": 4034,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(TECHNICAL ACCOUNT - ECB INTERNAL USE ONLY)",
+      "swift_code": "ECBFDEFFT2S"
+    },
+    {
+      "id": 4035,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ECBFDEF1IT1"
+    },
+    {
+      "id": 4036,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ECBFDEFF"
+    },
+    {
+      "id": 4037,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ECBFDEFF001"
+    },
+    {
+      "id": 4038,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ECBFDEFF002"
+    },
+    {
+      "id": 4039,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ECBFDEFFCON"
+    },
+    {
+      "id": 4040,
+      "bank": "EUROPEAN CENTRAL BANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ECBFDEFFSSM"
+    },
+    {
+      "id": 4055,
+      "bank": "FEDERATED ASSET MANAGEMENT GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "FAMMDEF1"
+    },
+    {
+      "id": 4063,
+      "bank": "FHB BANK ZRT. NIEDERLASSUNG FRANKFURT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "FZNFDEF1"
+    },
+    {
+      "id": 4081,
+      "bank": "FIRST PRIVATE INVESTMENT MANAGEMENT KAG MBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "FRPIDEF1"
+    },
+    {
+      "id": 4083,
+      "bank": "FITCH DEUTSCHLAND GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "FRIPDEF1"
+    },
+    {
+      "id": 4100,
+      "bank": "FORTIS BANK (NEDERLAND) N.V., FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "FGCFDEF1"
+    },
+    {
+      "id": 4101,
+      "bank": "FORTIS BANQUE LUXEMBOURG SA",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FRANKFURT/MAIN BRANCH)",
+      "swift_code": "BGLLDEF1"
+    },
+    {
+      "id": 4103,
+      "bank": "FRANKFURTER BANKGESELLSCHAFT AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "FBGADEF1"
+    },
+    {
+      "id": 4104,
+      "bank": "FRANKFURTER SERVICE KAPITALANLAGE-GESELLSCHAFT MBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DSKADEF1"
+    },
+    {
+      "id": 4105,
+      "bank": "FRANKFURTER SPARKASSE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "FRSKDEF1"
+    },
+    {
+      "id": 4106,
+      "bank": "FRANKFURTER SPARKASSE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HELADEF1822"
+    },
+    {
+      "id": 4107,
+      "bank": "FRANKFURTER SPARKASSE GF 1822DIREKT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "FRSDDEF1"
+    },
+    {
+      "id": 4108,
+      "bank": "FRANKFURTER VOLKSBANK EG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BBK DOTATION)",
+      "swift_code": "FFVBDEF1DOT"
+    },
+    {
+      "id": 4109,
+      "bank": "FRANKFURTER VOLKSBANK EG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(BBK PM)",
+      "swift_code": "FFVBDEF1BBK"
+    },
+    {
+      "id": 4110,
+      "bank": "FRANKFURTER VOLKSBANK EG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "FFVBDEFF"
+    },
+    {
+      "id": 4111,
+      "bank": "FRANKFURTER WERTPAPIERBOERSE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "XFRADEF1"
+    },
+    {
+      "id": 4112,
+      "bank": "FRANKFURT-TRUST INVESTMENT-GESELLSCHAFT MBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "FTRRDEF1"
+    },
+    {
+      "id": 4128,
+      "bank": "FUJI BANK (DEUTSCHLAND) AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "FUJIDEF1"
+    },
+    {
+      "id": 4138,
+      "bank": "GASS CAPITAL MARKETS GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "GCMGDEF1"
+    },
+    {
+      "id": 4143,
+      "bank": "GE CORPORATE FINANCE BANK SAS, ZWEIGNIEDERLASSUNG FRANKFURT AM MAIN",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CFSZDEF1"
+    },
+    {
+      "id": 4173,
+      "bank": "GOLDMAN SACHS AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "GOLDDEFA"
+    },
+    {
+      "id": 4174,
+      "bank": "GOLDMAN SACHS AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "GOLDDEFF"
+    },
+    {
+      "id": 4175,
+      "bank": "GOLDMAN SACHS INVESTMENT MANAGEMENT GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "GSIMDEF1"
+    },
+    {
+      "id": 4207,
+      "bank": "HAUCK UND AUFHAUSER PRIVATBANKIERS AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HAUKDEFF"
+    },
+    {
+      "id": 4208,
+      "bank": "HAUCK UND AUFHAUSER PRIVATBANKIERS AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HAUKDEFFAAA"
+    },
+    {
+      "id": 4209,
+      "bank": "HAUCK UND AUFHAUSER PRIVATBANKIERS AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HAUKDEFFDOT"
+    },
+    {
+      "id": 4222,
+      "bank": "HELABA INVEST KAPITALANLAGEGESELLSCHAFT MBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HELVDEFF"
+    },
+    {
+      "id": 4223,
+      "bank": "HELLWIG WERTPAPIERHANDELSBANK GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HEWGDEF1"
+    },
+    {
+      "id": 4233,
+      "bank": "HKB BANK GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(PM LIGHT KONTO)",
+      "swift_code": "HKBBDEF1DOT"
+    },
+    {
+      "id": 4234,
+      "bank": "HKB BANK GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HKBBDEF1"
+    },
+    {
+      "id": 4235,
+      "bank": "HKB BANK GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HKBBDEF1FRA"
+    },
+    {
+      "id": 4243,
+      "bank": "HONDA BANK GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HONDDEF1"
+    },
+    {
+      "id": 4244,
+      "bank": "HORDORFF GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HOGBDEF1"
+    },
+    {
+      "id": 4260,
+      "bank": "HSBC TRINKAUS UND BURKHARDT AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "TUBDDEDD502"
+    },
+    {
+      "id": 4282,
+      "bank": "HYUNDAI CAPITAL BANK EUROPE GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HCSEDEF1"
+    },
+    {
+      "id": 4287,
+      "bank": "ICAP DEUTSCHLAND GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "IDEGDEF1"
+    },
+    {
+      "id": 4288,
+      "bank": "ICAP SECURITIES LTD FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ISFBDEFF"
+    },
+    {
+      "id": 4289,
+      "bank": "ICF BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ICFFDEF1"
+    },
+    {
+      "id": 4291,
+      "bank": "ICICI BANK UK PLC",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(GERMANY)",
+      "swift_code": "ICICDEFFCLR"
+    },
+    {
+      "id": 4292,
+      "bank": "ICT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DICTDEF1"
+    },
+    {
+      "id": 4301,
+      "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LTD.",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ICBKDEFF"
+    },
+    {
+      "id": 4302,
+      "bank": "INEOS STYROLUTION GROUP GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "STYRDEFF"
+    },
+    {
+      "id": 4303,
+      "bank": "ING-DIBA AG (COMMERCIAL BANKING)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "INGBDEFF"
+    },
+    {
+      "id": 4304,
+      "bank": "ING-DIBA AG (RETAIL BANKING)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(COVERED BONDS)",
+      "swift_code": "INGDDEFFPFA"
+    },
+    {
+      "id": 4305,
+      "bank": "ING-DIBA AG (RETAIL BANKING)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DOTATIONSKONTO)",
+      "swift_code": "INGDDEFFDOT"
+    },
+    {
+      "id": 4306,
+      "bank": "ING-DIBA AG (RETAIL BANKING)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(GLOBAL PROCESSING CENTER)",
+      "swift_code": "INGDDEFFGPC"
+    },
+    {
+      "id": 4307,
+      "bank": "ING-DIBA AG (RETAIL BANKING)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(TREASURY)",
+      "swift_code": "INGDDEFFTSY"
+    },
+    {
+      "id": 4308,
+      "bank": "ING-DIBA AG (RETAIL BANKING)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "INGDDEFF"
+    },
+    {
+      "id": 4309,
+      "bank": "INSTINET GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ISNTDEF1"
+    },
+    {
+      "id": 4317,
+      "bank": "INTESA SANPAOLO S.P.A.-FRANKFURT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FRANKFURT)",
+      "swift_code": "BCITDEFFMUC"
+    },
+    {
+      "id": 4318,
+      "bank": "INTESA SANPAOLO S.P.A.-FRANKFURT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BCITDEFF"
+    },
+    {
+      "id": 4319,
+      "bank": "INVESCO KAPITALANLAGEGESELLSCHAFT MBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "INVODE51"
+    },
+    {
+      "id": 4331,
+      "bank": "ISBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DOTATIONSKONTO)",
+      "swift_code": "ISBKDEFXDOT"
+    },
+    {
+      "id": 4332,
+      "bank": "ISBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ISBKDEFXFRA)",
+      "swift_code": "ISBKDEFXFRA"
+    },
+    {
+      "id": 4333,
+      "bank": "ISBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ISBKDEFX"
+    },
+    {
+      "id": 4334,
+      "bank": "ISBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ISBKDEFXOPR"
+    },
+    {
+      "id": 4347,
+      "bank": "J.P. MORGAN INTERNATIONAL BANK LIMITED, FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "JPMGDEFF"
+    },
+    {
+      "id": 4348,
+      "bank": "J.P. MORGAN SECURITIES PLC FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(PRIME BROKERAGE EU LEGAL ENTITY)",
+      "swift_code": "JPMSDEFXPNL"
+    },
+    {
+      "id": 4349,
+      "bank": "J.P. MORGAN SECURITIES PLC FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "JPMSDEFX"
+    },
+    {
+      "id": 4350,
+      "bank": "J.P. MORGAN SERVICES GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MGTCDE51"
+    },
+    {
+      "id": 4351,
+      "bank": "J.P.MORGAN AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(EQUITIES)",
+      "swift_code": "CHASDEFXEQL"
+    },
+    {
+      "id": 4352,
+      "bank": "J.P.MORGAN AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FIXED INCOME)",
+      "swift_code": "CHASDEFXMOS"
+    },
+    {
+      "id": 4353,
+      "bank": "J.P.MORGAN AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(INVESTOR SERVICES)",
+      "swift_code": "CHASDEFXCSU"
+    },
+    {
+      "id": 4354,
+      "bank": "J.P.MORGAN AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(J.P.MORGAN AG BULLION)",
+      "swift_code": "CHASDEFXBUL"
+    },
+    {
+      "id": 4355,
+      "bank": "J.P.MORGAN AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(PRIME BROKER)",
+      "swift_code": "CHASDEFXPNL"
+    },
+    {
+      "id": 4356,
+      "bank": "J.P.MORGAN AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES)",
+      "swift_code": "CHASDEFXENQ"
+    },
+    {
+      "id": 4357,
+      "bank": "J.P.MORGAN AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(TEST KEY AND BKE ADMINISTRATION)",
+      "swift_code": "CHASDEFXKEY"
+    },
+    {
+      "id": 4358,
+      "bank": "J.P.MORGAN AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CHASDEFX"
+    },
+    {
+      "id": 4359,
+      "bank": "J.P.MORGAN AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CHASDEFXJSL"
+    },
+    {
+      "id": 4360,
+      "bank": "J.P.MORGAN AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CHASDEFXPFS"
+    },
+    {
+      "id": 4361,
+      "bank": "J.P.MORGAN AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CHASDEFXVR1"
+    },
+    {
+      "id": 4367,
+      "bank": "JPMORGAN CHASE BANK, N.A., FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES)",
+      "swift_code": "CHASDEFBKEY"
+    },
+    {
+      "id": 4368,
+      "bank": "JPMORGAN CHASE BANK, N.A., FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(TEST KEY AND BKE ADMINISTRATION)",
+      "swift_code": "CHASDEFBENQ"
+    },
+    {
+      "id": 4369,
+      "bank": "JPMORGAN CHASE BANK, N.A., FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CHASDEFB"
+    },
+    {
+      "id": 4370,
+      "bank": "JULIUS BAR KAPITAL AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "JBARDEF1"
+    },
+    {
+      "id": 4374,
+      "bank": "KANAM GRUND KAPITALANLAGEGESELLSCHAFT MBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "KANMDEF1"
+    },
+    {
+      "id": 4375,
+      "bank": "KANAM GRUND SPEZIALFONDSGESELLSCHAFT MBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "KNMSDEF1"
+    },
+    {
+      "id": 4379,
+      "bank": "KAUPTHING BANK HF. NIEDERLASSUNG DEUTSCHLAND",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "KAUPDEF1"
+    },
+    {
+      "id": 4381,
+      "bank": "KEB HANA BANK (D) AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "KOEXDEFA"
+    },
+    {
+      "id": 4382,
+      "bank": "KEPLER EQUITIES, FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "JBBRDEF1"
+    },
+    {
+      "id": 4388,
+      "bank": "KFW",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DTABDED1"
+    },
+    {
+      "id": 4389,
+      "bank": "KFW IPEX BANK GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "IPEXDEFF"
+    },
+    {
+      "id": 4393,
+      "bank": "KLING JELKO WERTPAPIERHANDELSBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "KJWBDEF1"
+    },
+    {
+      "id": 4394,
+      "bank": "KOCHBANK GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "KOGMDEF1"
+    },
+    {
+      "id": 4398,
+      "bank": "KOMMUNALKREDIT AUSTRIA AG DEUTSCHLAND",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "INVODEF2"
+    },
+    {
+      "id": 4400,
+      "bank": "KOREA DEVELOPMENT BANK (DEUTSCHLAND) GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "KODBDEF1"
+    },
+    {
+      "id": 4405,
+      "bank": "KREDITANSTALT FUR WIEDERAUFBAU",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "KFWIDEFF"
+    },
+    {
+      "id": 4506,
+      "bank": "KT BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "KTAGDEFF"
+    },
+    {
+      "id": 4529,
+      "bank": "LANDESBANK HESSEN-THUERINGEN GIROZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FRANKFURT BRANCH)",
+      "swift_code": "HELADEF1CB1"
+    },
+    {
+      "id": 4530,
+      "bank": "LANDESBANK HESSEN-THUERINGEN GIROZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HELADEF1CS1"
+    },
+    {
+      "id": 4531,
+      "bank": "LANDESBANK HESSEN-THUERINGEN GIROZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HELADEF1CS2"
+    },
+    {
+      "id": 4532,
+      "bank": "LANDESBANK HESSEN-THUERINGEN GIROZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HELADEF1CS3"
+    },
+    {
+      "id": 4533,
+      "bank": "LANDESBANK HESSEN-THUERINGEN GIROZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HELADEF1CS4"
+    },
+    {
+      "id": 4534,
+      "bank": "LANDESBANK HESSEN-THUERINGEN GIROZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HELADEF1CS5"
+    },
+    {
+      "id": 4535,
+      "bank": "LANDESBANK HESSEN-THUERINGEN GIROZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HELADEF1CS6"
+    },
+    {
+      "id": 4536,
+      "bank": "LANDESBANK HESSEN-THUERINGEN GIROZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HELADEFF"
+    },
+    {
+      "id": 4537,
+      "bank": "LANDESBANK HESSEN-THUERINGEN GIROZENTRALE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HELADEFFGC1"
+    },
+    {
+      "id": 4552,
+      "bank": "LANDWIRTSCHAFTLICHE RENTENBANK",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "LAREDEFF"
+    },
+    {
+      "id": 4557,
+      "bank": "LAZARD ASSET MANAGEMENT (DEUTSCHLAND) GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "LAMDDEF1"
+    },
+    {
+      "id": 4587,
+      "bank": "LIQUIDITATS-KONSORTIALBANK GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "LIKODE51"
+    },
+    {
+      "id": 4590,
+      "bank": "LUPUS ALPHA ASSET MANAGEMENT GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "LUALDEFF"
+    },
+    {
+      "id": 4596,
+      "bank": "MACQUARIE CAPITAL (EUROPE) LIMITED, NIEDERLASSUNG DEUTSCHLAND",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MCEIDEF1"
+    },
+    {
+      "id": 4597,
+      "bank": "MACQUARIE STRUCTURED PRODUCTS EUROPE GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSPEDEF1"
+    },
+    {
+      "id": 4601,
+      "bank": "MAINFIRST BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MAIFDEFF"
+    },
+    {
+      "id": 4602,
+      "bank": "MAINFIRST BANK AG, ASSET MANAGEMENT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MAIFDEFA"
+    },
+    {
+      "id": 4647,
+      "bank": "MERCK FINCK PRIVATBANKIERS",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MEFIDEMM501"
+    },
+    {
+      "id": 4654,
+      "bank": "MERRILL LYNCH INTERNATIONAL BANK LIMITED ZWEIGNIEDERLASSUNG FRANKFURT AM MAIN",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MELBDEF1"
+    },
+    {
+      "id": 4655,
+      "bank": "METZLER ASSET MANAGEMENT GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FONDS ADMINISTRATION)",
+      "swift_code": "MKAGDEFFFOA"
+    },
+    {
+      "id": 4656,
+      "bank": "METZLER ASSET MANAGEMENT GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FX-STANDING INSTRUCTIONS)",
+      "swift_code": "MKAGDEFFSFX"
+    },
+    {
+      "id": 4657,
+      "bank": "METZLER ASSET MANAGEMENT GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(MIDDLE OFFICE)",
+      "swift_code": "MKAGDEFFCON"
+    },
+    {
+      "id": 4658,
+      "bank": "METZLER ASSET MANAGEMENT GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(MKAG)",
+      "swift_code": "MKAGDEFFINV"
+    },
+    {
+      "id": 4659,
+      "bank": "METZLER ASSET MANAGEMENT GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MKAGDEFF"
+    },
+    {
+      "id": 4660,
+      "bank": "METZLER B. SEEL. SOHN UND CO. KOMMANDITGESELLSCHAFT AUF AKTIEN",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "METZDEFF"
+    },
+    {
+      "id": 4661,
+      "bank": "METZLER B. SEEL. SOHN UND CO. KOMMANDITGESELLSCHAFT AUF AKTIEN",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "METZDEFFPCM"
+    },
+    {
+      "id": 4663,
+      "bank": "MHB-BANK AKTIENGESELLSCHAFT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MHBFDEFF"
+    },
+    {
+      "id": 4672,
+      "bank": "MISR BANK-EUROPE GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MIBEDEFF"
+    },
+    {
+      "id": 4682,
+      "bank": "MOODY'S DEUTSCHLAND GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MOODDEF1"
+    },
+    {
+      "id": 4683,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFP"
+    },
+    {
+      "id": 4684,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFP220"
+    },
+    {
+      "id": 4685,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFPBAG"
+    },
+    {
+      "id": 4686,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFPERX"
+    },
+    {
+      "id": 4687,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFPGCP"
+    },
+    {
+      "id": 4688,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFPIPB"
+    },
+    {
+      "id": 4689,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFPMS1"
+    },
+    {
+      "id": 4690,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFPMS2"
+    },
+    {
+      "id": 4691,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFPMS3"
+    },
+    {
+      "id": 4692,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFPMS4"
+    },
+    {
+      "id": 4693,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFPMS5"
+    },
+    {
+      "id": 4694,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFPMS6"
+    },
+    {
+      "id": 4695,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFPMS7"
+    },
+    {
+      "id": 4696,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFPMS8"
+    },
+    {
+      "id": 4697,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFPMS9"
+    },
+    {
+      "id": 4698,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFPMSI"
+    },
+    {
+      "id": 4699,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFPPAR"
+    },
+    {
+      "id": 4700,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFX"
+    },
+    {
+      "id": 4701,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFX220"
+    },
+    {
+      "id": 4702,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFXCAY"
+    },
+    {
+      "id": 4703,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFXCND"
+    },
+    {
+      "id": 4704,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFXFXO"
+    },
+    {
+      "id": 4705,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFXGCP"
+    },
+    {
+      "id": 4706,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFXLMT"
+    },
+    {
+      "id": 4707,
+      "bank": "MORGAN STANLEY BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSFFDEFXLXC"
+    },
+    {
+      "id": 4708,
+      "bank": "MORGAN STANLEY BANK INTERNATIONAL LIMITED NIEDERLASSUNG DEUTSCHLAND",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MSPCDEF1"
+    },
+    {
+      "id": 4731,
+      "bank": "NATIONAL BANK OF PAKISTAN, FRANKFURT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "NBPADEFF"
+    },
+    {
+      "id": 4732,
+      "bank": "NATIONAL WESTMINSTER BANK PLC",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "NWBKDEFF"
+    },
+    {
+      "id": 4736,
+      "bank": "NATIXIS PFANDBRIEFBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "NATXDEA1"
+    },
+    {
+      "id": 4737,
+      "bank": "NATIXIS PFANDBRIEFBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "NATXDEFP"
+    },
+    {
+      "id": 4738,
+      "bank": "NATIXIS ZWEIGNIEDERLASSUNG DEUTSCHLAND",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "NATXDEFF"
+    },
+    {
+      "id": 4742,
+      "bank": "NEWEDGE GROUP (FRANKFURT BRANCH)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "NEWGDEF1"
+    },
+    {
+      "id": 4747,
+      "bank": "NIBC BANK N.V. ZWEIGNIEDERLASSUNG FRANKFURT AM MAIN",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "NZFMDEF1"
+    },
+    {
+      "id": 4751,
+      "bank": "NOMURA ASSET MANAGEMENT DEUTSCHLAND KAG MBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "MATRDEF1"
+    },
+    {
+      "id": 4757,
+      "bank": "NORDEA BANK AB FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DANSK CLIENT)",
+      "swift_code": "NDEADEFFDKK"
+    },
+    {
+      "id": 4758,
+      "bank": "NORDEA BANK AB FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DOTATIONSKONTO)",
+      "swift_code": "NDEADEFFDOT"
+    },
+    {
+      "id": 4759,
+      "bank": "NORDEA BANK AB FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SECOND BANKCODE)",
+      "swift_code": "NDEADEFF321"
+    },
+    {
+      "id": 4760,
+      "bank": "NORDEA BANK AB FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "NDEADEFF"
+    },
+    {
+      "id": 4768,
+      "bank": "NORISBANK GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "NORSDE71"
+    },
+    {
+      "id": 4782,
+      "bank": "ODDO BHF AKTIENGESELLSCHAFT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ADDITIONAL RTGS ACCOUNT)",
+      "swift_code": "BHFBDEFFFUG"
+    },
+    {
+      "id": 4783,
+      "bank": "ODDO BHF AKTIENGESELLSCHAFT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ADDITIONAL RTGS ACCOUNT)",
+      "swift_code": "BHFBDEFFWER"
+    },
+    {
+      "id": 4784,
+      "bank": "ODDO BHF AKTIENGESELLSCHAFT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CUSTODIAN FUND FX)",
+      "swift_code": "BHFBDEFFCFF"
+    },
+    {
+      "id": 4785,
+      "bank": "ODDO BHF AKTIENGESELLSCHAFT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DOTATIONSKONTO)",
+      "swift_code": "BHFBDEF1DOT"
+    },
+    {
+      "id": 4786,
+      "bank": "ODDO BHF AKTIENGESELLSCHAFT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FRANKFURT FAMILIY OFFICE)",
+      "swift_code": "BHFBDEFFFFO"
+    },
+    {
+      "id": 4787,
+      "bank": "ODDO BHF AKTIENGESELLSCHAFT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "BHFBDEFF"
+    },
+    {
+      "id": 4788,
+      "bank": "ODDO BHF AKTIENGESELLSCHAFT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BHFBDEFF500"
+    },
+    {
+      "id": 4789,
+      "bank": "ODDO BHF AKTIENGESELLSCHAFT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BHFBDEFFVIE"
+    },
+    {
+      "id": 4798,
+      "bank": "ODDO SEYDLER BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SEYDDEF1"
+    },
+    {
+      "id": 4839,
+      "bank": "OPPENHEIM,SAL.,JR. UND CIE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SOPPDEFF"
+    },
+    {
+      "id": 4858,
+      "bank": "OYAK ANKER BANK GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "OYAKDE5K"
+    },
+    {
+      "id": 4862,
+      "bank": "PANTHERA INVESTMENT GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "PAIGDEF1"
+    },
+    {
+      "id": 4877,
+      "bank": "PICTET AND CIE (EUROPE) S.A. NIEDERLASSUNG DEUTSCHLAND",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "PICTDEFF"
+    },
+    {
+      "id": 4878,
+      "bank": "PIRAEUS BANK SA (FRANKFURT BRANCH),EX AGRICULTURALBANK OF GREECE SA",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ABGRDEFF"
+    },
+    {
+      "id": 4879,
+      "bank": "PKO BANK POLSKI S.A. NIEDERLASSUNG DEUTSCHLAND",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "BPKODEFF"
+    },
+    {
+      "id": 4890,
+      "bank": "PROCREDIT BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "PRCBDEFF"
+    },
+    {
+      "id": 4891,
+      "bank": "PROCREDIT HOLDING AG AND CO. KG AA",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "PRCHDEF1"
+    },
+    {
+      "id": 4902,
+      "bank": "PSD BANK HESSEN-THUERINGEN EG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "GENODEF1P06"
+    },
+    {
+      "id": 4941,
+      "bank": "QUONIAM ASSET MANAGEMENT GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "QANTDEFF"
+    },
+    {
+      "id": 4942,
+      "bank": "RABOBANK FRANKFURT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DIRECT BANKING)",
+      "swift_code": "RABODEFFDIR"
+    },
+    {
+      "id": 4943,
+      "bank": "RABOBANK FRANKFURT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(RABO DIRECT DE)",
+      "swift_code": "RABODEFFCOS"
+    },
+    {
+      "id": 4944,
+      "bank": "RABOBANK FRANKFURT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(TARGET2)",
+      "swift_code": "RABODEFFTAR"
+    },
+    {
+      "id": 4945,
+      "bank": "RABOBANK FRANKFURT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "RABODEFF"
+    },
+    {
+      "id": 5660,
+      "bank": "REISEBANK AKTIENGESELLSCHAFT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(REISEBANK AG GAA)",
+      "swift_code": "RBAGDEF1CMI"
+    },
+    {
+      "id": 5661,
+      "bank": "REISEBANK AKTIENGESELLSCHAFT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "RBAGDEF1"
+    },
+    {
+      "id": 5662,
+      "bank": "RELATIVE VALUE TRADING GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "RVTMDEF1"
+    },
+    {
+      "id": 5664,
+      "bank": "RENELL WERTPAPIERHANDELSBANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "REWRDEF1"
+    },
+    {
+      "id": 5677,
+      "bank": "ROLF BRAUBURGER KURSMAKLER GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "RBKGDEF1"
+    },
+    {
+      "id": 5686,
+      "bank": "ROYAL BANK OF SCOTLAND PLC (FRANKFURT)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "RBOSDEFF"
+    },
+    {
+      "id": 5690,
+      "bank": "RTR (REUTERS-REALTIME-DATEN)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "XRTRDEF1"
+    },
+    {
+      "id": 5715,
+      "bank": "SAMSUNG C AND T DEUTSCHLAND GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SCNTDEF1"
+    },
+    {
+      "id": 5726,
+      "bank": "SBERBANK EUROPE AG ZWEIGNIEDERLASSUNG DEUTSCHLAND",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SEZDDEF1"
+    },
+    {
+      "id": 5729,
+      "bank": "SCHEICH UND PARTNER",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SCTNDEF1"
+    },
+    {
+      "id": 5772,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(ALL GERMAN OFFICES)",
+      "swift_code": "ESSEDE5F"
+    },
+    {
+      "id": 5773,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SAP)",
+      "swift_code": "ESSEDE5F512"
+    },
+    {
+      "id": 5774,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB DIRECT)",
+      "swift_code": "ESSEDE5F514"
+    },
+    {
+      "id": 5775,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZB MB)",
+      "swift_code": "ESSEDE51K39"
+    },
+    {
+      "id": 5776,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB FFM.)",
+      "swift_code": "ESSEDE51TZN"
+    },
+    {
+      "id": 5777,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K30"
+    },
+    {
+      "id": 5778,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K31"
+    },
+    {
+      "id": 5779,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K32"
+    },
+    {
+      "id": 5780,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K33"
+    },
+    {
+      "id": 5781,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K34"
+    },
+    {
+      "id": 5782,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K35"
+    },
+    {
+      "id": 5783,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K36"
+    },
+    {
+      "id": 5784,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K37"
+    },
+    {
+      "id": 5785,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K38"
+    },
+    {
+      "id": 5786,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K40"
+    },
+    {
+      "id": 5787,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K41"
+    },
+    {
+      "id": 5788,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K42"
+    },
+    {
+      "id": 5789,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K43"
+    },
+    {
+      "id": 5790,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K44"
+    },
+    {
+      "id": 5791,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K45"
+    },
+    {
+      "id": 5792,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K46"
+    },
+    {
+      "id": 5793,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K47"
+    },
+    {
+      "id": 5794,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K48"
+    },
+    {
+      "id": 5795,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K49"
+    },
+    {
+      "id": 5796,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K50"
+    },
+    {
+      "id": 5797,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K51"
+    },
+    {
+      "id": 5798,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K52"
+    },
+    {
+      "id": 5799,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K53"
+    },
+    {
+      "id": 5800,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K54"
+    },
+    {
+      "id": 5801,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K55"
+    },
+    {
+      "id": 5802,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K56"
+    },
+    {
+      "id": 5803,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K57"
+    },
+    {
+      "id": 5804,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K58"
+    },
+    {
+      "id": 5805,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K59"
+    },
+    {
+      "id": 5806,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K60"
+    },
+    {
+      "id": 5807,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K61"
+    },
+    {
+      "id": 5808,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K62"
+    },
+    {
+      "id": 5809,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K63"
+    },
+    {
+      "id": 5810,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K64"
+    },
+    {
+      "id": 5811,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K65"
+    },
+    {
+      "id": 5812,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K66"
+    },
+    {
+      "id": 5813,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K67"
+    },
+    {
+      "id": 5814,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K68"
+    },
+    {
+      "id": 5815,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K69"
+    },
+    {
+      "id": 5816,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K70"
+    },
+    {
+      "id": 5817,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K71"
+    },
+    {
+      "id": 5818,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K72"
+    },
+    {
+      "id": 5819,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K73"
+    },
+    {
+      "id": 5820,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K74"
+    },
+    {
+      "id": 5821,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K75"
+    },
+    {
+      "id": 5822,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K76"
+    },
+    {
+      "id": 5823,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K77"
+    },
+    {
+      "id": 5824,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K78"
+    },
+    {
+      "id": 5825,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K79"
+    },
+    {
+      "id": 5826,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K80"
+    },
+    {
+      "id": 5827,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K81"
+    },
+    {
+      "id": 5828,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K82"
+    },
+    {
+      "id": 5829,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K83"
+    },
+    {
+      "id": 5830,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K84"
+    },
+    {
+      "id": 5831,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K85"
+    },
+    {
+      "id": 5832,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K86"
+    },
+    {
+      "id": 5833,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K87"
+    },
+    {
+      "id": 5834,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K88"
+    },
+    {
+      "id": 5835,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K89"
+    },
+    {
+      "id": 5836,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K90"
+    },
+    {
+      "id": 5837,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K91"
+    },
+    {
+      "id": 5838,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K92"
+    },
+    {
+      "id": 5839,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K93"
+    },
+    {
+      "id": 5840,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K94"
+    },
+    {
+      "id": 5841,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K95"
+    },
+    {
+      "id": 5842,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K96"
+    },
+    {
+      "id": 5843,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K97"
+    },
+    {
+      "id": 5844,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K98"
+    },
+    {
+      "id": 5845,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51K99"
+    },
+    {
+      "id": 5846,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L00"
+    },
+    {
+      "id": 5847,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L01"
+    },
+    {
+      "id": 5848,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L02"
+    },
+    {
+      "id": 5849,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L03"
+    },
+    {
+      "id": 5850,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L04"
+    },
+    {
+      "id": 5851,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L05"
+    },
+    {
+      "id": 5852,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L06"
+    },
+    {
+      "id": 5853,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L07"
+    },
+    {
+      "id": 5854,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L08"
+    },
+    {
+      "id": 5855,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L09"
+    },
+    {
+      "id": 5856,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L10"
+    },
+    {
+      "id": 5857,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L11"
+    },
+    {
+      "id": 5858,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L12"
+    },
+    {
+      "id": 5859,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L13"
+    },
+    {
+      "id": 5860,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L14"
+    },
+    {
+      "id": 5861,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L15"
+    },
+    {
+      "id": 5862,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L16"
+    },
+    {
+      "id": 5863,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L17"
+    },
+    {
+      "id": 5864,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L18"
+    },
+    {
+      "id": 5865,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L19"
+    },
+    {
+      "id": 5866,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L20"
+    },
+    {
+      "id": 5867,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L21"
+    },
+    {
+      "id": 5868,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L22"
+    },
+    {
+      "id": 5869,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L23"
+    },
+    {
+      "id": 5870,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L24"
+    },
+    {
+      "id": 5871,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L25"
+    },
+    {
+      "id": 5872,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L26"
+    },
+    {
+      "id": 5873,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L27"
+    },
+    {
+      "id": 5874,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L28"
+    },
+    {
+      "id": 5875,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L29"
+    },
+    {
+      "id": 5876,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L30"
+    },
+    {
+      "id": 5877,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L31"
+    },
+    {
+      "id": 5878,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L32"
+    },
+    {
+      "id": 5879,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L33"
+    },
+    {
+      "id": 5880,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L34"
+    },
+    {
+      "id": 5881,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L35"
+    },
+    {
+      "id": 5882,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L36"
+    },
+    {
+      "id": 5883,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L37"
+    },
+    {
+      "id": 5884,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L38"
+    },
+    {
+      "id": 5885,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L39"
+    },
+    {
+      "id": 5886,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L40"
+    },
+    {
+      "id": 5887,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L41"
+    },
+    {
+      "id": 5888,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L42"
+    },
+    {
+      "id": 5889,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L43"
+    },
+    {
+      "id": 5890,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L44"
+    },
+    {
+      "id": 5891,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L45"
+    },
+    {
+      "id": 5892,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L46"
+    },
+    {
+      "id": 5893,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L47"
+    },
+    {
+      "id": 5894,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L48"
+    },
+    {
+      "id": 5895,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L49"
+    },
+    {
+      "id": 5896,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SEB TZN MB)",
+      "swift_code": "ESSEDE51L50"
+    },
+    {
+      "id": 5897,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ESSEDE51SCH"
+    },
+    {
+      "id": 5898,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ESSEDE51TEC"
+    },
+    {
+      "id": 5899,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ESSEDE5FCOL"
+    },
+    {
+      "id": 5900,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ESSEDE5FHYP"
+    },
+    {
+      "id": 5901,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ESSEDE5FOWN"
+    },
+    {
+      "id": 5902,
+      "bank": "SEB AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ESSEDE5FSCL"
+    },
+    {
+      "id": 5996,
+      "bank": "SEB AG SEB MERCHANT BANKING",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FILIALE HAMBURG)",
+      "swift_code": "ESSEDEFFHAM"
+    },
+    {
+      "id": 5997,
+      "bank": "SEB AG SEB MERCHANT BANKING",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ESSEDEFF"
+    },
+    {
+      "id": 5998,
+      "bank": "SEB IMMOBILIEN-INVESTMENT GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SEIKDEF1"
+    },
+    {
+      "id": 5999,
+      "bank": "SEB INVEST GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SEIKDE51"
+    },
+    {
+      "id": 6000,
+      "bank": "SECB SWISS EURO CLEARING BANK GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(EUROSIC)",
+      "swift_code": "SECGDEFFEUR"
+    },
+    {
+      "id": 6001,
+      "bank": "SECB SWISS EURO CLEARING BANK GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SECGDEFF"
+    },
+    {
+      "id": 6002,
+      "bank": "SECB SWISS EURO CLEARING BANK GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SECGDEFFLLB"
+    },
+    {
+      "id": 6007,
+      "bank": "SHINHAN BANK EUROPE GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SHBKDEFF"
+    },
+    {
+      "id": 6017,
+      "bank": "SOCIETE FINANCIERE ET FONCIERE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SOFFDEF1"
+    },
+    {
+      "id": 6018,
+      "bank": "SOCIETE GENERALE EFFEKTEN GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SGEGDEF1"
+    },
+    {
+      "id": 6019,
+      "bank": "SOCIETE GENERALE S.A.",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CLEARING AND CUSTODY)",
+      "swift_code": "SOGEDEFFACC"
+    },
+    {
+      "id": 6020,
+      "bank": "SOCIETE GENERALE S.A.",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(RESTRICTED USE)",
+      "swift_code": "SOGEDEFFCBF"
+    },
+    {
+      "id": 6021,
+      "bank": "SOCIETE GENERALE S.A.",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SOCIETE GENERALE SECURITIES SERVICES FRANKFURT)",
+      "swift_code": "SOGEDEFF1XX"
+    },
+    {
+      "id": 6022,
+      "bank": "SOCIETE GENERALE S.A.",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SOCIETE GENERALE SECURITIES SERVICES FRANKFURT)",
+      "swift_code": "SOGEDEFFSS1"
+    },
+    {
+      "id": 6023,
+      "bank": "SOCIETE GENERALE S.A.",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(SOCIETE GENERALE SECURITIES SERVICES FRANKFURT)",
+      "swift_code": "SOGEDEFFSS2"
+    },
+    {
+      "id": 6024,
+      "bank": "SOCIETE GENERALE S.A.",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(TRADE SERVICES)",
+      "swift_code": "SOGEDEFFTRA"
+    },
+    {
+      "id": 6025,
+      "bank": "SOCIETE GENERALE S.A.",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SOGEDEFF"
+    },
+    {
+      "id": 6062,
+      "bank": "SPARDA-BANK HESSEN EG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DOT)",
+      "swift_code": "SPBKDEFFDOT"
+    },
+    {
+      "id": 6063,
+      "bank": "SPARDA-BANK HESSEN EG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "GENODEF1S12"
+    },
+    {
+      "id": 6064,
+      "bank": "SPARDA-BANK HESSEN EG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SPBKDEFF"
+    },
+    {
+      "id": 6489,
+      "bank": "STANDARD CHARTERED BANK (GERMANY) GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CONSUMER BANKING)",
+      "swift_code": "SCBLDEF1CBG"
+    },
+    {
+      "id": 6490,
+      "bank": "STANDARD CHARTERED BANK (GERMANY) GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FRANKFURT DTC)",
+      "swift_code": "SCBLDEF1DTC"
+    },
+    {
+      "id": 6491,
+      "bank": "STANDARD CHARTERED BANK (GERMANY) GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(FRANKFURT ETC)",
+      "swift_code": "SCBLDEF1ETC"
+    },
+    {
+      "id": 6492,
+      "bank": "STANDARD CHARTERED BANK (GERMANY) GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SCBLDEF1"
+    },
+    {
+      "id": 6493,
+      "bank": "STANDARD CHARTERED BANK GERMANY BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SCBLDEFX"
+    },
+    {
+      "id": 6494,
+      "bank": "STATE BANK OF INDIA",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DOTATIONSKONTO)",
+      "swift_code": "SBINDEF1DOT"
+    },
+    {
+      "id": 6495,
+      "bank": "STATE BANK OF INDIA",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SBINDEFF"
+    },
+    {
+      "id": 6496,
+      "bank": "STATE STREET BANK INTERNATIONAL",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DLISDEFF"
+    },
+    {
+      "id": 6497,
+      "bank": "STATE STREET BANK INTERNATIONAL",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DLISDEFFKDA"
+    },
+    {
+      "id": 6498,
+      "bank": "STATE STREET BANK INTERNATIONAL",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DLISDEFFKDD"
+    },
+    {
+      "id": 6499,
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(COLLATERAL SERVICES EMEA)",
+      "swift_code": "SBOSDEMXCSF"
+    },
+    {
+      "id": 6546,
+      "bank": "SVENSKA HANDELSBANKEN AB (PUBL), NIEDERLASSUNG FRANKFURT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HANDDEF1FRA"
+    },
+    {
+      "id": 6547,
+      "bank": "SVENSKA HANDELSBANKEN AB (PUBL), NIEDERLASSUNG FRANKFURT",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HANDDEFF"
+    },
+    {
+      "id": 6571,
+      "bank": "TAUNUS-SPARKASSE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HELADEF1TSK"
+    },
+    {
+      "id": 6578,
+      "bank": "THE BANK OF NEW YORK MELLON, FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "IRVTDEFX"
+    },
+    {
+      "id": 6609,
+      "bank": "TREMMEL WERTPAPIERHANDELSBANK GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "TRWGDEF1"
+    },
+    {
+      "id": 6610,
+      "bank": "TRIODOS BANK N.V. DEUTSCHLAND",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "TRODDEF1"
+    },
+    {
+      "id": 6617,
+      "bank": "UBS ASSET MANAGEMENT (DEUTSCHLAND) GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "UBSNDEF1"
+    },
+    {
+      "id": 6621,
+      "bank": "UBS EUROPE SE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(CON)",
+      "swift_code": "UBSWDEFFCON"
+    },
+    {
+      "id": 6622,
+      "bank": "UBS EUROPE SE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SMHBDEFF"
+    },
+    {
+      "id": 6623,
+      "bank": "UBS EUROPE SE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "SMHBDEFFEQU"
+    },
+    {
+      "id": 6624,
+      "bank": "UBS EUROPE SE",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "UBSWDEFF"
+    },
+    {
+      "id": 6738,
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "HYVEDEMM430"
+    },
+    {
+      "id": 7194,
+      "bank": "UNION INVESTMENT INSTITUTIONAL GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "YUINDEFF"
+    },
+    {
+      "id": 7195,
+      "bank": "UNION INVESTMENT PRIVATFONDS GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "YUIPDEFF"
+    },
+    {
+      "id": 7198,
+      "bank": "UNION INVESTMENT SERVICE BANK AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "UNNEDEFF"
+    },
+    {
+      "id": 7199,
+      "bank": "UNIVERSAL-INVESTMENT-GESELLSCHAFT MIT BESCHRAENKTER HAFTUNG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "UINVDEFF"
+    },
+    {
+      "id": 7202,
+      "bank": "VAKIFBANK INTERNATIONAL AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DOTATION KONTO)",
+      "swift_code": "TVBADEFF001"
+    },
+    {
+      "id": 7203,
+      "bank": "VAKIFBANK INTERNATIONAL AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(DOTATIONKONTO)",
+      "swift_code": "TVBADEFFDOT"
+    },
+    {
+      "id": 7204,
+      "bank": "VAKIFBANK INTERNATIONAL AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "TVBADEFF"
+    },
+    {
+      "id": 7278,
+      "bank": "VERITAS SG INVESTMENT TRUST GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "VERTDEF1"
+    },
+    {
+      "id": 7282,
+      "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE (VIETIN BANK)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(HAM-KONTO)",
+      "swift_code": "ICBVDEFFHAM"
+    },
+    {
+      "id": 7283,
+      "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE (VIETIN BANK)",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ICBVDEFF"
+    },
+    {
+      "id": 7605,
+      "bank": "VOLKSBANK GRIESHEIM EG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(GRIESHEIM)",
+      "swift_code": "GENODE51FGH"
+    },
+    {
+      "id": 7662,
+      "bank": "VOLKSBANK HOECHST EG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "(HOECHST)",
+      "swift_code": "GENODE51FHC"
+    },
+    {
+      "id": 7663,
+      "bank": "VOLKSBANK HOECHST EG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "GENODE51FHY"
+    },
+    {
+      "id": 8229,
+      "bank": "VONTOBEL FINANCIAL PRODUCTS GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "VFPGDEF1"
+    },
+    {
+      "id": 8454,
+      "bank": "VTB BANK (AUSTRIA) AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "DOBADEF1"
+    },
+    {
+      "id": 8455,
+      "bank": "VTB BANK (DEUTSCHLAND) AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "OWHBDEFF"
+    },
+    {
+      "id": 8465,
+      "bank": "WALTER LUDWIG WERTPAPIER",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "WALWDEF1"
+    },
+    {
+      "id": 8466,
+      "bank": "WARBURG INVEST KAPITALANLAGEGESELLSCHAFT MBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "WARKDEF1"
+    },
+    {
+      "id": 8476,
+      "bank": "WELLS FARGO BANK INTERNATIONAL UC FRANKFURT BRANCH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "PNBPDEFF"
+    },
+    {
+      "id": 8477,
+      "bank": "WERTPAPIER - MITTEILUNGEN",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "WMDSDEFF"
+    },
+    {
+      "id": 8482,
+      "bank": "WESTERN UNION INTERNATIONAL BANK GMBH NIEDERLASSUNG DEUTSCHLAND",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "WUIDDEF1"
+    },
+    {
+      "id": 8498,
+      "bank": "WOLFGANG STEUBING AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "STAGDEF1"
+    },
+    {
+      "id": 8506,
+      "bank": "XCHANGING TRANSACTION BANK GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "CHTGDE51"
+    },
+    {
+      "id": 8513,
+      "bank": "ZIRAAT BANK INTERNATIONAL AG",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "TCZBDEFF"
+    },
+    {
+      "id": 8515,
+      "bank": "ZURICH GROUP INVEST EUROPE (DEUTSCHLAND) GMBH",
+      "city": "FRANKFURT AM MAIN",
+      "branch": "",
+      "swift_code": "ZGIEDEFF"
+    }
+  ],
+  "meta": {
+    "title": "Banken in Frankfurt Am Main — SWIFT/BIC-Codes - Kostenloser Download",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Frankfurt Am Main, Germany. Subset of de-banken. Enthält 1108 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Banken in Frankfurt Am Main — SWIFT/BIC-Codes | ListBase",
+    "seo_description": "Herunterladen Banken in Frankfurt Am Main — SWIFT/BIC-Codes — 1108 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 1108 Datensätze / 5 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "id": "de-at-steiermark-kfz-kennzeichen",
+  "name": "Kfz-Kennzeichen Steiermark (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke",
+  "title": "Kfz-Kennzeichen Steiermark (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke",
+  "description": "Alle in Steiermark (AT-6) gültigen österreichischen Unterscheidungszeichen mit Zulassungsbezirk und Zulassungsbehörde. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = AT-6).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "unterscheidungszeichen",
+      "label": "Unterscheidungszeichen",
+      "type": "string"
+    },
+    {
+      "key": "zulassungsbezirk",
+      "label": "Zulassungsbezirk",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_name",
+      "label": "Bundesland Name",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_iso_3166_2",
+      "label": "Bundesland Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "zulassungsbehoerde",
+      "label": "Zulassungsbehoerde",
+      "type": "string"
+    },
+    {
+      "key": "nationalitaetszeichen",
+      "label": "Nationalitaetszeichen",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unterscheidungszeichen": "G",
+      "zulassungsbezirk": "Graz",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "Landespolizeidirektion Steiermark für das Gebiet der Gemeinde Graz",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "BM",
+      "zulassungsbezirk": "Bruck-Mürzzuschlag",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Bruck-Mürzzuschlag",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "DL",
+      "zulassungsbezirk": "Deutschlandsberg",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Deutschlandsberg",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "GB",
+      "zulassungsbezirk": "Gröbming",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "Exp. Gröbming",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "GU",
+      "zulassungsbezirk": "Graz/Umgebung",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Graz-Umgebung",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "HF",
+      "zulassungsbezirk": "Hartberg-Fürstenfeld",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Hartberg-Fürstenfeld",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "LB",
+      "zulassungsbezirk": "Leibnitz",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Leibnitz",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "LE",
+      "zulassungsbezirk": "Leoben – Stadt",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "Landespolizeidirektion Steiermark für das Gebiet der Gemeinde Leoben",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "LI",
+      "zulassungsbezirk": "Liezen",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Liezen",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "LN",
+      "zulassungsbezirk": "Leoben/Umgebung",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Leoben",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "MT",
+      "zulassungsbezirk": "Murtal",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Murtal",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "MU",
+      "zulassungsbezirk": "Murau",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Murau",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "SO",
+      "zulassungsbezirk": "Südoststeiermark",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Südoststeiermark",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "VO",
+      "zulassungsbezirk": "Voitsberg",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Voitsberg",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "WZ",
+      "zulassungsbezirk": "Weiz",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Weiz",
+      "nationalitaetszeichen": "A"
+    }
+  ],
+  "meta": {
+    "title": "Kfz-Kennzeichen Steiermark (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke - Kostenloser Download",
+    "description": "Alle in Steiermark (AT-6) gültigen österreichischen Unterscheidungszeichen mit Zulassungsbezirk und Zulassungsbehörde. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = AT-6). Enthält 15 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Kfz-Kennzeichen Steiermark (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke | ListBase",
+    "seo_description": "Herunterladen Kfz-Kennzeichen Steiermark (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke — 15 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 15 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

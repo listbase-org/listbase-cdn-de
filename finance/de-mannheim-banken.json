@@ -1,0 +1,226 @@
+{
+  "id": "de-mannheim-banken",
+  "name": "Banken in Mannheim — SWIFT/BIC-Codes",
+  "title": "Banken in Mannheim — SWIFT/BIC-Codes",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Mannheim, Germany. Subset of de-banken.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 148,
+      "bank": "BADEN-WUERTTEMBERGISCHE BANK (TRADING AS LANDESBANK BADEN-WUERTTEMBERG)",
+      "city": "MANNHEIM",
+      "branch": "",
+      "swift_code": "SOLADEST671"
+    },
+    {
+      "id": 349,
+      "bank": "BILFINGER SE",
+      "city": "MANNHEIM",
+      "branch": "",
+      "swift_code": "BILFDE5M"
+    },
+    {
+      "id": 1025,
+      "bank": "COMMERZBANK AG",
+      "city": "MANNHEIM",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF094"
+    },
+    {
+      "id": 1026,
+      "bank": "COMMERZBANK AG",
+      "city": "MANNHEIM",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF095"
+    },
+    {
+      "id": 1027,
+      "bank": "COMMERZBANK AG",
+      "city": "MANNHEIM",
+      "branch": "",
+      "swift_code": "COBADEFF670"
+    },
+    {
+      "id": 1684,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "MANNHEIM",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK)",
+      "swift_code": "DRESDEFFI22"
+    },
+    {
+      "id": 1685,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "MANNHEIM",
+      "branch": "(PCC DCC-ITGK 2)",
+      "swift_code": "DRESDEFFI60"
+    },
+    {
+      "id": 1686,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "MANNHEIM",
+      "branch": "(PCC DCC-ITGK 3)",
+      "swift_code": "DRESDEFFI61"
+    },
+    {
+      "id": 1687,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "MANNHEIM",
+      "branch": "",
+      "swift_code": "DRESDEFF670"
+    },
+    {
+      "id": 2023,
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "MANNHEIM",
+      "branch": "",
+      "swift_code": "DAAEDED1017"
+    },
+    {
+      "id": 2593,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "MANNHEIM",
+      "branch": "",
+      "swift_code": "DEUTDESM"
+    },
+    {
+      "id": 3327,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "MANNHEIM",
+      "branch": "",
+      "swift_code": "DEUTDEDBMAN"
+    },
+    {
+      "id": 4124,
+      "bank": "FUCHS PETROLUB SE",
+      "city": "MANNHEIM",
+      "branch": "",
+      "swift_code": "FUPTDE66"
+    },
+    {
+      "id": 4264,
+      "bank": "HSBC TRINKAUS UND BURKHARDT AG",
+      "city": "MANNHEIM",
+      "branch": "(MANNHEIM)",
+      "swift_code": "TUBDDEDD670"
+    },
+    {
+      "id": 4340,
+      "bank": "ISBANK AG",
+      "city": "MANNHEIM",
+      "branch": "(FILIALE MANNHEIM)",
+      "swift_code": "ISBKDEFXMAN"
+    },
+    {
+      "id": 4517,
+      "bank": "LANDESBANK BADEN-WUERTTEMBERG",
+      "city": "MANNHEIM",
+      "branch": "",
+      "swift_code": "SOLADEST670"
+    },
+    {
+      "id": 4859,
+      "bank": "OYAK ANKER BANK GMBH",
+      "city": "MANNHEIM",
+      "branch": "(MANNHEIM BRANCH)",
+      "swift_code": "OYAKDE51005"
+    },
+    {
+      "id": 4876,
+      "bank": "PHOENIX INTERNATIONAL BETEILIGUNGS GMBH",
+      "city": "MANNHEIM",
+      "branch": "",
+      "swift_code": "PHNXDE66"
+    },
+    {
+      "id": 5945,
+      "bank": "SEB AG",
+      "city": "MANNHEIM",
+      "branch": "",
+      "swift_code": "ESSEDE5F670"
+    },
+    {
+      "id": 6340,
+      "bank": "SPARKASSE RHEIN NECKAR NORD",
+      "city": "MANNHEIM",
+      "branch": "",
+      "swift_code": "MANSDE61MAN"
+    },
+    {
+      "id": 6341,
+      "bank": "SPARKASSE RHEIN NECKAR NORD",
+      "city": "MANNHEIM",
+      "branch": "",
+      "swift_code": "MANSDE61WEI"
+    },
+    {
+      "id": 6342,
+      "bank": "SPARKASSE RHEIN NECKAR NORD",
+      "city": "MANNHEIM",
+      "branch": "",
+      "swift_code": "MANSDE66"
+    },
+    {
+      "id": 6876,
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MANNHEIM",
+      "branch": "",
+      "swift_code": "HYVEDEMM489"
+    },
+    {
+      "id": 7995,
+      "bank": "VOLKSBANK SANDHOFEN EG",
+      "city": "MANNHEIM",
+      "branch": "",
+      "swift_code": "GENODE61MAY"
+    },
+    {
+      "id": 8295,
+      "bank": "VR BANK RHEIN-NECKAR EG",
+      "city": "MANNHEIM",
+      "branch": "(MANNHEIM)",
+      "swift_code": "GENODE61MA2"
+    }
+  ],
+  "meta": {
+    "title": "Banken in Mannheim — SWIFT/BIC-Codes - Kostenloser Download",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Mannheim, Germany. Subset of de-banken. Enthält 25 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Banken in Mannheim — SWIFT/BIC-Codes | ListBase",
+    "seo_description": "Herunterladen Banken in Mannheim — SWIFT/BIC-Codes — 25 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 25 Datensätze / 5 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

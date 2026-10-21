@@ -1,0 +1,304 @@
+{
+  "id": "de-thueringen-universitaeten",
+  "name": "Thüringen — Universitäten und Hochschulen",
+  "title": "Thüringen — Universitäten und Hochschulen",
+  "description": "Higher-education institutions with at least one campus in the German Bundesland Thüringen (Thuringia, ISO 3166-2 code DE-TH). Includes institution type, sponsor, doctoral rights, all campus locations, and reported student counts. Sourced from corona-school/universities-info-germany.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "uuid",
+      "label": "Uuid",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "nicknames",
+      "label": "Nicknames",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "type_de",
+      "label": "Type De",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "sponsor",
+      "label": "Sponsor",
+      "type": "string"
+    },
+    {
+      "key": "sponsor_de",
+      "label": "Sponsor De",
+      "type": "string"
+    },
+    {
+      "key": "sponsor_en",
+      "label": "Sponsor En",
+      "type": "string"
+    },
+    {
+      "key": "doctorate",
+      "label": "Doctorate",
+      "type": "boolean"
+    },
+    {
+      "key": "locations",
+      "label": "Locations",
+      "type": "string"
+    },
+    {
+      "key": "states",
+      "label": "States",
+      "type": "string"
+    },
+    {
+      "key": "student_count",
+      "label": "Student Count",
+      "type": "number"
+    },
+    {
+      "key": "student_count_date",
+      "label": "Student Count Date",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "uuid": "4771c8f8-dbb9-4315-bc8e-0b1cc8e45066",
+      "name": "Bauhaus-Universität Weimar",
+      "nicknames": "",
+      "type": "Uni",
+      "type_de": "Universität",
+      "type_en": "University",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": true,
+      "locations": "TH: Thüringen: Thuringia",
+      "states": "TH",
+      "student_count": 3890,
+      "student_count_date": "2019/20 (WS)"
+    },
+    {
+      "uuid": "a1567084-603d-452f-89a5-481a1d0f12ce",
+      "name": "Duale Hochschule Gera-Eisenach",
+      "nicknames": "",
+      "type": "DH",
+      "type_de": "Duale Hochschule",
+      "type_en": "Cooperative State University",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "TH: Thüringen: Thuringia",
+      "states": "TH",
+      "student_count": 1440,
+      "student_count_date": "2018/19 (WS)"
+    },
+    {
+      "uuid": "03c21d9d-6e84-4075-aabb-d39d66060b7e",
+      "name": "Ernst-Abbe-Hochschule Jena",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "TH: Thüringen: Thuringia",
+      "states": "TH",
+      "student_count": 4702,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "13c75b6f-1b9b-4461-8a31-c1574d2cf1df",
+      "name": "Fachhochschule Erfurt",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "TH: Thüringen: Thuringia",
+      "states": "TH",
+      "student_count": 4589,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "dd676926-d2f5-4cef-8581-9e3a545fcec7",
+      "name": "Fachhochschule Nordhausen",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "TH: Thüringen: Thuringia",
+      "states": "TH",
+      "student_count": 2461,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "bb2a0127-cfb8-4cca-b100-df7778095e36",
+      "name": "Friedrich-Schiller-Universität Jena",
+      "nicknames": "",
+      "type": "Uni",
+      "type_de": "Universität",
+      "type_en": "University",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": true,
+      "locations": "TH: Thüringen: Thuringia",
+      "states": "TH",
+      "student_count": 17066,
+      "student_count_date": "2019/20 (WS)"
+    },
+    {
+      "uuid": "3c456c11-ca62-4443-be27-982d11aa0d72",
+      "name": "Hochschule für Musik Franz Liszt Weimar",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": true,
+      "locations": "TH: Thüringen: Thuringia",
+      "states": "TH",
+      "student_count": 828,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "6cfe4d7b-5941-49c5-8b26-cce581e2f917",
+      "name": "Hochschule Schmalkalden",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "TH: Thüringen: Thuringia",
+      "states": "TH",
+      "student_count": 2836,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "c2954e05-59f0-4e93-981b-677fe2577960",
+      "name": "IUBH Internationale Hochschule",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "private",
+      "sponsor_de": "privat",
+      "sponsor_en": "private",
+      "doctorate": false,
+      "locations": "Erfurt: TH: Thüringen: Thuringia",
+      "states": "TH",
+      "student_count": 27000,
+      "student_count_date": "2018/19 (WS)"
+    },
+    {
+      "uuid": "cbcf2a21-a3e7-4929-816b-af008cb79f99",
+      "name": "SRH Hochschule für Gesundheit",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "private",
+      "sponsor_de": "privat",
+      "sponsor_en": "private",
+      "doctorate": false,
+      "locations": "Gera: TH: Thüringen: Thuringia",
+      "states": "TH",
+      "student_count": 486,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "3ff0ca47-64f9-4aa6-bb7e-3f2fab680c64",
+      "name": "Technische Universität Ilmenau",
+      "nicknames": "",
+      "type": "Uni",
+      "type_de": "Universität",
+      "type_en": "University",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": true,
+      "locations": "TH: Thüringen: Thuringia",
+      "states": "TH",
+      "student_count": 5425,
+      "student_count_date": "2019/20 (WS)"
+    },
+    {
+      "uuid": "4f105c5c-4d55-49c0-bc1a-0ae96eaf9e06",
+      "name": "Thüringer Fachhochschule für öffentliche Verwaltung",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "Gotha: TH: Thüringen: Thuringia, Meiningen: TH: Thüringen: Thuringia",
+      "states": "TH",
+      "student_count": 396,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "b2103cd3-be1b-4a81-be19-fc16df8fa3fe",
+      "name": "Universität Erfurt",
+      "nicknames": "",
+      "type": "Uni",
+      "type_de": "Universität",
+      "type_en": "University",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": true,
+      "locations": "TH: Thüringen: Thuringia",
+      "states": "TH",
+      "student_count": 5928,
+      "student_count_date": "2019/20 (WS)"
+    }
+  ],
+  "meta": {
+    "title": "Thüringen — Universitäten und Hochschulen - Kostenloser Download",
+    "description": "Higher-education institutions with at least one campus in the German Bundesland Thüringen (Thuringia, ISO 3166-2 code DE-TH). Includes institution type, sponsor, doctoral rights, all campus locations, and reported student counts. Sourced from corona-school/universities-info-germany. Enthält 13 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Thüringen — Universitäten und Hochschulen | ListBase",
+    "seo_description": "Herunterladen Thüringen — Universitäten und Hochschulen — 13 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 13 Datensätze / 14 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

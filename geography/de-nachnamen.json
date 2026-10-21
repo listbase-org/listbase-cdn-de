@@ -1,0 +1,136 @@
+{
+  "id": "de-nachnamen",
+  "name": "Häufige Nachnamen in Deutschland (Popular German Surnames)",
+  "title": "Häufige Nachnamen in Deutschland (Popular German Surnames)",
+  "description": "Die häufigsten Nachnamen (Familiennamen) in Deutschland, nach Trägerzahl geordnet, mit Anzahl der Träger und Bevölkerungsanteilen. Quelle: sigpwned/popular-names-by-country-dataset, aggregiert aus Standesamt- bzw. Forebears-Daten.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "count",
+      "label": "Count",
+      "type": "number"
+    },
+    {
+      "key": "percent",
+      "label": "Percent",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "DE-1",
+      "rank": 1,
+      "localized": "Müller",
+      "romanized": "Müller",
+      "count": 790400,
+      "percent": 0.0095
+    },
+    {
+      "name_group": "DE-2",
+      "rank": 2,
+      "localized": "Schmidt",
+      "romanized": "Schmidt",
+      "count": 574080,
+      "percent": 0.0069
+    },
+    {
+      "name_group": "DE-3",
+      "rank": 3,
+      "localized": "Schneider",
+      "romanized": "Schneider",
+      "count": 332800,
+      "percent": 0.004
+    },
+    {
+      "name_group": "DE-4",
+      "rank": 4,
+      "localized": "Fischer",
+      "romanized": "Fischer",
+      "count": 291200,
+      "percent": 0.0035
+    },
+    {
+      "name_group": "DE-5",
+      "rank": 5,
+      "localized": "Meyer",
+      "romanized": "Meyer",
+      "count": 274560,
+      "percent": 0.0033
+    },
+    {
+      "name_group": "DE-6",
+      "rank": 6,
+      "localized": "Weber",
+      "romanized": "Weber",
+      "count": 249600,
+      "percent": 0.003
+    },
+    {
+      "name_group": "DE-7",
+      "rank": 7,
+      "localized": "Wagner",
+      "romanized": "Wagner",
+      "count": 224640,
+      "percent": 0.0027
+    },
+    {
+      "name_group": "DE-8",
+      "rank": 8,
+      "localized": "Schulz",
+      "romanized": "Schulz",
+      "count": 224640,
+      "percent": 0.0027
+    },
+    {
+      "name_group": "DE-9",
+      "rank": 9,
+      "localized": "Becker",
+      "romanized": "Becker",
+      "count": 224640,
+      "percent": 0.0027
+    },
+    {
+      "name_group": "DE-10",
+      "rank": 10,
+      "localized": "Hoffmann",
+      "romanized": "Hoffmann",
+      "count": 216320,
+      "percent": 0.0026
+    }
+  ],
+  "meta": {
+    "title": "Häufige Nachnamen in Deutschland (Popular German Surnames) - Kostenloser Download",
+    "description": "Die häufigsten Nachnamen (Familiennamen) in Deutschland, nach Trägerzahl geordnet, mit Anzahl der Träger und Bevölkerungsanteilen. Quelle: sigpwned/popular-names-by-country-dataset, aggregiert aus Standesamt- bzw. Forebears-Daten. Enthält 10 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Häufige Nachnamen in Deutschland (Popular German Surnames) | ListBase",
+    "seo_description": "Herunterladen Häufige Nachnamen in Deutschland (Popular German Surnames) — 10 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 10 Datensätze / 6 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "id": "de-wolfsburg-swift-codes",
+  "name": "SWIFT-/BIC-Codes — Wolfsburg",
+  "title": "SWIFT-/BIC-Codes — Wolfsburg",
+  "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 62 Institute, die die Quelle mit der Stadt \"WOLFSBURG\" angibt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "AUTO EUROPA BANK GMBH",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "ECBKDE21"
+    },
+    {
+      "bank": "AUTOVISION - DER PERSONALDIENSTLEIS  TER GMBH AND CO. OHG",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "AZGODE21"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "COBADEFF269"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "WOLFSBURG",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK)",
+      "swift_code": "DRESDEFFI11"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "DRESDEFF269"
+    },
+    {
+      "bank": "CTF BETRIEBS GMBH",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "CTBGDE21"
+    },
+    {
+      "bank": "DEUTSCHE BANK AG",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "DEUTDE2H269"
+    },
+    {
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "DEUTDEDB269"
+    },
+    {
+      "bank": "GVZ ENTWICKLUNGSGESELLSCHAFT WOLFSBURG MBH",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "GVZEDE21"
+    },
+    {
+      "bank": "SCHNELLECKE GROUP AG AND CO. KG",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "SCNGDE22"
+    },
+    {
+      "bank": "SEB AG",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "ESSEDE5F272"
+    },
+    {
+      "bank": "STIFTUNG AUTOMUSEUM VOLKSWAGEN",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "STAWDE21"
+    },
+    {
+      "bank": "TRUCK AND BUS GMBH",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "TRBMDE21"
+    },
+    {
+      "bank": "VOLKSBANK EG BRAUNSCHWEIG WOLFSBURG",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "GENODEF1WOB"
+    },
+    {
+      "bank": "VOLKSBANK WOLFSBURG EHM VB VORSFELDE EG",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "GENODEF1WOV"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22000"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22001"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22002"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22003"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22004"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22005"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22006"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22007"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22008"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22009"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22010"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22011"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22012"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22013"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22014"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22015"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22016"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22017"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22018"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22019"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22020"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22021"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22022"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22023"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22024"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22025"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22026"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22027"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22028"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22029"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22030"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22031"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22032"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22033"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22034"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22035"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22036"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22037"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22038"
+    },
+    {
+      "bank": "VOLKSWAGEN A.G.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWAGDE22039"
+    },
+    {
+      "bank": "VOLKSWAGEN AG / BETRIEBSSTAETTE HEIZKRAFTWERK WEST",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VBHWDE21"
+    },
+    {
+      "bank": "VOLKSWAGEN AG PREUSSENELEKTRA AG OHG",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VOPODE21"
+    },
+    {
+      "bank": "VOLKSWAGEN BANK GMBH",
+      "city": "WOLFSBURG",
+      "branch": "(GROUP TEASURY)",
+      "swift_code": "VOWADE2BKDT"
+    },
+    {
+      "bank": "VW KRAFTWERK",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "KRATDE21"
+    },
+    {
+      "bank": "VW PENSION TRUST E. V.",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "VWPTDE21"
+    },
+    {
+      "bank": "WOLFSBURG AG",
+      "city": "WOLFSBURG",
+      "branch": "",
+      "swift_code": "WOLGDE21"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT-/BIC-Codes — Wolfsburg - Kostenloser Download",
+    "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 62 Institute, die die Quelle mit der Stadt \"WOLFSBURG\" angibt. Enthält 62 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "SWIFT-/BIC-Codes — Wolfsburg | ListBase",
+    "seo_description": "Herunterladen SWIFT-/BIC-Codes — Wolfsburg — 62 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 62 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "id": "de-at-tirol-kfz-kennzeichen",
+  "name": "Kfz-Kennzeichen Tirol (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke",
+  "title": "Kfz-Kennzeichen Tirol (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke",
+  "description": "Alle in Tirol (AT-7) gültigen österreichischen Unterscheidungszeichen mit Zulassungsbezirk und Zulassungsbehörde. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = AT-7).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "unterscheidungszeichen",
+      "label": "Unterscheidungszeichen",
+      "type": "string"
+    },
+    {
+      "key": "zulassungsbezirk",
+      "label": "Zulassungsbezirk",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_name",
+      "label": "Bundesland Name",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_iso_3166_2",
+      "label": "Bundesland Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "zulassungsbehoerde",
+      "label": "Zulassungsbehoerde",
+      "type": "string"
+    },
+    {
+      "key": "nationalitaetszeichen",
+      "label": "Nationalitaetszeichen",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unterscheidungszeichen": "I",
+      "zulassungsbezirk": "Innsbruck – Stadt",
+      "bundesland_name": "Tirol",
+      "bundesland_iso_3166_2": "AT-7",
+      "bundesland_slug": "tirol",
+      "zulassungsbehoerde": "Landespolizeidirektion Tirol für das Gebiet der Gemeinde Innsbruck",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "IL",
+      "zulassungsbezirk": "Innsbruck/Land",
+      "bundesland_name": "Tirol",
+      "bundesland_iso_3166_2": "AT-7",
+      "bundesland_slug": "tirol",
+      "zulassungsbehoerde": "BH Innsbruck",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "IM",
+      "zulassungsbezirk": "Imst",
+      "bundesland_name": "Tirol",
+      "bundesland_iso_3166_2": "AT-7",
+      "bundesland_slug": "tirol",
+      "zulassungsbehoerde": "BH Imst",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "KB",
+      "zulassungsbezirk": "Kitzbühel",
+      "bundesland_name": "Tirol",
+      "bundesland_iso_3166_2": "AT-7",
+      "bundesland_slug": "tirol",
+      "zulassungsbehoerde": "BH Kitzbühel",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "KU",
+      "zulassungsbezirk": "Kufstein",
+      "bundesland_name": "Tirol",
+      "bundesland_iso_3166_2": "AT-7",
+      "bundesland_slug": "tirol",
+      "zulassungsbehoerde": "BH Kufstein",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "LA",
+      "zulassungsbezirk": "Landeck",
+      "bundesland_name": "Tirol",
+      "bundesland_iso_3166_2": "AT-7",
+      "bundesland_slug": "tirol",
+      "zulassungsbehoerde": "BH Landeck",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "LZ",
+      "zulassungsbezirk": "Lienz",
+      "bundesland_name": "Tirol",
+      "bundesland_iso_3166_2": "AT-7",
+      "bundesland_slug": "tirol",
+      "zulassungsbehoerde": "BH Lienz",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "RE",
+      "zulassungsbezirk": "Reutte",
+      "bundesland_name": "Tirol",
+      "bundesland_iso_3166_2": "AT-7",
+      "bundesland_slug": "tirol",
+      "zulassungsbehoerde": "BH Reutte",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "SZ",
+      "zulassungsbezirk": "Schwaz",
+      "bundesland_name": "Tirol",
+      "bundesland_iso_3166_2": "AT-7",
+      "bundesland_slug": "tirol",
+      "zulassungsbehoerde": "BH Schwaz",
+      "nationalitaetszeichen": "A"
+    }
+  ],
+  "meta": {
+    "title": "Kfz-Kennzeichen Tirol (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke - Kostenloser Download",
+    "description": "Alle in Tirol (AT-7) gültigen österreichischen Unterscheidungszeichen mit Zulassungsbezirk und Zulassungsbehörde. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = AT-7). Enthält 9 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Kfz-Kennzeichen Tirol (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke | ListBase",
+    "seo_description": "Herunterladen Kfz-Kennzeichen Tirol (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke — 9 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 9 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

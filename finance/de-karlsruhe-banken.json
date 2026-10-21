@@ -1,0 +1,212 @@
+{
+  "id": "de-karlsruhe-banken",
+  "name": "Banken in Karlsruhe — SWIFT/BIC-Codes",
+  "title": "Banken in Karlsruhe — SWIFT/BIC-Codes",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Karlsruhe, Germany. Subset of de-banken.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 139,
+      "bank": "BADEN-WUERTTEMBERGISCHE BANK (TRADING AS LANDESBANK BADEN-WUERTTEMBERG)",
+      "city": "KARLSRUHE",
+      "branch": "",
+      "swift_code": "SOLADEST663"
+    },
+    {
+      "id": 206,
+      "bank": "BANK FUER SOZIALWIRTSCHAFT AG",
+      "city": "KARLSRUHE",
+      "branch": "",
+      "swift_code": "BFSWDE33KRL"
+    },
+    {
+      "id": 319,
+      "bank": "BBBANK EG",
+      "city": "KARLSRUHE",
+      "branch": "",
+      "swift_code": "GENODE61BBB"
+    },
+    {
+      "id": 958,
+      "bank": "COMMERZBANK AG",
+      "city": "KARLSRUHE",
+      "branch": "(KREDITCENTER-BAD.)",
+      "swift_code": "COBADEFF661"
+    },
+    {
+      "id": 959,
+      "bank": "COMMERZBANK AG",
+      "city": "KARLSRUHE",
+      "branch": "",
+      "swift_code": "COBADEFF660"
+    },
+    {
+      "id": 1602,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "KARLSRUHE",
+      "branch": "",
+      "swift_code": "DRESDEFF660"
+    },
+    {
+      "id": 2014,
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "KARLSRUHE",
+      "branch": "",
+      "swift_code": "DAAEDED1021"
+    },
+    {
+      "id": 2511,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "KARLSRUHE",
+      "branch": "",
+      "swift_code": "DEUTDESM660"
+    },
+    {
+      "id": 3243,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "KARLSRUHE",
+      "branch": "",
+      "swift_code": "DEUTDEDB660"
+    },
+    {
+      "id": 3641,
+      "bank": "DEUTSCHE BAUSPARKASSE BADENIA AKTIENGESELLSCHAFT",
+      "city": "KARLSRUHE",
+      "branch": "",
+      "swift_code": "BBSPDE6K"
+    },
+    {
+      "id": 3664,
+      "bank": "DEUTSCHE BUNDESBANK",
+      "city": "KARLSRUHE",
+      "branch": "",
+      "swift_code": "MARKDEF1660"
+    },
+    {
+      "id": 3795,
+      "bank": "DEUTSCHE POSTBANK AG",
+      "city": "KARLSRUHE",
+      "branch": "(KARLSRUHE BRANCH)",
+      "swift_code": "PBNKDEFF660"
+    },
+    {
+      "id": 3911,
+      "bank": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK,FRANKFURT BRANCH",
+      "city": "KARLSRUHE",
+      "branch": "",
+      "swift_code": "GENODE6K"
+    },
+    {
+      "id": 4337,
+      "bank": "ISBANK AG",
+      "city": "KARLSRUHE",
+      "branch": "(ZWEIGSTELLE KARLSRUHE)",
+      "swift_code": "ISBKDEFXKRL"
+    },
+    {
+      "id": 4516,
+      "bank": "LANDESBANK BADEN-WUERTTEMBERG",
+      "city": "KARLSRUHE",
+      "branch": "",
+      "swift_code": "SOLADEST660"
+    },
+    {
+      "id": 4546,
+      "bank": "LANDESKREDITBANK BADEN-WUERTTEMBERG - FOERDERBANK",
+      "city": "KARLSRUHE",
+      "branch": "",
+      "swift_code": "LKBWDE6K"
+    },
+    {
+      "id": 4549,
+      "bank": "LANDESOBERKASSE BADEN-WURTTEMBERG",
+      "city": "KARLSRUHE",
+      "branch": "",
+      "swift_code": "LABDDE81"
+    },
+    {
+      "id": 4903,
+      "bank": "PSD BANK KARLSRUHE-NEUSTADT EG",
+      "city": "KARLSRUHE",
+      "branch": "",
+      "swift_code": "GENODEF1P10"
+    },
+    {
+      "id": 5926,
+      "bank": "SEB AG",
+      "city": "KARLSRUHE",
+      "branch": "",
+      "swift_code": "ESSEDE5F660"
+    },
+    {
+      "id": 6042,
+      "bank": "SPAR- UND KREDITBANK EG",
+      "city": "KARLSRUHE",
+      "branch": "",
+      "swift_code": "GENODE61KA3"
+    },
+    {
+      "id": 6237,
+      "bank": "SPARKASSE KARLSRUHE",
+      "city": "KARLSRUHE",
+      "branch": "",
+      "swift_code": "KARSDE66"
+    },
+    {
+      "id": 6826,
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "KARLSRUHE",
+      "branch": "",
+      "swift_code": "HYVEDEMM475"
+    },
+    {
+      "id": 7709,
+      "bank": "VOLKSBANK KARLSRUHE",
+      "city": "KARLSRUHE",
+      "branch": "",
+      "swift_code": "GENODE61KA1"
+    }
+  ],
+  "meta": {
+    "title": "Banken in Karlsruhe — SWIFT/BIC-Codes - Kostenloser Download",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Karlsruhe, Germany. Subset of de-banken. Enthält 23 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Banken in Karlsruhe — SWIFT/BIC-Codes | ListBase",
+    "seo_description": "Herunterladen Banken in Karlsruhe — SWIFT/BIC-Codes — 23 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 23 Datensätze / 5 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

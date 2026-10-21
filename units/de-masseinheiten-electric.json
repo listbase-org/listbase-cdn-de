@@ -1,0 +1,133 @@
+{
+  "id": "de-masseinheiten-electric",
+  "name": "Maßeinheiten — Kategorie 'electric' (8)",
+  "title": "Maßeinheiten — Kategorie 'electric' (8)",
+  "description": "Maßeinheiten der Kategorie 'electric' aus der Locale de in CLDR, mit Namen auf Deutsch.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abkuerzung",
+      "label": "Abkuerzung",
+      "type": "string"
+    },
+    {
+      "key": "schmalform",
+      "label": "Schmalform",
+      "type": "string"
+    },
+    {
+      "key": "muster",
+      "label": "Muster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "electric-ampere",
+      "kategorie": "electric",
+      "name": "Ampere",
+      "abkuerzung": "Ampere",
+      "schmalform": "A",
+      "muster": "{0} Ampere"
+    },
+    {
+      "id": 2,
+      "unit_code": "electric-coulomb",
+      "kategorie": "electric",
+      "name": "Coulomb",
+      "abkuerzung": "C",
+      "schmalform": "C",
+      "muster": "{0} Coulomb"
+    },
+    {
+      "id": 3,
+      "unit_code": "electric-farad",
+      "kategorie": "electric",
+      "name": "Farad",
+      "abkuerzung": "F",
+      "schmalform": "F",
+      "muster": "{0} Farad"
+    },
+    {
+      "id": 4,
+      "unit_code": "electric-henry",
+      "kategorie": "electric",
+      "name": "Henry",
+      "abkuerzung": "H",
+      "schmalform": "H",
+      "muster": "{0} Henry"
+    },
+    {
+      "id": 5,
+      "unit_code": "electric-milliampere",
+      "kategorie": "electric",
+      "name": "Milliampere",
+      "abkuerzung": "mA",
+      "schmalform": "mA",
+      "muster": "{0} Milliampere"
+    },
+    {
+      "id": 6,
+      "unit_code": "electric-ohm",
+      "kategorie": "electric",
+      "name": "Ohm",
+      "abkuerzung": "Ohm",
+      "schmalform": "Ω",
+      "muster": "{0} Ohm"
+    },
+    {
+      "id": 7,
+      "unit_code": "electric-siemens",
+      "kategorie": "electric",
+      "name": "Siemens",
+      "abkuerzung": "S",
+      "schmalform": "S",
+      "muster": "{0} Siemens"
+    },
+    {
+      "id": 8,
+      "unit_code": "electric-volt",
+      "kategorie": "electric",
+      "name": "Volt",
+      "abkuerzung": "Volt",
+      "schmalform": "V",
+      "muster": "{0} Volt"
+    }
+  ],
+  "meta": {
+    "title": "Maßeinheiten — Kategorie 'electric' (8) - Kostenloser Download",
+    "description": "Maßeinheiten der Kategorie 'electric' aus der Locale de in CLDR, mit Namen auf Deutsch. Enthält 8 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Maßeinheiten — Kategorie 'electric' (8) | ListBase",
+    "seo_description": "Herunterladen Maßeinheiten — Kategorie 'electric' (8) — 8 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 8 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

@@ -1,0 +1,3508 @@
+{
+  "id": "de-vorwahlen-bereich-5",
+  "name": "Deutsche Vorwahlen — Bereich 5 (führende Ziffer 5)",
+  "title": "Deutsche Vorwahlen — Bereich 5 (führende Ziffer 5)",
+  "description": "Ortsnetzkennzahlen mit führender Ziffer 5 aus dem deutschen Nummerierungsbereich. Geografischer Schwerpunkt: Niedersachsen (Mitte), Nordrhein-Westfalen (Ostwestfalen-Lippe). Insgesamt 577 Einträge.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 577,
+  "columns": [
+    {
+      "key": "vorwahl",
+      "label": "Vorwahl",
+      "type": "number"
+    },
+    {
+      "key": "ortsnetzkennzahl",
+      "label": "Ortsnetzkennzahl",
+      "type": "number"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "aktiv",
+      "label": "Aktiv",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "vorwahl": "0511",
+      "ortsnetzkennzahl": 511,
+      "ort": "Hannover",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0521",
+      "ortsnetzkennzahl": 521,
+      "ort": "Bielefeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0531",
+      "ortsnetzkennzahl": 531,
+      "ort": "Braunschweig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0541",
+      "ortsnetzkennzahl": 541,
+      "ort": "Osnabrück",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0551",
+      "ortsnetzkennzahl": 551,
+      "ort": "Göttingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0561",
+      "ortsnetzkennzahl": 561,
+      "ort": "Kassel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0571",
+      "ortsnetzkennzahl": 571,
+      "ort": "Minden Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0581",
+      "ortsnetzkennzahl": 581,
+      "ort": "Uelzen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0591",
+      "ortsnetzkennzahl": 591,
+      "ort": "Lingen (Ems)",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05021",
+      "ortsnetzkennzahl": 5021,
+      "ort": "Nienburg Weser",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05022",
+      "ortsnetzkennzahl": 5022,
+      "ort": "Wietzen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05023",
+      "ortsnetzkennzahl": 5023,
+      "ort": "Liebenau Kr Nieburg Weser",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05024",
+      "ortsnetzkennzahl": 5024,
+      "ort": "Rohrsen Kr Nienburg Weser",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05025",
+      "ortsnetzkennzahl": 5025,
+      "ort": "Estorf Weser",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05026",
+      "ortsnetzkennzahl": 5026,
+      "ort": "Steimbke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05027",
+      "ortsnetzkennzahl": 5027,
+      "ort": "Linsburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05028",
+      "ortsnetzkennzahl": 5028,
+      "ort": "Pennigsehl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05031",
+      "ortsnetzkennzahl": 5031,
+      "ort": "Wunstorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05032",
+      "ortsnetzkennzahl": 5032,
+      "ort": "Neustadt am Rübenberge",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05033",
+      "ortsnetzkennzahl": 5033,
+      "ort": "Wunstorf-Grossenheidorn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05034",
+      "ortsnetzkennzahl": 5034,
+      "ort": "Neustadt-Hagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05035",
+      "ortsnetzkennzahl": 5035,
+      "ort": "Gross Munzel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05036",
+      "ortsnetzkennzahl": 5036,
+      "ort": "Neustadt-Schneeren",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05037",
+      "ortsnetzkennzahl": 5037,
+      "ort": "Bad Rehburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05041",
+      "ortsnetzkennzahl": 5041,
+      "ort": "Springe Deister",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05042",
+      "ortsnetzkennzahl": 5042,
+      "ort": "Bad Münder am Deister",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05043",
+      "ortsnetzkennzahl": 5043,
+      "ort": "Lauenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05044",
+      "ortsnetzkennzahl": 5044,
+      "ort": "Springe-Eldagsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05045",
+      "ortsnetzkennzahl": 5045,
+      "ort": "Springe-Bennigsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05051",
+      "ortsnetzkennzahl": 5051,
+      "ort": "Bergen Kr Celle",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05052",
+      "ortsnetzkennzahl": 5052,
+      "ort": "Hermannsburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05053",
+      "ortsnetzkennzahl": 5053,
+      "ort": "Faßberg-Müden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05054",
+      "ortsnetzkennzahl": 5054,
+      "ort": "Bergen-Sülze",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05055",
+      "ortsnetzkennzahl": 5055,
+      "ort": "Fassberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05056",
+      "ortsnetzkennzahl": 5056,
+      "ort": "Winsen-Meissendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05060",
+      "ortsnetzkennzahl": 5060,
+      "ort": "Bodenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05062",
+      "ortsnetzkennzahl": 5062,
+      "ort": "Holle b Hildesheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05063",
+      "ortsnetzkennzahl": 5063,
+      "ort": "Bad Salzdetfurth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05064",
+      "ortsnetzkennzahl": 5064,
+      "ort": "Groß Düngen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05065",
+      "ortsnetzkennzahl": 5065,
+      "ort": "Sibbesse",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05066",
+      "ortsnetzkennzahl": 5066,
+      "ort": "Sarstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05067",
+      "ortsnetzkennzahl": 5067,
+      "ort": "Bockenem",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05068",
+      "ortsnetzkennzahl": 5068,
+      "ort": "Elze Leine",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05069",
+      "ortsnetzkennzahl": 5069,
+      "ort": "Nordstemmen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05071",
+      "ortsnetzkennzahl": 5071,
+      "ort": "Schwarmstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05072",
+      "ortsnetzkennzahl": 5072,
+      "ort": "Neustadt-Mandelsloh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05073",
+      "ortsnetzkennzahl": 5073,
+      "ort": "Neustadt-Esperke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05074",
+      "ortsnetzkennzahl": 5074,
+      "ort": "Rodewald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05082",
+      "ortsnetzkennzahl": 5082,
+      "ort": "Langlingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05083",
+      "ortsnetzkennzahl": 5083,
+      "ort": "Hohne b Celle",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05084",
+      "ortsnetzkennzahl": 5084,
+      "ort": "Hambühren",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05085",
+      "ortsnetzkennzahl": 5085,
+      "ort": "Burgdorf-Ehlershausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05086",
+      "ortsnetzkennzahl": 5086,
+      "ort": "Celle-Scheuen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05101",
+      "ortsnetzkennzahl": 5101,
+      "ort": "Pattensen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05102",
+      "ortsnetzkennzahl": 5102,
+      "ort": "Laatzen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05103",
+      "ortsnetzkennzahl": 5103,
+      "ort": "Wennigsen Deister",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05105",
+      "ortsnetzkennzahl": 5105,
+      "ort": "Barsinghausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05108",
+      "ortsnetzkennzahl": 5108,
+      "ort": "Gehrden Han",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05109",
+      "ortsnetzkennzahl": 5109,
+      "ort": "Ronnenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05121",
+      "ortsnetzkennzahl": 5121,
+      "ort": "Hildesheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05123",
+      "ortsnetzkennzahl": 5123,
+      "ort": "Schellerten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05126",
+      "ortsnetzkennzahl": 5126,
+      "ort": "Algermissen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05127",
+      "ortsnetzkennzahl": 5127,
+      "ort": "Harsum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05128",
+      "ortsnetzkennzahl": 5128,
+      "ort": "Hohenhameln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05129",
+      "ortsnetzkennzahl": 5129,
+      "ort": "Söhlde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05130",
+      "ortsnetzkennzahl": 5130,
+      "ort": "Wedemark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05131",
+      "ortsnetzkennzahl": 5131,
+      "ort": "Garbsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05132",
+      "ortsnetzkennzahl": 5132,
+      "ort": "Lehrte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05135",
+      "ortsnetzkennzahl": 5135,
+      "ort": "Burgwedel-Fuhrberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05136",
+      "ortsnetzkennzahl": 5136,
+      "ort": "Burgdorf Kr Hannover",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05137",
+      "ortsnetzkennzahl": 5137,
+      "ort": "Seelze",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05138",
+      "ortsnetzkennzahl": 5138,
+      "ort": "Sehnde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05139",
+      "ortsnetzkennzahl": 5139,
+      "ort": "Burgwedel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05141",
+      "ortsnetzkennzahl": 5141,
+      "ort": "Celle",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05142",
+      "ortsnetzkennzahl": 5142,
+      "ort": "Eschede",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05143",
+      "ortsnetzkennzahl": 5143,
+      "ort": "Winsen Aller",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05144",
+      "ortsnetzkennzahl": 5144,
+      "ort": "Wathlingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05145",
+      "ortsnetzkennzahl": 5145,
+      "ort": "Beedenbostel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05146",
+      "ortsnetzkennzahl": 5146,
+      "ort": "Wietze",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05147",
+      "ortsnetzkennzahl": 5147,
+      "ort": "Uetze-Hänigsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05148",
+      "ortsnetzkennzahl": 5148,
+      "ort": "Steinhorst Niedersachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05149",
+      "ortsnetzkennzahl": 5149,
+      "ort": "Wienhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05151",
+      "ortsnetzkennzahl": 5151,
+      "ort": "Hameln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05152",
+      "ortsnetzkennzahl": 5152,
+      "ort": "Hessisch Oldendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05153",
+      "ortsnetzkennzahl": 5153,
+      "ort": "Salzhemmendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05154",
+      "ortsnetzkennzahl": 5154,
+      "ort": "Aerzen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05155",
+      "ortsnetzkennzahl": 5155,
+      "ort": "Emmerthal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05156",
+      "ortsnetzkennzahl": 5156,
+      "ort": "Coppenbrügge",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05157",
+      "ortsnetzkennzahl": 5157,
+      "ort": "Emmerthal-Börry",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05158",
+      "ortsnetzkennzahl": 5158,
+      "ort": "Hemeringen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05159",
+      "ortsnetzkennzahl": 5159,
+      "ort": "Coppenbrügge-Bisperode",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05161",
+      "ortsnetzkennzahl": 5161,
+      "ort": "Walsrode",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05162",
+      "ortsnetzkennzahl": 5162,
+      "ort": "Fallingbostel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05163",
+      "ortsnetzkennzahl": 5163,
+      "ort": "Fallingbostel-Dorfmark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05164",
+      "ortsnetzkennzahl": 5164,
+      "ort": "Hodenhagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05165",
+      "ortsnetzkennzahl": 5165,
+      "ort": "Rethem Aller",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05166",
+      "ortsnetzkennzahl": 5166,
+      "ort": "Walsrode-Kirchboitzen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05167",
+      "ortsnetzkennzahl": 5167,
+      "ort": "Walsrode-Westenholz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05168",
+      "ortsnetzkennzahl": 5168,
+      "ort": "Walsrode-Stellichte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05171",
+      "ortsnetzkennzahl": 5171,
+      "ort": "Peine",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05172",
+      "ortsnetzkennzahl": 5172,
+      "ort": "Ilsede",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05173",
+      "ortsnetzkennzahl": 5173,
+      "ort": "Uetze",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05174",
+      "ortsnetzkennzahl": 5174,
+      "ort": "Lahstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05175",
+      "ortsnetzkennzahl": 5175,
+      "ort": "Lehrte-Arpke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05176",
+      "ortsnetzkennzahl": 5176,
+      "ort": "Edemissen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05177",
+      "ortsnetzkennzahl": 5177,
+      "ort": "Edemissen-Abbensen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05181",
+      "ortsnetzkennzahl": 5181,
+      "ort": "Alfeld Leine",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05182",
+      "ortsnetzkennzahl": 5182,
+      "ort": "Gronau Leine",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05183",
+      "ortsnetzkennzahl": 5183,
+      "ort": "Lamspringe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05184",
+      "ortsnetzkennzahl": 5184,
+      "ort": "Freden Leine",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05185",
+      "ortsnetzkennzahl": 5185,
+      "ort": "Duingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05186",
+      "ortsnetzkennzahl": 5186,
+      "ort": "Salzhemmendorf-Wallensen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05187",
+      "ortsnetzkennzahl": 5187,
+      "ort": "Delligsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05190",
+      "ortsnetzkennzahl": 5190,
+      "ort": "Soltau-Emmingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05191",
+      "ortsnetzkennzahl": 5191,
+      "ort": "Soltau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05192",
+      "ortsnetzkennzahl": 5192,
+      "ort": "Munster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05193",
+      "ortsnetzkennzahl": 5193,
+      "ort": "Schneverdingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05194",
+      "ortsnetzkennzahl": 5194,
+      "ort": "Bispingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05195",
+      "ortsnetzkennzahl": 5195,
+      "ort": "Neuenkirchen b Soltau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05196",
+      "ortsnetzkennzahl": 5196,
+      "ort": "Wietzendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05197",
+      "ortsnetzkennzahl": 5197,
+      "ort": "Soltau-Frielingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05198",
+      "ortsnetzkennzahl": 5198,
+      "ort": "Schneverdingen-Wintermoor",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05199",
+      "ortsnetzkennzahl": 5199,
+      "ort": "Schneverdingen-Heber",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05201",
+      "ortsnetzkennzahl": 5201,
+      "ort": "Halle Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05202",
+      "ortsnetzkennzahl": 5202,
+      "ort": "Oerlinghausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05203",
+      "ortsnetzkennzahl": 5203,
+      "ort": "Werther Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05204",
+      "ortsnetzkennzahl": 5204,
+      "ort": "Steinhagen Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05205",
+      "ortsnetzkennzahl": 5205,
+      "ort": "Bielefeld-Sennestadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05206",
+      "ortsnetzkennzahl": 5206,
+      "ort": "Bielefeld-Jöllenbeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05207",
+      "ortsnetzkennzahl": 5207,
+      "ort": "Schloss Holte-Stukenbrock",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05208",
+      "ortsnetzkennzahl": 5208,
+      "ort": "Leopoldshöhe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05209",
+      "ortsnetzkennzahl": 5209,
+      "ort": "Gütersloh-Friedrichsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05221",
+      "ortsnetzkennzahl": 5221,
+      "ort": "Herford",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05222",
+      "ortsnetzkennzahl": 5222,
+      "ort": "Bad Salzuflen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05223",
+      "ortsnetzkennzahl": 5223,
+      "ort": "Bünde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05224",
+      "ortsnetzkennzahl": 5224,
+      "ort": "Enger Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05225",
+      "ortsnetzkennzahl": 5225,
+      "ort": "Spenge",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05226",
+      "ortsnetzkennzahl": 5226,
+      "ort": "Bruchmühlen Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05228",
+      "ortsnetzkennzahl": 5228,
+      "ort": "Vlotho-Exter",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05231",
+      "ortsnetzkennzahl": 5231,
+      "ort": "Detmold",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05232",
+      "ortsnetzkennzahl": 5232,
+      "ort": "Lage Lippe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05233",
+      "ortsnetzkennzahl": 5233,
+      "ort": "Steinheim Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05234",
+      "ortsnetzkennzahl": 5234,
+      "ort": "Horn-Bad Meinberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05235",
+      "ortsnetzkennzahl": 5235,
+      "ort": "Blomberg Lippe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05236",
+      "ortsnetzkennzahl": 5236,
+      "ort": "Blomberg-Grossenmarpe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05237",
+      "ortsnetzkennzahl": 5237,
+      "ort": "Augustdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05238",
+      "ortsnetzkennzahl": 5238,
+      "ort": "Nieheim-Himmighausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05241",
+      "ortsnetzkennzahl": 5241,
+      "ort": "Gütersloh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05242",
+      "ortsnetzkennzahl": 5242,
+      "ort": "Rheda-Wiedenbrück",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05244",
+      "ortsnetzkennzahl": 5244,
+      "ort": "Rietberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05245",
+      "ortsnetzkennzahl": 5245,
+      "ort": "Herzebrock-Clarholz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05246",
+      "ortsnetzkennzahl": 5246,
+      "ort": "Verl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05247",
+      "ortsnetzkennzahl": 5247,
+      "ort": "Harsewinkel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05248",
+      "ortsnetzkennzahl": 5248,
+      "ort": "Langenberg Kr Gütersloh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05250",
+      "ortsnetzkennzahl": 5250,
+      "ort": "Delbrück Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05251",
+      "ortsnetzkennzahl": 5251,
+      "ort": "Paderborn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05252",
+      "ortsnetzkennzahl": 5252,
+      "ort": "Bad Lippspringe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05253",
+      "ortsnetzkennzahl": 5253,
+      "ort": "Bad Driburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05254",
+      "ortsnetzkennzahl": 5254,
+      "ort": "Paderborn-Schloss Neuhaus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05255",
+      "ortsnetzkennzahl": 5255,
+      "ort": "Altenbeken",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05257",
+      "ortsnetzkennzahl": 5257,
+      "ort": "Hövelhof",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05258",
+      "ortsnetzkennzahl": 5258,
+      "ort": "Salzkotten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05259",
+      "ortsnetzkennzahl": 5259,
+      "ort": "Bad Driburg-Neuenheerse",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05261",
+      "ortsnetzkennzahl": 5261,
+      "ort": "Lemgo",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05262",
+      "ortsnetzkennzahl": 5262,
+      "ort": "Extertal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05263",
+      "ortsnetzkennzahl": 5263,
+      "ort": "Barntrup",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05264",
+      "ortsnetzkennzahl": 5264,
+      "ort": "Kalletal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05265",
+      "ortsnetzkennzahl": 5265,
+      "ort": "Dörentrup",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05266",
+      "ortsnetzkennzahl": 5266,
+      "ort": "Lemgo-Kirchheide",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05271",
+      "ortsnetzkennzahl": 5271,
+      "ort": "Höxter",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05272",
+      "ortsnetzkennzahl": 5272,
+      "ort": "Brakel Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05273",
+      "ortsnetzkennzahl": 5273,
+      "ort": "Beverungen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05274",
+      "ortsnetzkennzahl": 5274,
+      "ort": "Nieheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05275",
+      "ortsnetzkennzahl": 5275,
+      "ort": "Höxter-Ottbergen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05276",
+      "ortsnetzkennzahl": 5276,
+      "ort": "Marienmünster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05277",
+      "ortsnetzkennzahl": 5277,
+      "ort": "Höxter-Fürstenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05278",
+      "ortsnetzkennzahl": 5278,
+      "ort": "Höxter-Ovenhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05281",
+      "ortsnetzkennzahl": 5281,
+      "ort": "Bad Pyrmont",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05282",
+      "ortsnetzkennzahl": 5282,
+      "ort": "Schieder-Schwalenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05283",
+      "ortsnetzkennzahl": 5283,
+      "ort": "Lügde-Rischenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05284",
+      "ortsnetzkennzahl": 5284,
+      "ort": "Schwalenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05285",
+      "ortsnetzkennzahl": 5285,
+      "ort": "Bad Pyrmont-Kleinenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05286",
+      "ortsnetzkennzahl": 5286,
+      "ort": "Ottenstein Niedersachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05292",
+      "ortsnetzkennzahl": 5292,
+      "ort": "Lichtenau-Atteln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05293",
+      "ortsnetzkennzahl": 5293,
+      "ort": "Paderborn-Dahl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05294",
+      "ortsnetzkennzahl": 5294,
+      "ort": "Hövelhof-Espeln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05295",
+      "ortsnetzkennzahl": 5295,
+      "ort": "Lichtenau Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05300",
+      "ortsnetzkennzahl": 5300,
+      "ort": "Salzgitter-Üfingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05301",
+      "ortsnetzkennzahl": 5301,
+      "ort": "Lehre-Essenrode",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05302",
+      "ortsnetzkennzahl": 5302,
+      "ort": "Vechelde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05303",
+      "ortsnetzkennzahl": 5303,
+      "ort": "Wendeburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05304",
+      "ortsnetzkennzahl": 5304,
+      "ort": "Meine",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05305",
+      "ortsnetzkennzahl": 5305,
+      "ort": "Sickte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05306",
+      "ortsnetzkennzahl": 5306,
+      "ort": "Cremlingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05307",
+      "ortsnetzkennzahl": 5307,
+      "ort": "Braunschweig-Wenden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05308",
+      "ortsnetzkennzahl": 5308,
+      "ort": "Lehre",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05309",
+      "ortsnetzkennzahl": 5309,
+      "ort": "Lehre-Wendhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05320",
+      "ortsnetzkennzahl": 5320,
+      "ort": "Torfhaus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05321",
+      "ortsnetzkennzahl": 5321,
+      "ort": "Goslar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05322",
+      "ortsnetzkennzahl": 5322,
+      "ort": "Bad Harzburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05323",
+      "ortsnetzkennzahl": 5323,
+      "ort": "Clausthal-Zellerfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05324",
+      "ortsnetzkennzahl": 5324,
+      "ort": "Vienenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05325",
+      "ortsnetzkennzahl": 5325,
+      "ort": "Goslar-Hahnenklee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05326",
+      "ortsnetzkennzahl": 5326,
+      "ort": "Langelsheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05327",
+      "ortsnetzkennzahl": 5327,
+      "ort": "Bad Grund Harz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05328",
+      "ortsnetzkennzahl": 5328,
+      "ort": "Altenau Harz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05329",
+      "ortsnetzkennzahl": 5329,
+      "ort": "Schulenberg im Oberharz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05331",
+      "ortsnetzkennzahl": 5331,
+      "ort": "Wolfenbüttel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05332",
+      "ortsnetzkennzahl": 5332,
+      "ort": "Schöppenstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05333",
+      "ortsnetzkennzahl": 5333,
+      "ort": "Dettum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05334",
+      "ortsnetzkennzahl": 5334,
+      "ort": "Hornburg Kr Wolfenbüttel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05335",
+      "ortsnetzkennzahl": 5335,
+      "ort": "Schladen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05336",
+      "ortsnetzkennzahl": 5336,
+      "ort": "Semmenstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05337",
+      "ortsnetzkennzahl": 5337,
+      "ort": "Kissenbrück",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05339",
+      "ortsnetzkennzahl": 5339,
+      "ort": "Gielde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05341",
+      "ortsnetzkennzahl": 5341,
+      "ort": "Salzgitter",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05344",
+      "ortsnetzkennzahl": 5344,
+      "ort": "Lengede",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05345",
+      "ortsnetzkennzahl": 5345,
+      "ort": "Baddeckenstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05346",
+      "ortsnetzkennzahl": 5346,
+      "ort": "Liebenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05347",
+      "ortsnetzkennzahl": 5347,
+      "ort": "Burgdorf b Salzgitter",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05351",
+      "ortsnetzkennzahl": 5351,
+      "ort": "Helmstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05352",
+      "ortsnetzkennzahl": 5352,
+      "ort": "Schöningen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05353",
+      "ortsnetzkennzahl": 5353,
+      "ort": "Königslutter am Elm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05354",
+      "ortsnetzkennzahl": 5354,
+      "ort": "Jerxheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05355",
+      "ortsnetzkennzahl": 5355,
+      "ort": "Frellstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05356",
+      "ortsnetzkennzahl": 5356,
+      "ort": "Helmstedt-Barmke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05357",
+      "ortsnetzkennzahl": 5357,
+      "ort": "Grasleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05358",
+      "ortsnetzkennzahl": 5358,
+      "ort": "Bahrdorf-Mackendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05361",
+      "ortsnetzkennzahl": 5361,
+      "ort": "Wolfsburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05362",
+      "ortsnetzkennzahl": 5362,
+      "ort": "Wolfsburg-Fallersleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05363",
+      "ortsnetzkennzahl": 5363,
+      "ort": "Wolfsburg-Vorsfelde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05364",
+      "ortsnetzkennzahl": 5364,
+      "ort": "Velpke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05365",
+      "ortsnetzkennzahl": 5365,
+      "ort": "Wolfsburg-Neindorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05366",
+      "ortsnetzkennzahl": 5366,
+      "ort": "Jembke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05367",
+      "ortsnetzkennzahl": 5367,
+      "ort": "Rühen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05368",
+      "ortsnetzkennzahl": 5368,
+      "ort": "Parsau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05371",
+      "ortsnetzkennzahl": 5371,
+      "ort": "Gifhorn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05372",
+      "ortsnetzkennzahl": 5372,
+      "ort": "Meinersen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05373",
+      "ortsnetzkennzahl": 5373,
+      "ort": "Hillerse Kr Gifhorn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05374",
+      "ortsnetzkennzahl": 5374,
+      "ort": "Isenbüttel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05375",
+      "ortsnetzkennzahl": 5375,
+      "ort": "Müden Aller",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05376",
+      "ortsnetzkennzahl": 5376,
+      "ort": "Wesendorf Kr Gifhorn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05377",
+      "ortsnetzkennzahl": 5377,
+      "ort": "Ehra-Lessien",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05378",
+      "ortsnetzkennzahl": 5378,
+      "ort": "Sassenburg-Platendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05379",
+      "ortsnetzkennzahl": 5379,
+      "ort": "Sassenburg-Grussendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05381",
+      "ortsnetzkennzahl": 5381,
+      "ort": "Seesen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05382",
+      "ortsnetzkennzahl": 5382,
+      "ort": "Bad Gandersheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05383",
+      "ortsnetzkennzahl": 5383,
+      "ort": "Lutter am Barenberge",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05384",
+      "ortsnetzkennzahl": 5384,
+      "ort": "Seesen-Groß Rhüden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05401",
+      "ortsnetzkennzahl": 5401,
+      "ort": "Georgsmarienhütte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05402",
+      "ortsnetzkennzahl": 5402,
+      "ort": "Bissendorf Kr Osnabrück",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05403",
+      "ortsnetzkennzahl": 5403,
+      "ort": "Bad Iburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05404",
+      "ortsnetzkennzahl": 5404,
+      "ort": "Westerkappeln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05405",
+      "ortsnetzkennzahl": 5405,
+      "ort": "Hasbergen Kr Osnabrück",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05406",
+      "ortsnetzkennzahl": 5406,
+      "ort": "Belm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05407",
+      "ortsnetzkennzahl": 5407,
+      "ort": "Wallenhorst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05409",
+      "ortsnetzkennzahl": 5409,
+      "ort": "Hilter am Teutoburger Wald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05421",
+      "ortsnetzkennzahl": 5421,
+      "ort": "Dissen am Teutoburger Wald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05422",
+      "ortsnetzkennzahl": 5422,
+      "ort": "Melle",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05423",
+      "ortsnetzkennzahl": 5423,
+      "ort": "Versmold",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05424",
+      "ortsnetzkennzahl": 5424,
+      "ort": "Bad Rothenfelde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05425",
+      "ortsnetzkennzahl": 5425,
+      "ort": "Borgholzhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05426",
+      "ortsnetzkennzahl": 5426,
+      "ort": "Glandorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05427",
+      "ortsnetzkennzahl": 5427,
+      "ort": "Melle-Buer",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05428",
+      "ortsnetzkennzahl": 5428,
+      "ort": "Melle-Neuenkirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05429",
+      "ortsnetzkennzahl": 5429,
+      "ort": "Melle-Wellingholzhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05431",
+      "ortsnetzkennzahl": 5431,
+      "ort": "Quakenbrück",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05432",
+      "ortsnetzkennzahl": 5432,
+      "ort": "Löningen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05433",
+      "ortsnetzkennzahl": 5433,
+      "ort": "Badbergen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05434",
+      "ortsnetzkennzahl": 5434,
+      "ort": "Essen Oldenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05435",
+      "ortsnetzkennzahl": 5435,
+      "ort": "Berge b Quakenbrück",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05436",
+      "ortsnetzkennzahl": 5436,
+      "ort": "Nortrup",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05437",
+      "ortsnetzkennzahl": 5437,
+      "ort": "Menslage",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05438",
+      "ortsnetzkennzahl": 5438,
+      "ort": "Bakum-Lüsche",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05439",
+      "ortsnetzkennzahl": 5439,
+      "ort": "Bersenbrück",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05441",
+      "ortsnetzkennzahl": 5441,
+      "ort": "Diepholz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05442",
+      "ortsnetzkennzahl": 5442,
+      "ort": "Barnstorf Kr Diepholz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05443",
+      "ortsnetzkennzahl": 5443,
+      "ort": "Lemförde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05444",
+      "ortsnetzkennzahl": 5444,
+      "ort": "Wagenfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05445",
+      "ortsnetzkennzahl": 5445,
+      "ort": "Drebber",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05446",
+      "ortsnetzkennzahl": 5446,
+      "ort": "Rehden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05447",
+      "ortsnetzkennzahl": 5447,
+      "ort": "Lembruch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05448",
+      "ortsnetzkennzahl": 5448,
+      "ort": "Barver",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05451",
+      "ortsnetzkennzahl": 5451,
+      "ort": "Ibbenbüren",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05452",
+      "ortsnetzkennzahl": 5452,
+      "ort": "Mettingen Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05453",
+      "ortsnetzkennzahl": 5453,
+      "ort": "Recke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05454",
+      "ortsnetzkennzahl": 5454,
+      "ort": "Hörstel-Riesenbeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05455",
+      "ortsnetzkennzahl": 5455,
+      "ort": "Tecklenburg-Brochterbeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05456",
+      "ortsnetzkennzahl": 5456,
+      "ort": "Westerkappeln-Velpe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05457",
+      "ortsnetzkennzahl": 5457,
+      "ort": "Hopsten-Schale",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05458",
+      "ortsnetzkennzahl": 5458,
+      "ort": "Hopsten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05459",
+      "ortsnetzkennzahl": 5459,
+      "ort": "Hörstel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05461",
+      "ortsnetzkennzahl": 5461,
+      "ort": "Bramsche Hase",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05462",
+      "ortsnetzkennzahl": 5462,
+      "ort": "Ankum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05464",
+      "ortsnetzkennzahl": 5464,
+      "ort": "Alfhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05465",
+      "ortsnetzkennzahl": 5465,
+      "ort": "Neuenkirchen b Bramsche",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05466",
+      "ortsnetzkennzahl": 5466,
+      "ort": "Merzen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05467",
+      "ortsnetzkennzahl": 5467,
+      "ort": "Voltlage",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05468",
+      "ortsnetzkennzahl": 5468,
+      "ort": "Bramsche-Engter",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05471",
+      "ortsnetzkennzahl": 5471,
+      "ort": "Bohmte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05472",
+      "ortsnetzkennzahl": 5472,
+      "ort": "Bad Essen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05473",
+      "ortsnetzkennzahl": 5473,
+      "ort": "Ostercappeln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05474",
+      "ortsnetzkennzahl": 5474,
+      "ort": "Stemwede-Dielingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05475",
+      "ortsnetzkennzahl": 5475,
+      "ort": "Bohmte-Hunteburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05476",
+      "ortsnetzkennzahl": 5476,
+      "ort": "Ostercappeln-Venne",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05481",
+      "ortsnetzkennzahl": 5481,
+      "ort": "Lengerich Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05482",
+      "ortsnetzkennzahl": 5482,
+      "ort": "Tecklenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05483",
+      "ortsnetzkennzahl": 5483,
+      "ort": "Lienen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05484",
+      "ortsnetzkennzahl": 5484,
+      "ort": "Lienen-Kattenvenne",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05485",
+      "ortsnetzkennzahl": 5485,
+      "ort": "Ladbergen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05491",
+      "ortsnetzkennzahl": 5491,
+      "ort": "Damme Dümmer",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05492",
+      "ortsnetzkennzahl": 5492,
+      "ort": "Steinfeld Oldenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05493",
+      "ortsnetzkennzahl": 5493,
+      "ort": "Neuenkirchen Kr Vechta",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05494",
+      "ortsnetzkennzahl": 5494,
+      "ort": "Holdorf Niedersachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05495",
+      "ortsnetzkennzahl": 5495,
+      "ort": "Vörden Kr Vechta",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05502",
+      "ortsnetzkennzahl": 5502,
+      "ort": "Dransfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05503",
+      "ortsnetzkennzahl": 5503,
+      "ort": "Nörten-Hardenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05504",
+      "ortsnetzkennzahl": 5504,
+      "ort": "Friedland Kr Göttingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05505",
+      "ortsnetzkennzahl": 5505,
+      "ort": "Hardegsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05506",
+      "ortsnetzkennzahl": 5506,
+      "ort": "Adelebsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05507",
+      "ortsnetzkennzahl": 5507,
+      "ort": "Ebergötzen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05508",
+      "ortsnetzkennzahl": 5508,
+      "ort": "Gleichen-Rittmarshausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05509",
+      "ortsnetzkennzahl": 5509,
+      "ort": "Rosdorf Kr Göttingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05520",
+      "ortsnetzkennzahl": 5520,
+      "ort": "Braunlage",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05521",
+      "ortsnetzkennzahl": 5521,
+      "ort": "Herzberg am Harz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05522",
+      "ortsnetzkennzahl": 5522,
+      "ort": "Osterode am Harz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05523",
+      "ortsnetzkennzahl": 5523,
+      "ort": "Bad Sachsa",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05524",
+      "ortsnetzkennzahl": 5524,
+      "ort": "Bad Lauterberg im Harz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05525",
+      "ortsnetzkennzahl": 5525,
+      "ort": "Walkenried",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05527",
+      "ortsnetzkennzahl": 5527,
+      "ort": "Duderstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05528",
+      "ortsnetzkennzahl": 5528,
+      "ort": "Gieboldehausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05529",
+      "ortsnetzkennzahl": 5529,
+      "ort": "Rhumspringe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05531",
+      "ortsnetzkennzahl": 5531,
+      "ort": "Holzminden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05532",
+      "ortsnetzkennzahl": 5532,
+      "ort": "Stadtoldendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05533",
+      "ortsnetzkennzahl": 5533,
+      "ort": "Bodenwerder",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05534",
+      "ortsnetzkennzahl": 5534,
+      "ort": "Eschershausen a d Lenne",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05535",
+      "ortsnetzkennzahl": 5535,
+      "ort": "Polle",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05536",
+      "ortsnetzkennzahl": 5536,
+      "ort": "Holzminden-Neuhaus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05541",
+      "ortsnetzkennzahl": 5541,
+      "ort": "Hann. Münden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05542",
+      "ortsnetzkennzahl": 5542,
+      "ort": "Witzenhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05543",
+      "ortsnetzkennzahl": 5543,
+      "ort": "Staufenberg Niedersachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05544",
+      "ortsnetzkennzahl": 5544,
+      "ort": "Reinhardshagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05545",
+      "ortsnetzkennzahl": 5545,
+      "ort": "Hedemünden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05546",
+      "ortsnetzkennzahl": 5546,
+      "ort": "Scheden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05551",
+      "ortsnetzkennzahl": 5551,
+      "ort": "Northeim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05552",
+      "ortsnetzkennzahl": 5552,
+      "ort": "Katlenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05553",
+      "ortsnetzkennzahl": 5553,
+      "ort": "Kalefeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05554",
+      "ortsnetzkennzahl": 5554,
+      "ort": "Moringen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05555",
+      "ortsnetzkennzahl": 5555,
+      "ort": "Moringen-Fredelsloh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05556",
+      "ortsnetzkennzahl": 5556,
+      "ort": "Lindau Harz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05561",
+      "ortsnetzkennzahl": 5561,
+      "ort": "Einbeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05562",
+      "ortsnetzkennzahl": 5562,
+      "ort": "Dassel-Markoldendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05563",
+      "ortsnetzkennzahl": 5563,
+      "ort": "Kreiensen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05564",
+      "ortsnetzkennzahl": 5564,
+      "ort": "Dassel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05565",
+      "ortsnetzkennzahl": 5565,
+      "ort": "Einbeck-Wenzen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05571",
+      "ortsnetzkennzahl": 5571,
+      "ort": "Uslar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05572",
+      "ortsnetzkennzahl": 5572,
+      "ort": "Bodenfelde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05573",
+      "ortsnetzkennzahl": 5573,
+      "ort": "Uslar-Volpriehausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05574",
+      "ortsnetzkennzahl": 5574,
+      "ort": "Oberweser",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05582",
+      "ortsnetzkennzahl": 5582,
+      "ort": "Sankt Andreasberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05583",
+      "ortsnetzkennzahl": 5583,
+      "ort": "Braunlage-Hohegeiss",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05584",
+      "ortsnetzkennzahl": 5584,
+      "ort": "Hattorf am Harz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05585",
+      "ortsnetzkennzahl": 5585,
+      "ort": "Herzberg-Sieber",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05586",
+      "ortsnetzkennzahl": 5586,
+      "ort": "Wieda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05592",
+      "ortsnetzkennzahl": 5592,
+      "ort": "Gleichen-Bremke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05593",
+      "ortsnetzkennzahl": 5593,
+      "ort": "Bovenden-Lenglern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05594",
+      "ortsnetzkennzahl": 5594,
+      "ort": "Bovenden-Reyershausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05601",
+      "ortsnetzkennzahl": 5601,
+      "ort": "Schauenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05602",
+      "ortsnetzkennzahl": 5602,
+      "ort": "Hessisch Lichtenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05603",
+      "ortsnetzkennzahl": 5603,
+      "ort": "Gudensberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05604",
+      "ortsnetzkennzahl": 5604,
+      "ort": "Grossalmerode",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05605",
+      "ortsnetzkennzahl": 5605,
+      "ort": "Kaufungen Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05606",
+      "ortsnetzkennzahl": 5606,
+      "ort": "Zierenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05607",
+      "ortsnetzkennzahl": 5607,
+      "ort": "Fuldatal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05608",
+      "ortsnetzkennzahl": 5608,
+      "ort": "Söhrewald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05609",
+      "ortsnetzkennzahl": 5609,
+      "ort": "Ahnatal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05621",
+      "ortsnetzkennzahl": 5621,
+      "ort": "Bad Wildungen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05622",
+      "ortsnetzkennzahl": 5622,
+      "ort": "Fritzlar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05623",
+      "ortsnetzkennzahl": 5623,
+      "ort": "Edertal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05624",
+      "ortsnetzkennzahl": 5624,
+      "ort": "Bad Emstal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05625",
+      "ortsnetzkennzahl": 5625,
+      "ort": "Naumburg Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05626",
+      "ortsnetzkennzahl": 5626,
+      "ort": "Bad Zwesten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05631",
+      "ortsnetzkennzahl": 5631,
+      "ort": "Korbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05632",
+      "ortsnetzkennzahl": 5632,
+      "ort": "Willingen Upland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05633",
+      "ortsnetzkennzahl": 5633,
+      "ort": "Diemelsee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05634",
+      "ortsnetzkennzahl": 5634,
+      "ort": "Waldeck-Sachsenhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05635",
+      "ortsnetzkennzahl": 5635,
+      "ort": "Vöhl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05636",
+      "ortsnetzkennzahl": 5636,
+      "ort": "Lichtenfels-Goddelsheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05641",
+      "ortsnetzkennzahl": 5641,
+      "ort": "Warburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05642",
+      "ortsnetzkennzahl": 5642,
+      "ort": "Warburg-Scherfede",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05643",
+      "ortsnetzkennzahl": 5643,
+      "ort": "Borgentreich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05644",
+      "ortsnetzkennzahl": 5644,
+      "ort": "Willebadessen-Peckelsheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05645",
+      "ortsnetzkennzahl": 5645,
+      "ort": "Borgentreich-Borgholz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05646",
+      "ortsnetzkennzahl": 5646,
+      "ort": "Willebadessen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05647",
+      "ortsnetzkennzahl": 5647,
+      "ort": "Lichtenau-Kleinenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05648",
+      "ortsnetzkennzahl": 5648,
+      "ort": "Brakel-Gehrden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05650",
+      "ortsnetzkennzahl": 5650,
+      "ort": "Cornberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05651",
+      "ortsnetzkennzahl": 5651,
+      "ort": "Eschwege",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05652",
+      "ortsnetzkennzahl": 5652,
+      "ort": "Bad Sooden-Allendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05653",
+      "ortsnetzkennzahl": 5653,
+      "ort": "Sontra",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05654",
+      "ortsnetzkennzahl": 5654,
+      "ort": "Herleshausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05655",
+      "ortsnetzkennzahl": 5655,
+      "ort": "Wanfried",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05656",
+      "ortsnetzkennzahl": 5656,
+      "ort": "Waldkappel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05657",
+      "ortsnetzkennzahl": 5657,
+      "ort": "Meissner",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05658",
+      "ortsnetzkennzahl": 5658,
+      "ort": "Wehretal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05659",
+      "ortsnetzkennzahl": 5659,
+      "ort": "Ringgau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05661",
+      "ortsnetzkennzahl": 5661,
+      "ort": "Melsungen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05662",
+      "ortsnetzkennzahl": 5662,
+      "ort": "Felsberg Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05663",
+      "ortsnetzkennzahl": 5663,
+      "ort": "Spangenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05664",
+      "ortsnetzkennzahl": 5664,
+      "ort": "Morschen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05665",
+      "ortsnetzkennzahl": 5665,
+      "ort": "Guxhagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05671",
+      "ortsnetzkennzahl": 5671,
+      "ort": "Hofgeismar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05672",
+      "ortsnetzkennzahl": 5672,
+      "ort": "Bad Karlshafen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05673",
+      "ortsnetzkennzahl": 5673,
+      "ort": "Immenhausen Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05674",
+      "ortsnetzkennzahl": 5674,
+      "ort": "Grebenstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05675",
+      "ortsnetzkennzahl": 5675,
+      "ort": "Trendelburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05676",
+      "ortsnetzkennzahl": 5676,
+      "ort": "Liebenau Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05677",
+      "ortsnetzkennzahl": 5677,
+      "ort": "Calden-Westuffeln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05681",
+      "ortsnetzkennzahl": 5681,
+      "ort": "Homberg Efze",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05682",
+      "ortsnetzkennzahl": 5682,
+      "ort": "Borken Hessen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05683",
+      "ortsnetzkennzahl": 5683,
+      "ort": "Wabern Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05684",
+      "ortsnetzkennzahl": 5684,
+      "ort": "Frielendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05685",
+      "ortsnetzkennzahl": 5685,
+      "ort": "Knüllwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05686",
+      "ortsnetzkennzahl": 5686,
+      "ort": "Schwarzenborn Knüll",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05691",
+      "ortsnetzkennzahl": 5691,
+      "ort": "Bad Arolsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05692",
+      "ortsnetzkennzahl": 5692,
+      "ort": "Wolfhagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05693",
+      "ortsnetzkennzahl": 5693,
+      "ort": "Volkmarsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05694",
+      "ortsnetzkennzahl": 5694,
+      "ort": "Diemelstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05695",
+      "ortsnetzkennzahl": 5695,
+      "ort": "Twistetal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05696",
+      "ortsnetzkennzahl": 5696,
+      "ort": "Bad Arolsen-Landau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05702",
+      "ortsnetzkennzahl": 5702,
+      "ort": "Petershagen-Lahde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05703",
+      "ortsnetzkennzahl": 5703,
+      "ort": "Hille",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05704",
+      "ortsnetzkennzahl": 5704,
+      "ort": "Petershagen-Friedewalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05705",
+      "ortsnetzkennzahl": 5705,
+      "ort": "Petershagen-Windheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05706",
+      "ortsnetzkennzahl": 5706,
+      "ort": "Porta Westfalica",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05707",
+      "ortsnetzkennzahl": 5707,
+      "ort": "Petershagen Weser",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05721",
+      "ortsnetzkennzahl": 5721,
+      "ort": "Stadthagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05722",
+      "ortsnetzkennzahl": 5722,
+      "ort": "Bückeburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05723",
+      "ortsnetzkennzahl": 5723,
+      "ort": "Bad Nenndorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05724",
+      "ortsnetzkennzahl": 5724,
+      "ort": "Obernkirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05725",
+      "ortsnetzkennzahl": 5725,
+      "ort": "Lindhorst b Stadthagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05726",
+      "ortsnetzkennzahl": 5726,
+      "ort": "Wiedensahl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05731",
+      "ortsnetzkennzahl": 5731,
+      "ort": "Bad Oeynhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05732",
+      "ortsnetzkennzahl": 5732,
+      "ort": "Löhne",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05733",
+      "ortsnetzkennzahl": 5733,
+      "ort": "Vlotho",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05734",
+      "ortsnetzkennzahl": 5734,
+      "ort": "Bergkirchen Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05741",
+      "ortsnetzkennzahl": 5741,
+      "ort": "Lübbecke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05742",
+      "ortsnetzkennzahl": 5742,
+      "ort": "Preussisch Oldendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05743",
+      "ortsnetzkennzahl": 5743,
+      "ort": "Espelkamp-Gestringen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05744",
+      "ortsnetzkennzahl": 5744,
+      "ort": "Hüllhorst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05745",
+      "ortsnetzkennzahl": 5745,
+      "ort": "Stemwede-Levern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05746",
+      "ortsnetzkennzahl": 5746,
+      "ort": "Rödinghausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05751",
+      "ortsnetzkennzahl": 5751,
+      "ort": "Rinteln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05752",
+      "ortsnetzkennzahl": 5752,
+      "ort": "Auetal-Hattendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05753",
+      "ortsnetzkennzahl": 5753,
+      "ort": "Auetal-Bernsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05754",
+      "ortsnetzkennzahl": 5754,
+      "ort": "Extertal-Bremke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05755",
+      "ortsnetzkennzahl": 5755,
+      "ort": "Kalletal-Varenholz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05761",
+      "ortsnetzkennzahl": 5761,
+      "ort": "Stolzenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05763",
+      "ortsnetzkennzahl": 5763,
+      "ort": "Uchte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05764",
+      "ortsnetzkennzahl": 5764,
+      "ort": "Steyerberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05765",
+      "ortsnetzkennzahl": 5765,
+      "ort": "Raddestorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05766",
+      "ortsnetzkennzahl": 5766,
+      "ort": "Rehburg-Loccum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05767",
+      "ortsnetzkennzahl": 5767,
+      "ort": "Warmsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05768",
+      "ortsnetzkennzahl": 5768,
+      "ort": "Petershagen-Heimsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05769",
+      "ortsnetzkennzahl": 5769,
+      "ort": "Steyerberg-Voigtei",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05771",
+      "ortsnetzkennzahl": 5771,
+      "ort": "Rahden Westf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05772",
+      "ortsnetzkennzahl": 5772,
+      "ort": "Espelkamp",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05773",
+      "ortsnetzkennzahl": 5773,
+      "ort": "Stemwede-Wehdem",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05774",
+      "ortsnetzkennzahl": 5774,
+      "ort": "Wagenfeld-Ströhen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05775",
+      "ortsnetzkennzahl": 5775,
+      "ort": "Diepenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05776",
+      "ortsnetzkennzahl": 5776,
+      "ort": "Preussisch Ströhen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05777",
+      "ortsnetzkennzahl": 5777,
+      "ort": "Diepenau-Essern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05802",
+      "ortsnetzkennzahl": 5802,
+      "ort": "Wrestedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05803",
+      "ortsnetzkennzahl": 5803,
+      "ort": "Rosche",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05804",
+      "ortsnetzkennzahl": 5804,
+      "ort": "Rätzlingen Kr Uelzen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05805",
+      "ortsnetzkennzahl": 5805,
+      "ort": "Oetzen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05806",
+      "ortsnetzkennzahl": 5806,
+      "ort": "Barum b Bad Bevensen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05807",
+      "ortsnetzkennzahl": 5807,
+      "ort": "Altenmedingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05808",
+      "ortsnetzkennzahl": 5808,
+      "ort": "Gerdau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05820",
+      "ortsnetzkennzahl": 5820,
+      "ort": "Suhlendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05821",
+      "ortsnetzkennzahl": 5821,
+      "ort": "Bad Bevensen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05822",
+      "ortsnetzkennzahl": 5822,
+      "ort": "Ebstorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05823",
+      "ortsnetzkennzahl": 5823,
+      "ort": "Bienenbüttel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05824",
+      "ortsnetzkennzahl": 5824,
+      "ort": "Bad Bodenteich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05825",
+      "ortsnetzkennzahl": 5825,
+      "ort": "Wieren",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05826",
+      "ortsnetzkennzahl": 5826,
+      "ort": "Suderburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05827",
+      "ortsnetzkennzahl": 5827,
+      "ort": "Unterlüß",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05828",
+      "ortsnetzkennzahl": 5828,
+      "ort": "Himbergen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05829",
+      "ortsnetzkennzahl": 5829,
+      "ort": "Wriedel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05831",
+      "ortsnetzkennzahl": 5831,
+      "ort": "Wittingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05832",
+      "ortsnetzkennzahl": 5832,
+      "ort": "Hankensbüttel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05833",
+      "ortsnetzkennzahl": 5833,
+      "ort": "Brome",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05834",
+      "ortsnetzkennzahl": 5834,
+      "ort": "Wittingen-Knesebeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05835",
+      "ortsnetzkennzahl": 5835,
+      "ort": "Wahrenholz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05836",
+      "ortsnetzkennzahl": 5836,
+      "ort": "Wittingen-Radenbeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05837",
+      "ortsnetzkennzahl": 5837,
+      "ort": "Sprakensehl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05838",
+      "ortsnetzkennzahl": 5838,
+      "ort": "Gross Oesingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05839",
+      "ortsnetzkennzahl": 5839,
+      "ort": "Wittingen-Ohrdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05840",
+      "ortsnetzkennzahl": 5840,
+      "ort": "Schnackenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05841",
+      "ortsnetzkennzahl": 5841,
+      "ort": "Lüchow Wendland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05842",
+      "ortsnetzkennzahl": 5842,
+      "ort": "Schnega",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05843",
+      "ortsnetzkennzahl": 5843,
+      "ort": "Wustrow Wendland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05844",
+      "ortsnetzkennzahl": 5844,
+      "ort": "Clenze",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05845",
+      "ortsnetzkennzahl": 5845,
+      "ort": "Bergen Dumme",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05846",
+      "ortsnetzkennzahl": 5846,
+      "ort": "Gartow Niedersachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05848",
+      "ortsnetzkennzahl": 5848,
+      "ort": "Trebel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05849",
+      "ortsnetzkennzahl": 5849,
+      "ort": "Waddeweitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05850",
+      "ortsnetzkennzahl": 5850,
+      "ort": "Neetze",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05851",
+      "ortsnetzkennzahl": 5851,
+      "ort": "Dahlenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05852",
+      "ortsnetzkennzahl": 5852,
+      "ort": "Bleckede",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05853",
+      "ortsnetzkennzahl": 5853,
+      "ort": "Neu Darchau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05854",
+      "ortsnetzkennzahl": 5854,
+      "ort": "Bleckede-Barskamp",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05855",
+      "ortsnetzkennzahl": 5855,
+      "ort": "Nahrendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05857",
+      "ortsnetzkennzahl": 5857,
+      "ort": "Bleckede-Brackede",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05858",
+      "ortsnetzkennzahl": 5858,
+      "ort": "Hitzacker-Wietzetze",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05859",
+      "ortsnetzkennzahl": 5859,
+      "ort": "Thomasburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05861",
+      "ortsnetzkennzahl": 5861,
+      "ort": "Dannenberg Elbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05862",
+      "ortsnetzkennzahl": 5862,
+      "ort": "Hitzacker Elbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05863",
+      "ortsnetzkennzahl": 5863,
+      "ort": "Zernien",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05864",
+      "ortsnetzkennzahl": 5864,
+      "ort": "Jameln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05865",
+      "ortsnetzkennzahl": 5865,
+      "ort": "Gusborn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05872",
+      "ortsnetzkennzahl": 5872,
+      "ort": "Stoetze",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05873",
+      "ortsnetzkennzahl": 5873,
+      "ort": "Eimke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05874",
+      "ortsnetzkennzahl": 5874,
+      "ort": "Soltendieck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05875",
+      "ortsnetzkennzahl": 5875,
+      "ort": "Emmendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05882",
+      "ortsnetzkennzahl": 5882,
+      "ort": "Gorleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05883",
+      "ortsnetzkennzahl": 5883,
+      "ort": "Lemgow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05901",
+      "ortsnetzkennzahl": 5901,
+      "ort": "Fürstenau b Bramsche",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05902",
+      "ortsnetzkennzahl": 5902,
+      "ort": "Freren",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05903",
+      "ortsnetzkennzahl": 5903,
+      "ort": "Emsbüren",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05904",
+      "ortsnetzkennzahl": 5904,
+      "ort": "Lengerich Emsl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05905",
+      "ortsnetzkennzahl": 5905,
+      "ort": "Beesten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05906",
+      "ortsnetzkennzahl": 5906,
+      "ort": "Lünne",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05907",
+      "ortsnetzkennzahl": 5907,
+      "ort": "Geeste",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05908",
+      "ortsnetzkennzahl": 5908,
+      "ort": "Wietmarschen-Lohne",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05909",
+      "ortsnetzkennzahl": 5909,
+      "ort": "Wettrup",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05921",
+      "ortsnetzkennzahl": 5921,
+      "ort": "Nordhorn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05922",
+      "ortsnetzkennzahl": 5922,
+      "ort": "Bad Bentheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05923",
+      "ortsnetzkennzahl": 5923,
+      "ort": "Schüttorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05924",
+      "ortsnetzkennzahl": 5924,
+      "ort": "Bad Bentheim-Gildehaus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05925",
+      "ortsnetzkennzahl": 5925,
+      "ort": "Wietmarschen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05926",
+      "ortsnetzkennzahl": 5926,
+      "ort": "Engden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05931",
+      "ortsnetzkennzahl": 5931,
+      "ort": "Meppen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05932",
+      "ortsnetzkennzahl": 5932,
+      "ort": "Haren Ems",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05933",
+      "ortsnetzkennzahl": 5933,
+      "ort": "Lathen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05934",
+      "ortsnetzkennzahl": 5934,
+      "ort": "Haren-Rütenbrock",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05935",
+      "ortsnetzkennzahl": 5935,
+      "ort": "Twist-Schöninghsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05936",
+      "ortsnetzkennzahl": 5936,
+      "ort": "Twist",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05937",
+      "ortsnetzkennzahl": 5937,
+      "ort": "Geeste-Gross Hesepe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05939",
+      "ortsnetzkennzahl": 5939,
+      "ort": "Sustrum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05941",
+      "ortsnetzkennzahl": 5941,
+      "ort": "Neuenhaus Dinkel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05942",
+      "ortsnetzkennzahl": 5942,
+      "ort": "Uelsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05943",
+      "ortsnetzkennzahl": 5943,
+      "ort": "Emlichheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05944",
+      "ortsnetzkennzahl": 5944,
+      "ort": "Hoogstede",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05945",
+      "ortsnetzkennzahl": 5945,
+      "ort": "Wilsum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05946",
+      "ortsnetzkennzahl": 5946,
+      "ort": "Georgsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05947",
+      "ortsnetzkennzahl": 5947,
+      "ort": "Laar Vechte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05948",
+      "ortsnetzkennzahl": 5948,
+      "ort": "Itterbeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05951",
+      "ortsnetzkennzahl": 5951,
+      "ort": "Werlte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05952",
+      "ortsnetzkennzahl": 5952,
+      "ort": "Sögel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05953",
+      "ortsnetzkennzahl": 5953,
+      "ort": "Börger",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05954",
+      "ortsnetzkennzahl": 5954,
+      "ort": "Lorup",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05955",
+      "ortsnetzkennzahl": 5955,
+      "ort": "Esterwegen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05956",
+      "ortsnetzkennzahl": 5956,
+      "ort": "Rastdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05957",
+      "ortsnetzkennzahl": 5957,
+      "ort": "Lindern Oldenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05961",
+      "ortsnetzkennzahl": 5961,
+      "ort": "Haselünne",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05962",
+      "ortsnetzkennzahl": 5962,
+      "ort": "Herzlake",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05963",
+      "ortsnetzkennzahl": 5963,
+      "ort": "Bawinkel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05964",
+      "ortsnetzkennzahl": 5964,
+      "ort": "Lähden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05965",
+      "ortsnetzkennzahl": 5965,
+      "ort": "Klein Berssen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05966",
+      "ortsnetzkennzahl": 5966,
+      "ort": "Meppen-Apeldorn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05971",
+      "ortsnetzkennzahl": 5971,
+      "ort": "Rheine",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05973",
+      "ortsnetzkennzahl": 5973,
+      "ort": "Neuenkirchen Kr Steinfurt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05975",
+      "ortsnetzkennzahl": 5975,
+      "ort": "Rheine-Mesum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05976",
+      "ortsnetzkennzahl": 5976,
+      "ort": "Salzbergen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05977",
+      "ortsnetzkennzahl": 5977,
+      "ort": "Spelle",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "05978",
+      "ortsnetzkennzahl": 5978,
+      "ort": "Hörstel-Dreierwalde",
+      "aktiv": true
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Vorwahlen — Bereich 5 (führende Ziffer 5) - Kostenloser Download",
+    "description": "Ortsnetzkennzahlen mit führender Ziffer 5 aus dem deutschen Nummerierungsbereich. Geografischer Schwerpunkt: Niedersachsen (Mitte), Nordrhein-Westfalen (Ostwestfalen-Lippe). Insgesamt 577 Einträge. Enthält 577 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Deutsche Vorwahlen — Bereich 5 (führende Ziffer 5) | ListBase",
+    "seo_description": "Herunterladen Deutsche Vorwahlen — Bereich 5 (führende Ziffer 5) — 577 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 577 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

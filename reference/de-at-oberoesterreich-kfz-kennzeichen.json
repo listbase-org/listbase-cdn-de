@@ -1,0 +1,223 @@
+{
+  "id": "de-at-oberoesterreich-kfz-kennzeichen",
+  "name": "Kfz-Kennzeichen Oberösterreich (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke",
+  "title": "Kfz-Kennzeichen Oberösterreich (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke",
+  "description": "Alle in Oberösterreich (AT-4) gültigen österreichischen Unterscheidungszeichen mit Zulassungsbezirk und Zulassungsbehörde. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = AT-4).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "unterscheidungszeichen",
+      "label": "Unterscheidungszeichen",
+      "type": "string"
+    },
+    {
+      "key": "zulassungsbezirk",
+      "label": "Zulassungsbezirk",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_name",
+      "label": "Bundesland Name",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_iso_3166_2",
+      "label": "Bundesland Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "zulassungsbehoerde",
+      "label": "Zulassungsbehoerde",
+      "type": "string"
+    },
+    {
+      "key": "nationalitaetszeichen",
+      "label": "Nationalitaetszeichen",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unterscheidungszeichen": "L",
+      "zulassungsbezirk": "Linz – Stadt",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "Landespolizeidirektion Oberösterreich für das Gebiet der Gemeinde Linz",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "BR",
+      "zulassungsbezirk": "Braunau",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Braunau am Inn",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "EF",
+      "zulassungsbezirk": "Eferding",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Eferding",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "FR",
+      "zulassungsbezirk": "Freistadt",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Freistadt",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "GM",
+      "zulassungsbezirk": "Gmunden",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Gmunden",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "GR",
+      "zulassungsbezirk": "Grieskirchen",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Grieskirchen",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "KI",
+      "zulassungsbezirk": "Kirchdorf an der Krems",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Kirchdorf an der Krems",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "LL",
+      "zulassungsbezirk": "Linz/Land",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Linz-Land",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "PE",
+      "zulassungsbezirk": "Perg",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Perg",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "RI",
+      "zulassungsbezirk": "Ried im Innkreis",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Ried im Innkreis",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "RO",
+      "zulassungsbezirk": "Rohrbach",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Rohrbach im Mühlkreis",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "SD",
+      "zulassungsbezirk": "Schärding",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Schärding",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "SE",
+      "zulassungsbezirk": "Steyr/Land",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Steyr-Land",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "SR",
+      "zulassungsbezirk": "Steyr – Stadt",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "Landespolizeidirektion Oberösterreich für das Gebiet der Gemeinde Steyr",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "UU",
+      "zulassungsbezirk": "Urfahr/Umgebung",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Urfahr-Umgebung",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "VB",
+      "zulassungsbezirk": "Vöcklabruck",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Vöcklabruck",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "WE",
+      "zulassungsbezirk": "Wels – Stadt",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "Landespolizeidirektion Oberösterreich für das Gebiet der Gemeinde Wels",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "WL",
+      "zulassungsbezirk": "Wels/Land",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Wels",
+      "nationalitaetszeichen": "A"
+    }
+  ],
+  "meta": {
+    "title": "Kfz-Kennzeichen Oberösterreich (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke - Kostenloser Download",
+    "description": "Alle in Oberösterreich (AT-4) gültigen österreichischen Unterscheidungszeichen mit Zulassungsbezirk und Zulassungsbehörde. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = AT-4). Enthält 18 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Kfz-Kennzeichen Oberösterreich (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke | ListBase",
+    "seo_description": "Herunterladen Kfz-Kennzeichen Oberösterreich (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke — 18 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 18 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

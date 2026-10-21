@@ -1,0 +1,96 @@
+{
+  "id": "de-zeitzonen-indian",
+  "name": "Zeitzonen — Indian (5)",
+  "title": "Zeitzonen — Indian (5)",
+  "description": "Zeitzonen, deren IANA-Identifikator mit 'Indian/' beginnt, mit Namen auf Deutsch.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "stadt",
+      "label": "Stadt",
+      "type": "string"
+    },
+    {
+      "key": "standardname",
+      "label": "Standardname",
+      "type": "string"
+    },
+    {
+      "key": "sommername",
+      "label": "Sommername",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Indian/Christmas",
+      "region": "Indian",
+      "stadt": "Weihnachtsinsel",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Indian/Comoro",
+      "region": "Indian",
+      "stadt": "Komoren",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Indian/Mahe",
+      "region": "Indian",
+      "stadt": "Mahé",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Indian/Maldives",
+      "region": "Indian",
+      "stadt": "Malediven",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Indian/Reunion",
+      "region": "Indian",
+      "stadt": "Réunion",
+      "standardname": "",
+      "sommername": ""
+    }
+  ],
+  "meta": {
+    "title": "Zeitzonen — Indian (5) - Kostenloser Download",
+    "description": "Zeitzonen, deren IANA-Identifikator mit 'Indian/' beginnt, mit Namen auf Deutsch. Enthält 5 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Zeitzonen — Indian (5) | ListBase",
+    "seo_description": "Herunterladen Zeitzonen — Indian (5) — 5 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 5 Datensätze / 6 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

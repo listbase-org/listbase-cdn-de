@@ -1,0 +1,112 @@
+{
+  "id": "de-zeitzonen-atlantic",
+  "name": "Zeitzonen — Atlantic (7)",
+  "title": "Zeitzonen — Atlantic (7)",
+  "description": "Zeitzonen, deren IANA-Identifikator mit 'Atlantic/' beginnt, mit Namen auf Deutsch.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "stadt",
+      "label": "Stadt",
+      "type": "string"
+    },
+    {
+      "key": "standardname",
+      "label": "Standardname",
+      "type": "string"
+    },
+    {
+      "key": "sommername",
+      "label": "Sommername",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Atlantic/Azores",
+      "region": "Atlantic",
+      "stadt": "Azoren",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Atlantic/Canary",
+      "region": "Atlantic",
+      "stadt": "Kanaren",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Atlantic/Cape_Verde",
+      "region": "Atlantic",
+      "stadt": "Cabo Verde",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Atlantic/Faeroe",
+      "region": "Atlantic",
+      "stadt": "Färöer",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Atlantic/Reykjavik",
+      "region": "Atlantic",
+      "stadt": "Reyk­ja­vík",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Atlantic/South_Georgia",
+      "region": "Atlantic",
+      "stadt": "Südgeorgien",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Atlantic/St_Helena",
+      "region": "Atlantic",
+      "stadt": "St. Helena",
+      "standardname": "",
+      "sommername": ""
+    }
+  ],
+  "meta": {
+    "title": "Zeitzonen — Atlantic (7) - Kostenloser Download",
+    "description": "Zeitzonen, deren IANA-Identifikator mit 'Atlantic/' beginnt, mit Namen auf Deutsch. Enthält 7 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Zeitzonen — Atlantic (7) | ListBase",
+    "seo_description": "Herunterladen Zeitzonen — Atlantic (7) — 7 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 7 Datensätze / 6 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

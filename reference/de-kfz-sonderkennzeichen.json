@@ -1,0 +1,233 @@
+{
+  "id": "de-kfz-sonderkennzeichen",
+  "name": "Sonderkennzeichen Deutschland — Bundes-, Polizei- und Diplomatenkennzeichen",
+  "title": "Sonderkennzeichen Deutschland — Bundes-, Polizei- und Diplomatenkennzeichen",
+  "description": "Sonder-Unterscheidungszeichen, die nicht einem Verwaltungsbezirk, sondern einer Bundesinstitution (Bundestag, Bundespräsidialamt, Bundesregierung, Bundesfinanzverwaltung), den Streitkräften (Y, X), der Bundespolizei (BP, BG), dem Technischen Hilfswerk (THW) oder Diplomaten (0) zugeordnet sind. Quelle: openpotato/kfz-kennzeichen (src/de/sonderkennzeichen.csv).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "unterscheidungszeichen",
+      "label": "Unterscheidungszeichen",
+      "type": "number"
+    },
+    {
+      "key": "typ",
+      "label": "Typ",
+      "type": "string"
+    },
+    {
+      "key": "bedeutung",
+      "label": "Bedeutung",
+      "type": "string"
+    },
+    {
+      "key": "zulassungsbehoerde",
+      "label": "Zulassungsbehoerde",
+      "type": "string"
+    },
+    {
+      "key": "nationalitaetszeichen",
+      "label": "Nationalitaetszeichen",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unterscheidungszeichen": "0",
+      "typ": "Diplo",
+      "bedeutung": "Diplomatische Vertretungen oder internationale Organisationen und in Abhängigkeit vom Status der bevorrechtigten Person",
+      "zulassungsbehoerde": "Zulassungsbehörde Berlin, Zulassungsbehörde Bonn, Stadt",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "B",
+      "typ": "Länder",
+      "bedeutung": "Berlin Senat und Abgeordnetenhaus",
+      "zulassungsbehoerde": "Zulassungsbehörde Berlin",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "B",
+      "typ": "Diplo",
+      "bedeutung": "Diplomatische Vertretungen oder internationale Organisationen und in Abhängigkeit vom Status der bevorrechtigten Person",
+      "zulassungsbehoerde": "Zulassungsbehörde Berlin, Zulassungsbehörde Bonn, Stadt",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "X",
+      "typ": "Bund",
+      "bedeutung": "Dienstfahrzeuge der auf Grund des Nordatlantikvertrages errichteten internationalen militärischen Hauptquartiere, die ihren regelmäßigen Standort in der Bundesrepublik Deutschland haben",
+      "zulassungsbehoerde": "Zentrale Militärkraftfahrtstelle – ZMK, Hardter Straße 9, 41179 Mönchengladbach/Rheindahlen",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "Y",
+      "typ": "Bund",
+      "bedeutung": "Dienstfahrzeuge der Bundeswehr",
+      "zulassungsbehoerde": "Zentrale Militärkraftfahrtstelle – ZMK, Hardter Straße 9, 41179 Mönchengladbach/Rheindahlen",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "BD",
+      "typ": "Bund",
+      "bedeutung": "Dienstfahrzeuge des Bundestages, des Bundesrates, des Bundespräsidialamtes, der Bundesregierung, der Bundesministerien, der Bundesfinanzverwaltung, des Bundesverfassungsgerichts und des Bundeskriminalamtes",
+      "zulassungsbehoerde": "Zulassungsbehörde Berlin; Zulassungsbehörde Bonn, Stadt; für BD 4 Zulassungsbehörde Karlsruhe; für BD 8 und 16 Kfz-Zulassungsstelle bei der „Generalzolldirektion“ – Dienstort Offenbach",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "BG",
+      "typ": "Bund",
+      "bedeutung": "Dienstfahrzeuge der Bundespolizei (noch gültig, wird nicht mehr zugeteilt)",
+      "zulassungsbehoerde": "Kfz-Zulassungsstelle beim „Beschaffungsamt des Bundesministeriums des Innern“ in Bonn als zentrale Zulassungsbehörde",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "BN",
+      "typ": "Diplo",
+      "bedeutung": "Diplomatische Vertretungen oder internationale Organisationen und in Abhängigkeit vom Status der bevorrechtigten Person",
+      "zulassungsbehoerde": "Zulassungsbehörde Berlin, Zulassungsbehörde Bonn, Stadt",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "BP",
+      "typ": "Bund",
+      "bedeutung": "Dienstfahrzeuge der Bundespolizei",
+      "zulassungsbehoerde": "Kfz-Zulassungsstelle beim „Beschaffungsamt des Bundesministeriums des Innern“ in Bonn als zentrale Zulassungsbehörde",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "BW",
+      "typ": "Bund",
+      "bedeutung": "Bundes-Wasserstraßen- und Schifffahrtsverwaltung",
+      "zulassungsbehoerde": "Generaldirektion Wasserstraßen und Schifffahrt",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "HB",
+      "typ": "Länder",
+      "bedeutung": "Freie Hansestadt Bremen Senat und Bürgerschaft",
+      "zulassungsbehoerde": "Zulassungsbehörde Bremen, Stadt",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "HH",
+      "typ": "Länder",
+      "bedeutung": "Freie und Hansestadt Hamburg Senat und Bürgerschaft",
+      "zulassungsbehoerde": "Zulassungsbehörde Hamburg, Stadt",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "NL",
+      "typ": "Länder",
+      "bedeutung": "Niedersachsen Landesregierung und Landtag",
+      "zulassungsbehoerde": "Zulassungsbehörde Hannover, Stadt",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "SH",
+      "typ": "Länder",
+      "bedeutung": "Schleswig-Holstein Landesregierung, Landtag und Polizei",
+      "zulassungsbehoerde": "Zulassungsbehörde Kiel, Stadt",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "BBL",
+      "typ": "Länder",
+      "bedeutung": "Brandenburg Landesregierung, Landtag und Polizei",
+      "zulassungsbehoerde": "Zulassungsbehörde Potsdam, Stadt; für die Polizei Innenministerium Zentraldienst der Polizei Brandenburg",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "BWL",
+      "typ": "Länder",
+      "bedeutung": "Baden-Württemberg Landesregierung, Landtag und Polizei",
+      "zulassungsbehoerde": "Zulassungsbehörde Stuttgart, Stadt; für die Polizei Innenministerium Baden-Württemberg – Landespolizeipräsidium",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "BYL",
+      "typ": "Länder",
+      "bedeutung": "Bayern Landesregierung und Landtag",
+      "zulassungsbehoerde": "Zulassungsbehörde München, Stadt",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "HEL",
+      "typ": "Länder",
+      "bedeutung": "Hessen Landesregierung und Landtag",
+      "zulassungsbehoerde": "Zulassungsbehörde Wiesbaden, Stadt",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "LSA",
+      "typ": "Länder",
+      "bedeutung": "Sachsen-Anhalt Landesregierung, Landtag und Polizei",
+      "zulassungsbehoerde": "Zulassungsbehörde Magdeburg, Stadt",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "LSN",
+      "typ": "Länder",
+      "bedeutung": "Sachsen Landesregierung und Landtag",
+      "zulassungsbehoerde": "Zulassungsbehörde Dresden, Stadt",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "MVL",
+      "typ": "Länder",
+      "bedeutung": "Mecklenburg-Vorpommern Landesregierung (einschließlich Landespolizei) und Landtag",
+      "zulassungsbehoerde": "Zulassungsbehörde Schwerin, Stadt",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "NRW",
+      "typ": "Länder",
+      "bedeutung": "Nordrhein-Westfalen Landesregierung, Landtag und Polizei",
+      "zulassungsbehoerde": "Zulassungsbehörde Düsseldorf, Stadt; für die Polizei Landesamt für Zentrale Polizeiliche Dienste des Landes NRW, Duisburg",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "RPL",
+      "typ": "Länder",
+      "bedeutung": "Rheinland-Pfalz Landesregierung, Landtag und Polizei",
+      "zulassungsbehoerde": "Zulassungsbehörde Mainz, Stadt",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "SAL",
+      "typ": "Länder",
+      "bedeutung": "Saarland Landesregierung, Landtag und Polizei",
+      "zulassungsbehoerde": "Zulassungsbehörde Stadt Saarbrücken, Stadt und Regionalverband; für die Polizei Landespolizeipräsidium – Direktion LPP 4 Zentrale Dienste – LPP 4.8 Kraftfahrzeugtechnik",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "THL",
+      "typ": "Länder",
+      "bedeutung": "Thüringen Landesregierung und Landtag",
+      "zulassungsbehoerde": "Zulassungsbehörde Erfurt, Stadt",
+      "nationalitaetszeichen": "D"
+    },
+    {
+      "unterscheidungszeichen": "THW",
+      "typ": "Bund",
+      "bedeutung": "Dienstfahrzeuge der Bundesanstalt Technisches Hilfswerk",
+      "zulassungsbehoerde": "Kfz-Zulassungsstelle beim „Beschaffungsamt des Bundesministeriums des Innern“ in Bonn als zentrale Zulassungsbehörde",
+      "nationalitaetszeichen": "D"
+    }
+  ],
+  "meta": {
+    "title": "Sonderkennzeichen Deutschland — Bundes-, Polizei- und Diplomatenkennzeichen - Kostenloser Download",
+    "description": "Sonder-Unterscheidungszeichen, die nicht einem Verwaltungsbezirk, sondern einer Bundesinstitution (Bundestag, Bundespräsidialamt, Bundesregierung, Bundesfinanzverwaltung), den Streitkräften (Y, X), der Bundespolizei (BP, BG), dem Technischen Hilfswerk (THW) oder Diplomaten (0) zugeordnet sind. Quelle: openpotato/kfz-kennzeichen (src/de/sonderkennzeichen.csv). Enthält 26 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Sonderkennzeichen Deutschland — Bundes-, Polizei- und Diplomatenkennzeichen | ListBase",
+    "seo_description": "Herunterladen Sonderkennzeichen Deutschland — Bundes-, Polizei- und Diplomatenkennzeichen — 26 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 26 Datensätze / 5 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

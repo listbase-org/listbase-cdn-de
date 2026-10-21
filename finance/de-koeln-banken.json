@@ -1,0 +1,737 @@
+{
+  "id": "de-koeln-banken",
+  "name": "Banken in Koeln — SWIFT/BIC-Codes",
+  "title": "Banken in Koeln — SWIFT/BIC-Codes",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Koeln, Germany. Subset of de-banken.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 98,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 6,
+      "bank": "'AACHENER' GRUNDVERMOEGEN-KAPITALANLAGEGESELLSCHAFT MIT BESCHRANKTER HAFTUNG",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "AACHDE31"
+    },
+    {
+      "id": 21,
+      "bank": "ABACUS GMBH",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "ABGMDE31"
+    },
+    {
+      "id": 24,
+      "bank": "ABCBANK GMBH",
+      "city": "KOELN",
+      "branch": "(DOTATIONSKONTO)",
+      "swift_code": "WWBADE3ADOT"
+    },
+    {
+      "id": 25,
+      "bank": "ABCBANK GMBH",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "WWBADE31"
+    },
+    {
+      "id": 26,
+      "bank": "ABCBANK GMBH",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "WWBADE3A"
+    },
+    {
+      "id": 74,
+      "bank": "AMPEGA INVESTMENT GMBH",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "AMAGDE2H"
+    },
+    {
+      "id": 75,
+      "bank": "AMPEGAGERLING INVESTMENT GMBH",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "GERIDE31"
+    },
+    {
+      "id": 84,
+      "bank": "ASSEKURATA ASSEKURANZ RATING AGENTUR GMBH",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "AARADE31"
+    },
+    {
+      "id": 100,
+      "bank": "AXA BANK AG",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "AXABDE31"
+    },
+    {
+      "id": 101,
+      "bank": "AXA BANK AG",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "AXABDE3K"
+    },
+    {
+      "id": 102,
+      "bank": "AXA INVESTMENT MANAGERS DEUTSCHLAND GMBH",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "AXAIDEF1"
+    },
+    {
+      "id": 103,
+      "bank": "AXA VERSICHERUNG AG",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "AXIPDE33"
+    },
+    {
+      "id": 207,
+      "bank": "BANK FUER SOZIALWIRTSCHAFT AG",
+      "city": "KOELN",
+      "branch": "(MINDESTRESERVE)",
+      "swift_code": "BFSWDE31MIN"
+    },
+    {
+      "id": 208,
+      "bank": "BANK FUER SOZIALWIRTSCHAFT AG",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "BFSWDE33"
+    },
+    {
+      "id": 258,
+      "bank": "BANKHAUS CARL M. GOETTE",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "BCGODE31"
+    },
+    {
+      "id": 293,
+      "bank": "BANQUE VONTOBEL EUROPE AG, NIEDERLASSUNG KOELN",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "VONTDE31"
+    },
+    {
+      "id": 358,
+      "bank": "BNP PARIBAS LEASE GROUP S.A. ZWEIGNIEDERLASSUNG DEUTSCHLAND",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "BPLGDE31"
+    },
+    {
+      "id": 361,
+      "bank": "BNP PARIBAS S.A. NIEDERLASSUNG DEUTSCHLAND (FORMERLY BNP PARIBAS FORTIS SA/NV)",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "GEBADE33"
+    },
+    {
+      "id": 362,
+      "bank": "BNP PARIBAS S.A. NIEDERLASSUNG DEUTSCHLAND (FORMERLY BNP PARIBAS FORTIS SA/NV)",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "GEBADE33TGT"
+    },
+    {
+      "id": 470,
+      "bank": "CIT COLOGNE INDEPENDENT TRADERS GMBH",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "CCNTDE31"
+    },
+    {
+      "id": 515,
+      "bank": "CLAAS FINANCIAL SERVICES S.A.S. ZWEIGNIEDERLASSUNG DEUTSCHLAND",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "CLAADE31"
+    },
+    {
+      "id": 632,
+      "bank": "CLICKANDBUY INTERNATIONAL LTD.",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "CBUYDE21"
+    },
+    {
+      "id": 633,
+      "bank": "CNH CAPITAL EUROPE S.A.S. ZWEIGNIEDERLASSUNG DEUTSCHLAND",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "CASEDE31"
+    },
+    {
+      "id": 972,
+      "bank": "COMMERZBANK AG",
+      "city": "KOELN",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF086"
+    },
+    {
+      "id": 973,
+      "bank": "COMMERZBANK AG",
+      "city": "KOELN",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF087"
+    },
+    {
+      "id": 974,
+      "bank": "COMMERZBANK AG",
+      "city": "KOELN",
+      "branch": "(CC SP3)",
+      "swift_code": "COBADEFFS03"
+    },
+    {
+      "id": 975,
+      "bank": "COMMERZBANK AG",
+      "city": "KOELN",
+      "branch": "(KOE GF-K48)",
+      "swift_code": "COBADEFF937"
+    },
+    {
+      "id": 976,
+      "bank": "COMMERZBANK AG",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "COBADEFF370"
+    },
+    {
+      "id": 1617,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "KOELN",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK 1)",
+      "swift_code": "DRESDEFFI04"
+    },
+    {
+      "id": 1618,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "KOELN",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK 2)",
+      "swift_code": "DRESDEFFI05"
+    },
+    {
+      "id": 1619,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "KOELN",
+      "branch": "(P AND G KOELN (ZW 99)",
+      "swift_code": "DRESDEFFI36"
+    },
+    {
+      "id": 1620,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "KOELN",
+      "branch": "(PCC DCC-ITGK 1)",
+      "swift_code": "DRESDEFFI51"
+    },
+    {
+      "id": 1621,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "KOELN",
+      "branch": "(PCC DCC-ITGK 10)",
+      "swift_code": "DRESDEFFJ03"
+    },
+    {
+      "id": 1622,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "KOELN",
+      "branch": "(PCC DCC-ITGK 11)",
+      "swift_code": "DRESDEFFJ04"
+    },
+    {
+      "id": 1623,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "KOELN",
+      "branch": "(PCC DCC-ITGK 12)",
+      "swift_code": "DRESDEFFJ05"
+    },
+    {
+      "id": 1624,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "KOELN",
+      "branch": "(PCC DCC-ITGK 13)",
+      "swift_code": "DRESDEFFJ06"
+    },
+    {
+      "id": 1625,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "KOELN",
+      "branch": "(PCC DCC-ITGK 14)",
+      "swift_code": "DRESDEFFJ07"
+    },
+    {
+      "id": 1626,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "KOELN",
+      "branch": "(PCC DCC-ITGK 4)",
+      "swift_code": "DRESDEFFI67"
+    },
+    {
+      "id": 1627,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "KOELN",
+      "branch": "(PCC DCC-ITGK 5)",
+      "swift_code": "DRESDEFFI96"
+    },
+    {
+      "id": 1628,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "KOELN",
+      "branch": "(PCC DCC-ITGK 6)",
+      "swift_code": "DRESDEFFI97"
+    },
+    {
+      "id": 1629,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "KOELN",
+      "branch": "(PCC DCC-ITGK 7)",
+      "swift_code": "DRESDEFFI98"
+    },
+    {
+      "id": 1630,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "KOELN",
+      "branch": "(PCC DCC-ITGK 8)",
+      "swift_code": "DRESDEFFJ01"
+    },
+    {
+      "id": 1631,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "KOELN",
+      "branch": "(PCC DCC-ITGK 9)",
+      "swift_code": "DRESDEFFJ02"
+    },
+    {
+      "id": 1632,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "DRESDEFF370"
+    },
+    {
+      "id": 1963,
+      "bank": "DEG-DEUTSCHE INVESTITIONS-UND ENTWICKLUNGSGESELLSCHAFT MBH",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "DEGKDE3K"
+    },
+    {
+      "id": 1985,
+      "bank": "DER TOURISTIK KOELN GMBH",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "TOKGDE31"
+    },
+    {
+      "id": 2018,
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "DAAEDED1015"
+    },
+    {
+      "id": 2525,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "KOELN",
+      "branch": "(FUSION)",
+      "swift_code": "DEUTDEDK402"
+    },
+    {
+      "id": 2526,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "DEUTDEDK"
+    },
+    {
+      "id": 3257,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "DEUTDEDBKOE"
+    },
+    {
+      "id": 3667,
+      "bank": "DEUTSCHE BUNDESBANK",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "MARKDEF1370"
+    },
+    {
+      "id": 3797,
+      "bank": "DEUTSCHE POSTBANK AG",
+      "city": "KOELN",
+      "branch": "(DIRECT BROKERAGE DEPARTMENT)",
+      "swift_code": "PBNKDEFFETR"
+    },
+    {
+      "id": 3798,
+      "bank": "DEUTSCHE POSTBANK AG",
+      "city": "KOELN",
+      "branch": "(KOELN BRANCH)",
+      "swift_code": "PBNKDEFF370"
+    },
+    {
+      "id": 3856,
+      "bank": "DF DEUTSCHE FORFAIT AG",
+      "city": "KOELN",
+      "branch": "(DF DEUTSCHE FORFAIT GMBH)",
+      "swift_code": "DFDFDE7GCGN"
+    },
+    {
+      "id": 4084,
+      "bank": "FLOSSBACH VON STORCH AG",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "FLSTDE31"
+    },
+    {
+      "id": 4085,
+      "bank": "FLOSSBACH VON STORCH AG",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "FLSTDE33"
+    },
+    {
+      "id": 4086,
+      "bank": "FLOSSBACH VON STORCH AG",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "FLSTDE41"
+    },
+    {
+      "id": 4098,
+      "bank": "FORD BANK, NIEDERLASSUNG DER FCE BANK PLC",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "FDBADE3K"
+    },
+    {
+      "id": 4139,
+      "bank": "GBB-RATING GESELLSCHAFT FUER BONITAETSBEURTEILUNG MBH",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "GGBMDE31"
+    },
+    {
+      "id": 4140,
+      "bank": "GCR KAPITALANLAGEGESELLSCHAFT MBH",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "GCRKDE31"
+    },
+    {
+      "id": 4141,
+      "bank": "GE BANK GMBH",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "GBBHDE31"
+    },
+    {
+      "id": 4148,
+      "bank": "GEN RE CAPITAL GMBH",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "GEREDE31"
+    },
+    {
+      "id": 4213,
+      "bank": "HDI GERLING",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "HDGEDE31"
+    },
+    {
+      "id": 4263,
+      "bank": "HSBC TRINKAUS UND BURKHARDT AG",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "TUBDDEDD500"
+    },
+    {
+      "id": 4338,
+      "bank": "ISBANK AG",
+      "city": "KOELN",
+      "branch": "(ISBKDEFXKLM)",
+      "swift_code": "ISBKDEFXKLM"
+    },
+    {
+      "id": 4339,
+      "bank": "ISBANK AG",
+      "city": "KOELN",
+      "branch": "(ZWEIGSTELLE KOELN)",
+      "swift_code": "ISBKDEFXKOL"
+    },
+    {
+      "id": 4362,
+      "bank": "JAGUAR FINANCIAL SERVICES NIEDERLASSUNGEN DER FCE BANK PLC",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "JAGUDE31"
+    },
+    {
+      "id": 4395,
+      "bank": "KOELNER BANK",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "GENODED1CGN"
+    },
+    {
+      "id": 4397,
+      "bank": "KOLNER BANK EG",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "KOLEDE81"
+    },
+    {
+      "id": 4455,
+      "bank": "KREISSPARKASSE KOELN",
+      "city": "KOELN",
+      "branch": "(DOTATIONSKONTO)",
+      "swift_code": "COKSDE33DOT"
+    },
+    {
+      "id": 4456,
+      "bank": "KREISSPARKASSE KOELN",
+      "city": "KOELN",
+      "branch": "(T2S)",
+      "swift_code": "COKSDE33730"
+    },
+    {
+      "id": 4457,
+      "bank": "KREISSPARKASSE KOELN",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "COKSDE33"
+    },
+    {
+      "id": 4513,
+      "bank": "LAND ROVER FINANCIAL SERVICES NIEDERLASSUNG DER FCE BANK PLC",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "LRFSDE31"
+    },
+    {
+      "id": 4681,
+      "bank": "MONEGA KAPITALANLAGEGESELLSCHAFT M.B.H.",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "MOKGDE31"
+    },
+    {
+      "id": 4838,
+      "bank": "OPPENHEIM FONDS TRUST GMBH",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "OFTGDE31"
+    },
+    {
+      "id": 4869,
+      "bank": "PAX-BANK EG",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "GENODED1PAX"
+    },
+    {
+      "id": 4872,
+      "bank": "PAX-BANK EG, GF MHD",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "GENODED1PA7"
+    },
+    {
+      "id": 4907,
+      "bank": "PSD BANK KOELN EG",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "GENODEF1P13"
+    },
+    {
+      "id": 5286,
+      "bank": "RAIFFEISENBANK JUNKERSDORF EG",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "GENODED1JUK"
+    },
+    {
+      "id": 5654,
+      "bank": "RCI BANQUE S.A.",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "RCIDDE31"
+    },
+    {
+      "id": 5666,
+      "bank": "REWE ZENTRALFINANZ EG",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "REWEDE33"
+    },
+    {
+      "id": 5667,
+      "bank": "REWE-ZENTRAL-AKTIENGESELLSCHAFT",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "REWZDE31"
+    },
+    {
+      "id": 5713,
+      "bank": "SAL.OPPENHEIM JR.U.CIE.AG U.CO.KGAA",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "SOPPDE3K"
+    },
+    {
+      "id": 5931,
+      "bank": "SEB AG",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "ESSEDE5F370"
+    },
+    {
+      "id": 6085,
+      "bank": "SPARDA-BANK WEST EG",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "GENODED1SPK"
+    },
+    {
+      "id": 6242,
+      "bank": "SPARKASSE KOELNBONN (FORMER STADTSPARKASSE KOELN)",
+      "city": "KOELN",
+      "branch": "(FILIALE BONN)",
+      "swift_code": "COLSDE33BON"
+    },
+    {
+      "id": 6243,
+      "bank": "SPARKASSE KOELNBONN (FORMER STADTSPARKASSE KOELN)",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "COLSDE31DOT"
+    },
+    {
+      "id": 6244,
+      "bank": "SPARKASSE KOELNBONN (FORMER STADTSPARKASSE KOELN)",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "COLSDE33"
+    },
+    {
+      "id": 6245,
+      "bank": "SPARKASSE KOELNBONN (FORMER STADTSPARKASSE KOELN)",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "COLSDE33084"
+    },
+    {
+      "id": 6246,
+      "bank": "SPARKASSE KOELNBONN (FORMER STADTSPARKASSE KOELN)",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "COLSDE33232"
+    },
+    {
+      "id": 6557,
+      "bank": "TALANX ASSET MANAGEMENT GMBH",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "AAMGDE2H"
+    },
+    {
+      "id": 6583,
+      "bank": "TOYOTA KREDITBANK GMBH",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "TFSEDE31"
+    },
+    {
+      "id": 6584,
+      "bank": "TOYOTA KREDITBANK GMBH",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "TOBADE33"
+    },
+    {
+      "id": 6626,
+      "bank": "UBS EUROPE SE",
+      "city": "KOELN",
+      "branch": "(KOELN)",
+      "swift_code": "SMHBDEFFKOE"
+    },
+    {
+      "id": 6839,
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "HYVEDEMM429"
+    },
+    {
+      "id": 7208,
+      "bank": "VAN DER MOOLEN EFFECTEN SPECIALIST B.V., COLOGNE BRANCH",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "MOEFDE31"
+    },
+    {
+      "id": 7456,
+      "bank": "VOLKSBANK DUENNWALD-HOLWEIDE EG",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "GENODED1DHK"
+    },
+    {
+      "id": 8223,
+      "bank": "VOLVO AUTO BANK DEUTSCHLAND GMBH",
+      "city": "KOELN",
+      "branch": "",
+      "swift_code": "VOLVDE31"
+    }
+  ],
+  "meta": {
+    "title": "Banken in Koeln — SWIFT/BIC-Codes - Kostenloser Download",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Koeln, Germany. Subset of de-banken. Enthält 98 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Banken in Koeln — SWIFT/BIC-Codes | ListBase",
+    "seo_description": "Herunterladen Banken in Koeln — SWIFT/BIC-Codes — 98 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 98 Datensätze / 5 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

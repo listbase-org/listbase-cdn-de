@@ -1,0 +1,8818 @@
+{
+  "id": "de-vorwahlen-bereich-3",
+  "name": "Deutsche Vorwahlen — Bereich 3 (führende Ziffer 3)",
+  "title": "Deutsche Vorwahlen — Bereich 3 (führende Ziffer 3)",
+  "description": "Ortsnetzkennzahlen mit führender Ziffer 3 aus dem deutschen Nummerierungsbereich. Geografischer Schwerpunkt: Berlin (030), Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen, Mecklenburg-Vorpommern. Insgesamt 1462 Einträge.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1462,
+  "columns": [
+    {
+      "key": "vorwahl",
+      "label": "Vorwahl",
+      "type": "number"
+    },
+    {
+      "key": "ortsnetzkennzahl",
+      "label": "Ortsnetzkennzahl",
+      "type": "number"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "aktiv",
+      "label": "Aktiv",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "vorwahl": "030",
+      "ortsnetzkennzahl": 30,
+      "ort": "Berlin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0331",
+      "ortsnetzkennzahl": 331,
+      "ort": "Potsdam",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0335",
+      "ortsnetzkennzahl": 335,
+      "ort": "Frankfurt (Oder)",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0340",
+      "ortsnetzkennzahl": 340,
+      "ort": "Dessau Anh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0341",
+      "ortsnetzkennzahl": 341,
+      "ort": "Leipzig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0345",
+      "ortsnetzkennzahl": 345,
+      "ort": "Halle Saale",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0351",
+      "ortsnetzkennzahl": 351,
+      "ort": "Dresden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0355",
+      "ortsnetzkennzahl": 355,
+      "ort": "Cottbus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0361",
+      "ortsnetzkennzahl": 361,
+      "ort": "Erfurt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0365",
+      "ortsnetzkennzahl": 365,
+      "ort": "Gera",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0371",
+      "ortsnetzkennzahl": 371,
+      "ort": "Chemnitz Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0375",
+      "ortsnetzkennzahl": 375,
+      "ort": "Zwickau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0381",
+      "ortsnetzkennzahl": 381,
+      "ort": "Rostock",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0385",
+      "ortsnetzkennzahl": 385,
+      "ort": "Schwerin Meckl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0391",
+      "ortsnetzkennzahl": 391,
+      "ort": "Magdeburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0395",
+      "ortsnetzkennzahl": 395,
+      "ort": "Neubrandenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03301",
+      "ortsnetzkennzahl": 3301,
+      "ort": "Oranienburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03302",
+      "ortsnetzkennzahl": 3302,
+      "ort": "Hennigsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03303",
+      "ortsnetzkennzahl": 3303,
+      "ort": "Birkenwerder",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03304",
+      "ortsnetzkennzahl": 3304,
+      "ort": "Velten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03306",
+      "ortsnetzkennzahl": 3306,
+      "ort": "Gransee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03307",
+      "ortsnetzkennzahl": 3307,
+      "ort": "Zehdenick",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03321",
+      "ortsnetzkennzahl": 3321,
+      "ort": "Nauen Brandenb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03322",
+      "ortsnetzkennzahl": 3322,
+      "ort": "Falkensee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03327",
+      "ortsnetzkennzahl": 3327,
+      "ort": "Werder Havel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03328",
+      "ortsnetzkennzahl": 3328,
+      "ort": "Teltow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03329",
+      "ortsnetzkennzahl": 3329,
+      "ort": "Stahnsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03331",
+      "ortsnetzkennzahl": 3331,
+      "ort": "Angermünde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03332",
+      "ortsnetzkennzahl": 3332,
+      "ort": "Schwedt/Oder",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03334",
+      "ortsnetzkennzahl": 3334,
+      "ort": "Eberswalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03335",
+      "ortsnetzkennzahl": 3335,
+      "ort": "Finowfurt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03337",
+      "ortsnetzkennzahl": 3337,
+      "ort": "Biesenthal Brandenb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03338",
+      "ortsnetzkennzahl": 3338,
+      "ort": "Bernau Brandenb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03341",
+      "ortsnetzkennzahl": 3341,
+      "ort": "Strausberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03342",
+      "ortsnetzkennzahl": 3342,
+      "ort": "Neuenhagen b Berlin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03344",
+      "ortsnetzkennzahl": 3344,
+      "ort": "Bad Freienwalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03346",
+      "ortsnetzkennzahl": 3346,
+      "ort": "Seelow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03361",
+      "ortsnetzkennzahl": 3361,
+      "ort": "Fürstenwalde Spree",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03362",
+      "ortsnetzkennzahl": 3362,
+      "ort": "Erkner",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03364",
+      "ortsnetzkennzahl": 3364,
+      "ort": "Eisenhüttenstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03366",
+      "ortsnetzkennzahl": 3366,
+      "ort": "Beeskow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03371",
+      "ortsnetzkennzahl": 3371,
+      "ort": "Luckenwalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03372",
+      "ortsnetzkennzahl": 3372,
+      "ort": "Jüterbog",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03375",
+      "ortsnetzkennzahl": 3375,
+      "ort": "Königs Wusterhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03377",
+      "ortsnetzkennzahl": 3377,
+      "ort": "Zossen Brandenb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03378",
+      "ortsnetzkennzahl": 3378,
+      "ort": "Ludwigsfelde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03379",
+      "ortsnetzkennzahl": 3379,
+      "ort": "Mahlow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03381",
+      "ortsnetzkennzahl": 3381,
+      "ort": "Brandenburg an der Havel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03382",
+      "ortsnetzkennzahl": 3382,
+      "ort": "Lehnin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03385",
+      "ortsnetzkennzahl": 3385,
+      "ort": "Rathenow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03386",
+      "ortsnetzkennzahl": 3386,
+      "ort": "Premnitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03391",
+      "ortsnetzkennzahl": 3391,
+      "ort": "Neuruppin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03394",
+      "ortsnetzkennzahl": 3394,
+      "ort": "Wittstock Dosse",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03395",
+      "ortsnetzkennzahl": 3395,
+      "ort": "Pritzwalk",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03421",
+      "ortsnetzkennzahl": 3421,
+      "ort": "Torgau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03423",
+      "ortsnetzkennzahl": 3423,
+      "ort": "Eilenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03425",
+      "ortsnetzkennzahl": 3425,
+      "ort": "Wurzen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03431",
+      "ortsnetzkennzahl": 3431,
+      "ort": "Döbeln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03433",
+      "ortsnetzkennzahl": 3433,
+      "ort": "Borna Stadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03435",
+      "ortsnetzkennzahl": 3435,
+      "ort": "Oschatz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03437",
+      "ortsnetzkennzahl": 3437,
+      "ort": "Grimma",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03441",
+      "ortsnetzkennzahl": 3441,
+      "ort": "Zeitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03443",
+      "ortsnetzkennzahl": 3443,
+      "ort": "Weissenfels Sachs-Anh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03445",
+      "ortsnetzkennzahl": 3445,
+      "ort": "Naumburg Saale",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03447",
+      "ortsnetzkennzahl": 3447,
+      "ort": "Altenburg Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03448",
+      "ortsnetzkennzahl": 3448,
+      "ort": "Meuselwitz Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03461",
+      "ortsnetzkennzahl": 3461,
+      "ort": "Merseburg Saale",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03462",
+      "ortsnetzkennzahl": 3462,
+      "ort": "Bad Dürrenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03464",
+      "ortsnetzkennzahl": 3464,
+      "ort": "Sangerhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03466",
+      "ortsnetzkennzahl": 3466,
+      "ort": "Artern Unstrut",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03471",
+      "ortsnetzkennzahl": 3471,
+      "ort": "Bernburg Saale",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03473",
+      "ortsnetzkennzahl": 3473,
+      "ort": "Aschersleben Sachs-Anh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03475",
+      "ortsnetzkennzahl": 3475,
+      "ort": "Lutherstadt Eisleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03476",
+      "ortsnetzkennzahl": 3476,
+      "ort": "Hettstedt Sachs-Anh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03491",
+      "ortsnetzkennzahl": 3491,
+      "ort": "Lutherstadt Wittenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03493",
+      "ortsnetzkennzahl": 3493,
+      "ort": "Bitterfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03494",
+      "ortsnetzkennzahl": 3494,
+      "ort": "Wolfen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03496",
+      "ortsnetzkennzahl": 3496,
+      "ort": "Köthen Anhalt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03501",
+      "ortsnetzkennzahl": 3501,
+      "ort": "Pirna",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03504",
+      "ortsnetzkennzahl": 3504,
+      "ort": "Dippoldiswalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03521",
+      "ortsnetzkennzahl": 3521,
+      "ort": "Meissen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03522",
+      "ortsnetzkennzahl": 3522,
+      "ort": "Grossenhain Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03523",
+      "ortsnetzkennzahl": 3523,
+      "ort": "Coswig b Dresden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03525",
+      "ortsnetzkennzahl": 3525,
+      "ort": "Riesa",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03528",
+      "ortsnetzkennzahl": 3528,
+      "ort": "Radeberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03529",
+      "ortsnetzkennzahl": 3529,
+      "ort": "Heidenau Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03531",
+      "ortsnetzkennzahl": 3531,
+      "ort": "Finsterwalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03533",
+      "ortsnetzkennzahl": 3533,
+      "ort": "Elsterwerda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03535",
+      "ortsnetzkennzahl": 3535,
+      "ort": "Herzberg Elster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03537",
+      "ortsnetzkennzahl": 3537,
+      "ort": "Jessen Elster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03541",
+      "ortsnetzkennzahl": 3541,
+      "ort": "Calau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03542",
+      "ortsnetzkennzahl": 3542,
+      "ort": "Lübbenau Spreewald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03544",
+      "ortsnetzkennzahl": 3544,
+      "ort": "Luckau Brandenb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03546",
+      "ortsnetzkennzahl": 3546,
+      "ort": "Lübben Spreewald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03561",
+      "ortsnetzkennzahl": 3561,
+      "ort": "Guben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03562",
+      "ortsnetzkennzahl": 3562,
+      "ort": "Forst Lausitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03563",
+      "ortsnetzkennzahl": 3563,
+      "ort": "Spremberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03564",
+      "ortsnetzkennzahl": 3564,
+      "ort": "Schwarze Pumpe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03571",
+      "ortsnetzkennzahl": 3571,
+      "ort": "Hoyerswerda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03573",
+      "ortsnetzkennzahl": 3573,
+      "ort": "Senftenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03574",
+      "ortsnetzkennzahl": 3574,
+      "ort": "Lauchhammer",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03576",
+      "ortsnetzkennzahl": 3576,
+      "ort": "Weisswasser",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03578",
+      "ortsnetzkennzahl": 3578,
+      "ort": "Kamenz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03581",
+      "ortsnetzkennzahl": 3581,
+      "ort": "Görlitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03583",
+      "ortsnetzkennzahl": 3583,
+      "ort": "Zittau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03585",
+      "ortsnetzkennzahl": 3585,
+      "ort": "Löbau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03586",
+      "ortsnetzkennzahl": 3586,
+      "ort": "Neugersdorf Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03588",
+      "ortsnetzkennzahl": 3588,
+      "ort": "Niesky",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03591",
+      "ortsnetzkennzahl": 3591,
+      "ort": "Bautzen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03592",
+      "ortsnetzkennzahl": 3592,
+      "ort": "Kirschau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03594",
+      "ortsnetzkennzahl": 3594,
+      "ort": "Bischofswerda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03596",
+      "ortsnetzkennzahl": 3596,
+      "ort": "Neustadt i Sa",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03601",
+      "ortsnetzkennzahl": 3601,
+      "ort": "Mühlhausen Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03603",
+      "ortsnetzkennzahl": 3603,
+      "ort": "Bad Langensalza",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03605",
+      "ortsnetzkennzahl": 3605,
+      "ort": "Leinefelde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03606",
+      "ortsnetzkennzahl": 3606,
+      "ort": "Heiligenstadt Heilbad",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03621",
+      "ortsnetzkennzahl": 3621,
+      "ort": "Gotha Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03622",
+      "ortsnetzkennzahl": 3622,
+      "ort": "Waltershausen Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03623",
+      "ortsnetzkennzahl": 3623,
+      "ort": "Friedrichroda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03624",
+      "ortsnetzkennzahl": 3624,
+      "ort": "Ohrdruf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03628",
+      "ortsnetzkennzahl": 3628,
+      "ort": "Arnstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03629",
+      "ortsnetzkennzahl": 3629,
+      "ort": "Stadtilm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03631",
+      "ortsnetzkennzahl": 3631,
+      "ort": "Nordhausen Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03632",
+      "ortsnetzkennzahl": 3632,
+      "ort": "Sondershausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03634",
+      "ortsnetzkennzahl": 3634,
+      "ort": "Sömmerda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03635",
+      "ortsnetzkennzahl": 3635,
+      "ort": "Kölleda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03636",
+      "ortsnetzkennzahl": 3636,
+      "ort": "Greussen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03641",
+      "ortsnetzkennzahl": 3641,
+      "ort": "Jena",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03643",
+      "ortsnetzkennzahl": 3643,
+      "ort": "Weimar Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03644",
+      "ortsnetzkennzahl": 3644,
+      "ort": "Apolda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03647",
+      "ortsnetzkennzahl": 3647,
+      "ort": "Pößneck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03661",
+      "ortsnetzkennzahl": 3661,
+      "ort": "Greiz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03663",
+      "ortsnetzkennzahl": 3663,
+      "ort": "Schleiz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03671",
+      "ortsnetzkennzahl": 3671,
+      "ort": "Saalfeld Saale",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03672",
+      "ortsnetzkennzahl": 3672,
+      "ort": "Rudolstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03675",
+      "ortsnetzkennzahl": 3675,
+      "ort": "Sonneberg Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03677",
+      "ortsnetzkennzahl": 3677,
+      "ort": "Ilmenau Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03679",
+      "ortsnetzkennzahl": 3679,
+      "ort": "Neuhaus a Rennweg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03681",
+      "ortsnetzkennzahl": 3681,
+      "ort": "Suhl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03682",
+      "ortsnetzkennzahl": 3682,
+      "ort": "Zella-Mehlis",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03683",
+      "ortsnetzkennzahl": 3683,
+      "ort": "Schmalkalden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03685",
+      "ortsnetzkennzahl": 3685,
+      "ort": "Hildburghausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03686",
+      "ortsnetzkennzahl": 3686,
+      "ort": "Eisfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03691",
+      "ortsnetzkennzahl": 3691,
+      "ort": "Eisenach Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03693",
+      "ortsnetzkennzahl": 3693,
+      "ort": "Meiningen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03695",
+      "ortsnetzkennzahl": 3695,
+      "ort": "Bad Salzungen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03721",
+      "ortsnetzkennzahl": 3721,
+      "ort": "Meinersdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03722",
+      "ortsnetzkennzahl": 3722,
+      "ort": "Limbach-Oberfrohna",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03723",
+      "ortsnetzkennzahl": 3723,
+      "ort": "Hohenstein-Ernstthal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03724",
+      "ortsnetzkennzahl": 3724,
+      "ort": "Burgstädt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03725",
+      "ortsnetzkennzahl": 3725,
+      "ort": "Zschopau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03726",
+      "ortsnetzkennzahl": 3726,
+      "ort": "Flöha",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03727",
+      "ortsnetzkennzahl": 3727,
+      "ort": "Mittweida",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03731",
+      "ortsnetzkennzahl": 3731,
+      "ort": "Freiberg Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03733",
+      "ortsnetzkennzahl": 3733,
+      "ort": "Annaberg-Buchholz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03735",
+      "ortsnetzkennzahl": 3735,
+      "ort": "Marienberg Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03737",
+      "ortsnetzkennzahl": 3737,
+      "ort": "Rochlitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03741",
+      "ortsnetzkennzahl": 3741,
+      "ort": "Plauen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03744",
+      "ortsnetzkennzahl": 3744,
+      "ort": "Auerbach Vogtl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03745",
+      "ortsnetzkennzahl": 3745,
+      "ort": "Falkenstein Vogtl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03761",
+      "ortsnetzkennzahl": 3761,
+      "ort": "Werdau Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03762",
+      "ortsnetzkennzahl": 3762,
+      "ort": "Crimmitschau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03763",
+      "ortsnetzkennzahl": 3763,
+      "ort": "Glauchau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03764",
+      "ortsnetzkennzahl": 3764,
+      "ort": "Meerane",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03765",
+      "ortsnetzkennzahl": 3765,
+      "ort": "Reichenbach Vogtl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03771",
+      "ortsnetzkennzahl": 3771,
+      "ort": "Aue Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03772",
+      "ortsnetzkennzahl": 3772,
+      "ort": "Schneeberg Erzgeb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03773",
+      "ortsnetzkennzahl": 3773,
+      "ort": "Johanngeorgenstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03774",
+      "ortsnetzkennzahl": 3774,
+      "ort": "Schwarzenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03821",
+      "ortsnetzkennzahl": 3821,
+      "ort": "Ribnitz-Damgarten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03831",
+      "ortsnetzkennzahl": 3831,
+      "ort": "Stralsund",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03834",
+      "ortsnetzkennzahl": 3834,
+      "ort": "Greifswald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03836",
+      "ortsnetzkennzahl": 3836,
+      "ort": "Wolgast",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03838",
+      "ortsnetzkennzahl": 3838,
+      "ort": "Bergen auf Rügen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03841",
+      "ortsnetzkennzahl": 3841,
+      "ort": "Wismar Meckl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03843",
+      "ortsnetzkennzahl": 3843,
+      "ort": "Güstrow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03844",
+      "ortsnetzkennzahl": 3844,
+      "ort": "Schwaan",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03847",
+      "ortsnetzkennzahl": 3847,
+      "ort": "Sternberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03860",
+      "ortsnetzkennzahl": 3860,
+      "ort": "Raben Steinfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03861",
+      "ortsnetzkennzahl": 3861,
+      "ort": "Plate",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03863",
+      "ortsnetzkennzahl": 3863,
+      "ort": "Crivitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03865",
+      "ortsnetzkennzahl": 3865,
+      "ort": "Holthusen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03866",
+      "ortsnetzkennzahl": 3866,
+      "ort": "Cambs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03867",
+      "ortsnetzkennzahl": 3867,
+      "ort": "Lübstorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03868",
+      "ortsnetzkennzahl": 3868,
+      "ort": "Rastow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03869",
+      "ortsnetzkennzahl": 3869,
+      "ort": "Dümmer",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03871",
+      "ortsnetzkennzahl": 3871,
+      "ort": "Parchim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03874",
+      "ortsnetzkennzahl": 3874,
+      "ort": "Ludwigslust Meckl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03876",
+      "ortsnetzkennzahl": 3876,
+      "ort": "Perleberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03877",
+      "ortsnetzkennzahl": 3877,
+      "ort": "Wittenberge",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03881",
+      "ortsnetzkennzahl": 3881,
+      "ort": "Grevesmühlen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03883",
+      "ortsnetzkennzahl": 3883,
+      "ort": "Hagenow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03886",
+      "ortsnetzkennzahl": 3886,
+      "ort": "Gadebusch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03901",
+      "ortsnetzkennzahl": 3901,
+      "ort": "Salzwedel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03902",
+      "ortsnetzkennzahl": 3902,
+      "ort": "Diesdorf Altm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03904",
+      "ortsnetzkennzahl": 3904,
+      "ort": "Haldensleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03907",
+      "ortsnetzkennzahl": 3907,
+      "ort": "Gardelegen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03909",
+      "ortsnetzkennzahl": 3909,
+      "ort": "Klötze Altmark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03921",
+      "ortsnetzkennzahl": 3921,
+      "ort": "Burg b Magdeburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03923",
+      "ortsnetzkennzahl": 3923,
+      "ort": "Zerbst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03925",
+      "ortsnetzkennzahl": 3925,
+      "ort": "Stassfurt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03928",
+      "ortsnetzkennzahl": 3928,
+      "ort": "Schönebeck Elbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03931",
+      "ortsnetzkennzahl": 3931,
+      "ort": "Stendal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03933",
+      "ortsnetzkennzahl": 3933,
+      "ort": "Genthin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03935",
+      "ortsnetzkennzahl": 3935,
+      "ort": "Tangerhütte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03937",
+      "ortsnetzkennzahl": 3937,
+      "ort": "Osterburg Altmark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03941",
+      "ortsnetzkennzahl": 3941,
+      "ort": "Halberstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03943",
+      "ortsnetzkennzahl": 3943,
+      "ort": "Wernigerode",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03944",
+      "ortsnetzkennzahl": 3944,
+      "ort": "Blankenburg Harz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03946",
+      "ortsnetzkennzahl": 3946,
+      "ort": "Quedlinburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03947",
+      "ortsnetzkennzahl": 3947,
+      "ort": "Thale",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03949",
+      "ortsnetzkennzahl": 3949,
+      "ort": "Oschersleben Bode",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03961",
+      "ortsnetzkennzahl": 3961,
+      "ort": "Altentreptow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03962",
+      "ortsnetzkennzahl": 3962,
+      "ort": "Penzlin b Waren",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03963",
+      "ortsnetzkennzahl": 3963,
+      "ort": "Woldegk",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03964",
+      "ortsnetzkennzahl": 3964,
+      "ort": "Bredenfelde b Strasburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03965",
+      "ortsnetzkennzahl": 3965,
+      "ort": "Burow b Altentreptow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03966",
+      "ortsnetzkennzahl": 3966,
+      "ort": "Cölpin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03967",
+      "ortsnetzkennzahl": 3967,
+      "ort": "Oertzenhof b Strasburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03968",
+      "ortsnetzkennzahl": 3968,
+      "ort": "Schönbeck Meckl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03969",
+      "ortsnetzkennzahl": 3969,
+      "ort": "Siedenbollentin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03971",
+      "ortsnetzkennzahl": 3971,
+      "ort": "Anklam",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03973",
+      "ortsnetzkennzahl": 3973,
+      "ort": "Pasewalk",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03976",
+      "ortsnetzkennzahl": 3976,
+      "ort": "Torgelow b Ueckermünde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03981",
+      "ortsnetzkennzahl": 3981,
+      "ort": "Neustrelitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03984",
+      "ortsnetzkennzahl": 3984,
+      "ort": "Prenzlau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03987",
+      "ortsnetzkennzahl": 3987,
+      "ort": "Templin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03991",
+      "ortsnetzkennzahl": 3991,
+      "ort": "Waren Müritz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03994",
+      "ortsnetzkennzahl": 3994,
+      "ort": "Malchin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03996",
+      "ortsnetzkennzahl": 3996,
+      "ort": "Teterow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "03998",
+      "ortsnetzkennzahl": 3998,
+      "ort": "Demmin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033051",
+      "ortsnetzkennzahl": 33051,
+      "ort": "Nassenheide",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033052",
+      "ortsnetzkennzahl": 33052,
+      "ort": "Leegebruch",
+      "aktiv": false
+    },
+    {
+      "vorwahl": "033053",
+      "ortsnetzkennzahl": 33053,
+      "ort": "Zehlendorf Kr Oberhavel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033054",
+      "ortsnetzkennzahl": 33054,
+      "ort": "Liebenwalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033055",
+      "ortsnetzkennzahl": 33055,
+      "ort": "Kremmen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033056",
+      "ortsnetzkennzahl": 33056,
+      "ort": "Mühlenbeck Kr Oberhavel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033080",
+      "ortsnetzkennzahl": 33080,
+      "ort": "Marienthal Kr Oberhavel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033082",
+      "ortsnetzkennzahl": 33082,
+      "ort": "Menz Kr Oberhavel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033083",
+      "ortsnetzkennzahl": 33083,
+      "ort": "Schulzendorf Kr Oberhavel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033084",
+      "ortsnetzkennzahl": 33084,
+      "ort": "Gutengermendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033085",
+      "ortsnetzkennzahl": 33085,
+      "ort": "Seilershof",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033086",
+      "ortsnetzkennzahl": 33086,
+      "ort": "Grieben Kr Oberhavel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033087",
+      "ortsnetzkennzahl": 33087,
+      "ort": "Bredereiche",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033088",
+      "ortsnetzkennzahl": 33088,
+      "ort": "Falkenthal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033089",
+      "ortsnetzkennzahl": 33089,
+      "ort": "Himmelpfort",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033093",
+      "ortsnetzkennzahl": 33093,
+      "ort": "Fürstenberg Havel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033094",
+      "ortsnetzkennzahl": 33094,
+      "ort": "Löwenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033200",
+      "ortsnetzkennzahl": 33200,
+      "ort": "Bergholz-Rehbrücke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033201",
+      "ortsnetzkennzahl": 33201,
+      "ort": "Gross Glienicke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033202",
+      "ortsnetzkennzahl": 33202,
+      "ort": "Töplitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033203",
+      "ortsnetzkennzahl": 33203,
+      "ort": "Kleinmachnow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033204",
+      "ortsnetzkennzahl": 33204,
+      "ort": "Beelitz Mark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033205",
+      "ortsnetzkennzahl": 33205,
+      "ort": "Michendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033206",
+      "ortsnetzkennzahl": 33206,
+      "ort": "Fichtenwalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033207",
+      "ortsnetzkennzahl": 33207,
+      "ort": "Gross Kreutz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033208",
+      "ortsnetzkennzahl": 33208,
+      "ort": "Fahrland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033209",
+      "ortsnetzkennzahl": 33209,
+      "ort": "Caputh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033230",
+      "ortsnetzkennzahl": 33230,
+      "ort": "Börnicke Kr Havelland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033231",
+      "ortsnetzkennzahl": 33231,
+      "ort": "Pausin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033232",
+      "ortsnetzkennzahl": 33232,
+      "ort": "Brieselang",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033233",
+      "ortsnetzkennzahl": 33233,
+      "ort": "Ketzin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033234",
+      "ortsnetzkennzahl": 33234,
+      "ort": "Wustermark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033235",
+      "ortsnetzkennzahl": 33235,
+      "ort": "Friesack",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033237",
+      "ortsnetzkennzahl": 33237,
+      "ort": "Paulinenaue",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033238",
+      "ortsnetzkennzahl": 33238,
+      "ort": "Senzke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033239",
+      "ortsnetzkennzahl": 33239,
+      "ort": "Gross Behnitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033331",
+      "ortsnetzkennzahl": 33331,
+      "ort": "Casekow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033332",
+      "ortsnetzkennzahl": 33332,
+      "ort": "Gartz Oder",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033333",
+      "ortsnetzkennzahl": 33333,
+      "ort": "Tantow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033334",
+      "ortsnetzkennzahl": 33334,
+      "ort": "Greiffenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033335",
+      "ortsnetzkennzahl": 33335,
+      "ort": "Pinnow Kr Uckermark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033336",
+      "ortsnetzkennzahl": 33336,
+      "ort": "Passow Kr Uckermark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033337",
+      "ortsnetzkennzahl": 33337,
+      "ort": "Altkünkendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033338",
+      "ortsnetzkennzahl": 33338,
+      "ort": "Stolpe/Oder",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033361",
+      "ortsnetzkennzahl": 33361,
+      "ort": "Joachimsthal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033362",
+      "ortsnetzkennzahl": 33362,
+      "ort": "Liepe Kr Barnim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033363",
+      "ortsnetzkennzahl": 33363,
+      "ort": "Altenhof Kr Barnim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033364",
+      "ortsnetzkennzahl": 33364,
+      "ort": "Gross Ziethen Kr Barnim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033365",
+      "ortsnetzkennzahl": 33365,
+      "ort": "Lüdersdorf Kr Barnim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033366",
+      "ortsnetzkennzahl": 33366,
+      "ort": "Chorin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033367",
+      "ortsnetzkennzahl": 33367,
+      "ort": "Friedrichswalde Brandenb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033368",
+      "ortsnetzkennzahl": 33368,
+      "ort": "Hohensaaten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033369",
+      "ortsnetzkennzahl": 33369,
+      "ort": "Oderberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033393",
+      "ortsnetzkennzahl": 33393,
+      "ort": "Gross Schönebeck Kr Barnim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033394",
+      "ortsnetzkennzahl": 33394,
+      "ort": "Blumberg Kr Barnim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033395",
+      "ortsnetzkennzahl": 33395,
+      "ort": "Zerpenschleuse",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033396",
+      "ortsnetzkennzahl": 33396,
+      "ort": "Klosterfelde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033397",
+      "ortsnetzkennzahl": 33397,
+      "ort": "Wandlitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033398",
+      "ortsnetzkennzahl": 33398,
+      "ort": "Werneuchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033432",
+      "ortsnetzkennzahl": 33432,
+      "ort": "Müncheberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033433",
+      "ortsnetzkennzahl": 33433,
+      "ort": "Buckow Märk Schweiz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033434",
+      "ortsnetzkennzahl": 33434,
+      "ort": "Herzfelde b Strausberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033435",
+      "ortsnetzkennzahl": 33435,
+      "ort": "Rehfelde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033436",
+      "ortsnetzkennzahl": 33436,
+      "ort": "Prötzel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033437",
+      "ortsnetzkennzahl": 33437,
+      "ort": "Reichenberg b Strausberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033438",
+      "ortsnetzkennzahl": 33438,
+      "ort": "Altlandsberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033439",
+      "ortsnetzkennzahl": 33439,
+      "ort": "Fredersdorf-Vogelsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033451",
+      "ortsnetzkennzahl": 33451,
+      "ort": "Heckelberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033452",
+      "ortsnetzkennzahl": 33452,
+      "ort": "Neulewin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033454",
+      "ortsnetzkennzahl": 33454,
+      "ort": "Wölsickendorf/Wollenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033456",
+      "ortsnetzkennzahl": 33456,
+      "ort": "Wriezen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033457",
+      "ortsnetzkennzahl": 33457,
+      "ort": "Altreetz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033458",
+      "ortsnetzkennzahl": 33458,
+      "ort": "Falkenberg Mark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033470",
+      "ortsnetzkennzahl": 33470,
+      "ort": "Lietzen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033472",
+      "ortsnetzkennzahl": 33472,
+      "ort": "Golzow b Seelow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033473",
+      "ortsnetzkennzahl": 33473,
+      "ort": "Zechin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033474",
+      "ortsnetzkennzahl": 33474,
+      "ort": "Neutrebbin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033475",
+      "ortsnetzkennzahl": 33475,
+      "ort": "Letschin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033476",
+      "ortsnetzkennzahl": 33476,
+      "ort": "Neuhardenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033477",
+      "ortsnetzkennzahl": 33477,
+      "ort": "Trebnitz b Müncheberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033478",
+      "ortsnetzkennzahl": 33478,
+      "ort": "Gross Neuendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033479",
+      "ortsnetzkennzahl": 33479,
+      "ort": "Küstrin-Kietz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033601",
+      "ortsnetzkennzahl": 33601,
+      "ort": "Podelzig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033602",
+      "ortsnetzkennzahl": 33602,
+      "ort": "Alt Zeschdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033603",
+      "ortsnetzkennzahl": 33603,
+      "ort": "Falkenhagen b Seelow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033604",
+      "ortsnetzkennzahl": 33604,
+      "ort": "Lebus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033605",
+      "ortsnetzkennzahl": 33605,
+      "ort": "Boossen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033606",
+      "ortsnetzkennzahl": 33606,
+      "ort": "Müllrose",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033607",
+      "ortsnetzkennzahl": 33607,
+      "ort": "Briesen Mark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033608",
+      "ortsnetzkennzahl": 33608,
+      "ort": "Jacobsdorf Mark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033609",
+      "ortsnetzkennzahl": 33609,
+      "ort": "Brieskow-Finkenheerd",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033631",
+      "ortsnetzkennzahl": 33631,
+      "ort": "Bad Saarow-Pieskow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033632",
+      "ortsnetzkennzahl": 33632,
+      "ort": "Hangelsberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033633",
+      "ortsnetzkennzahl": 33633,
+      "ort": "Spreenhagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033634",
+      "ortsnetzkennzahl": 33634,
+      "ort": "Berkenbrück Kr Oder-Spree",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033635",
+      "ortsnetzkennzahl": 33635,
+      "ort": "Arensdorf Kr Oder-Spree",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033636",
+      "ortsnetzkennzahl": 33636,
+      "ort": "Steinhöfel Kr Oder-Spree",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033637",
+      "ortsnetzkennzahl": 33637,
+      "ort": "Beerfelde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033638",
+      "ortsnetzkennzahl": 33638,
+      "ort": "Rüdersdorf b Berlin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033652",
+      "ortsnetzkennzahl": 33652,
+      "ort": "Neuzelle",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033653",
+      "ortsnetzkennzahl": 33653,
+      "ort": "Ziltendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033654",
+      "ortsnetzkennzahl": 33654,
+      "ort": "Fünfeichen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033655",
+      "ortsnetzkennzahl": 33655,
+      "ort": "Grunow Kr Oder-Spree",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033656",
+      "ortsnetzkennzahl": 33656,
+      "ort": "Bahro",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033657",
+      "ortsnetzkennzahl": 33657,
+      "ort": "Steinsdorf Brandenb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033671",
+      "ortsnetzkennzahl": 33671,
+      "ort": "Lieberose",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033672",
+      "ortsnetzkennzahl": 33672,
+      "ort": "Pfaffendorfb Beeskow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033673",
+      "ortsnetzkennzahl": 33673,
+      "ort": "Weichensdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033674",
+      "ortsnetzkennzahl": 33674,
+      "ort": "Trebatsch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033675",
+      "ortsnetzkennzahl": 33675,
+      "ort": "Tauche",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033676",
+      "ortsnetzkennzahl": 33676,
+      "ort": "Friedland b Beeskow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033677",
+      "ortsnetzkennzahl": 33677,
+      "ort": "Glienicke b Beeskow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033678",
+      "ortsnetzkennzahl": 33678,
+      "ort": "Storkow Mark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033679",
+      "ortsnetzkennzahl": 33679,
+      "ort": "Wendisch Rietz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033701",
+      "ortsnetzkennzahl": 33701,
+      "ort": "Grossbeeren",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033702",
+      "ortsnetzkennzahl": 33702,
+      "ort": "Wünsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033703",
+      "ortsnetzkennzahl": 33703,
+      "ort": "Sperenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033704",
+      "ortsnetzkennzahl": 33704,
+      "ort": "Baruth Mark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033708",
+      "ortsnetzkennzahl": 33708,
+      "ort": "Rangsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033731",
+      "ortsnetzkennzahl": 33731,
+      "ort": "Trebbin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033732",
+      "ortsnetzkennzahl": 33732,
+      "ort": "Hennickendorf b Luckenwalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033733",
+      "ortsnetzkennzahl": 33733,
+      "ort": "Stülpe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033734",
+      "ortsnetzkennzahl": 33734,
+      "ort": "Felgentreu",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033741",
+      "ortsnetzkennzahl": 33741,
+      "ort": "Niedergörsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033742",
+      "ortsnetzkennzahl": 33742,
+      "ort": "Oehna Brandenb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033743",
+      "ortsnetzkennzahl": 33743,
+      "ort": "Blönsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033744",
+      "ortsnetzkennzahl": 33744,
+      "ort": "Hohenseefeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033745",
+      "ortsnetzkennzahl": 33745,
+      "ort": "Petkus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033746",
+      "ortsnetzkennzahl": 33746,
+      "ort": "Werbig b Jüterbog",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033747",
+      "ortsnetzkennzahl": 33747,
+      "ort": "Marzahna",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033748",
+      "ortsnetzkennzahl": 33748,
+      "ort": "Treuenbrietzen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033760",
+      "ortsnetzkennzahl": 33760,
+      "ort": "Münchehofe Kr Dahme-Spreewald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033762",
+      "ortsnetzkennzahl": 33762,
+      "ort": "Zeuthen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033763",
+      "ortsnetzkennzahl": 33763,
+      "ort": "Bestensee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033764",
+      "ortsnetzkennzahl": 33764,
+      "ort": "Mittenwalde Mark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033765",
+      "ortsnetzkennzahl": 33765,
+      "ort": "Märkisch Buchholz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033766",
+      "ortsnetzkennzahl": 33766,
+      "ort": "Teupitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033767",
+      "ortsnetzkennzahl": 33767,
+      "ort": "Friedersdorf b Berlin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033768",
+      "ortsnetzkennzahl": 33768,
+      "ort": "Prieros",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033769",
+      "ortsnetzkennzahl": 33769,
+      "ort": "Töpchin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033830",
+      "ortsnetzkennzahl": 33830,
+      "ort": "Ziesar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033831",
+      "ortsnetzkennzahl": 33831,
+      "ort": "Weseram",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033832",
+      "ortsnetzkennzahl": 33832,
+      "ort": "Rogäsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033833",
+      "ortsnetzkennzahl": 33833,
+      "ort": "Wollin b Brandenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033834",
+      "ortsnetzkennzahl": 33834,
+      "ort": "Pritzerbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033835",
+      "ortsnetzkennzahl": 33835,
+      "ort": "Golzow b Brandenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033836",
+      "ortsnetzkennzahl": 33836,
+      "ort": "Butzow b Brandenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033837",
+      "ortsnetzkennzahl": 33837,
+      "ort": "Brielow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033838",
+      "ortsnetzkennzahl": 33838,
+      "ort": "Päwesin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033839",
+      "ortsnetzkennzahl": 33839,
+      "ort": "Wusterwitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033841",
+      "ortsnetzkennzahl": 33841,
+      "ort": "Belzig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033843",
+      "ortsnetzkennzahl": 33843,
+      "ort": "Niemegk",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033844",
+      "ortsnetzkennzahl": 33844,
+      "ort": "Brück Brandenb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033845",
+      "ortsnetzkennzahl": 33845,
+      "ort": "Borkheide",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033846",
+      "ortsnetzkennzahl": 33846,
+      "ort": "Dippmannsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033847",
+      "ortsnetzkennzahl": 33847,
+      "ort": "Görzke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033848",
+      "ortsnetzkennzahl": 33848,
+      "ort": "Raben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033849",
+      "ortsnetzkennzahl": 33849,
+      "ort": "Wiesenburg Mark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033870",
+      "ortsnetzkennzahl": 33870,
+      "ort": "Zollchow b Rathenow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033872",
+      "ortsnetzkennzahl": 33872,
+      "ort": "Hohennauen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033873",
+      "ortsnetzkennzahl": 33873,
+      "ort": "Grosswudicke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033874",
+      "ortsnetzkennzahl": 33874,
+      "ort": "Stechow Brandenb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033875",
+      "ortsnetzkennzahl": 33875,
+      "ort": "Rhinow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033876",
+      "ortsnetzkennzahl": 33876,
+      "ort": "Buschow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033877",
+      "ortsnetzkennzahl": 33877,
+      "ort": "Nitzahn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033878",
+      "ortsnetzkennzahl": 33878,
+      "ort": "Nennhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033920",
+      "ortsnetzkennzahl": 33920,
+      "ort": "Walsleben b Neuruppin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033921",
+      "ortsnetzkennzahl": 33921,
+      "ort": "Zechlinerhütte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033922",
+      "ortsnetzkennzahl": 33922,
+      "ort": "Karwesee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033923",
+      "ortsnetzkennzahl": 33923,
+      "ort": "Flecken Zechlin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033924",
+      "ortsnetzkennzahl": 33924,
+      "ort": "Rägelin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033925",
+      "ortsnetzkennzahl": 33925,
+      "ort": "Wustrau-Altfriesack",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033926",
+      "ortsnetzkennzahl": 33926,
+      "ort": "Herzberg Mark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033927",
+      "ortsnetzkennzahl": 33927,
+      "ort": "Linum",
+      "aktiv": false
+    },
+    {
+      "vorwahl": "033928",
+      "ortsnetzkennzahl": 33928,
+      "ort": "Wildberg Brandenb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033929",
+      "ortsnetzkennzahl": 33929,
+      "ort": "Gühlen-Glienicke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033931",
+      "ortsnetzkennzahl": 33931,
+      "ort": "Rheinsberg Mark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033932",
+      "ortsnetzkennzahl": 33932,
+      "ort": "Fehrbellin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033933",
+      "ortsnetzkennzahl": 33933,
+      "ort": "Lindow Mark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033962",
+      "ortsnetzkennzahl": 33962,
+      "ort": "Heiligengrabe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033963",
+      "ortsnetzkennzahl": 33963,
+      "ort": "Wulfersdorf b Wittstock",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033964",
+      "ortsnetzkennzahl": 33964,
+      "ort": "Fretzdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033965",
+      "ortsnetzkennzahl": 33965,
+      "ort": "Herzsprung b Wittstock",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033966",
+      "ortsnetzkennzahl": 33966,
+      "ort": "Dranse",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033967",
+      "ortsnetzkennzahl": 33967,
+      "ort": "Freyenstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033968",
+      "ortsnetzkennzahl": 33968,
+      "ort": "Meyenburg Kr Prignitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033969",
+      "ortsnetzkennzahl": 33969,
+      "ort": "Stepenitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033970",
+      "ortsnetzkennzahl": 33970,
+      "ort": "Neustadt Dosse",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033971",
+      "ortsnetzkennzahl": 33971,
+      "ort": "Kyritz Brandenb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033972",
+      "ortsnetzkennzahl": 33972,
+      "ort": "Breddin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033973",
+      "ortsnetzkennzahl": 33973,
+      "ort": "Zernitz b Neustadt Dosse",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033974",
+      "ortsnetzkennzahl": 33974,
+      "ort": "Dessow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033975",
+      "ortsnetzkennzahl": 33975,
+      "ort": "Dannenwalde Kr Prignitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033976",
+      "ortsnetzkennzahl": 33976,
+      "ort": "Wutike",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033977",
+      "ortsnetzkennzahl": 33977,
+      "ort": "Gumtow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033978",
+      "ortsnetzkennzahl": 33978,
+      "ort": "Segeletz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033979",
+      "ortsnetzkennzahl": 33979,
+      "ort": "Wusterhausen Dosse",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033981",
+      "ortsnetzkennzahl": 33981,
+      "ort": "Putlitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033982",
+      "ortsnetzkennzahl": 33982,
+      "ort": "Hoppenrade Kr Prignitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033983",
+      "ortsnetzkennzahl": 33983,
+      "ort": "Gross Pankow Kr Prignitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033984",
+      "ortsnetzkennzahl": 33984,
+      "ort": "Blumenthal b Pritzwalk",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033986",
+      "ortsnetzkennzahl": 33986,
+      "ort": "Falkenhagen Kr Prignitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "033989",
+      "ortsnetzkennzahl": 33989,
+      "ort": "Sadenbeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034202",
+      "ortsnetzkennzahl": 34202,
+      "ort": "Delitzsch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034203",
+      "ortsnetzkennzahl": 34203,
+      "ort": "Zwenkau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034204",
+      "ortsnetzkennzahl": 34204,
+      "ort": "Schkeuditz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034205",
+      "ortsnetzkennzahl": 34205,
+      "ort": "Markranstädt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034206",
+      "ortsnetzkennzahl": 34206,
+      "ort": "Rötha",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034207",
+      "ortsnetzkennzahl": 34207,
+      "ort": "Zwochau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034208",
+      "ortsnetzkennzahl": 34208,
+      "ort": "Löbnitz B Delitzsch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034221",
+      "ortsnetzkennzahl": 34221,
+      "ort": "Schildau Gneisenaustadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034222",
+      "ortsnetzkennzahl": 34222,
+      "ort": "Arzberg b Torgau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034223",
+      "ortsnetzkennzahl": 34223,
+      "ort": "Dommitzsch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034224",
+      "ortsnetzkennzahl": 34224,
+      "ort": "Belgern Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034241",
+      "ortsnetzkennzahl": 34241,
+      "ort": "Jesewitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034242",
+      "ortsnetzkennzahl": 34242,
+      "ort": "Hohenpriessnitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034243",
+      "ortsnetzkennzahl": 34243,
+      "ort": "Bad Düben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034244",
+      "ortsnetzkennzahl": 34244,
+      "ort": "Mockrehna",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034261",
+      "ortsnetzkennzahl": 34261,
+      "ort": "Kühren b Wurzen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034262",
+      "ortsnetzkennzahl": 34262,
+      "ort": "Falkenhain b Wurzen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034263",
+      "ortsnetzkennzahl": 34263,
+      "ort": "Hohburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034291",
+      "ortsnetzkennzahl": 34291,
+      "ort": "Borsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034292",
+      "ortsnetzkennzahl": 34292,
+      "ort": "Brandis b Wurzen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034293",
+      "ortsnetzkennzahl": 34293,
+      "ort": "Naunhof b Grimma",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034294",
+      "ortsnetzkennzahl": 34294,
+      "ort": "Rackwitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034295",
+      "ortsnetzkennzahl": 34295,
+      "ort": "Krensitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034296",
+      "ortsnetzkennzahl": 34296,
+      "ort": "Groitzsch b Pegau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034297",
+      "ortsnetzkennzahl": 34297,
+      "ort": "Liebertwolkwitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034298",
+      "ortsnetzkennzahl": 34298,
+      "ort": "Taucha b Leipzig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034299",
+      "ortsnetzkennzahl": 34299,
+      "ort": "Gaschwitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034321",
+      "ortsnetzkennzahl": 34321,
+      "ort": "Leisnig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034322",
+      "ortsnetzkennzahl": 34322,
+      "ort": "Rosswein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034324",
+      "ortsnetzkennzahl": 34324,
+      "ort": "Ostrau Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034325",
+      "ortsnetzkennzahl": 34325,
+      "ort": "Mochau-Lüttewitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034327",
+      "ortsnetzkennzahl": 34327,
+      "ort": "Waldheim Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034328",
+      "ortsnetzkennzahl": 34328,
+      "ort": "Hartha b Döbeln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034341",
+      "ortsnetzkennzahl": 34341,
+      "ort": "Geithain",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034342",
+      "ortsnetzkennzahl": 34342,
+      "ort": "Neukieritzsch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034343",
+      "ortsnetzkennzahl": 34343,
+      "ort": "Regis-Breitingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034344",
+      "ortsnetzkennzahl": 34344,
+      "ort": "Kohren-Sahlis",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034345",
+      "ortsnetzkennzahl": 34345,
+      "ort": "Bad Lausick",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034346",
+      "ortsnetzkennzahl": 34346,
+      "ort": "Narsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034347",
+      "ortsnetzkennzahl": 34347,
+      "ort": "Oelzschau b Borna",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034348",
+      "ortsnetzkennzahl": 34348,
+      "ort": "Frohburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034361",
+      "ortsnetzkennzahl": 34361,
+      "ort": "Dahlen Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034362",
+      "ortsnetzkennzahl": 34362,
+      "ort": "Mügeln b Oschatz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034363",
+      "ortsnetzkennzahl": 34363,
+      "ort": "Cavertitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034364",
+      "ortsnetzkennzahl": 34364,
+      "ort": "Wermsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034381",
+      "ortsnetzkennzahl": 34381,
+      "ort": "Colditz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034382",
+      "ortsnetzkennzahl": 34382,
+      "ort": "Nerchau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034383",
+      "ortsnetzkennzahl": 34383,
+      "ort": "Trebsen Mulde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034384",
+      "ortsnetzkennzahl": 34384,
+      "ort": "Grossbothen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034385",
+      "ortsnetzkennzahl": 34385,
+      "ort": "Mutzschen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034386",
+      "ortsnetzkennzahl": 34386,
+      "ort": "Dürrweitzschen B Grimma",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034422",
+      "ortsnetzkennzahl": 34422,
+      "ort": "Osterfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034423",
+      "ortsnetzkennzahl": 34423,
+      "ort": "Heuckewalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034424",
+      "ortsnetzkennzahl": 34424,
+      "ort": "Reuden b Zeitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034425",
+      "ortsnetzkennzahl": 34425,
+      "ort": "Droyssig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034426",
+      "ortsnetzkennzahl": 34426,
+      "ort": "Kayna",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034441",
+      "ortsnetzkennzahl": 34441,
+      "ort": "Hohenmölsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034443",
+      "ortsnetzkennzahl": 34443,
+      "ort": "Teuchern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034444",
+      "ortsnetzkennzahl": 34444,
+      "ort": "Lützen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034445",
+      "ortsnetzkennzahl": 34445,
+      "ort": "Stößen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034446",
+      "ortsnetzkennzahl": 34446,
+      "ort": "Grosskorbetha",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034461",
+      "ortsnetzkennzahl": 34461,
+      "ort": "Nebra Unstrut",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034462",
+      "ortsnetzkennzahl": 34462,
+      "ort": "Laucha Unstrut",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034463",
+      "ortsnetzkennzahl": 34463,
+      "ort": "Bad Kösen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034464",
+      "ortsnetzkennzahl": 34464,
+      "ort": "Freyburg Unstrut",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034465",
+      "ortsnetzkennzahl": 34465,
+      "ort": "Bad Bibra",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034466",
+      "ortsnetzkennzahl": 34466,
+      "ort": "Janisroda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034467",
+      "ortsnetzkennzahl": 34467,
+      "ort": "Eckartsberga",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034491",
+      "ortsnetzkennzahl": 34491,
+      "ort": "Schmölln Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034492",
+      "ortsnetzkennzahl": 34492,
+      "ort": "Lucka",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034493",
+      "ortsnetzkennzahl": 34493,
+      "ort": "Gößnitz Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034494",
+      "ortsnetzkennzahl": 34494,
+      "ort": "Ehrenhain",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034495",
+      "ortsnetzkennzahl": 34495,
+      "ort": "Dobitschen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034496",
+      "ortsnetzkennzahl": 34496,
+      "ort": "Nöbdenitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034497",
+      "ortsnetzkennzahl": 34497,
+      "ort": "Langenleuba-Niederhain",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034498",
+      "ortsnetzkennzahl": 34498,
+      "ort": "Rositz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034600",
+      "ortsnetzkennzahl": 34600,
+      "ort": "Ostrau Saalkreis",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034601",
+      "ortsnetzkennzahl": 34601,
+      "ort": "Teutschenthal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034602",
+      "ortsnetzkennzahl": 34602,
+      "ort": "Landsberg Sachs-Anh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034603",
+      "ortsnetzkennzahl": 34603,
+      "ort": "Nauendorf Sachs-Anh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034604",
+      "ortsnetzkennzahl": 34604,
+      "ort": "Niemberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034605",
+      "ortsnetzkennzahl": 34605,
+      "ort": "Gröbers",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034606",
+      "ortsnetzkennzahl": 34606,
+      "ort": "Teicha Sachs-Anh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034607",
+      "ortsnetzkennzahl": 34607,
+      "ort": "Wettin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034609",
+      "ortsnetzkennzahl": 34609,
+      "ort": "Salzmünde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034632",
+      "ortsnetzkennzahl": 34632,
+      "ort": "Mücheln Geiseltal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034633",
+      "ortsnetzkennzahl": 34633,
+      "ort": "Braunsbedra",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034635",
+      "ortsnetzkennzahl": 34635,
+      "ort": "Bad Lauchstädt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034636",
+      "ortsnetzkennzahl": 34636,
+      "ort": "Schafstädt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034637",
+      "ortsnetzkennzahl": 34637,
+      "ort": "Frankleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034638",
+      "ortsnetzkennzahl": 34638,
+      "ort": "Zöschen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034639",
+      "ortsnetzkennzahl": 34639,
+      "ort": "Wallendorf Luppe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034651",
+      "ortsnetzkennzahl": 34651,
+      "ort": "Rossla",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034652",
+      "ortsnetzkennzahl": 34652,
+      "ort": "Allstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034653",
+      "ortsnetzkennzahl": 34653,
+      "ort": "Rottleberode",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034654",
+      "ortsnetzkennzahl": 34654,
+      "ort": "Stolberg Harz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034656",
+      "ortsnetzkennzahl": 34656,
+      "ort": "Wallhausen Sachs-Anh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034658",
+      "ortsnetzkennzahl": 34658,
+      "ort": "Hayn Harz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034659",
+      "ortsnetzkennzahl": 34659,
+      "ort": "Blankenheim b Sangerhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034671",
+      "ortsnetzkennzahl": 34671,
+      "ort": "Bad Frankenhausen Kyffhäuser",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034672",
+      "ortsnetzkennzahl": 34672,
+      "ort": "Rossleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034673",
+      "ortsnetzkennzahl": 34673,
+      "ort": "Heldrungen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034691",
+      "ortsnetzkennzahl": 34691,
+      "ort": "Könnern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034692",
+      "ortsnetzkennzahl": 34692,
+      "ort": "Alsleben Saale",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034721",
+      "ortsnetzkennzahl": 34721,
+      "ort": "Nienburg Saale",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034722",
+      "ortsnetzkennzahl": 34722,
+      "ort": "Preusslitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034741",
+      "ortsnetzkennzahl": 34741,
+      "ort": "Frose",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034742",
+      "ortsnetzkennzahl": 34742,
+      "ort": "Sylda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034743",
+      "ortsnetzkennzahl": 34743,
+      "ort": "Ermsleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034745",
+      "ortsnetzkennzahl": 34745,
+      "ort": "Winningen Sachs-Anh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034746",
+      "ortsnetzkennzahl": 34746,
+      "ort": "Giersleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034771",
+      "ortsnetzkennzahl": 34771,
+      "ort": "Querfurt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034772",
+      "ortsnetzkennzahl": 34772,
+      "ort": "Helbra",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034773",
+      "ortsnetzkennzahl": 34773,
+      "ort": "Schwittersdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034774",
+      "ortsnetzkennzahl": 34774,
+      "ort": "Röblingen am See",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034775",
+      "ortsnetzkennzahl": 34775,
+      "ort": "Wippra",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034776",
+      "ortsnetzkennzahl": 34776,
+      "ort": "Rothenschirmbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034779",
+      "ortsnetzkennzahl": 34779,
+      "ort": "Abberode",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034781",
+      "ortsnetzkennzahl": 34781,
+      "ort": "Greifenhagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034782",
+      "ortsnetzkennzahl": 34782,
+      "ort": "Mansfeld Südharz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034783",
+      "ortsnetzkennzahl": 34783,
+      "ort": "Gerbstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034785",
+      "ortsnetzkennzahl": 34785,
+      "ort": "Sandersleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034901",
+      "ortsnetzkennzahl": 34901,
+      "ort": "Roßlau Elbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034903",
+      "ortsnetzkennzahl": 34903,
+      "ort": "Coswig Anhalt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034904",
+      "ortsnetzkennzahl": 34904,
+      "ort": "Oranienbaum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034905",
+      "ortsnetzkennzahl": 34905,
+      "ort": "Wörlitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034906",
+      "ortsnetzkennzahl": 34906,
+      "ort": "Raguhn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034907",
+      "ortsnetzkennzahl": 34907,
+      "ort": "Jeber-Bergfrieden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034909",
+      "ortsnetzkennzahl": 34909,
+      "ort": "Aken Elbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034920",
+      "ortsnetzkennzahl": 34920,
+      "ort": "Kropstädt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034921",
+      "ortsnetzkennzahl": 34921,
+      "ort": "Kemberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034922",
+      "ortsnetzkennzahl": 34922,
+      "ort": "Mühlanger",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034923",
+      "ortsnetzkennzahl": 34923,
+      "ort": "Cobbelsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034924",
+      "ortsnetzkennzahl": 34924,
+      "ort": "Zahna",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034925",
+      "ortsnetzkennzahl": 34925,
+      "ort": "Bad Schmiedeberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034926",
+      "ortsnetzkennzahl": 34926,
+      "ort": "Pretzsch Elbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034927",
+      "ortsnetzkennzahl": 34927,
+      "ort": "Globig-Bleddin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034928",
+      "ortsnetzkennzahl": 34928,
+      "ort": "Seegrehna",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034929",
+      "ortsnetzkennzahl": 34929,
+      "ort": "Straach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034953",
+      "ortsnetzkennzahl": 34953,
+      "ort": "Gräfenhainichen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034954",
+      "ortsnetzkennzahl": 34954,
+      "ort": "Roitzsch b Bitterfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034955",
+      "ortsnetzkennzahl": 34955,
+      "ort": "Gossa",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034956",
+      "ortsnetzkennzahl": 34956,
+      "ort": "Zörbig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034973",
+      "ortsnetzkennzahl": 34973,
+      "ort": "Osternienburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034975",
+      "ortsnetzkennzahl": 34975,
+      "ort": "Görzig Kr Köthen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034976",
+      "ortsnetzkennzahl": 34976,
+      "ort": "Gröbzig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034977",
+      "ortsnetzkennzahl": 34977,
+      "ort": "Quellendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034978",
+      "ortsnetzkennzahl": 34978,
+      "ort": "Radegast Kr Köthen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "034979",
+      "ortsnetzkennzahl": 34979,
+      "ort": "Wulfen Sachs-Anh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035020",
+      "ortsnetzkennzahl": 35020,
+      "ort": "Struppen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035021",
+      "ortsnetzkennzahl": 35021,
+      "ort": "Königstein Sächs Schweiz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035022",
+      "ortsnetzkennzahl": 35022,
+      "ort": "Bad Schandau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035023",
+      "ortsnetzkennzahl": 35023,
+      "ort": "Bad Gottleuba",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035024",
+      "ortsnetzkennzahl": 35024,
+      "ort": "Stadt Wehlen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035025",
+      "ortsnetzkennzahl": 35025,
+      "ort": "Liebstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035026",
+      "ortsnetzkennzahl": 35026,
+      "ort": "Dürrröhrsdorf-Dittersbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035027",
+      "ortsnetzkennzahl": 35027,
+      "ort": "Weesenstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035028",
+      "ortsnetzkennzahl": 35028,
+      "ort": "Krippen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035032",
+      "ortsnetzkennzahl": 35032,
+      "ort": "Langenhennersdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035033",
+      "ortsnetzkennzahl": 35033,
+      "ort": "Rosenthal Sächs Schweiz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035052",
+      "ortsnetzkennzahl": 35052,
+      "ort": "Kipsdorf Kurort",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035053",
+      "ortsnetzkennzahl": 35053,
+      "ort": "Glashütte Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035054",
+      "ortsnetzkennzahl": 35054,
+      "ort": "Lauenstein Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035055",
+      "ortsnetzkennzahl": 35055,
+      "ort": "Höckendorf b Dippoldiswalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035056",
+      "ortsnetzkennzahl": 35056,
+      "ort": "Altenberg Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035057",
+      "ortsnetzkennzahl": 35057,
+      "ort": "Hermsdorf Erzgeb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035058",
+      "ortsnetzkennzahl": 35058,
+      "ort": "Pretzschendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035200",
+      "ortsnetzkennzahl": 35200,
+      "ort": "Arnsdorf b Dresden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035201",
+      "ortsnetzkennzahl": 35201,
+      "ort": "Langebrück",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035202",
+      "ortsnetzkennzahl": 35202,
+      "ort": "Klingenberg Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035203",
+      "ortsnetzkennzahl": 35203,
+      "ort": "Tharandt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035204",
+      "ortsnetzkennzahl": 35204,
+      "ort": "Wilsdruff",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035205",
+      "ortsnetzkennzahl": 35205,
+      "ort": "Ottendorf-Okrilla",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035206",
+      "ortsnetzkennzahl": 35206,
+      "ort": "Kreischa b Dresden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035207",
+      "ortsnetzkennzahl": 35207,
+      "ort": "Moritzburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035208",
+      "ortsnetzkennzahl": 35208,
+      "ort": "Radeburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035209",
+      "ortsnetzkennzahl": 35209,
+      "ort": "Mohorn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035240",
+      "ortsnetzkennzahl": 35240,
+      "ort": "Tauscha b Großenhain",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035241",
+      "ortsnetzkennzahl": 35241,
+      "ort": "Lommatzsch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035242",
+      "ortsnetzkennzahl": 35242,
+      "ort": "Nossen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035243",
+      "ortsnetzkennzahl": 35243,
+      "ort": "Weinböhla",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035244",
+      "ortsnetzkennzahl": 35244,
+      "ort": "Krögis",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035245",
+      "ortsnetzkennzahl": 35245,
+      "ort": "Burkhardswalde-Munzig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035246",
+      "ortsnetzkennzahl": 35246,
+      "ort": "Ziegenhain Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035247",
+      "ortsnetzkennzahl": 35247,
+      "ort": "Zehren Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035248",
+      "ortsnetzkennzahl": 35248,
+      "ort": "Schönfeld b Großenhain",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035249",
+      "ortsnetzkennzahl": 35249,
+      "ort": "Basslitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035263",
+      "ortsnetzkennzahl": 35263,
+      "ort": "Gröditz b Riesa",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035264",
+      "ortsnetzkennzahl": 35264,
+      "ort": "Strehla",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035265",
+      "ortsnetzkennzahl": 35265,
+      "ort": "Glaubitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035266",
+      "ortsnetzkennzahl": 35266,
+      "ort": "Heyda b Riesa",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035267",
+      "ortsnetzkennzahl": 35267,
+      "ort": "Diesbar-Seusslitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035268",
+      "ortsnetzkennzahl": 35268,
+      "ort": "Stauchitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035322",
+      "ortsnetzkennzahl": 35322,
+      "ort": "Doberlug-Kirchhain",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035323",
+      "ortsnetzkennzahl": 35323,
+      "ort": "Sonnewalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035324",
+      "ortsnetzkennzahl": 35324,
+      "ort": "Crinitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035325",
+      "ortsnetzkennzahl": 35325,
+      "ort": "Rückersdorf b Finsterwalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035326",
+      "ortsnetzkennzahl": 35326,
+      "ort": "Schönborn Kr Elbe-Elster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035327",
+      "ortsnetzkennzahl": 35327,
+      "ort": "Priessen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035329",
+      "ortsnetzkennzahl": 35329,
+      "ort": "Dollenchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035341",
+      "ortsnetzkennzahl": 35341,
+      "ort": "Bad Liebenwerda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035342",
+      "ortsnetzkennzahl": 35342,
+      "ort": "Mühlberg Elbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035343",
+      "ortsnetzkennzahl": 35343,
+      "ort": "Hirschfeld b Elsterwerda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035361",
+      "ortsnetzkennzahl": 35361,
+      "ort": "Schlieben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035362",
+      "ortsnetzkennzahl": 35362,
+      "ort": "Schönewalde b Herzberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035363",
+      "ortsnetzkennzahl": 35363,
+      "ort": "Fermerswalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035364",
+      "ortsnetzkennzahl": 35364,
+      "ort": "Lebusa",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035365",
+      "ortsnetzkennzahl": 35365,
+      "ort": "Falkenberg Elster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035383",
+      "ortsnetzkennzahl": 35383,
+      "ort": "Elster Elbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035384",
+      "ortsnetzkennzahl": 35384,
+      "ort": "Steinsdorf b Jessen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035385",
+      "ortsnetzkennzahl": 35385,
+      "ort": "Annaburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035386",
+      "ortsnetzkennzahl": 35386,
+      "ort": "Prettin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035387",
+      "ortsnetzkennzahl": 35387,
+      "ort": "Seyda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035388",
+      "ortsnetzkennzahl": 35388,
+      "ort": "Klöden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035389",
+      "ortsnetzkennzahl": 35389,
+      "ort": "Holzdorf Elster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035433",
+      "ortsnetzkennzahl": 35433,
+      "ort": "Vetschau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035434",
+      "ortsnetzkennzahl": 35434,
+      "ort": "Altdöbern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035435",
+      "ortsnetzkennzahl": 35435,
+      "ort": "Gollmitz b Calau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035436",
+      "ortsnetzkennzahl": 35436,
+      "ort": "Laasow b Calau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035439",
+      "ortsnetzkennzahl": 35439,
+      "ort": "Zinnitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035451",
+      "ortsnetzkennzahl": 35451,
+      "ort": "Dahme Brandenb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035452",
+      "ortsnetzkennzahl": 35452,
+      "ort": "Golssen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035453",
+      "ortsnetzkennzahl": 35453,
+      "ort": "Drahnsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035454",
+      "ortsnetzkennzahl": 35454,
+      "ort": "Uckro",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035455",
+      "ortsnetzkennzahl": 35455,
+      "ort": "Walddrehna",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035456",
+      "ortsnetzkennzahl": 35456,
+      "ort": "Terpt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035471",
+      "ortsnetzkennzahl": 35471,
+      "ort": "Birkenhainchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035472",
+      "ortsnetzkennzahl": 35472,
+      "ort": "Schlepzig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035473",
+      "ortsnetzkennzahl": 35473,
+      "ort": "Neu Lübbenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035474",
+      "ortsnetzkennzahl": 35474,
+      "ort": "Schönwalde b Lübben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035475",
+      "ortsnetzkennzahl": 35475,
+      "ort": "Straupitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035476",
+      "ortsnetzkennzahl": 35476,
+      "ort": "Wittmannsdorf-Bückchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035477",
+      "ortsnetzkennzahl": 35477,
+      "ort": "Rietzneuendorf-Friedrichshof",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035478",
+      "ortsnetzkennzahl": 35478,
+      "ort": "Goyatz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035600",
+      "ortsnetzkennzahl": 35600,
+      "ort": "Döbern NL",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035601",
+      "ortsnetzkennzahl": 35601,
+      "ort": "Peitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035602",
+      "ortsnetzkennzahl": 35602,
+      "ort": "Drebkau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035603",
+      "ortsnetzkennzahl": 35603,
+      "ort": "Burg Spreewald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035604",
+      "ortsnetzkennzahl": 35604,
+      "ort": "Krieschow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035605",
+      "ortsnetzkennzahl": 35605,
+      "ort": "Komptendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035606",
+      "ortsnetzkennzahl": 35606,
+      "ort": "Briesen b Cottbus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035607",
+      "ortsnetzkennzahl": 35607,
+      "ort": "Jänschwalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035608",
+      "ortsnetzkennzahl": 35608,
+      "ort": "Gross Ossnig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035609",
+      "ortsnetzkennzahl": 35609,
+      "ort": "Drachhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035691",
+      "ortsnetzkennzahl": 35691,
+      "ort": "Bärenklau NL",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035692",
+      "ortsnetzkennzahl": 35692,
+      "ort": "Kerkwitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035693",
+      "ortsnetzkennzahl": 35693,
+      "ort": "Lauschütz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035694",
+      "ortsnetzkennzahl": 35694,
+      "ort": "Gosda b Klinge",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035695",
+      "ortsnetzkennzahl": 35695,
+      "ort": "Simmersdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035696",
+      "ortsnetzkennzahl": 35696,
+      "ort": "Briesnig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035697",
+      "ortsnetzkennzahl": 35697,
+      "ort": "Bagenz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035698",
+      "ortsnetzkennzahl": 35698,
+      "ort": "Hornow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035722",
+      "ortsnetzkennzahl": 35722,
+      "ort": "Lauta b Hoyerswerda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035723",
+      "ortsnetzkennzahl": 35723,
+      "ort": "Bernsdorf OL",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035724",
+      "ortsnetzkennzahl": 35724,
+      "ort": "Lohsa",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035725",
+      "ortsnetzkennzahl": 35725,
+      "ort": "Wittichenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035726",
+      "ortsnetzkennzahl": 35726,
+      "ort": "Groß Särchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035727",
+      "ortsnetzkennzahl": 35727,
+      "ort": "Burghammer",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035728",
+      "ortsnetzkennzahl": 35728,
+      "ort": "Uhyst Spree",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035751",
+      "ortsnetzkennzahl": 35751,
+      "ort": "Welzow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035752",
+      "ortsnetzkennzahl": 35752,
+      "ort": "Ruhland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035753",
+      "ortsnetzkennzahl": 35753,
+      "ort": "Großräschen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035754",
+      "ortsnetzkennzahl": 35754,
+      "ort": "Klettwitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035755",
+      "ortsnetzkennzahl": 35755,
+      "ort": "Ortrand",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035756",
+      "ortsnetzkennzahl": 35756,
+      "ort": "Hosena",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035771",
+      "ortsnetzkennzahl": 35771,
+      "ort": "Bad Muskau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035772",
+      "ortsnetzkennzahl": 35772,
+      "ort": "Rietschen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035773",
+      "ortsnetzkennzahl": 35773,
+      "ort": "Schleife",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035774",
+      "ortsnetzkennzahl": 35774,
+      "ort": "Boxberg Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035775",
+      "ortsnetzkennzahl": 35775,
+      "ort": "Pechern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035792",
+      "ortsnetzkennzahl": 35792,
+      "ort": "Ossling",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035793",
+      "ortsnetzkennzahl": 35793,
+      "ort": "Elstra",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035795",
+      "ortsnetzkennzahl": 35795,
+      "ort": "Königsbrück",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035796",
+      "ortsnetzkennzahl": 35796,
+      "ort": "Panschwitz-Kuckau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035797",
+      "ortsnetzkennzahl": 35797,
+      "ort": "Schwepnitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035820",
+      "ortsnetzkennzahl": 35820,
+      "ort": "Zodel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035822",
+      "ortsnetzkennzahl": 35822,
+      "ort": "Hagenwerder",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035823",
+      "ortsnetzkennzahl": 35823,
+      "ort": "Ostritz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035825",
+      "ortsnetzkennzahl": 35825,
+      "ort": "Kodersdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035826",
+      "ortsnetzkennzahl": 35826,
+      "ort": "Königshain b Görlitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035827",
+      "ortsnetzkennzahl": 35827,
+      "ort": "Nieder-Seifersdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035828",
+      "ortsnetzkennzahl": 35828,
+      "ort": "Reichenbach OL",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035829",
+      "ortsnetzkennzahl": 35829,
+      "ort": "Gersdorf b Görlitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035841",
+      "ortsnetzkennzahl": 35841,
+      "ort": "Großschönau Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035842",
+      "ortsnetzkennzahl": 35842,
+      "ort": "Oderwitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035843",
+      "ortsnetzkennzahl": 35843,
+      "ort": "Hirschfelde b Zittau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035844",
+      "ortsnetzkennzahl": 35844,
+      "ort": "Oybin Kurort",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035872",
+      "ortsnetzkennzahl": 35872,
+      "ort": "Neusalza-Spremberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035873",
+      "ortsnetzkennzahl": 35873,
+      "ort": "Herrnhut",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035874",
+      "ortsnetzkennzahl": 35874,
+      "ort": "Bernstadt a d Eigen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035875",
+      "ortsnetzkennzahl": 35875,
+      "ort": "Obercunnersdorf b Löbau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035876",
+      "ortsnetzkennzahl": 35876,
+      "ort": "Weissenberg Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035877",
+      "ortsnetzkennzahl": 35877,
+      "ort": "Cunewalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035891",
+      "ortsnetzkennzahl": 35891,
+      "ort": "Rothenburg OL",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035892",
+      "ortsnetzkennzahl": 35892,
+      "ort": "Horka OL",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035893",
+      "ortsnetzkennzahl": 35893,
+      "ort": "Mücka",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035894",
+      "ortsnetzkennzahl": 35894,
+      "ort": "Hähnichen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035895",
+      "ortsnetzkennzahl": 35895,
+      "ort": "Klitten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035930",
+      "ortsnetzkennzahl": 35930,
+      "ort": "Seitschen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035931",
+      "ortsnetzkennzahl": 35931,
+      "ort": "Königswartha",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035932",
+      "ortsnetzkennzahl": 35932,
+      "ort": "Guttau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035933",
+      "ortsnetzkennzahl": 35933,
+      "ort": "Neschwitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035934",
+      "ortsnetzkennzahl": 35934,
+      "ort": "Grossdubrau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035935",
+      "ortsnetzkennzahl": 35935,
+      "ort": "Kleinwelka",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035936",
+      "ortsnetzkennzahl": 35936,
+      "ort": "Sohland Spree",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035937",
+      "ortsnetzkennzahl": 35937,
+      "ort": "Prischwitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035938",
+      "ortsnetzkennzahl": 35938,
+      "ort": "Großpostwitz OL",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035939",
+      "ortsnetzkennzahl": 35939,
+      "ort": "Hochkirch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035951",
+      "ortsnetzkennzahl": 35951,
+      "ort": "Neukirch Lausitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035952",
+      "ortsnetzkennzahl": 35952,
+      "ort": "Großröhrsdorf OL",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035953",
+      "ortsnetzkennzahl": 35953,
+      "ort": "Burkau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035954",
+      "ortsnetzkennzahl": 35954,
+      "ort": "Grossharthau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035955",
+      "ortsnetzkennzahl": 35955,
+      "ort": "Pulsnitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035971",
+      "ortsnetzkennzahl": 35971,
+      "ort": "Sebnitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035973",
+      "ortsnetzkennzahl": 35973,
+      "ort": "Stolpen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035974",
+      "ortsnetzkennzahl": 35974,
+      "ort": "Hinterhermsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "035975",
+      "ortsnetzkennzahl": 35975,
+      "ort": "Hohnstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036020",
+      "ortsnetzkennzahl": 36020,
+      "ort": "Ebeleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036021",
+      "ortsnetzkennzahl": 36021,
+      "ort": "Schlotheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036022",
+      "ortsnetzkennzahl": 36022,
+      "ort": "Grossengottern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036023",
+      "ortsnetzkennzahl": 36023,
+      "ort": "Horsmar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036024",
+      "ortsnetzkennzahl": 36024,
+      "ort": "Diedorf b Mühlhausen Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036025",
+      "ortsnetzkennzahl": 36025,
+      "ort": "Körner",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036026",
+      "ortsnetzkennzahl": 36026,
+      "ort": "Struth b Mühlhausen Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036027",
+      "ortsnetzkennzahl": 36027,
+      "ort": "Lengenfeld Unterm Stein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036028",
+      "ortsnetzkennzahl": 36028,
+      "ort": "Kammerforst Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036029",
+      "ortsnetzkennzahl": 36029,
+      "ort": "Menteroda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036041",
+      "ortsnetzkennzahl": 36041,
+      "ort": "Bad Tennstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036042",
+      "ortsnetzkennzahl": 36042,
+      "ort": "Tonna",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036043",
+      "ortsnetzkennzahl": 36043,
+      "ort": "Kirchheilingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036071",
+      "ortsnetzkennzahl": 36071,
+      "ort": "Teistungen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036072",
+      "ortsnetzkennzahl": 36072,
+      "ort": "Weißenborn-Lüderode",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036074",
+      "ortsnetzkennzahl": 36074,
+      "ort": "Worbis",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036075",
+      "ortsnetzkennzahl": 36075,
+      "ort": "Dingelstädt Eichsfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036076",
+      "ortsnetzkennzahl": 36076,
+      "ort": "Niederorschel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036077",
+      "ortsnetzkennzahl": 36077,
+      "ort": "Grossbodungen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036081",
+      "ortsnetzkennzahl": 36081,
+      "ort": "Arenshausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036082",
+      "ortsnetzkennzahl": 36082,
+      "ort": "Ershausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036083",
+      "ortsnetzkennzahl": 36083,
+      "ort": "Uder",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036084",
+      "ortsnetzkennzahl": 36084,
+      "ort": "Heuthen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036085",
+      "ortsnetzkennzahl": 36085,
+      "ort": "Reinholterode",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036087",
+      "ortsnetzkennzahl": 36087,
+      "ort": "Wüstheuterode",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036200",
+      "ortsnetzkennzahl": 36200,
+      "ort": "Elxleben b Arnstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036201",
+      "ortsnetzkennzahl": 36201,
+      "ort": "Walschleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036202",
+      "ortsnetzkennzahl": 36202,
+      "ort": "Neudietendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036203",
+      "ortsnetzkennzahl": 36203,
+      "ort": "Vieselbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036204",
+      "ortsnetzkennzahl": 36204,
+      "ort": "Stotternheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036205",
+      "ortsnetzkennzahl": 36205,
+      "ort": "Gräfenroda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036206",
+      "ortsnetzkennzahl": 36206,
+      "ort": "Grossfahner",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036207",
+      "ortsnetzkennzahl": 36207,
+      "ort": "Plaue Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036208",
+      "ortsnetzkennzahl": 36208,
+      "ort": "Ermstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036209",
+      "ortsnetzkennzahl": 36209,
+      "ort": "Klettbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036252",
+      "ortsnetzkennzahl": 36252,
+      "ort": "Tambach-Dietharz Thür Wald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036253",
+      "ortsnetzkennzahl": 36253,
+      "ort": "Georgenthal Thür Wald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036254",
+      "ortsnetzkennzahl": 36254,
+      "ort": "Friedrichswerth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036255",
+      "ortsnetzkennzahl": 36255,
+      "ort": "Goldbach b Gotha",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036256",
+      "ortsnetzkennzahl": 36256,
+      "ort": "Wechmar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036257",
+      "ortsnetzkennzahl": 36257,
+      "ort": "Luisenthal Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036258",
+      "ortsnetzkennzahl": 36258,
+      "ort": "Friemar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036259",
+      "ortsnetzkennzahl": 36259,
+      "ort": "Tabarz Thür Wald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036330",
+      "ortsnetzkennzahl": 36330,
+      "ort": "Grossberndten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036331",
+      "ortsnetzkennzahl": 36331,
+      "ort": "Ilfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036332",
+      "ortsnetzkennzahl": 36332,
+      "ort": "Ellrich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036333",
+      "ortsnetzkennzahl": 36333,
+      "ort": "Heringen Helme",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036334",
+      "ortsnetzkennzahl": 36334,
+      "ort": "Wolkramshausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036335",
+      "ortsnetzkennzahl": 36335,
+      "ort": "Grosswechsungen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036336",
+      "ortsnetzkennzahl": 36336,
+      "ort": "Klettenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036337",
+      "ortsnetzkennzahl": 36337,
+      "ort": "Schiedungen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036338",
+      "ortsnetzkennzahl": 36338,
+      "ort": "Bleicherode",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036370",
+      "ortsnetzkennzahl": 36370,
+      "ort": "Grossenehrich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036371",
+      "ortsnetzkennzahl": 36371,
+      "ort": "Schlossvippach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036372",
+      "ortsnetzkennzahl": 36372,
+      "ort": "Kleinneuhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036373",
+      "ortsnetzkennzahl": 36373,
+      "ort": "Buttstädt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036374",
+      "ortsnetzkennzahl": 36374,
+      "ort": "Weissensee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036375",
+      "ortsnetzkennzahl": 36375,
+      "ort": "Kindelbrück",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036376",
+      "ortsnetzkennzahl": 36376,
+      "ort": "Straussfurt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036377",
+      "ortsnetzkennzahl": 36377,
+      "ort": "Rastenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036378",
+      "ortsnetzkennzahl": 36378,
+      "ort": "Ostramondra",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036379",
+      "ortsnetzkennzahl": 36379,
+      "ort": "Holzengel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036421",
+      "ortsnetzkennzahl": 36421,
+      "ort": "Camburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036422",
+      "ortsnetzkennzahl": 36422,
+      "ort": "Reinstädt Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036423",
+      "ortsnetzkennzahl": 36423,
+      "ort": "Orlamünde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036424",
+      "ortsnetzkennzahl": 36424,
+      "ort": "Kahla Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036425",
+      "ortsnetzkennzahl": 36425,
+      "ort": "Isserstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036426",
+      "ortsnetzkennzahl": 36426,
+      "ort": "Ottendorf b Stadtroda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036427",
+      "ortsnetzkennzahl": 36427,
+      "ort": "Dornburg Saale",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036428",
+      "ortsnetzkennzahl": 36428,
+      "ort": "Stadtroda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036450",
+      "ortsnetzkennzahl": 36450,
+      "ort": "Kranichfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036451",
+      "ortsnetzkennzahl": 36451,
+      "ort": "Buttelstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036452",
+      "ortsnetzkennzahl": 36452,
+      "ort": "Berlstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036453",
+      "ortsnetzkennzahl": 36453,
+      "ort": "Mellingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036454",
+      "ortsnetzkennzahl": 36454,
+      "ort": "Magdala",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036458",
+      "ortsnetzkennzahl": 36458,
+      "ort": "Bad Berka",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036459",
+      "ortsnetzkennzahl": 36459,
+      "ort": "Blankenhain Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036461",
+      "ortsnetzkennzahl": 36461,
+      "ort": "Bad Sulza",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036462",
+      "ortsnetzkennzahl": 36462,
+      "ort": "Ossmannstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036463",
+      "ortsnetzkennzahl": 36463,
+      "ort": "Gebstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036464",
+      "ortsnetzkennzahl": 36464,
+      "ort": "Wormstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036465",
+      "ortsnetzkennzahl": 36465,
+      "ort": "Oberndorf b Apolda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036481",
+      "ortsnetzkennzahl": 36481,
+      "ort": "Neustadt an der Orla",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036482",
+      "ortsnetzkennzahl": 36482,
+      "ort": "Triptis",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036483",
+      "ortsnetzkennzahl": 36483,
+      "ort": "Ziegenrück",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036484",
+      "ortsnetzkennzahl": 36484,
+      "ort": "Knau b Pößneck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036601",
+      "ortsnetzkennzahl": 36601,
+      "ort": "Hermsdorf Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036602",
+      "ortsnetzkennzahl": 36602,
+      "ort": "Ronneburg Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036603",
+      "ortsnetzkennzahl": 36603,
+      "ort": "Weida",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036604",
+      "ortsnetzkennzahl": 36604,
+      "ort": "Münchenbernsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036605",
+      "ortsnetzkennzahl": 36605,
+      "ort": "Bad Köstritz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036606",
+      "ortsnetzkennzahl": 36606,
+      "ort": "Kraftsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036607",
+      "ortsnetzkennzahl": 36607,
+      "ort": "Niederpöllnitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036608",
+      "ortsnetzkennzahl": 36608,
+      "ort": "Seelingstädt b Gera",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036621",
+      "ortsnetzkennzahl": 36621,
+      "ort": "Elsterberg b Plauen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036622",
+      "ortsnetzkennzahl": 36622,
+      "ort": "Triebes",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036623",
+      "ortsnetzkennzahl": 36623,
+      "ort": "Berga Elster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036624",
+      "ortsnetzkennzahl": 36624,
+      "ort": "Teichwolframsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036625",
+      "ortsnetzkennzahl": 36625,
+      "ort": "Langenwetzendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036626",
+      "ortsnetzkennzahl": 36626,
+      "ort": "Auma",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036628",
+      "ortsnetzkennzahl": 36628,
+      "ort": "Zeulenroda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036640",
+      "ortsnetzkennzahl": 36640,
+      "ort": "Remptendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036642",
+      "ortsnetzkennzahl": 36642,
+      "ort": "Harra",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036643",
+      "ortsnetzkennzahl": 36643,
+      "ort": "Thimmendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036644",
+      "ortsnetzkennzahl": 36644,
+      "ort": "Hirschberg Saale",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036645",
+      "ortsnetzkennzahl": 36645,
+      "ort": "Mühltroff",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036646",
+      "ortsnetzkennzahl": 36646,
+      "ort": "Tanna b Schleiz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036647",
+      "ortsnetzkennzahl": 36647,
+      "ort": "Saalburg Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036648",
+      "ortsnetzkennzahl": 36648,
+      "ort": "Dittersdorf b Schleiz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036649",
+      "ortsnetzkennzahl": 36649,
+      "ort": "Gefell b Schleiz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036651",
+      "ortsnetzkennzahl": 36651,
+      "ort": "Lobenstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036652",
+      "ortsnetzkennzahl": 36652,
+      "ort": "Wurzbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036653",
+      "ortsnetzkennzahl": 36653,
+      "ort": "Lehesten Thür Wald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036691",
+      "ortsnetzkennzahl": 36691,
+      "ort": "Eisenberg Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036692",
+      "ortsnetzkennzahl": 36692,
+      "ort": "Bürgel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036693",
+      "ortsnetzkennzahl": 36693,
+      "ort": "Crossen an der Elster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036694",
+      "ortsnetzkennzahl": 36694,
+      "ort": "Schkölen Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036695",
+      "ortsnetzkennzahl": 36695,
+      "ort": "Söllmnitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036701",
+      "ortsnetzkennzahl": 36701,
+      "ort": "Lichte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036702",
+      "ortsnetzkennzahl": 36702,
+      "ort": "Lauscha",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036703",
+      "ortsnetzkennzahl": 36703,
+      "ort": "Gräfenthal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036704",
+      "ortsnetzkennzahl": 36704,
+      "ort": "Steinheid",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036705",
+      "ortsnetzkennzahl": 36705,
+      "ort": "Oberweißbach Thür Wald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036730",
+      "ortsnetzkennzahl": 36730,
+      "ort": "Sitzendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036731",
+      "ortsnetzkennzahl": 36731,
+      "ort": "Unterloquitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036732",
+      "ortsnetzkennzahl": 36732,
+      "ort": "Könitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036733",
+      "ortsnetzkennzahl": 36733,
+      "ort": "Kaulsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036734",
+      "ortsnetzkennzahl": 36734,
+      "ort": "Leutenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036735",
+      "ortsnetzkennzahl": 36735,
+      "ort": "Probstzella",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036736",
+      "ortsnetzkennzahl": 36736,
+      "ort": "Arnsgereuth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036737",
+      "ortsnetzkennzahl": 36737,
+      "ort": "Drognitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036738",
+      "ortsnetzkennzahl": 36738,
+      "ort": "Königsee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036739",
+      "ortsnetzkennzahl": 36739,
+      "ort": "Rottenbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036741",
+      "ortsnetzkennzahl": 36741,
+      "ort": "Bad Blankenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036742",
+      "ortsnetzkennzahl": 36742,
+      "ort": "Uhlstädt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036743",
+      "ortsnetzkennzahl": 36743,
+      "ort": "Teichel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036744",
+      "ortsnetzkennzahl": 36744,
+      "ort": "Remda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036761",
+      "ortsnetzkennzahl": 36761,
+      "ort": "Heubisch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036762",
+      "ortsnetzkennzahl": 36762,
+      "ort": "Steinach Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036764",
+      "ortsnetzkennzahl": 36764,
+      "ort": "Neuhaus-Schierschnitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036766",
+      "ortsnetzkennzahl": 36766,
+      "ort": "Schalkau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036781",
+      "ortsnetzkennzahl": 36781,
+      "ort": "Grossbreitenbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036782",
+      "ortsnetzkennzahl": 36782,
+      "ort": "Schmiedefeld a Rennsteig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036783",
+      "ortsnetzkennzahl": 36783,
+      "ort": "Gehren Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036784",
+      "ortsnetzkennzahl": 36784,
+      "ort": "Stützerbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036785",
+      "ortsnetzkennzahl": 36785,
+      "ort": "Gräfinau-Angstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036840",
+      "ortsnetzkennzahl": 36840,
+      "ort": "Trusetal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036841",
+      "ortsnetzkennzahl": 36841,
+      "ort": "Schleusingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036842",
+      "ortsnetzkennzahl": 36842,
+      "ort": "Oberhof Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036843",
+      "ortsnetzkennzahl": 36843,
+      "ort": "Benshausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036844",
+      "ortsnetzkennzahl": 36844,
+      "ort": "Rohr Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036845",
+      "ortsnetzkennzahl": 36845,
+      "ort": "Gehlberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036846",
+      "ortsnetzkennzahl": 36846,
+      "ort": "Suhl-Dietzhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036847",
+      "ortsnetzkennzahl": 36847,
+      "ort": "Steinbach-Hallenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036848",
+      "ortsnetzkennzahl": 36848,
+      "ort": "Wernshausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036849",
+      "ortsnetzkennzahl": 36849,
+      "ort": "Kleinschmalkalden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036870",
+      "ortsnetzkennzahl": 36870,
+      "ort": "Masserberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036871",
+      "ortsnetzkennzahl": 36871,
+      "ort": "Bad Colberg-Heldburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036873",
+      "ortsnetzkennzahl": 36873,
+      "ort": "Themar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036874",
+      "ortsnetzkennzahl": 36874,
+      "ort": "Schönbrunn b Hildburghaus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036875",
+      "ortsnetzkennzahl": 36875,
+      "ort": "Straufhain-Streufdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036878",
+      "ortsnetzkennzahl": 36878,
+      "ort": "Oberland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036920",
+      "ortsnetzkennzahl": 36920,
+      "ort": "Grossenlupnitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036921",
+      "ortsnetzkennzahl": 36921,
+      "ort": "Wutha-Farnroda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036922",
+      "ortsnetzkennzahl": 36922,
+      "ort": "Gerstungen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036923",
+      "ortsnetzkennzahl": 36923,
+      "ort": "Treffurt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036924",
+      "ortsnetzkennzahl": 36924,
+      "ort": "Mihla",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036925",
+      "ortsnetzkennzahl": 36925,
+      "ort": "Marksuhl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036926",
+      "ortsnetzkennzahl": 36926,
+      "ort": "Creuzburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036927",
+      "ortsnetzkennzahl": 36927,
+      "ort": "Unterellen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036928",
+      "ortsnetzkennzahl": 36928,
+      "ort": "Neuenhof Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036929",
+      "ortsnetzkennzahl": 36929,
+      "ort": "Ruhla",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036940",
+      "ortsnetzkennzahl": 36940,
+      "ort": "Oepfershausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036941",
+      "ortsnetzkennzahl": 36941,
+      "ort": "Wasungen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036943",
+      "ortsnetzkennzahl": 36943,
+      "ort": "Bettenhausen Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036944",
+      "ortsnetzkennzahl": 36944,
+      "ort": "Rentwertshausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036945",
+      "ortsnetzkennzahl": 36945,
+      "ort": "Henneberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036946",
+      "ortsnetzkennzahl": 36946,
+      "ort": "Erbenhausen Thür",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036947",
+      "ortsnetzkennzahl": 36947,
+      "ort": "Jüchsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036948",
+      "ortsnetzkennzahl": 36948,
+      "ort": "Römhild",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036949",
+      "ortsnetzkennzahl": 36949,
+      "ort": "Obermaßfeld-Grimmenthal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036961",
+      "ortsnetzkennzahl": 36961,
+      "ort": "Bad Liebenstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036962",
+      "ortsnetzkennzahl": 36962,
+      "ort": "Vacha",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036963",
+      "ortsnetzkennzahl": 36963,
+      "ort": "Dorndorf Rhön",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036964",
+      "ortsnetzkennzahl": 36964,
+      "ort": "Dermbach Rhön",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036965",
+      "ortsnetzkennzahl": 36965,
+      "ort": "Stadtlengsfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036966",
+      "ortsnetzkennzahl": 36966,
+      "ort": "Kaltennordheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036967",
+      "ortsnetzkennzahl": 36967,
+      "ort": "Geisa",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036968",
+      "ortsnetzkennzahl": 36968,
+      "ort": "Rossdorf Rhön",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "036969",
+      "ortsnetzkennzahl": 36969,
+      "ort": "Merkers",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037200",
+      "ortsnetzkennzahl": 37200,
+      "ort": "Wittgensdorf b Chemnitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037202",
+      "ortsnetzkennzahl": 37202,
+      "ort": "Claussnitz b Chemnitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037203",
+      "ortsnetzkennzahl": 37203,
+      "ort": "Gersdorf b Chemnitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037204",
+      "ortsnetzkennzahl": 37204,
+      "ort": "Lichtenstein Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037206",
+      "ortsnetzkennzahl": 37206,
+      "ort": "Frankenberg Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037207",
+      "ortsnetzkennzahl": 37207,
+      "ort": "Hainichen Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037208",
+      "ortsnetzkennzahl": 37208,
+      "ort": "Auerswalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037209",
+      "ortsnetzkennzahl": 37209,
+      "ort": "Einsiedel b Chemnitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037291",
+      "ortsnetzkennzahl": 37291,
+      "ort": "Augustusburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037292",
+      "ortsnetzkennzahl": 37292,
+      "ort": "Oederan",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037293",
+      "ortsnetzkennzahl": 37293,
+      "ort": "Eppendorf Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037294",
+      "ortsnetzkennzahl": 37294,
+      "ort": "Grünhainichen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037295",
+      "ortsnetzkennzahl": 37295,
+      "ort": "Lugau Erzgeb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037296",
+      "ortsnetzkennzahl": 37296,
+      "ort": "Stollberg Erzgeb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037297",
+      "ortsnetzkennzahl": 37297,
+      "ort": "Thum Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037298",
+      "ortsnetzkennzahl": 37298,
+      "ort": "Oelsnitz Erzgeb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037320",
+      "ortsnetzkennzahl": 37320,
+      "ort": "Mulda Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037321",
+      "ortsnetzkennzahl": 37321,
+      "ort": "Frankenstein Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037322",
+      "ortsnetzkennzahl": 37322,
+      "ort": "Brand-Erbisdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037323",
+      "ortsnetzkennzahl": 37323,
+      "ort": "Lichtenberg Erzgeb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037324",
+      "ortsnetzkennzahl": 37324,
+      "ort": "Reinsberg Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037325",
+      "ortsnetzkennzahl": 37325,
+      "ort": "Niederbobritzsch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037326",
+      "ortsnetzkennzahl": 37326,
+      "ort": "Frauenstein Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037327",
+      "ortsnetzkennzahl": 37327,
+      "ort": "Rechenberg-Bienenmühle",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037328",
+      "ortsnetzkennzahl": 37328,
+      "ort": "Grossschirma",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037329",
+      "ortsnetzkennzahl": 37329,
+      "ort": "Grosshartmannsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037341",
+      "ortsnetzkennzahl": 37341,
+      "ort": "Ehrenfriedersdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037342",
+      "ortsnetzkennzahl": 37342,
+      "ort": "Cranzahl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037343",
+      "ortsnetzkennzahl": 37343,
+      "ort": "Jöhstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037344",
+      "ortsnetzkennzahl": 37344,
+      "ort": "Crottendorf Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037346",
+      "ortsnetzkennzahl": 37346,
+      "ort": "Geyer",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037347",
+      "ortsnetzkennzahl": 37347,
+      "ort": "Bärenstein Kr Annaberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037348",
+      "ortsnetzkennzahl": 37348,
+      "ort": "Oberwiesenthal Kurort",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037349",
+      "ortsnetzkennzahl": 37349,
+      "ort": "Scheibenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037360",
+      "ortsnetzkennzahl": 37360,
+      "ort": "Olbernhau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037361",
+      "ortsnetzkennzahl": 37361,
+      "ort": "Neuhausen Erzgeb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037362",
+      "ortsnetzkennzahl": 37362,
+      "ort": "Seiffen Erzgeb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037363",
+      "ortsnetzkennzahl": 37363,
+      "ort": "Zöblitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037364",
+      "ortsnetzkennzahl": 37364,
+      "ort": "Reitzenhain Erzgeb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037365",
+      "ortsnetzkennzahl": 37365,
+      "ort": "Sayda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037366",
+      "ortsnetzkennzahl": 37366,
+      "ort": "Rübenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037367",
+      "ortsnetzkennzahl": 37367,
+      "ort": "Lengefeld Erzgeb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037368",
+      "ortsnetzkennzahl": 37368,
+      "ort": "Deutschneudorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037369",
+      "ortsnetzkennzahl": 37369,
+      "ort": "Wolkenstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037381",
+      "ortsnetzkennzahl": 37381,
+      "ort": "Penig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037382",
+      "ortsnetzkennzahl": 37382,
+      "ort": "Geringswalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037383",
+      "ortsnetzkennzahl": 37383,
+      "ort": "Lunzenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037384",
+      "ortsnetzkennzahl": 37384,
+      "ort": "Wechselburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037421",
+      "ortsnetzkennzahl": 37421,
+      "ort": "Oelsnitz Vogtl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037422",
+      "ortsnetzkennzahl": 37422,
+      "ort": "Markneukirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037423",
+      "ortsnetzkennzahl": 37423,
+      "ort": "Adorf Vogtl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037430",
+      "ortsnetzkennzahl": 37430,
+      "ort": "Eichigt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037431",
+      "ortsnetzkennzahl": 37431,
+      "ort": "Mehltheuer Vogtl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037432",
+      "ortsnetzkennzahl": 37432,
+      "ort": "Pausa Vogtl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037433",
+      "ortsnetzkennzahl": 37433,
+      "ort": "Gutenfürst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037434",
+      "ortsnetzkennzahl": 37434,
+      "ort": "Bobenneukirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037435",
+      "ortsnetzkennzahl": 37435,
+      "ort": "Reuth b Plauen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037436",
+      "ortsnetzkennzahl": 37436,
+      "ort": "Weischlitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037437",
+      "ortsnetzkennzahl": 37437,
+      "ort": "Bad Elster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037438",
+      "ortsnetzkennzahl": 37438,
+      "ort": "Bad Brambach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037439",
+      "ortsnetzkennzahl": 37439,
+      "ort": "Jocketa",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037462",
+      "ortsnetzkennzahl": 37462,
+      "ort": "Rothenkirchen Vogtl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037463",
+      "ortsnetzkennzahl": 37463,
+      "ort": "Bergen Vogtl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037464",
+      "ortsnetzkennzahl": 37464,
+      "ort": "Schöneck Vogtl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037465",
+      "ortsnetzkennzahl": 37465,
+      "ort": "Tannenbergsthal Vogtl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037467",
+      "ortsnetzkennzahl": 37467,
+      "ort": "Klingenthal Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037468",
+      "ortsnetzkennzahl": 37468,
+      "ort": "Treuen Vogtl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037600",
+      "ortsnetzkennzahl": 37600,
+      "ort": "Neumark Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037601",
+      "ortsnetzkennzahl": 37601,
+      "ort": "Mülsen Skt Jacob",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037602",
+      "ortsnetzkennzahl": 37602,
+      "ort": "Kirchberg Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037603",
+      "ortsnetzkennzahl": 37603,
+      "ort": "Wildenfels",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037604",
+      "ortsnetzkennzahl": 37604,
+      "ort": "Mosel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037605",
+      "ortsnetzkennzahl": 37605,
+      "ort": "Hartenstein Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037606",
+      "ortsnetzkennzahl": 37606,
+      "ort": "Lengenfeld Vogtl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037607",
+      "ortsnetzkennzahl": 37607,
+      "ort": "Ebersbrunn Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037608",
+      "ortsnetzkennzahl": 37608,
+      "ort": "Waldenburg Sachs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037609",
+      "ortsnetzkennzahl": 37609,
+      "ort": "Wolkenburg Mulde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037752",
+      "ortsnetzkennzahl": 37752,
+      "ort": "Eibenstock",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037754",
+      "ortsnetzkennzahl": 37754,
+      "ort": "Zwönitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037755",
+      "ortsnetzkennzahl": 37755,
+      "ort": "Schönheide Erzgeb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037756",
+      "ortsnetzkennzahl": 37756,
+      "ort": "Breitenbrunn Erzgeb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "037757",
+      "ortsnetzkennzahl": 37757,
+      "ort": "Rittersgrün",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038201",
+      "ortsnetzkennzahl": 38201,
+      "ort": "Gelbensande",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038202",
+      "ortsnetzkennzahl": 38202,
+      "ort": "Volkenshagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038203",
+      "ortsnetzkennzahl": 38203,
+      "ort": "Bad Doberan",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038204",
+      "ortsnetzkennzahl": 38204,
+      "ort": "Broderstorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038205",
+      "ortsnetzkennzahl": 38205,
+      "ort": "Tessin b Rostock",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038206",
+      "ortsnetzkennzahl": 38206,
+      "ort": "Graal-Müritz Seeheilbad",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038207",
+      "ortsnetzkennzahl": 38207,
+      "ort": "Stäbelow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038208",
+      "ortsnetzkennzahl": 38208,
+      "ort": "Kavelstorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038209",
+      "ortsnetzkennzahl": 38209,
+      "ort": "Sanitz b Rostock",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038220",
+      "ortsnetzkennzahl": 38220,
+      "ort": "Wustrow Ostseebad",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038221",
+      "ortsnetzkennzahl": 38221,
+      "ort": "Marlow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038222",
+      "ortsnetzkennzahl": 38222,
+      "ort": "Semlow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038223",
+      "ortsnetzkennzahl": 38223,
+      "ort": "Saal Vorpom",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038224",
+      "ortsnetzkennzahl": 38224,
+      "ort": "Gresenhorst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038225",
+      "ortsnetzkennzahl": 38225,
+      "ort": "Trinwillershagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038226",
+      "ortsnetzkennzahl": 38226,
+      "ort": "Dierhagen Ostseebad",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038227",
+      "ortsnetzkennzahl": 38227,
+      "ort": "Lüdershagen b Barth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038228",
+      "ortsnetzkennzahl": 38228,
+      "ort": "Dettmannsdorf-Kölzow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038229",
+      "ortsnetzkennzahl": 38229,
+      "ort": "Bad Sülze",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038231",
+      "ortsnetzkennzahl": 38231,
+      "ort": "Barth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038232",
+      "ortsnetzkennzahl": 38232,
+      "ort": "Zingst Ostseebad",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038233",
+      "ortsnetzkennzahl": 38233,
+      "ort": "Prerow Ostseebad",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038234",
+      "ortsnetzkennzahl": 38234,
+      "ort": "Born a Darß",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038292",
+      "ortsnetzkennzahl": 38292,
+      "ort": "Kröpelin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038293",
+      "ortsnetzkennzahl": 38293,
+      "ort": "Kühlungsborn Ostseebad",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038294",
+      "ortsnetzkennzahl": 38294,
+      "ort": "Neubukow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038295",
+      "ortsnetzkennzahl": 38295,
+      "ort": "Satow b Bad Doberan",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038296",
+      "ortsnetzkennzahl": 38296,
+      "ort": "Rerik Ostseebad",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038297",
+      "ortsnetzkennzahl": 38297,
+      "ort": "Moitin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038300",
+      "ortsnetzkennzahl": 38300,
+      "ort": "Insel Hiddensee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038301",
+      "ortsnetzkennzahl": 38301,
+      "ort": "Putbus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038302",
+      "ortsnetzkennzahl": 38302,
+      "ort": "Sagard",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038303",
+      "ortsnetzkennzahl": 38303,
+      "ort": "Sellin Ostseebad",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038304",
+      "ortsnetzkennzahl": 38304,
+      "ort": "Garz Rügen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038305",
+      "ortsnetzkennzahl": 38305,
+      "ort": "Gingst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038306",
+      "ortsnetzkennzahl": 38306,
+      "ort": "Samtens",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038307",
+      "ortsnetzkennzahl": 38307,
+      "ort": "Poseritz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038308",
+      "ortsnetzkennzahl": 38308,
+      "ort": "Göhren Rügen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038309",
+      "ortsnetzkennzahl": 38309,
+      "ort": "Trent",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038320",
+      "ortsnetzkennzahl": 38320,
+      "ort": "Tribsees",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038321",
+      "ortsnetzkennzahl": 38321,
+      "ort": "Martensdorf b Stralsund",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038322",
+      "ortsnetzkennzahl": 38322,
+      "ort": "Richtenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038323",
+      "ortsnetzkennzahl": 38323,
+      "ort": "Prohn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038324",
+      "ortsnetzkennzahl": 38324,
+      "ort": "Velgast",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038325",
+      "ortsnetzkennzahl": 38325,
+      "ort": "Rolofshagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038326",
+      "ortsnetzkennzahl": 38326,
+      "ort": "Grimmen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038327",
+      "ortsnetzkennzahl": 38327,
+      "ort": "Elmenhorst Vorpom",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038328",
+      "ortsnetzkennzahl": 38328,
+      "ort": "Miltzow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038331",
+      "ortsnetzkennzahl": 38331,
+      "ort": "Rakow Vorpom",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038332",
+      "ortsnetzkennzahl": 38332,
+      "ort": "Gross Bisdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038333",
+      "ortsnetzkennzahl": 38333,
+      "ort": "Horst b Grimmen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038334",
+      "ortsnetzkennzahl": 38334,
+      "ort": "Grammendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038351",
+      "ortsnetzkennzahl": 38351,
+      "ort": "Mesekenhagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038352",
+      "ortsnetzkennzahl": 38352,
+      "ort": "Kemnitz b Greifswald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038353",
+      "ortsnetzkennzahl": 38353,
+      "ort": "Gützkow b Greifswald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038354",
+      "ortsnetzkennzahl": 38354,
+      "ort": "Wusterhusen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038355",
+      "ortsnetzkennzahl": 38355,
+      "ort": "Züssow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038356",
+      "ortsnetzkennzahl": 38356,
+      "ort": "Behrenhoff",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038370",
+      "ortsnetzkennzahl": 38370,
+      "ort": "Kröslin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038371",
+      "ortsnetzkennzahl": 38371,
+      "ort": "Karlshagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038372",
+      "ortsnetzkennzahl": 38372,
+      "ort": "Usedom",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038373",
+      "ortsnetzkennzahl": 38373,
+      "ort": "Katzow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038374",
+      "ortsnetzkennzahl": 38374,
+      "ort": "Lassan b Wolgast",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038375",
+      "ortsnetzkennzahl": 38375,
+      "ort": "Koserow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038376",
+      "ortsnetzkennzahl": 38376,
+      "ort": "Zirchow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038377",
+      "ortsnetzkennzahl": 38377,
+      "ort": "Zinnowitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038378",
+      "ortsnetzkennzahl": 38378,
+      "ort": "Heringsdorf Seebad",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038379",
+      "ortsnetzkennzahl": 38379,
+      "ort": "Benz Usedom",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038391",
+      "ortsnetzkennzahl": 38391,
+      "ort": "Altenkirchen Rügen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038392",
+      "ortsnetzkennzahl": 38392,
+      "ort": "Sassnitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038393",
+      "ortsnetzkennzahl": 38393,
+      "ort": "Binz Ostseebad",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038422",
+      "ortsnetzkennzahl": 38422,
+      "ort": "Neukloster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038423",
+      "ortsnetzkennzahl": 38423,
+      "ort": "Bad Kleinen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038424",
+      "ortsnetzkennzahl": 38424,
+      "ort": "Bobitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038425",
+      "ortsnetzkennzahl": 38425,
+      "ort": "Kirchdorf Poel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038426",
+      "ortsnetzkennzahl": 38426,
+      "ort": "Neuburg-Steinhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038427",
+      "ortsnetzkennzahl": 38427,
+      "ort": "Blowatz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038428",
+      "ortsnetzkennzahl": 38428,
+      "ort": "Hohenkirchen b Wismar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038429",
+      "ortsnetzkennzahl": 38429,
+      "ort": "Glasin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038450",
+      "ortsnetzkennzahl": 38450,
+      "ort": "Tarnow b Bützow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038451",
+      "ortsnetzkennzahl": 38451,
+      "ort": "Hoppenrade b Güstrow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038452",
+      "ortsnetzkennzahl": 38452,
+      "ort": "Lalendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038453",
+      "ortsnetzkennzahl": 38453,
+      "ort": "Mistorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038454",
+      "ortsnetzkennzahl": 38454,
+      "ort": "Kritzkow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038455",
+      "ortsnetzkennzahl": 38455,
+      "ort": "Plaaz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038456",
+      "ortsnetzkennzahl": 38456,
+      "ort": "Langhagen b Güstrow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038457",
+      "ortsnetzkennzahl": 38457,
+      "ort": "Krakow am See",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038458",
+      "ortsnetzkennzahl": 38458,
+      "ort": "Zehna",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038459",
+      "ortsnetzkennzahl": 38459,
+      "ort": "Laage",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038461",
+      "ortsnetzkennzahl": 38461,
+      "ort": "Bützow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038462",
+      "ortsnetzkennzahl": 38462,
+      "ort": "Baumgarten Meckl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038464",
+      "ortsnetzkennzahl": 38464,
+      "ort": "Bernitt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038466",
+      "ortsnetzkennzahl": 38466,
+      "ort": "Jürgenshagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038481",
+      "ortsnetzkennzahl": 38481,
+      "ort": "Witzin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038482",
+      "ortsnetzkennzahl": 38482,
+      "ort": "Warin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038483",
+      "ortsnetzkennzahl": 38483,
+      "ort": "Brüel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038484",
+      "ortsnetzkennzahl": 38484,
+      "ort": "Ventschow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038485",
+      "ortsnetzkennzahl": 38485,
+      "ort": "Dabel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038486",
+      "ortsnetzkennzahl": 38486,
+      "ort": "Gustävel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038488",
+      "ortsnetzkennzahl": 38488,
+      "ort": "Demen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038720",
+      "ortsnetzkennzahl": 38720,
+      "ort": "Grebbin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038721",
+      "ortsnetzkennzahl": 38721,
+      "ort": "Ziegendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038722",
+      "ortsnetzkennzahl": 38722,
+      "ort": "Raduhn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038723",
+      "ortsnetzkennzahl": 38723,
+      "ort": "Kladrum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038724",
+      "ortsnetzkennzahl": 38724,
+      "ort": "Siggelkow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038725",
+      "ortsnetzkennzahl": 38725,
+      "ort": "Gross Godems",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038726",
+      "ortsnetzkennzahl": 38726,
+      "ort": "Spornitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038727",
+      "ortsnetzkennzahl": 38727,
+      "ort": "Mestlin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038728",
+      "ortsnetzkennzahl": 38728,
+      "ort": "Domsühl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038729",
+      "ortsnetzkennzahl": 38729,
+      "ort": "Marnitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038731",
+      "ortsnetzkennzahl": 38731,
+      "ort": "Lübz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038732",
+      "ortsnetzkennzahl": 38732,
+      "ort": "Gallin b Lübz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038733",
+      "ortsnetzkennzahl": 38733,
+      "ort": "Karbow-Vietlübbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038735",
+      "ortsnetzkennzahl": 38735,
+      "ort": "Plau am See",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038736",
+      "ortsnetzkennzahl": 38736,
+      "ort": "Goldberg Meckl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038737",
+      "ortsnetzkennzahl": 38737,
+      "ort": "Ganzlin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038738",
+      "ortsnetzkennzahl": 38738,
+      "ort": "Karow b Lübz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038750",
+      "ortsnetzkennzahl": 38750,
+      "ort": "Malliss",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038751",
+      "ortsnetzkennzahl": 38751,
+      "ort": "Picher",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038752",
+      "ortsnetzkennzahl": 38752,
+      "ort": "Zierzow b Ludwigslust",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038753",
+      "ortsnetzkennzahl": 38753,
+      "ort": "Wöbbelin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038754",
+      "ortsnetzkennzahl": 38754,
+      "ort": "Leussow b Ludwigslust",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038755",
+      "ortsnetzkennzahl": 38755,
+      "ort": "Eldena",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038756",
+      "ortsnetzkennzahl": 38756,
+      "ort": "Grabow Meckl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038757",
+      "ortsnetzkennzahl": 38757,
+      "ort": "Neustadt-Glewe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038758",
+      "ortsnetzkennzahl": 38758,
+      "ort": "Dömitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038759",
+      "ortsnetzkennzahl": 38759,
+      "ort": "Tewswoos",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038780",
+      "ortsnetzkennzahl": 38780,
+      "ort": "Lanz Brandenb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038781",
+      "ortsnetzkennzahl": 38781,
+      "ort": "Mellen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038782",
+      "ortsnetzkennzahl": 38782,
+      "ort": "Reetz b Perleberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038783",
+      "ortsnetzkennzahl": 38783,
+      "ort": "Dallmin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038784",
+      "ortsnetzkennzahl": 38784,
+      "ort": "Kleinow Kr Prignitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038785",
+      "ortsnetzkennzahl": 38785,
+      "ort": "Berge b Perleberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038787",
+      "ortsnetzkennzahl": 38787,
+      "ort": "Glöwen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038788",
+      "ortsnetzkennzahl": 38788,
+      "ort": "Gross Warnow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038789",
+      "ortsnetzkennzahl": 38789,
+      "ort": "Wolfshagen b Perleberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038791",
+      "ortsnetzkennzahl": 38791,
+      "ort": "Bad Wilsnack",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038792",
+      "ortsnetzkennzahl": 38792,
+      "ort": "Lenzen (Elbe)",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038793",
+      "ortsnetzkennzahl": 38793,
+      "ort": "Dergenthin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038794",
+      "ortsnetzkennzahl": 38794,
+      "ort": "Cumlosen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038796",
+      "ortsnetzkennzahl": 38796,
+      "ort": "Viesecke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038797",
+      "ortsnetzkennzahl": 38797,
+      "ort": "Karstädt Kr Prignitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038821",
+      "ortsnetzkennzahl": 38821,
+      "ort": "Lüdersdorf Meckl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038822",
+      "ortsnetzkennzahl": 38822,
+      "ort": "Diedrichshagen b Grevesmühlen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038823",
+      "ortsnetzkennzahl": 38823,
+      "ort": "Selmsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038824",
+      "ortsnetzkennzahl": 38824,
+      "ort": "Mallentin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038825",
+      "ortsnetzkennzahl": 38825,
+      "ort": "Klütz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038826",
+      "ortsnetzkennzahl": 38826,
+      "ort": "Dassow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038827",
+      "ortsnetzkennzahl": 38827,
+      "ort": "Kalkhorst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038828",
+      "ortsnetzkennzahl": 38828,
+      "ort": "Schönberg Meckl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038841",
+      "ortsnetzkennzahl": 38841,
+      "ort": "Neuhaus Elbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038842",
+      "ortsnetzkennzahl": 38842,
+      "ort": "Lüttenmark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038843",
+      "ortsnetzkennzahl": 38843,
+      "ort": "Bennin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038844",
+      "ortsnetzkennzahl": 38844,
+      "ort": "Gülze",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038845",
+      "ortsnetzkennzahl": 38845,
+      "ort": "Kaarssen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038847",
+      "ortsnetzkennzahl": 38847,
+      "ort": "Boizenburg Elbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038848",
+      "ortsnetzkennzahl": 38848,
+      "ort": "Vellahn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038850",
+      "ortsnetzkennzahl": 38850,
+      "ort": "Gammelin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038851",
+      "ortsnetzkennzahl": 38851,
+      "ort": "Zarrentin Meckl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038852",
+      "ortsnetzkennzahl": 38852,
+      "ort": "Wittenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038853",
+      "ortsnetzkennzahl": 38853,
+      "ort": "Drönnewitz b Hagenow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038854",
+      "ortsnetzkennzahl": 38854,
+      "ort": "Redefin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038855",
+      "ortsnetzkennzahl": 38855,
+      "ort": "Lübtheen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038856",
+      "ortsnetzkennzahl": 38856,
+      "ort": "Pritzier b Hagenow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038858",
+      "ortsnetzkennzahl": 38858,
+      "ort": "Lassahn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038859",
+      "ortsnetzkennzahl": 38859,
+      "ort": "Alt Zachun",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038871",
+      "ortsnetzkennzahl": 38871,
+      "ort": "Mühlen Eichsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038872",
+      "ortsnetzkennzahl": 38872,
+      "ort": "Rehna",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038873",
+      "ortsnetzkennzahl": 38873,
+      "ort": "Carlow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038874",
+      "ortsnetzkennzahl": 38874,
+      "ort": "Lützow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038875",
+      "ortsnetzkennzahl": 38875,
+      "ort": "Schlagsdorf b Gadebusch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "038876",
+      "ortsnetzkennzahl": 38876,
+      "ort": "Roggendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039000",
+      "ortsnetzkennzahl": 39000,
+      "ort": "Beetzendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039001",
+      "ortsnetzkennzahl": 39001,
+      "ort": "Apenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039002",
+      "ortsnetzkennzahl": 39002,
+      "ort": "Oebisfelde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039003",
+      "ortsnetzkennzahl": 39003,
+      "ort": "Jübar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039004",
+      "ortsnetzkennzahl": 39004,
+      "ort": "Köckte b Gardelegen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039005",
+      "ortsnetzkennzahl": 39005,
+      "ort": "Kusey",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039006",
+      "ortsnetzkennzahl": 39006,
+      "ort": "Miesterhorst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039007",
+      "ortsnetzkennzahl": 39007,
+      "ort": "Tangeln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039008",
+      "ortsnetzkennzahl": 39008,
+      "ort": "Kunrau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039009",
+      "ortsnetzkennzahl": 39009,
+      "ort": "Badel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039030",
+      "ortsnetzkennzahl": 39030,
+      "ort": "Brunau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039031",
+      "ortsnetzkennzahl": 39031,
+      "ort": "Dähre",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039032",
+      "ortsnetzkennzahl": 39032,
+      "ort": "Mahlsdorf b Salzwedel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039033",
+      "ortsnetzkennzahl": 39033,
+      "ort": "Wallstawe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039034",
+      "ortsnetzkennzahl": 39034,
+      "ort": "Fleetmark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039035",
+      "ortsnetzkennzahl": 39035,
+      "ort": "Kuhfelde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039036",
+      "ortsnetzkennzahl": 39036,
+      "ort": "Binde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039037",
+      "ortsnetzkennzahl": 39037,
+      "ort": "Pretzier",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039038",
+      "ortsnetzkennzahl": 39038,
+      "ort": "Henningen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039039",
+      "ortsnetzkennzahl": 39039,
+      "ort": "Bonese",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039050",
+      "ortsnetzkennzahl": 39050,
+      "ort": "Bartensleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039051",
+      "ortsnetzkennzahl": 39051,
+      "ort": "Calvörde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039052",
+      "ortsnetzkennzahl": 39052,
+      "ort": "Erxleben b Haldensleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039053",
+      "ortsnetzkennzahl": 39053,
+      "ort": "Süplingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039054",
+      "ortsnetzkennzahl": 39054,
+      "ort": "Flechtingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039055",
+      "ortsnetzkennzahl": 39055,
+      "ort": "Hörsingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039056",
+      "ortsnetzkennzahl": 39056,
+      "ort": "Klüden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039057",
+      "ortsnetzkennzahl": 39057,
+      "ort": "Rätzlingen Sachs-Anh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039058",
+      "ortsnetzkennzahl": 39058,
+      "ort": "Uthmöden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039059",
+      "ortsnetzkennzahl": 39059,
+      "ort": "Wegenstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039061",
+      "ortsnetzkennzahl": 39061,
+      "ort": "Weferlingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039062",
+      "ortsnetzkennzahl": 39062,
+      "ort": "Bebertal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039080",
+      "ortsnetzkennzahl": 39080,
+      "ort": "Kalbe Milde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039081",
+      "ortsnetzkennzahl": 39081,
+      "ort": "Kakerbeck Sachs-Anh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039082",
+      "ortsnetzkennzahl": 39082,
+      "ort": "Mieste",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039083",
+      "ortsnetzkennzahl": 39083,
+      "ort": "Messdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039084",
+      "ortsnetzkennzahl": 39084,
+      "ort": "Lindstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039085",
+      "ortsnetzkennzahl": 39085,
+      "ort": "Zichtau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039086",
+      "ortsnetzkennzahl": 39086,
+      "ort": "Jävenitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039087",
+      "ortsnetzkennzahl": 39087,
+      "ort": "Jerchel Altmark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039088",
+      "ortsnetzkennzahl": 39088,
+      "ort": "Letzlingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039089",
+      "ortsnetzkennzahl": 39089,
+      "ort": "Bismark Altmark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039200",
+      "ortsnetzkennzahl": 39200,
+      "ort": "Gommern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039201",
+      "ortsnetzkennzahl": 39201,
+      "ort": "Wolmirstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039202",
+      "ortsnetzkennzahl": 39202,
+      "ort": "Gross Ammensleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039203",
+      "ortsnetzkennzahl": 39203,
+      "ort": "Barleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039204",
+      "ortsnetzkennzahl": 39204,
+      "ort": "Niederndodeleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039205",
+      "ortsnetzkennzahl": 39205,
+      "ort": "Langenweddingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039206",
+      "ortsnetzkennzahl": 39206,
+      "ort": "Eichenbarleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039207",
+      "ortsnetzkennzahl": 39207,
+      "ort": "Colbitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039208",
+      "ortsnetzkennzahl": 39208,
+      "ort": "Loitsche",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039209",
+      "ortsnetzkennzahl": 39209,
+      "ort": "Wanzleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039221",
+      "ortsnetzkennzahl": 39221,
+      "ort": "Möckern b Magdeburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039222",
+      "ortsnetzkennzahl": 39222,
+      "ort": "Möser",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039223",
+      "ortsnetzkennzahl": 39223,
+      "ort": "Theessen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039224",
+      "ortsnetzkennzahl": 39224,
+      "ort": "Büden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039225",
+      "ortsnetzkennzahl": 39225,
+      "ort": "Altengrabow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039226",
+      "ortsnetzkennzahl": 39226,
+      "ort": "Hohenziatz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039241",
+      "ortsnetzkennzahl": 39241,
+      "ort": "Leitzkau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039242",
+      "ortsnetzkennzahl": 39242,
+      "ort": "Prödel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039243",
+      "ortsnetzkennzahl": 39243,
+      "ort": "Nedlitz b Zerbst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039244",
+      "ortsnetzkennzahl": 39244,
+      "ort": "Steutz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039245",
+      "ortsnetzkennzahl": 39245,
+      "ort": "Loburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039246",
+      "ortsnetzkennzahl": 39246,
+      "ort": "Lindau Anh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039247",
+      "ortsnetzkennzahl": 39247,
+      "ort": "Güterglück",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039248",
+      "ortsnetzkennzahl": 39248,
+      "ort": "Dobritz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039262",
+      "ortsnetzkennzahl": 39262,
+      "ort": "Güsten Anh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039263",
+      "ortsnetzkennzahl": 39263,
+      "ort": "Unseburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039264",
+      "ortsnetzkennzahl": 39264,
+      "ort": "Kroppenstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039265",
+      "ortsnetzkennzahl": 39265,
+      "ort": "Löderburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039266",
+      "ortsnetzkennzahl": 39266,
+      "ort": "Förderstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039267",
+      "ortsnetzkennzahl": 39267,
+      "ort": "Schneidlingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039268",
+      "ortsnetzkennzahl": 39268,
+      "ort": "Egeln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039291",
+      "ortsnetzkennzahl": 39291,
+      "ort": "Calbe Saale",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039292",
+      "ortsnetzkennzahl": 39292,
+      "ort": "Biederitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039293",
+      "ortsnetzkennzahl": 39293,
+      "ort": "Dreileben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039294",
+      "ortsnetzkennzahl": 39294,
+      "ort": "Gross Rosenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039295",
+      "ortsnetzkennzahl": 39295,
+      "ort": "Zuchau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039296",
+      "ortsnetzkennzahl": 39296,
+      "ort": "Welsleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039297",
+      "ortsnetzkennzahl": 39297,
+      "ort": "Eickendorf Kr Schönebeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039298",
+      "ortsnetzkennzahl": 39298,
+      "ort": "Barby Elbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039320",
+      "ortsnetzkennzahl": 39320,
+      "ort": "Schinne",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039321",
+      "ortsnetzkennzahl": 39321,
+      "ort": "Arneburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039322",
+      "ortsnetzkennzahl": 39322,
+      "ort": "Tangermünde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039323",
+      "ortsnetzkennzahl": 39323,
+      "ort": "Schönhausen Elbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039324",
+      "ortsnetzkennzahl": 39324,
+      "ort": "Kläden b Stendal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039325",
+      "ortsnetzkennzahl": 39325,
+      "ort": "Vinzelberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039327",
+      "ortsnetzkennzahl": 39327,
+      "ort": "Klietz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039328",
+      "ortsnetzkennzahl": 39328,
+      "ort": "Rochau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039329",
+      "ortsnetzkennzahl": 39329,
+      "ort": "Möringen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039341",
+      "ortsnetzkennzahl": 39341,
+      "ort": "Redekin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039342",
+      "ortsnetzkennzahl": 39342,
+      "ort": "Gladau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039343",
+      "ortsnetzkennzahl": 39343,
+      "ort": "Jerichow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039344",
+      "ortsnetzkennzahl": 39344,
+      "ort": "Güsen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039345",
+      "ortsnetzkennzahl": 39345,
+      "ort": "Parchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039346",
+      "ortsnetzkennzahl": 39346,
+      "ort": "Tucheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039347",
+      "ortsnetzkennzahl": 39347,
+      "ort": "Kade",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039348",
+      "ortsnetzkennzahl": 39348,
+      "ort": "Klitsche",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039349",
+      "ortsnetzkennzahl": 39349,
+      "ort": "Parey Elbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039361",
+      "ortsnetzkennzahl": 39361,
+      "ort": "Lüderitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039362",
+      "ortsnetzkennzahl": 39362,
+      "ort": "Grieben b Tangerhütte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039363",
+      "ortsnetzkennzahl": 39363,
+      "ort": "Angern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039364",
+      "ortsnetzkennzahl": 39364,
+      "ort": "Dolle",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039365",
+      "ortsnetzkennzahl": 39365,
+      "ort": "Bellingen b Stendal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039366",
+      "ortsnetzkennzahl": 39366,
+      "ort": "Kehnert",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039382",
+      "ortsnetzkennzahl": 39382,
+      "ort": "Kamern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039383",
+      "ortsnetzkennzahl": 39383,
+      "ort": "Sandau Elbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039384",
+      "ortsnetzkennzahl": 39384,
+      "ort": "Arendsee Altmark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039386",
+      "ortsnetzkennzahl": 39386,
+      "ort": "Seehausen Altmark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039387",
+      "ortsnetzkennzahl": 39387,
+      "ort": "Havelberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039388",
+      "ortsnetzkennzahl": 39388,
+      "ort": "Goldbeck Altm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039389",
+      "ortsnetzkennzahl": 39389,
+      "ort": "Schollene",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039390",
+      "ortsnetzkennzahl": 39390,
+      "ort": "Iden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039391",
+      "ortsnetzkennzahl": 39391,
+      "ort": "Lückstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039392",
+      "ortsnetzkennzahl": 39392,
+      "ort": "Rönnebeck Sachs-Ahn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039393",
+      "ortsnetzkennzahl": 39393,
+      "ort": "Werben Elbe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039394",
+      "ortsnetzkennzahl": 39394,
+      "ort": "Hohenberg-Krusemark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039395",
+      "ortsnetzkennzahl": 39395,
+      "ort": "Wanzer",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039396",
+      "ortsnetzkennzahl": 39396,
+      "ort": "Neukirchen Altmark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039397",
+      "ortsnetzkennzahl": 39397,
+      "ort": "Geestgottberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039398",
+      "ortsnetzkennzahl": 39398,
+      "ort": "Gross Garz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039399",
+      "ortsnetzkennzahl": 39399,
+      "ort": "Kleinau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039400",
+      "ortsnetzkennzahl": 39400,
+      "ort": "Wefensleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039401",
+      "ortsnetzkennzahl": 39401,
+      "ort": "Neuwegersleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039402",
+      "ortsnetzkennzahl": 39402,
+      "ort": "Völpke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039403",
+      "ortsnetzkennzahl": 39403,
+      "ort": "Gröningen Sachs-Ahn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039404",
+      "ortsnetzkennzahl": 39404,
+      "ort": "Ausleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039405",
+      "ortsnetzkennzahl": 39405,
+      "ort": "Hötensleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039406",
+      "ortsnetzkennzahl": 39406,
+      "ort": "Harbke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039407",
+      "ortsnetzkennzahl": 39407,
+      "ort": "Seehausen Börde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039408",
+      "ortsnetzkennzahl": 39408,
+      "ort": "Hadmersleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039409",
+      "ortsnetzkennzahl": 39409,
+      "ort": "Eilsleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039421",
+      "ortsnetzkennzahl": 39421,
+      "ort": "Osterwieck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039422",
+      "ortsnetzkennzahl": 39422,
+      "ort": "Badersleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039423",
+      "ortsnetzkennzahl": 39423,
+      "ort": "Wegeleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039424",
+      "ortsnetzkennzahl": 39424,
+      "ort": "Schwanebeck Sachs-Anh",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039425",
+      "ortsnetzkennzahl": 39425,
+      "ort": "Dingelstedt a Huy",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039426",
+      "ortsnetzkennzahl": 39426,
+      "ort": "Hessen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039427",
+      "ortsnetzkennzahl": 39427,
+      "ort": "Ströbeck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039428",
+      "ortsnetzkennzahl": 39428,
+      "ort": "Pabstorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039451",
+      "ortsnetzkennzahl": 39451,
+      "ort": "Wasserleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039452",
+      "ortsnetzkennzahl": 39452,
+      "ort": "Ilsenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039453",
+      "ortsnetzkennzahl": 39453,
+      "ort": "Derenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039454",
+      "ortsnetzkennzahl": 39454,
+      "ort": "Elbingerode Harz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039455",
+      "ortsnetzkennzahl": 39455,
+      "ort": "Schierke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039456",
+      "ortsnetzkennzahl": 39456,
+      "ort": "Altenbrak",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039457",
+      "ortsnetzkennzahl": 39457,
+      "ort": "Benneckenstein Harz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039458",
+      "ortsnetzkennzahl": 39458,
+      "ort": "Heudeber",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039459",
+      "ortsnetzkennzahl": 39459,
+      "ort": "Hasselfelde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039481",
+      "ortsnetzkennzahl": 39481,
+      "ort": "Hedersleben b Aschersleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039482",
+      "ortsnetzkennzahl": 39482,
+      "ort": "Gatersleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039483",
+      "ortsnetzkennzahl": 39483,
+      "ort": "Ballenstedt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039484",
+      "ortsnetzkennzahl": 39484,
+      "ort": "Harzgerode",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039485",
+      "ortsnetzkennzahl": 39485,
+      "ort": "Gernrode Harz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039487",
+      "ortsnetzkennzahl": 39487,
+      "ort": "Friedrichsbrunn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039488",
+      "ortsnetzkennzahl": 39488,
+      "ort": "Güntersberge",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039489",
+      "ortsnetzkennzahl": 39489,
+      "ort": "Strassberg Harz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039600",
+      "ortsnetzkennzahl": 39600,
+      "ort": "Zwiedorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039601",
+      "ortsnetzkennzahl": 39601,
+      "ort": "Friedland Meckl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039602",
+      "ortsnetzkennzahl": 39602,
+      "ort": "Kleeth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039603",
+      "ortsnetzkennzahl": 39603,
+      "ort": "Burg Stargard",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039604",
+      "ortsnetzkennzahl": 39604,
+      "ort": "Wildberg b Altentreptow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039605",
+      "ortsnetzkennzahl": 39605,
+      "ort": "Gross Nemerow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039606",
+      "ortsnetzkennzahl": 39606,
+      "ort": "Glienke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039607",
+      "ortsnetzkennzahl": 39607,
+      "ort": "Kotelow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039608",
+      "ortsnetzkennzahl": 39608,
+      "ort": "Staven",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039721",
+      "ortsnetzkennzahl": 39721,
+      "ort": "Liepen b Anklam",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039722",
+      "ortsnetzkennzahl": 39722,
+      "ort": "Sarnow b Anklam",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039723",
+      "ortsnetzkennzahl": 39723,
+      "ort": "Krien",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039724",
+      "ortsnetzkennzahl": 39724,
+      "ort": "Klein Bünzow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039726",
+      "ortsnetzkennzahl": 39726,
+      "ort": "Ducherow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039727",
+      "ortsnetzkennzahl": 39727,
+      "ort": "Spantekow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039728",
+      "ortsnetzkennzahl": 39728,
+      "ort": "Medow b Anklam",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039740",
+      "ortsnetzkennzahl": 39740,
+      "ort": "Nechlin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039741",
+      "ortsnetzkennzahl": 39741,
+      "ort": "Jatznick",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039742",
+      "ortsnetzkennzahl": 39742,
+      "ort": "Brüssow b Pasewalk",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039743",
+      "ortsnetzkennzahl": 39743,
+      "ort": "Zerrenthin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039744",
+      "ortsnetzkennzahl": 39744,
+      "ort": "Rothenklempenow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039745",
+      "ortsnetzkennzahl": 39745,
+      "ort": "Hetzdorf b Strasburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039746",
+      "ortsnetzkennzahl": 39746,
+      "ort": "Krackow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039747",
+      "ortsnetzkennzahl": 39747,
+      "ort": "Züsedom",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039748",
+      "ortsnetzkennzahl": 39748,
+      "ort": "Viereck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039749",
+      "ortsnetzkennzahl": 39749,
+      "ort": "Grambow b Pasewalk",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039751",
+      "ortsnetzkennzahl": 39751,
+      "ort": "Penkun",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039752",
+      "ortsnetzkennzahl": 39752,
+      "ort": "Blumenhagen b Strasburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039753",
+      "ortsnetzkennzahl": 39753,
+      "ort": "Strasburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039754",
+      "ortsnetzkennzahl": 39754,
+      "ort": "Löcknitz Vorpom",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039771",
+      "ortsnetzkennzahl": 39771,
+      "ort": "Ueckermünde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039772",
+      "ortsnetzkennzahl": 39772,
+      "ort": "Rothemühl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039773",
+      "ortsnetzkennzahl": 39773,
+      "ort": "Altwarp",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039774",
+      "ortsnetzkennzahl": 39774,
+      "ort": "Mönkebude",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039775",
+      "ortsnetzkennzahl": 39775,
+      "ort": "Ahlbeck b Torgelow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039776",
+      "ortsnetzkennzahl": 39776,
+      "ort": "Hintersee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039777",
+      "ortsnetzkennzahl": 39777,
+      "ort": "Borkenfriede",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039778",
+      "ortsnetzkennzahl": 39778,
+      "ort": "Ferdinandshof b Torgelow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039779",
+      "ortsnetzkennzahl": 39779,
+      "ort": "Eggesin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039820",
+      "ortsnetzkennzahl": 39820,
+      "ort": "Triepkendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039821",
+      "ortsnetzkennzahl": 39821,
+      "ort": "Carpin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039822",
+      "ortsnetzkennzahl": 39822,
+      "ort": "Kratzeburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039823",
+      "ortsnetzkennzahl": 39823,
+      "ort": "Rechlin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039824",
+      "ortsnetzkennzahl": 39824,
+      "ort": "Hohenzieritz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039825",
+      "ortsnetzkennzahl": 39825,
+      "ort": "Wokuhl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039826",
+      "ortsnetzkennzahl": 39826,
+      "ort": "Blankensee b Neustrelitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039827",
+      "ortsnetzkennzahl": 39827,
+      "ort": "Schwarz b Neustrelitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039828",
+      "ortsnetzkennzahl": 39828,
+      "ort": "Wustrow Kr Mecklenburg-Strelitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039829",
+      "ortsnetzkennzahl": 39829,
+      "ort": "Blankenförde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039831",
+      "ortsnetzkennzahl": 39831,
+      "ort": "Feldberg Meckl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039832",
+      "ortsnetzkennzahl": 39832,
+      "ort": "Wesenberg Meckl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039833",
+      "ortsnetzkennzahl": 39833,
+      "ort": "Mirow Kr Neustrelitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039851",
+      "ortsnetzkennzahl": 39851,
+      "ort": "Göritz b Prenzlau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039852",
+      "ortsnetzkennzahl": 39852,
+      "ort": "Schönermark b Prenzlau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039853",
+      "ortsnetzkennzahl": 39853,
+      "ort": "Holzendorf b Prenzlau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039854",
+      "ortsnetzkennzahl": 39854,
+      "ort": "Kleptow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039855",
+      "ortsnetzkennzahl": 39855,
+      "ort": "Parmen-Weggun",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039856",
+      "ortsnetzkennzahl": 39856,
+      "ort": "Beenz b Prenzlau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039857",
+      "ortsnetzkennzahl": 39857,
+      "ort": "Drense",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039858",
+      "ortsnetzkennzahl": 39858,
+      "ort": "Bietikow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039859",
+      "ortsnetzkennzahl": 39859,
+      "ort": "Fürstenwerder",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039861",
+      "ortsnetzkennzahl": 39861,
+      "ort": "Gramzow b Prenzlau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039862",
+      "ortsnetzkennzahl": 39862,
+      "ort": "Schmölln b Prenzlau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039863",
+      "ortsnetzkennzahl": 39863,
+      "ort": "Seehausen b Prenzlau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039881",
+      "ortsnetzkennzahl": 39881,
+      "ort": "Ringenwalde b Templin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039882",
+      "ortsnetzkennzahl": 39882,
+      "ort": "Gollin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039883",
+      "ortsnetzkennzahl": 39883,
+      "ort": "Groß Dölln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039884",
+      "ortsnetzkennzahl": 39884,
+      "ort": "Hassleben b Prenzlau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039885",
+      "ortsnetzkennzahl": 39885,
+      "ort": "Jakobshagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039886",
+      "ortsnetzkennzahl": 39886,
+      "ort": "Milmersdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039887",
+      "ortsnetzkennzahl": 39887,
+      "ort": "Gerswalde",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039888",
+      "ortsnetzkennzahl": 39888,
+      "ort": "Lychen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039889",
+      "ortsnetzkennzahl": 39889,
+      "ort": "Boitzenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039921",
+      "ortsnetzkennzahl": 39921,
+      "ort": "Ankershagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039922",
+      "ortsnetzkennzahl": 39922,
+      "ort": "Dambeck b Röbel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039923",
+      "ortsnetzkennzahl": 39923,
+      "ort": "Priborn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039924",
+      "ortsnetzkennzahl": 39924,
+      "ort": "Stuer",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039925",
+      "ortsnetzkennzahl": 39925,
+      "ort": "Wredenhagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039926",
+      "ortsnetzkennzahl": 39926,
+      "ort": "Grabowhöfe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039927",
+      "ortsnetzkennzahl": 39927,
+      "ort": "Nossentiner Hütte",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039928",
+      "ortsnetzkennzahl": 39928,
+      "ort": "Möllenhagen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039929",
+      "ortsnetzkennzahl": 39929,
+      "ort": "Jabel b Waren",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039931",
+      "ortsnetzkennzahl": 39931,
+      "ort": "Röbel Müritz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039932",
+      "ortsnetzkennzahl": 39932,
+      "ort": "Malchow b Waren",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039933",
+      "ortsnetzkennzahl": 39933,
+      "ort": "Vollrathsruhe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039934",
+      "ortsnetzkennzahl": 39934,
+      "ort": "Groß Plasten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039951",
+      "ortsnetzkennzahl": 39951,
+      "ort": "Faulenrost",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039952",
+      "ortsnetzkennzahl": 39952,
+      "ort": "Grammentin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039953",
+      "ortsnetzkennzahl": 39953,
+      "ort": "Schwinkendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039954",
+      "ortsnetzkennzahl": 39954,
+      "ort": "Stavenhagen Reuterstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039955",
+      "ortsnetzkennzahl": 39955,
+      "ort": "Jürgenstorf Meckl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039956",
+      "ortsnetzkennzahl": 39956,
+      "ort": "Neukalen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039957",
+      "ortsnetzkennzahl": 39957,
+      "ort": "Gielow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039959",
+      "ortsnetzkennzahl": 39959,
+      "ort": "Dargun",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039971",
+      "ortsnetzkennzahl": 39971,
+      "ort": "Gnoien",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039972",
+      "ortsnetzkennzahl": 39972,
+      "ort": "Walkendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039973",
+      "ortsnetzkennzahl": 39973,
+      "ort": "Altkalen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039975",
+      "ortsnetzkennzahl": 39975,
+      "ort": "Thürkow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039976",
+      "ortsnetzkennzahl": 39976,
+      "ort": "Groß Bützin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039977",
+      "ortsnetzkennzahl": 39977,
+      "ort": "Jördenstorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039978",
+      "ortsnetzkennzahl": 39978,
+      "ort": "Gross Roge",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039991",
+      "ortsnetzkennzahl": 39991,
+      "ort": "Daberkow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039992",
+      "ortsnetzkennzahl": 39992,
+      "ort": "Görmin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039993",
+      "ortsnetzkennzahl": 39993,
+      "ort": "Hohenmocker",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039994",
+      "ortsnetzkennzahl": 39994,
+      "ort": "Metschow",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039995",
+      "ortsnetzkennzahl": 39995,
+      "ort": "Nossendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039996",
+      "ortsnetzkennzahl": 39996,
+      "ort": "Törpin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039997",
+      "ortsnetzkennzahl": 39997,
+      "ort": "Jarmen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039998",
+      "ortsnetzkennzahl": 39998,
+      "ort": "Loitz b Demmin",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "039999",
+      "ortsnetzkennzahl": 39999,
+      "ort": "Tutow",
+      "aktiv": true
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Vorwahlen — Bereich 3 (führende Ziffer 3) - Kostenloser Download",
+    "description": "Ortsnetzkennzahlen mit führender Ziffer 3 aus dem deutschen Nummerierungsbereich. Geografischer Schwerpunkt: Berlin (030), Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen, Mecklenburg-Vorpommern. Insgesamt 1462 Einträge. Enthält 1462 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Deutsche Vorwahlen — Bereich 3 (führende Ziffer 3) | ListBase",
+    "seo_description": "Herunterladen Deutsche Vorwahlen — Bereich 3 (führende Ziffer 3) — 1462 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 1462 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

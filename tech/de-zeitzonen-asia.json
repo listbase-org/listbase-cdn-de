@@ -1,0 +1,376 @@
+{
+  "id": "de-zeitzonen-asia",
+  "name": "Zeitzonen — Asia (40)",
+  "title": "Zeitzonen — Asia (40)",
+  "description": "Zeitzonen, deren IANA-Identifikator mit 'Asia/' beginnt, mit Namen auf Deutsch.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "stadt",
+      "label": "Stadt",
+      "type": "string"
+    },
+    {
+      "key": "standardname",
+      "label": "Standardname",
+      "type": "string"
+    },
+    {
+      "key": "sommername",
+      "label": "Sommername",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Asia/Aqtobe",
+      "region": "Asia",
+      "stadt": "Aktobe",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Asia/Ashgabat",
+      "region": "Asia",
+      "stadt": "Aşgabat",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Asia/Baghdad",
+      "region": "Asia",
+      "stadt": "Bagdad",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Asia/Bishkek",
+      "region": "Asia",
+      "stadt": "Bischkek",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Asia/Brunei",
+      "region": "Asia",
+      "stadt": "Brunei Darussalam",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Asia/Calcutta",
+      "region": "Asia",
+      "stadt": "Kalkutta",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Asia/Chita",
+      "region": "Asia",
+      "stadt": "Tschita",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Asia/Damascus",
+      "region": "Asia",
+      "stadt": "Damaskus",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Asia/Dushanbe",
+      "region": "Asia",
+      "stadt": "Duschanbe",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Asia/Hong_Kong",
+      "region": "Asia",
+      "stadt": "Hongkong",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Asia/Hovd",
+      "region": "Asia",
+      "stadt": "Chowd",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Asia/Kamchatka",
+      "region": "Asia",
+      "stadt": "Kamtschatka",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Asia/Karachi",
+      "region": "Asia",
+      "stadt": "Karatschi",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Asia/Katmandu",
+      "region": "Asia",
+      "stadt": "Kathmandu",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Asia/Khandyga",
+      "region": "Asia",
+      "stadt": "Chandyga",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Asia/Krasnoyarsk",
+      "region": "Asia",
+      "stadt": "Krasnojarsk",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Asia/Macau",
+      "region": "Asia",
+      "stadt": "Macau",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Asia/Muscat",
+      "region": "Asia",
+      "stadt": "Maskat",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Asia/Nicosia",
+      "region": "Asia",
+      "stadt": "Nikosia",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Asia/Novokuznetsk",
+      "region": "Asia",
+      "stadt": "Nowokuznetsk",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Asia/Novosibirsk",
+      "region": "Asia",
+      "stadt": "Nowosibirsk",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Asia/Pyongyang",
+      "region": "Asia",
+      "stadt": "Pjöngjang",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Asia/Qatar",
+      "region": "Asia",
+      "stadt": "Katar",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Asia/Qostanay",
+      "region": "Asia",
+      "stadt": "Qostanai",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Asia/Qyzylorda",
+      "region": "Asia",
+      "stadt": "Qysylorda",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Asia/Rangoon",
+      "region": "Asia",
+      "stadt": "Rangun",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "Asia/Riyadh",
+      "region": "Asia",
+      "stadt": "Riad",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Asia/Saigon",
+      "region": "Asia",
+      "stadt": "Ho-Chi-Minh-Stadt",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Asia/Sakhalin",
+      "region": "Asia",
+      "stadt": "Sachalin",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Asia/Singapore",
+      "region": "Asia",
+      "stadt": "Singapur",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Asia/Taipei",
+      "region": "Asia",
+      "stadt": "Taipeh",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Asia/Tashkent",
+      "region": "Asia",
+      "stadt": "Taschkent",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "Asia/Tbilisi",
+      "region": "Asia",
+      "stadt": "Tiflis",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "Asia/Tehran",
+      "region": "Asia",
+      "stadt": "Teheran",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "Asia/Tokyo",
+      "region": "Asia",
+      "stadt": "Tokio",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "Asia/Urumqi",
+      "region": "Asia",
+      "stadt": "Ürümqi",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "Asia/Vladivostok",
+      "region": "Asia",
+      "stadt": "Wladiwostok",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "Asia/Yakutsk",
+      "region": "Asia",
+      "stadt": "Jakutsk",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "Asia/Yekaterinburg",
+      "region": "Asia",
+      "stadt": "Jekaterinburg",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "Asia/Yerevan",
+      "region": "Asia",
+      "stadt": "Eriwan",
+      "standardname": "",
+      "sommername": ""
+    }
+  ],
+  "meta": {
+    "title": "Zeitzonen — Asia (40) - Kostenloser Download",
+    "description": "Zeitzonen, deren IANA-Identifikator mit 'Asia/' beginnt, mit Namen auf Deutsch. Enthält 40 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Zeitzonen — Asia (40) | ListBase",
+    "seo_description": "Herunterladen Zeitzonen — Asia (40) — 40 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 40 Datensätze / 6 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

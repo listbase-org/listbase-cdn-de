@@ -1,0 +1,1393 @@
+{
+  "id": "de-palaeste",
+  "name": "Paläste in Deutschland / Palaces in Germany",
+  "title": "Paläste in Deutschland / Palaces in Germany",
+  "description": "Paläste in Deutschland (Palaces in Germany). Geolocated points sourced from Wikidata (instance of Q16560), located in Germany (Q183), each with a coordinate (P625).",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 148,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_de",
+      "label": "Name De",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q300739",
+      "name_de": "Aachener Königspfalz",
+      "name_en": "Palace of Aachen",
+      "latitude": 50.775556,
+      "longitude": 6.083889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q300739"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q19258885",
+      "name_de": "Alexanderpalais",
+      "name_en": "Alexanderpalais (Darmstadt)",
+      "latitude": 49.873216,
+      "longitude": 8.650234,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19258885"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q56248854",
+      "name_de": "Altenburgsches Palais",
+      "name_en": "Altenburgsches Palais",
+      "latitude": 52.3764,
+      "longitude": 9.729,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56248854"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q439300",
+      "name_de": "Altes Palais (Hannover)",
+      "name_en": "Altes Palais (Hannover)",
+      "latitude": 52.3708,
+      "longitude": 9.73393,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q439300"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q79025431",
+      "name_de": "Altes Schloss Dornburg",
+      "name_en": "Altes Schloss Dornburg",
+      "latitude": 51.007092,
+      "longitude": 11.669585,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q79025431"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q15791864",
+      "name_de": "Amalienschlösschen",
+      "name_en": "Amalienschlösschen",
+      "latitude": 49.006343,
+      "longitude": 8.39914,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15791864"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q810492",
+      "name_de": "Bassenheimer Hof",
+      "name_en": "Bassenheimer Hof",
+      "latitude": 49.9978,
+      "longitude": 8.26778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q810492"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q98581799",
+      "name_de": "Baudenkmal D-4-63-000-384 in Coburg im Ortsteil Coburg",
+      "name_en": "Sog.",
+      "latitude": 50.260227,
+      "longitude": 10.966686,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98581799"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q98581798",
+      "name_de": "Baudenkmal D-4-63-000-385 in Coburg im Ortsteil Coburg",
+      "name_en": "Palast",
+      "latitude": 50.260336,
+      "longitude": 10.967593,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98581798"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q98605948",
+      "name_de": "Baudenkmal D-5-62-000-102 in Erlangen im Ortsteil Erlangen",
+      "name_en": "Palast",
+      "latitude": 49.595861,
+      "longitude": 11.002991,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98605948"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q314123",
+      "name_de": "Belvedere",
+      "name_en": "Schloss Belvedere",
+      "latitude": 50.9486,
+      "longitude": 11.3486,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q314123"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q454078",
+      "name_de": "Belvedere auf dem Pfingstberg",
+      "name_en": "Belvedere on the Pfingstberg",
+      "latitude": 52.4187,
+      "longitude": 13.059,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q454078"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q2140245",
+      "name_de": "Belvedere Schöne Höhe",
+      "name_en": "Belvedere Schöne Höhe",
+      "latitude": 51.028719,
+      "longitude": 13.982676,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2140245"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q891542",
+      "name_de": "Bolongaropalast",
+      "name_en": "Bolongaropalast",
+      "latitude": 50.100884,
+      "longitude": 8.55326,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q891542"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q923629",
+      "name_de": "Brockdorff-Palais",
+      "name_en": "Brockdorff-Palais",
+      "latitude": 53.7889,
+      "longitude": 9.42204,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q923629"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q321783",
+      "name_de": "Cecilienhof",
+      "name_en": "Cecilienhof",
+      "latitude": 52.419167,
+      "longitude": 13.070833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q321783"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q97373613",
+      "name_de": "Das Henckelsche Palais",
+      "name_en": "Henckel Palace in Wrocław",
+      "latitude": 51.104722,
+      "longitude": 17.036944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97373613"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q530788",
+      "name_de": "Deutschhaus Mainz",
+      "name_en": "Deutschhaus Mainz",
+      "latitude": 50.00528,
+      "longitude": 8.27167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q530788"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q41426121",
+      "name_de": "Drittes Palais Schrottenberg, adeliges Stadthaus",
+      "name_en": "Adelspalast",
+      "latitude": 49.89188,
+      "longitude": 10.88419,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q41426121"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q1260605",
+      "name_de": "Drostei (Pinneberg)",
+      "name_en": "Drostei",
+      "latitude": 53.6608,
+      "longitude": 9.79667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1260605"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q41351842",
+      "name_de": "Ehemaliges Stadtpalais, heute Musikschule",
+      "name_en": "Palast",
+      "latitude": 49.73618,
+      "longitude": 10.16208,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q41351842"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q131639526",
+      "name_de": "Englischer Bau",
+      "name_en": "English building",
+      "latitude": 49.410831,
+      "longitude": 8.714472,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131639526"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q1348242",
+      "name_de": "Erbdrostenhof",
+      "name_en": "Erbdrostenhof",
+      "latitude": 51.9609,
+      "longitude": 7.63222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1348242"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q1348348",
+      "name_de": "Erbgroßherzogliches Palais",
+      "name_en": "Hereditary Grand Ducal Palace",
+      "latitude": 49.006111,
+      "longitude": 8.396389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1348348"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q16831244",
+      "name_de": "Ernst-August-Palais",
+      "name_en": "Ernst-August-Palais",
+      "latitude": 52.368499,
+      "longitude": 9.726873,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16831244"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q30061593",
+      "name_de": "Friedrichsbau des Heidelberger Schlosses",
+      "name_en": "Friedrichsbau of Heidelberg Castle",
+      "latitude": 49.410991,
+      "longitude": 8.715153,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30061593"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q1483139",
+      "name_de": "Fürstenbergsches Haus",
+      "name_en": "Fürstenbergsches Haus",
+      "latitude": 51.0531,
+      "longitude": 13.7392,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1483139"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q1483277",
+      "name_de": "Fürstenhaus Herrenhausen-Museum",
+      "name_en": "Fürstenhaus Herrenhausen-Museum",
+      "latitude": 52.3921,
+      "longitude": 9.69267,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1483277"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q41426040",
+      "name_de": "Haus zum Düthorn, Wohn- und Geschäftshaus",
+      "name_en": "Wohn- und Geschäftshaus",
+      "latitude": 49.89144,
+      "longitude": 10.88632,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q41426040"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q130789273",
+      "name_de": "Hochschloss (Bischöfliche Residenz)",
+      "name_en": "Upper Castle (Bishops' Residence)",
+      "latitude": 51.047678,
+      "longitude": 14.083005,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130789273"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q468137",
+      "name_de": "Japanisches Palais",
+      "name_en": "Japanisches Palais",
+      "latitude": 51.059722,
+      "longitude": 13.7375,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q468137"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q62445680",
+      "name_de": "Kanzlerpalais Fulda",
+      "name_en": "Kanzler-Palais",
+      "latitude": 50.551261,
+      "longitude": 9.676389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q62445680"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q1789978",
+      "name_de": "Kronprinzenpalais",
+      "name_en": "Kronprinzenpalais",
+      "latitude": 48.7782,
+      "longitude": 9.17774,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1789978"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q316766",
+      "name_de": "Kurfürstliches Palais",
+      "name_en": "Electoral Palace",
+      "latitude": 49.7531,
+      "longitude": 6.64361,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q316766"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q454121",
+      "name_de": "Kurfürstliches Schloss",
+      "name_en": "Electoral Palace",
+      "latitude": 50.0067,
+      "longitude": 8.27056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q454121"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q461127",
+      "name_de": "Kurfürstliches Schloss",
+      "name_en": "Electoral Palace Koblenz",
+      "latitude": 50.3556,
+      "longitude": 7.60222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q461127"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q1796372",
+      "name_de": "Königshof",
+      "name_en": "Königshof",
+      "latitude": 53.786,
+      "longitude": 9.41854,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1796372"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q1796375",
+      "name_de": "Königshof (Krempe)",
+      "name_en": "",
+      "latitude": 53.8359,
+      "longitude": 9.48731,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1796375"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q1801343",
+      "name_de": "Lamberg-Palais",
+      "name_en": "Lamberg-Palais",
+      "latitude": 48.5745,
+      "longitude": 13.463,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1801343"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q122781544",
+      "name_de": "Landgrafenhaus",
+      "name_en": "Landgrafenhaus",
+      "latitude": 52.333833,
+      "longitude": 9.375163,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122781544"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q2046895",
+      "name_de": "Landhausstraße 6",
+      "name_en": "Landhausstraße 6",
+      "latitude": 51.0508,
+      "longitude": 13.7417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2046895"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q86723789",
+      "name_de": "",
+      "name_en": "Langhanses' Palace in Wrocław",
+      "latitude": 51.113889,
+      "longitude": 17.039776,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q86723789"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q1688561",
+      "name_de": "Neues Jagdschloss Hummelshain",
+      "name_en": "Neues Jagdschloss Hummelshain",
+      "latitude": 50.7701,
+      "longitude": 11.6278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1688561"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q1685897",
+      "name_de": "Neues Palais",
+      "name_en": "Neues Palais",
+      "latitude": 49.868647,
+      "longitude": 8.650988,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1685897"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q677383",
+      "name_de": "Neues Palais",
+      "name_en": "New Palace",
+      "latitude": 52.401301,
+      "longitude": 13.01603,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q677383"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q1980353",
+      "name_de": "Neues Palais (Detmold)",
+      "name_en": "",
+      "latitude": 51.9309,
+      "longitude": 8.87617,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1980353"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q115620292",
+      "name_de": "Neues Palais Pillnitz",
+      "name_en": "Neues Palais Pillnitz",
+      "latitude": 51.00832,
+      "longitude": 13.87113,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115620292"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q118618",
+      "name_de": "Neues Schloss Herrenchiemsee",
+      "name_en": "Herrenchiemsee",
+      "latitude": 47.860429,
+      "longitude": 12.402199,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118618"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q17121915",
+      "name_de": "Neues Schloss Schleißheim",
+      "name_en": "New Schleissheim Palace",
+      "latitude": 48.248838,
+      "longitude": 11.561004,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17121915"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q1733253",
+      "name_de": "Niederländisches Palais",
+      "name_en": "Niederländisches Palais",
+      "latitude": 52.516861,
+      "longitude": 13.392111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1733253"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q109180173",
+      "name_de": "Ottheinrichsbau",
+      "name_en": "Ottheinrichsbau",
+      "latitude": 49.410978,
+      "longitude": 8.715765,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109180173"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q114742",
+      "name_de": "Palais am Festungsgraben",
+      "name_en": "Palais am Festungsgraben",
+      "latitude": 52.5189,
+      "longitude": 13.3956,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114742"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q27867927",
+      "name_de": "Palais am Fürstenwall",
+      "name_en": "Palais am Fürstenwall",
+      "latitude": 52.122222,
+      "longitude": 11.633333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27867927"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q19298170",
+      "name_de": "Palais am Prinzenberg",
+      "name_en": "Palais am Prinzenberg",
+      "latitude": 50.569583,
+      "longitude": 10.407639,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19298170"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q1577367",
+      "name_de": "Palais Bechtolsheim",
+      "name_en": "Kanzlerpalais",
+      "latitude": 50.9767,
+      "longitude": 10.3169,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1577367"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q1541968",
+      "name_de": "Palais Bellevue",
+      "name_en": "Bellevue Palace",
+      "latitude": 51.3097,
+      "longitude": 9.49389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1541968"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q94993540",
+      "name_de": "Palais Biron",
+      "name_en": "Palais Biron",
+      "latitude": 48.751593,
+      "longitude": 8.248374,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q94993540"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q2046921",
+      "name_de": "Palais Brühl",
+      "name_en": "Palais Brühl",
+      "latitude": 51.0498,
+      "longitude": 13.7436,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2046921"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q2046923",
+      "name_de": "Palais Brühl (Augustusstraße)",
+      "name_en": "Palais Brühl",
+      "latitude": 51.0533,
+      "longitude": 13.7394,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2046923"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q119192",
+      "name_de": "Palais Brühl-Marcolini",
+      "name_en": "Palace Brühl-Marcolini",
+      "latitude": 51.059505,
+      "longitude": 13.718198,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q119192"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q2046926",
+      "name_de": "Palais Bückeburg",
+      "name_en": "",
+      "latitude": 52.2562,
+      "longitude": 9.05203,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2046926"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q2046940",
+      "name_de": "Palais Crailsheim",
+      "name_en": "Palais Crailsheim",
+      "latitude": 48.1584,
+      "longitude": 11.5907,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2046940"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q1571052",
+      "name_de": "Palais der Sekundogenitur",
+      "name_en": "Palais der Sekundogenitur",
+      "latitude": 51.043844,
+      "longitude": 13.745079,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1571052"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q1682929",
+      "name_de": "Palais Flemming-Sulkowski",
+      "name_en": "Palais Flemming-Sulkowski",
+      "latitude": 51.0501,
+      "longitude": 13.743,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1682929"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q98722877",
+      "name_de": "Palais Friedensplatz 2; Residenzplatz 31 in Kempten (Allgäu) (D-7-63-000-201#2)",
+      "name_en": "Palais Friedensplatz 2; Residenzplatz 31 in Kempten (Allgäu)",
+      "latitude": 47.727282,
+      "longitude": 10.311522,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98722877"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q130432401",
+      "name_de": "Palais Friedrichstraße",
+      "name_en": "Palais Friedrichstraße",
+      "latitude": 50.080177,
+      "longitude": 8.241071,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130432401"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q2047289",
+      "name_de": "Palais für aktuelle Kunst",
+      "name_en": "Palais für aktuelle Kunst",
+      "latitude": 53.7859,
+      "longitude": 9.41741,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2047289"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q2046999",
+      "name_de": "Palais Hardenberg",
+      "name_en": "Palais Hardenberg",
+      "latitude": 52.5113,
+      "longitude": 13.399,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2046999"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q2047002",
+      "name_de": "Palais Hartleben",
+      "name_en": "Palais Hartleben",
+      "latitude": 50.5137,
+      "longitude": 8.38946,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2047002"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q2047015",
+      "name_de": "Palais Hoym",
+      "name_en": "Palais Hoym",
+      "latitude": 51.0501,
+      "longitude": 13.7434,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2047015"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q2047026",
+      "name_de": "Palais Kap-herr",
+      "name_en": "Palais Kap-herr",
+      "latitude": 51.0381,
+      "longitude": 13.745,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2047026"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q2047025",
+      "name_de": "Palais Kaskel-Oppenheim",
+      "name_en": "Palais Kaskel-Oppenheim",
+      "latitude": 51.0447,
+      "longitude": 13.7419,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2047025"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q2047051",
+      "name_de": "Palais Kurland",
+      "name_en": "",
+      "latitude": 52.5162,
+      "longitude": 13.3835,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2047051"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q15123874",
+      "name_de": "Palais Landauer",
+      "name_en": "Hotel Römischer Kaiser",
+      "latitude": 49.05985,
+      "longitude": 10.96787,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15123874"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q15838112",
+      "name_de": "Palais Loß",
+      "name_en": "Palais Loß",
+      "latitude": 51.048056,
+      "longitude": 13.741111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15838112"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q2047091",
+      "name_de": "Palais Lüttichau",
+      "name_en": "",
+      "latitude": 51.0447,
+      "longitude": 13.7439,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2047091"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q2047095",
+      "name_de": "Palais Marienstraße 24",
+      "name_en": "",
+      "latitude": 51.0478,
+      "longitude": 13.7331,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2047095"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q2047096",
+      "name_de": "Palais Marschall",
+      "name_en": "",
+      "latitude": 52.5112,
+      "longitude": 13.3831,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2047096"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q2047113",
+      "name_de": "Palais Moszyńska",
+      "name_en": "Palais Moszczyńska, Dresden",
+      "latitude": 51.0405,
+      "longitude": 13.7389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2047113"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q2047123",
+      "name_de": "Palais Neubrandenburg",
+      "name_en": "Palais Neubrandenburg",
+      "latitude": 53.5574,
+      "longitude": 13.2607,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2047123"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q2047137",
+      "name_de": "Palais Pettenkofer",
+      "name_en": "",
+      "latitude": 48.5349,
+      "longitude": 12.1522,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2047137"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q69816161",
+      "name_de": "Palais Rastede",
+      "name_en": "Palais Rastede",
+      "latitude": 53.24115,
+      "longitude": 8.1977,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q69816161"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q652402",
+      "name_de": "Palais Schaumburg",
+      "name_en": "Palais Schaumburg",
+      "latitude": 50.720233,
+      "longitude": 7.117361,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q652402"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q98587723",
+      "name_de": "Palais Schloßplatz 5 b in Coburg (D-4-63-000-452#1)",
+      "name_en": "Palais Schloßplatz 5 b in Coburg",
+      "latitude": 50.26,
+      "longitude": 10.96748,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98587723"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q98587724",
+      "name_de": "Palais Schloßplatz 5; Schloßplatz 5a in Coburg (D-4-63-000-452#2)",
+      "name_en": "Palais Schloßplatz 5; Schloßplatz 5a in Coburg",
+      "latitude": 50.259996,
+      "longitude": 10.967952,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98587724"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q86684818",
+      "name_de": "Palais Schreyvogel",
+      "name_en": "Schreyvogls' Palace in Wrocław",
+      "latitude": 51.109155,
+      "longitude": 17.038178,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q86684818"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q98739582",
+      "name_de": "Palais Sendlinger Straße 18 in München (D-1-62-000-2354#3)",
+      "name_en": "Palais Sendlinger Straße 18 in München",
+      "latitude": 48.135616,
+      "longitude": 11.570166,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98739582"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q1389325",
+      "name_de": "Palais Strousberg",
+      "name_en": "Palais Strousberg",
+      "latitude": 52.5158,
+      "longitude": 13.3808,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1389325"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q282656",
+      "name_de": "Palais Thurn und Taxis",
+      "name_en": "Palais Thurn und Taxis",
+      "latitude": 50.115,
+      "longitude": 8.67972,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q282656"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q125592035",
+      "name_de": "Palais Vitzthum-Rutowski",
+      "name_en": "",
+      "latitude": 51.048982,
+      "longitude": 13.740098,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125592035"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q14757659",
+      "name_de": "Palais Vitzthum-Schönburg",
+      "name_en": "Palais Vitzthum-Schönburg",
+      "latitude": 51.049859,
+      "longitude": 13.741205,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14757659"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q27150033",
+      "name_de": "Palais von Nell",
+      "name_en": "Palace of Nell",
+      "latitude": 49.472389,
+      "longitude": 6.385111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27150033"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q2047209",
+      "name_de": "Palais Weimar (Heidelberg)",
+      "name_en": "",
+      "latitude": 49.4134,
+      "longitude": 8.71497,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2047209"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q2047225",
+      "name_de": "Palais Wittgenstein",
+      "name_en": "Palais Wittgenstein",
+      "latitude": 51.222357,
+      "longitude": 6.772634,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2047225"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q2047230",
+      "name_de": "Palais Zocha",
+      "name_en": "Palais Zocha",
+      "latitude": 49.1149,
+      "longitude": 10.7553,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2047230"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q136391163",
+      "name_de": "Palas der Burg Scharfenstein",
+      "name_en": "Palas of Scharfenstein Castle",
+      "latitude": 50.704755,
+      "longitude": 13.055529,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136391163"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q41180392",
+      "name_de": "Palastartiges Mietsgebäude, später Palais Eichthal",
+      "name_en": "",
+      "latitude": 48.143328,
+      "longitude": 11.574533,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q41180392"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q1751199",
+      "name_de": "Ponikauhaus",
+      "name_en": "Ponikauhaus",
+      "latitude": 47.7265,
+      "longitude": 10.3182,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1751199"
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q527260",
+      "name_de": "Potsdamer Stadtschloss",
+      "name_en": "City Palace",
+      "latitude": 52.394722,
+      "longitude": 13.060556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q527260"
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q2110526",
+      "name_de": "Prinz-Albrecht-Palais",
+      "name_en": "Prinz-Albrecht-Palais",
+      "latitude": 52.5061,
+      "longitude": 13.3856,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2110526"
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q100741449",
+      "name_de": "Prinz-Georg-Palais",
+      "name_en": "Prinz-Georgs-Palais (Darmstadt)",
+      "latitude": 49.879722,
+      "longitude": 8.653333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q100741449"
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q16320649",
+      "name_de": "Prinzenpalais (Gotha)",
+      "name_en": "Prinzenpalais",
+      "latitude": 50.944409,
+      "longitude": 10.711916,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16320649"
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q58402245",
+      "name_de": "Prinzenpalais (Landesarchiv)",
+      "name_en": "Prinzenpalais",
+      "latitude": 54.5059,
+      "longitude": 9.5401,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58402245"
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q2110687",
+      "name_de": "Prinzenpalais (Usingen)",
+      "name_en": "Prinzenpalais",
+      "latitude": 50.3362,
+      "longitude": 8.5373,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2110687"
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q2110749",
+      "name_de": "Prinzeßhof",
+      "name_en": "Prinzesshof",
+      "latitude": 53.9237,
+      "longitude": 9.516,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2110749"
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q65952189",
+      "name_de": "Rathaus Leimen",
+      "name_en": "Rathaus Leimen",
+      "latitude": 49.348857,
+      "longitude": 8.690909,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65952189"
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q1651839",
+      "name_de": "Reichspräsidentenpalais",
+      "name_en": "Palace of the Reich President",
+      "latitude": 52.514,
+      "longitude": 13.3815,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1651839"
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q79024165",
+      "name_de": "Renaissanceschloss Dornburg",
+      "name_en": "Renaissanceschloss Dornburg",
+      "latitude": 51.005079,
+      "longitude": 11.66685,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q79024165"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q638593",
+      "name_de": "Residenz Ellingen",
+      "name_en": "Ellingen Residence",
+      "latitude": 49.0608,
+      "longitude": 10.9656,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q638593"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q167314",
+      "name_de": "Residenzschloss Dresden",
+      "name_en": "Dresden Castle",
+      "latitude": 51.052781,
+      "longitude": 13.736939,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q167314"
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q704831",
+      "name_de": "Residenzschloss Ludwigsburg",
+      "name_en": "Ludwigsburg Palace",
+      "latitude": 48.899377,
+      "longitude": 9.196065,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q704831"
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q79024909",
+      "name_de": "Rokokoschloss Dornburg",
+      "name_en": "Rokokoschloss Dornburg",
+      "latitude": 51.005981,
+      "longitude": 11.668042,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q79024909"
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q66018237",
+      "name_de": "Rothschild-Palais",
+      "name_en": "Rothschild-Palais",
+      "latitude": 50.107186,
+      "longitude": 8.674577,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66018237"
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q205540",
+      "name_de": "Schaezlerpalais",
+      "name_en": "Schaezlerpalais",
+      "latitude": 48.364981,
+      "longitude": 10.898598,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q205540"
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q458439",
+      "name_de": "Schloss Altenstein",
+      "name_en": "Altenstein Palace",
+      "latitude": 50.835278,
+      "longitude": 10.351944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q458439"
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q317091",
+      "name_de": "Schloss Bellevue",
+      "name_en": "Bellevue Palace",
+      "latitude": 52.5175,
+      "longitude": 13.353333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q317091"
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q674963",
+      "name_de": "Schloss Charlottenhof",
+      "name_en": "Charlottenhof Palace",
+      "latitude": 52.3955,
+      "longitude": 13.0259,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q674963"
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q2240599",
+      "name_de": "Schloss Deichmannsaue",
+      "name_en": "Schloss Deichmannsaue",
+      "latitude": 50.6714,
+      "longitude": 7.18538,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2240599"
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q125169889",
+      "name_de": "Schloss Donaustauf",
+      "name_en": "Donaustauf Palace",
+      "latitude": 49.03001,
+      "longitude": 12.21187,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125169889"
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q666203",
+      "name_de": "Schloss Ernich",
+      "name_en": "Schloss Ernich",
+      "latitude": 50.5964,
+      "longitude": 7.2048,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q666203"
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q301684",
+      "name_de": "Schloss Glienicke",
+      "name_en": "Glienicke Palace",
+      "latitude": 52.4142,
+      "longitude": 13.0953,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q301684"
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q27927874",
+      "name_de": "Schloss Heidesheim",
+      "name_en": "",
+      "latitude": 49.583886,
+      "longitude": 8.196169,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27927874"
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q48966707",
+      "name_de": "Schloss Herrenhausen",
+      "name_en": "Herrenhausen Palace",
+      "latitude": 52.391389,
+      "longitude": 9.697222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q48966707"
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q61741388",
+      "name_de": "Schloss Laufzorn",
+      "name_en": "Schloss Laufzorn",
+      "latitude": 48.015249,
+      "longitude": 11.55407,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61741388"
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q162052",
+      "name_de": "Schloss Linderhof",
+      "name_en": "Linderhof Palace",
+      "latitude": 47.571619,
+      "longitude": 10.960754,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q162052"
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q315002",
+      "name_de": "Schloss Marienfels",
+      "name_en": "Schloss Marienfels",
+      "latitude": 50.588889,
+      "longitude": 7.210556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q315002"
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q694382",
+      "name_de": "Schloss Monbijou",
+      "name_en": "Monbijou Palace",
+      "latitude": 52.5233,
+      "longitude": 13.3967,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q694382"
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q677420",
+      "name_de": "Schloss Nordkirchen",
+      "name_en": "Schloss Nordkirchen",
+      "latitude": 51.7326,
+      "longitude": 7.53368,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q677420"
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q473807",
+      "name_de": "Schloss Oranienbaum",
+      "name_en": "Oranienbaum Palace",
+      "latitude": 51.7999,
+      "longitude": 12.4036,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q473807"
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q2243060",
+      "name_de": "Schloss Rantzau",
+      "name_en": "Schloss Rantzau",
+      "latitude": 53.8627,
+      "longitude": 10.6855,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2243060"
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q317840",
+      "name_de": "Schloss Rheinsberg",
+      "name_en": "Rheinsberg Palace",
+      "latitude": 53.0986,
+      "longitude": 12.8894,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q317840"
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q21155302",
+      "name_de": "Schloss Rösberg",
+      "name_en": "Schloss Rösberg",
+      "latitude": 50.769016,
+      "longitude": 6.914741,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21155302"
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q151330",
+      "name_de": "Schloss Sanssouci",
+      "name_en": "Sanssouci Palace",
+      "latitude": 52.403257,
+      "longitude": 13.038626,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q151330"
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q883810",
+      "name_de": "Schloss Seehof",
+      "name_en": "Schloss Seehof",
+      "latitude": 49.926972,
+      "longitude": 10.947639,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q883810"
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q2243696",
+      "name_de": "Schloss Tamsel",
+      "name_en": "Tamsel",
+      "latitude": 52.620556,
+      "longitude": 14.706111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2243696"
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q179062",
+      "name_de": "Schloss Weißenstein",
+      "name_en": "Schloss Weißenstein",
+      "latitude": 49.76274,
+      "longitude": 10.82049,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q179062"
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q2326181",
+      "name_de": "Stadioner Hof",
+      "name_en": "Stadioner Hof",
+      "latitude": 50.0009,
+      "longitude": 8.2648,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2326181"
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q1689010",
+      "name_de": "Stadtpalais von Werdensleben",
+      "name_en": "Werdensleben palais",
+      "latitude": 51.8521,
+      "longitude": 11.5844,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1689010"
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q2327993",
+      "name_de": "Stadtresidenz Landshut",
+      "name_en": "Landshut Residence",
+      "latitude": 48.5361,
+      "longitude": 12.1508,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2327993"
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q1771066",
+      "name_de": "Wasmer-Palais",
+      "name_en": "Wasmer-Palais",
+      "latitude": 53.7875,
+      "longitude": 9.41745,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1771066"
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q317394",
+      "name_de": "Wilhelmspalais",
+      "name_en": "Wilhelm Palais",
+      "latitude": 48.7761,
+      "longitude": 9.18417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q317394"
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q2585063",
+      "name_de": "Winterpalais (Gotha)",
+      "name_en": "Winterpalais (Gotha)",
+      "latitude": 50.9478,
+      "longitude": 10.7092,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2585063"
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q1730975",
+      "name_de": "Wittumspalais",
+      "name_en": "Wittumspalais",
+      "latitude": 50.9797,
+      "longitude": 11.3266,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1730975"
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q1689715",
+      "name_de": "Witwenpalais",
+      "name_en": "Widow's Palace, Plön",
+      "latitude": 54.1581,
+      "longitude": 10.4124,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1689715"
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q2586928",
+      "name_de": "Witwenpalais",
+      "name_en": "Witwenpalais",
+      "latitude": 54.13681,
+      "longitude": 10.61561,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2586928"
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q156316",
+      "name_de": "Würzburger Residenz",
+      "name_en": "Würzburg Residence",
+      "latitude": 49.792798,
+      "longitude": 9.938889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q156316"
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q155107",
+      "name_de": "Zwinger",
+      "name_en": "Zwinger",
+      "latitude": 51.053056,
+      "longitude": 13.733889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q155107"
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q254853",
+      "name_de": "Älterer Dalberger Hof",
+      "name_en": "Älterer Dalberger Hof",
+      "latitude": 49.99725,
+      "longitude": 8.2701,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q254853"
+    }
+  ],
+  "meta": {
+    "title": "Paläste in Deutschland / Palaces in Germany - Kostenloser Download",
+    "description": "Paläste in Deutschland (Palaces in Germany). Geolocated points sourced from Wikidata (instance of Q16560), located in Germany (Q183), each with a coordinate (P625). Enthält 148 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Paläste in Deutschland / Palaces in Germany | ListBase",
+    "seo_description": "Herunterladen Paläste in Deutschland / Palaces in Germany — 148 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 148 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

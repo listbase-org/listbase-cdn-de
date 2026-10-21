@@ -1,0 +1,962 @@
+{
+  "id": "de-berlin-orte-postleitzahlen",
+  "name": "Orte mit Postleitzahlen — Berlin",
+  "title": "Orte mit Postleitzahlen — Berlin",
+  "description": "81 Orte in Berlin (DE-BE) mit Postleitzahlen und Telefonvorwahl. Quelle: florianchrometz/german-metadata (MIT).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 81,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_de",
+      "label": "Name De",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "postal_codes",
+      "label": "Postal Codes",
+      "type": "string"
+    },
+    {
+      "key": "postal_code_count",
+      "label": "Postal Code Count",
+      "type": "number"
+    },
+    {
+      "key": "primary_postal_code",
+      "label": "Primary Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_code",
+      "label": "Bundesland Code",
+      "type": "string"
+    },
+    {
+      "key": "phone_prefix",
+      "label": "Phone Prefix",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Berlin",
+      "name_de": "Berlin",
+      "slug": "berlin",
+      "postal_codes": "10319, 10825, 10827, 12277, 12279, 12305, 12307, 12309, 12487, 12557, 12619, 12629, 12679, 12681, 12685, 12687, 12689",
+      "postal_code_count": 17,
+      "primary_postal_code": "10319",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Alt-Hohenschönhausen",
+      "name_de": "Berlin Alt-Hohenschönhausen",
+      "slug": "berlin-alt-hohenschoenhausen",
+      "postal_codes": "13053, 13055",
+      "postal_code_count": 2,
+      "primary_postal_code": "13053",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Alt-Treptow",
+      "name_de": "Berlin Alt-Treptow",
+      "slug": "berlin-alt-treptow",
+      "postal_codes": "12435",
+      "postal_code_count": 1,
+      "primary_postal_code": "12435",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Altglienicke",
+      "name_de": "Berlin Altglienicke",
+      "slug": "berlin-altglienicke",
+      "postal_codes": "12524",
+      "postal_code_count": 1,
+      "primary_postal_code": "12524",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Baumschulenweg",
+      "name_de": "Berlin Baumschulenweg",
+      "slug": "berlin-baumschulenweg",
+      "postal_codes": "12437",
+      "postal_code_count": 1,
+      "primary_postal_code": "12437",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Biesdorf",
+      "name_de": "Berlin Biesdorf",
+      "slug": "berlin-biesdorf",
+      "postal_codes": "12683",
+      "postal_code_count": 1,
+      "primary_postal_code": "12683",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Blankenburg",
+      "name_de": "Berlin Blankenburg",
+      "slug": "berlin-blankenburg",
+      "postal_codes": "13129",
+      "postal_code_count": 1,
+      "primary_postal_code": "13129",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Blankenfelde",
+      "name_de": "Berlin Blankenfelde",
+      "slug": "berlin-blankenfelde",
+      "postal_codes": "13159",
+      "postal_code_count": 1,
+      "primary_postal_code": "13159",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Bohnsdorf",
+      "name_de": "Berlin Bohnsdorf",
+      "slug": "berlin-bohnsdorf",
+      "postal_codes": "12526",
+      "postal_code_count": 1,
+      "primary_postal_code": "12526",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Britz",
+      "name_de": "Berlin Britz",
+      "slug": "berlin-britz",
+      "postal_codes": "12347, 12359",
+      "postal_code_count": 2,
+      "primary_postal_code": "12347",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Buch",
+      "name_de": "Berlin Buch",
+      "slug": "berlin-buch",
+      "postal_codes": "13125",
+      "postal_code_count": 1,
+      "primary_postal_code": "13125",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Buckow",
+      "name_de": "Berlin Buckow",
+      "slug": "berlin-buckow",
+      "postal_codes": "12349, 12351",
+      "postal_code_count": 2,
+      "primary_postal_code": "12349",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Charlottenburg",
+      "name_de": "Berlin Charlottenburg",
+      "slug": "berlin-charlottenburg",
+      "postal_codes": "10585, 10587, 10589, 10623, 10625, 10627, 10629, 14057, 14059",
+      "postal_code_count": 9,
+      "primary_postal_code": "10585",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Charlottenburg-Nord",
+      "name_de": "Berlin Charlottenburg-Nord",
+      "slug": "berlin-charlottenburg-nord",
+      "postal_codes": "13627",
+      "postal_code_count": 1,
+      "primary_postal_code": "13627",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Dahlem",
+      "name_de": "Berlin Dahlem",
+      "slug": "berlin-dahlem",
+      "postal_codes": "14195",
+      "postal_code_count": 1,
+      "primary_postal_code": "14195",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Falkenberg",
+      "name_de": "Berlin Falkenberg",
+      "slug": "berlin-falkenberg",
+      "postal_codes": "13057",
+      "postal_code_count": 1,
+      "primary_postal_code": "13057",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Falkenhagener Feld",
+      "name_de": "Berlin Falkenhagener Feld",
+      "slug": "berlin-falkenhagener-feld",
+      "postal_codes": "13589",
+      "postal_code_count": 1,
+      "primary_postal_code": "13589",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Französisch Buchholz",
+      "name_de": "Berlin Französisch Buchholz",
+      "slug": "berlin-franzoesisch-buchholz",
+      "postal_codes": "13127",
+      "postal_code_count": 1,
+      "primary_postal_code": "13127",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Friedenau",
+      "name_de": "Berlin Friedenau",
+      "slug": "berlin-friedenau",
+      "postal_codes": "12159, 12161",
+      "postal_code_count": 2,
+      "primary_postal_code": "12159",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Friedrichsfelde",
+      "name_de": "Berlin Friedrichsfelde",
+      "slug": "berlin-friedrichsfelde",
+      "postal_codes": "10315",
+      "postal_code_count": 1,
+      "primary_postal_code": "10315",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Friedrichshain",
+      "name_de": "Berlin Friedrichshain",
+      "slug": "berlin-friedrichshain",
+      "postal_codes": "10243, 10245, 10247, 10249",
+      "postal_code_count": 4,
+      "primary_postal_code": "10243",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Frohnau",
+      "name_de": "Berlin Frohnau",
+      "slug": "berlin-frohnau",
+      "postal_codes": "13465",
+      "postal_code_count": 1,
+      "primary_postal_code": "13465",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Gatow",
+      "name_de": "Berlin Gatow",
+      "slug": "berlin-gatow",
+      "postal_codes": "14089",
+      "postal_code_count": 1,
+      "primary_postal_code": "14089",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Gesundbrunnen",
+      "name_de": "Berlin Gesundbrunnen",
+      "slug": "berlin-gesundbrunnen",
+      "postal_codes": "13357, 13359",
+      "postal_code_count": 2,
+      "primary_postal_code": "13357",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Gropiusstadt",
+      "name_de": "Berlin Gropiusstadt",
+      "slug": "berlin-gropiusstadt",
+      "postal_codes": "12353",
+      "postal_code_count": 1,
+      "primary_postal_code": "12353",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Grunewald",
+      "name_de": "Berlin Grunewald",
+      "slug": "berlin-grunewald",
+      "postal_codes": "14193",
+      "postal_code_count": 1,
+      "primary_postal_code": "14193",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Hakenfelde",
+      "name_de": "Berlin Hakenfelde",
+      "slug": "berlin-hakenfelde",
+      "postal_codes": "13587",
+      "postal_code_count": 1,
+      "primary_postal_code": "13587",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Halensee",
+      "name_de": "Berlin Halensee",
+      "slug": "berlin-halensee",
+      "postal_codes": "10711",
+      "postal_code_count": 1,
+      "primary_postal_code": "10711",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Haselhorst",
+      "name_de": "Berlin Haselhorst",
+      "slug": "berlin-haselhorst",
+      "postal_codes": "13599",
+      "postal_code_count": 1,
+      "primary_postal_code": "13599",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Heinelsdorf",
+      "name_de": "Berlin Heinelsdorf",
+      "slug": "berlin-heinelsdorf",
+      "postal_codes": "13089",
+      "postal_code_count": 1,
+      "primary_postal_code": "13089",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Hellersdorf",
+      "name_de": "Berlin Hellersdorf",
+      "slug": "berlin-hellersdorf",
+      "postal_codes": "12627",
+      "postal_code_count": 1,
+      "primary_postal_code": "12627",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Hermsdorf",
+      "name_de": "Berlin Hermsdorf",
+      "slug": "berlin-hermsdorf",
+      "postal_codes": "13467",
+      "postal_code_count": 1,
+      "primary_postal_code": "13467",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Karlshorst",
+      "name_de": "Berlin Karlshorst",
+      "slug": "berlin-karlshorst",
+      "postal_codes": "10318",
+      "postal_code_count": 1,
+      "primary_postal_code": "10318",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Kaulsdorf",
+      "name_de": "Berlin Kaulsdorf",
+      "slug": "berlin-kaulsdorf",
+      "postal_codes": "12621",
+      "postal_code_count": 1,
+      "primary_postal_code": "12621",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Kreuzberg",
+      "name_de": "Berlin Kreuzberg",
+      "slug": "berlin-kreuzberg",
+      "postal_codes": "10961, 10963, 10965, 10967, 10969, 10997, 10999, 12047",
+      "postal_code_count": 8,
+      "primary_postal_code": "10961",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Köpenick",
+      "name_de": "Berlin Köpenick",
+      "slug": "berlin-koepenick",
+      "postal_codes": "12555, 12559",
+      "postal_code_count": 2,
+      "primary_postal_code": "12555",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Lankwitz",
+      "name_de": "Berlin Lankwitz",
+      "slug": "berlin-lankwitz",
+      "postal_codes": "12247, 12249",
+      "postal_code_count": 2,
+      "primary_postal_code": "12247",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Lichtenberg",
+      "name_de": "Berlin Lichtenberg",
+      "slug": "berlin-lichtenberg",
+      "postal_codes": "10365, 10367, 10369",
+      "postal_code_count": 3,
+      "primary_postal_code": "10365",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Lichterfelde",
+      "name_de": "Berlin Lichterfelde",
+      "slug": "berlin-lichterfelde",
+      "postal_codes": "12203, 12205, 12207, 12209",
+      "postal_code_count": 4,
+      "primary_postal_code": "12203",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Lübars",
+      "name_de": "Berlin Lübars",
+      "slug": "berlin-luebars",
+      "postal_codes": "13469",
+      "postal_code_count": 1,
+      "primary_postal_code": "13469",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Mahlsdorf",
+      "name_de": "Berlin Mahlsdorf",
+      "slug": "berlin-mahlsdorf",
+      "postal_codes": "12623",
+      "postal_code_count": 1,
+      "primary_postal_code": "12623",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Mariendorf",
+      "name_de": "Berlin Mariendorf",
+      "slug": "berlin-mariendorf",
+      "postal_codes": "12105, 12107, 12109",
+      "postal_code_count": 3,
+      "primary_postal_code": "12105",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Mitte",
+      "name_de": "Berlin Mitte",
+      "slug": "berlin-mitte",
+      "postal_codes": "10115, 10117, 10119, 10178, 10179",
+      "postal_code_count": 5,
+      "primary_postal_code": "10115",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Moabit",
+      "name_de": "Berlin Moabit",
+      "slug": "berlin-moabit",
+      "postal_codes": "10551, 10553, 10555, 10557, 10559",
+      "postal_code_count": 5,
+      "primary_postal_code": "10551",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Märkisches Viertel",
+      "name_de": "Berlin Märkisches Viertel",
+      "slug": "berlin-maerkisches-viertel",
+      "postal_codes": "13435, 13439",
+      "postal_code_count": 2,
+      "primary_postal_code": "13435",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Neu-Schönhausen",
+      "name_de": "Berlin Neu-Schönhausen",
+      "slug": "berlin-neu-schoenhausen",
+      "postal_codes": "13051",
+      "postal_code_count": 1,
+      "primary_postal_code": "13051",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Neukölln",
+      "name_de": "Berlin Neukölln",
+      "slug": "berlin-neukoelln",
+      "postal_codes": "12043, 12045, 12049, 12051, 12053, 12055, 12057, 12059",
+      "postal_code_count": 8,
+      "primary_postal_code": "12043",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Niederschöneweide",
+      "name_de": "Berlin Niederschöneweide",
+      "slug": "berlin-niederschoeneweide",
+      "postal_codes": "12439",
+      "postal_code_count": 1,
+      "primary_postal_code": "12439",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Niederschönhausen",
+      "name_de": "Berlin Niederschönhausen",
+      "slug": "berlin-niederschoenhausen",
+      "postal_codes": "13156",
+      "postal_code_count": 1,
+      "primary_postal_code": "13156",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Nikolassee",
+      "name_de": "Berlin Nikolassee",
+      "slug": "berlin-nikolassee",
+      "postal_codes": "14129",
+      "postal_code_count": 1,
+      "primary_postal_code": "14129",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Oberschöneweide",
+      "name_de": "Berlin Oberschöneweide",
+      "slug": "berlin-oberschoeneweide",
+      "postal_codes": "12459",
+      "postal_code_count": 1,
+      "primary_postal_code": "12459",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Pankow",
+      "name_de": "Berlin Pankow",
+      "slug": "berlin-pankow",
+      "postal_codes": "13187, 13189",
+      "postal_code_count": 2,
+      "primary_postal_code": "13187",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Prenzlauer Berg",
+      "name_de": "Berlin Prenzlauer Berg",
+      "slug": "berlin-prenzlauer-berg",
+      "postal_codes": "10405, 10407, 10409, 10435, 10437, 10439",
+      "postal_code_count": 6,
+      "primary_postal_code": "10405",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Rahnsdorf",
+      "name_de": "Berlin Rahnsdorf",
+      "slug": "berlin-rahnsdorf",
+      "postal_codes": "12589",
+      "postal_code_count": 1,
+      "primary_postal_code": "12589",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Reinickendorf",
+      "name_de": "Berlin Reinickendorf",
+      "slug": "berlin-reinickendorf",
+      "postal_codes": "13403, 13437, 13509",
+      "postal_code_count": 3,
+      "primary_postal_code": "13403",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Rosenthal",
+      "name_de": "Berlin Rosenthal",
+      "slug": "berlin-rosenthal",
+      "postal_codes": "13158",
+      "postal_code_count": 1,
+      "primary_postal_code": "13158",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Rudow",
+      "name_de": "Berlin Rudow",
+      "slug": "berlin-rudow",
+      "postal_codes": "12355, 12357",
+      "postal_code_count": 2,
+      "primary_postal_code": "12355",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Rummelsburg",
+      "name_de": "Berlin Rummelsburg",
+      "slug": "berlin-rummelsburg",
+      "postal_codes": "10317",
+      "postal_code_count": 1,
+      "primary_postal_code": "10317",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Schmargendorf",
+      "name_de": "Berlin Schmargendorf",
+      "slug": "berlin-schmargendorf",
+      "postal_codes": "14199",
+      "postal_code_count": 1,
+      "primary_postal_code": "14199",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Schmöckwitz",
+      "name_de": "Berlin Schmöckwitz",
+      "slug": "berlin-schmoeckwitz",
+      "postal_codes": "12527",
+      "postal_code_count": 1,
+      "primary_postal_code": "12527",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Schöneberg",
+      "name_de": "Berlin Schöneberg",
+      "slug": "berlin-schoeneberg",
+      "postal_codes": "10779, 10781, 10783, 10789, 10829, 12157",
+      "postal_code_count": 6,
+      "primary_postal_code": "10779",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Siemensstadt",
+      "name_de": "Berlin Siemensstadt",
+      "slug": "berlin-siemensstadt",
+      "postal_codes": "13629",
+      "postal_code_count": 1,
+      "primary_postal_code": "13629",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Spandau",
+      "name_de": "Berlin Spandau",
+      "slug": "berlin-spandau",
+      "postal_codes": "13581, 13583, 13585, 13597",
+      "postal_code_count": 4,
+      "primary_postal_code": "13581",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Staaken",
+      "name_de": "Berlin Staaken",
+      "slug": "berlin-staaken",
+      "postal_codes": "13591",
+      "postal_code_count": 1,
+      "primary_postal_code": "13591",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Steglitz",
+      "name_de": "Berlin Steglitz",
+      "slug": "berlin-steglitz",
+      "postal_codes": "12163, 12165, 12167, 12169",
+      "postal_code_count": 4,
+      "primary_postal_code": "12163",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Tegel",
+      "name_de": "Berlin Tegel",
+      "slug": "berlin-tegel",
+      "postal_codes": "13503, 13505, 13507",
+      "postal_code_count": 3,
+      "primary_postal_code": "13503",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Teltowkanal III",
+      "name_de": "Berlin Teltowkanal III",
+      "slug": "berlin-teltowkanal-iii",
+      "postal_codes": "12489",
+      "postal_code_count": 1,
+      "primary_postal_code": "12489",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Tempelhof",
+      "name_de": "Berlin Tempelhof",
+      "slug": "berlin-tempelhof",
+      "postal_codes": "12099, 12101, 12103",
+      "postal_code_count": 3,
+      "primary_postal_code": "12099",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Tiergarten",
+      "name_de": "Berlin Tiergarten",
+      "slug": "berlin-tiergarten",
+      "postal_codes": "10785, 10787",
+      "postal_code_count": 2,
+      "primary_postal_code": "10785",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Wannsee",
+      "name_de": "Berlin Wannsee",
+      "slug": "berlin-wannsee",
+      "postal_codes": "14109",
+      "postal_code_count": 1,
+      "primary_postal_code": "14109",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Wartenberg",
+      "name_de": "Berlin Wartenberg",
+      "slug": "berlin-wartenberg",
+      "postal_codes": "13059",
+      "postal_code_count": 1,
+      "primary_postal_code": "13059",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Wedding",
+      "name_de": "Berlin Wedding",
+      "slug": "berlin-wedding",
+      "postal_codes": "13347, 13349, 13351, 13353, 13355, 13405",
+      "postal_code_count": 6,
+      "primary_postal_code": "13347",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Weißensee",
+      "name_de": "Berlin Weißensee",
+      "slug": "berlin-weissensee",
+      "postal_codes": "13086, 13088",
+      "postal_code_count": 2,
+      "primary_postal_code": "13086",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Westend",
+      "name_de": "Berlin Westend",
+      "slug": "berlin-westend",
+      "postal_codes": "14050, 14052, 14053, 14055",
+      "postal_code_count": 4,
+      "primary_postal_code": "14050",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Wiesengrund",
+      "name_de": "Berlin Wiesengrund",
+      "slug": "berlin-wiesengrund",
+      "postal_codes": "12587",
+      "postal_code_count": 1,
+      "primary_postal_code": "12587",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Wilhelmstadt",
+      "name_de": "Berlin Wilhelmstadt",
+      "slug": "berlin-wilhelmstadt",
+      "postal_codes": "13593",
+      "postal_code_count": 1,
+      "primary_postal_code": "13593",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Wilmersdorf",
+      "name_de": "Berlin Wilmersdorf",
+      "slug": "berlin-wilmersdorf",
+      "postal_codes": "10707, 10709, 10713, 10715, 10717, 10719, 10777, 14197",
+      "postal_code_count": 8,
+      "primary_postal_code": "10707",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Wlhelmstadt",
+      "name_de": "Berlin Wlhelmstadt",
+      "slug": "berlin-wlhelmstadt",
+      "postal_codes": "13595",
+      "postal_code_count": 1,
+      "primary_postal_code": "13595",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin Zehlendorf",
+      "name_de": "Berlin Zehlendorf",
+      "slug": "berlin-zehlendorf",
+      "postal_codes": "14163, 14165, 14167, 14169",
+      "postal_code_count": 4,
+      "primary_postal_code": "14163",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Berlin-West",
+      "name_de": "Berlin-West",
+      "slug": "berlin-west",
+      "postal_codes": "10823, 13407, 13409",
+      "postal_code_count": 3,
+      "primary_postal_code": "10823",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    },
+    {
+      "name": "Schönefeld",
+      "name_de": "Schönefeld",
+      "slug": "schoenefeld",
+      "postal_codes": "12529",
+      "postal_code_count": 1,
+      "primary_postal_code": "12529",
+      "bundesland": "Berlin",
+      "bundesland_code": "DE-BE",
+      "phone_prefix": 30
+    }
+  ],
+  "meta": {
+    "title": "Orte mit Postleitzahlen — Berlin - Kostenloser Download",
+    "description": "81 Orte in Berlin (DE-BE) mit Postleitzahlen und Telefonvorwahl. Quelle: florianchrometz/german-metadata (MIT). Enthält 81 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Orte mit Postleitzahlen — Berlin | ListBase",
+    "seo_description": "Herunterladen Orte mit Postleitzahlen — Berlin — 81 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 81 Datensätze / 9 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

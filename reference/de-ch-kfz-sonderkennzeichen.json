@@ -1,0 +1,70 @@
+{
+  "id": "de-ch-kfz-sonderkennzeichen",
+  "name": "Kfz-Sonderkennzeichen Schweiz — Bundes- und Diplomatenkennzeichen",
+  "title": "Kfz-Sonderkennzeichen Schweiz — Bundes- und Diplomatenkennzeichen",
+  "description": "Schweizer Sonder-Unterscheidungszeichen (Militär, Bund, Diplomatie, internationale Organisationen) mit Typ und ausführlicher rechtlicher Bedeutung. Quelle: openpotato/kfz-kennzeichen (src/ch/sonderkennzeichen.csv).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "unterscheidungszeichen",
+      "label": "Unterscheidungszeichen",
+      "type": "string"
+    },
+    {
+      "key": "typ",
+      "label": "Typ",
+      "type": "string"
+    },
+    {
+      "key": "bedeutung",
+      "label": "Bedeutung",
+      "type": "string"
+    },
+    {
+      "key": "nationalitaetszeichen",
+      "label": "Nationalitaetszeichen",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unterscheidungszeichen": "M",
+      "typ": "Bund",
+      "bedeutung": "Militärkontrollschild",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "CD",
+      "typ": "Diplo",
+      "bedeutung": "Für Dienstwagen der diplomatischen Missionen und für Motorfahrzeuge der Mitglieder des diplomatischen Personals dieser Missionen;für Dienstwagen ständiger Missionen oder anderer Vertretungen bei zwischenstaatlichen Organisationen sowie für Motorfahrzeuge der Mitglieder des diplomatischen Personals dieser Missionen;für Dienstwagen institutioneller Begünstigter nach Artikel 2 Absatz 1 Buchstaben a, b, i, j, k, l und m des Gaststaatgesetzes vom 22. Juni 2007, die Vorrechte, Immunitäten und Erleichterungen geniessen, sowie für die Motorfahrzeuge der höchstgestellten Beamten dieser institutionellen Begünstigten, die in der Schweiz diplomatischen Status geniessen.",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "CC",
+      "typ": "Diplo",
+      "bedeutung": "Für Dienstwagen der von einem Berufsbeamten geleiteten konsularischen Posten und für Motorfahrzeuge von Berufskonsularbeamten bestimmt.",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "AT",
+      "typ": "Diplo",
+      "bedeutung": "Für Motorfahrzeuge der Mitglieder des Verwaltungs- und technischen Personals der diplomatischen Missionen bestimmt.",
+      "nationalitaetszeichen": "CH"
+    }
+  ],
+  "meta": {
+    "title": "Kfz-Sonderkennzeichen Schweiz — Bundes- und Diplomatenkennzeichen - Kostenloser Download",
+    "description": "Schweizer Sonder-Unterscheidungszeichen (Militär, Bund, Diplomatie, internationale Organisationen) mit Typ und ausführlicher rechtlicher Bedeutung. Quelle: openpotato/kfz-kennzeichen (src/ch/sonderkennzeichen.csv). Enthält 4 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Kfz-Sonderkennzeichen Schweiz — Bundes- und Diplomatenkennzeichen | ListBase",
+    "seo_description": "Herunterladen Kfz-Sonderkennzeichen Schweiz — Bundes- und Diplomatenkennzeichen — 4 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 4 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

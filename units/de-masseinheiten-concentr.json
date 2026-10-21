@@ -1,0 +1,178 @@
+{
+  "id": "de-masseinheiten-concentr",
+  "name": "Maßeinheiten — Kategorie 'concentr' (13)",
+  "title": "Maßeinheiten — Kategorie 'concentr' (13)",
+  "description": "Maßeinheiten der Kategorie 'concentr' aus der Locale de in CLDR, mit Namen auf Deutsch.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abkuerzung",
+      "label": "Abkuerzung",
+      "type": "string"
+    },
+    {
+      "key": "schmalform",
+      "label": "Schmalform",
+      "type": "string"
+    },
+    {
+      "key": "muster",
+      "label": "Muster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "concentr-item",
+      "kategorie": "concentr",
+      "name": "Elemente",
+      "abkuerzung": "Element",
+      "schmalform": "Elem.",
+      "muster": "{0} Elemente"
+    },
+    {
+      "id": 2,
+      "unit_code": "concentr-karat",
+      "kategorie": "concentr",
+      "name": "Karat",
+      "abkuerzung": "Karat",
+      "schmalform": "kt",
+      "muster": "{0} Karat"
+    },
+    {
+      "id": 3,
+      "unit_code": "concentr-katal",
+      "kategorie": "concentr",
+      "name": "Katal",
+      "abkuerzung": "kat",
+      "schmalform": "kat",
+      "muster": "{0} Katal"
+    },
+    {
+      "id": 4,
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "kategorie": "concentr",
+      "name": "Milligramm pro Deziliter",
+      "abkuerzung": "mg/dl",
+      "schmalform": "mg/dl",
+      "muster": "{0} Milligramm pro Deziliter"
+    },
+    {
+      "id": 5,
+      "unit_code": "concentr-millimole-per-liter",
+      "kategorie": "concentr",
+      "name": "Millimol pro Liter",
+      "abkuerzung": "Millimol/Liter",
+      "schmalform": "mmol/l",
+      "muster": "{0} Millimol pro Liter"
+    },
+    {
+      "id": 6,
+      "unit_code": "concentr-mole",
+      "kategorie": "concentr",
+      "name": "Mole",
+      "abkuerzung": "mol",
+      "schmalform": "mol",
+      "muster": "{0} Mol"
+    },
+    {
+      "id": 7,
+      "unit_code": "concentr-ofglucose",
+      "kategorie": "concentr",
+      "name": "Glukose",
+      "abkuerzung": "Glc",
+      "schmalform": "Glc",
+      "muster": "{0} Glukose"
+    },
+    {
+      "id": 8,
+      "unit_code": "concentr-part",
+      "kategorie": "concentr",
+      "name": "Teile",
+      "abkuerzung": "Teil",
+      "schmalform": "Teil",
+      "muster": "{0} Teile"
+    },
+    {
+      "id": 9,
+      "unit_code": "concentr-part-per-1e6",
+      "kategorie": "concentr",
+      "name": "Millionstel",
+      "abkuerzung": "ppm",
+      "schmalform": "ppm",
+      "muster": "{0} Millionstel"
+    },
+    {
+      "id": 10,
+      "unit_code": "concentr-part-per-1e9",
+      "kategorie": "concentr",
+      "name": "Milliardstel",
+      "abkuerzung": "Milliardstel",
+      "schmalform": "Milliardstel",
+      "muster": "{0} Milliardstel"
+    },
+    {
+      "id": 11,
+      "unit_code": "concentr-percent",
+      "kategorie": "concentr",
+      "name": "Prozent",
+      "abkuerzung": "%",
+      "schmalform": "%",
+      "muster": "{0} Prozent"
+    },
+    {
+      "id": 12,
+      "unit_code": "concentr-permille",
+      "kategorie": "concentr",
+      "name": "Promille",
+      "abkuerzung": "‰",
+      "schmalform": "‰",
+      "muster": "{0} Promille"
+    },
+    {
+      "id": 13,
+      "unit_code": "concentr-permyriad",
+      "kategorie": "concentr",
+      "name": "Pro-Zehntausend",
+      "abkuerzung": "‱",
+      "schmalform": "‱",
+      "muster": "{0} pro Zehntausend"
+    }
+  ],
+  "meta": {
+    "title": "Maßeinheiten — Kategorie 'concentr' (13) - Kostenloser Download",
+    "description": "Maßeinheiten der Kategorie 'concentr' aus der Locale de in CLDR, mit Namen auf Deutsch. Enthält 13 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Maßeinheiten — Kategorie 'concentr' (13) | ListBase",
+    "seo_description": "Herunterladen Maßeinheiten — Kategorie 'concentr' (13) — 13 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 13 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

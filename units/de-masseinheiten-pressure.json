@@ -1,0 +1,169 @@
+{
+  "id": "de-masseinheiten-pressure",
+  "name": "Maßeinheiten — Kategorie 'pressure' (12)",
+  "title": "Maßeinheiten — Kategorie 'pressure' (12)",
+  "description": "Maßeinheiten der Kategorie 'pressure' aus der Locale de in CLDR, mit Namen auf Deutsch.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abkuerzung",
+      "label": "Abkuerzung",
+      "type": "string"
+    },
+    {
+      "key": "schmalform",
+      "label": "Schmalform",
+      "type": "string"
+    },
+    {
+      "key": "muster",
+      "label": "Muster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "pressure-atmosphere",
+      "kategorie": "pressure",
+      "name": "Atmosphären",
+      "abkuerzung": "atm",
+      "schmalform": "atm",
+      "muster": "{0} Atmosphären"
+    },
+    {
+      "id": 2,
+      "unit_code": "pressure-bar",
+      "kategorie": "pressure",
+      "name": "Bar",
+      "abkuerzung": "bar",
+      "schmalform": "bar",
+      "muster": "{0} Bar"
+    },
+    {
+      "id": 3,
+      "unit_code": "pressure-gasoline-energy-density",
+      "kategorie": "pressure",
+      "name": "gas E",
+      "abkuerzung": "gas E",
+      "schmalform": "gas E",
+      "muster": "{0} gas E"
+    },
+    {
+      "id": 4,
+      "unit_code": "pressure-hectopascal",
+      "kategorie": "pressure",
+      "name": "Hektopascal",
+      "abkuerzung": "hPa",
+      "schmalform": "hPa",
+      "muster": "{0} Hektopascal"
+    },
+    {
+      "id": 5,
+      "unit_code": "pressure-inch-ofhg",
+      "kategorie": "pressure",
+      "name": "Zoll Quecksilbersäule",
+      "abkuerzung": "inHg",
+      "schmalform": "inHg",
+      "muster": "{0} Zoll Quecksilbersäule"
+    },
+    {
+      "id": 6,
+      "unit_code": "pressure-kilopascal",
+      "kategorie": "pressure",
+      "name": "Kilopascal",
+      "abkuerzung": "kPa",
+      "schmalform": "kPa",
+      "muster": "{0} Kilopascal"
+    },
+    {
+      "id": 7,
+      "unit_code": "pressure-megapascal",
+      "kategorie": "pressure",
+      "name": "Megapascal",
+      "abkuerzung": "MPa",
+      "schmalform": "MPa",
+      "muster": "{0} Megapascal"
+    },
+    {
+      "id": 8,
+      "unit_code": "pressure-millibar",
+      "kategorie": "pressure",
+      "name": "Millibar",
+      "abkuerzung": "Millibar",
+      "schmalform": "Millibar",
+      "muster": "{0} Millibar"
+    },
+    {
+      "id": 9,
+      "unit_code": "pressure-millimeter-ofhg",
+      "kategorie": "pressure",
+      "name": "Millimeter Quecksilbersäule",
+      "abkuerzung": "mm Hg",
+      "schmalform": "mm Hg",
+      "muster": "{0} Millimeter Quecksilbersäule"
+    },
+    {
+      "id": 10,
+      "unit_code": "pressure-ofhg",
+      "kategorie": "pressure",
+      "name": "Quecksilber",
+      "abkuerzung": "Hg",
+      "schmalform": "Hg",
+      "muster": "{0} Quecksilber"
+    },
+    {
+      "id": 11,
+      "unit_code": "pressure-pascal",
+      "kategorie": "pressure",
+      "name": "Pascal",
+      "abkuerzung": "Pa",
+      "schmalform": "Pa",
+      "muster": "{0} Pascal"
+    },
+    {
+      "id": 12,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "kategorie": "pressure",
+      "name": "Pfund pro Quadratzoll",
+      "abkuerzung": "psi",
+      "schmalform": "psi",
+      "muster": "{0} Pfund pro Quadratzoll"
+    }
+  ],
+  "meta": {
+    "title": "Maßeinheiten — Kategorie 'pressure' (12) - Kostenloser Download",
+    "description": "Maßeinheiten der Kategorie 'pressure' aus der Locale de in CLDR, mit Namen auf Deutsch. Enthält 12 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Maßeinheiten — Kategorie 'pressure' (12) | ListBase",
+    "seo_description": "Herunterladen Maßeinheiten — Kategorie 'pressure' (12) — 12 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 12 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

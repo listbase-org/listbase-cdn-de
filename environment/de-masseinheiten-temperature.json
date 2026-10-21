@@ -1,0 +1,106 @@
+{
+  "id": "de-masseinheiten-temperature",
+  "name": "Maßeinheiten — Kategorie 'temperature' (5)",
+  "title": "Maßeinheiten — Kategorie 'temperature' (5)",
+  "description": "Maßeinheiten der Kategorie 'temperature' aus der Locale de in CLDR, mit Namen auf Deutsch.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abkuerzung",
+      "label": "Abkuerzung",
+      "type": "string"
+    },
+    {
+      "key": "schmalform",
+      "label": "Schmalform",
+      "type": "string"
+    },
+    {
+      "key": "muster",
+      "label": "Muster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "temperature-celsius",
+      "kategorie": "temperature",
+      "name": "Grad Celsius",
+      "abkuerzung": "°C",
+      "schmalform": "°C",
+      "muster": "{0} Grad Celsius"
+    },
+    {
+      "id": 2,
+      "unit_code": "temperature-fahrenheit",
+      "kategorie": "temperature",
+      "name": "Grad Fahrenheit",
+      "abkuerzung": "°F",
+      "schmalform": "°F",
+      "muster": "{0} Grad Fahrenheit"
+    },
+    {
+      "id": 3,
+      "unit_code": "temperature-generic",
+      "kategorie": "temperature",
+      "name": "°",
+      "abkuerzung": "°",
+      "schmalform": "°",
+      "muster": "{0} Grad"
+    },
+    {
+      "id": 4,
+      "unit_code": "temperature-kelvin",
+      "kategorie": "temperature",
+      "name": "Kelvin",
+      "abkuerzung": "K",
+      "schmalform": "K",
+      "muster": "{0} Kelvin"
+    },
+    {
+      "id": 5,
+      "unit_code": "temperature-rankine",
+      "kategorie": "temperature",
+      "name": "°R",
+      "abkuerzung": "°R",
+      "schmalform": "°R",
+      "muster": "{0} °R"
+    }
+  ],
+  "meta": {
+    "title": "Maßeinheiten — Kategorie 'temperature' (5) - Kostenloser Download",
+    "description": "Maßeinheiten der Kategorie 'temperature' aus der Locale de in CLDR, mit Namen auf Deutsch. Enthält 5 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Maßeinheiten — Kategorie 'temperature' (5) | ListBase",
+    "seo_description": "Herunterladen Maßeinheiten — Kategorie 'temperature' (5) — 5 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 5 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

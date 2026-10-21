@@ -1,0 +1,934 @@
+{
+  "id": "de-at-kfz-kennzeichen",
+  "name": "Kfz-Kennzeichen Österreich — Unterscheidungszeichen aller Zulassungsbezirke",
+  "title": "Kfz-Kennzeichen Österreich — Unterscheidungszeichen aller Zulassungsbezirke",
+  "description": "Alle gültigen österreichischen Kfz-Unterscheidungszeichen mit Zulassungsbezirk, Bundesland (ISO 3166-2) und zuständiger Zulassungsbehörde. Quelle: openpotato/kfz-kennzeichen (src/at/kennzeichen.csv).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 97,
+  "columns": [
+    {
+      "key": "unterscheidungszeichen",
+      "label": "Unterscheidungszeichen",
+      "type": "string"
+    },
+    {
+      "key": "zulassungsbezirk",
+      "label": "Zulassungsbezirk",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_name",
+      "label": "Bundesland Name",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_iso_3166_2",
+      "label": "Bundesland Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "zulassungsbehoerde",
+      "label": "Zulassungsbehoerde",
+      "type": "string"
+    },
+    {
+      "key": "nationalitaetszeichen",
+      "label": "Nationalitaetszeichen",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unterscheidungszeichen": "B",
+      "zulassungsbezirk": "Bregenz",
+      "bundesland_name": "Vorarlberg",
+      "bundesland_iso_3166_2": "AT-8",
+      "bundesland_slug": "vorarlberg",
+      "zulassungsbehoerde": "BH Bregenz",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "E",
+      "zulassungsbezirk": "Eisenstadt – Stadt",
+      "bundesland_name": "Burgenland",
+      "bundesland_iso_3166_2": "AT-1",
+      "bundesland_slug": "burgenland",
+      "zulassungsbehoerde": "Landespolizeidirektion Burgenland für das Gebiet der Gemeinden Eisenstadt und Rust",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "G",
+      "zulassungsbezirk": "Graz",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "Landespolizeidirektion Steiermark für das Gebiet der Gemeinde Graz",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "I",
+      "zulassungsbezirk": "Innsbruck – Stadt",
+      "bundesland_name": "Tirol",
+      "bundesland_iso_3166_2": "AT-7",
+      "bundesland_slug": "tirol",
+      "zulassungsbehoerde": "Landespolizeidirektion Tirol für das Gebiet der Gemeinde Innsbruck",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "K",
+      "zulassungsbezirk": "Klagenfurt – Stadt",
+      "bundesland_name": "Kärnten",
+      "bundesland_iso_3166_2": "AT-2",
+      "bundesland_slug": "kaernten",
+      "zulassungsbehoerde": "Landespolizeidirektion Kärnten für das Gebiet der Gemeinde Klagenfurt am Wörthersee",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "L",
+      "zulassungsbezirk": "Linz – Stadt",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "Landespolizeidirektion Oberösterreich für das Gebiet der Gemeinde Linz",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "P",
+      "zulassungsbezirk": "St. Pölten – Stadt",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "Landespolizeidirektion Niederösterreich für das Gebiet der Gemeinde St. Pölten",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "S",
+      "zulassungsbezirk": "Salzburg – Stadt",
+      "bundesland_name": "Salzburg",
+      "bundesland_iso_3166_2": "AT-5",
+      "bundesland_slug": "salzburg",
+      "zulassungsbehoerde": "Landespolizeidirektion Salzburg für das Gebiet der Gemeinde Salzburg",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "W",
+      "zulassungsbezirk": "Wien",
+      "bundesland_name": "Wien",
+      "bundesland_iso_3166_2": "AT-9",
+      "bundesland_slug": "wien",
+      "zulassungsbehoerde": "Landespolizeidirektion Wien",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "AM",
+      "zulassungsbezirk": "Amstetten",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Amstetten",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "BL",
+      "zulassungsbezirk": "Bruck an der Leitha",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Bruck an der Leitha",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "BM",
+      "zulassungsbezirk": "Bruck-Mürzzuschlag",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Bruck-Mürzzuschlag",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "BN",
+      "zulassungsbezirk": "Baden",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Baden",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "BR",
+      "zulassungsbezirk": "Braunau",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Braunau am Inn",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "BZ",
+      "zulassungsbezirk": "Bludenz",
+      "bundesland_name": "Vorarlberg",
+      "bundesland_iso_3166_2": "AT-8",
+      "bundesland_slug": "vorarlberg",
+      "zulassungsbehoerde": "BH Bludenz",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "DL",
+      "zulassungsbezirk": "Deutschlandsberg",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Deutschlandsberg",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "DO",
+      "zulassungsbezirk": "Dornbirn",
+      "bundesland_name": "Vorarlberg",
+      "bundesland_iso_3166_2": "AT-8",
+      "bundesland_slug": "vorarlberg",
+      "zulassungsbehoerde": "BH Dornbirn",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "EF",
+      "zulassungsbezirk": "Eferding",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Eferding",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "EU",
+      "zulassungsbezirk": "Eisenstadt/Umgebung",
+      "bundesland_name": "Burgenland",
+      "bundesland_iso_3166_2": "AT-1",
+      "bundesland_slug": "burgenland",
+      "zulassungsbehoerde": "BH Eisenstadt",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "FE",
+      "zulassungsbezirk": "Feldkirchen",
+      "bundesland_name": "Kärnten",
+      "bundesland_iso_3166_2": "AT-2",
+      "bundesland_slug": "kaernten",
+      "zulassungsbehoerde": "BH Feldkirchen",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "FK",
+      "zulassungsbezirk": "Feldkirch",
+      "bundesland_name": "Vorarlberg",
+      "bundesland_iso_3166_2": "AT-8",
+      "bundesland_slug": "vorarlberg",
+      "zulassungsbehoerde": "BH Feldkirch",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "FR",
+      "zulassungsbezirk": "Freistadt",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Freistadt",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "GB",
+      "zulassungsbezirk": "Gröbming",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "Exp. Gröbming",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "GD",
+      "zulassungsbezirk": "Gmünd",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Gmünd",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "GF",
+      "zulassungsbezirk": "Gänserndorf",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Gänserndorf",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "GM",
+      "zulassungsbezirk": "Gmunden",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Gmunden",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "GR",
+      "zulassungsbezirk": "Grieskirchen",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Grieskirchen",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "GS",
+      "zulassungsbezirk": "Güssing",
+      "bundesland_name": "Burgenland",
+      "bundesland_iso_3166_2": "AT-1",
+      "bundesland_slug": "burgenland",
+      "zulassungsbehoerde": "BH Güssing",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "GU",
+      "zulassungsbezirk": "Graz/Umgebung",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Graz-Umgebung",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "HA",
+      "zulassungsbezirk": "Hallein",
+      "bundesland_name": "Salzburg",
+      "bundesland_iso_3166_2": "AT-5",
+      "bundesland_slug": "salzburg",
+      "zulassungsbehoerde": "BH Hallein",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "HE",
+      "zulassungsbezirk": "Hermagor",
+      "bundesland_name": "Kärnten",
+      "bundesland_iso_3166_2": "AT-2",
+      "bundesland_slug": "kaernten",
+      "zulassungsbehoerde": "BH Hermagor",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "HF",
+      "zulassungsbezirk": "Hartberg-Fürstenfeld",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Hartberg-Fürstenfeld",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "HL",
+      "zulassungsbezirk": "Hollabrunn",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Hollabrunn",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "HO",
+      "zulassungsbezirk": "Horn",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Horn",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "IL",
+      "zulassungsbezirk": "Innsbruck/Land",
+      "bundesland_name": "Tirol",
+      "bundesland_iso_3166_2": "AT-7",
+      "bundesland_slug": "tirol",
+      "zulassungsbehoerde": "BH Innsbruck",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "IM",
+      "zulassungsbezirk": "Imst",
+      "bundesland_name": "Tirol",
+      "bundesland_iso_3166_2": "AT-7",
+      "bundesland_slug": "tirol",
+      "zulassungsbehoerde": "BH Imst",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "JE",
+      "zulassungsbezirk": "Jennersdorf",
+      "bundesland_name": "Burgenland",
+      "bundesland_iso_3166_2": "AT-1",
+      "bundesland_slug": "burgenland",
+      "zulassungsbehoerde": "BH Jennersdorf",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "JO",
+      "zulassungsbezirk": "St. Johann im Pongau",
+      "bundesland_name": "Salzburg",
+      "bundesland_iso_3166_2": "AT-5",
+      "bundesland_slug": "salzburg",
+      "zulassungsbehoerde": "BH St. Johann",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "KB",
+      "zulassungsbezirk": "Kitzbühel",
+      "bundesland_name": "Tirol",
+      "bundesland_iso_3166_2": "AT-7",
+      "bundesland_slug": "tirol",
+      "zulassungsbehoerde": "BH Kitzbühel",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "KG",
+      "zulassungsbezirk": "Klosterneuburg",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Tulln für das Gebiet der Gemeinde Klosterneuburg (Außenstelle Klosterneuburg)",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "KI",
+      "zulassungsbezirk": "Kirchdorf an der Krems",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Kirchdorf an der Krems",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "KL",
+      "zulassungsbezirk": "Klagenfurt/Land",
+      "bundesland_name": "Kärnten",
+      "bundesland_iso_3166_2": "AT-2",
+      "bundesland_slug": "kaernten",
+      "zulassungsbehoerde": "BH Klagenfurt",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "KO",
+      "zulassungsbezirk": "Korneuburg",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Korneuburg",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "KR",
+      "zulassungsbezirk": "Krems/Land",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Krems an der Donau",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "KS",
+      "zulassungsbezirk": "Krems an der Donau – Stadt",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "Magistrat Krems an der Donau",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "KU",
+      "zulassungsbezirk": "Kufstein",
+      "bundesland_name": "Tirol",
+      "bundesland_iso_3166_2": "AT-7",
+      "bundesland_slug": "tirol",
+      "zulassungsbehoerde": "BH Kufstein",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "LA",
+      "zulassungsbezirk": "Landeck",
+      "bundesland_name": "Tirol",
+      "bundesland_iso_3166_2": "AT-7",
+      "bundesland_slug": "tirol",
+      "zulassungsbehoerde": "BH Landeck",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "LB",
+      "zulassungsbezirk": "Leibnitz",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Leibnitz",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "LE",
+      "zulassungsbezirk": "Leoben – Stadt",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "Landespolizeidirektion Steiermark für das Gebiet der Gemeinde Leoben",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "LF",
+      "zulassungsbezirk": "Lilienfeld",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Lilienfeld",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "LI",
+      "zulassungsbezirk": "Liezen",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Liezen",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "LL",
+      "zulassungsbezirk": "Linz/Land",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Linz-Land",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "LN",
+      "zulassungsbezirk": "Leoben/Umgebung",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Leoben",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "LZ",
+      "zulassungsbezirk": "Lienz",
+      "bundesland_name": "Tirol",
+      "bundesland_iso_3166_2": "AT-7",
+      "bundesland_slug": "tirol",
+      "zulassungsbehoerde": "BH Lienz",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "MA",
+      "zulassungsbezirk": "Mattersburg",
+      "bundesland_name": "Burgenland",
+      "bundesland_iso_3166_2": "AT-1",
+      "bundesland_slug": "burgenland",
+      "zulassungsbehoerde": "BH Mattersburg",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "MD",
+      "zulassungsbezirk": "Mödling",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Mödling",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "ME",
+      "zulassungsbezirk": "Melk",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Melk",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "MI",
+      "zulassungsbezirk": "Mistelbach",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Mistelbach",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "MT",
+      "zulassungsbezirk": "Murtal",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Murtal",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "MU",
+      "zulassungsbezirk": "Murau",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Murau",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "ND",
+      "zulassungsbezirk": "Neusiedl am See",
+      "bundesland_name": "Burgenland",
+      "bundesland_iso_3166_2": "AT-1",
+      "bundesland_slug": "burgenland",
+      "zulassungsbehoerde": "BH Neusiedl am See",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "NK",
+      "zulassungsbezirk": "Neunkirchen",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Neunkirchen",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "OP",
+      "zulassungsbezirk": "Oberpullendorf",
+      "bundesland_name": "Burgenland",
+      "bundesland_iso_3166_2": "AT-1",
+      "bundesland_slug": "burgenland",
+      "zulassungsbehoerde": "BH Oberpullendorf",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "OW",
+      "zulassungsbezirk": "Oberwart",
+      "bundesland_name": "Burgenland",
+      "bundesland_iso_3166_2": "AT-1",
+      "bundesland_slug": "burgenland",
+      "zulassungsbehoerde": "BH Oberwart",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "PE",
+      "zulassungsbezirk": "Perg",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Perg",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "PL",
+      "zulassungsbezirk": "St. Pölten/Land",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH St. Pölten",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "RE",
+      "zulassungsbezirk": "Reutte",
+      "bundesland_name": "Tirol",
+      "bundesland_iso_3166_2": "AT-7",
+      "bundesland_slug": "tirol",
+      "zulassungsbehoerde": "BH Reutte",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "RI",
+      "zulassungsbezirk": "Ried im Innkreis",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Ried im Innkreis",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "RO",
+      "zulassungsbezirk": "Rohrbach",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Rohrbach im Mühlkreis",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "SB",
+      "zulassungsbezirk": "Scheibbs",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Scheibbs",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "SD",
+      "zulassungsbezirk": "Schärding",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Schärding",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "SE",
+      "zulassungsbezirk": "Steyr/Land",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Steyr-Land",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "SL",
+      "zulassungsbezirk": "Salzburg/Land",
+      "bundesland_name": "Salzburg",
+      "bundesland_iso_3166_2": "AT-5",
+      "bundesland_slug": "salzburg",
+      "zulassungsbehoerde": "BH Salzburg-Umgebung",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "SO",
+      "zulassungsbezirk": "Südoststeiermark",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Südoststeiermark",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "SP",
+      "zulassungsbezirk": "Spittal an der Drau",
+      "bundesland_name": "Kärnten",
+      "bundesland_iso_3166_2": "AT-2",
+      "bundesland_slug": "kaernten",
+      "zulassungsbehoerde": "BH Spittal an der Drau",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "SR",
+      "zulassungsbezirk": "Steyr – Stadt",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "Landespolizeidirektion Oberösterreich für das Gebiet der Gemeinde Steyr",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "SV",
+      "zulassungsbezirk": "St. Veit an der Glan",
+      "bundesland_name": "Kärnten",
+      "bundesland_iso_3166_2": "AT-2",
+      "bundesland_slug": "kaernten",
+      "zulassungsbehoerde": "BH St. Veit an der Glan",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "SW",
+      "zulassungsbezirk": "Schwechat",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "Landespolizeidirektion Niederösterreich für das Gebiet der Gemeinde Schwechat und die im Gebiet der Gemeinden Fischamend, Klein-Neusiedl und Schwadorf gelegenen Teile des Flughafens Wien-Schwechat",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "SZ",
+      "zulassungsbezirk": "Schwaz",
+      "bundesland_name": "Tirol",
+      "bundesland_iso_3166_2": "AT-7",
+      "bundesland_slug": "tirol",
+      "zulassungsbehoerde": "BH Schwaz",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "TA",
+      "zulassungsbezirk": "Tamsweg",
+      "bundesland_name": "Salzburg",
+      "bundesland_iso_3166_2": "AT-5",
+      "bundesland_slug": "salzburg",
+      "zulassungsbehoerde": "BH Tamsweg",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "TU",
+      "zulassungsbezirk": "Tulln",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Tulln",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "UU",
+      "zulassungsbezirk": "Urfahr/Umgebung",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Urfahr-Umgebung",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "VB",
+      "zulassungsbezirk": "Vöcklabruck",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Vöcklabruck",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "VI",
+      "zulassungsbezirk": "Villach",
+      "bundesland_name": "Kärnten",
+      "bundesland_iso_3166_2": "AT-2",
+      "bundesland_slug": "kaernten",
+      "zulassungsbehoerde": "Landespolizeidirektionen Kärnten für das Gebiet der Gemeinde Villach",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "VK",
+      "zulassungsbezirk": "Völkermarkt",
+      "bundesland_name": "Kärnten",
+      "bundesland_iso_3166_2": "AT-2",
+      "bundesland_slug": "kaernten",
+      "zulassungsbehoerde": "BH Völkermarkt",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "VL",
+      "zulassungsbezirk": "Villach/Land",
+      "bundesland_name": "Kärnten",
+      "bundesland_iso_3166_2": "AT-2",
+      "bundesland_slug": "kaernten",
+      "zulassungsbehoerde": "BH Villach",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "VO",
+      "zulassungsbezirk": "Voitsberg",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Voitsberg",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "WB",
+      "zulassungsbezirk": "Wiener Neustadt/Land",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Wiener Neustadt",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "WE",
+      "zulassungsbezirk": "Wels – Stadt",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "Landespolizeidirektion Oberösterreich für das Gebiet der Gemeinde Wels",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "WL",
+      "zulassungsbezirk": "Wels/Land",
+      "bundesland_name": "Oberösterreich",
+      "bundesland_iso_3166_2": "AT-4",
+      "bundesland_slug": "oberoesterreich",
+      "zulassungsbehoerde": "BH Wels",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "WN",
+      "zulassungsbezirk": "Wiener Neustadt – Stadt",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "Landespolizeidirektion Niederösterreich für das Gebiet der Gemeinde Wiener Neustadt",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "WO",
+      "zulassungsbezirk": "Wolfsberg",
+      "bundesland_name": "Kärnten",
+      "bundesland_iso_3166_2": "AT-2",
+      "bundesland_slug": "kaernten",
+      "zulassungsbehoerde": "BH Wolfsberg",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "WT",
+      "zulassungsbezirk": "Waidhofen an der Thaya",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Waidhofen an der Thaya",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "WY",
+      "zulassungsbezirk": "Waidhofen an der Ybbs",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "Magistrat Waidhofen an der Ybbs",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "WZ",
+      "zulassungsbezirk": "Weiz",
+      "bundesland_name": "Steiermark",
+      "bundesland_iso_3166_2": "AT-6",
+      "bundesland_slug": "steiermark",
+      "zulassungsbehoerde": "BH Weiz",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "ZE",
+      "zulassungsbezirk": "Zell am See",
+      "bundesland_name": "Salzburg",
+      "bundesland_iso_3166_2": "AT-5",
+      "bundesland_slug": "salzburg",
+      "zulassungsbehoerde": "BH Zell am See",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "ZT",
+      "zulassungsbezirk": "Zwettl",
+      "bundesland_name": "Niederösterreich",
+      "bundesland_iso_3166_2": "AT-3",
+      "bundesland_slug": "niederoesterreich",
+      "zulassungsbehoerde": "BH Zwettl",
+      "nationalitaetszeichen": "A"
+    }
+  ],
+  "meta": {
+    "title": "Kfz-Kennzeichen Österreich — Unterscheidungszeichen aller Zulassungsbezirke - Kostenloser Download",
+    "description": "Alle gültigen österreichischen Kfz-Unterscheidungszeichen mit Zulassungsbezirk, Bundesland (ISO 3166-2) und zuständiger Zulassungsbehörde. Quelle: openpotato/kfz-kennzeichen (src/at/kennzeichen.csv). Enthält 97 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Kfz-Kennzeichen Österreich — Unterscheidungszeichen aller Zulassungsbezirke | ListBase",
+    "seo_description": "Herunterladen Kfz-Kennzeichen Österreich — Unterscheidungszeichen aller Zulassungsbezirke — 97 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 97 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

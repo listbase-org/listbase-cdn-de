@@ -1,0 +1,1076 @@
+{
+  "id": "de-hamburg-postleitzahlen",
+  "name": "Postleitzahlen — Hamburg",
+  "title": "Postleitzahlen — Hamburg",
+  "description": "101 Postleitzahl-Ort-Kombinationen in Hamburg (ISO DE-HH). Mit Landkreis, AGS und OSM-ID.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 101,
+  "columns": [
+    {
+      "key": "plz",
+      "label": "Plz",
+      "type": "number"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "landkreis",
+      "label": "Landkreis",
+      "type": "string"
+    },
+    {
+      "key": "is_kreisfrei",
+      "label": "Is Kreisfrei",
+      "type": "boolean"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "ags",
+      "label": "Ags",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "plz": "20095",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "20097",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "20099",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "20144",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "20146",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "20148",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "20149",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "20249",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "20251",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "20253",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "20255",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "20257",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "20259",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "20354",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "20355",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "20357",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "20359",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "20457",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "20459",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "20535",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "20537",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "20539",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "21029",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "21031",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "21033",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "21035",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "21037",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "21039",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "21073",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "21075",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "21077",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "21079",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "21107",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "21109",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "21129",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "21147",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "21149",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22041",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22043",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22045",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22047",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22049",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22081",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22083",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22085",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22087",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22089",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22111",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22113",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22115",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22117",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22119",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22143",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22145",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22147",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22149",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22159",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22175",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22177",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22179",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22297",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22299",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22301",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22303",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22305",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22307",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22309",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22335",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22337",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22339",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22359",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22391",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22393",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22395",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22397",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22399",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22415",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22417",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22419",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22453",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22455",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22457",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22459",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22523",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22525",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22527",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22529",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22547",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22549",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22559",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22587",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22589",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22605",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22607",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22609",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22761",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22763",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22765",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22767",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "22769",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    },
+    {
+      "plz": "27499",
+      "ort": "Hamburg",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Hamburg",
+      "bundesland_slug": "hamburg",
+      "ags": "02000000",
+      "osm_id": "62782"
+    }
+  ],
+  "meta": {
+    "title": "Postleitzahlen — Hamburg - Kostenloser Download",
+    "description": "101 Postleitzahl-Ort-Kombinationen in Hamburg (ISO DE-HH). Mit Landkreis, AGS und OSM-ID. Enthält 101 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Postleitzahlen — Hamburg | ListBase",
+    "seo_description": "Herunterladen Postleitzahlen — Hamburg — 101 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 101 Datensätze / 8 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "id": "de-saarland-universitaeten",
+  "name": "Saarland — Universitäten und Hochschulen",
+  "title": "Saarland — Universitäten und Hochschulen",
+  "description": "Higher-education institutions with at least one campus in the German Bundesland Saarland (Saarland, ISO 3166-2 code DE-SL). Includes institution type, sponsor, doctoral rights, all campus locations, and reported student counts. Sourced from corona-school/universities-info-germany.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "uuid",
+      "label": "Uuid",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "nicknames",
+      "label": "Nicknames",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "type_de",
+      "label": "Type De",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "sponsor",
+      "label": "Sponsor",
+      "type": "string"
+    },
+    {
+      "key": "sponsor_de",
+      "label": "Sponsor De",
+      "type": "string"
+    },
+    {
+      "key": "sponsor_en",
+      "label": "Sponsor En",
+      "type": "string"
+    },
+    {
+      "key": "doctorate",
+      "label": "Doctorate",
+      "type": "boolean"
+    },
+    {
+      "key": "locations",
+      "label": "Locations",
+      "type": "string"
+    },
+    {
+      "key": "states",
+      "label": "States",
+      "type": "string"
+    },
+    {
+      "key": "student_count",
+      "label": "Student Count",
+      "type": "number"
+    },
+    {
+      "key": "student_count_date",
+      "label": "Student Count Date",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "uuid": "86d8ff11-9720-4f5c-82cc-320776ccba9f",
+      "name": "Deutsche Hochschule für Prävention und Gesundheitsmanagement",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "private",
+      "sponsor_de": "privat",
+      "sponsor_en": "private",
+      "doctorate": false,
+      "locations": "Saarbrücken: SL: Saarland: Saarland",
+      "states": "SL",
+      "student_count": 3421,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "b17e537f-29bc-4dc8-bfe9-61249b7f862e",
+      "name": "Fachhochschule für Verwaltung des Saarlandes",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "Saarbrücken: SL: Saarland: Saarland",
+      "states": "SL",
+      "student_count": 458,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "7e03f3fa-e9aa-4e60-a704-aeaa12f44061",
+      "name": "Hochschule der Bildenden Künste Saar",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": true,
+      "locations": "Saarbrücken: SL: Saarland: Saarland",
+      "states": "SL",
+      "student_count": 397,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "b58bfad5-7c95-445b-a454-4504782c585b",
+      "name": "Hochschule für Musik Saar",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": true,
+      "locations": "Saarbrücken: SL: Saarland: Saarland",
+      "states": "SL",
+      "student_count": 445,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "4821a3e6-36b8-45d4-ae05-9303ef8bfb63",
+      "name": "Hochschule für Technik und Wirtschaft des Saarlandes",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "Saarbrücken: SL: Saarland: Saarland",
+      "states": "SL",
+      "student_count": 5575,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "8764781e-3c72-4700-a032-ad02ac7fb12c",
+      "name": "Universität des Saarlandes",
+      "nicknames": "",
+      "type": "Uni",
+      "type_de": "Universität",
+      "type_en": "University",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": true,
+      "locations": "Saarbrücken: SL: Saarland: Saarland, Homburg: SL: Saarland: Saarland",
+      "states": "SL",
+      "student_count": 16389,
+      "student_count_date": "2019/20 (WS)"
+    }
+  ],
+  "meta": {
+    "title": "Saarland — Universitäten und Hochschulen - Kostenloser Download",
+    "description": "Higher-education institutions with at least one campus in the German Bundesland Saarland (Saarland, ISO 3166-2 code DE-SL). Includes institution type, sponsor, doctoral rights, all campus locations, and reported student counts. Sourced from corona-school/universities-info-germany. Enthält 6 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Saarland — Universitäten und Hochschulen | ListBase",
+    "seo_description": "Herunterladen Saarland — Universitäten und Hochschulen — 6 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 6 Datensätze / 14 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

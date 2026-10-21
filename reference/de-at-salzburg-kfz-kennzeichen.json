@@ -1,0 +1,115 @@
+{
+  "id": "de-at-salzburg-kfz-kennzeichen",
+  "name": "Kfz-Kennzeichen Salzburg (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke",
+  "title": "Kfz-Kennzeichen Salzburg (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke",
+  "description": "Alle in Salzburg (AT-5) gültigen österreichischen Unterscheidungszeichen mit Zulassungsbezirk und Zulassungsbehörde. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = AT-5).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "unterscheidungszeichen",
+      "label": "Unterscheidungszeichen",
+      "type": "string"
+    },
+    {
+      "key": "zulassungsbezirk",
+      "label": "Zulassungsbezirk",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_name",
+      "label": "Bundesland Name",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_iso_3166_2",
+      "label": "Bundesland Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "zulassungsbehoerde",
+      "label": "Zulassungsbehoerde",
+      "type": "string"
+    },
+    {
+      "key": "nationalitaetszeichen",
+      "label": "Nationalitaetszeichen",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unterscheidungszeichen": "S",
+      "zulassungsbezirk": "Salzburg – Stadt",
+      "bundesland_name": "Salzburg",
+      "bundesland_iso_3166_2": "AT-5",
+      "bundesland_slug": "salzburg",
+      "zulassungsbehoerde": "Landespolizeidirektion Salzburg für das Gebiet der Gemeinde Salzburg",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "HA",
+      "zulassungsbezirk": "Hallein",
+      "bundesland_name": "Salzburg",
+      "bundesland_iso_3166_2": "AT-5",
+      "bundesland_slug": "salzburg",
+      "zulassungsbehoerde": "BH Hallein",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "JO",
+      "zulassungsbezirk": "St. Johann im Pongau",
+      "bundesland_name": "Salzburg",
+      "bundesland_iso_3166_2": "AT-5",
+      "bundesland_slug": "salzburg",
+      "zulassungsbehoerde": "BH St. Johann",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "SL",
+      "zulassungsbezirk": "Salzburg/Land",
+      "bundesland_name": "Salzburg",
+      "bundesland_iso_3166_2": "AT-5",
+      "bundesland_slug": "salzburg",
+      "zulassungsbehoerde": "BH Salzburg-Umgebung",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "TA",
+      "zulassungsbezirk": "Tamsweg",
+      "bundesland_name": "Salzburg",
+      "bundesland_iso_3166_2": "AT-5",
+      "bundesland_slug": "salzburg",
+      "zulassungsbehoerde": "BH Tamsweg",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "ZE",
+      "zulassungsbezirk": "Zell am See",
+      "bundesland_name": "Salzburg",
+      "bundesland_iso_3166_2": "AT-5",
+      "bundesland_slug": "salzburg",
+      "zulassungsbehoerde": "BH Zell am See",
+      "nationalitaetszeichen": "A"
+    }
+  ],
+  "meta": {
+    "title": "Kfz-Kennzeichen Salzburg (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke - Kostenloser Download",
+    "description": "Alle in Salzburg (AT-5) gültigen österreichischen Unterscheidungszeichen mit Zulassungsbezirk und Zulassungsbehörde. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = AT-5). Enthält 6 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Kfz-Kennzeichen Salzburg (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke | ListBase",
+    "seo_description": "Herunterladen Kfz-Kennzeichen Salzburg (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke — 6 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 6 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

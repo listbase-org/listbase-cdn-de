@@ -1,0 +1,756 @@
+{
+  "id": "de-saarland-postleitzahlen",
+  "name": "Postleitzahlen — Saarland",
+  "title": "Postleitzahlen — Saarland",
+  "description": "69 Postleitzahl-Ort-Kombinationen in Saarland (ISO DE-SL). Mit Landkreis, AGS und OSM-ID.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 69,
+  "columns": [
+    {
+      "key": "plz",
+      "label": "Plz",
+      "type": "number"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "landkreis",
+      "label": "Landkreis",
+      "type": "string"
+    },
+    {
+      "key": "is_kreisfrei",
+      "label": "Is Kreisfrei",
+      "type": "boolean"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "ags",
+      "label": "Ags",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "plz": "66111",
+      "ort": "Saarbrücken",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041100",
+      "osm_id": "1187159"
+    },
+    {
+      "plz": "66113",
+      "ort": "Saarbrücken",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041100",
+      "osm_id": "1187159"
+    },
+    {
+      "plz": "66115",
+      "ort": "Saarbrücken",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041100",
+      "osm_id": "1187159"
+    },
+    {
+      "plz": "66117",
+      "ort": "Saarbrücken",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041100",
+      "osm_id": "1187159"
+    },
+    {
+      "plz": "66119",
+      "ort": "Saarbrücken",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041100",
+      "osm_id": "1187159"
+    },
+    {
+      "plz": "66121",
+      "ort": "Saarbrücken",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041100",
+      "osm_id": "1187159"
+    },
+    {
+      "plz": "66123",
+      "ort": "Saarbrücken",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041100",
+      "osm_id": "1187159"
+    },
+    {
+      "plz": "66125",
+      "ort": "Saarbrücken",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041100",
+      "osm_id": "1187159"
+    },
+    {
+      "plz": "66126",
+      "ort": "Saarbrücken",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041100",
+      "osm_id": "1187159"
+    },
+    {
+      "plz": "66127",
+      "ort": "Saarbrücken",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041100",
+      "osm_id": "1187159"
+    },
+    {
+      "plz": "66128",
+      "ort": "Saarbrücken",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041100",
+      "osm_id": "1187159"
+    },
+    {
+      "plz": "66129",
+      "ort": "Saarbrücken",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041100",
+      "osm_id": "1187159"
+    },
+    {
+      "plz": "66130",
+      "ort": "Saarbrücken",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041100",
+      "osm_id": "1187159"
+    },
+    {
+      "plz": "66131",
+      "ort": "Saarbrücken",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041100",
+      "osm_id": "1187159"
+    },
+    {
+      "plz": "66132",
+      "ort": "Saarbrücken",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041100",
+      "osm_id": "1187159"
+    },
+    {
+      "plz": "66133",
+      "ort": "Saarbrücken",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041100",
+      "osm_id": "1187159"
+    },
+    {
+      "plz": "66265",
+      "ort": "Heusweiler",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041513",
+      "osm_id": "1184871"
+    },
+    {
+      "plz": "66271",
+      "ort": "Kleinblittersdorf",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041514",
+      "osm_id": "454540"
+    },
+    {
+      "plz": "66280",
+      "ort": "Sulzbach/Saar",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041518",
+      "osm_id": "1184877"
+    },
+    {
+      "plz": "66287",
+      "ort": "Quierschied",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041516",
+      "osm_id": "1184867"
+    },
+    {
+      "plz": "66292",
+      "ort": "Riegelsberg",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041517",
+      "osm_id": "1184882"
+    },
+    {
+      "plz": "66299",
+      "ort": "Friedrichsthal",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041511",
+      "osm_id": "419191"
+    },
+    {
+      "plz": "66333",
+      "ort": "Völklingen",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041519",
+      "osm_id": "1184868"
+    },
+    {
+      "plz": "66346",
+      "ort": "Püttlingen",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041515",
+      "osm_id": "1184883"
+    },
+    {
+      "plz": "66352",
+      "ort": "Großrosseln",
+      "landkreis": "Regionalverband Saarbrücken",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10041512",
+      "osm_id": "1184874"
+    },
+    {
+      "plz": "66359",
+      "ort": "Bous",
+      "landkreis": "Landkreis Saarlouis",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10044122",
+      "osm_id": "169213"
+    },
+    {
+      "plz": "66386",
+      "ort": "Sankt Ingbert",
+      "landkreis": "Saarpfalz-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10045117",
+      "osm_id": "1184823"
+    },
+    {
+      "plz": "66399",
+      "ort": "Mandelbachtal",
+      "landkreis": "Saarpfalz-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10045116",
+      "osm_id": "1184821"
+    },
+    {
+      "plz": "66424",
+      "ort": "Homburg",
+      "landkreis": "Saarpfalz-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10045114",
+      "osm_id": "1184826"
+    },
+    {
+      "plz": "66440",
+      "ort": "Blieskastel",
+      "landkreis": "Saarpfalz-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10045112",
+      "osm_id": "1184822"
+    },
+    {
+      "plz": "66450",
+      "ort": "Bexbach",
+      "landkreis": "Saarpfalz-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10045111",
+      "osm_id": "1184820"
+    },
+    {
+      "plz": "66453",
+      "ort": "Gersheim",
+      "landkreis": "Saarpfalz-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10045113",
+      "osm_id": "1184824"
+    },
+    {
+      "plz": "66459",
+      "ort": "Kirkel",
+      "landkreis": "Saarpfalz-Kreis",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10045115",
+      "osm_id": "1184825"
+    },
+    {
+      "plz": "66538",
+      "ort": "Neunkirchen",
+      "landkreis": "Landkreis Neunkirchen",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10043114",
+      "osm_id": "1187145"
+    },
+    {
+      "plz": "66539",
+      "ort": "Neunkirchen",
+      "landkreis": "Landkreis Neunkirchen",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10043114",
+      "osm_id": "1187145"
+    },
+    {
+      "plz": "66540",
+      "ort": "Neunkirchen",
+      "landkreis": "Landkreis Neunkirchen",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10043114",
+      "osm_id": "1187145"
+    },
+    {
+      "plz": "66557",
+      "ort": "Illingen",
+      "landkreis": "Landkreis Neunkirchen",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10043112",
+      "osm_id": "1187146"
+    },
+    {
+      "plz": "66564",
+      "ort": "Ottweiler",
+      "landkreis": "Landkreis Neunkirchen",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10043115",
+      "osm_id": "1187148"
+    },
+    {
+      "plz": "66571",
+      "ort": "Eppelborn",
+      "landkreis": "Landkreis Neunkirchen",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10043111",
+      "osm_id": "1187149"
+    },
+    {
+      "plz": "66578",
+      "ort": "Schiffweiler",
+      "landkreis": "Landkreis Neunkirchen",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10043116",
+      "osm_id": "1187147"
+    },
+    {
+      "plz": "66583",
+      "ort": "Spiesen-Elversberg",
+      "landkreis": "Landkreis Neunkirchen",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10043117",
+      "osm_id": "1187144"
+    },
+    {
+      "plz": "66589",
+      "ort": "Merchweiler",
+      "landkreis": "Landkreis Neunkirchen",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10043113",
+      "osm_id": "1187150"
+    },
+    {
+      "plz": "66606",
+      "ort": "Sankt Wendel",
+      "landkreis": "Landkreis St. Wendel",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10046117",
+      "osm_id": "1184603"
+    },
+    {
+      "plz": "66620",
+      "ort": "Nonnweiler",
+      "landkreis": "Landkreis St. Wendel",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10046115",
+      "osm_id": "1184607"
+    },
+    {
+      "plz": "66625",
+      "ort": "Nohfelden",
+      "landkreis": "Landkreis St. Wendel",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10046114",
+      "osm_id": "1184602"
+    },
+    {
+      "plz": "66629",
+      "ort": "Freisen",
+      "landkreis": "Landkreis St. Wendel",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10046111",
+      "osm_id": "1184605"
+    },
+    {
+      "plz": "66636",
+      "ort": "Tholey",
+      "landkreis": "Landkreis St. Wendel",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10046118",
+      "osm_id": "1184606"
+    },
+    {
+      "plz": "66640",
+      "ort": "Namborn",
+      "landkreis": "Landkreis St. Wendel",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10046113",
+      "osm_id": "1184601"
+    },
+    {
+      "plz": "66646",
+      "ort": "Marpingen",
+      "landkreis": "Landkreis St. Wendel",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10046112",
+      "osm_id": "1184604"
+    },
+    {
+      "plz": "66649",
+      "ort": "Oberthal",
+      "landkreis": "Landkreis St. Wendel",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10046116",
+      "osm_id": "1184608"
+    },
+    {
+      "plz": "66663",
+      "ort": "Merzig",
+      "landkreis": "Landkreis Merzig-Wadern",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10042113",
+      "osm_id": "1187154"
+    },
+    {
+      "plz": "66679",
+      "ort": "Losheim am See",
+      "landkreis": "Landkreis Merzig-Wadern",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10042112",
+      "osm_id": "1187155"
+    },
+    {
+      "plz": "66687",
+      "ort": "Wadern",
+      "landkreis": "Landkreis Merzig-Wadern",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10042116",
+      "osm_id": "1184399"
+    },
+    {
+      "plz": "66693",
+      "ort": "Mettlach",
+      "landkreis": "Landkreis Merzig-Wadern",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10042114",
+      "osm_id": "1184405"
+    },
+    {
+      "plz": "66701",
+      "ort": "Beckingen",
+      "landkreis": "Landkreis Merzig-Wadern",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10042111",
+      "osm_id": "1187156"
+    },
+    {
+      "plz": "66706",
+      "ort": "Perl",
+      "landkreis": "Landkreis Merzig-Wadern",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10042115",
+      "osm_id": "1184400"
+    },
+    {
+      "plz": "66709",
+      "ort": "Weiskirchen",
+      "landkreis": "Landkreis Merzig-Wadern",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10042117",
+      "osm_id": "1184403"
+    },
+    {
+      "plz": "66740",
+      "ort": "Saarlouis",
+      "landkreis": "Landkreis Saarlouis",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10044115",
+      "osm_id": "1184570"
+    },
+    {
+      "plz": "66763",
+      "ort": "Dillingen/Saar",
+      "landkreis": "Landkreis Saarlouis",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10044111",
+      "osm_id": "1184561"
+    },
+    {
+      "plz": "66773",
+      "ort": "Schwalbach",
+      "landkreis": "Landkreis Saarlouis",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10044118",
+      "osm_id": "1184565"
+    },
+    {
+      "plz": "66780",
+      "ort": "Rehlingen-Siersburg",
+      "landkreis": "Landkreis Saarlouis",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10044114",
+      "osm_id": "1184571"
+    },
+    {
+      "plz": "66787",
+      "ort": "Wadgassen",
+      "landkreis": "Landkreis Saarlouis",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10044120",
+      "osm_id": "1184562"
+    },
+    {
+      "plz": "66793",
+      "ort": "Saarwellingen",
+      "landkreis": "Landkreis Saarlouis",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10044116",
+      "osm_id": "1184566"
+    },
+    {
+      "plz": "66798",
+      "ort": "Wallerfangen",
+      "landkreis": "Landkreis Saarlouis",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10044121",
+      "osm_id": "1184569"
+    },
+    {
+      "plz": "66802",
+      "ort": "Überherrn",
+      "landkreis": "Landkreis Saarlouis",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10044119",
+      "osm_id": "1184560"
+    },
+    {
+      "plz": "66806",
+      "ort": "Ensdorf/Saar",
+      "landkreis": "Landkreis Saarlouis",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10044123",
+      "osm_id": "1184563"
+    },
+    {
+      "plz": "66809",
+      "ort": "Nalbach",
+      "landkreis": "Landkreis Saarlouis",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10044113",
+      "osm_id": "1184568"
+    },
+    {
+      "plz": "66822",
+      "ort": "Lebach",
+      "landkreis": "Landkreis Saarlouis",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10044112",
+      "osm_id": "1184559"
+    },
+    {
+      "plz": "66839",
+      "ort": "Schmelz",
+      "landkreis": "Landkreis Saarlouis",
+      "is_kreisfrei": false,
+      "bundesland": "Saarland",
+      "bundesland_slug": "saarland",
+      "ags": "10044117",
+      "osm_id": "1184564"
+    }
+  ],
+  "meta": {
+    "title": "Postleitzahlen — Saarland - Kostenloser Download",
+    "description": "69 Postleitzahl-Ort-Kombinationen in Saarland (ISO DE-SL). Mit Landkreis, AGS und OSM-ID. Enthält 69 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Postleitzahlen — Saarland | ListBase",
+    "seo_description": "Herunterladen Postleitzahlen — Saarland — 69 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 69 Datensätze / 8 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

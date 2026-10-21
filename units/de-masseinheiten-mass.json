@@ -1,0 +1,214 @@
+{
+  "id": "de-masseinheiten-mass",
+  "name": "Maßeinheiten — Kategorie 'mass' (17)",
+  "title": "Maßeinheiten — Kategorie 'mass' (17)",
+  "description": "Maßeinheiten der Kategorie 'mass' aus der Locale de in CLDR, mit Namen auf Deutsch.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abkuerzung",
+      "label": "Abkuerzung",
+      "type": "string"
+    },
+    {
+      "key": "schmalform",
+      "label": "Schmalform",
+      "type": "string"
+    },
+    {
+      "key": "muster",
+      "label": "Muster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "mass-carat",
+      "kategorie": "mass",
+      "name": "Karat",
+      "abkuerzung": "Kt",
+      "schmalform": "Karat",
+      "muster": "{0} Karat"
+    },
+    {
+      "id": 2,
+      "unit_code": "mass-dalton",
+      "kategorie": "mass",
+      "name": "Dalton",
+      "abkuerzung": "Da",
+      "schmalform": "Da",
+      "muster": "{0} Dalton"
+    },
+    {
+      "id": 3,
+      "unit_code": "mass-earth-mass",
+      "kategorie": "mass",
+      "name": "Erdmassen",
+      "abkuerzung": "M⊕",
+      "schmalform": "M⊕",
+      "muster": "{0} Erdmassen"
+    },
+    {
+      "id": 4,
+      "unit_code": "mass-fun",
+      "kategorie": "mass",
+      "name": "fun [JP]",
+      "abkuerzung": "fun [JP]",
+      "schmalform": "fun [JP]",
+      "muster": "{0} fun [JP]"
+    },
+    {
+      "id": 5,
+      "unit_code": "mass-grain",
+      "kategorie": "mass",
+      "name": "Gran",
+      "abkuerzung": "Gran",
+      "schmalform": "gr",
+      "muster": "{0} Gran"
+    },
+    {
+      "id": 6,
+      "unit_code": "mass-gram",
+      "kategorie": "mass",
+      "name": "Gramm",
+      "abkuerzung": "Gramm",
+      "schmalform": "Gramm",
+      "muster": "{0} Gramm"
+    },
+    {
+      "id": 7,
+      "unit_code": "mass-kilogram",
+      "kategorie": "mass",
+      "name": "Kilogramm",
+      "abkuerzung": "kg",
+      "schmalform": "kg",
+      "muster": "{0} Kilogramm"
+    },
+    {
+      "id": 8,
+      "unit_code": "mass-microgram",
+      "kategorie": "mass",
+      "name": "Mikrogramm",
+      "abkuerzung": "μg",
+      "schmalform": "μg",
+      "muster": "{0} Mikrogramm"
+    },
+    {
+      "id": 9,
+      "unit_code": "mass-milligram",
+      "kategorie": "mass",
+      "name": "Milligramm",
+      "abkuerzung": "mg",
+      "schmalform": "mg",
+      "muster": "{0} Milligramm"
+    },
+    {
+      "id": 10,
+      "unit_code": "mass-ounce",
+      "kategorie": "mass",
+      "name": "Unzen",
+      "abkuerzung": "oz",
+      "schmalform": "Unzen",
+      "muster": "{0} Unzen"
+    },
+    {
+      "id": 11,
+      "unit_code": "mass-ounce-troy",
+      "kategorie": "mass",
+      "name": "Feinunzen",
+      "abkuerzung": "oz.tr.",
+      "schmalform": "oz.tr.",
+      "muster": "{0} Feinunzen"
+    },
+    {
+      "id": 12,
+      "unit_code": "mass-pound",
+      "kategorie": "mass",
+      "name": "Pfund",
+      "abkuerzung": "lb",
+      "schmalform": "Pfund",
+      "muster": "{0} Pfund"
+    },
+    {
+      "id": 13,
+      "unit_code": "mass-slug",
+      "kategorie": "mass",
+      "name": "slug",
+      "abkuerzung": "slug",
+      "schmalform": "slug",
+      "muster": "{0} slug"
+    },
+    {
+      "id": 14,
+      "unit_code": "mass-solar-mass",
+      "kategorie": "mass",
+      "name": "Sonnenmassen",
+      "abkuerzung": "M☉",
+      "schmalform": "M☉",
+      "muster": "{0} Sonnenmassen"
+    },
+    {
+      "id": 15,
+      "unit_code": "mass-stone",
+      "kategorie": "mass",
+      "name": "Stones",
+      "abkuerzung": "Stones",
+      "schmalform": "Stones",
+      "muster": "{0} Stones"
+    },
+    {
+      "id": 16,
+      "unit_code": "mass-ton",
+      "kategorie": "mass",
+      "name": "Short Tons",
+      "abkuerzung": "tn. sh.",
+      "schmalform": "Tons",
+      "muster": "{0} Short Tons"
+    },
+    {
+      "id": 17,
+      "unit_code": "mass-tonne",
+      "kategorie": "mass",
+      "name": "Tonnen",
+      "abkuerzung": "t",
+      "schmalform": "t",
+      "muster": "{0} Tonnen"
+    }
+  ],
+  "meta": {
+    "title": "Maßeinheiten — Kategorie 'mass' (17) - Kostenloser Download",
+    "description": "Maßeinheiten der Kategorie 'mass' aus der Locale de in CLDR, mit Namen auf Deutsch. Enthält 17 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Maßeinheiten — Kategorie 'mass' (17) | ListBase",
+    "seo_description": "Herunterladen Maßeinheiten — Kategorie 'mass' (17) — 17 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 17 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

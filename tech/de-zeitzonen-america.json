@@ -1,0 +1,416 @@
+{
+  "id": "de-zeitzonen-america",
+  "name": "Zeitzonen — America (45)",
+  "title": "Zeitzonen — America (45)",
+  "description": "Zeitzonen, deren IANA-Identifikator mit 'America/' beginnt, mit Namen auf Deutsch.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "stadt",
+      "label": "Stadt",
+      "type": "string"
+    },
+    {
+      "key": "standardname",
+      "label": "Standardname",
+      "type": "string"
+    },
+    {
+      "key": "sommername",
+      "label": "Sommername",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "America/Araguaina",
+      "region": "America",
+      "stadt": "Araguaína",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "America/Argentina/Rio_Gallegos",
+      "region": "America",
+      "stadt": "Río Gallegos",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "America/Argentina/Tucuman",
+      "region": "America",
+      "stadt": "Tucumán",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "America/Asuncion",
+      "region": "America",
+      "stadt": "Asunción",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "America/Bahia_Banderas",
+      "region": "America",
+      "stadt": "Bahia Banderas",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "America/Belem",
+      "region": "America",
+      "stadt": "Belém",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "America/Bogota",
+      "region": "America",
+      "stadt": "Bogotá",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "America/Cancun",
+      "region": "America",
+      "stadt": "Cancún",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "America/Cayman",
+      "region": "America",
+      "stadt": "Kaimaninseln",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "America/Ciudad_Juarez",
+      "region": "America",
+      "stadt": "Ciudad Juárez",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "America/Coral_Harbour",
+      "region": "America",
+      "stadt": "Atikokan",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "America/Cordoba",
+      "region": "America",
+      "stadt": "Córdoba",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "America/Cuiaba",
+      "region": "America",
+      "stadt": "Cuiabá",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "America/Curacao",
+      "region": "America",
+      "stadt": "Curaçao",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "America/Eirunepe",
+      "region": "America",
+      "stadt": "Eirunepé",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "America/Godthab",
+      "region": "America",
+      "stadt": "Nuuk",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "America/Havana",
+      "region": "America",
+      "stadt": "Havanna",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "America/Indiana/Knox",
+      "region": "America",
+      "stadt": "Knox, Indiana",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "America/Indiana/Marengo",
+      "region": "America",
+      "stadt": "Marengo, Indiana",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "America/Indiana/Petersburg",
+      "region": "America",
+      "stadt": "Petersburg, Indiana",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "America/Indiana/Tell_City",
+      "region": "America",
+      "stadt": "Tell City, Indiana",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "America/Indiana/Vevay",
+      "region": "America",
+      "stadt": "Vevay, Indiana",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "America/Indiana/Vincennes",
+      "region": "America",
+      "stadt": "Vincennes, Indiana",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "America/Indiana/Winamac",
+      "region": "America",
+      "stadt": "Winamac, Indiana",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "America/Jamaica",
+      "region": "America",
+      "stadt": "Jamaika",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "America/Kentucky/Monticello",
+      "region": "America",
+      "stadt": "Monticello, Kentucky",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "America/Lower_Princes",
+      "region": "America",
+      "stadt": "Lower Prince’s Quarter",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "America/Maceio",
+      "region": "America",
+      "stadt": "Maceió",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "America/Mazatlan",
+      "region": "America",
+      "stadt": "Mazatlán",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "America/Merida",
+      "region": "America",
+      "stadt": "Merida",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "America/Mexico_City",
+      "region": "America",
+      "stadt": "Mexiko-Stadt",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "America/Miquelon",
+      "region": "America",
+      "stadt": "Saint-Pierre",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "America/Noronha",
+      "region": "America",
+      "stadt": "Fernando de Noronha",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "America/North_Dakota/Beulah",
+      "region": "America",
+      "stadt": "Beulah, North Dakota",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "America/North_Dakota/Center",
+      "region": "America",
+      "stadt": "Center, North Dakota",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "America/North_Dakota/New_Salem",
+      "region": "America",
+      "stadt": "New Salem, North Dakota",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "America/Santarem",
+      "region": "America",
+      "stadt": "Santarém",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "America/Sao_Paulo",
+      "region": "America",
+      "stadt": "São Paulo",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "America/Scoresbysund",
+      "region": "America",
+      "stadt": "Ittoqqortoormiit",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "America/St_Barthelemy",
+      "region": "America",
+      "stadt": "Saint-Barthélemy",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "America/St_Johns",
+      "region": "America",
+      "stadt": "St. John’s",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "America/St_Kitts",
+      "region": "America",
+      "stadt": "St. Kitts",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "America/St_Lucia",
+      "region": "America",
+      "stadt": "St. Lucia",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "America/St_Thomas",
+      "region": "America",
+      "stadt": "St. Thomas",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "America/St_Vincent",
+      "region": "America",
+      "stadt": "St. Vincent",
+      "standardname": "",
+      "sommername": ""
+    }
+  ],
+  "meta": {
+    "title": "Zeitzonen — America (45) - Kostenloser Download",
+    "description": "Zeitzonen, deren IANA-Identifikator mit 'America/' beginnt, mit Namen auf Deutsch. Enthält 45 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Zeitzonen — America (45) | ListBase",
+    "seo_description": "Herunterladen Zeitzonen — America (45) — 45 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 45 Datensätze / 6 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

@@ -1,0 +1,1256 @@
+{
+  "id": "de-zeitzonen",
+  "name": "Zeitzonen der Welt (IANA / CLDR deutsch)",
+  "title": "Zeitzonen der Welt (IANA / CLDR deutsch)",
+  "description": "IANA-Zeitzonen-Identifikatoren und deutsche Namen der repräsentativen Städte aus der Locale de in CLDR. 'region' ist das erste Segment des Identifikators.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 150,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "stadt",
+      "label": "Stadt",
+      "type": "string"
+    },
+    {
+      "key": "standardname",
+      "label": "Standardname",
+      "type": "string"
+    },
+    {
+      "key": "sommername",
+      "label": "Sommername",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Africa/Addis_Ababa",
+      "region": "Africa",
+      "stadt": "Addis Abeba",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Africa/Algiers",
+      "region": "Africa",
+      "stadt": "Algier",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Africa/Asmera",
+      "region": "Africa",
+      "stadt": "Asmara",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Africa/Cairo",
+      "region": "Africa",
+      "stadt": "Kairo",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Africa/Dar_es_Salaam",
+      "region": "Africa",
+      "stadt": "Daressalam",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Africa/Djibouti",
+      "region": "Africa",
+      "stadt": "Dschibuti",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Africa/El_Aaiun",
+      "region": "Africa",
+      "stadt": "El Aaiún",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Africa/Khartoum",
+      "region": "Africa",
+      "stadt": "Khartum",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Africa/Lome",
+      "region": "Africa",
+      "stadt": "Lomé",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Africa/Mogadishu",
+      "region": "Africa",
+      "stadt": "Mogadischu",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Africa/Ndjamena",
+      "region": "Africa",
+      "stadt": "N’Djamena",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Africa/Porto-Novo",
+      "region": "Africa",
+      "stadt": "Porto Novo",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Africa/Sao_Tome",
+      "region": "Africa",
+      "stadt": "São Tomé",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Africa/Tripoli",
+      "region": "Africa",
+      "stadt": "Tripolis",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "America/Araguaina",
+      "region": "America",
+      "stadt": "Araguaína",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "America/Argentina/Rio_Gallegos",
+      "region": "America",
+      "stadt": "Río Gallegos",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "America/Argentina/Tucuman",
+      "region": "America",
+      "stadt": "Tucumán",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "America/Asuncion",
+      "region": "America",
+      "stadt": "Asunción",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "America/Bahia_Banderas",
+      "region": "America",
+      "stadt": "Bahia Banderas",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "America/Belem",
+      "region": "America",
+      "stadt": "Belém",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "America/Bogota",
+      "region": "America",
+      "stadt": "Bogotá",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "America/Cancun",
+      "region": "America",
+      "stadt": "Cancún",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "America/Cayman",
+      "region": "America",
+      "stadt": "Kaimaninseln",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "America/Ciudad_Juarez",
+      "region": "America",
+      "stadt": "Ciudad Juárez",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "America/Coral_Harbour",
+      "region": "America",
+      "stadt": "Atikokan",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "America/Cordoba",
+      "region": "America",
+      "stadt": "Córdoba",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "America/Cuiaba",
+      "region": "America",
+      "stadt": "Cuiabá",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "America/Curacao",
+      "region": "America",
+      "stadt": "Curaçao",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "America/Eirunepe",
+      "region": "America",
+      "stadt": "Eirunepé",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "America/Godthab",
+      "region": "America",
+      "stadt": "Nuuk",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "America/Havana",
+      "region": "America",
+      "stadt": "Havanna",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "America/Indiana/Knox",
+      "region": "America",
+      "stadt": "Knox, Indiana",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "America/Indiana/Marengo",
+      "region": "America",
+      "stadt": "Marengo, Indiana",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "America/Indiana/Petersburg",
+      "region": "America",
+      "stadt": "Petersburg, Indiana",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "America/Indiana/Tell_City",
+      "region": "America",
+      "stadt": "Tell City, Indiana",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "America/Indiana/Vevay",
+      "region": "America",
+      "stadt": "Vevay, Indiana",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "America/Indiana/Vincennes",
+      "region": "America",
+      "stadt": "Vincennes, Indiana",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "America/Indiana/Winamac",
+      "region": "America",
+      "stadt": "Winamac, Indiana",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "America/Jamaica",
+      "region": "America",
+      "stadt": "Jamaika",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "America/Kentucky/Monticello",
+      "region": "America",
+      "stadt": "Monticello, Kentucky",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "America/Lower_Princes",
+      "region": "America",
+      "stadt": "Lower Prince’s Quarter",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "America/Maceio",
+      "region": "America",
+      "stadt": "Maceió",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "America/Mazatlan",
+      "region": "America",
+      "stadt": "Mazatlán",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "America/Merida",
+      "region": "America",
+      "stadt": "Merida",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "America/Mexico_City",
+      "region": "America",
+      "stadt": "Mexiko-Stadt",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "America/Miquelon",
+      "region": "America",
+      "stadt": "Saint-Pierre",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "America/Noronha",
+      "region": "America",
+      "stadt": "Fernando de Noronha",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "America/North_Dakota/Beulah",
+      "region": "America",
+      "stadt": "Beulah, North Dakota",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "America/North_Dakota/Center",
+      "region": "America",
+      "stadt": "Center, North Dakota",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "America/North_Dakota/New_Salem",
+      "region": "America",
+      "stadt": "New Salem, North Dakota",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "America/Santarem",
+      "region": "America",
+      "stadt": "Santarém",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "America/Sao_Paulo",
+      "region": "America",
+      "stadt": "São Paulo",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 53,
+      "tz_id": "America/Scoresbysund",
+      "region": "America",
+      "stadt": "Ittoqqortoormiit",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 54,
+      "tz_id": "America/St_Barthelemy",
+      "region": "America",
+      "stadt": "Saint-Barthélemy",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 55,
+      "tz_id": "America/St_Johns",
+      "region": "America",
+      "stadt": "St. John’s",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 56,
+      "tz_id": "America/St_Kitts",
+      "region": "America",
+      "stadt": "St. Kitts",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 57,
+      "tz_id": "America/St_Lucia",
+      "region": "America",
+      "stadt": "St. Lucia",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 58,
+      "tz_id": "America/St_Thomas",
+      "region": "America",
+      "stadt": "St. Thomas",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 59,
+      "tz_id": "America/St_Vincent",
+      "region": "America",
+      "stadt": "St. Vincent",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 60,
+      "tz_id": "Antarctica/DumontDUrville",
+      "region": "Antarctica",
+      "stadt": "Dumont-d’Urville",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 61,
+      "tz_id": "Antarctica/Syowa",
+      "region": "Antarctica",
+      "stadt": "Showa",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 62,
+      "tz_id": "Antarctica/Vostok",
+      "region": "Antarctica",
+      "stadt": "Wostok",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 63,
+      "tz_id": "Asia/Aqtobe",
+      "region": "Asia",
+      "stadt": "Aktobe",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 64,
+      "tz_id": "Asia/Ashgabat",
+      "region": "Asia",
+      "stadt": "Aşgabat",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 65,
+      "tz_id": "Asia/Baghdad",
+      "region": "Asia",
+      "stadt": "Bagdad",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 66,
+      "tz_id": "Asia/Bishkek",
+      "region": "Asia",
+      "stadt": "Bischkek",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 67,
+      "tz_id": "Asia/Brunei",
+      "region": "Asia",
+      "stadt": "Brunei Darussalam",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 68,
+      "tz_id": "Asia/Calcutta",
+      "region": "Asia",
+      "stadt": "Kalkutta",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 69,
+      "tz_id": "Asia/Chita",
+      "region": "Asia",
+      "stadt": "Tschita",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 70,
+      "tz_id": "Asia/Damascus",
+      "region": "Asia",
+      "stadt": "Damaskus",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 71,
+      "tz_id": "Asia/Dushanbe",
+      "region": "Asia",
+      "stadt": "Duschanbe",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 72,
+      "tz_id": "Asia/Hong_Kong",
+      "region": "Asia",
+      "stadt": "Hongkong",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 73,
+      "tz_id": "Asia/Hovd",
+      "region": "Asia",
+      "stadt": "Chowd",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 74,
+      "tz_id": "Asia/Kamchatka",
+      "region": "Asia",
+      "stadt": "Kamtschatka",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 75,
+      "tz_id": "Asia/Karachi",
+      "region": "Asia",
+      "stadt": "Karatschi",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 76,
+      "tz_id": "Asia/Katmandu",
+      "region": "Asia",
+      "stadt": "Kathmandu",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 77,
+      "tz_id": "Asia/Khandyga",
+      "region": "Asia",
+      "stadt": "Chandyga",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 78,
+      "tz_id": "Asia/Krasnoyarsk",
+      "region": "Asia",
+      "stadt": "Krasnojarsk",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 79,
+      "tz_id": "Asia/Macau",
+      "region": "Asia",
+      "stadt": "Macau",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 80,
+      "tz_id": "Asia/Muscat",
+      "region": "Asia",
+      "stadt": "Maskat",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 81,
+      "tz_id": "Asia/Nicosia",
+      "region": "Asia",
+      "stadt": "Nikosia",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 82,
+      "tz_id": "Asia/Novokuznetsk",
+      "region": "Asia",
+      "stadt": "Nowokuznetsk",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 83,
+      "tz_id": "Asia/Novosibirsk",
+      "region": "Asia",
+      "stadt": "Nowosibirsk",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 84,
+      "tz_id": "Asia/Pyongyang",
+      "region": "Asia",
+      "stadt": "Pjöngjang",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 85,
+      "tz_id": "Asia/Qatar",
+      "region": "Asia",
+      "stadt": "Katar",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 86,
+      "tz_id": "Asia/Qostanay",
+      "region": "Asia",
+      "stadt": "Qostanai",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 87,
+      "tz_id": "Asia/Qyzylorda",
+      "region": "Asia",
+      "stadt": "Qysylorda",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 88,
+      "tz_id": "Asia/Rangoon",
+      "region": "Asia",
+      "stadt": "Rangun",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 89,
+      "tz_id": "Asia/Riyadh",
+      "region": "Asia",
+      "stadt": "Riad",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 90,
+      "tz_id": "Asia/Saigon",
+      "region": "Asia",
+      "stadt": "Ho-Chi-Minh-Stadt",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 91,
+      "tz_id": "Asia/Sakhalin",
+      "region": "Asia",
+      "stadt": "Sachalin",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 92,
+      "tz_id": "Asia/Singapore",
+      "region": "Asia",
+      "stadt": "Singapur",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 93,
+      "tz_id": "Asia/Taipei",
+      "region": "Asia",
+      "stadt": "Taipeh",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 94,
+      "tz_id": "Asia/Tashkent",
+      "region": "Asia",
+      "stadt": "Taschkent",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 95,
+      "tz_id": "Asia/Tbilisi",
+      "region": "Asia",
+      "stadt": "Tiflis",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 96,
+      "tz_id": "Asia/Tehran",
+      "region": "Asia",
+      "stadt": "Teheran",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 97,
+      "tz_id": "Asia/Tokyo",
+      "region": "Asia",
+      "stadt": "Tokio",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 98,
+      "tz_id": "Asia/Urumqi",
+      "region": "Asia",
+      "stadt": "Ürümqi",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 99,
+      "tz_id": "Asia/Vladivostok",
+      "region": "Asia",
+      "stadt": "Wladiwostok",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 100,
+      "tz_id": "Asia/Yakutsk",
+      "region": "Asia",
+      "stadt": "Jakutsk",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 101,
+      "tz_id": "Asia/Yekaterinburg",
+      "region": "Asia",
+      "stadt": "Jekaterinburg",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 102,
+      "tz_id": "Asia/Yerevan",
+      "region": "Asia",
+      "stadt": "Eriwan",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 103,
+      "tz_id": "Atlantic/Azores",
+      "region": "Atlantic",
+      "stadt": "Azoren",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 104,
+      "tz_id": "Atlantic/Canary",
+      "region": "Atlantic",
+      "stadt": "Kanaren",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 105,
+      "tz_id": "Atlantic/Cape_Verde",
+      "region": "Atlantic",
+      "stadt": "Cabo Verde",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 106,
+      "tz_id": "Atlantic/Faeroe",
+      "region": "Atlantic",
+      "stadt": "Färöer",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 107,
+      "tz_id": "Atlantic/Reykjavik",
+      "region": "Atlantic",
+      "stadt": "Reyk­ja­vík",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 108,
+      "tz_id": "Atlantic/South_Georgia",
+      "region": "Atlantic",
+      "stadt": "Südgeorgien",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 109,
+      "tz_id": "Atlantic/St_Helena",
+      "region": "Atlantic",
+      "stadt": "St. Helena",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 110,
+      "tz_id": "Etc/UTC",
+      "region": "Etc",
+      "stadt": "",
+      "standardname": "Koordinierte Weltzeit",
+      "sommername": ""
+    },
+    {
+      "id": 111,
+      "tz_id": "Etc/Unknown",
+      "region": "Etc",
+      "stadt": "Unbekannt",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 112,
+      "tz_id": "Europe/Astrakhan",
+      "region": "Europe",
+      "stadt": "Astrachan",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 113,
+      "tz_id": "Europe/Athens",
+      "region": "Europe",
+      "stadt": "Athen",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 114,
+      "tz_id": "Europe/Belgrade",
+      "region": "Europe",
+      "stadt": "Belgrad",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 115,
+      "tz_id": "Europe/Brussels",
+      "region": "Europe",
+      "stadt": "Brüssel",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 116,
+      "tz_id": "Europe/Bucharest",
+      "region": "Europe",
+      "stadt": "Bukarest",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 117,
+      "tz_id": "Europe/Busingen",
+      "region": "Europe",
+      "stadt": "Büsingen",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 118,
+      "tz_id": "Europe/Chisinau",
+      "region": "Europe",
+      "stadt": "Chișinău",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 119,
+      "tz_id": "Europe/Copenhagen",
+      "region": "Europe",
+      "stadt": "Kopenhagen",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 120,
+      "tz_id": "Europe/Dublin",
+      "region": "Europe",
+      "stadt": "",
+      "standardname": "",
+      "sommername": "Irische Sommerzeit"
+    },
+    {
+      "id": 121,
+      "tz_id": "Europe/Kiev",
+      "region": "Europe",
+      "stadt": "Kiew",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 122,
+      "tz_id": "Europe/Kirov",
+      "region": "Europe",
+      "stadt": "Kirow",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 123,
+      "tz_id": "Europe/Lisbon",
+      "region": "Europe",
+      "stadt": "Lissabon",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 124,
+      "tz_id": "Europe/London",
+      "region": "Europe",
+      "stadt": "",
+      "standardname": "",
+      "sommername": "Britische Sommerzeit"
+    },
+    {
+      "id": 125,
+      "tz_id": "Europe/Luxembourg",
+      "region": "Europe",
+      "stadt": "Luxemburg",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 126,
+      "tz_id": "Europe/Moscow",
+      "region": "Europe",
+      "stadt": "Moskau",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 127,
+      "tz_id": "Europe/Prague",
+      "region": "Europe",
+      "stadt": "Prag",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 128,
+      "tz_id": "Europe/Rome",
+      "region": "Europe",
+      "stadt": "Rom",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 129,
+      "tz_id": "Europe/Saratov",
+      "region": "Europe",
+      "stadt": "Saratow",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 130,
+      "tz_id": "Europe/Tirane",
+      "region": "Europe",
+      "stadt": "Tirana",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 131,
+      "tz_id": "Europe/Ulyanovsk",
+      "region": "Europe",
+      "stadt": "Uljanowsk",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 132,
+      "tz_id": "Europe/Vatican",
+      "region": "Europe",
+      "stadt": "Vatikan",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 133,
+      "tz_id": "Europe/Vienna",
+      "region": "Europe",
+      "stadt": "Wien",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 134,
+      "tz_id": "Europe/Volgograd",
+      "region": "Europe",
+      "stadt": "Wolgograd",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 135,
+      "tz_id": "Europe/Warsaw",
+      "region": "Europe",
+      "stadt": "Warschau",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 136,
+      "tz_id": "Europe/Zurich",
+      "region": "Europe",
+      "stadt": "Zürich",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 137,
+      "tz_id": "Indian/Christmas",
+      "region": "Indian",
+      "stadt": "Weihnachtsinsel",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 138,
+      "tz_id": "Indian/Comoro",
+      "region": "Indian",
+      "stadt": "Komoren",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 139,
+      "tz_id": "Indian/Mahe",
+      "region": "Indian",
+      "stadt": "Mahé",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 140,
+      "tz_id": "Indian/Maldives",
+      "region": "Indian",
+      "stadt": "Malediven",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 141,
+      "tz_id": "Indian/Reunion",
+      "region": "Indian",
+      "stadt": "Réunion",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 142,
+      "tz_id": "Pacific/Easter",
+      "region": "Pacific",
+      "stadt": "Osterinsel",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 143,
+      "tz_id": "Pacific/Enderbury",
+      "region": "Pacific",
+      "stadt": "Canton",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 144,
+      "tz_id": "Pacific/Fiji",
+      "region": "Pacific",
+      "stadt": "Fidschi",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 145,
+      "tz_id": "Pacific/Galapagos",
+      "region": "Pacific",
+      "stadt": "Galápagos",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 146,
+      "tz_id": "Pacific/Honolulu",
+      "region": "Pacific",
+      "stadt": "Honolulu",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 147,
+      "tz_id": "Pacific/Noumea",
+      "region": "Pacific",
+      "stadt": "Nouméa",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 148,
+      "tz_id": "Pacific/Ponape",
+      "region": "Pacific",
+      "stadt": "Pohnpei",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 149,
+      "tz_id": "Pacific/Truk",
+      "region": "Pacific",
+      "stadt": "Chuuk",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 150,
+      "tz_id": "Pacific/Wallis",
+      "region": "Pacific",
+      "stadt": "Wallis & Futuna",
+      "standardname": "",
+      "sommername": ""
+    }
+  ],
+  "meta": {
+    "title": "Zeitzonen der Welt (IANA / CLDR deutsch) - Kostenloser Download",
+    "description": "IANA-Zeitzonen-Identifikatoren und deutsche Namen der repräsentativen Städte aus der Locale de in CLDR. 'region' ist das erste Segment des Identifikators. Enthält 150 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Zeitzonen der Welt (IANA / CLDR deutsch) | ListBase",
+    "seo_description": "Herunterladen Zeitzonen der Welt (IANA / CLDR deutsch) — 150 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 150 Datensätze / 6 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

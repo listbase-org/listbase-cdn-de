@@ -1,0 +1,128 @@
+{
+  "id": "de-zeitzonen-pacific",
+  "name": "Zeitzonen — Pacific (9)",
+  "title": "Zeitzonen — Pacific (9)",
+  "description": "Zeitzonen, deren IANA-Identifikator mit 'Pacific/' beginnt, mit Namen auf Deutsch.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "stadt",
+      "label": "Stadt",
+      "type": "string"
+    },
+    {
+      "key": "standardname",
+      "label": "Standardname",
+      "type": "string"
+    },
+    {
+      "key": "sommername",
+      "label": "Sommername",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Pacific/Easter",
+      "region": "Pacific",
+      "stadt": "Osterinsel",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Pacific/Enderbury",
+      "region": "Pacific",
+      "stadt": "Canton",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Pacific/Fiji",
+      "region": "Pacific",
+      "stadt": "Fidschi",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Pacific/Galapagos",
+      "region": "Pacific",
+      "stadt": "Galápagos",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Pacific/Honolulu",
+      "region": "Pacific",
+      "stadt": "Honolulu",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Pacific/Noumea",
+      "region": "Pacific",
+      "stadt": "Nouméa",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Pacific/Ponape",
+      "region": "Pacific",
+      "stadt": "Pohnpei",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Pacific/Truk",
+      "region": "Pacific",
+      "stadt": "Chuuk",
+      "standardname": "",
+      "sommername": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Pacific/Wallis",
+      "region": "Pacific",
+      "stadt": "Wallis & Futuna",
+      "standardname": "",
+      "sommername": ""
+    }
+  ],
+  "meta": {
+    "title": "Zeitzonen — Pacific (9) - Kostenloser Download",
+    "description": "Zeitzonen, deren IANA-Identifikator mit 'Pacific/' beginnt, mit Namen auf Deutsch. Enthält 9 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Zeitzonen — Pacific (9) | ListBase",
+    "seo_description": "Herunterladen Zeitzonen — Pacific (9) — 9 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 9 Datensätze / 6 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

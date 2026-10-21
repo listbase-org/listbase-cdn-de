@@ -1,0 +1,3568 @@
+{
+  "id": "de-vorwahlen-bereich-6",
+  "name": "Deutsche Vorwahlen — Bereich 6 (führende Ziffer 6)",
+  "title": "Deutsche Vorwahlen — Bereich 6 (führende Ziffer 6)",
+  "description": "Ortsnetzkennzahlen mit führender Ziffer 6 aus dem deutschen Nummerierungsbereich. Geografischer Schwerpunkt: Frankfurt am Main (069), Hessen, Rheinland-Pfalz, Saarland. Insgesamt 587 Einträge.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 587,
+  "columns": [
+    {
+      "key": "vorwahl",
+      "label": "Vorwahl",
+      "type": "number"
+    },
+    {
+      "key": "ortsnetzkennzahl",
+      "label": "Ortsnetzkennzahl",
+      "type": "number"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "aktiv",
+      "label": "Aktiv",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "vorwahl": "069",
+      "ortsnetzkennzahl": 69,
+      "ort": "Frankfurt am Main",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0611",
+      "ortsnetzkennzahl": 611,
+      "ort": "Wiesbaden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0621",
+      "ortsnetzkennzahl": 621,
+      "ort": "Mannheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0631",
+      "ortsnetzkennzahl": 631,
+      "ort": "Kaiserslautern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0641",
+      "ortsnetzkennzahl": 641,
+      "ort": "Giessen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0651",
+      "ortsnetzkennzahl": 651,
+      "ort": "Trier",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0661",
+      "ortsnetzkennzahl": 661,
+      "ort": "Fulda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0671",
+      "ortsnetzkennzahl": 671,
+      "ort": "Bad Kreuznach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0681",
+      "ortsnetzkennzahl": 681,
+      "ort": "Saarbrücken",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06002",
+      "ortsnetzkennzahl": 6002,
+      "ort": "Ober-Mörlen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06003",
+      "ortsnetzkennzahl": 6003,
+      "ort": "Rosbach v d Höhe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06004",
+      "ortsnetzkennzahl": 6004,
+      "ort": "Lich-Eberstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06007",
+      "ortsnetzkennzahl": 6007,
+      "ort": "Rosbach-Rodheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06008",
+      "ortsnetzkennzahl": 6008,
+      "ort": "Echzell",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06020",
+      "ortsnetzkennzahl": 6020,
+      "ort": "Heigenbrücken",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06021",
+      "ortsnetzkennzahl": 6021,
+      "ort": "Aschaffenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06022",
+      "ortsnetzkennzahl": 6022,
+      "ort": "Obernburg a Main",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06023",
+      "ortsnetzkennzahl": 6023,
+      "ort": "Alzenau i Ufr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06024",
+      "ortsnetzkennzahl": 6024,
+      "ort": "Schöllkrippen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06026",
+      "ortsnetzkennzahl": 6026,
+      "ort": "Grossostheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06027",
+      "ortsnetzkennzahl": 6027,
+      "ort": "Stockstadt a Main",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06028",
+      "ortsnetzkennzahl": 6028,
+      "ort": "Sulzbach a Main",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06029",
+      "ortsnetzkennzahl": 6029,
+      "ort": "Mömbris",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06031",
+      "ortsnetzkennzahl": 6031,
+      "ort": "Friedberg Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06032",
+      "ortsnetzkennzahl": 6032,
+      "ort": "Bad Nauheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06033",
+      "ortsnetzkennzahl": 6033,
+      "ort": "Butzbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06034",
+      "ortsnetzkennzahl": 6034,
+      "ort": "Wöllstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06035",
+      "ortsnetzkennzahl": 6035,
+      "ort": "Reichelsheim Wetterau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06036",
+      "ortsnetzkennzahl": 6036,
+      "ort": "Wölfersheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06039",
+      "ortsnetzkennzahl": 6039,
+      "ort": "Karben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06041",
+      "ortsnetzkennzahl": 6041,
+      "ort": "Glauburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06042",
+      "ortsnetzkennzahl": 6042,
+      "ort": "Büdingen Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06043",
+      "ortsnetzkennzahl": 6043,
+      "ort": "Nidda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06044",
+      "ortsnetzkennzahl": 6044,
+      "ort": "Schotten Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06045",
+      "ortsnetzkennzahl": 6045,
+      "ort": "Gedern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06046",
+      "ortsnetzkennzahl": 6046,
+      "ort": "Ortenberg Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06047",
+      "ortsnetzkennzahl": 6047,
+      "ort": "Altenstadt Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06048",
+      "ortsnetzkennzahl": 6048,
+      "ort": "Büdingen-Eckartshausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06049",
+      "ortsnetzkennzahl": 6049,
+      "ort": "Kefenrod",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06050",
+      "ortsnetzkennzahl": 6050,
+      "ort": "Biebergemünd",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06051",
+      "ortsnetzkennzahl": 6051,
+      "ort": "Gelnhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06052",
+      "ortsnetzkennzahl": 6052,
+      "ort": "Bad Orb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06053",
+      "ortsnetzkennzahl": 6053,
+      "ort": "Wächtersbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06054",
+      "ortsnetzkennzahl": 6054,
+      "ort": "Birstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06055",
+      "ortsnetzkennzahl": 6055,
+      "ort": "Freigericht",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06056",
+      "ortsnetzkennzahl": 6056,
+      "ort": "Bad Soden-Salmünster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06057",
+      "ortsnetzkennzahl": 6057,
+      "ort": "Flörsbachtal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06058",
+      "ortsnetzkennzahl": 6058,
+      "ort": "Gründau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06059",
+      "ortsnetzkennzahl": 6059,
+      "ort": "Jossgrund",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06061",
+      "ortsnetzkennzahl": 6061,
+      "ort": "Michelstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06062",
+      "ortsnetzkennzahl": 6062,
+      "ort": "Erbach Odenw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06063",
+      "ortsnetzkennzahl": 6063,
+      "ort": "Bad König",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06066",
+      "ortsnetzkennzahl": 6066,
+      "ort": "Michelstadt-Vielbrunn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06068",
+      "ortsnetzkennzahl": 6068,
+      "ort": "Beerfelden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06071",
+      "ortsnetzkennzahl": 6071,
+      "ort": "Dieburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06073",
+      "ortsnetzkennzahl": 6073,
+      "ort": "Babenhausen Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06074",
+      "ortsnetzkennzahl": 6074,
+      "ort": "Rödermark",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06078",
+      "ortsnetzkennzahl": 6078,
+      "ort": "Gross-Umstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06081",
+      "ortsnetzkennzahl": 6081,
+      "ort": "Usingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06082",
+      "ortsnetzkennzahl": 6082,
+      "ort": "Niederreifenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06083",
+      "ortsnetzkennzahl": 6083,
+      "ort": "Weilrod",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06084",
+      "ortsnetzkennzahl": 6084,
+      "ort": "Schmitten Taunus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06085",
+      "ortsnetzkennzahl": 6085,
+      "ort": "Waldsolms",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06086",
+      "ortsnetzkennzahl": 6086,
+      "ort": "Grävenwiesbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06087",
+      "ortsnetzkennzahl": 6087,
+      "ort": "Waldems",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06092",
+      "ortsnetzkennzahl": 6092,
+      "ort": "Heimbuchenthal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06093",
+      "ortsnetzkennzahl": 6093,
+      "ort": "Laufach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06094",
+      "ortsnetzkennzahl": 6094,
+      "ort": "Weibersbrunn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06095",
+      "ortsnetzkennzahl": 6095,
+      "ort": "Bessenbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06096",
+      "ortsnetzkennzahl": 6096,
+      "ort": "Wiesen Unterfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06101",
+      "ortsnetzkennzahl": 6101,
+      "ort": "Bad Vilbel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06102",
+      "ortsnetzkennzahl": 6102,
+      "ort": "Neu-Isenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06103",
+      "ortsnetzkennzahl": 6103,
+      "ort": "Langen Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06104",
+      "ortsnetzkennzahl": 6104,
+      "ort": "Heusenstamm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06105",
+      "ortsnetzkennzahl": 6105,
+      "ort": "Mörfelden-Walldorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06106",
+      "ortsnetzkennzahl": 6106,
+      "ort": "Rodgau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06107",
+      "ortsnetzkennzahl": 6107,
+      "ort": "Kelsterbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06108",
+      "ortsnetzkennzahl": 6108,
+      "ort": "Mühlheim am Main",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06109",
+      "ortsnetzkennzahl": 6109,
+      "ort": "Frankfurt-Bergen-Enkheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06120",
+      "ortsnetzkennzahl": 6120,
+      "ort": "Aarbergen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06122",
+      "ortsnetzkennzahl": 6122,
+      "ort": "Hofheim-Wallau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06123",
+      "ortsnetzkennzahl": 6123,
+      "ort": "Eltville am Rhein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06124",
+      "ortsnetzkennzahl": 6124,
+      "ort": "Bad Schwalbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06126",
+      "ortsnetzkennzahl": 6126,
+      "ort": "Idstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06127",
+      "ortsnetzkennzahl": 6127,
+      "ort": "Niedernhausen Taunus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06128",
+      "ortsnetzkennzahl": 6128,
+      "ort": "Taunusstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06129",
+      "ortsnetzkennzahl": 6129,
+      "ort": "Schlangenbad",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06130",
+      "ortsnetzkennzahl": 6130,
+      "ort": "Schwabenheim an der Selz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06131",
+      "ortsnetzkennzahl": 6131,
+      "ort": "Mainz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06132",
+      "ortsnetzkennzahl": 6132,
+      "ort": "Ingelheim am Rhein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06133",
+      "ortsnetzkennzahl": 6133,
+      "ort": "Oppenheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06134",
+      "ortsnetzkennzahl": 6134,
+      "ort": "Mainz-Kastel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06135",
+      "ortsnetzkennzahl": 6135,
+      "ort": "Bodenheim Rhein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06136",
+      "ortsnetzkennzahl": 6136,
+      "ort": "Nieder-Olm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06138",
+      "ortsnetzkennzahl": 6138,
+      "ort": "Mommenheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06139",
+      "ortsnetzkennzahl": 6139,
+      "ort": "Budenheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06142",
+      "ortsnetzkennzahl": 6142,
+      "ort": "Rüsselsheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06144",
+      "ortsnetzkennzahl": 6144,
+      "ort": "Bischofsheim b Rüsselsheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06145",
+      "ortsnetzkennzahl": 6145,
+      "ort": "Flörsheim am Main",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06146",
+      "ortsnetzkennzahl": 6146,
+      "ort": "Hochheim am Main",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06147",
+      "ortsnetzkennzahl": 6147,
+      "ort": "Trebur",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06150",
+      "ortsnetzkennzahl": 6150,
+      "ort": "Weiterstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06151",
+      "ortsnetzkennzahl": 6151,
+      "ort": "Darmstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06152",
+      "ortsnetzkennzahl": 6152,
+      "ort": "Gross-Gerau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06154",
+      "ortsnetzkennzahl": 6154,
+      "ort": "Ober-Ramstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06155",
+      "ortsnetzkennzahl": 6155,
+      "ort": "Griesheim Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06157",
+      "ortsnetzkennzahl": 6157,
+      "ort": "Pfungstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06158",
+      "ortsnetzkennzahl": 6158,
+      "ort": "Riedstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06159",
+      "ortsnetzkennzahl": 6159,
+      "ort": "Messel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06161",
+      "ortsnetzkennzahl": 6161,
+      "ort": "Brensbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06162",
+      "ortsnetzkennzahl": 6162,
+      "ort": "Reinheim Odenw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06163",
+      "ortsnetzkennzahl": 6163,
+      "ort": "Höchst i Odw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06164",
+      "ortsnetzkennzahl": 6164,
+      "ort": "Reichelsheim Odenwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06165",
+      "ortsnetzkennzahl": 6165,
+      "ort": "Breuberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06166",
+      "ortsnetzkennzahl": 6166,
+      "ort": "Fischbachtal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06167",
+      "ortsnetzkennzahl": 6167,
+      "ort": "Modautal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06171",
+      "ortsnetzkennzahl": 6171,
+      "ort": "Oberursel Taunus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06172",
+      "ortsnetzkennzahl": 6172,
+      "ort": "Bad Homburg v d Höhe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06173",
+      "ortsnetzkennzahl": 6173,
+      "ort": "Kronberg im Taunus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06174",
+      "ortsnetzkennzahl": 6174,
+      "ort": "Königstein im Taunus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06175",
+      "ortsnetzkennzahl": 6175,
+      "ort": "Friedrichsdorf Taunus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06181",
+      "ortsnetzkennzahl": 6181,
+      "ort": "Hanau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06182",
+      "ortsnetzkennzahl": 6182,
+      "ort": "Seligenstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06183",
+      "ortsnetzkennzahl": 6183,
+      "ort": "Erlensee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06184",
+      "ortsnetzkennzahl": 6184,
+      "ort": "Langenselbold",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06185",
+      "ortsnetzkennzahl": 6185,
+      "ort": "Hammersbach Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06186",
+      "ortsnetzkennzahl": 6186,
+      "ort": "Grosskrotzenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06187",
+      "ortsnetzkennzahl": 6187,
+      "ort": "Schöneck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06188",
+      "ortsnetzkennzahl": 6188,
+      "ort": "Kahl a Main",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06190",
+      "ortsnetzkennzahl": 6190,
+      "ort": "Hattersheim a Main",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06192",
+      "ortsnetzkennzahl": 6192,
+      "ort": "Hofheim am Taunus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06195",
+      "ortsnetzkennzahl": 6195,
+      "ort": "Kelkheim Taunus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06196",
+      "ortsnetzkennzahl": 6196,
+      "ort": "Bad Soden am Taunus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06198",
+      "ortsnetzkennzahl": 6198,
+      "ort": "Eppstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06201",
+      "ortsnetzkennzahl": 6201,
+      "ort": "Weinheim Bergstr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06202",
+      "ortsnetzkennzahl": 6202,
+      "ort": "Schwetzingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06203",
+      "ortsnetzkennzahl": 6203,
+      "ort": "Ladenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06204",
+      "ortsnetzkennzahl": 6204,
+      "ort": "Viernheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06205",
+      "ortsnetzkennzahl": 6205,
+      "ort": "Hockenheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06206",
+      "ortsnetzkennzahl": 6206,
+      "ort": "Lampertheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06207",
+      "ortsnetzkennzahl": 6207,
+      "ort": "Wald-Michelbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06209",
+      "ortsnetzkennzahl": 6209,
+      "ort": "Mörlenbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06220",
+      "ortsnetzkennzahl": 6220,
+      "ort": "Wilhelmsfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06221",
+      "ortsnetzkennzahl": 6221,
+      "ort": "Heidelberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06222",
+      "ortsnetzkennzahl": 6222,
+      "ort": "Wiesloch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06223",
+      "ortsnetzkennzahl": 6223,
+      "ort": "Neckargemünd",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06224",
+      "ortsnetzkennzahl": 6224,
+      "ort": "Sandhausen Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06226",
+      "ortsnetzkennzahl": 6226,
+      "ort": "Meckesheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06227",
+      "ortsnetzkennzahl": 6227,
+      "ort": "Walldorf Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06228",
+      "ortsnetzkennzahl": 6228,
+      "ort": "Schönau Odenw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06229",
+      "ortsnetzkennzahl": 6229,
+      "ort": "Neckarsteinach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06231",
+      "ortsnetzkennzahl": 6231,
+      "ort": "Hochdorf-Assenheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06232",
+      "ortsnetzkennzahl": 6232,
+      "ort": "Speyer",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06233",
+      "ortsnetzkennzahl": 6233,
+      "ort": "Frankenthal Pfalz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06234",
+      "ortsnetzkennzahl": 6234,
+      "ort": "Mutterstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06235",
+      "ortsnetzkennzahl": 6235,
+      "ort": "Schifferstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06236",
+      "ortsnetzkennzahl": 6236,
+      "ort": "Neuhofen Pfalz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06237",
+      "ortsnetzkennzahl": 6237,
+      "ort": "Maxdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06238",
+      "ortsnetzkennzahl": 6238,
+      "ort": "Dirmstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06239",
+      "ortsnetzkennzahl": 6239,
+      "ort": "Bobenheim-Roxheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06241",
+      "ortsnetzkennzahl": 6241,
+      "ort": "Worms",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06242",
+      "ortsnetzkennzahl": 6242,
+      "ort": "Osthofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06243",
+      "ortsnetzkennzahl": 6243,
+      "ort": "Monsheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06244",
+      "ortsnetzkennzahl": 6244,
+      "ort": "Westhofen Rheinhess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06245",
+      "ortsnetzkennzahl": 6245,
+      "ort": "Biblis",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06246",
+      "ortsnetzkennzahl": 6246,
+      "ort": "Eich Rheinhess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06247",
+      "ortsnetzkennzahl": 6247,
+      "ort": "Worms-Pfeddersheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06249",
+      "ortsnetzkennzahl": 6249,
+      "ort": "Guntersblum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06251",
+      "ortsnetzkennzahl": 6251,
+      "ort": "Bensheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06252",
+      "ortsnetzkennzahl": 6252,
+      "ort": "Heppenheim Bergstraße",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06253",
+      "ortsnetzkennzahl": 6253,
+      "ort": "Fürth Odenw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06254",
+      "ortsnetzkennzahl": 6254,
+      "ort": "Lautertal Odenwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06255",
+      "ortsnetzkennzahl": 6255,
+      "ort": "Lindenfels",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06256",
+      "ortsnetzkennzahl": 6256,
+      "ort": "Lampertheim-Hüttenfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06257",
+      "ortsnetzkennzahl": 6257,
+      "ort": "Seeheim-Jugenheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06258",
+      "ortsnetzkennzahl": 6258,
+      "ort": "Gernsheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06261",
+      "ortsnetzkennzahl": 6261,
+      "ort": "Mosbach Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06262",
+      "ortsnetzkennzahl": 6262,
+      "ort": "Aglasterhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06263",
+      "ortsnetzkennzahl": 6263,
+      "ort": "Neckargerach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06264",
+      "ortsnetzkennzahl": 6264,
+      "ort": "Neudenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06265",
+      "ortsnetzkennzahl": 6265,
+      "ort": "Billigheim Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06266",
+      "ortsnetzkennzahl": 6266,
+      "ort": "Hassmersheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06267",
+      "ortsnetzkennzahl": 6267,
+      "ort": "Fahrenbach Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06268",
+      "ortsnetzkennzahl": 6268,
+      "ort": "Hüffenhardt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06269",
+      "ortsnetzkennzahl": 6269,
+      "ort": "Gundelsheim Württ",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06271",
+      "ortsnetzkennzahl": 6271,
+      "ort": "Eberbach Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06272",
+      "ortsnetzkennzahl": 6272,
+      "ort": "Hirschhorn Neckar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06274",
+      "ortsnetzkennzahl": 6274,
+      "ort": "Waldbrunn Odenw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06275",
+      "ortsnetzkennzahl": 6275,
+      "ort": "Rothenberg Odenw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06276",
+      "ortsnetzkennzahl": 6276,
+      "ort": "Hesseneck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06281",
+      "ortsnetzkennzahl": 6281,
+      "ort": "Buchen Odenwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06282",
+      "ortsnetzkennzahl": 6282,
+      "ort": "Walldürn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06283",
+      "ortsnetzkennzahl": 6283,
+      "ort": "Hardheim Odenw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06284",
+      "ortsnetzkennzahl": 6284,
+      "ort": "Mudau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06285",
+      "ortsnetzkennzahl": 6285,
+      "ort": "Walldürn-Altheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06286",
+      "ortsnetzkennzahl": 6286,
+      "ort": "Walldürn-Rippberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06287",
+      "ortsnetzkennzahl": 6287,
+      "ort": "Limbach Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06291",
+      "ortsnetzkennzahl": 6291,
+      "ort": "Adelsheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06292",
+      "ortsnetzkennzahl": 6292,
+      "ort": "Seckach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06293",
+      "ortsnetzkennzahl": 6293,
+      "ort": "Schefflenz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06294",
+      "ortsnetzkennzahl": 6294,
+      "ort": "Krautheim Jagst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06295",
+      "ortsnetzkennzahl": 6295,
+      "ort": "Rosenberg Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06296",
+      "ortsnetzkennzahl": 6296,
+      "ort": "Ahorn Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06297",
+      "ortsnetzkennzahl": 6297,
+      "ort": "Ravenstein Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06298",
+      "ortsnetzkennzahl": 6298,
+      "ort": "Möckmühl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06301",
+      "ortsnetzkennzahl": 6301,
+      "ort": "Otterbach Pfalz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06302",
+      "ortsnetzkennzahl": 6302,
+      "ort": "Winnweiler",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06303",
+      "ortsnetzkennzahl": 6303,
+      "ort": "Enkenbach-Alsenborn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06304",
+      "ortsnetzkennzahl": 6304,
+      "ort": "Wolfstein Pfalz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06305",
+      "ortsnetzkennzahl": 6305,
+      "ort": "Hochspeyer",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06306",
+      "ortsnetzkennzahl": 6306,
+      "ort": "Trippstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06307",
+      "ortsnetzkennzahl": 6307,
+      "ort": "Schopp",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06308",
+      "ortsnetzkennzahl": 6308,
+      "ort": "Olsbrücken",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06321",
+      "ortsnetzkennzahl": 6321,
+      "ort": "Neustadt an der Weinstraße",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06322",
+      "ortsnetzkennzahl": 6322,
+      "ort": "Bad Dürkheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06323",
+      "ortsnetzkennzahl": 6323,
+      "ort": "Edenkoben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06324",
+      "ortsnetzkennzahl": 6324,
+      "ort": "Hassloch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06325",
+      "ortsnetzkennzahl": 6325,
+      "ort": "Lambrecht Pfalz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06326",
+      "ortsnetzkennzahl": 6326,
+      "ort": "Deidesheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06327",
+      "ortsnetzkennzahl": 6327,
+      "ort": "Neustadt-Lachen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06328",
+      "ortsnetzkennzahl": 6328,
+      "ort": "Elmstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06329",
+      "ortsnetzkennzahl": 6329,
+      "ort": "Weidenthal Pfalz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06331",
+      "ortsnetzkennzahl": 6331,
+      "ort": "Pirmasens",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06332",
+      "ortsnetzkennzahl": 6332,
+      "ort": "Zweibrücken",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06333",
+      "ortsnetzkennzahl": 6333,
+      "ort": "Waldfischbach-Burgalben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06334",
+      "ortsnetzkennzahl": 6334,
+      "ort": "Thaleischweiler-Fröschen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06335",
+      "ortsnetzkennzahl": 6335,
+      "ort": "Trulben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06336",
+      "ortsnetzkennzahl": 6336,
+      "ort": "Dellfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06337",
+      "ortsnetzkennzahl": 6337,
+      "ort": "Grossbundenbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06338",
+      "ortsnetzkennzahl": 6338,
+      "ort": "Hornbach Pfalz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06339",
+      "ortsnetzkennzahl": 6339,
+      "ort": "Grosssteinhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06340",
+      "ortsnetzkennzahl": 6340,
+      "ort": "Wörth-Schaidt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06341",
+      "ortsnetzkennzahl": 6341,
+      "ort": "Landau in der Pfalz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06342",
+      "ortsnetzkennzahl": 6342,
+      "ort": "Schweigen-Rechtenbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06343",
+      "ortsnetzkennzahl": 6343,
+      "ort": "Bad Bergzabern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06344",
+      "ortsnetzkennzahl": 6344,
+      "ort": "Schwegenheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06345",
+      "ortsnetzkennzahl": 6345,
+      "ort": "Albersweiler",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06346",
+      "ortsnetzkennzahl": 6346,
+      "ort": "Annweiler am Trifels",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06347",
+      "ortsnetzkennzahl": 6347,
+      "ort": "Hochstadt Pfalz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06348",
+      "ortsnetzkennzahl": 6348,
+      "ort": "Offenbach an der Queich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06349",
+      "ortsnetzkennzahl": 6349,
+      "ort": "Billigheim-Ingenheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06351",
+      "ortsnetzkennzahl": 6351,
+      "ort": "Eisenberg Pfalz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06352",
+      "ortsnetzkennzahl": 6352,
+      "ort": "Kirchheimbolanden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06353",
+      "ortsnetzkennzahl": 6353,
+      "ort": "Freinsheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06355",
+      "ortsnetzkennzahl": 6355,
+      "ort": "Albisheim Pfrimm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06356",
+      "ortsnetzkennzahl": 6356,
+      "ort": "Carlsberg Pfalz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06357",
+      "ortsnetzkennzahl": 6357,
+      "ort": "Standenbühl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06358",
+      "ortsnetzkennzahl": 6358,
+      "ort": "Kriegsfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06359",
+      "ortsnetzkennzahl": 6359,
+      "ort": "Grünstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06361",
+      "ortsnetzkennzahl": 6361,
+      "ort": "Rockenhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06362",
+      "ortsnetzkennzahl": 6362,
+      "ort": "Alsenz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06363",
+      "ortsnetzkennzahl": 6363,
+      "ort": "Niederkirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06364",
+      "ortsnetzkennzahl": 6364,
+      "ort": "Nußbach Pfalz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06371",
+      "ortsnetzkennzahl": 6371,
+      "ort": "Landstuhl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06372",
+      "ortsnetzkennzahl": 6372,
+      "ort": "Bruchmühlbach-Miesau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06373",
+      "ortsnetzkennzahl": 6373,
+      "ort": "Schönenberg-Kübelberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06374",
+      "ortsnetzkennzahl": 6374,
+      "ort": "Weilerbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06375",
+      "ortsnetzkennzahl": 6375,
+      "ort": "Wallhalben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06381",
+      "ortsnetzkennzahl": 6381,
+      "ort": "Kusel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06382",
+      "ortsnetzkennzahl": 6382,
+      "ort": "Lauterecken",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06383",
+      "ortsnetzkennzahl": 6383,
+      "ort": "Glan-Münchweiler",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06384",
+      "ortsnetzkennzahl": 6384,
+      "ort": "Konken",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06385",
+      "ortsnetzkennzahl": 6385,
+      "ort": "Reichenbach-Steegen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06386",
+      "ortsnetzkennzahl": 6386,
+      "ort": "Altenkirchen Pfalz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06387",
+      "ortsnetzkennzahl": 6387,
+      "ort": "Sankt Julian",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06391",
+      "ortsnetzkennzahl": 6391,
+      "ort": "Dahn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06392",
+      "ortsnetzkennzahl": 6392,
+      "ort": "Hauenstein Pfalz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06393",
+      "ortsnetzkennzahl": 6393,
+      "ort": "Fischbach bei Dahn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06394",
+      "ortsnetzkennzahl": 6394,
+      "ort": "Bundenthal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06395",
+      "ortsnetzkennzahl": 6395,
+      "ort": "Münchweiler an der Rodalb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06396",
+      "ortsnetzkennzahl": 6396,
+      "ort": "Hinterweidenthal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06397",
+      "ortsnetzkennzahl": 6397,
+      "ort": "Leimen Pfalz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06398",
+      "ortsnetzkennzahl": 6398,
+      "ort": "Vorderweidenthal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06400",
+      "ortsnetzkennzahl": 6400,
+      "ort": "Mücke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06401",
+      "ortsnetzkennzahl": 6401,
+      "ort": "Grünberg Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06402",
+      "ortsnetzkennzahl": 6402,
+      "ort": "Hungen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06403",
+      "ortsnetzkennzahl": 6403,
+      "ort": "Linden Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06404",
+      "ortsnetzkennzahl": 6404,
+      "ort": "Lich Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06405",
+      "ortsnetzkennzahl": 6405,
+      "ort": "Laubach Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06406",
+      "ortsnetzkennzahl": 6406,
+      "ort": "Lollar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06407",
+      "ortsnetzkennzahl": 6407,
+      "ort": "Rabenau Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06408",
+      "ortsnetzkennzahl": 6408,
+      "ort": "Buseck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06409",
+      "ortsnetzkennzahl": 6409,
+      "ort": "Biebertal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06420",
+      "ortsnetzkennzahl": 6420,
+      "ort": "Lahntal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06421",
+      "ortsnetzkennzahl": 6421,
+      "ort": "Marburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06422",
+      "ortsnetzkennzahl": 6422,
+      "ort": "Kirchhain",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06423",
+      "ortsnetzkennzahl": 6423,
+      "ort": "Wetter Hessen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06424",
+      "ortsnetzkennzahl": 6424,
+      "ort": "Ebsdorfergrund",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06425",
+      "ortsnetzkennzahl": 6425,
+      "ort": "Rauschenberg Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06426",
+      "ortsnetzkennzahl": 6426,
+      "ort": "Fronhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06427",
+      "ortsnetzkennzahl": 6427,
+      "ort": "Cölbe-Schönstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06428",
+      "ortsnetzkennzahl": 6428,
+      "ort": "Stadtallendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06429",
+      "ortsnetzkennzahl": 6429,
+      "ort": "Schweinsberg Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06430",
+      "ortsnetzkennzahl": 6430,
+      "ort": "Hahnstätten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06431",
+      "ortsnetzkennzahl": 6431,
+      "ort": "Limburg a d Lahn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06432",
+      "ortsnetzkennzahl": 6432,
+      "ort": "Diez",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06433",
+      "ortsnetzkennzahl": 6433,
+      "ort": "Hadamar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06434",
+      "ortsnetzkennzahl": 6434,
+      "ort": "Bad Camberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06435",
+      "ortsnetzkennzahl": 6435,
+      "ort": "Wallmerod",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06436",
+      "ortsnetzkennzahl": 6436,
+      "ort": "Dornburg Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06438",
+      "ortsnetzkennzahl": 6438,
+      "ort": "Hünfelden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06439",
+      "ortsnetzkennzahl": 6439,
+      "ort": "Holzappel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06440",
+      "ortsnetzkennzahl": 6440,
+      "ort": "Kölschhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06441",
+      "ortsnetzkennzahl": 6441,
+      "ort": "Wetzlar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06442",
+      "ortsnetzkennzahl": 6442,
+      "ort": "Braunfels",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06443",
+      "ortsnetzkennzahl": 6443,
+      "ort": "Ehringshausen Dill",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06444",
+      "ortsnetzkennzahl": 6444,
+      "ort": "Bischoffen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06445",
+      "ortsnetzkennzahl": 6445,
+      "ort": "Schöffengrund",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06446",
+      "ortsnetzkennzahl": 6446,
+      "ort": "Hohenahr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06447",
+      "ortsnetzkennzahl": 6447,
+      "ort": "Langgöns-Niederkleen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06449",
+      "ortsnetzkennzahl": 6449,
+      "ort": "Ehringshausen-Katzenfurt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06451",
+      "ortsnetzkennzahl": 6451,
+      "ort": "Frankenberg Eder",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06452",
+      "ortsnetzkennzahl": 6452,
+      "ort": "Battenberg Eder",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06453",
+      "ortsnetzkennzahl": 6453,
+      "ort": "Gemünden Wohra",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06454",
+      "ortsnetzkennzahl": 6454,
+      "ort": "Lichtenfels-Sachsenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06455",
+      "ortsnetzkennzahl": 6455,
+      "ort": "Frankenau Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06456",
+      "ortsnetzkennzahl": 6456,
+      "ort": "Haina Kloster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06457",
+      "ortsnetzkennzahl": 6457,
+      "ort": "Burgwald Eder",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06458",
+      "ortsnetzkennzahl": 6458,
+      "ort": "Rosenthal Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06461",
+      "ortsnetzkennzahl": 6461,
+      "ort": "Biedenkopf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06462",
+      "ortsnetzkennzahl": 6462,
+      "ort": "Gladenbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06464",
+      "ortsnetzkennzahl": 6464,
+      "ort": "Angelburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06465",
+      "ortsnetzkennzahl": 6465,
+      "ort": "Breidenbach b Biedenkopf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06466",
+      "ortsnetzkennzahl": 6466,
+      "ort": "Dautphetal-Friedensdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06467",
+      "ortsnetzkennzahl": 6467,
+      "ort": "Hatzfeld Eder",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06468",
+      "ortsnetzkennzahl": 6468,
+      "ort": "Dautphetal-Mornshausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06471",
+      "ortsnetzkennzahl": 6471,
+      "ort": "Weilburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06472",
+      "ortsnetzkennzahl": 6472,
+      "ort": "Weilmünster",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06473",
+      "ortsnetzkennzahl": 6473,
+      "ort": "Leun",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06474",
+      "ortsnetzkennzahl": 6474,
+      "ort": "Villmar-Aumenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06475",
+      "ortsnetzkennzahl": 6475,
+      "ort": "Weilmünster-Wolfenhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06476",
+      "ortsnetzkennzahl": 6476,
+      "ort": "Mengerskirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06477",
+      "ortsnetzkennzahl": 6477,
+      "ort": "Greifenstein-Nenderoth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06478",
+      "ortsnetzkennzahl": 6478,
+      "ort": "Greifenstein-Ulm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06479",
+      "ortsnetzkennzahl": 6479,
+      "ort": "Waldbrunn Westerwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06482",
+      "ortsnetzkennzahl": 6482,
+      "ort": "Runkel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06483",
+      "ortsnetzkennzahl": 6483,
+      "ort": "Selters Taunus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06484",
+      "ortsnetzkennzahl": 6484,
+      "ort": "Beselich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06485",
+      "ortsnetzkennzahl": 6485,
+      "ort": "Nentershausen Westerw",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06486",
+      "ortsnetzkennzahl": 6486,
+      "ort": "Katzenelnbogen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06500",
+      "ortsnetzkennzahl": 6500,
+      "ort": "Waldrach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06501",
+      "ortsnetzkennzahl": 6501,
+      "ort": "Konz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06502",
+      "ortsnetzkennzahl": 6502,
+      "ort": "Schweich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06503",
+      "ortsnetzkennzahl": 6503,
+      "ort": "Hermeskeil",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06504",
+      "ortsnetzkennzahl": 6504,
+      "ort": "Thalfang",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06505",
+      "ortsnetzkennzahl": 6505,
+      "ort": "Kordel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06506",
+      "ortsnetzkennzahl": 6506,
+      "ort": "Welschbillig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06507",
+      "ortsnetzkennzahl": 6507,
+      "ort": "Neumagen-Dhron",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06508",
+      "ortsnetzkennzahl": 6508,
+      "ort": "Hetzerath Mosel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06509",
+      "ortsnetzkennzahl": 6509,
+      "ort": "Büdlich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06522",
+      "ortsnetzkennzahl": 6522,
+      "ort": "Mettendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06523",
+      "ortsnetzkennzahl": 6523,
+      "ort": "Holsthum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06524",
+      "ortsnetzkennzahl": 6524,
+      "ort": "Rodershausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06525",
+      "ortsnetzkennzahl": 6525,
+      "ort": "Irrel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06526",
+      "ortsnetzkennzahl": 6526,
+      "ort": "Bollendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06527",
+      "ortsnetzkennzahl": 6527,
+      "ort": "Oberweis",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06531",
+      "ortsnetzkennzahl": 6531,
+      "ort": "Bernkastel-Kues",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06532",
+      "ortsnetzkennzahl": 6532,
+      "ort": "Zeltingen-Rachtig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06533",
+      "ortsnetzkennzahl": 6533,
+      "ort": "Morbach Hunsrück",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06534",
+      "ortsnetzkennzahl": 6534,
+      "ort": "Mülheim Mosel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06535",
+      "ortsnetzkennzahl": 6535,
+      "ort": "Osann-Monzel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06536",
+      "ortsnetzkennzahl": 6536,
+      "ort": "Kleinich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06541",
+      "ortsnetzkennzahl": 6541,
+      "ort": "Traben-Trarbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06542",
+      "ortsnetzkennzahl": 6542,
+      "ort": "Bullay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06543",
+      "ortsnetzkennzahl": 6543,
+      "ort": "Büchenbeuren",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06544",
+      "ortsnetzkennzahl": 6544,
+      "ort": "Rhaunen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06545",
+      "ortsnetzkennzahl": 6545,
+      "ort": "Blankenrath",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06550",
+      "ortsnetzkennzahl": 6550,
+      "ort": "Irrhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06551",
+      "ortsnetzkennzahl": 6551,
+      "ort": "Prüm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06552",
+      "ortsnetzkennzahl": 6552,
+      "ort": "Olzheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06553",
+      "ortsnetzkennzahl": 6553,
+      "ort": "Schönecken",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06554",
+      "ortsnetzkennzahl": 6554,
+      "ort": "Waxweiler",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06555",
+      "ortsnetzkennzahl": 6555,
+      "ort": "Bleialf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06556",
+      "ortsnetzkennzahl": 6556,
+      "ort": "Pronsfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06557",
+      "ortsnetzkennzahl": 6557,
+      "ort": "Hallschlag",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06558",
+      "ortsnetzkennzahl": 6558,
+      "ort": "Büdesheim Eifel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06559",
+      "ortsnetzkennzahl": 6559,
+      "ort": "Leidenborn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06561",
+      "ortsnetzkennzahl": 6561,
+      "ort": "Bitburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06562",
+      "ortsnetzkennzahl": 6562,
+      "ort": "Speicher",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06563",
+      "ortsnetzkennzahl": 6563,
+      "ort": "Kyllburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06564",
+      "ortsnetzkennzahl": 6564,
+      "ort": "Neuerburg Eifel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06565",
+      "ortsnetzkennzahl": 6565,
+      "ort": "Dudeldorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06566",
+      "ortsnetzkennzahl": 6566,
+      "ort": "Körperich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06567",
+      "ortsnetzkennzahl": 6567,
+      "ort": "Oberkail",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06568",
+      "ortsnetzkennzahl": 6568,
+      "ort": "Wolsfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06569",
+      "ortsnetzkennzahl": 6569,
+      "ort": "Bickendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06571",
+      "ortsnetzkennzahl": 6571,
+      "ort": "Wittlich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06572",
+      "ortsnetzkennzahl": 6572,
+      "ort": "Manderscheid Eifel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06573",
+      "ortsnetzkennzahl": 6573,
+      "ort": "Gillenfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06574",
+      "ortsnetzkennzahl": 6574,
+      "ort": "Hasborn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06575",
+      "ortsnetzkennzahl": 6575,
+      "ort": "Landscheid",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06578",
+      "ortsnetzkennzahl": 6578,
+      "ort": "Salmtal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06580",
+      "ortsnetzkennzahl": 6580,
+      "ort": "Zemmer",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06581",
+      "ortsnetzkennzahl": 6581,
+      "ort": "Saarburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06582",
+      "ortsnetzkennzahl": 6582,
+      "ort": "Freudenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06583",
+      "ortsnetzkennzahl": 6583,
+      "ort": "Palzem",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06584",
+      "ortsnetzkennzahl": 6584,
+      "ort": "Wellen Mosel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06585",
+      "ortsnetzkennzahl": 6585,
+      "ort": "Ralingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06586",
+      "ortsnetzkennzahl": 6586,
+      "ort": "Beuren Hochwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06587",
+      "ortsnetzkennzahl": 6587,
+      "ort": "Zerf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06588",
+      "ortsnetzkennzahl": 6588,
+      "ort": "Pluwig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06589",
+      "ortsnetzkennzahl": 6589,
+      "ort": "Kell am See",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06591",
+      "ortsnetzkennzahl": 6591,
+      "ort": "Gerolstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06592",
+      "ortsnetzkennzahl": 6592,
+      "ort": "Daun",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06593",
+      "ortsnetzkennzahl": 6593,
+      "ort": "Hillesheim Eifel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06594",
+      "ortsnetzkennzahl": 6594,
+      "ort": "Birresborn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06595",
+      "ortsnetzkennzahl": 6595,
+      "ort": "Dockweiler",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06596",
+      "ortsnetzkennzahl": 6596,
+      "ort": "Üdersdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06597",
+      "ortsnetzkennzahl": 6597,
+      "ort": "Jünkerath",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06599",
+      "ortsnetzkennzahl": 6599,
+      "ort": "Weidenbach b Gerolstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06620",
+      "ortsnetzkennzahl": 6620,
+      "ort": "Philippsthal Werra",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06621",
+      "ortsnetzkennzahl": 6621,
+      "ort": "Bad Hersfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06622",
+      "ortsnetzkennzahl": 6622,
+      "ort": "Bebra",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06623",
+      "ortsnetzkennzahl": 6623,
+      "ort": "Rotenburg a d Fulda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06624",
+      "ortsnetzkennzahl": 6624,
+      "ort": "Heringen Werra",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06625",
+      "ortsnetzkennzahl": 6625,
+      "ort": "Niederaula",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06626",
+      "ortsnetzkennzahl": 6626,
+      "ort": "Wildeck-Obersuhl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06627",
+      "ortsnetzkennzahl": 6627,
+      "ort": "Nentershausen Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06628",
+      "ortsnetzkennzahl": 6628,
+      "ort": "Oberaula",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06629",
+      "ortsnetzkennzahl": 6629,
+      "ort": "Schenklengsfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06630",
+      "ortsnetzkennzahl": 6630,
+      "ort": "Schwalmtal-Storndorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06631",
+      "ortsnetzkennzahl": 6631,
+      "ort": "Alsfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06633",
+      "ortsnetzkennzahl": 6633,
+      "ort": "Homberg Ohm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06634",
+      "ortsnetzkennzahl": 6634,
+      "ort": "Gemünden Felda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06635",
+      "ortsnetzkennzahl": 6635,
+      "ort": "Kirtorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06636",
+      "ortsnetzkennzahl": 6636,
+      "ort": "Romrod",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06637",
+      "ortsnetzkennzahl": 6637,
+      "ort": "Feldatal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06638",
+      "ortsnetzkennzahl": 6638,
+      "ort": "Schwalmtal-Renzendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06639",
+      "ortsnetzkennzahl": 6639,
+      "ort": "Ottrau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06641",
+      "ortsnetzkennzahl": 6641,
+      "ort": "Lauterbach Hessen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06642",
+      "ortsnetzkennzahl": 6642,
+      "ort": "Schlitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06643",
+      "ortsnetzkennzahl": 6643,
+      "ort": "Herbstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06644",
+      "ortsnetzkennzahl": 6644,
+      "ort": "Grebenhain",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06645",
+      "ortsnetzkennzahl": 6645,
+      "ort": "Ulrichstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06646",
+      "ortsnetzkennzahl": 6646,
+      "ort": "Grebenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06647",
+      "ortsnetzkennzahl": 6647,
+      "ort": "Herbstein-Stockhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06648",
+      "ortsnetzkennzahl": 6648,
+      "ort": "Bad Salzschlirf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06650",
+      "ortsnetzkennzahl": 6650,
+      "ort": "Hosenfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06651",
+      "ortsnetzkennzahl": 6651,
+      "ort": "Rasdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06652",
+      "ortsnetzkennzahl": 6652,
+      "ort": "Hünfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06653",
+      "ortsnetzkennzahl": 6653,
+      "ort": "Burghaun",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06654",
+      "ortsnetzkennzahl": 6654,
+      "ort": "Gersfeld Rhön",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06655",
+      "ortsnetzkennzahl": 6655,
+      "ort": "Neuhof Kr Fulda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06656",
+      "ortsnetzkennzahl": 6656,
+      "ort": "Ebersburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06657",
+      "ortsnetzkennzahl": 6657,
+      "ort": "Hofbieber",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06658",
+      "ortsnetzkennzahl": 6658,
+      "ort": "Poppenhausen Wasserkuppe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06659",
+      "ortsnetzkennzahl": 6659,
+      "ort": "Eichenzell",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06660",
+      "ortsnetzkennzahl": 6660,
+      "ort": "Steinau-Marjoss",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06661",
+      "ortsnetzkennzahl": 6661,
+      "ort": "Schlüchtern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06663",
+      "ortsnetzkennzahl": 6663,
+      "ort": "Steinau an der Straße",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06664",
+      "ortsnetzkennzahl": 6664,
+      "ort": "Sinntal-Sterbfritz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06665",
+      "ortsnetzkennzahl": 6665,
+      "ort": "Sinntal-Altengronau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06666",
+      "ortsnetzkennzahl": 6666,
+      "ort": "Freiensteinau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06667",
+      "ortsnetzkennzahl": 6667,
+      "ort": "Steinau-Ulmbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06668",
+      "ortsnetzkennzahl": 6668,
+      "ort": "Birstein-Lichenroth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06669",
+      "ortsnetzkennzahl": 6669,
+      "ort": "Neuhof-Hauswurz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06670",
+      "ortsnetzkennzahl": 6670,
+      "ort": "Ludwigsau Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06672",
+      "ortsnetzkennzahl": 6672,
+      "ort": "Eiterfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06673",
+      "ortsnetzkennzahl": 6673,
+      "ort": "Haunetal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06674",
+      "ortsnetzkennzahl": 6674,
+      "ort": "Friedewald Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06675",
+      "ortsnetzkennzahl": 6675,
+      "ort": "Breitenbach a Herzberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06676",
+      "ortsnetzkennzahl": 6676,
+      "ort": "Hohenroda Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06677",
+      "ortsnetzkennzahl": 6677,
+      "ort": "Neuenstein Hess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06678",
+      "ortsnetzkennzahl": 6678,
+      "ort": "Wildeck-Hönebach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06681",
+      "ortsnetzkennzahl": 6681,
+      "ort": "Hilders",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06682",
+      "ortsnetzkennzahl": 6682,
+      "ort": "Tann Rhön",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06683",
+      "ortsnetzkennzahl": 6683,
+      "ort": "Ehrenberg Rhön",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06684",
+      "ortsnetzkennzahl": 6684,
+      "ort": "Hofbieber-Schwarzbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06691",
+      "ortsnetzkennzahl": 6691,
+      "ort": "Schwalmstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06692",
+      "ortsnetzkennzahl": 6692,
+      "ort": "Neustadt Hessen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06693",
+      "ortsnetzkennzahl": 6693,
+      "ort": "Neuental",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06694",
+      "ortsnetzkennzahl": 6694,
+      "ort": "Neukirchen Knüll",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06695",
+      "ortsnetzkennzahl": 6695,
+      "ort": "Jesberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06696",
+      "ortsnetzkennzahl": 6696,
+      "ort": "Gilserberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06697",
+      "ortsnetzkennzahl": 6697,
+      "ort": "Willingshausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06698",
+      "ortsnetzkennzahl": 6698,
+      "ort": "Schrecksbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06701",
+      "ortsnetzkennzahl": 6701,
+      "ort": "Sprendlingen Rheinhess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06703",
+      "ortsnetzkennzahl": 6703,
+      "ort": "Wöllstein Rheinhess",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06704",
+      "ortsnetzkennzahl": 6704,
+      "ort": "Langenlonsheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06706",
+      "ortsnetzkennzahl": 6706,
+      "ort": "Wallhausen Nahe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06707",
+      "ortsnetzkennzahl": 6707,
+      "ort": "Windesheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06708",
+      "ortsnetzkennzahl": 6708,
+      "ort": "Bad Münster am Stein-Ebernburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06709",
+      "ortsnetzkennzahl": 6709,
+      "ort": "Fürfeld Kr Bad Kreuznach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06721",
+      "ortsnetzkennzahl": 6721,
+      "ort": "Bingen am Rhein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06722",
+      "ortsnetzkennzahl": 6722,
+      "ort": "Rüdesheim am Rhein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06723",
+      "ortsnetzkennzahl": 6723,
+      "ort": "Oestrich-Winkel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06724",
+      "ortsnetzkennzahl": 6724,
+      "ort": "Stromberg Hunsrück",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06725",
+      "ortsnetzkennzahl": 6725,
+      "ort": "Gau-Algesheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06726",
+      "ortsnetzkennzahl": 6726,
+      "ort": "Lorch Rheingau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06727",
+      "ortsnetzkennzahl": 6727,
+      "ort": "Gensingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06728",
+      "ortsnetzkennzahl": 6728,
+      "ort": "Ober-Hilbersheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06731",
+      "ortsnetzkennzahl": 6731,
+      "ort": "Alzey",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06732",
+      "ortsnetzkennzahl": 6732,
+      "ort": "Wörrstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06733",
+      "ortsnetzkennzahl": 6733,
+      "ort": "Gau-Odernheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06734",
+      "ortsnetzkennzahl": 6734,
+      "ort": "Flonheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06735",
+      "ortsnetzkennzahl": 6735,
+      "ort": "Eppelsheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06736",
+      "ortsnetzkennzahl": 6736,
+      "ort": "Bechenheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06737",
+      "ortsnetzkennzahl": 6737,
+      "ort": "Köngernheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06741",
+      "ortsnetzkennzahl": 6741,
+      "ort": "St Goar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06742",
+      "ortsnetzkennzahl": 6742,
+      "ort": "Boppard",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06743",
+      "ortsnetzkennzahl": 6743,
+      "ort": "Bacharach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06744",
+      "ortsnetzkennzahl": 6744,
+      "ort": "Oberwesel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06745",
+      "ortsnetzkennzahl": 6745,
+      "ort": "Gondershausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06746",
+      "ortsnetzkennzahl": 6746,
+      "ort": "Pfalzfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06747",
+      "ortsnetzkennzahl": 6747,
+      "ort": "Emmelshausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06751",
+      "ortsnetzkennzahl": 6751,
+      "ort": "Bad Sobernheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06752",
+      "ortsnetzkennzahl": 6752,
+      "ort": "Kirn Nahe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06753",
+      "ortsnetzkennzahl": 6753,
+      "ort": "Meisenheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06754",
+      "ortsnetzkennzahl": 6754,
+      "ort": "Martinstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06755",
+      "ortsnetzkennzahl": 6755,
+      "ort": "Odernheim am Glan",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06756",
+      "ortsnetzkennzahl": 6756,
+      "ort": "Winterbach Soonwald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06757",
+      "ortsnetzkennzahl": 6757,
+      "ort": "Becherbach bei Kirn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06758",
+      "ortsnetzkennzahl": 6758,
+      "ort": "Waldböckelheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06761",
+      "ortsnetzkennzahl": 6761,
+      "ort": "Simmern Hunsrück",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06762",
+      "ortsnetzkennzahl": 6762,
+      "ort": "Kastellaun",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06763",
+      "ortsnetzkennzahl": 6763,
+      "ort": "Kirchberg Hunsrück",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06764",
+      "ortsnetzkennzahl": 6764,
+      "ort": "Rheinböllen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06765",
+      "ortsnetzkennzahl": 6765,
+      "ort": "Gemünden Hunsrück",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06766",
+      "ortsnetzkennzahl": 6766,
+      "ort": "Kisselbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06771",
+      "ortsnetzkennzahl": 6771,
+      "ort": "St Goarshausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06772",
+      "ortsnetzkennzahl": 6772,
+      "ort": "Nastätten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06773",
+      "ortsnetzkennzahl": 6773,
+      "ort": "Kamp-Bornhofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06774",
+      "ortsnetzkennzahl": 6774,
+      "ort": "Kaub",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06775",
+      "ortsnetzkennzahl": 6775,
+      "ort": "Strüth Taunus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06776",
+      "ortsnetzkennzahl": 6776,
+      "ort": "Dachsenhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06781",
+      "ortsnetzkennzahl": 6781,
+      "ort": "Idar-Oberstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06782",
+      "ortsnetzkennzahl": 6782,
+      "ort": "Birkenfeld Nahe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06783",
+      "ortsnetzkennzahl": 6783,
+      "ort": "Baumholder",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06784",
+      "ortsnetzkennzahl": 6784,
+      "ort": "Weierbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06785",
+      "ortsnetzkennzahl": 6785,
+      "ort": "Herrstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06786",
+      "ortsnetzkennzahl": 6786,
+      "ort": "Kempfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06787",
+      "ortsnetzkennzahl": 6787,
+      "ort": "Niederbrombach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06788",
+      "ortsnetzkennzahl": 6788,
+      "ort": "Sien",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06789",
+      "ortsnetzkennzahl": 6789,
+      "ort": "Heimbach Nahe",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06802",
+      "ortsnetzkennzahl": 6802,
+      "ort": "Völklingen-Lauterbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06803",
+      "ortsnetzkennzahl": 6803,
+      "ort": "Mandelbachtal-Ommersheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06804",
+      "ortsnetzkennzahl": 6804,
+      "ort": "Mandelbachtal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06805",
+      "ortsnetzkennzahl": 6805,
+      "ort": "Kleinblittersdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06806",
+      "ortsnetzkennzahl": 6806,
+      "ort": "Heusweiler",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06809",
+      "ortsnetzkennzahl": 6809,
+      "ort": "Grossrosseln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06821",
+      "ortsnetzkennzahl": 6821,
+      "ort": "Neunkirchen Saar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06824",
+      "ortsnetzkennzahl": 6824,
+      "ort": "Ottweiler",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06825",
+      "ortsnetzkennzahl": 6825,
+      "ort": "Illingen Saar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06826",
+      "ortsnetzkennzahl": 6826,
+      "ort": "Bexbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06827",
+      "ortsnetzkennzahl": 6827,
+      "ort": "Eppelborn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06831",
+      "ortsnetzkennzahl": 6831,
+      "ort": "Saarlouis",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06832",
+      "ortsnetzkennzahl": 6832,
+      "ort": "Beckingen-Reimsbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06833",
+      "ortsnetzkennzahl": 6833,
+      "ort": "Rehlingen-Siersburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06834",
+      "ortsnetzkennzahl": 6834,
+      "ort": "Bous",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06835",
+      "ortsnetzkennzahl": 6835,
+      "ort": "Beckingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06836",
+      "ortsnetzkennzahl": 6836,
+      "ort": "Überherrn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06837",
+      "ortsnetzkennzahl": 6837,
+      "ort": "Wallerfangen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06838",
+      "ortsnetzkennzahl": 6838,
+      "ort": "Saarwellingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06841",
+      "ortsnetzkennzahl": 6841,
+      "ort": "Homburg Saar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06842",
+      "ortsnetzkennzahl": 6842,
+      "ort": "Blieskastel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06843",
+      "ortsnetzkennzahl": 6843,
+      "ort": "Gersheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06844",
+      "ortsnetzkennzahl": 6844,
+      "ort": "Blieskastel-Altheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06848",
+      "ortsnetzkennzahl": 6848,
+      "ort": "Homburg-Einöd",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06849",
+      "ortsnetzkennzahl": 6849,
+      "ort": "Kirkel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06851",
+      "ortsnetzkennzahl": 6851,
+      "ort": "St Wendel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06852",
+      "ortsnetzkennzahl": 6852,
+      "ort": "Nohfelden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06853",
+      "ortsnetzkennzahl": 6853,
+      "ort": "Marpingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06854",
+      "ortsnetzkennzahl": 6854,
+      "ort": "Oberthal Saar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06855",
+      "ortsnetzkennzahl": 6855,
+      "ort": "Freisen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06856",
+      "ortsnetzkennzahl": 6856,
+      "ort": "St Wendel-Niederkirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06857",
+      "ortsnetzkennzahl": 6857,
+      "ort": "Namborn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06858",
+      "ortsnetzkennzahl": 6858,
+      "ort": "Ottweiler-Fürth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06861",
+      "ortsnetzkennzahl": 6861,
+      "ort": "Merzig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06864",
+      "ortsnetzkennzahl": 6864,
+      "ort": "Mettlach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06865",
+      "ortsnetzkennzahl": 6865,
+      "ort": "Mettlach-Orscholz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06866",
+      "ortsnetzkennzahl": 6866,
+      "ort": "Perl-Nennig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06867",
+      "ortsnetzkennzahl": 6867,
+      "ort": "Perl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06868",
+      "ortsnetzkennzahl": 6868,
+      "ort": "Mettlach-Tünsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06869",
+      "ortsnetzkennzahl": 6869,
+      "ort": "Merzig-Silwingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06871",
+      "ortsnetzkennzahl": 6871,
+      "ort": "Wadern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06872",
+      "ortsnetzkennzahl": 6872,
+      "ort": "Losheim am See",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06873",
+      "ortsnetzkennzahl": 6873,
+      "ort": "Nonnweiler",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06874",
+      "ortsnetzkennzahl": 6874,
+      "ort": "Wadern-Nunkirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06875",
+      "ortsnetzkennzahl": 6875,
+      "ort": "Nonnweiler-Primstal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06876",
+      "ortsnetzkennzahl": 6876,
+      "ort": "Weiskirchen Saar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06881",
+      "ortsnetzkennzahl": 6881,
+      "ort": "Lebach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06887",
+      "ortsnetzkennzahl": 6887,
+      "ort": "Schmelz Saar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06888",
+      "ortsnetzkennzahl": 6888,
+      "ort": "Lebach-Steinbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06893",
+      "ortsnetzkennzahl": 6893,
+      "ort": "Saarbrücken-Ensheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06894",
+      "ortsnetzkennzahl": 6894,
+      "ort": "St Ingbert",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06897",
+      "ortsnetzkennzahl": 6897,
+      "ort": "Sulzbach Saar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "06898",
+      "ortsnetzkennzahl": 6898,
+      "ort": "Völklingen",
+      "aktiv": true
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Vorwahlen — Bereich 6 (führende Ziffer 6) - Kostenloser Download",
+    "description": "Ortsnetzkennzahlen mit führender Ziffer 6 aus dem deutschen Nummerierungsbereich. Geografischer Schwerpunkt: Frankfurt am Main (069), Hessen, Rheinland-Pfalz, Saarland. Insgesamt 587 Einträge. Enthält 587 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Deutsche Vorwahlen — Bereich 6 (führende Ziffer 6) | ListBase",
+    "seo_description": "Herunterladen Deutsche Vorwahlen — Bereich 6 (führende Ziffer 6) — 587 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 587 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

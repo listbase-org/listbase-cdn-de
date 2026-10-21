@@ -1,0 +1,289 @@
+{
+  "id": "de-bundeslaender",
+  "name": "Bundesländer Deutschland — die 16 Länder",
+  "title": "Bundesländer Deutschland — die 16 Länder",
+  "description": "Die 16 Bundesländer der Bundesrepublik Deutschland mit ISO-3166-2-Code, Hauptstadt, AGS-Präfix (amtlicher Gemeindeschlüssel) und Stadtstaat-Flag. PLZ-/Ort-/Landkreis-Zähler sind aus zuordnung_plz_ort.csv abgeleitet (Quelle: suche-postleitzahl.org / OSM).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "ags_prefix",
+      "label": "Ags Prefix",
+      "type": "number"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "is_city_state",
+      "label": "Is City State",
+      "type": "boolean"
+    },
+    {
+      "key": "plz_count",
+      "label": "Plz Count",
+      "type": "number"
+    },
+    {
+      "key": "ort_count",
+      "label": "Ort Count",
+      "type": "number"
+    },
+    {
+      "key": "landkreis_count",
+      "label": "Landkreis Count",
+      "type": "number"
+    },
+    {
+      "key": "plz_ort_row_count",
+      "label": "Plz Ort Row Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Baden-Württemberg",
+      "name_en": "Baden-Württemberg",
+      "slug": "baden-wuerttemberg",
+      "iso_3166_2": "DE-BW",
+      "ags_prefix": "08",
+      "capital": "Stuttgart",
+      "is_city_state": false,
+      "plz_count": 1197,
+      "ort_count": 1092,
+      "landkreis_count": 35,
+      "plz_ort_row_count": 1303
+    },
+    {
+      "name": "Bayern",
+      "name_en": "Bavaria",
+      "slug": "bayern",
+      "iso_3166_2": "DE-BY",
+      "ags_prefix": "09",
+      "capital": "München",
+      "is_city_state": false,
+      "plz_count": 2065,
+      "ort_count": 2008,
+      "landkreis_count": 71,
+      "plz_ort_row_count": 2272
+    },
+    {
+      "name": "Berlin",
+      "name_en": "Berlin",
+      "slug": "berlin",
+      "iso_3166_2": "DE-BE",
+      "ags_prefix": "11",
+      "capital": "Berlin",
+      "is_city_state": true,
+      "plz_count": 190,
+      "ort_count": 1,
+      "landkreis_count": 0,
+      "plz_ort_row_count": 190
+    },
+    {
+      "name": "Brandenburg",
+      "name_en": "Brandenburg",
+      "slug": "brandenburg",
+      "iso_3166_2": "DE-BB",
+      "ags_prefix": "12",
+      "capital": "Potsdam",
+      "is_city_state": false,
+      "plz_count": 215,
+      "ort_count": 411,
+      "landkreis_count": 14,
+      "plz_ort_row_count": 471
+    },
+    {
+      "name": "Bremen",
+      "name_en": "Bremen",
+      "slug": "bremen",
+      "iso_3166_2": "DE-HB",
+      "ags_prefix": "04",
+      "capital": "Bremen",
+      "is_city_state": true,
+      "plz_count": 40,
+      "ort_count": 2,
+      "landkreis_count": 0,
+      "plz_ort_row_count": 41
+    },
+    {
+      "name": "Hamburg",
+      "name_en": "Hamburg",
+      "slug": "hamburg",
+      "iso_3166_2": "DE-HH",
+      "ags_prefix": "02",
+      "capital": "Hamburg",
+      "is_city_state": true,
+      "plz_count": 101,
+      "ort_count": 1,
+      "landkreis_count": 0,
+      "plz_ort_row_count": 101
+    },
+    {
+      "name": "Hessen",
+      "name_en": "Hesse",
+      "slug": "hessen",
+      "iso_3166_2": "DE-HE",
+      "ags_prefix": "06",
+      "capital": "Wiesbaden",
+      "is_city_state": false,
+      "plz_count": 548,
+      "ort_count": 420,
+      "landkreis_count": 21,
+      "plz_ort_row_count": 559
+    },
+    {
+      "name": "Mecklenburg-Vorpommern",
+      "name_en": "Mecklenburg-Vorpommern",
+      "slug": "mecklenburg-vorpommern",
+      "iso_3166_2": "DE-MV",
+      "ags_prefix": "13",
+      "capital": "Schwerin",
+      "is_city_state": false,
+      "plz_count": 192,
+      "ort_count": 712,
+      "landkreis_count": 6,
+      "plz_ort_row_count": 774
+    },
+    {
+      "name": "Niedersachsen",
+      "name_en": "Lower Saxony",
+      "slug": "niedersachsen",
+      "iso_3166_2": "DE-NI",
+      "ags_prefix": "03",
+      "capital": "Hannover",
+      "is_city_state": false,
+      "plz_count": 796,
+      "ort_count": 930,
+      "landkreis_count": 37,
+      "plz_ort_row_count": 1090
+    },
+    {
+      "name": "Nordrhein-Westfalen",
+      "name_en": "North Rhine-Westphalia",
+      "slug": "nordrhein-westfalen",
+      "iso_3166_2": "DE-NW",
+      "ags_prefix": "05",
+      "capital": "Düsseldorf",
+      "is_city_state": false,
+      "plz_count": 865,
+      "ort_count": 396,
+      "landkreis_count": 31,
+      "plz_ort_row_count": 872
+    },
+    {
+      "name": "Rheinland-Pfalz",
+      "name_en": "Rhineland-Palatinate",
+      "slug": "rheinland-pfalz",
+      "iso_3166_2": "DE-RP",
+      "ags_prefix": "07",
+      "capital": "Mainz",
+      "is_city_state": false,
+      "plz_count": 660,
+      "ort_count": 2236,
+      "landkreis_count": 24,
+      "plz_ort_row_count": 2383
+    },
+    {
+      "name": "Saarland",
+      "name_en": "Saarland",
+      "slug": "saarland",
+      "iso_3166_2": "DE-SL",
+      "ags_prefix": "10",
+      "capital": "Saarbrücken",
+      "is_city_state": false,
+      "plz_count": 69,
+      "ort_count": 52,
+      "landkreis_count": 6,
+      "plz_ort_row_count": 69
+    },
+    {
+      "name": "Sachsen",
+      "name_en": "Saxony",
+      "slug": "sachsen",
+      "iso_3166_2": "DE-SN",
+      "ags_prefix": "14",
+      "capital": "Dresden",
+      "is_city_state": false,
+      "plz_count": 384,
+      "ort_count": 417,
+      "landkreis_count": 10,
+      "plz_ort_row_count": 540
+    },
+    {
+      "name": "Sachsen-Anhalt",
+      "name_en": "Saxony-Anhalt",
+      "slug": "sachsen-anhalt",
+      "iso_3166_2": "DE-ST",
+      "ags_prefix": "15",
+      "capital": "Magdeburg",
+      "is_city_state": false,
+      "plz_count": 202,
+      "ort_count": 218,
+      "landkreis_count": 11,
+      "plz_ort_row_count": 324
+    },
+    {
+      "name": "Schleswig-Holstein",
+      "name_en": "Schleswig-Holstein",
+      "slug": "schleswig-holstein",
+      "iso_3166_2": "DE-SH",
+      "ags_prefix": "01",
+      "capital": "Kiel",
+      "is_city_state": false,
+      "plz_count": 447,
+      "ort_count": 1077,
+      "landkreis_count": 11,
+      "plz_ort_row_count": 1200
+    },
+    {
+      "name": "Thüringen",
+      "name_en": "Thuringia",
+      "slug": "thueringen",
+      "iso_3166_2": "DE-TH",
+      "ags_prefix": "16",
+      "capital": "Erfurt",
+      "is_city_state": false,
+      "plz_count": 215,
+      "ort_count": 621,
+      "landkreis_count": 17,
+      "plz_ort_row_count": 665
+    }
+  ],
+  "meta": {
+    "title": "Bundesländer Deutschland — die 16 Länder - Kostenloser Download",
+    "description": "Die 16 Bundesländer der Bundesrepublik Deutschland mit ISO-3166-2-Code, Hauptstadt, AGS-Präfix (amtlicher Gemeindeschlüssel) und Stadtstaat-Flag. PLZ-/Ort-/Landkreis-Zähler sind aus zuordnung_plz_ort.csv abgeleitet (Quelle: suche-postleitzahl.org / OSM). Enthält 16 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Bundesländer Deutschland — die 16 Länder | ListBase",
+    "seo_description": "Herunterladen Bundesländer Deutschland — die 16 Länder — 16 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 16 Datensätze / 11 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

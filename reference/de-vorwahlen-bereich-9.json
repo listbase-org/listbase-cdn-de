@@ -1,0 +1,3376 @@
+{
+  "id": "de-vorwahlen-bereich-9",
+  "name": "Deutsche Vorwahlen — Bereich 9 (führende Ziffer 9)",
+  "title": "Deutsche Vorwahlen — Bereich 9 (führende Ziffer 9)",
+  "description": "Ortsnetzkennzahlen mit führender Ziffer 9 aus dem deutschen Nummerierungsbereich. Geografischer Schwerpunkt: Nürnberg (0911), Bayern-Nord (Mittelfranken, Oberfranken, Unterfranken, Oberpfalz). Insgesamt 555 Einträge.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 555,
+  "columns": [
+    {
+      "key": "vorwahl",
+      "label": "Vorwahl",
+      "type": "number"
+    },
+    {
+      "key": "ortsnetzkennzahl",
+      "label": "Ortsnetzkennzahl",
+      "type": "number"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "aktiv",
+      "label": "Aktiv",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "vorwahl": "0906",
+      "ortsnetzkennzahl": 906,
+      "ort": "Donauwörth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0911",
+      "ortsnetzkennzahl": 911,
+      "ort": "Nürnberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0921",
+      "ortsnetzkennzahl": 921,
+      "ort": "Bayreuth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0931",
+      "ortsnetzkennzahl": 931,
+      "ort": "Würzburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0941",
+      "ortsnetzkennzahl": 941,
+      "ort": "Regensburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0951",
+      "ortsnetzkennzahl": 951,
+      "ort": "Bamberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0961",
+      "ortsnetzkennzahl": 961,
+      "ort": "Weiden i d Opf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0971",
+      "ortsnetzkennzahl": 971,
+      "ort": "Bad Kissingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0981",
+      "ortsnetzkennzahl": 981,
+      "ort": "Ansbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "0991",
+      "ortsnetzkennzahl": 991,
+      "ort": "Deggendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09070",
+      "ortsnetzkennzahl": 9070,
+      "ort": "Tapfheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09071",
+      "ortsnetzkennzahl": 9071,
+      "ort": "Dillingen a d Donau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09072",
+      "ortsnetzkennzahl": 9072,
+      "ort": "Lauingen Donau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09073",
+      "ortsnetzkennzahl": 9073,
+      "ort": "Gundelfingen a d Donau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09074",
+      "ortsnetzkennzahl": 9074,
+      "ort": "Höchstädt a d Donau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09075",
+      "ortsnetzkennzahl": 9075,
+      "ort": "Glött",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09076",
+      "ortsnetzkennzahl": 9076,
+      "ort": "Wittislingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09077",
+      "ortsnetzkennzahl": 9077,
+      "ort": "Bachhagel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09078",
+      "ortsnetzkennzahl": 9078,
+      "ort": "Mertingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09080",
+      "ortsnetzkennzahl": 9080,
+      "ort": "Harburg Schwaben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09081",
+      "ortsnetzkennzahl": 9081,
+      "ort": "Nördlingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09082",
+      "ortsnetzkennzahl": 9082,
+      "ort": "Oettingen i Bay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09083",
+      "ortsnetzkennzahl": 9083,
+      "ort": "Möttingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09084",
+      "ortsnetzkennzahl": 9084,
+      "ort": "Bissingen Schwab",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09085",
+      "ortsnetzkennzahl": 9085,
+      "ort": "Alerheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09086",
+      "ortsnetzkennzahl": 9086,
+      "ort": "Fremdingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09087",
+      "ortsnetzkennzahl": 9087,
+      "ort": "Marktoffingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09088",
+      "ortsnetzkennzahl": 9088,
+      "ort": "Mönchsdeggingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09089",
+      "ortsnetzkennzahl": 9089,
+      "ort": "Bissingen-Unterringingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09090",
+      "ortsnetzkennzahl": 9090,
+      "ort": "Rain Lech",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09091",
+      "ortsnetzkennzahl": 9091,
+      "ort": "Monheim Schwab",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09092",
+      "ortsnetzkennzahl": 9092,
+      "ort": "Wemding",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09093",
+      "ortsnetzkennzahl": 9093,
+      "ort": "Polsingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09094",
+      "ortsnetzkennzahl": 9094,
+      "ort": "Tagmersheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09097",
+      "ortsnetzkennzahl": 9097,
+      "ort": "Marxheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09099",
+      "ortsnetzkennzahl": 9099,
+      "ort": "Kaisheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09101",
+      "ortsnetzkennzahl": 9101,
+      "ort": "Langenzenn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09102",
+      "ortsnetzkennzahl": 9102,
+      "ort": "Wilhermsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09103",
+      "ortsnetzkennzahl": 9103,
+      "ort": "Cadolzburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09104",
+      "ortsnetzkennzahl": 9104,
+      "ort": "Emskirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09105",
+      "ortsnetzkennzahl": 9105,
+      "ort": "Grosshabersdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09106",
+      "ortsnetzkennzahl": 9106,
+      "ort": "Markt Erlbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09107",
+      "ortsnetzkennzahl": 9107,
+      "ort": "Trautskirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09120",
+      "ortsnetzkennzahl": 9120,
+      "ort": "Leinburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09122",
+      "ortsnetzkennzahl": 9122,
+      "ort": "Schwabach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09123",
+      "ortsnetzkennzahl": 9123,
+      "ort": "Lauf a d Pegnitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09126",
+      "ortsnetzkennzahl": 9126,
+      "ort": "Eckental",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09127",
+      "ortsnetzkennzahl": 9127,
+      "ort": "Rosstal Mittelfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09128",
+      "ortsnetzkennzahl": 9128,
+      "ort": "Feucht",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09129",
+      "ortsnetzkennzahl": 9129,
+      "ort": "Wendelstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09131",
+      "ortsnetzkennzahl": 9131,
+      "ort": "Erlangen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09132",
+      "ortsnetzkennzahl": 9132,
+      "ort": "Herzogenaurach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09133",
+      "ortsnetzkennzahl": 9133,
+      "ort": "Baiersdorf Mittelfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09134",
+      "ortsnetzkennzahl": 9134,
+      "ort": "Neunkirchen a Brand",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09135",
+      "ortsnetzkennzahl": 9135,
+      "ort": "Heßdorf Mittelfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09141",
+      "ortsnetzkennzahl": 9141,
+      "ort": "Weißenburg i Bay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09142",
+      "ortsnetzkennzahl": 9142,
+      "ort": "Treuchtlingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09143",
+      "ortsnetzkennzahl": 9143,
+      "ort": "Pappenheim Mittelfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09144",
+      "ortsnetzkennzahl": 9144,
+      "ort": "Pleinfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09145",
+      "ortsnetzkennzahl": 9145,
+      "ort": "Solnhofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09146",
+      "ortsnetzkennzahl": 9146,
+      "ort": "Markt Berolzheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09147",
+      "ortsnetzkennzahl": 9147,
+      "ort": "Nennslingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09148",
+      "ortsnetzkennzahl": 9148,
+      "ort": "Ettenstatt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09149",
+      "ortsnetzkennzahl": 9149,
+      "ort": "Weissenburg-Suffersheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09151",
+      "ortsnetzkennzahl": 9151,
+      "ort": "Hersbruck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09152",
+      "ortsnetzkennzahl": 9152,
+      "ort": "Hartenstein Mittelfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09153",
+      "ortsnetzkennzahl": 9153,
+      "ort": "Schnaittach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09154",
+      "ortsnetzkennzahl": 9154,
+      "ort": "Pommelsbrunn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09155",
+      "ortsnetzkennzahl": 9155,
+      "ort": "Simmelsdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09156",
+      "ortsnetzkennzahl": 9156,
+      "ort": "Neuhaus a d Pegnitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09157",
+      "ortsnetzkennzahl": 9157,
+      "ort": "Alfeld Mittelfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09158",
+      "ortsnetzkennzahl": 9158,
+      "ort": "Offenhausen Mittelfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09161",
+      "ortsnetzkennzahl": 9161,
+      "ort": "Neustadt a d Aisch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09162",
+      "ortsnetzkennzahl": 9162,
+      "ort": "Scheinfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09163",
+      "ortsnetzkennzahl": 9163,
+      "ort": "Dachsbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09164",
+      "ortsnetzkennzahl": 9164,
+      "ort": "Langenfeld Mittelfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09165",
+      "ortsnetzkennzahl": 9165,
+      "ort": "Sugenheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09166",
+      "ortsnetzkennzahl": 9166,
+      "ort": "Münchsteinach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09167",
+      "ortsnetzkennzahl": 9167,
+      "ort": "Oberscheinfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09170",
+      "ortsnetzkennzahl": 9170,
+      "ort": "Schwanstetten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09171",
+      "ortsnetzkennzahl": 9171,
+      "ort": "Roth Mittelfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09172",
+      "ortsnetzkennzahl": 9172,
+      "ort": "Georgensgmünd",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09173",
+      "ortsnetzkennzahl": 9173,
+      "ort": "Thalmässing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09174",
+      "ortsnetzkennzahl": 9174,
+      "ort": "Hilpoltstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09175",
+      "ortsnetzkennzahl": 9175,
+      "ort": "Spalt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09176",
+      "ortsnetzkennzahl": 9176,
+      "ort": "Allersberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09177",
+      "ortsnetzkennzahl": 9177,
+      "ort": "Heideck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09178",
+      "ortsnetzkennzahl": 9178,
+      "ort": "Abenberg Mittelfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09179",
+      "ortsnetzkennzahl": 9179,
+      "ort": "Freystadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09180",
+      "ortsnetzkennzahl": 9180,
+      "ort": "Pyrbaum",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09181",
+      "ortsnetzkennzahl": 9181,
+      "ort": "Neumarkt i d Opf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09182",
+      "ortsnetzkennzahl": 9182,
+      "ort": "Velburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09183",
+      "ortsnetzkennzahl": 9183,
+      "ort": "Burgthann",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09184",
+      "ortsnetzkennzahl": 9184,
+      "ort": "Deining Oberpf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09185",
+      "ortsnetzkennzahl": 9185,
+      "ort": "Mühlhausen Oberpf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09186",
+      "ortsnetzkennzahl": 9186,
+      "ort": "Lauterhofen Oberpf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09187",
+      "ortsnetzkennzahl": 9187,
+      "ort": "Altdorf b Nürnberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09188",
+      "ortsnetzkennzahl": 9188,
+      "ort": "Postbauer-Heng",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09189",
+      "ortsnetzkennzahl": 9189,
+      "ort": "Berg b Neumarkt i d Opf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09190",
+      "ortsnetzkennzahl": 9190,
+      "ort": "Heroldsbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09191",
+      "ortsnetzkennzahl": 9191,
+      "ort": "Forchheim Oberfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09192",
+      "ortsnetzkennzahl": 9192,
+      "ort": "Gräfenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09193",
+      "ortsnetzkennzahl": 9193,
+      "ort": "Höchstadt a d Aisch",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09194",
+      "ortsnetzkennzahl": 9194,
+      "ort": "Ebermannstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09195",
+      "ortsnetzkennzahl": 9195,
+      "ort": "Adelsdorf Mittelfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09196",
+      "ortsnetzkennzahl": 9196,
+      "ort": "Wiesenttal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09197",
+      "ortsnetzkennzahl": 9197,
+      "ort": "Egloffstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09198",
+      "ortsnetzkennzahl": 9198,
+      "ort": "Heiligenstadt i Ofr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09199",
+      "ortsnetzkennzahl": 9199,
+      "ort": "Kunreuth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09201",
+      "ortsnetzkennzahl": 9201,
+      "ort": "Gesees",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09202",
+      "ortsnetzkennzahl": 9202,
+      "ort": "Waischenfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09203",
+      "ortsnetzkennzahl": 9203,
+      "ort": "Neudrossenfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09204",
+      "ortsnetzkennzahl": 9204,
+      "ort": "Plankenfels",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09205",
+      "ortsnetzkennzahl": 9205,
+      "ort": "Vorbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09206",
+      "ortsnetzkennzahl": 9206,
+      "ort": "Mistelgau-Obernsees",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09207",
+      "ortsnetzkennzahl": 9207,
+      "ort": "Königsfeld Oberfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09208",
+      "ortsnetzkennzahl": 9208,
+      "ort": "Bindlach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09209",
+      "ortsnetzkennzahl": 9209,
+      "ort": "Emtmannsberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09220",
+      "ortsnetzkennzahl": 9220,
+      "ort": "Kasendorf-Azendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09221",
+      "ortsnetzkennzahl": 9221,
+      "ort": "Kulmbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09222",
+      "ortsnetzkennzahl": 9222,
+      "ort": "Presseck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09223",
+      "ortsnetzkennzahl": 9223,
+      "ort": "Rugendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09225",
+      "ortsnetzkennzahl": 9225,
+      "ort": "Stadtsteinach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09227",
+      "ortsnetzkennzahl": 9227,
+      "ort": "Neuenmarkt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09228",
+      "ortsnetzkennzahl": 9228,
+      "ort": "Thurnau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09229",
+      "ortsnetzkennzahl": 9229,
+      "ort": "Mainleus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09231",
+      "ortsnetzkennzahl": 9231,
+      "ort": "Marktredwitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09232",
+      "ortsnetzkennzahl": 9232,
+      "ort": "Wunsiedel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09233",
+      "ortsnetzkennzahl": 9233,
+      "ort": "Arzberg Oberfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09234",
+      "ortsnetzkennzahl": 9234,
+      "ort": "Neusorg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09235",
+      "ortsnetzkennzahl": 9235,
+      "ort": "Thierstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09236",
+      "ortsnetzkennzahl": 9236,
+      "ort": "Nagel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09238",
+      "ortsnetzkennzahl": 9238,
+      "ort": "Röslau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09241",
+      "ortsnetzkennzahl": 9241,
+      "ort": "Pegnitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09242",
+      "ortsnetzkennzahl": 9242,
+      "ort": "Gößweinstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09243",
+      "ortsnetzkennzahl": 9243,
+      "ort": "Pottenstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09244",
+      "ortsnetzkennzahl": 9244,
+      "ort": "Betzenstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09245",
+      "ortsnetzkennzahl": 9245,
+      "ort": "Obertrubach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09246",
+      "ortsnetzkennzahl": 9246,
+      "ort": "Pegnitz-Trockau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09251",
+      "ortsnetzkennzahl": 9251,
+      "ort": "Münchberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09252",
+      "ortsnetzkennzahl": 9252,
+      "ort": "Helmbrechts",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09253",
+      "ortsnetzkennzahl": 9253,
+      "ort": "Weissenstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09254",
+      "ortsnetzkennzahl": 9254,
+      "ort": "Gefrees",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09255",
+      "ortsnetzkennzahl": 9255,
+      "ort": "Marktleugast",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09256",
+      "ortsnetzkennzahl": 9256,
+      "ort": "Stammbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09257",
+      "ortsnetzkennzahl": 9257,
+      "ort": "Zell Oberfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09260",
+      "ortsnetzkennzahl": 9260,
+      "ort": "Wilhelmsthal Oberfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09261",
+      "ortsnetzkennzahl": 9261,
+      "ort": "Kronach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09262",
+      "ortsnetzkennzahl": 9262,
+      "ort": "Wallenfels",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09263",
+      "ortsnetzkennzahl": 9263,
+      "ort": "Ludwigsstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09264",
+      "ortsnetzkennzahl": 9264,
+      "ort": "Küps",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09265",
+      "ortsnetzkennzahl": 9265,
+      "ort": "Pressig",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09266",
+      "ortsnetzkennzahl": 9266,
+      "ort": "Mitwitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09267",
+      "ortsnetzkennzahl": 9267,
+      "ort": "Nordhalben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09268",
+      "ortsnetzkennzahl": 9268,
+      "ort": "Teuschnitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09269",
+      "ortsnetzkennzahl": 9269,
+      "ort": "Tettau Kr Kronach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09270",
+      "ortsnetzkennzahl": 9270,
+      "ort": "Creussen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09271",
+      "ortsnetzkennzahl": 9271,
+      "ort": "Thurnau-Alladorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09272",
+      "ortsnetzkennzahl": 9272,
+      "ort": "Fichtelberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09273",
+      "ortsnetzkennzahl": 9273,
+      "ort": "Bad Berneck i Fichtelgebirge",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09274",
+      "ortsnetzkennzahl": 9274,
+      "ort": "Hollfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09275",
+      "ortsnetzkennzahl": 9275,
+      "ort": "Speichersdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09276",
+      "ortsnetzkennzahl": 9276,
+      "ort": "Bischofsgrün",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09277",
+      "ortsnetzkennzahl": 9277,
+      "ort": "Warmensteinach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09278",
+      "ortsnetzkennzahl": 9278,
+      "ort": "Weidenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09279",
+      "ortsnetzkennzahl": 9279,
+      "ort": "Mistelgau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09280",
+      "ortsnetzkennzahl": 9280,
+      "ort": "Selbitz Oberfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09281",
+      "ortsnetzkennzahl": 9281,
+      "ort": "Hof Saale",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09282",
+      "ortsnetzkennzahl": 9282,
+      "ort": "Naila",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09283",
+      "ortsnetzkennzahl": 9283,
+      "ort": "Rehau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09284",
+      "ortsnetzkennzahl": 9284,
+      "ort": "Schwarzenbach a d Saale",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09285",
+      "ortsnetzkennzahl": 9285,
+      "ort": "Kirchenlamitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09286",
+      "ortsnetzkennzahl": 9286,
+      "ort": "Oberkotzau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09287",
+      "ortsnetzkennzahl": 9287,
+      "ort": "Selb",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09288",
+      "ortsnetzkennzahl": 9288,
+      "ort": "Bad Steben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09289",
+      "ortsnetzkennzahl": 9289,
+      "ort": "Schwarzenbach a Wald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09292",
+      "ortsnetzkennzahl": 9292,
+      "ort": "Konradsreuth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09293",
+      "ortsnetzkennzahl": 9293,
+      "ort": "Berg Oberfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09294",
+      "ortsnetzkennzahl": 9294,
+      "ort": "Regnitzlosau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09295",
+      "ortsnetzkennzahl": 9295,
+      "ort": "Töpen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09302",
+      "ortsnetzkennzahl": 9302,
+      "ort": "Rottendorf Unterfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09303",
+      "ortsnetzkennzahl": 9303,
+      "ort": "Eibelstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09305",
+      "ortsnetzkennzahl": 9305,
+      "ort": "Estenfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09306",
+      "ortsnetzkennzahl": 9306,
+      "ort": "Kist",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09307",
+      "ortsnetzkennzahl": 9307,
+      "ort": "Altertheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09321",
+      "ortsnetzkennzahl": 9321,
+      "ort": "Kitzingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09323",
+      "ortsnetzkennzahl": 9323,
+      "ort": "Iphofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09324",
+      "ortsnetzkennzahl": 9324,
+      "ort": "Dettelbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09325",
+      "ortsnetzkennzahl": 9325,
+      "ort": "Kleinlangheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09326",
+      "ortsnetzkennzahl": 9326,
+      "ort": "Markt Einersheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09331",
+      "ortsnetzkennzahl": 9331,
+      "ort": "Ochsenfurt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09332",
+      "ortsnetzkennzahl": 9332,
+      "ort": "Marktbreit",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09333",
+      "ortsnetzkennzahl": 9333,
+      "ort": "Sommerhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09334",
+      "ortsnetzkennzahl": 9334,
+      "ort": "Giebelstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09335",
+      "ortsnetzkennzahl": 9335,
+      "ort": "Aub Kr Würzburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09336",
+      "ortsnetzkennzahl": 9336,
+      "ort": "Bütthard",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09337",
+      "ortsnetzkennzahl": 9337,
+      "ort": "Gaukönigshofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09338",
+      "ortsnetzkennzahl": 9338,
+      "ort": "Röttingen Unterfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09339",
+      "ortsnetzkennzahl": 9339,
+      "ort": "Ippesheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09340",
+      "ortsnetzkennzahl": 9340,
+      "ort": "Königheim-Brehmen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09341",
+      "ortsnetzkennzahl": 9341,
+      "ort": "Tauberbischofsheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09342",
+      "ortsnetzkennzahl": 9342,
+      "ort": "Wertheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09343",
+      "ortsnetzkennzahl": 9343,
+      "ort": "Lauda-Königshofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09344",
+      "ortsnetzkennzahl": 9344,
+      "ort": "Gerchsheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09345",
+      "ortsnetzkennzahl": 9345,
+      "ort": "Külsheim Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09346",
+      "ortsnetzkennzahl": 9346,
+      "ort": "Grünsfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09347",
+      "ortsnetzkennzahl": 9347,
+      "ort": "Wittighausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09348",
+      "ortsnetzkennzahl": 9348,
+      "ort": "Werbach-Gamburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09349",
+      "ortsnetzkennzahl": 9349,
+      "ort": "Werbach-Wenkheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09350",
+      "ortsnetzkennzahl": 9350,
+      "ort": "Eussenheim-Hundsbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09351",
+      "ortsnetzkennzahl": 9351,
+      "ort": "Gemünden a Main",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09352",
+      "ortsnetzkennzahl": 9352,
+      "ort": "Lohr a Main",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09353",
+      "ortsnetzkennzahl": 9353,
+      "ort": "Karlstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09354",
+      "ortsnetzkennzahl": 9354,
+      "ort": "Rieneck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09355",
+      "ortsnetzkennzahl": 9355,
+      "ort": "Frammersbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09356",
+      "ortsnetzkennzahl": 9356,
+      "ort": "Burgsinn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09357",
+      "ortsnetzkennzahl": 9357,
+      "ort": "Gräfendorf Bay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09358",
+      "ortsnetzkennzahl": 9358,
+      "ort": "Gössenheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09359",
+      "ortsnetzkennzahl": 9359,
+      "ort": "Karlstadt-Wiesenfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09360",
+      "ortsnetzkennzahl": 9360,
+      "ort": "Thüngen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09363",
+      "ortsnetzkennzahl": 9363,
+      "ort": "Arnstein Unterfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09364",
+      "ortsnetzkennzahl": 9364,
+      "ort": "Zellingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09365",
+      "ortsnetzkennzahl": 9365,
+      "ort": "Rimpar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09366",
+      "ortsnetzkennzahl": 9366,
+      "ort": "Geroldshausen Unterfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09367",
+      "ortsnetzkennzahl": 9367,
+      "ort": "Unterpleichfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09369",
+      "ortsnetzkennzahl": 9369,
+      "ort": "Uettingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09371",
+      "ortsnetzkennzahl": 9371,
+      "ort": "Miltenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09372",
+      "ortsnetzkennzahl": 9372,
+      "ort": "Klingenberg a Main",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09373",
+      "ortsnetzkennzahl": 9373,
+      "ort": "Amorbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09374",
+      "ortsnetzkennzahl": 9374,
+      "ort": "Eschau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09375",
+      "ortsnetzkennzahl": 9375,
+      "ort": "Freudenberg Baden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09376",
+      "ortsnetzkennzahl": 9376,
+      "ort": "Collenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09377",
+      "ortsnetzkennzahl": 9377,
+      "ort": "Freudenberg-Boxtal",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09378",
+      "ortsnetzkennzahl": 9378,
+      "ort": "Eichenbühl-Riedern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09381",
+      "ortsnetzkennzahl": 9381,
+      "ort": "Volkach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09382",
+      "ortsnetzkennzahl": 9382,
+      "ort": "Gerolzhofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09383",
+      "ortsnetzkennzahl": 9383,
+      "ort": "Wiesentheid",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09384",
+      "ortsnetzkennzahl": 9384,
+      "ort": "Schwanfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09385",
+      "ortsnetzkennzahl": 9385,
+      "ort": "Kolitzheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09386",
+      "ortsnetzkennzahl": 9386,
+      "ort": "Prosselsheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09391",
+      "ortsnetzkennzahl": 9391,
+      "ort": "Marktheidenfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09392",
+      "ortsnetzkennzahl": 9392,
+      "ort": "Faulbach Unterfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09393",
+      "ortsnetzkennzahl": 9393,
+      "ort": "Rothenfels Unterfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09394",
+      "ortsnetzkennzahl": 9394,
+      "ort": "Esselbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09395",
+      "ortsnetzkennzahl": 9395,
+      "ort": "Triefenstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09396",
+      "ortsnetzkennzahl": 9396,
+      "ort": "Urspringen b Lohr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09397",
+      "ortsnetzkennzahl": 9397,
+      "ort": "Wertheim-Dertingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09398",
+      "ortsnetzkennzahl": 9398,
+      "ort": "Birkenfeld b Würzburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09401",
+      "ortsnetzkennzahl": 9401,
+      "ort": "Neutraubling",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09402",
+      "ortsnetzkennzahl": 9402,
+      "ort": "Regenstauf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09403",
+      "ortsnetzkennzahl": 9403,
+      "ort": "Donaustauf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09404",
+      "ortsnetzkennzahl": 9404,
+      "ort": "Nittendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09405",
+      "ortsnetzkennzahl": 9405,
+      "ort": "Bad Abbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09406",
+      "ortsnetzkennzahl": 9406,
+      "ort": "Mintraching",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09407",
+      "ortsnetzkennzahl": 9407,
+      "ort": "Wenzenbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09408",
+      "ortsnetzkennzahl": 9408,
+      "ort": "Altenthann",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09409",
+      "ortsnetzkennzahl": 9409,
+      "ort": "Pielenhofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09420",
+      "ortsnetzkennzahl": 9420,
+      "ort": "Feldkirchen Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09421",
+      "ortsnetzkennzahl": 9421,
+      "ort": "Straubing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09422",
+      "ortsnetzkennzahl": 9422,
+      "ort": "Bogen Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09423",
+      "ortsnetzkennzahl": 9423,
+      "ort": "Geiselhöring",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09424",
+      "ortsnetzkennzahl": 9424,
+      "ort": "Strasskirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09426",
+      "ortsnetzkennzahl": 9426,
+      "ort": "Oberschneiding",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09427",
+      "ortsnetzkennzahl": 9427,
+      "ort": "Leiblfing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09428",
+      "ortsnetzkennzahl": 9428,
+      "ort": "Kirchroth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09429",
+      "ortsnetzkennzahl": 9429,
+      "ort": "Rain Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09431",
+      "ortsnetzkennzahl": 9431,
+      "ort": "Schwandorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09433",
+      "ortsnetzkennzahl": 9433,
+      "ort": "Nabburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09434",
+      "ortsnetzkennzahl": 9434,
+      "ort": "Bodenwöhr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09435",
+      "ortsnetzkennzahl": 9435,
+      "ort": "Schwarzenfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09436",
+      "ortsnetzkennzahl": 9436,
+      "ort": "Nittenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09438",
+      "ortsnetzkennzahl": 9438,
+      "ort": "Fensterbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09439",
+      "ortsnetzkennzahl": 9439,
+      "ort": "Neunburg-Kemnath",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09441",
+      "ortsnetzkennzahl": 9441,
+      "ort": "Kelheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09442",
+      "ortsnetzkennzahl": 9442,
+      "ort": "Riedenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09443",
+      "ortsnetzkennzahl": 9443,
+      "ort": "Abensberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09444",
+      "ortsnetzkennzahl": 9444,
+      "ort": "Siegenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09445",
+      "ortsnetzkennzahl": 9445,
+      "ort": "Neustadt a d Donau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09446",
+      "ortsnetzkennzahl": 9446,
+      "ort": "Altmannstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09447",
+      "ortsnetzkennzahl": 9447,
+      "ort": "Essing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09448",
+      "ortsnetzkennzahl": 9448,
+      "ort": "Hausen Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09451",
+      "ortsnetzkennzahl": 9451,
+      "ort": "Schierling",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09452",
+      "ortsnetzkennzahl": 9452,
+      "ort": "Langquaid",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09453",
+      "ortsnetzkennzahl": 9453,
+      "ort": "Thalmassing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09454",
+      "ortsnetzkennzahl": 9454,
+      "ort": "Aufhausen Oberpf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09461",
+      "ortsnetzkennzahl": 9461,
+      "ort": "Roding",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09462",
+      "ortsnetzkennzahl": 9462,
+      "ort": "Falkenstein Oberpf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09463",
+      "ortsnetzkennzahl": 9463,
+      "ort": "Wald Oberpf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09464",
+      "ortsnetzkennzahl": 9464,
+      "ort": "Walderbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09465",
+      "ortsnetzkennzahl": 9465,
+      "ort": "Neukirchen-Balbini",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09466",
+      "ortsnetzkennzahl": 9466,
+      "ort": "Stamsried",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09467",
+      "ortsnetzkennzahl": 9467,
+      "ort": "Michelsneukirchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09468",
+      "ortsnetzkennzahl": 9468,
+      "ort": "Zell Oberpf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09469",
+      "ortsnetzkennzahl": 9469,
+      "ort": "Roding-Neubäu",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09471",
+      "ortsnetzkennzahl": 9471,
+      "ort": "Burglengenfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09472",
+      "ortsnetzkennzahl": 9472,
+      "ort": "Hohenfels Oberpf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09473",
+      "ortsnetzkennzahl": 9473,
+      "ort": "Kallmünz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09474",
+      "ortsnetzkennzahl": 9474,
+      "ort": "Schmidmühlen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09480",
+      "ortsnetzkennzahl": 9480,
+      "ort": "Sünching",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09481",
+      "ortsnetzkennzahl": 9481,
+      "ort": "Pfatter",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09482",
+      "ortsnetzkennzahl": 9482,
+      "ort": "Wörth a d Donau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09484",
+      "ortsnetzkennzahl": 9484,
+      "ort": "Brennberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09491",
+      "ortsnetzkennzahl": 9491,
+      "ort": "Hemau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09492",
+      "ortsnetzkennzahl": 9492,
+      "ort": "Parsberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09493",
+      "ortsnetzkennzahl": 9493,
+      "ort": "Beratzhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09495",
+      "ortsnetzkennzahl": 9495,
+      "ort": "Breitenbrunn Oberpf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09497",
+      "ortsnetzkennzahl": 9497,
+      "ort": "Seubersdorf i d Opf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09498",
+      "ortsnetzkennzahl": 9498,
+      "ort": "Laaber",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09499",
+      "ortsnetzkennzahl": 9499,
+      "ort": "Painten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09502",
+      "ortsnetzkennzahl": 9502,
+      "ort": "Frensdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09503",
+      "ortsnetzkennzahl": 9503,
+      "ort": "Oberhaid Oberfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09504",
+      "ortsnetzkennzahl": 9504,
+      "ort": "Stadelhofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09505",
+      "ortsnetzkennzahl": 9505,
+      "ort": "Litzendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09521",
+      "ortsnetzkennzahl": 9521,
+      "ort": "Hassfurt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09522",
+      "ortsnetzkennzahl": 9522,
+      "ort": "Eltmann",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09523",
+      "ortsnetzkennzahl": 9523,
+      "ort": "Hofheim i Ufr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09524",
+      "ortsnetzkennzahl": 9524,
+      "ort": "Zeil a Main",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09525",
+      "ortsnetzkennzahl": 9525,
+      "ort": "Königsberg i Bay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09526",
+      "ortsnetzkennzahl": 9526,
+      "ort": "Riedbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09527",
+      "ortsnetzkennzahl": 9527,
+      "ort": "Knetzgau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09528",
+      "ortsnetzkennzahl": 9528,
+      "ort": "Donnersdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09529",
+      "ortsnetzkennzahl": 9529,
+      "ort": "Oberaurach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09531",
+      "ortsnetzkennzahl": 9531,
+      "ort": "Ebern",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09532",
+      "ortsnetzkennzahl": 9532,
+      "ort": "Maroldsweisach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09533",
+      "ortsnetzkennzahl": 9533,
+      "ort": "Untermerzbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09534",
+      "ortsnetzkennzahl": 9534,
+      "ort": "Burgpreppach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09535",
+      "ortsnetzkennzahl": 9535,
+      "ort": "Pfarrweisach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09536",
+      "ortsnetzkennzahl": 9536,
+      "ort": "Kirchlauter",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09542",
+      "ortsnetzkennzahl": 9542,
+      "ort": "Schesslitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09543",
+      "ortsnetzkennzahl": 9543,
+      "ort": "Hirschaid",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09544",
+      "ortsnetzkennzahl": 9544,
+      "ort": "Baunach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09545",
+      "ortsnetzkennzahl": 9545,
+      "ort": "Buttenheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09546",
+      "ortsnetzkennzahl": 9546,
+      "ort": "Burgebrach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09547",
+      "ortsnetzkennzahl": 9547,
+      "ort": "Zapfendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09548",
+      "ortsnetzkennzahl": 9548,
+      "ort": "Mühlhausen Mittelfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09549",
+      "ortsnetzkennzahl": 9549,
+      "ort": "Lisberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09551",
+      "ortsnetzkennzahl": 9551,
+      "ort": "Burgwindheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09552",
+      "ortsnetzkennzahl": 9552,
+      "ort": "Burghaslach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09553",
+      "ortsnetzkennzahl": 9553,
+      "ort": "Ebrach Oberfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09554",
+      "ortsnetzkennzahl": 9554,
+      "ort": "Untersteinbach Unterfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09555",
+      "ortsnetzkennzahl": 9555,
+      "ort": "Schlüsselfeld-Aschbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09556",
+      "ortsnetzkennzahl": 9556,
+      "ort": "Geiselwind",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09560",
+      "ortsnetzkennzahl": 9560,
+      "ort": "Grub a Forst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09561",
+      "ortsnetzkennzahl": 9561,
+      "ort": "Coburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09562",
+      "ortsnetzkennzahl": 9562,
+      "ort": "Sonnefeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09563",
+      "ortsnetzkennzahl": 9563,
+      "ort": "Rödental",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09564",
+      "ortsnetzkennzahl": 9564,
+      "ort": "Bad Rodach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09565",
+      "ortsnetzkennzahl": 9565,
+      "ort": "Untersiemau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09566",
+      "ortsnetzkennzahl": 9566,
+      "ort": "Meeder",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09567",
+      "ortsnetzkennzahl": 9567,
+      "ort": "Seßlach-Gemünda",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09568",
+      "ortsnetzkennzahl": 9568,
+      "ort": "Neustadt b Coburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09569",
+      "ortsnetzkennzahl": 9569,
+      "ort": "Sesslach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09571",
+      "ortsnetzkennzahl": 9571,
+      "ort": "Lichtenfels Bay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09572",
+      "ortsnetzkennzahl": 9572,
+      "ort": "Burgkunstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09573",
+      "ortsnetzkennzahl": 9573,
+      "ort": "Staffelstein Oberfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09574",
+      "ortsnetzkennzahl": 9574,
+      "ort": "Marktzeuln",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09575",
+      "ortsnetzkennzahl": 9575,
+      "ort": "Weismain",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09576",
+      "ortsnetzkennzahl": 9576,
+      "ort": "Lichtenfels-Isling",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09602",
+      "ortsnetzkennzahl": 9602,
+      "ort": "Neustadt a d Waldnaab",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09603",
+      "ortsnetzkennzahl": 9603,
+      "ort": "Floss",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09604",
+      "ortsnetzkennzahl": 9604,
+      "ort": "Wernberg-Köblitz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09605",
+      "ortsnetzkennzahl": 9605,
+      "ort": "Weiherhammer",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09606",
+      "ortsnetzkennzahl": 9606,
+      "ort": "Pfreimd",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09607",
+      "ortsnetzkennzahl": 9607,
+      "ort": "Luhe-Wildenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09608",
+      "ortsnetzkennzahl": 9608,
+      "ort": "Kohlberg Oberpf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09621",
+      "ortsnetzkennzahl": 9621,
+      "ort": "Amberg Oberpf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09622",
+      "ortsnetzkennzahl": 9622,
+      "ort": "Hirschau Oberpf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09624",
+      "ortsnetzkennzahl": 9624,
+      "ort": "Ensdorf Oberpf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09625",
+      "ortsnetzkennzahl": 9625,
+      "ort": "Kastl b Amberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09626",
+      "ortsnetzkennzahl": 9626,
+      "ort": "Hohenburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09627",
+      "ortsnetzkennzahl": 9627,
+      "ort": "Freudenberg Oberpf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09628",
+      "ortsnetzkennzahl": 9628,
+      "ort": "Ursensollen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09631",
+      "ortsnetzkennzahl": 9631,
+      "ort": "Tirschenreuth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09632",
+      "ortsnetzkennzahl": 9632,
+      "ort": "Waldsassen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09633",
+      "ortsnetzkennzahl": 9633,
+      "ort": "Mitterteich",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09634",
+      "ortsnetzkennzahl": 9634,
+      "ort": "Wiesau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09635",
+      "ortsnetzkennzahl": 9635,
+      "ort": "Bärnau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09636",
+      "ortsnetzkennzahl": 9636,
+      "ort": "Plößberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09637",
+      "ortsnetzkennzahl": 9637,
+      "ort": "Falkenberg Oberpf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09638",
+      "ortsnetzkennzahl": 9638,
+      "ort": "Neualbenreuth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09639",
+      "ortsnetzkennzahl": 9639,
+      "ort": "Mähring",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09641",
+      "ortsnetzkennzahl": 9641,
+      "ort": "Grafenwöhr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09642",
+      "ortsnetzkennzahl": 9642,
+      "ort": "Kemnath Stadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09643",
+      "ortsnetzkennzahl": 9643,
+      "ort": "Auerbach i d Opf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09644",
+      "ortsnetzkennzahl": 9644,
+      "ort": "Pressath",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09645",
+      "ortsnetzkennzahl": 9645,
+      "ort": "Eschenbach i d Opf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09646",
+      "ortsnetzkennzahl": 9646,
+      "ort": "Freihung",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09647",
+      "ortsnetzkennzahl": 9647,
+      "ort": "Kirchenthumbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09648",
+      "ortsnetzkennzahl": 9648,
+      "ort": "Neustadt a Kulm",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09651",
+      "ortsnetzkennzahl": 9651,
+      "ort": "Vohenstrauss",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09652",
+      "ortsnetzkennzahl": 9652,
+      "ort": "Waidhaus",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09653",
+      "ortsnetzkennzahl": 9653,
+      "ort": "Eslarn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09654",
+      "ortsnetzkennzahl": 9654,
+      "ort": "Pleystein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09655",
+      "ortsnetzkennzahl": 9655,
+      "ort": "Tännesberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09656",
+      "ortsnetzkennzahl": 9656,
+      "ort": "Moosbach b Vohenstrauß",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09657",
+      "ortsnetzkennzahl": 9657,
+      "ort": "Waldthurn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09658",
+      "ortsnetzkennzahl": 9658,
+      "ort": "Georgenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09659",
+      "ortsnetzkennzahl": 9659,
+      "ort": "Leuchtenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09661",
+      "ortsnetzkennzahl": 9661,
+      "ort": "Sulzbach-Rosenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09662",
+      "ortsnetzkennzahl": 9662,
+      "ort": "Vilseck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09663",
+      "ortsnetzkennzahl": 9663,
+      "ort": "Neukirchen b Sulzbach-Rosenberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09664",
+      "ortsnetzkennzahl": 9664,
+      "ort": "Hahnbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09665",
+      "ortsnetzkennzahl": 9665,
+      "ort": "Königstein Oberpf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09666",
+      "ortsnetzkennzahl": 9666,
+      "ort": "Illschwang",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09671",
+      "ortsnetzkennzahl": 9671,
+      "ort": "Oberviechtach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09672",
+      "ortsnetzkennzahl": 9672,
+      "ort": "Neunburg vorm Wald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09673",
+      "ortsnetzkennzahl": 9673,
+      "ort": "Tiefenbach Oberpf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09674",
+      "ortsnetzkennzahl": 9674,
+      "ort": "Schönsee",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09675",
+      "ortsnetzkennzahl": 9675,
+      "ort": "Altendorf a Nabburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09676",
+      "ortsnetzkennzahl": 9676,
+      "ort": "Winklarn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09677",
+      "ortsnetzkennzahl": 9677,
+      "ort": "Oberviechtach-Pullenried",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09681",
+      "ortsnetzkennzahl": 9681,
+      "ort": "Windischeschenbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09682",
+      "ortsnetzkennzahl": 9682,
+      "ort": "Erbendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09683",
+      "ortsnetzkennzahl": 9683,
+      "ort": "Friedenfels",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09701",
+      "ortsnetzkennzahl": 9701,
+      "ort": "Sandberg Unterfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09704",
+      "ortsnetzkennzahl": 9704,
+      "ort": "Euerdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09708",
+      "ortsnetzkennzahl": 9708,
+      "ort": "Bad Bocklet",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09720",
+      "ortsnetzkennzahl": 9720,
+      "ort": "Üchtelhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09721",
+      "ortsnetzkennzahl": 9721,
+      "ort": "Schweinfurt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09722",
+      "ortsnetzkennzahl": 9722,
+      "ort": "Werneck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09723",
+      "ortsnetzkennzahl": 9723,
+      "ort": "Röthlein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09724",
+      "ortsnetzkennzahl": 9724,
+      "ort": "Stadtlauringen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09725",
+      "ortsnetzkennzahl": 9725,
+      "ort": "Poppenhausen Unterfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09726",
+      "ortsnetzkennzahl": 9726,
+      "ort": "Euerbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09727",
+      "ortsnetzkennzahl": 9727,
+      "ort": "Schonungen-Marktsteinach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09728",
+      "ortsnetzkennzahl": 9728,
+      "ort": "Wülfershausen Unterfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09729",
+      "ortsnetzkennzahl": 9729,
+      "ort": "Grettstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09732",
+      "ortsnetzkennzahl": 9732,
+      "ort": "Hammelburg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09733",
+      "ortsnetzkennzahl": 9733,
+      "ort": "Münnerstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09734",
+      "ortsnetzkennzahl": 9734,
+      "ort": "Burkardroth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09735",
+      "ortsnetzkennzahl": 9735,
+      "ort": "Massbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09736",
+      "ortsnetzkennzahl": 9736,
+      "ort": "Oberthulba",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09737",
+      "ortsnetzkennzahl": 9737,
+      "ort": "Wartmannsroth",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09738",
+      "ortsnetzkennzahl": 9738,
+      "ort": "Rottershausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09741",
+      "ortsnetzkennzahl": 9741,
+      "ort": "Bad Brückenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09742",
+      "ortsnetzkennzahl": 9742,
+      "ort": "Kalbach Rhön",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09744",
+      "ortsnetzkennzahl": 9744,
+      "ort": "Zeitlofs-Detter",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09745",
+      "ortsnetzkennzahl": 9745,
+      "ort": "Wildflecken",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09746",
+      "ortsnetzkennzahl": 9746,
+      "ort": "Zeitlofs",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09747",
+      "ortsnetzkennzahl": 9747,
+      "ort": "Geroda Bay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09748",
+      "ortsnetzkennzahl": 9748,
+      "ort": "Motten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09749",
+      "ortsnetzkennzahl": 9749,
+      "ort": "Oberbach Unterfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09761",
+      "ortsnetzkennzahl": 9761,
+      "ort": "Bad Königshofen i Grabfeld",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09762",
+      "ortsnetzkennzahl": 9762,
+      "ort": "Saal a d Saale",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09763",
+      "ortsnetzkennzahl": 9763,
+      "ort": "Sulzdorf a d Lederhecke",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09764",
+      "ortsnetzkennzahl": 9764,
+      "ort": "Höchheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09765",
+      "ortsnetzkennzahl": 9765,
+      "ort": "Trappstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09766",
+      "ortsnetzkennzahl": 9766,
+      "ort": "Grosswenkheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09771",
+      "ortsnetzkennzahl": 9771,
+      "ort": "Bad Neustadt a d Saale",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09772",
+      "ortsnetzkennzahl": 9772,
+      "ort": "Bischofsheim a d Rhön",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09773",
+      "ortsnetzkennzahl": 9773,
+      "ort": "Unsleben",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09774",
+      "ortsnetzkennzahl": 9774,
+      "ort": "Oberelsbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09775",
+      "ortsnetzkennzahl": 9775,
+      "ort": "Schönau a d Brend",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09776",
+      "ortsnetzkennzahl": 9776,
+      "ort": "Mellrichstadt",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09777",
+      "ortsnetzkennzahl": 9777,
+      "ort": "Ostheim v d Rhön",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09778",
+      "ortsnetzkennzahl": 9778,
+      "ort": "Fladungen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09779",
+      "ortsnetzkennzahl": 9779,
+      "ort": "Nordheim v d Rhön",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09802",
+      "ortsnetzkennzahl": 9802,
+      "ort": "Ansbach-Katterbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09803",
+      "ortsnetzkennzahl": 9803,
+      "ort": "Colmberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09804",
+      "ortsnetzkennzahl": 9804,
+      "ort": "Aurach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09805",
+      "ortsnetzkennzahl": 9805,
+      "ort": "Burgoberbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09820",
+      "ortsnetzkennzahl": 9820,
+      "ort": "Lehrberg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09822",
+      "ortsnetzkennzahl": 9822,
+      "ort": "Bechhofen a d Heide",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09823",
+      "ortsnetzkennzahl": 9823,
+      "ort": "Leutershausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09824",
+      "ortsnetzkennzahl": 9824,
+      "ort": "Dietenhofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09825",
+      "ortsnetzkennzahl": 9825,
+      "ort": "Herrieden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09826",
+      "ortsnetzkennzahl": 9826,
+      "ort": "Weidenbach Mittelfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09827",
+      "ortsnetzkennzahl": 9827,
+      "ort": "Lichtenau Mittelfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09828",
+      "ortsnetzkennzahl": 9828,
+      "ort": "Rügland",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09829",
+      "ortsnetzkennzahl": 9829,
+      "ort": "Flachslanden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09831",
+      "ortsnetzkennzahl": 9831,
+      "ort": "Gunzenhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09832",
+      "ortsnetzkennzahl": 9832,
+      "ort": "Wassertrüdingen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09833",
+      "ortsnetzkennzahl": 9833,
+      "ort": "Heidenheim Mittelfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09834",
+      "ortsnetzkennzahl": 9834,
+      "ort": "Theilenhofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09835",
+      "ortsnetzkennzahl": 9835,
+      "ort": "Ehingen Mittelfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09836",
+      "ortsnetzkennzahl": 9836,
+      "ort": "Gunzenhausen-Cronheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09837",
+      "ortsnetzkennzahl": 9837,
+      "ort": "Haundorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09841",
+      "ortsnetzkennzahl": 9841,
+      "ort": "Bad Windsheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09842",
+      "ortsnetzkennzahl": 9842,
+      "ort": "Uffenheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09843",
+      "ortsnetzkennzahl": 9843,
+      "ort": "Burgbernheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09844",
+      "ortsnetzkennzahl": 9844,
+      "ort": "Obernzenn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09845",
+      "ortsnetzkennzahl": 9845,
+      "ort": "Oberdachstetten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09846",
+      "ortsnetzkennzahl": 9846,
+      "ort": "Ipsheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09847",
+      "ortsnetzkennzahl": 9847,
+      "ort": "Ergersheim",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09848",
+      "ortsnetzkennzahl": 9848,
+      "ort": "Simmershofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09851",
+      "ortsnetzkennzahl": 9851,
+      "ort": "Dinkelsbühl",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09852",
+      "ortsnetzkennzahl": 9852,
+      "ort": "Feuchtwangen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09853",
+      "ortsnetzkennzahl": 9853,
+      "ort": "Wilburgstetten",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09854",
+      "ortsnetzkennzahl": 9854,
+      "ort": "Wittelshofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09855",
+      "ortsnetzkennzahl": 9855,
+      "ort": "Dentlein a Forst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09856",
+      "ortsnetzkennzahl": 9856,
+      "ort": "Dürrwangen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09857",
+      "ortsnetzkennzahl": 9857,
+      "ort": "Schopfloch Mittelfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09861",
+      "ortsnetzkennzahl": 9861,
+      "ort": "Rothenburg ob der Tauber",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09865",
+      "ortsnetzkennzahl": 9865,
+      "ort": "Adelshofen Mittelfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09867",
+      "ortsnetzkennzahl": 9867,
+      "ort": "Geslau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09868",
+      "ortsnetzkennzahl": 9868,
+      "ort": "Schillingsfürst",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09869",
+      "ortsnetzkennzahl": 9869,
+      "ort": "Wettringen Mittelfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09871",
+      "ortsnetzkennzahl": 9871,
+      "ort": "Windsbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09872",
+      "ortsnetzkennzahl": 9872,
+      "ort": "Heilsbronn",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09873",
+      "ortsnetzkennzahl": 9873,
+      "ort": "Abenberg-Wassermungenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09874",
+      "ortsnetzkennzahl": 9874,
+      "ort": "Neuendettelsau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09875",
+      "ortsnetzkennzahl": 9875,
+      "ort": "Wolframs-Eschenbach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09876",
+      "ortsnetzkennzahl": 9876,
+      "ort": "Rohr Mittelfr",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09901",
+      "ortsnetzkennzahl": 9901,
+      "ort": "Hengersberg Bay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09903",
+      "ortsnetzkennzahl": 9903,
+      "ort": "Schöllnach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09904",
+      "ortsnetzkennzahl": 9904,
+      "ort": "Lalling",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09905",
+      "ortsnetzkennzahl": 9905,
+      "ort": "Bernried Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09906",
+      "ortsnetzkennzahl": 9906,
+      "ort": "Mariaposching",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09907",
+      "ortsnetzkennzahl": 9907,
+      "ort": "Zenting",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09908",
+      "ortsnetzkennzahl": 9908,
+      "ort": "Schöfweg",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09920",
+      "ortsnetzkennzahl": 9920,
+      "ort": "Bischofsmais",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09921",
+      "ortsnetzkennzahl": 9921,
+      "ort": "Regen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09922",
+      "ortsnetzkennzahl": 9922,
+      "ort": "Zwiesel",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09923",
+      "ortsnetzkennzahl": 9923,
+      "ort": "Teisnach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09924",
+      "ortsnetzkennzahl": 9924,
+      "ort": "Bodenmais",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09925",
+      "ortsnetzkennzahl": 9925,
+      "ort": "Bayerisch Eisenstein",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09926",
+      "ortsnetzkennzahl": 9926,
+      "ort": "Frauenau",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09927",
+      "ortsnetzkennzahl": 9927,
+      "ort": "Kirchberg Wald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09928",
+      "ortsnetzkennzahl": 9928,
+      "ort": "Kirchdorf i Wald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09929",
+      "ortsnetzkennzahl": 9929,
+      "ort": "Ruhmannsfelden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09931",
+      "ortsnetzkennzahl": 9931,
+      "ort": "Plattling",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09932",
+      "ortsnetzkennzahl": 9932,
+      "ort": "Osterhofen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09933",
+      "ortsnetzkennzahl": 9933,
+      "ort": "Wallersdorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09935",
+      "ortsnetzkennzahl": 9935,
+      "ort": "Stephansposching",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09936",
+      "ortsnetzkennzahl": 9936,
+      "ort": "Wallerfing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09937",
+      "ortsnetzkennzahl": 9937,
+      "ort": "Oberpöring",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09938",
+      "ortsnetzkennzahl": 9938,
+      "ort": "Moos Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09941",
+      "ortsnetzkennzahl": 9941,
+      "ort": "Kötzting",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09942",
+      "ortsnetzkennzahl": 9942,
+      "ort": "Viechtach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09943",
+      "ortsnetzkennzahl": 9943,
+      "ort": "Lam Oberpf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09944",
+      "ortsnetzkennzahl": 9944,
+      "ort": "Miltach",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09945",
+      "ortsnetzkennzahl": 9945,
+      "ort": "Arnbruck",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09946",
+      "ortsnetzkennzahl": 9946,
+      "ort": "Hohenwarth b Kötzing",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09947",
+      "ortsnetzkennzahl": 9947,
+      "ort": "Neukirchen b Hl Blut",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09948",
+      "ortsnetzkennzahl": 9948,
+      "ort": "Eschlkam",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09951",
+      "ortsnetzkennzahl": 9951,
+      "ort": "Landau a d Isar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09952",
+      "ortsnetzkennzahl": 9952,
+      "ort": "Eichendorf",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09953",
+      "ortsnetzkennzahl": 9953,
+      "ort": "Pilsting",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09954",
+      "ortsnetzkennzahl": 9954,
+      "ort": "Simbach Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09955",
+      "ortsnetzkennzahl": 9955,
+      "ort": "Mamming",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09956",
+      "ortsnetzkennzahl": 9956,
+      "ort": "Eichendorf-Aufhausen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09961",
+      "ortsnetzkennzahl": 9961,
+      "ort": "Mitterfels",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09962",
+      "ortsnetzkennzahl": 9962,
+      "ort": "Schwarzach Niederbay",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09963",
+      "ortsnetzkennzahl": 9963,
+      "ort": "Konzell",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09964",
+      "ortsnetzkennzahl": 9964,
+      "ort": "Stallwang",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09965",
+      "ortsnetzkennzahl": 9965,
+      "ort": "Sankt Englmar",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09966",
+      "ortsnetzkennzahl": 9966,
+      "ort": "Wiesenfelden",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09971",
+      "ortsnetzkennzahl": 9971,
+      "ort": "Cham",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09972",
+      "ortsnetzkennzahl": 9972,
+      "ort": "Waldmünchen",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09973",
+      "ortsnetzkennzahl": 9973,
+      "ort": "Furth i Wald",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09974",
+      "ortsnetzkennzahl": 9974,
+      "ort": "Traitsching",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09975",
+      "ortsnetzkennzahl": 9975,
+      "ort": "Waldmünchen-Geigant",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09976",
+      "ortsnetzkennzahl": 9976,
+      "ort": "Rötz",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09977",
+      "ortsnetzkennzahl": 9977,
+      "ort": "Arnschwang",
+      "aktiv": true
+    },
+    {
+      "vorwahl": "09978",
+      "ortsnetzkennzahl": 9978,
+      "ort": "Schönthal Oberpf",
+      "aktiv": true
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Vorwahlen — Bereich 9 (führende Ziffer 9) - Kostenloser Download",
+    "description": "Ortsnetzkennzahlen mit führender Ziffer 9 aus dem deutschen Nummerierungsbereich. Geografischer Schwerpunkt: Nürnberg (0911), Bayern-Nord (Mittelfranken, Oberfranken, Unterfranken, Oberpfalz). Insgesamt 555 Einträge. Enthält 555 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Deutsche Vorwahlen — Bereich 9 (führende Ziffer 9) | ListBase",
+    "seo_description": "Herunterladen Deutsche Vorwahlen — Bereich 9 (führende Ziffer 9) — 555 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 555 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

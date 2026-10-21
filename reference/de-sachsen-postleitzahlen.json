@@ -1,0 +1,5466 @@
+{
+  "id": "de-sachsen-postleitzahlen",
+  "name": "Postleitzahlen — Sachsen",
+  "title": "Postleitzahlen — Sachsen",
+  "description": "540 Postleitzahl-Ort-Kombinationen in Sachsen (ISO DE-SN). Mit Landkreis, AGS und OSM-ID.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 540,
+  "columns": [
+    {
+      "key": "plz",
+      "label": "Plz",
+      "type": "number"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "landkreis",
+      "label": "Landkreis",
+      "type": "string"
+    },
+    {
+      "key": "is_kreisfrei",
+      "label": "Is Kreisfrei",
+      "type": "boolean"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "ags",
+      "label": "Ags",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "plz": "01067",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01069",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01097",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01099",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01108",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01109",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01127",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01129",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01139",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01156",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01157",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01159",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01169",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01187",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01189",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01217",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01219",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01237",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01239",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01257",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01259",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01277",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01279",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01307",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01309",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01324",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01326",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01328",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01445",
+      "ort": "Radebeul",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627210",
+      "osm_id": "36820"
+    },
+    {
+      "plz": "01454",
+      "ort": "Radeberg",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625480",
+      "osm_id": "1307202"
+    },
+    {
+      "plz": "01454",
+      "ort": "Wachau",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625600",
+      "osm_id": "1307201"
+    },
+    {
+      "plz": "01458",
+      "ort": "Ottendorf-Okrilla",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625430",
+      "osm_id": "913784"
+    },
+    {
+      "plz": "01465",
+      "ort": "Dresden",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14612000",
+      "osm_id": "191645"
+    },
+    {
+      "plz": "01468",
+      "ort": "Moritzburg",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627150",
+      "osm_id": "551229"
+    },
+    {
+      "plz": "01471",
+      "ort": "Radeburg",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627220",
+      "osm_id": "551230"
+    },
+    {
+      "plz": "01477",
+      "ort": "Arnsdorf",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625010",
+      "osm_id": "1307625"
+    },
+    {
+      "plz": "01558",
+      "ort": "Großenhain",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627060",
+      "osm_id": "551159"
+    },
+    {
+      "plz": "01561",
+      "ort": "Ebersbach",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627030",
+      "osm_id": "551161"
+    },
+    {
+      "plz": "01561",
+      "ort": "Großenhain",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627060",
+      "osm_id": "551159"
+    },
+    {
+      "plz": "01561",
+      "ort": "Lampertswalde",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627110",
+      "osm_id": "551154"
+    },
+    {
+      "plz": "01561",
+      "ort": "Priestewitz",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627200",
+      "osm_id": "551156"
+    },
+    {
+      "plz": "01561",
+      "ort": "Schönfeld",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627250",
+      "osm_id": "551157"
+    },
+    {
+      "plz": "01561",
+      "ort": "Thiendorf",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627290",
+      "osm_id": "5818676"
+    },
+    {
+      "plz": "01587",
+      "ort": "Riesa",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627230",
+      "osm_id": "549800"
+    },
+    {
+      "plz": "01589",
+      "ort": "Riesa",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627230",
+      "osm_id": "549800"
+    },
+    {
+      "plz": "01591",
+      "ort": "Riesa",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627230",
+      "osm_id": "549800"
+    },
+    {
+      "plz": "01594",
+      "ort": "Hirschstein",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627070",
+      "osm_id": "549804"
+    },
+    {
+      "plz": "01594",
+      "ort": "Riesa",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627230",
+      "osm_id": "549800"
+    },
+    {
+      "plz": "01594",
+      "ort": "Stauchitz",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627260",
+      "osm_id": "549806"
+    },
+    {
+      "plz": "01609",
+      "ort": "Gröditz",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627050",
+      "osm_id": "551077"
+    },
+    {
+      "plz": "01609",
+      "ort": "Röderaue",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627240",
+      "osm_id": "551075"
+    },
+    {
+      "plz": "01609",
+      "ort": "Wülknitz",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627340",
+      "osm_id": "551076"
+    },
+    {
+      "plz": "01612",
+      "ort": "Glaubitz",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627040",
+      "osm_id": "551073"
+    },
+    {
+      "plz": "01612",
+      "ort": "Nünchritz",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627190",
+      "osm_id": "549799"
+    },
+    {
+      "plz": "01616",
+      "ort": "Strehla",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627270",
+      "osm_id": "551074"
+    },
+    {
+      "plz": "01619",
+      "ort": "Zeithain",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627360",
+      "osm_id": "551072"
+    },
+    {
+      "plz": "01623",
+      "ort": "Lommatzsch",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627130",
+      "osm_id": "547961"
+    },
+    {
+      "plz": "01640",
+      "ort": "Coswig",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627010",
+      "osm_id": "207975"
+    },
+    {
+      "plz": "01662",
+      "ort": "Meißen",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627140",
+      "osm_id": "546775"
+    },
+    {
+      "plz": "01665",
+      "ort": "Diera-Zehren",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627020",
+      "osm_id": "549803"
+    },
+    {
+      "plz": "01665",
+      "ort": "Klipphausen",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627100",
+      "osm_id": "549805"
+    },
+    {
+      "plz": "01665",
+      "ort": "Käbschütztal",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627080",
+      "osm_id": "549802"
+    },
+    {
+      "plz": "01683",
+      "ort": "Nossen",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627180",
+      "osm_id": "547960"
+    },
+    {
+      "plz": "01689",
+      "ort": "Niederau",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627170",
+      "osm_id": "546773"
+    },
+    {
+      "plz": "01689",
+      "ort": "Weinböhla",
+      "landkreis": "Landkreis Meißen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14627310",
+      "osm_id": "546772"
+    },
+    {
+      "plz": "01705",
+      "ort": "Freital",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628110",
+      "osm_id": "455475"
+    },
+    {
+      "plz": "01723",
+      "ort": "Wilsdruff",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628410",
+      "osm_id": "455469"
+    },
+    {
+      "plz": "01728",
+      "ort": "Bannewitz",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628050",
+      "osm_id": "455481"
+    },
+    {
+      "plz": "01731",
+      "ort": "Kreischa",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628220",
+      "osm_id": "455482"
+    },
+    {
+      "plz": "01734",
+      "ort": "Rabenau",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628300",
+      "osm_id": "455476"
+    },
+    {
+      "plz": "01737",
+      "ort": "Tharandt",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628400",
+      "osm_id": "455470"
+    },
+    {
+      "plz": "01737",
+      "ort": "Wilsdruff",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628410",
+      "osm_id": "455469"
+    },
+    {
+      "plz": "01738",
+      "ort": "Dorfhain",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628090",
+      "osm_id": "455472"
+    },
+    {
+      "plz": "01744",
+      "ort": "Dippoldiswalde",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628060",
+      "osm_id": "3409918"
+    },
+    {
+      "plz": "01762",
+      "ort": "Hartmannsdorf-Reichenau",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628150",
+      "osm_id": "455474"
+    },
+    {
+      "plz": "01768",
+      "ort": "Glashütte",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628130",
+      "osm_id": "455483"
+    },
+    {
+      "plz": "01773",
+      "ort": "Altenberg",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628010",
+      "osm_id": "455484"
+    },
+    {
+      "plz": "01774",
+      "ort": "Klingenberg",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628205",
+      "osm_id": "2673574"
+    },
+    {
+      "plz": "01776",
+      "ort": "Hermsdorf/Erzgebirge",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628170",
+      "osm_id": "455479"
+    },
+    {
+      "plz": "01778",
+      "ort": "Altenberg",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628010",
+      "osm_id": "455484"
+    },
+    {
+      "plz": "01796",
+      "ort": "Dohma",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628070",
+      "osm_id": "534519"
+    },
+    {
+      "plz": "01796",
+      "ort": "Pirna",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628270",
+      "osm_id": "534516"
+    },
+    {
+      "plz": "01796",
+      "ort": "Struppen",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628390",
+      "osm_id": "534524"
+    },
+    {
+      "plz": "01809",
+      "ort": "Dohna",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628080",
+      "osm_id": "455485"
+    },
+    {
+      "plz": "01809",
+      "ort": "Heidenau",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628160",
+      "osm_id": "455489"
+    },
+    {
+      "plz": "01809",
+      "ort": "Müglitztal",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628250",
+      "osm_id": "455486"
+    },
+    {
+      "plz": "01814",
+      "ort": "Bad Schandau",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628030",
+      "osm_id": "534534"
+    },
+    {
+      "plz": "01814",
+      "ort": "Rathmannsdorf",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628320",
+      "osm_id": "534532"
+    },
+    {
+      "plz": "01814",
+      "ort": "Reinhardtsdorf-Schöna",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628330",
+      "osm_id": "534533"
+    },
+    {
+      "plz": "01816",
+      "ort": "Bad Gottleuba-Berggießhübel",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628020",
+      "osm_id": "534518"
+    },
+    {
+      "plz": "01819",
+      "ort": "Bahretal",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628040",
+      "osm_id": "534517"
+    },
+    {
+      "plz": "01824",
+      "ort": "Gohrisch",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628140",
+      "osm_id": "534531"
+    },
+    {
+      "plz": "01824",
+      "ort": "Königstein",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628210",
+      "osm_id": "534526"
+    },
+    {
+      "plz": "01824",
+      "ort": "Rathen",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628310",
+      "osm_id": "534523"
+    },
+    {
+      "plz": "01824",
+      "ort": "Rosenthal-Bielatal",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628340",
+      "osm_id": "534527"
+    },
+    {
+      "plz": "01825",
+      "ort": "Liebstadt",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628230",
+      "osm_id": "455487"
+    },
+    {
+      "plz": "01829",
+      "ort": "Wehlen",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628370",
+      "osm_id": "534522"
+    },
+    {
+      "plz": "01833",
+      "ort": "Dürrröhrsdorf-Dittersbach",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628100",
+      "osm_id": "534520"
+    },
+    {
+      "plz": "01833",
+      "ort": "Stolpen",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628380",
+      "osm_id": "534528"
+    },
+    {
+      "plz": "01844",
+      "ort": "Neustadt in Sachsen",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628260",
+      "osm_id": "2321819"
+    },
+    {
+      "plz": "01847",
+      "ort": "Lohmen",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628240",
+      "osm_id": "534521"
+    },
+    {
+      "plz": "01848",
+      "ort": "Hohnstein",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628190",
+      "osm_id": "534530"
+    },
+    {
+      "plz": "01855",
+      "ort": "Sebnitz",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14628360",
+      "osm_id": "534536"
+    },
+    {
+      "plz": "01877",
+      "ort": "Bischofswerda",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625040",
+      "osm_id": "1307621"
+    },
+    {
+      "plz": "01877",
+      "ort": "Demitz-Thumitz",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625100",
+      "osm_id": "1307622"
+    },
+    {
+      "plz": "01877",
+      "ort": "Doberschau-Gaußig - Dobruša-Huska",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625110",
+      "osm_id": "1309671"
+    },
+    {
+      "plz": "01877",
+      "ort": "Rammenau",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625510",
+      "osm_id": "1307628"
+    },
+    {
+      "plz": "01877",
+      "ort": "Schmölln-Putzkau",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625530",
+      "osm_id": "1307609"
+    },
+    {
+      "plz": "01896",
+      "ort": "Lichtenberg",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625320",
+      "osm_id": "1307640"
+    },
+    {
+      "plz": "01896",
+      "ort": "Ohorn",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625410",
+      "osm_id": "1307648"
+    },
+    {
+      "plz": "01896",
+      "ort": "Pulsnitz",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625450",
+      "osm_id": "2321817"
+    },
+    {
+      "plz": "01900",
+      "ort": "Großröhrsdorf",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625200",
+      "osm_id": "2321798"
+    },
+    {
+      "plz": "01904",
+      "ort": "Neukirch/Lausitz",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625380",
+      "osm_id": "1307620"
+    },
+    {
+      "plz": "01904",
+      "ort": "Steinigtwolmsdorf",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625590",
+      "osm_id": "1307626"
+    },
+    {
+      "plz": "01906",
+      "ort": "Burkau - Porchow",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625060",
+      "osm_id": "1307624"
+    },
+    {
+      "plz": "01909",
+      "ort": "Frankenthal",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625140",
+      "osm_id": "1307627"
+    },
+    {
+      "plz": "01909",
+      "ort": "Großharthau",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625170",
+      "osm_id": "1307623"
+    },
+    {
+      "plz": "01917",
+      "ort": "Kamenz - Kamjenc",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625250",
+      "osm_id": "1307664"
+    },
+    {
+      "plz": "01920",
+      "ort": "Crostwitz - Chrósćicy",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625080",
+      "osm_id": "1307667"
+    },
+    {
+      "plz": "01920",
+      "ort": "Elstra - Halštrow",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625130",
+      "osm_id": "1307660"
+    },
+    {
+      "plz": "01920",
+      "ort": "Haselbachtal",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625220",
+      "osm_id": "1307649"
+    },
+    {
+      "plz": "01920",
+      "ort": "Nebelschütz - Njebjelčicy",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625350",
+      "osm_id": "1307668"
+    },
+    {
+      "plz": "01920",
+      "ort": "Oßling - Wóslink",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625420",
+      "osm_id": "1307711"
+    },
+    {
+      "plz": "01920",
+      "ort": "Panschwitz-Kuckau - Pančicy-Kukow",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625440",
+      "osm_id": "1307659"
+    },
+    {
+      "plz": "01920",
+      "ort": "Ralbitz-Rosenthal - Ralbicy-Róžant",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625500",
+      "osm_id": "1307706"
+    },
+    {
+      "plz": "01920",
+      "ort": "Räckelwitz - Worklecy",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625470",
+      "osm_id": "1307665"
+    },
+    {
+      "plz": "01920",
+      "ort": "Steina",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625580",
+      "osm_id": "1307650"
+    },
+    {
+      "plz": "01936",
+      "ort": "Großnaundorf",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625180",
+      "osm_id": "1307643"
+    },
+    {
+      "plz": "01936",
+      "ort": "Königsbrück",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625270",
+      "osm_id": "913783"
+    },
+    {
+      "plz": "01936",
+      "ort": "Laußnitz",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625300",
+      "osm_id": "913785"
+    },
+    {
+      "plz": "01936",
+      "ort": "Neukirch",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625370",
+      "osm_id": "1307662"
+    },
+    {
+      "plz": "01936",
+      "ort": "Schwepnitz",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625550",
+      "osm_id": "1307661"
+    },
+    {
+      "plz": "02625",
+      "ort": "Bautzen - Budyšin",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625020",
+      "osm_id": "1309674"
+    },
+    {
+      "plz": "02627",
+      "ort": "Hochkirch - Bukecy",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625230",
+      "osm_id": "1309660"
+    },
+    {
+      "plz": "02627",
+      "ort": "Kubschütz - Kubšicy",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625290",
+      "osm_id": "1309658"
+    },
+    {
+      "plz": "02627",
+      "ort": "Radibor - Radwor",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625490",
+      "osm_id": "1309632"
+    },
+    {
+      "plz": "02627",
+      "ort": "Weißenberg - Wóspork",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625610",
+      "osm_id": "1309659"
+    },
+    {
+      "plz": "02633",
+      "ort": "Doberschau-Gaußig - Dobruša-Huska",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625110",
+      "osm_id": "1309671"
+    },
+    {
+      "plz": "02633",
+      "ort": "Göda - Hodźij",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625150",
+      "osm_id": "1309677"
+    },
+    {
+      "plz": "02681",
+      "ort": "Schirgiswalde-Kirschau",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625525",
+      "osm_id": "1605086"
+    },
+    {
+      "plz": "02681",
+      "ort": "Wilthen",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625630",
+      "osm_id": "1309672"
+    },
+    {
+      "plz": "02689",
+      "ort": "Sohland an der Spree",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625560",
+      "osm_id": "1309657"
+    },
+    {
+      "plz": "02692",
+      "ort": "Doberschau-Gaußig - Dobruša-Huska",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625110",
+      "osm_id": "1309671"
+    },
+    {
+      "plz": "02692",
+      "ort": "Großpostwitz/O.L. - Budestecy",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625190",
+      "osm_id": "1309675"
+    },
+    {
+      "plz": "02692",
+      "ort": "Obergurig - Hornja Hórka",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625390",
+      "osm_id": "1309669"
+    },
+    {
+      "plz": "02694",
+      "ort": "Großdubrau - Wulka Dubrawa",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625160",
+      "osm_id": "1309634"
+    },
+    {
+      "plz": "02694",
+      "ort": "Malschwitz - Malešecy",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625340",
+      "osm_id": "2678596"
+    },
+    {
+      "plz": "02699",
+      "ort": "Königswartha - Rakecy",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625280",
+      "osm_id": "1307708"
+    },
+    {
+      "plz": "02699",
+      "ort": "Neschwitz - Njeswačidło",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625360",
+      "osm_id": "1307710"
+    },
+    {
+      "plz": "02699",
+      "ort": "Puschwitz - Bóšicy",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625460",
+      "osm_id": "1307709"
+    },
+    {
+      "plz": "02708",
+      "ort": "Dürrhennersdorf",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626070",
+      "osm_id": "1311100"
+    },
+    {
+      "plz": "02708",
+      "ort": "Großschweidnitz",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626150",
+      "osm_id": "422761"
+    },
+    {
+      "plz": "02708",
+      "ort": "Kottmar",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626245",
+      "osm_id": "2754880"
+    },
+    {
+      "plz": "02708",
+      "ort": "Lawalde",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626270",
+      "osm_id": "1311097"
+    },
+    {
+      "plz": "02708",
+      "ort": "Löbau",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626290",
+      "osm_id": "418120"
+    },
+    {
+      "plz": "02708",
+      "ort": "Rosenbach",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626470",
+      "osm_id": "1311103"
+    },
+    {
+      "plz": "02708",
+      "ort": "Schönbach",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626510",
+      "osm_id": "1311098"
+    },
+    {
+      "plz": "02727",
+      "ort": "Ebersbach-Neugersdorf",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626085",
+      "osm_id": "1605089"
+    },
+    {
+      "plz": "02730",
+      "ort": "Ebersbach-Neugersdorf",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626085",
+      "osm_id": "1605089"
+    },
+    {
+      "plz": "02733",
+      "ort": "Cunewalde",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625090",
+      "osm_id": "1309661"
+    },
+    {
+      "plz": "02736",
+      "ort": "Beiersdorf",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626020",
+      "osm_id": "1310862"
+    },
+    {
+      "plz": "02736",
+      "ort": "Oppach",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626410",
+      "osm_id": "1310861"
+    },
+    {
+      "plz": "02739",
+      "ort": "Kottmar",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626245",
+      "osm_id": "2754880"
+    },
+    {
+      "plz": "02742",
+      "ort": "Neusalza-Spremberg",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626350",
+      "osm_id": "1310910"
+    },
+    {
+      "plz": "02747",
+      "ort": "Herrnhut",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626180",
+      "osm_id": "418716"
+    },
+    {
+      "plz": "02748",
+      "ort": "Bernstadt auf dem Eigen",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626030",
+      "osm_id": "418663"
+    },
+    {
+      "plz": "02763",
+      "ort": "Bertsdorf-Hörnitz",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626050",
+      "osm_id": "418121"
+    },
+    {
+      "plz": "02763",
+      "ort": "Mittelherwigsdorf",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626310",
+      "osm_id": "418127"
+    },
+    {
+      "plz": "02763",
+      "ort": "Zittau",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626610",
+      "osm_id": "418117"
+    },
+    {
+      "plz": "02779",
+      "ort": "Großschönau",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626140",
+      "osm_id": "418124"
+    },
+    {
+      "plz": "02779",
+      "ort": "Hainewalde",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626170",
+      "osm_id": "418126"
+    },
+    {
+      "plz": "02782",
+      "ort": "Seifhennersdorf",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626530",
+      "osm_id": "418708"
+    },
+    {
+      "plz": "02785",
+      "ort": "Olbersdorf",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626400",
+      "osm_id": "1311099"
+    },
+    {
+      "plz": "02788",
+      "ort": "Zittau",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626610",
+      "osm_id": "418117"
+    },
+    {
+      "plz": "02791",
+      "ort": "Oderwitz",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626390",
+      "osm_id": "418711"
+    },
+    {
+      "plz": "02794",
+      "ort": "Leutersdorf",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626280",
+      "osm_id": "418710"
+    },
+    {
+      "plz": "02796",
+      "ort": "Jonsdorf",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626210",
+      "osm_id": "418118"
+    },
+    {
+      "plz": "02797",
+      "ort": "Oybin",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626430",
+      "osm_id": "418115"
+    },
+    {
+      "plz": "02799",
+      "ort": "Großschönau",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626140",
+      "osm_id": "418124"
+    },
+    {
+      "plz": "02826",
+      "ort": "Görlitz",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626110",
+      "osm_id": "409676"
+    },
+    {
+      "plz": "02827",
+      "ort": "Görlitz",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626110",
+      "osm_id": "409676"
+    },
+    {
+      "plz": "02828",
+      "ort": "Görlitz",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626110",
+      "osm_id": "409676"
+    },
+    {
+      "plz": "02829",
+      "ort": "Königshain",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626240",
+      "osm_id": "1311108"
+    },
+    {
+      "plz": "02829",
+      "ort": "Markersdorf",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626300",
+      "osm_id": "1311107"
+    },
+    {
+      "plz": "02829",
+      "ort": "Neißeaue",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626330",
+      "osm_id": "1311136"
+    },
+    {
+      "plz": "02829",
+      "ort": "Schöpstal",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626520",
+      "osm_id": "1311139"
+    },
+    {
+      "plz": "02894",
+      "ort": "Reichenbach/Oberlausitz",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626450",
+      "osm_id": "1311106"
+    },
+    {
+      "plz": "02894",
+      "ort": "Vierkirchen",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626570",
+      "osm_id": "1310798"
+    },
+    {
+      "plz": "02899",
+      "ort": "Ostritz",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626420",
+      "osm_id": "418648"
+    },
+    {
+      "plz": "02899",
+      "ort": "Schönau-Berzdorf auf dem Eigen",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626500",
+      "osm_id": "418649"
+    },
+    {
+      "plz": "02906",
+      "ort": "Hohendubrau - Wysoka Dubrawa",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626190",
+      "osm_id": "1310797"
+    },
+    {
+      "plz": "02906",
+      "ort": "Kreba-Neudorf - Chrjebja-Nowa Wjes",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626260",
+      "osm_id": "1311119"
+    },
+    {
+      "plz": "02906",
+      "ort": "Mücka - Mikow",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626320",
+      "osm_id": "1316259"
+    },
+    {
+      "plz": "02906",
+      "ort": "Niesky",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626370",
+      "osm_id": "1311142"
+    },
+    {
+      "plz": "02906",
+      "ort": "Quitzdorf am See - Kwětanecy",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626440",
+      "osm_id": "1311143"
+    },
+    {
+      "plz": "02906",
+      "ort": "Waldhufen",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626580",
+      "osm_id": "1316260"
+    },
+    {
+      "plz": "02923",
+      "ort": "Horka",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626200",
+      "osm_id": "1316261"
+    },
+    {
+      "plz": "02923",
+      "ort": "Hähnichen",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626160",
+      "osm_id": "1311141"
+    },
+    {
+      "plz": "02923",
+      "ort": "Kodersdorf",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626230",
+      "osm_id": "1311140"
+    },
+    {
+      "plz": "02929",
+      "ort": "Rothenburg/Oberlausitz",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626480",
+      "osm_id": "1311137"
+    },
+    {
+      "plz": "02943",
+      "ort": "Boxberg/O.L. - Hamor",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626060",
+      "osm_id": "1310637"
+    },
+    {
+      "plz": "02943",
+      "ort": "Weißwasser/O.L. - Běła Woda",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626600",
+      "osm_id": "1310639"
+    },
+    {
+      "plz": "02953",
+      "ort": "Bad Muskau - Mužakow",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626010",
+      "osm_id": "1310515"
+    },
+    {
+      "plz": "02953",
+      "ort": "Gablenz - Jabłońc",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626100",
+      "osm_id": "1310516"
+    },
+    {
+      "plz": "02953",
+      "ort": "Groß Düben - Dźěwin",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626120",
+      "osm_id": "1310452"
+    },
+    {
+      "plz": "02956",
+      "ort": "Rietschen - Rěčicy",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626460",
+      "osm_id": "1311129"
+    },
+    {
+      "plz": "02957",
+      "ort": "Krauschwitz - Krušwica",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626250",
+      "osm_id": "1311127"
+    },
+    {
+      "plz": "02957",
+      "ort": "Weißkeißel – Wuskidź",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626590",
+      "osm_id": "1311128"
+    },
+    {
+      "plz": "02959",
+      "ort": "Groß Düben - Dźěwin",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626120",
+      "osm_id": "1310452"
+    },
+    {
+      "plz": "02959",
+      "ort": "Schleife - Slepo",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626490",
+      "osm_id": "1310638"
+    },
+    {
+      "plz": "02959",
+      "ort": "Trebendorf - Trjebin",
+      "landkreis": "Landkreis Görlitz",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14626560",
+      "osm_id": "1310640"
+    },
+    {
+      "plz": "02977",
+      "ort": "Hoyerswerda - Wojerecy",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625240",
+      "osm_id": "409630"
+    },
+    {
+      "plz": "02979",
+      "ort": "Elsterheide - Halštrowska Hola",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625120",
+      "osm_id": "1309584"
+    },
+    {
+      "plz": "02979",
+      "ort": "Spreetal - Sprjewiny Doł",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625570",
+      "osm_id": "1309580"
+    },
+    {
+      "plz": "02991",
+      "ort": "Lauta",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625310",
+      "osm_id": "1309583"
+    },
+    {
+      "plz": "02994",
+      "ort": "Bernsdorf",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625030",
+      "osm_id": "1307707"
+    },
+    {
+      "plz": "02997",
+      "ort": "Wittichenau - Kulow",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625640",
+      "osm_id": "1309582"
+    },
+    {
+      "plz": "02999",
+      "ort": "Lohsa - Łaz",
+      "landkreis": "Landkreis Bautzen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14625330",
+      "osm_id": "1309581"
+    },
+    {
+      "plz": "04103",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04105",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04107",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04109",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04129",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04155",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04157",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04158",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04159",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04177",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04178",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04179",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04205",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04207",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04209",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04229",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04249",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04275",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04277",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04279",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04288",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04289",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04299",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04315",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04316",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04317",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04318",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04319",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04328",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04329",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04347",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04349",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04356",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04357",
+      "ort": "Leipzig",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14713000",
+      "osm_id": "62649"
+    },
+    {
+      "plz": "04416",
+      "ort": "Markkleeberg",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729260",
+      "osm_id": "93399"
+    },
+    {
+      "plz": "04420",
+      "ort": "Markranstädt",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729270",
+      "osm_id": "420238"
+    },
+    {
+      "plz": "04425",
+      "ort": "Taucha",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730300",
+      "osm_id": "445118"
+    },
+    {
+      "plz": "04435",
+      "ort": "Schkeuditz",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730270",
+      "osm_id": "444738"
+    },
+    {
+      "plz": "04442",
+      "ort": "Zwenkau",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729430",
+      "osm_id": "420477"
+    },
+    {
+      "plz": "04451",
+      "ort": "Borsdorf",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729060",
+      "osm_id": "422923"
+    },
+    {
+      "plz": "04463",
+      "ort": "Großpösna",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729190",
+      "osm_id": "283733"
+    },
+    {
+      "plz": "04509",
+      "ort": "Delitzsch",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730070",
+      "osm_id": "444742"
+    },
+    {
+      "plz": "04509",
+      "ort": "Krostitz",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730150",
+      "osm_id": "445990"
+    },
+    {
+      "plz": "04509",
+      "ort": "Löbnitz",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730180",
+      "osm_id": "445992"
+    },
+    {
+      "plz": "04509",
+      "ort": "Schönwölkau",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730280",
+      "osm_id": "445991"
+    },
+    {
+      "plz": "04509",
+      "ort": "Wiedemar",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730340",
+      "osm_id": "444739"
+    },
+    {
+      "plz": "04519",
+      "ort": "Rackwitz",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730250",
+      "osm_id": "444743"
+    },
+    {
+      "plz": "04523",
+      "ort": "Elstertrebnitz",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729100",
+      "osm_id": "420241"
+    },
+    {
+      "plz": "04523",
+      "ort": "Pegau",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729350",
+      "osm_id": "420240"
+    },
+    {
+      "plz": "04539",
+      "ort": "Groitzsch",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729170",
+      "osm_id": "420242"
+    },
+    {
+      "plz": "04552",
+      "ort": "Borna",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729050",
+      "osm_id": "420481"
+    },
+    {
+      "plz": "04564",
+      "ort": "Böhlen",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729040",
+      "osm_id": "420478"
+    },
+    {
+      "plz": "04565",
+      "ort": "Regis-Breitingen",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729360",
+      "osm_id": "420243"
+    },
+    {
+      "plz": "04567",
+      "ort": "Kitzscher",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729220",
+      "osm_id": "420482"
+    },
+    {
+      "plz": "04571",
+      "ort": "Rötha",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729370",
+      "osm_id": "420479"
+    },
+    {
+      "plz": "04575",
+      "ort": "Neukieritzsch",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729320",
+      "osm_id": "420480"
+    },
+    {
+      "plz": "04643",
+      "ort": "Geithain",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729150",
+      "osm_id": "422239"
+    },
+    {
+      "plz": "04651",
+      "ort": "Bad Lausick",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729010",
+      "osm_id": "422335"
+    },
+    {
+      "plz": "04654",
+      "ort": "Frohburg",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729140",
+      "osm_id": "422238"
+    },
+    {
+      "plz": "04668",
+      "ort": "Grimma",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729160",
+      "osm_id": "422342"
+    },
+    {
+      "plz": "04668",
+      "ort": "Otterwisch",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729330",
+      "osm_id": "422339"
+    },
+    {
+      "plz": "04668",
+      "ort": "Parthenstein",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729340",
+      "osm_id": "422340"
+    },
+    {
+      "plz": "04680",
+      "ort": "Colditz",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729080",
+      "osm_id": "422336"
+    },
+    {
+      "plz": "04683",
+      "ort": "Belgershain",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729020",
+      "osm_id": "420484"
+    },
+    {
+      "plz": "04683",
+      "ort": "Naunhof",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729300",
+      "osm_id": "422341"
+    },
+    {
+      "plz": "04687",
+      "ort": "Trebsen/Mulde",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729400",
+      "osm_id": "422916"
+    },
+    {
+      "plz": "04703",
+      "ort": "Leisnig",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522310",
+      "osm_id": "415408"
+    },
+    {
+      "plz": "04720",
+      "ort": "Döbeln",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522080",
+      "osm_id": "415413"
+    },
+    {
+      "plz": "04720",
+      "ort": "Großweitzschen",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522220",
+      "osm_id": "415410"
+    },
+    {
+      "plz": "04736",
+      "ort": "Waldheim",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522570",
+      "osm_id": "401845"
+    },
+    {
+      "plz": "04741",
+      "ort": "Roßwein",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522510",
+      "osm_id": "415417"
+    },
+    {
+      "plz": "04746",
+      "ort": "Hartha",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522250",
+      "osm_id": "402946"
+    },
+    {
+      "plz": "04749",
+      "ort": "Jahnatal",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522275",
+      "osm_id": "15073014"
+    },
+    {
+      "plz": "04758",
+      "ort": "Cavertitz",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730050",
+      "osm_id": "535242"
+    },
+    {
+      "plz": "04758",
+      "ort": "Liebschützberg",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730170",
+      "osm_id": "535250"
+    },
+    {
+      "plz": "04758",
+      "ort": "Oschatz",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730230",
+      "osm_id": "535244"
+    },
+    {
+      "plz": "04769",
+      "ort": "Mügeln",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730200",
+      "osm_id": "535249"
+    },
+    {
+      "plz": "04769",
+      "ort": "Naundorf",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730210",
+      "osm_id": "535246"
+    },
+    {
+      "plz": "04774",
+      "ort": "Dahlen",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730060",
+      "osm_id": "535251"
+    },
+    {
+      "plz": "04779",
+      "ort": "Wermsdorf",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730330",
+      "osm_id": "535245"
+    },
+    {
+      "plz": "04808",
+      "ort": "Lossatal",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729245",
+      "osm_id": "422918"
+    },
+    {
+      "plz": "04808",
+      "ort": "Thallwitz",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729380",
+      "osm_id": "422920"
+    },
+    {
+      "plz": "04808",
+      "ort": "Wurzen",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729410",
+      "osm_id": "422917"
+    },
+    {
+      "plz": "04821",
+      "ort": "Brandis",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729070",
+      "osm_id": "422924"
+    },
+    {
+      "plz": "04824",
+      "ort": "Brandis",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729070",
+      "osm_id": "422924"
+    },
+    {
+      "plz": "04827",
+      "ort": "Machern",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729250",
+      "osm_id": "422922"
+    },
+    {
+      "plz": "04828",
+      "ort": "Bennewitz",
+      "landkreis": "Landkreis Leipzig",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14729030",
+      "osm_id": "422921"
+    },
+    {
+      "plz": "04838",
+      "ort": "Doberschütz",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730080",
+      "osm_id": "446698"
+    },
+    {
+      "plz": "04838",
+      "ort": "Eilenburg",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730110",
+      "osm_id": "445965"
+    },
+    {
+      "plz": "04838",
+      "ort": "Jesewitz",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730140",
+      "osm_id": "445964"
+    },
+    {
+      "plz": "04838",
+      "ort": "Laußig",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730160",
+      "osm_id": "446697"
+    },
+    {
+      "plz": "04838",
+      "ort": "Zschepplin",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730360",
+      "osm_id": "445994"
+    },
+    {
+      "plz": "04849",
+      "ort": "Bad Düben",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730020",
+      "osm_id": "445993"
+    },
+    {
+      "plz": "04849",
+      "ort": "Laußig",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730160",
+      "osm_id": "446697"
+    },
+    {
+      "plz": "04860",
+      "ort": "Dreiheide",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730100",
+      "osm_id": "446702"
+    },
+    {
+      "plz": "04860",
+      "ort": "Torgau",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730310",
+      "osm_id": "534447"
+    },
+    {
+      "plz": "04861",
+      "ort": "Torgau",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730310",
+      "osm_id": "534447"
+    },
+    {
+      "plz": "04862",
+      "ort": "Mockrehna",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730190",
+      "osm_id": "446699"
+    },
+    {
+      "plz": "04874",
+      "ort": "Belgern-Schildau",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730045",
+      "osm_id": "2688685"
+    },
+    {
+      "plz": "04880",
+      "ort": "Dommitzsch",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730090",
+      "osm_id": "446701"
+    },
+    {
+      "plz": "04880",
+      "ort": "Elsnig",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730120",
+      "osm_id": "534445"
+    },
+    {
+      "plz": "04880",
+      "ort": "Trossin",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730320",
+      "osm_id": "446700"
+    },
+    {
+      "plz": "04886",
+      "ort": "Arzberg",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730010",
+      "osm_id": "534446"
+    },
+    {
+      "plz": "04886",
+      "ort": "Beilrode",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730030",
+      "osm_id": "534449"
+    },
+    {
+      "plz": "04889",
+      "ort": "Belgern-Schildau",
+      "landkreis": "Landkreis Nordsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14730045",
+      "osm_id": "2688685"
+    },
+    {
+      "plz": "07919",
+      "ort": "Pausa-Mühltroff",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523310",
+      "osm_id": "444813"
+    },
+    {
+      "plz": "07952",
+      "ort": "Pausa-Mühltroff",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523310",
+      "osm_id": "444813"
+    },
+    {
+      "plz": "07985",
+      "ort": "Elsterberg",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523100",
+      "osm_id": "446591"
+    },
+    {
+      "plz": "08056",
+      "ort": "Zwickau",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524330",
+      "osm_id": "397076"
+    },
+    {
+      "plz": "08058",
+      "ort": "Zwickau",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524330",
+      "osm_id": "397076"
+    },
+    {
+      "plz": "08060",
+      "ort": "Zwickau",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524330",
+      "osm_id": "397076"
+    },
+    {
+      "plz": "08062",
+      "ort": "Zwickau",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524330",
+      "osm_id": "397076"
+    },
+    {
+      "plz": "08064",
+      "ort": "Zwickau",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524330",
+      "osm_id": "397076"
+    },
+    {
+      "plz": "08066",
+      "ort": "Zwickau",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524330",
+      "osm_id": "397076"
+    },
+    {
+      "plz": "08107",
+      "ort": "Hartmannsdorf bei Kirchberg",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524100",
+      "osm_id": "417713"
+    },
+    {
+      "plz": "08107",
+      "ort": "Kirchberg",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524130",
+      "osm_id": "417711"
+    },
+    {
+      "plz": "08112",
+      "ort": "Wilkau-Haßlau",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524320",
+      "osm_id": "417709"
+    },
+    {
+      "plz": "08115",
+      "ort": "Lichtentanne",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524170",
+      "osm_id": "417078"
+    },
+    {
+      "plz": "08118",
+      "ort": "Hartenstein",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524090",
+      "osm_id": "417705"
+    },
+    {
+      "plz": "08132",
+      "ort": "Mülsen",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524200",
+      "osm_id": "417079"
+    },
+    {
+      "plz": "08134",
+      "ort": "Langenweißbach",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524150",
+      "osm_id": "417706"
+    },
+    {
+      "plz": "08134",
+      "ort": "Wildenfels",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524310",
+      "osm_id": "417708"
+    },
+    {
+      "plz": "08141",
+      "ort": "Reinsdorf",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524250",
+      "osm_id": "417707"
+    },
+    {
+      "plz": "08144",
+      "ort": "Hirschfeld",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524110",
+      "osm_id": "417710"
+    },
+    {
+      "plz": "08147",
+      "ort": "Crinitzberg",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524040",
+      "osm_id": "417712"
+    },
+    {
+      "plz": "08209",
+      "ort": "Auerbach/Vogtland",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523020",
+      "osm_id": "444398"
+    },
+    {
+      "plz": "08223",
+      "ort": "Falkenstein/Vogtland",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523120",
+      "osm_id": "444321"
+    },
+    {
+      "plz": "08223",
+      "ort": "Grünbach",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523130",
+      "osm_id": "443864"
+    },
+    {
+      "plz": "08223",
+      "ort": "Neustadt/Vogtland",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523290",
+      "osm_id": "444284"
+    },
+    {
+      "plz": "08223",
+      "ort": "Werda",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523460",
+      "osm_id": "444283"
+    },
+    {
+      "plz": "08228",
+      "ort": "Rodewisch",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523360",
+      "osm_id": "444399"
+    },
+    {
+      "plz": "08233",
+      "ort": "Treuen",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523430",
+      "osm_id": "446586"
+    },
+    {
+      "plz": "08236",
+      "ort": "Ellefeld",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523090",
+      "osm_id": "444397"
+    },
+    {
+      "plz": "08237",
+      "ort": "Steinberg",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523380",
+      "osm_id": "444396"
+    },
+    {
+      "plz": "08239",
+      "ort": "Bergen",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523050",
+      "osm_id": "444285"
+    },
+    {
+      "plz": "08239",
+      "ort": "Falkenstein/Vogtland",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523120",
+      "osm_id": "444321"
+    },
+    {
+      "plz": "08248",
+      "ort": "Klingenthal",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523160",
+      "osm_id": "443782"
+    },
+    {
+      "plz": "08258",
+      "ort": "Markneukirchen",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523200",
+      "osm_id": "443525"
+    },
+    {
+      "plz": "08261",
+      "ort": "Schöneck/Vogtl.",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523370",
+      "osm_id": "443863"
+    },
+    {
+      "plz": "08262",
+      "ort": "Muldenhammer",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523245",
+      "osm_id": "443783"
+    },
+    {
+      "plz": "08267",
+      "ort": "Klingenthal",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523160",
+      "osm_id": "443782"
+    },
+    {
+      "plz": "08280",
+      "ort": "Aue-Bad Schlema",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521035",
+      "osm_id": "9301683"
+    },
+    {
+      "plz": "08289",
+      "ort": "Schneeberg",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521530",
+      "osm_id": "419000"
+    },
+    {
+      "plz": "08294",
+      "ort": "Lößnitz",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521370",
+      "osm_id": "401871"
+    },
+    {
+      "plz": "08297",
+      "ort": "Zwönitz",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521710",
+      "osm_id": "536015"
+    },
+    {
+      "plz": "08301",
+      "ort": "Aue-Bad Schlema",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521035",
+      "osm_id": "9301683"
+    },
+    {
+      "plz": "08304",
+      "ort": "Schönheide",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521540",
+      "osm_id": "418998"
+    },
+    {
+      "plz": "08309",
+      "ort": "Eibenstock",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521170",
+      "osm_id": "418995"
+    },
+    {
+      "plz": "08315",
+      "ort": "Lauter-Bernsbach",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521355",
+      "osm_id": "2678595"
+    },
+    {
+      "plz": "08321",
+      "ort": "Zschorlau",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521700",
+      "osm_id": "419013"
+    },
+    {
+      "plz": "08324",
+      "ort": "Bockau",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521080",
+      "osm_id": "419003"
+    },
+    {
+      "plz": "08328",
+      "ort": "Stützengrün",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521600",
+      "osm_id": "418999"
+    },
+    {
+      "plz": "08340",
+      "ort": "Schwarzenberg/Erzgebirge",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521550",
+      "osm_id": "419006"
+    },
+    {
+      "plz": "08344",
+      "ort": "Grünhain-Beierfeld",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521260",
+      "osm_id": "419005"
+    },
+    {
+      "plz": "08349",
+      "ort": "Johanngeorgenstadt",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521320",
+      "osm_id": "419012"
+    },
+    {
+      "plz": "08352",
+      "ort": "Raschau-Markersbach",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521500",
+      "osm_id": "419007"
+    },
+    {
+      "plz": "08359",
+      "ort": "Breitenbrunn/Erzgebirge",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521110",
+      "osm_id": "419011"
+    },
+    {
+      "plz": "08371",
+      "ort": "Glauchau",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524080",
+      "osm_id": "417028"
+    },
+    {
+      "plz": "08373",
+      "ort": "Remse",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524260",
+      "osm_id": "413534"
+    },
+    {
+      "plz": "08393",
+      "ort": "Dennheritz",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524050",
+      "osm_id": "417024"
+    },
+    {
+      "plz": "08393",
+      "ort": "Meerane",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524190",
+      "osm_id": "417023"
+    },
+    {
+      "plz": "08393",
+      "ort": "Schönberg",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524270",
+      "osm_id": "413533"
+    },
+    {
+      "plz": "08396",
+      "ort": "Oberwiera",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524240",
+      "osm_id": "413532"
+    },
+    {
+      "plz": "08396",
+      "ort": "Waldenburg",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524290",
+      "osm_id": "413531"
+    },
+    {
+      "plz": "08412",
+      "ort": "Werdau",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524300",
+      "osm_id": "417076"
+    },
+    {
+      "plz": "08427",
+      "ort": "Fraureuth",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524060",
+      "osm_id": "417077"
+    },
+    {
+      "plz": "08428",
+      "ort": "Langenbernsdorf",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524140",
+      "osm_id": "417075"
+    },
+    {
+      "plz": "08451",
+      "ort": "Crimmitschau",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524030",
+      "osm_id": "417074"
+    },
+    {
+      "plz": "08459",
+      "ort": "Neukirchen/Pleiße",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524210",
+      "osm_id": "417073"
+    },
+    {
+      "plz": "08468",
+      "ort": "Heinsdorfergrund",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523150",
+      "osm_id": "446595"
+    },
+    {
+      "plz": "08468",
+      "ort": "Limbach",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523190",
+      "osm_id": "446590"
+    },
+    {
+      "plz": "08468",
+      "ort": "Reichenbach",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523340",
+      "osm_id": "5818742"
+    },
+    {
+      "plz": "08485",
+      "ort": "Lengenfeld",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523170",
+      "osm_id": "446587"
+    },
+    {
+      "plz": "08491",
+      "ort": "Limbach",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523190",
+      "osm_id": "446590"
+    },
+    {
+      "plz": "08491",
+      "ort": "Netzschkau",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523260",
+      "osm_id": "446592"
+    },
+    {
+      "plz": "08496",
+      "ort": "Neumark",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523280",
+      "osm_id": "446596"
+    },
+    {
+      "plz": "08499",
+      "ort": "Reichenbach",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523340",
+      "osm_id": "5818742"
+    },
+    {
+      "plz": "08523",
+      "ort": "Plauen",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523320",
+      "osm_id": "409608"
+    },
+    {
+      "plz": "08525",
+      "ort": "Plauen",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523320",
+      "osm_id": "409608"
+    },
+    {
+      "plz": "08527",
+      "ort": "Plauen",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523320",
+      "osm_id": "409608"
+    },
+    {
+      "plz": "08527",
+      "ort": "Rosenbach/Vogtland",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523365",
+      "osm_id": "1605066"
+    },
+    {
+      "plz": "08529",
+      "ort": "Plauen",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523320",
+      "osm_id": "409608"
+    },
+    {
+      "plz": "08538",
+      "ort": "Weischlitz",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523450",
+      "osm_id": "6906105"
+    },
+    {
+      "plz": "08539",
+      "ort": "Pausa-Mühltroff",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523310",
+      "osm_id": "444813"
+    },
+    {
+      "plz": "08539",
+      "ort": "Rosenbach/Vogtland",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523365",
+      "osm_id": "1605066"
+    },
+    {
+      "plz": "08541",
+      "ort": "Neuensalz",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523270",
+      "osm_id": "446588"
+    },
+    {
+      "plz": "08541",
+      "ort": "Plauen",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523320",
+      "osm_id": "409608"
+    },
+    {
+      "plz": "08541",
+      "ort": "Theuma",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523410",
+      "osm_id": "444320"
+    },
+    {
+      "plz": "08543",
+      "ort": "Pöhl",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523330",
+      "osm_id": "446589"
+    },
+    {
+      "plz": "08547",
+      "ort": "Plauen",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523320",
+      "osm_id": "409608"
+    },
+    {
+      "plz": "08548",
+      "ort": "Rosenbach/Vogtland",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523365",
+      "osm_id": "1605066"
+    },
+    {
+      "plz": "08606",
+      "ort": "Bösenbrunn",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523060",
+      "osm_id": "444885"
+    },
+    {
+      "plz": "08606",
+      "ort": "Oelsnitz/Vogtland",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523300",
+      "osm_id": "443861"
+    },
+    {
+      "plz": "08606",
+      "ort": "Tirpersdorf",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523420",
+      "osm_id": "444319"
+    },
+    {
+      "plz": "08606",
+      "ort": "Triebel",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523440",
+      "osm_id": "444884"
+    },
+    {
+      "plz": "08626",
+      "ort": "Adorf/Vogtland",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523010",
+      "osm_id": "443610"
+    },
+    {
+      "plz": "08626",
+      "ort": "Eichigt",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523080",
+      "osm_id": "443614"
+    },
+    {
+      "plz": "08626",
+      "ort": "Mühlental",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523230",
+      "osm_id": "443862"
+    },
+    {
+      "plz": "08645",
+      "ort": "Bad Elster",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523040",
+      "osm_id": "443527"
+    },
+    {
+      "plz": "08648",
+      "ort": "Bad Brambach",
+      "landkreis": "Vogtlandkreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14523030",
+      "osm_id": "443526"
+    },
+    {
+      "plz": "09111",
+      "ort": "Chemnitz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14511000",
+      "osm_id": "62594"
+    },
+    {
+      "plz": "09112",
+      "ort": "Chemnitz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14511000",
+      "osm_id": "62594"
+    },
+    {
+      "plz": "09113",
+      "ort": "Chemnitz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14511000",
+      "osm_id": "62594"
+    },
+    {
+      "plz": "09114",
+      "ort": "Chemnitz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14511000",
+      "osm_id": "62594"
+    },
+    {
+      "plz": "09116",
+      "ort": "Chemnitz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14511000",
+      "osm_id": "62594"
+    },
+    {
+      "plz": "09117",
+      "ort": "Chemnitz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14511000",
+      "osm_id": "62594"
+    },
+    {
+      "plz": "09119",
+      "ort": "Chemnitz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14511000",
+      "osm_id": "62594"
+    },
+    {
+      "plz": "09120",
+      "ort": "Chemnitz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14511000",
+      "osm_id": "62594"
+    },
+    {
+      "plz": "09122",
+      "ort": "Chemnitz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14511000",
+      "osm_id": "62594"
+    },
+    {
+      "plz": "09123",
+      "ort": "Chemnitz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14511000",
+      "osm_id": "62594"
+    },
+    {
+      "plz": "09125",
+      "ort": "Chemnitz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14511000",
+      "osm_id": "62594"
+    },
+    {
+      "plz": "09126",
+      "ort": "Chemnitz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14511000",
+      "osm_id": "62594"
+    },
+    {
+      "plz": "09127",
+      "ort": "Chemnitz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14511000",
+      "osm_id": "62594"
+    },
+    {
+      "plz": "09128",
+      "ort": "Chemnitz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14511000",
+      "osm_id": "62594"
+    },
+    {
+      "plz": "09130",
+      "ort": "Chemnitz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14511000",
+      "osm_id": "62594"
+    },
+    {
+      "plz": "09131",
+      "ort": "Chemnitz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14511000",
+      "osm_id": "62594"
+    },
+    {
+      "plz": "09212",
+      "ort": "Limbach-Oberfrohna",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524180",
+      "osm_id": "283719"
+    },
+    {
+      "plz": "09217",
+      "ort": "Burgstädt",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522060",
+      "osm_id": "414481"
+    },
+    {
+      "plz": "09221",
+      "ort": "Neukirchen/Erzgebirge",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521410",
+      "osm_id": "536007"
+    },
+    {
+      "plz": "09224",
+      "ort": "Chemnitz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14511000",
+      "osm_id": "62594"
+    },
+    {
+      "plz": "09228",
+      "ort": "Chemnitz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14511000",
+      "osm_id": "62594"
+    },
+    {
+      "plz": "09232",
+      "ort": "Hartmannsdorf",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522260",
+      "osm_id": "412400"
+    },
+    {
+      "plz": "09235",
+      "ort": "Burkhardtsdorf",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521120",
+      "osm_id": "536008"
+    },
+    {
+      "plz": "09236",
+      "ort": "Claußnitz",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522070",
+      "osm_id": "414483"
+    },
+    {
+      "plz": "09241",
+      "ort": "Mühlau",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522380",
+      "osm_id": "412401"
+    },
+    {
+      "plz": "09243",
+      "ort": "Niederfrohna",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524220",
+      "osm_id": "283718"
+    },
+    {
+      "plz": "09244",
+      "ort": "Lichtenau",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522330",
+      "osm_id": "414486"
+    },
+    {
+      "plz": "09247",
+      "ort": "Chemnitz",
+      "landkreis": "",
+      "is_kreisfrei": true,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14511000",
+      "osm_id": "62594"
+    },
+    {
+      "plz": "09249",
+      "ort": "Taura",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522550",
+      "osm_id": "414482"
+    },
+    {
+      "plz": "09306",
+      "ort": "Erlau",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522120",
+      "osm_id": "414697"
+    },
+    {
+      "plz": "09306",
+      "ort": "Königsfeld",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522280",
+      "osm_id": "414700"
+    },
+    {
+      "plz": "09306",
+      "ort": "Königshain-Wiederau",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522290",
+      "osm_id": "414484"
+    },
+    {
+      "plz": "09306",
+      "ort": "Rochlitz",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522490",
+      "osm_id": "414699"
+    },
+    {
+      "plz": "09306",
+      "ort": "Seelitz",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522530",
+      "osm_id": "414698"
+    },
+    {
+      "plz": "09306",
+      "ort": "Wechselburg",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522580",
+      "osm_id": "413430"
+    },
+    {
+      "plz": "09306",
+      "ort": "Zettlitz",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522600",
+      "osm_id": "414701"
+    },
+    {
+      "plz": "09322",
+      "ort": "Penig",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522460",
+      "osm_id": "413428"
+    },
+    {
+      "plz": "09326",
+      "ort": "Geringswalde",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522190",
+      "osm_id": "414702"
+    },
+    {
+      "plz": "09328",
+      "ort": "Lunzenau",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522350",
+      "osm_id": "413429"
+    },
+    {
+      "plz": "09337",
+      "ort": "Bernsdorf",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524010",
+      "osm_id": "417025"
+    },
+    {
+      "plz": "09337",
+      "ort": "Callenberg",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524020",
+      "osm_id": "401849"
+    },
+    {
+      "plz": "09337",
+      "ort": "Hohenstein-Ernstthal",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524120",
+      "osm_id": "301039"
+    },
+    {
+      "plz": "09350",
+      "ort": "Lichtenstein/Sachsen",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524160",
+      "osm_id": "417027"
+    },
+    {
+      "plz": "09353",
+      "ort": "Oberlungwitz",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524230",
+      "osm_id": "301040"
+    },
+    {
+      "plz": "09355",
+      "ort": "Gersdorf",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524070",
+      "osm_id": "301041"
+    },
+    {
+      "plz": "09356",
+      "ort": "St. Egidien",
+      "landkreis": "Landkreis Zwickau",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14524280",
+      "osm_id": "417026"
+    },
+    {
+      "plz": "09366",
+      "ort": "Niederdorf",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521420",
+      "osm_id": "536005"
+    },
+    {
+      "plz": "09366",
+      "ort": "Stollberg/Erzgebirge",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521590",
+      "osm_id": "536019"
+    },
+    {
+      "plz": "09376",
+      "ort": "Oelsnitz/Erzgeb.",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521450",
+      "osm_id": "536017"
+    },
+    {
+      "plz": "09380",
+      "ort": "Thalheim/Erzgebirge",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521620",
+      "osm_id": "536010"
+    },
+    {
+      "plz": "09385",
+      "ort": "Lugau",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521380",
+      "osm_id": "536006"
+    },
+    {
+      "plz": "09387",
+      "ort": "Jahnsdorf/Erzgebirge",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521310",
+      "osm_id": "536011"
+    },
+    {
+      "plz": "09390",
+      "ort": "Gornsdorf",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521230",
+      "osm_id": "536009"
+    },
+    {
+      "plz": "09392",
+      "ort": "Auerbach",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521040",
+      "osm_id": "536016"
+    },
+    {
+      "plz": "09394",
+      "ort": "Hohndorf",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521290",
+      "osm_id": "536014"
+    },
+    {
+      "plz": "09399",
+      "ort": "Niederwürschnitz",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521430",
+      "osm_id": "536013"
+    },
+    {
+      "plz": "09405",
+      "ort": "Gornau",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521220",
+      "osm_id": "422404"
+    },
+    {
+      "plz": "09405",
+      "ort": "Zschopau",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521690",
+      "osm_id": "422355"
+    },
+    {
+      "plz": "09419",
+      "ort": "Thum",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521640",
+      "osm_id": "536587"
+    },
+    {
+      "plz": "09423",
+      "ort": "Gelenau/Erzgebirge",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521200",
+      "osm_id": "536590"
+    },
+    {
+      "plz": "09427",
+      "ort": "Ehrenfriedersdorf",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521160",
+      "osm_id": "536588"
+    },
+    {
+      "plz": "09429",
+      "ort": "Wolkenstein",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521670",
+      "osm_id": "422325"
+    },
+    {
+      "plz": "09430",
+      "ort": "Drebach",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521150",
+      "osm_id": "379269"
+    },
+    {
+      "plz": "09432",
+      "ort": "Großolbersdorf",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521240",
+      "osm_id": "422392"
+    },
+    {
+      "plz": "09434",
+      "ort": "Zschopau",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521690",
+      "osm_id": "422355"
+    },
+    {
+      "plz": "09437",
+      "ort": "Börnichen",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521090",
+      "osm_id": "422346"
+    },
+    {
+      "plz": "09437",
+      "ort": "Gornau",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521220",
+      "osm_id": "422404"
+    },
+    {
+      "plz": "09439",
+      "ort": "Amtsberg",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521010",
+      "osm_id": "422409"
+    },
+    {
+      "plz": "09456",
+      "ort": "Annaberg-Buchholz",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521020",
+      "osm_id": "536625"
+    },
+    {
+      "plz": "09456",
+      "ort": "Mildenau",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521400",
+      "osm_id": "536634"
+    },
+    {
+      "plz": "09465",
+      "ort": "Sehmatal",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521560",
+      "osm_id": "536636"
+    },
+    {
+      "plz": "09468",
+      "ort": "Geyer",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521210",
+      "osm_id": "536589"
+    },
+    {
+      "plz": "09468",
+      "ort": "Tannenberg",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521610",
+      "osm_id": "536591"
+    },
+    {
+      "plz": "09471",
+      "ort": "Bärenstein",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521060",
+      "osm_id": "536628"
+    },
+    {
+      "plz": "09471",
+      "ort": "Königswalde",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521340",
+      "osm_id": "536632"
+    },
+    {
+      "plz": "09474",
+      "ort": "Crottendorf",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521130",
+      "osm_id": "536635"
+    },
+    {
+      "plz": "09477",
+      "ort": "Jöhstadt",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521330",
+      "osm_id": "536627"
+    },
+    {
+      "plz": "09481",
+      "ort": "Elterlein",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521180",
+      "osm_id": "536630"
+    },
+    {
+      "plz": "09481",
+      "ort": "Scheibenberg",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521510",
+      "osm_id": "536626"
+    },
+    {
+      "plz": "09484",
+      "ort": "Oberwiesenthal",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521440",
+      "osm_id": "536633"
+    },
+    {
+      "plz": "09487",
+      "ort": "Schlettau",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521520",
+      "osm_id": "536629"
+    },
+    {
+      "plz": "09488",
+      "ort": "Thermalbad Wiesenbad",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521630",
+      "osm_id": "536631"
+    },
+    {
+      "plz": "09496",
+      "ort": "Marienberg",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521390",
+      "osm_id": "422286"
+    },
+    {
+      "plz": "09509",
+      "ort": "Pockau-Lengefeld",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521495",
+      "osm_id": "3412601"
+    },
+    {
+      "plz": "09514",
+      "ort": "Pockau-Lengefeld",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521495",
+      "osm_id": "3412601"
+    },
+    {
+      "plz": "09518",
+      "ort": "Großrückerswalde",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521250",
+      "osm_id": "422289"
+    },
+    {
+      "plz": "09526",
+      "ort": "Heidersdorf",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521280",
+      "osm_id": "422235"
+    },
+    {
+      "plz": "09526",
+      "ort": "Olbernhau",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521460",
+      "osm_id": "422258"
+    },
+    {
+      "plz": "09544",
+      "ort": "Neuhausen/Erzgebirge",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522400",
+      "osm_id": "416545"
+    },
+    {
+      "plz": "09548",
+      "ort": "Deutschneudorf",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521140",
+      "osm_id": "422220"
+    },
+    {
+      "plz": "09548",
+      "ort": "Seiffen/Erzgebirge",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521570",
+      "osm_id": "422230"
+    },
+    {
+      "plz": "09557",
+      "ort": "Flöha",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522140",
+      "osm_id": "162283"
+    },
+    {
+      "plz": "09569",
+      "ort": "Oederan",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522440",
+      "osm_id": "416474"
+    },
+    {
+      "plz": "09573",
+      "ort": "Augustusburg",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522020",
+      "osm_id": "378773"
+    },
+    {
+      "plz": "09573",
+      "ort": "Gornau",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521220",
+      "osm_id": "422404"
+    },
+    {
+      "plz": "09573",
+      "ort": "Leubsdorf",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522320",
+      "osm_id": "416475"
+    },
+    {
+      "plz": "09575",
+      "ort": "Eppendorf",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522110",
+      "osm_id": "416476"
+    },
+    {
+      "plz": "09577",
+      "ort": "Niederwiesa",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522420",
+      "osm_id": "401876"
+    },
+    {
+      "plz": "09579",
+      "ort": "Grünhainichen",
+      "landkreis": "Erzgebirgskreis",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14521270",
+      "osm_id": "422307"
+    },
+    {
+      "plz": "09599",
+      "ort": "Freiberg",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522180",
+      "osm_id": "416561"
+    },
+    {
+      "plz": "09600",
+      "ort": "Oberschöna",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522430",
+      "osm_id": "416472"
+    },
+    {
+      "plz": "09600",
+      "ort": "Weißenborn/Erzgebirge",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522590",
+      "osm_id": "416500"
+    },
+    {
+      "plz": "09603",
+      "ort": "Großschirma",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522210",
+      "osm_id": "415999"
+    },
+    {
+      "plz": "09618",
+      "ort": "Brand-Erbisdorf",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522050",
+      "osm_id": "416477"
+    },
+    {
+      "plz": "09618",
+      "ort": "Großhartmannsdorf",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522200",
+      "osm_id": "416497"
+    },
+    {
+      "plz": "09619",
+      "ort": "Dorfchemnitz",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522090",
+      "osm_id": "416547"
+    },
+    {
+      "plz": "09619",
+      "ort": "Mulda/Sachsen",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522390",
+      "osm_id": "416542"
+    },
+    {
+      "plz": "09619",
+      "ort": "Sayda",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522520",
+      "osm_id": "416546"
+    },
+    {
+      "plz": "09623",
+      "ort": "Frauenstein",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522170",
+      "osm_id": "416543"
+    },
+    {
+      "plz": "09623",
+      "ort": "Rechenberg-Bienenmühle",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522470",
+      "osm_id": "416544"
+    },
+    {
+      "plz": "09627",
+      "ort": "Bobritzsch-Hilbersdorf",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522035",
+      "osm_id": "416498"
+    },
+    {
+      "plz": "09629",
+      "ort": "Reinsberg",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522480",
+      "osm_id": "416000"
+    },
+    {
+      "plz": "09633",
+      "ort": "Halsbrücke",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522240",
+      "osm_id": "416001"
+    },
+    {
+      "plz": "09634",
+      "ort": "Reinsberg",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522480",
+      "osm_id": "416000"
+    },
+    {
+      "plz": "09638",
+      "ort": "Lichtenberg/Erzgebirge",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522340",
+      "osm_id": "416501"
+    },
+    {
+      "plz": "09648",
+      "ort": "Altmittweida",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522010",
+      "osm_id": "414485"
+    },
+    {
+      "plz": "09648",
+      "ort": "Kriebstein",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522300",
+      "osm_id": "403127"
+    },
+    {
+      "plz": "09648",
+      "ort": "Mittweida",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522360",
+      "osm_id": "414696"
+    },
+    {
+      "plz": "09661",
+      "ort": "Hainichen",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522230",
+      "osm_id": "411426"
+    },
+    {
+      "plz": "09661",
+      "ort": "Rossau",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522500",
+      "osm_id": "411427"
+    },
+    {
+      "plz": "09661",
+      "ort": "Striegistal",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522540",
+      "osm_id": "411425"
+    },
+    {
+      "plz": "09669",
+      "ort": "Frankenberg/Sachsen",
+      "landkreis": "Landkreis Mittelsachsen",
+      "is_kreisfrei": false,
+      "bundesland": "Sachsen",
+      "bundesland_slug": "sachsen",
+      "ags": "14522150",
+      "osm_id": "411424"
+    }
+  ],
+  "meta": {
+    "title": "Postleitzahlen — Sachsen - Kostenloser Download",
+    "description": "540 Postleitzahl-Ort-Kombinationen in Sachsen (ISO DE-SN). Mit Landkreis, AGS und OSM-ID. Enthält 540 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Postleitzahlen — Sachsen | ListBase",
+    "seo_description": "Herunterladen Postleitzahlen — Sachsen — 540 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 540 Datensätze / 8 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

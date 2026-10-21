@@ -1,0 +1,226 @@
+{
+  "id": "de-strassen-bundeslaender-zaehlung",
+  "name": "Straßen je Bundesland — Anzahl benannter Straßen, Postleitzahlen und Orte",
+  "title": "Straßen je Bundesland — Anzahl benannter Straßen, Postleitzahlen und Orte",
+  "description": "Aggregat: Anzahl benannter Straßen, einzigartige Postleitzahlen und Ortschaften pro Bundesland in Deutschland (gesamt 1,202,586 Straßenbenennungen). Quelle: OpenPLZ API Data (openpotato/openplzapi.data), Extrakt aus OpenStreetMap-Relationen für Deutschland.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "iso_code",
+      "label": "Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "street_count",
+      "label": "Street Count",
+      "type": "number"
+    },
+    {
+      "key": "unique_postal_codes",
+      "label": "Unique Postal Codes",
+      "type": "number"
+    },
+    {
+      "key": "unique_localities",
+      "label": "Unique Localities",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "01",
+      "iso_code": "DE-SH",
+      "name": "Schleswig-Holstein",
+      "name_en": "Schleswig-Holstein",
+      "slug": "schleswig-holstein",
+      "street_count": 46586,
+      "unique_postal_codes": 447,
+      "unique_localities": 1079
+    },
+    {
+      "code": "02",
+      "iso_code": "DE-HH",
+      "name": "Hamburg",
+      "name_en": "Hamburg",
+      "slug": "hamburg",
+      "street_count": 9960,
+      "unique_postal_codes": 101,
+      "unique_localities": 1
+    },
+    {
+      "code": "03",
+      "iso_code": "DE-NI",
+      "name": "Niedersachsen",
+      "name_en": "Lower Saxony",
+      "slug": "niedersachsen",
+      "street_count": 151491,
+      "unique_postal_codes": 799,
+      "unique_localities": 938
+    },
+    {
+      "code": "04",
+      "iso_code": "DE-HB",
+      "name": "Bremen",
+      "name_en": "Bremen",
+      "slug": "bremen",
+      "street_count": 5324,
+      "unique_postal_codes": 40,
+      "unique_localities": 2
+    },
+    {
+      "code": "05",
+      "iso_code": "DE-NW",
+      "name": "Nordrhein-Westfalen",
+      "name_en": "North Rhine-Westphalia",
+      "slug": "nordrhein-westfalen",
+      "street_count": 200951,
+      "unique_postal_codes": 866,
+      "unique_localities": 396
+    },
+    {
+      "code": "06",
+      "iso_code": "DE-HE",
+      "name": "Hessen",
+      "name_en": "Hesse",
+      "slug": "hessen",
+      "street_count": 96368,
+      "unique_postal_codes": 545,
+      "unique_localities": 425
+    },
+    {
+      "code": "07",
+      "iso_code": "DE-RP",
+      "name": "Rheinland-Pfalz",
+      "name_en": "Rhineland-Palatinate",
+      "slug": "rheinland-pfalz",
+      "street_count": 76739,
+      "unique_postal_codes": 660,
+      "unique_localities": 2235
+    },
+    {
+      "code": "08",
+      "iso_code": "DE-BW",
+      "name": "Baden-Württemberg",
+      "name_en": "Baden-Württemberg",
+      "slug": "baden-wuerttemberg",
+      "street_count": 179026,
+      "unique_postal_codes": 1197,
+      "unique_localities": 1093
+    },
+    {
+      "code": "09",
+      "iso_code": "DE-BY",
+      "name": "Bayern",
+      "name_en": "Bavaria",
+      "slug": "bayern",
+      "street_count": 213623,
+      "unique_postal_codes": 2065,
+      "unique_localities": 2070
+    },
+    {
+      "code": "10",
+      "iso_code": "DE-SL",
+      "name": "Saarland",
+      "name_en": "Saarland",
+      "slug": "saarland",
+      "street_count": 15010,
+      "unique_postal_codes": 69,
+      "unique_localities": 52
+    },
+    {
+      "code": "11",
+      "iso_code": "DE-BE",
+      "name": "Berlin",
+      "name_en": "Berlin",
+      "slug": "berlin",
+      "street_count": 14549,
+      "unique_postal_codes": 191,
+      "unique_localities": 1
+    },
+    {
+      "code": "12",
+      "iso_code": "DE-BB",
+      "name": "Brandenburg",
+      "name_en": "Brandenburg",
+      "slug": "brandenburg",
+      "street_count": 40561,
+      "unique_postal_codes": 215,
+      "unique_localities": 411
+    },
+    {
+      "code": "13",
+      "iso_code": "DE-MV",
+      "name": "Mecklenburg-Vorpommern",
+      "name_en": "Mecklenburg-Vorpommern",
+      "slug": "mecklenburg-vorpommern",
+      "street_count": 25993,
+      "unique_postal_codes": 192,
+      "unique_localities": 710
+    },
+    {
+      "code": "14",
+      "iso_code": "DE-SN",
+      "name": "Sachsen",
+      "name_en": "Saxony",
+      "slug": "sachsen",
+      "street_count": 52992,
+      "unique_postal_codes": 384,
+      "unique_localities": 417
+    },
+    {
+      "code": "15",
+      "iso_code": "DE-ST",
+      "name": "Sachsen-Anhalt",
+      "name_en": "Saxony-Anhalt",
+      "slug": "sachsen-anhalt",
+      "street_count": 37025,
+      "unique_postal_codes": 203,
+      "unique_localities": 218
+    },
+    {
+      "code": "16",
+      "iso_code": "DE-TH",
+      "name": "Thüringen",
+      "name_en": "Thuringia",
+      "slug": "thueringen",
+      "street_count": 36388,
+      "unique_postal_codes": 216,
+      "unique_localities": 602
+    }
+  ],
+  "meta": {
+    "title": "Straßen je Bundesland — Anzahl benannter Straßen, Postleitzahlen und Orte - Kostenloser Download",
+    "description": "Aggregat: Anzahl benannter Straßen, einzigartige Postleitzahlen und Ortschaften pro Bundesland in Deutschland (gesamt 1,202,586 Straßenbenennungen). Quelle: OpenPLZ API Data (openpotato/openplzapi.data), Extrakt aus OpenStreetMap-Relationen für Deutschland. Enthält 16 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Straßen je Bundesland — Anzahl benannter Straßen, Postleitzahlen und Orte | ListBase",
+    "seo_description": "Herunterladen Straßen je Bundesland — Anzahl benannter Straßen, Postleitzahlen und Orte — 16 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 16 Datensätze / 8 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

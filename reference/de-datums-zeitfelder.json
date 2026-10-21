@@ -1,0 +1,266 @@
+{
+  "id": "de-datums-zeitfelder",
+  "name": "Datums- und Zeitfelder — Namen auf Deutsch (CLDR)",
+  "title": "Datums- und Zeitfelder — Namen auf Deutsch (CLDR)",
+  "description": "Namen der Datums- und Zeitfelder (Ära, Jahr, Monat, Tag, Stunde...) aus der Locale de in CLDR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "era",
+      "name": "Epoche"
+    },
+    {
+      "id": 2,
+      "code": "era-short",
+      "name": "Ep."
+    },
+    {
+      "id": 3,
+      "code": "era-narrow",
+      "name": "E"
+    },
+    {
+      "id": 4,
+      "code": "year",
+      "name": "Jahr"
+    },
+    {
+      "id": 5,
+      "code": "year-short",
+      "name": "Jahr"
+    },
+    {
+      "id": 6,
+      "code": "year-narrow",
+      "name": "J"
+    },
+    {
+      "id": 7,
+      "code": "quarter",
+      "name": "Quartal"
+    },
+    {
+      "id": 8,
+      "code": "quarter-short",
+      "name": "Quart."
+    },
+    {
+      "id": 9,
+      "code": "quarter-narrow",
+      "name": "Q"
+    },
+    {
+      "id": 10,
+      "code": "month",
+      "name": "Monat"
+    },
+    {
+      "id": 11,
+      "code": "month-short",
+      "name": "Mon."
+    },
+    {
+      "id": 12,
+      "code": "month-narrow",
+      "name": "M"
+    },
+    {
+      "id": 13,
+      "code": "week",
+      "name": "Woche"
+    },
+    {
+      "id": 14,
+      "code": "week-short",
+      "name": "Woche"
+    },
+    {
+      "id": 15,
+      "code": "week-narrow",
+      "name": "W"
+    },
+    {
+      "id": 16,
+      "code": "weekOfMonth",
+      "name": "Woche des Monats"
+    },
+    {
+      "id": 17,
+      "code": "weekOfMonth-short",
+      "name": "W/M"
+    },
+    {
+      "id": 18,
+      "code": "weekOfMonth-narrow",
+      "name": "W/M"
+    },
+    {
+      "id": 19,
+      "code": "day",
+      "name": "Tag"
+    },
+    {
+      "id": 20,
+      "code": "day-short",
+      "name": "Tag"
+    },
+    {
+      "id": 21,
+      "code": "day-narrow",
+      "name": "Tag"
+    },
+    {
+      "id": 22,
+      "code": "dayOfYear",
+      "name": "Tag des Jahres"
+    },
+    {
+      "id": 23,
+      "code": "dayOfYear-short",
+      "name": "Tag des Jahres"
+    },
+    {
+      "id": 24,
+      "code": "dayOfYear-narrow",
+      "name": "T/J"
+    },
+    {
+      "id": 25,
+      "code": "weekday",
+      "name": "Wochentag"
+    },
+    {
+      "id": 26,
+      "code": "weekday-short",
+      "name": "Wochentag"
+    },
+    {
+      "id": 27,
+      "code": "weekday-narrow",
+      "name": "Wochent."
+    },
+    {
+      "id": 28,
+      "code": "weekdayOfMonth",
+      "name": "Wochentag"
+    },
+    {
+      "id": 29,
+      "code": "weekdayOfMonth-short",
+      "name": "Wochentag"
+    },
+    {
+      "id": 30,
+      "code": "weekdayOfMonth-narrow",
+      "name": "WT"
+    },
+    {
+      "id": 31,
+      "code": "dayperiod-short",
+      "name": "Tageshälfte"
+    },
+    {
+      "id": 32,
+      "code": "dayperiod",
+      "name": "Tageshälfte"
+    },
+    {
+      "id": 33,
+      "code": "dayperiod-narrow",
+      "name": "Tagesh."
+    },
+    {
+      "id": 34,
+      "code": "hour",
+      "name": "Stunde"
+    },
+    {
+      "id": 35,
+      "code": "hour-short",
+      "name": "Std."
+    },
+    {
+      "id": 36,
+      "code": "hour-narrow",
+      "name": "Std."
+    },
+    {
+      "id": 37,
+      "code": "minute",
+      "name": "Minute"
+    },
+    {
+      "id": 38,
+      "code": "minute-short",
+      "name": "Min."
+    },
+    {
+      "id": 39,
+      "code": "minute-narrow",
+      "name": "Min."
+    },
+    {
+      "id": 40,
+      "code": "second",
+      "name": "Sekunde"
+    },
+    {
+      "id": 41,
+      "code": "second-short",
+      "name": "Sek."
+    },
+    {
+      "id": 42,
+      "code": "second-narrow",
+      "name": "Sek."
+    },
+    {
+      "id": 43,
+      "code": "zone",
+      "name": "Zeitzone"
+    },
+    {
+      "id": 44,
+      "code": "zone-short",
+      "name": "Zeitzone"
+    },
+    {
+      "id": 45,
+      "code": "zone-narrow",
+      "name": "Zeitz."
+    }
+  ],
+  "meta": {
+    "title": "Datums- und Zeitfelder — Namen auf Deutsch (CLDR) - Kostenloser Download",
+    "description": "Namen der Datums- und Zeitfelder (Ära, Jahr, Monat, Tag, Stunde...) aus der Locale de in CLDR. Enthält 45 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Datums- und Zeitfelder — Namen auf Deutsch (CLDR) | ListBase",
+    "seo_description": "Herunterladen Datums- und Zeitfelder — Namen auf Deutsch (CLDR) — 45 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 45 Datensätze / 3 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

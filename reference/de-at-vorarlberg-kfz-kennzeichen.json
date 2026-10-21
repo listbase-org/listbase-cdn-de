@@ -1,0 +1,97 @@
+{
+  "id": "de-at-vorarlberg-kfz-kennzeichen",
+  "name": "Kfz-Kennzeichen Vorarlberg (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke",
+  "title": "Kfz-Kennzeichen Vorarlberg (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke",
+  "description": "Alle in Vorarlberg (AT-8) gültigen österreichischen Unterscheidungszeichen mit Zulassungsbezirk und Zulassungsbehörde. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = AT-8).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "unterscheidungszeichen",
+      "label": "Unterscheidungszeichen",
+      "type": "string"
+    },
+    {
+      "key": "zulassungsbezirk",
+      "label": "Zulassungsbezirk",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_name",
+      "label": "Bundesland Name",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_iso_3166_2",
+      "label": "Bundesland Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "zulassungsbehoerde",
+      "label": "Zulassungsbehoerde",
+      "type": "string"
+    },
+    {
+      "key": "nationalitaetszeichen",
+      "label": "Nationalitaetszeichen",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unterscheidungszeichen": "B",
+      "zulassungsbezirk": "Bregenz",
+      "bundesland_name": "Vorarlberg",
+      "bundesland_iso_3166_2": "AT-8",
+      "bundesland_slug": "vorarlberg",
+      "zulassungsbehoerde": "BH Bregenz",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "BZ",
+      "zulassungsbezirk": "Bludenz",
+      "bundesland_name": "Vorarlberg",
+      "bundesland_iso_3166_2": "AT-8",
+      "bundesland_slug": "vorarlberg",
+      "zulassungsbehoerde": "BH Bludenz",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "DO",
+      "zulassungsbezirk": "Dornbirn",
+      "bundesland_name": "Vorarlberg",
+      "bundesland_iso_3166_2": "AT-8",
+      "bundesland_slug": "vorarlberg",
+      "zulassungsbehoerde": "BH Dornbirn",
+      "nationalitaetszeichen": "A"
+    },
+    {
+      "unterscheidungszeichen": "FK",
+      "zulassungsbezirk": "Feldkirch",
+      "bundesland_name": "Vorarlberg",
+      "bundesland_iso_3166_2": "AT-8",
+      "bundesland_slug": "vorarlberg",
+      "zulassungsbehoerde": "BH Feldkirch",
+      "nationalitaetszeichen": "A"
+    }
+  ],
+  "meta": {
+    "title": "Kfz-Kennzeichen Vorarlberg (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke - Kostenloser Download",
+    "description": "Alle in Vorarlberg (AT-8) gültigen österreichischen Unterscheidungszeichen mit Zulassungsbezirk und Zulassungsbehörde. Quelle: openpotato/kfz-kennzeichen (Filter Bundesland.Iso3166-2 = AT-8). Enthält 4 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Kfz-Kennzeichen Vorarlberg (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke | ListBase",
+    "seo_description": "Herunterladen Kfz-Kennzeichen Vorarlberg (Österreich) — Unterscheidungszeichen aller Zulassungsbezirke — 4 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 4 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "id": "de-bremen-swift-codes",
+  "name": "SWIFT-/BIC-Codes — Bremen",
+  "title": "SWIFT-/BIC-Codes — Bremen",
+  "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 31 Institute, die die Quelle mit der Stadt \"BREMEN\" angibt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "BANKHAUS CARL F. PLUMP AND CO",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "PLUMDE29"
+    },
+    {
+      "bank": "BANKHAUS CARL F. PLUMP AND CO",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "PLUMDE29T2S"
+    },
+    {
+      "bank": "BANKHAUS CARL F. PLUMP AND CO",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "PLUMDE29TGT"
+    },
+    {
+      "bank": "BANKHAUS NEELMEYER AG",
+      "city": "BREMEN",
+      "branch": "(DOTATIONSKONTO)",
+      "swift_code": "NEELDE22DTK"
+    },
+    {
+      "bank": "BANKHAUS NEELMEYER AG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "NEELDE22"
+    },
+    {
+      "bank": "BREMER AUFBAU-BANK GMBH",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "BABBDE21"
+    },
+    {
+      "bank": "BREMER KREDITBANK AG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "BANVDEHB"
+    },
+    {
+      "bank": "BREMISCHE VOLKSBANK EG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "GENODEF1HB1"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "BREMEN",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF072"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "BREMEN",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF073"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "COBADEFF290"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY BREMER BANK (DRESDNER BANK AG))",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "DRESDEFF290"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "BREMEN",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK)",
+      "swift_code": "DRESDEFFI13"
+    },
+    {
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "DAAEDED1005"
+    },
+    {
+      "bank": "DEUTSCHE BANK AG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "DEUTDEHB"
+    },
+    {
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "DEUTDEDBBRE"
+    },
+    {
+      "bank": "DEUTSCHE BUNDESBANK",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "MARKDEF1290"
+    },
+    {
+      "bank": "DEUTSCHE FACTORING BANK DEUTSCHE FACTORING GMBH AND CO.KG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "DFABDE21"
+    },
+    {
+      "bank": "FREIE HANSESTADT BREMEN",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "FRHRDE81"
+    },
+    {
+      "bank": "FREIE HANSESTADT BREMEN",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "FRHRDE81BRE"
+    },
+    {
+      "bank": "GREENSILL BANK AG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "NFHBDE21"
+    },
+    {
+      "bank": "GREENSILL BANK AG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "NFHBDE22"
+    },
+    {
+      "bank": "NASDAQ DEUTSCHLAND AG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "XBREDE21"
+    },
+    {
+      "bank": "NORDDEUTSCHE LANDESBANK - GIROZENTRALE -",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "BRLADE22"
+    },
+    {
+      "bank": "PSD BANK BREMEN",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "GENODEF1P03"
+    },
+    {
+      "bank": "ROEHLIG LOGISTICS GMBH  CO.KG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "ROHLDE22"
+    },
+    {
+      "bank": "SEB AG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "ESSEDE5F290"
+    },
+    {
+      "bank": "SPARDA-BANK HANNOVER EG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "GENODEF1SY9"
+    },
+    {
+      "bank": "SPARDA-BANK HANNOVER EG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "SPHRDE21"
+    },
+    {
+      "bank": "SPARKASSE BREMEN AG, DIE",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "SBREDE22"
+    },
+    {
+      "bank": "VOLKSBANK BREMEN-NORD EG",
+      "city": "BREMEN",
+      "branch": "",
+      "swift_code": "GENODEF1HB2"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT-/BIC-Codes — Bremen - Kostenloser Download",
+    "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 31 Institute, die die Quelle mit der Stadt \"BREMEN\" angibt. Enthält 31 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "SWIFT-/BIC-Codes — Bremen | ListBase",
+    "seo_description": "Herunterladen SWIFT-/BIC-Codes — Bremen — 31 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 31 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

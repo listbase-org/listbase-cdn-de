@@ -1,0 +1,224 @@
+{
+  "id": "de-hessen-landkreise",
+  "name": "Landkreise — Hessen",
+  "title": "Landkreise — Hessen",
+  "description": "Landkreise im Bundesland Hessen (21 Landkreise). Kreisfreie Städte sind in dieser Liste nicht enthalten und führen kein landkreis-Feld in der Quelle (Quelle: suche-postleitzahl.org / OSM).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "plz_count",
+      "label": "Plz Count",
+      "type": "number"
+    },
+    {
+      "key": "ort_count",
+      "label": "Ort Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Hochtaunuskreis",
+      "slug": "hochtaunuskreis",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 15,
+      "ort_count": 13
+    },
+    {
+      "name": "Kreis Bergstraße",
+      "slug": "kreis-bergstrasse",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 24,
+      "ort_count": 22
+    },
+    {
+      "name": "Kreis Groß-Gerau",
+      "slug": "kreis-gross-gerau",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 14,
+      "ort_count": 14
+    },
+    {
+      "name": "Lahn-Dill-Kreis",
+      "slug": "lahn-dill-kreis",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 39,
+      "ort_count": 23
+    },
+    {
+      "name": "Landkreis Darmstadt-Dieburg",
+      "slug": "landkreis-darmstadt-dieburg",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 24,
+      "ort_count": 23
+    },
+    {
+      "name": "Landkreis Fulda",
+      "slug": "landkreis-fulda",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 25,
+      "ort_count": 23
+    },
+    {
+      "name": "Landkreis Gießen",
+      "slug": "landkreis-giessen",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 22,
+      "ort_count": 18
+    },
+    {
+      "name": "Landkreis Hersfeld-Rotenburg",
+      "slug": "landkreis-hersfeld-rotenburg",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 19,
+      "ort_count": 20
+    },
+    {
+      "name": "Landkreis Kassel",
+      "slug": "landkreis-kassel",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 29,
+      "ort_count": 28
+    },
+    {
+      "name": "Landkreis Limburg-Weilburg",
+      "slug": "landkreis-limburg-weilburg",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 26,
+      "ort_count": 19
+    },
+    {
+      "name": "Landkreis Marburg-Biedenkopf",
+      "slug": "landkreis-marburg-biedenkopf",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 25,
+      "ort_count": 22
+    },
+    {
+      "name": "Landkreis Offenbach",
+      "slug": "landkreis-offenbach",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 13,
+      "ort_count": 13
+    },
+    {
+      "name": "Landkreis Waldeck-Frankenberg",
+      "slug": "landkreis-waldeck-frankenberg",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 21,
+      "ort_count": 21
+    },
+    {
+      "name": "Main-Kinzig-Kreis",
+      "slug": "main-kinzig-kreis",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 33,
+      "ort_count": 29
+    },
+    {
+      "name": "Main-Taunus-Kreis",
+      "slug": "main-taunus-kreis",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 12,
+      "ort_count": 12
+    },
+    {
+      "name": "Odenwaldkreis",
+      "slug": "odenwaldkreis",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 13,
+      "ort_count": 12
+    },
+    {
+      "name": "Rheingau-Taunus-Kreis",
+      "slug": "rheingau-taunus-kreis",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 20,
+      "ort_count": 17
+    },
+    {
+      "name": "Schwalm-Eder-Kreis",
+      "slug": "schwalm-eder-kreis",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 27,
+      "ort_count": 27
+    },
+    {
+      "name": "Vogelsbergkreis",
+      "slug": "vogelsbergkreis",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 19,
+      "ort_count": 19
+    },
+    {
+      "name": "Werra-Meißner-Kreis",
+      "slug": "werra-meissner-kreis",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 21,
+      "ort_count": 16
+    },
+    {
+      "name": "Wetteraukreis",
+      "slug": "wetteraukreis",
+      "bundesland": "Hessen",
+      "bundesland_slug": "hessen",
+      "plz_count": 25,
+      "ort_count": 25
+    }
+  ],
+  "meta": {
+    "title": "Landkreise — Hessen - Kostenloser Download",
+    "description": "Landkreise im Bundesland Hessen (21 Landkreise). Kreisfreie Städte sind in dieser Liste nicht enthalten und führen kein landkreis-Feld in der Quelle (Quelle: suche-postleitzahl.org / OSM). Enthält 21 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Landkreise — Hessen | ListBase",
+    "seo_description": "Herunterladen Landkreise — Hessen — 21 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 21 Datensätze / 6 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

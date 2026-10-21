@@ -1,0 +1,326 @@
+{
+  "id": "de-ch-kfz-kennzeichen",
+  "name": "Kfz-Kennzeichen Schweiz — Kantonskürzel aller Kantone",
+  "title": "Kfz-Kennzeichen Schweiz — Kantonskürzel aller Kantone",
+  "description": "Alle Schweizer Kantonskürzel (Unterscheidungszeichen) mit deutschem, französischem, italienischem und rätoromanischem Kantonsnamen sowie ISO-3166-2-Code. Quelle: openpotato/kfz-kennzeichen (src/ch/kennzeichen.csv).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "unterscheidungszeichen",
+      "label": "Unterscheidungszeichen",
+      "type": "string"
+    },
+    {
+      "key": "kanton_name",
+      "label": "Kanton Name",
+      "type": "string"
+    },
+    {
+      "key": "kanton_iso_3166_2",
+      "label": "Kanton Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "kanton_slug",
+      "label": "Kanton Slug",
+      "type": "string"
+    },
+    {
+      "key": "kanton_name_fr",
+      "label": "Kanton Name Fr",
+      "type": "string"
+    },
+    {
+      "key": "kanton_name_it",
+      "label": "Kanton Name It",
+      "type": "string"
+    },
+    {
+      "key": "kanton_name_rm",
+      "label": "Kanton Name Rm",
+      "type": "string"
+    },
+    {
+      "key": "nationalitaetszeichen",
+      "label": "Nationalitaetszeichen",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unterscheidungszeichen": "AG",
+      "kanton_name": "Aargau",
+      "kanton_iso_3166_2": "CH-AG",
+      "kanton_slug": "aargau",
+      "kanton_name_fr": "Argovie",
+      "kanton_name_it": "Argovia",
+      "kanton_name_rm": "Argovia",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "AI",
+      "kanton_name": "Appenzell Innerrhoden",
+      "kanton_iso_3166_2": "CH-AI",
+      "kanton_slug": "appenzell-innerrhoden",
+      "kanton_name_fr": "Appenzell Rhodes-Intérieures",
+      "kanton_name_it": "Appenzello Interno",
+      "kanton_name_rm": "Appenzell Dadens",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "AR",
+      "kanton_name": "Appenzell Ausserrhoden",
+      "kanton_iso_3166_2": "CH-AR",
+      "kanton_slug": "appenzell-ausserrhoden",
+      "kanton_name_fr": "Appenzell Rhodes-Extérieures",
+      "kanton_name_it": "Appenzello Esterno",
+      "kanton_name_rm": "Appenzell Dadora",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "BE",
+      "kanton_name": "Bern",
+      "kanton_iso_3166_2": "CH-BE",
+      "kanton_slug": "bern",
+      "kanton_name_fr": "Berne",
+      "kanton_name_it": "Berna",
+      "kanton_name_rm": "Berna",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "BL",
+      "kanton_name": "Basel-Landschaft",
+      "kanton_iso_3166_2": "CH-BL",
+      "kanton_slug": "basel-landschaft",
+      "kanton_name_fr": "Bâle-Campagne",
+      "kanton_name_it": "Basilea Campagna",
+      "kanton_name_rm": "Basilea-Champagna",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "BS",
+      "kanton_name": "Basel-Stadt",
+      "kanton_iso_3166_2": "CH-BS",
+      "kanton_slug": "basel-stadt",
+      "kanton_name_fr": "Bâle-Ville",
+      "kanton_name_it": "Basilea Città",
+      "kanton_name_rm": "Basilea-Citad",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "FR",
+      "kanton_name": "Freiburg",
+      "kanton_iso_3166_2": "CH-FR",
+      "kanton_slug": "freiburg",
+      "kanton_name_fr": "Fribourg",
+      "kanton_name_it": "Friburgo",
+      "kanton_name_rm": "Friburg",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "GE",
+      "kanton_name": "Genf",
+      "kanton_iso_3166_2": "CH-GE",
+      "kanton_slug": "genf",
+      "kanton_name_fr": "Genève",
+      "kanton_name_it": "Ginevra",
+      "kanton_name_rm": "Genevra",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "GL",
+      "kanton_name": "Glarus",
+      "kanton_iso_3166_2": "CH-GL",
+      "kanton_slug": "glarus",
+      "kanton_name_fr": "Glaris",
+      "kanton_name_it": "Glarona",
+      "kanton_name_rm": "Glaruna",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "GR",
+      "kanton_name": "Graubünden",
+      "kanton_iso_3166_2": "CH-GR",
+      "kanton_slug": "graubuenden",
+      "kanton_name_fr": "Grisons",
+      "kanton_name_it": "Grigioni",
+      "kanton_name_rm": "Grischun",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "JU",
+      "kanton_name": "Jura",
+      "kanton_iso_3166_2": "CH-JU",
+      "kanton_slug": "jura",
+      "kanton_name_fr": "Jura",
+      "kanton_name_it": "Giura",
+      "kanton_name_rm": "Giura",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "LU",
+      "kanton_name": "Luzern",
+      "kanton_iso_3166_2": "CH-LU",
+      "kanton_slug": "luzern",
+      "kanton_name_fr": "Lucerne",
+      "kanton_name_it": "Lucerna",
+      "kanton_name_rm": "Lucerna",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "NE",
+      "kanton_name": "Neuenburg",
+      "kanton_iso_3166_2": "CH-NE",
+      "kanton_slug": "neuenburg",
+      "kanton_name_fr": "Neuchâtel",
+      "kanton_name_it": "Neuchâtel",
+      "kanton_name_rm": "Neuchâtel",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "NW",
+      "kanton_name": "Nidwalden",
+      "kanton_iso_3166_2": "CH-NW",
+      "kanton_slug": "nidwalden",
+      "kanton_name_fr": "Nidwald",
+      "kanton_name_it": "Nidvaldo",
+      "kanton_name_rm": "Sutsilvania",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "OW",
+      "kanton_name": "Obwalden",
+      "kanton_iso_3166_2": "CH-OW",
+      "kanton_slug": "obwalden",
+      "kanton_name_fr": "Obwald",
+      "kanton_name_it": "Obvaldo",
+      "kanton_name_rm": "Sursilvania",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "SG",
+      "kanton_name": "Sankt Gallen",
+      "kanton_iso_3166_2": "CH-SG",
+      "kanton_slug": "sankt-gallen",
+      "kanton_name_fr": "Saint-Gall",
+      "kanton_name_it": "San Gallo",
+      "kanton_name_rm": "Son Gagl",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "SH",
+      "kanton_name": "Schaffhausen",
+      "kanton_iso_3166_2": "CH-SH",
+      "kanton_slug": "schaffhausen",
+      "kanton_name_fr": "Schaffhouse",
+      "kanton_name_it": "Sciaffusa",
+      "kanton_name_rm": "Schaffusa",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "SO",
+      "kanton_name": "Solothurn",
+      "kanton_iso_3166_2": "CH-SO",
+      "kanton_slug": "solothurn",
+      "kanton_name_fr": "Soleure",
+      "kanton_name_it": "Soletta",
+      "kanton_name_rm": "Soloturn",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "SZ",
+      "kanton_name": "Schwyz",
+      "kanton_iso_3166_2": "CH-SZ",
+      "kanton_slug": "schwyz",
+      "kanton_name_fr": "Schwytz",
+      "kanton_name_it": "Svitto",
+      "kanton_name_rm": "Sviz",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "TG",
+      "kanton_name": "Thurgau",
+      "kanton_iso_3166_2": "CH-TG",
+      "kanton_slug": "thurgau",
+      "kanton_name_fr": "Thurgovie",
+      "kanton_name_it": "Turgovia",
+      "kanton_name_rm": "Turgovia",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "TI",
+      "kanton_name": "Tessin",
+      "kanton_iso_3166_2": "CH-TI",
+      "kanton_slug": "tessin",
+      "kanton_name_fr": "Tessin",
+      "kanton_name_it": "Ticino",
+      "kanton_name_rm": "Tessin",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "UR",
+      "kanton_name": "Uri",
+      "kanton_iso_3166_2": "CH-UR",
+      "kanton_slug": "uri",
+      "kanton_name_fr": "Uri",
+      "kanton_name_it": "Uri",
+      "kanton_name_rm": "Uri",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "VD",
+      "kanton_name": "Waadt",
+      "kanton_iso_3166_2": "CH-VD",
+      "kanton_slug": "waadt",
+      "kanton_name_fr": "Vaud",
+      "kanton_name_it": "Vaud",
+      "kanton_name_rm": "Vad",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "VS",
+      "kanton_name": "Wallis",
+      "kanton_iso_3166_2": "CH-VS",
+      "kanton_slug": "wallis",
+      "kanton_name_fr": "Valais",
+      "kanton_name_it": "Vallese",
+      "kanton_name_rm": "Vallais",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "ZG",
+      "kanton_name": "Zug",
+      "kanton_iso_3166_2": "CH-ZG",
+      "kanton_slug": "zug",
+      "kanton_name_fr": "Zoug",
+      "kanton_name_it": "Zugo",
+      "kanton_name_rm": "Zug",
+      "nationalitaetszeichen": "CH"
+    },
+    {
+      "unterscheidungszeichen": "ZH",
+      "kanton_name": "Zürich",
+      "kanton_iso_3166_2": "CH-ZH",
+      "kanton_slug": "zuerich",
+      "kanton_name_fr": "Zurich",
+      "kanton_name_it": "Zurigo",
+      "kanton_name_rm": "Turitg",
+      "nationalitaetszeichen": "CH"
+    }
+  ],
+  "meta": {
+    "title": "Kfz-Kennzeichen Schweiz — Kantonskürzel aller Kantone - Kostenloser Download",
+    "description": "Alle Schweizer Kantonskürzel (Unterscheidungszeichen) mit deutschem, französischem, italienischem und rätoromanischem Kantonsnamen sowie ISO-3166-2-Code. Quelle: openpotato/kfz-kennzeichen (src/ch/kennzeichen.csv). Enthält 26 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Kfz-Kennzeichen Schweiz — Kantonskürzel aller Kantone | ListBase",
+    "seo_description": "Herunterladen Kfz-Kennzeichen Schweiz — Kantonskürzel aller Kantone — 26 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 26 Datensätze / 8 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

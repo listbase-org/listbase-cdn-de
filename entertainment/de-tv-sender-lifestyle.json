@@ -1,0 +1,316 @@
+{
+  "id": "de-tv-sender-lifestyle",
+  "name": "Lifestyle-Sender (Lifestyle TV channels)",
+  "title": "Lifestyle-Sender (Lifestyle TV channels)",
+  "description": "Deutsche Fernsehsender der Kategorie \"lifestyle\" (Lifestyle) — 15 Sender aus dem offenen Register iptv-org/database. Enthält Sendername, alternative Namen, Netzwerk, Eigentümer, Kategorien, Start- und Einstellungsdatum sowie Webseite.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "AstroTV.de",
+      "name": "AstroTV",
+      "alt_names": "",
+      "network": "",
+      "owners": "Astro",
+      "country": "DE",
+      "categories": "education, lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.astrotv.de/"
+    },
+    {
+      "id": 2,
+      "channel_id": "AutenticTravel.de",
+      "name": "Autentic Travel",
+      "alt_names": "A Travel",
+      "network": "Autentic",
+      "owners": "Autentic GmbH, Beta Film GmbH",
+      "country": "DE",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.autentic.com/117/Channels.htm#autentic_travel"
+    },
+    {
+      "id": 3,
+      "channel_id": "DMAX.de",
+      "name": "DMAX",
+      "alt_names": "",
+      "network": "",
+      "owners": "Warner Bros. Discovery Inc.",
+      "country": "DE",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "2006-09-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.dmax.de/"
+    },
+    {
+      "id": 4,
+      "channel_id": "DeutschlandsGayChat.de",
+      "name": "Deutschlands GayChat",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 5,
+      "channel_id": "HGTV.de",
+      "name": "HGTV",
+      "alt_names": "Home & Garden TV",
+      "network": "",
+      "owners": "Warner Bros. Discovery",
+      "country": "DE",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "2019-06-06",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://de.hgtv.com/"
+    },
+    {
+      "id": 6,
+      "channel_id": "HealthTV.de",
+      "name": "Health TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.healthtv.de/"
+    },
+    {
+      "id": 7,
+      "channel_id": "MarcoPoloTV.de",
+      "name": "Marco Polo TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.marcopolo.de/tv.html"
+    },
+    {
+      "id": 8,
+      "channel_id": "PlutoTVCocina.de",
+      "name": "Pluto TV Cocina",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Pluto TV Europe GmbH, Paramount Skydance Corporation",
+      "country": "DE",
+      "categories": "cooking, lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/en/live-tv/pluto-tv-cocina-es"
+    },
+    {
+      "id": 9,
+      "channel_id": "PlutoTVCucina.de",
+      "name": "Pluto TV Cucina",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Pluto TV Europe GmbH, Paramount Skydance Corporation",
+      "country": "DE",
+      "categories": "cooking, lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-cucina-it/details"
+    },
+    {
+      "id": 10,
+      "channel_id": "PlutoTVCuisine.de",
+      "name": "Pluto TV Cuisine",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Pluto TV Europe GmbH, Paramount Skydance Corporation",
+      "country": "DE",
+      "categories": "cooking, lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-cuisine-fr-ptv5/details"
+    },
+    {
+      "id": 11,
+      "channel_id": "PlutoTVDiseno.de",
+      "name": "Pluto TV Diseno",
+      "alt_names": "Pluto TV Diseño",
+      "network": "Pluto TV",
+      "owners": "Pluto TV Europe GmbH, Paramount Skydance Corporation",
+      "country": "DE",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-diseno-es/details"
+    },
+    {
+      "id": 12,
+      "channel_id": "PlutoTVRealLife.de",
+      "name": "Pluto TV Real Life",
+      "alt_names": "Pluto TV Real Life+",
+      "network": "Pluto TV",
+      "owners": "Pluto TV Europe GmbH, Paramount Skydance Corporation",
+      "country": "DE",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-inside-it/details"
+    },
+    {
+      "id": 13,
+      "channel_id": "PlutoTVViaggi.de",
+      "name": "Pluto TV Viaggi",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Pluto TV Europe GmbH, Paramount Skydance Corporation",
+      "country": "DE",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-viaggi-it/details"
+    },
+    {
+      "id": 14,
+      "channel_id": "TLC.de",
+      "name": "TLC",
+      "alt_names": "TLC Deutschland",
+      "network": "",
+      "owners": "Warner Bros. Discovery",
+      "country": "DE",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "2014-04-10",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.tlc.de/"
+    },
+    {
+      "id": 15,
+      "channel_id": "omaneoTV.de",
+      "name": "omaneo TV",
+      "alt_names": "",
+      "network": "omaneo",
+      "owners": "omaneo",
+      "country": "DE",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://tv.omaneo.de"
+    }
+  ],
+  "meta": {
+    "title": "Lifestyle-Sender (Lifestyle TV channels) - Kostenloser Download",
+    "description": "Deutsche Fernsehsender der Kategorie \"lifestyle\" (Lifestyle) — 15 Sender aus dem offenen Register iptv-org/database. Enthält Sendername, alternative Namen, Netzwerk, Eigentümer, Kategorien, Start- und Einstellungsdatum sowie Webseite. Enthält 15 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Lifestyle-Sender (Lifestyle TV channels) | ListBase",
+    "seo_description": "Herunterladen Lifestyle-Sender (Lifestyle TV channels) — 15 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 15 Datensätze / 13 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

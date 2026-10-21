@@ -1,0 +1,331 @@
+{
+  "id": "de-saarland-flugplaetze",
+  "name": "Flugplaetze in Saarland",
+  "title": "Flugplaetze in Saarland",
+  "description": "Alle 10 aktiven Flugplaetze und Luftfahrtanlagen im Bundesland Saarland (Saarland) aus der OurAirports-Datenbank, darunter 7 Flugplaetze und 2 Hubschrauberlandeplaetze. Teilmenge der nationalen Liste de-flugplaetze, abgegrenzt ueber iso_region=DE-SL.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "type_de",
+      "label": "Type De",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_en",
+      "label": "Bundesland En",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "boolean"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ident": "DE-0134",
+      "type": "small_airport",
+      "type_de": "Flugplatz",
+      "name": "FSV Illtal Airfield",
+      "latitude": 49.41,
+      "longitude": 7.0547,
+      "elevation_ft": 1230,
+      "iso_region": "DE-SL",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "municipality": "Wustweiler",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "ident": "DE-0249",
+      "type": "small_airport",
+      "type_de": "Flugplatz",
+      "name": "Konz-Könen Glider Field",
+      "latitude": 49.675969,
+      "longitude": 6.543002,
+      "elevation_ft": 725,
+      "iso_region": "DE-SL",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "municipality": "Konz",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "http://www.ac-trier-konz.de",
+      "wikipedia_link": "",
+      "keywords": "Segelflugplatz Konz-Könen"
+    },
+    {
+      "ident": "DE-0275",
+      "type": "small_airport",
+      "type_de": "Flugplatz",
+      "name": "Dillingen Airfield",
+      "latitude": 49.3863,
+      "longitude": 6.7493,
+      "elevation_ft": 795,
+      "iso_region": "DE-SL",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "municipality": "Saarlouis",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "http://www.lsc-dillingen.de/",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "ident": "DE-0370",
+      "type": "small_airport",
+      "type_de": "Flugplatz",
+      "name": "Schwarzenbach-Sötern Ultralight Airfield",
+      "latitude": 49.591944,
+      "longitude": 7.031389,
+      "elevation_ft": 1509,
+      "iso_region": "DE-SL",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "municipality": "Nonnweiler",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "ident": "DE-0525",
+      "type": "heliport",
+      "type_de": "Hubschrauberlandeplatz",
+      "name": "Nennig Heliport",
+      "latitude": 49.53668,
+      "longitude": 6.38792,
+      "elevation_ft": 607,
+      "iso_region": "DE-SL",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "municipality": "Nennig",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "ident": "DE-0661",
+      "type": "heliport",
+      "type_de": "Hubschrauberlandeplatz",
+      "name": "Marienhaus Hospital Sankt Wendel-Ottweiler Heliport",
+      "latitude": 49.45445,
+      "longitude": 7.17959,
+      "elevation_ft": 1035,
+      "iso_region": "DE-SL",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "municipality": "Sankt Wendel",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "ident": "EDDR",
+      "type": "medium_airport",
+      "type_de": "Verkehrsflughafen",
+      "name": "Saarbrücken Airport",
+      "latitude": 49.214545,
+      "longitude": 7.109735,
+      "elevation_ft": 1058,
+      "iso_region": "DE-SL",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "municipality": "Saarbrücken",
+      "scheduled_service": true,
+      "icao_code": "EDDR",
+      "iata_code": "SCN",
+      "gps_code": "EDDR",
+      "local_code": "",
+      "home_link": "http://www.flughafen-saarbruecken.de/",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Saarbr%C3%BCcken_Airport",
+      "keywords": ""
+    },
+    {
+      "ident": "EDRC",
+      "type": "small_airport",
+      "type_de": "Flugplatz",
+      "name": "Marpingen Glider Airfield",
+      "latitude": 49.453,
+      "longitude": 7.039,
+      "elevation_ft": 1155,
+      "iso_region": "DE-SL",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "municipality": "Marpingen",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "EDRC",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "http://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Marpingen",
+      "keywords": "Segelfluggelände Marpingen"
+    },
+    {
+      "ident": "EDRJ",
+      "type": "small_airport",
+      "type_de": "Flugplatz",
+      "name": "Saarlouis-Düren Airfield",
+      "latitude": 49.3125,
+      "longitude": 6.674444,
+      "elevation_ft": 1119,
+      "iso_region": "DE-SL",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "municipality": "Saarlouis",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "EDRJ",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Saarlouis-D%C3%BCren",
+      "keywords": "Flugplatz Saarlouis-Düren"
+    },
+    {
+      "ident": "EDRX",
+      "type": "small_airport",
+      "type_de": "Flugplatz",
+      "name": "Bexbach Glider Field",
+      "latitude": 49.34,
+      "longitude": 7.253333,
+      "elevation_ft": "",
+      "iso_region": "DE-SL",
+      "bundesland": "Saarland",
+      "bundesland_en": "Saarland",
+      "municipality": "Bexbach",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "EDRX",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Neunkirchen-Bexbach",
+      "keywords": "Neunkirchen"
+    }
+  ],
+  "meta": {
+    "title": "Flugplaetze in Saarland - Kostenloser Download",
+    "description": "Alle 10 aktiven Flugplaetze und Luftfahrtanlagen im Bundesland Saarland (Saarland) aus der OurAirports-Datenbank, darunter 7 Flugplaetze und 2 Hubschrauberlandeplaetze. Teilmenge der nationalen Liste de-flugplaetze, abgegrenzt ueber iso_region=DE-SL. Enthält 10 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Flugplaetze in Saarland | ListBase",
+    "seo_description": "Herunterladen Flugplaetze in Saarland — 10 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 10 Datensätze / 19 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

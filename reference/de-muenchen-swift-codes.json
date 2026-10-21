@@ -1,0 +1,1942 @@
+{
+  "id": "de-muenchen-swift-codes",
+  "name": "SWIFT-/BIC-Codes — Muenchen",
+  "title": "SWIFT-/BIC-Codes — Muenchen",
+  "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 316 Institute, die die Quelle mit der Stadt \"MUENCHEN\" angibt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 316,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "AAREAL BANK AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "AARBDE5W700"
+    },
+    {
+      "bank": "AIRBUS BANK GMBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "AGBMDE21"
+    },
+    {
+      "bank": "AIRBUS BANK GMBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "AGBMDEMM"
+    },
+    {
+      "bank": "AIRBUS BANK GMBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "AGBMDEMMTGT"
+    },
+    {
+      "bank": "AIRBUS GROUP S.E.",
+      "city": "MUENCHEN",
+      "branch": "(PAYMENT DEPARTMENT)",
+      "swift_code": "EADSDEMMPAY"
+    },
+    {
+      "bank": "ALLIANZ GLOBAL INVESTORSK AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "ALGVDEM1"
+    },
+    {
+      "bank": "ALLIANZ SE",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "AZSEDEM1"
+    },
+    {
+      "bank": "ALLIANZ VERSICHERUNGS - AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "ALAVDEMS"
+    },
+    {
+      "bank": "ARAG LEBENSVERSICHERUNG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "ARLNDEM1"
+    },
+    {
+      "bank": "BANK FUER SOZIALWIRTSCHAFT AG",
+      "city": "MUENCHEN",
+      "branch": "(MUENCHEN)",
+      "swift_code": "BFSWDE33MUE"
+    },
+    {
+      "bank": "BANK VONTOBEL EUROPE AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "VONTDEM1"
+    },
+    {
+      "bank": "BANKHAUS AUGUST LENZ AND CO. AKTIENGESELLSCHAFT",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "LENZDEM1"
+    },
+    {
+      "bank": "BANKHAUS AUGUST LENZ UND CO.AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "LENZDEMA"
+    },
+    {
+      "bank": "BANKHAUS ELLWANGER AND GEIGER KG",
+      "city": "MUENCHEN",
+      "branch": "(NIEDERLASSUNG)",
+      "swift_code": "ELGEDES1BRA"
+    },
+    {
+      "bank": "BANKHAUS HERZOGPARK AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "HERZDEM1"
+    },
+    {
+      "bank": "BANKHAUS HERZOGPARK AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "HERZDEM1001"
+    },
+    {
+      "bank": "BANKHAUS MAFFEI AND CO KG A.A.",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "MAFBDEM1"
+    },
+    {
+      "bank": "BANKHAUS VON DER HEYDT GMBH UND CO. KG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "BVDHDEMM"
+    },
+    {
+      "bank": "BARCLAYS GLOBAL INVESTORS (DEUTSCHLAND) AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "INXDDEM1"
+    },
+    {
+      "bank": "BAYERISCHE BOERSE AKTIENGESELLSCHAFT",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "XMUNDEM1"
+    },
+    {
+      "bank": "BAYERISCHE LANDESBANK, MUENCHEN",
+      "city": "MUENCHEN",
+      "branch": "(CLS OPERATIONS)",
+      "swift_code": "BYLADEMMCLS"
+    },
+    {
+      "bank": "BAYERISCHE LANDESBANK, MUENCHEN",
+      "city": "MUENCHEN",
+      "branch": "(DOTATIONSKONTO)",
+      "swift_code": "BYLADEM1D12"
+    },
+    {
+      "bank": "BAYERISCHE LANDESBANK, MUENCHEN",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2SECURITIES)",
+      "swift_code": "BYLADEMMSM1"
+    },
+    {
+      "bank": "BAYERISCHE LANDESBANK, MUENCHEN",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2SECURITIES)",
+      "swift_code": "BYLADEMMSM2"
+    },
+    {
+      "bank": "BAYERISCHE LANDESBANK, MUENCHEN",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2SECURITIES)",
+      "swift_code": "BYLADEMMSM3"
+    },
+    {
+      "bank": "BAYERISCHE LANDESBANK, MUENCHEN",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "BYLADEMM"
+    },
+    {
+      "bank": "BAYERN-INVEST KAPITALVERWALTUNGSGESELLSCHAFT MBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "BAYVDEMM"
+    },
+    {
+      "bank": "BMW BANK GMBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "BMWBDEM1"
+    },
+    {
+      "bank": "BMW BANK GMBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "BMWBDEMU"
+    },
+    {
+      "bank": "BNP PARIBAS S.A. NIEDERLASSUNG DEUTSCHLAND (FORMERLY DAB BANK AG)",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "DABBDEMM"
+    },
+    {
+      "bank": "BNP PARIBAS S.A. NIEDERLASSUNG DEUTSCHLAND (FORMERLY DAB BANK AG)",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "DABBDEMM001"
+    },
+    {
+      "bank": "BSH HAUSGERATE GMBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "BSHGDEMM"
+    },
+    {
+      "bank": "CACEIS BANK, GERMANY BRANCH",
+      "city": "MUENCHEN",
+      "branch": "(CLEARSTREAM/T2S)",
+      "swift_code": "FMBKDEMM238"
+    },
+    {
+      "bank": "CACEIS BANK, GERMANY BRANCH",
+      "city": "MUENCHEN",
+      "branch": "(CLEARSTREAM/T2S)",
+      "swift_code": "FMBKDEMM257"
+    },
+    {
+      "bank": "CACEIS BANK, GERMANY BRANCH",
+      "city": "MUENCHEN",
+      "branch": "(CLEARSTREAM/T2S)",
+      "swift_code": "FMBKDEMM258"
+    },
+    {
+      "bank": "CACEIS BANK, GERMANY BRANCH",
+      "city": "MUENCHEN",
+      "branch": "(CLEARSTREAM/T2S)",
+      "swift_code": "FMBKDEMM259"
+    },
+    {
+      "bank": "CACEIS BANK, GERMANY BRANCH",
+      "city": "MUENCHEN",
+      "branch": "(CLEARSTREAM/T2S)",
+      "swift_code": "FMBKDEMM260"
+    },
+    {
+      "bank": "CACEIS BANK, GERMANY BRANCH",
+      "city": "MUENCHEN",
+      "branch": "(GLOBAL CUSTODY SERVICES)",
+      "swift_code": "FMBKDEMMGCS"
+    },
+    {
+      "bank": "CACEIS BANK, GERMANY BRANCH",
+      "city": "MUENCHEN",
+      "branch": "(INTERNATIONAL CASH MANAGEMENT CENTER)",
+      "swift_code": "FMBKDEMMICM"
+    },
+    {
+      "bank": "CACEIS BANK, GERMANY BRANCH",
+      "city": "MUENCHEN",
+      "branch": "(MUENCHEN CM ACCOUNT INFORMATIONS)",
+      "swift_code": "FMBKDEMM700"
+    },
+    {
+      "bank": "CACEIS BANK, GERMANY BRANCH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "FMBKDEMM"
+    },
+    {
+      "bank": "CACEIS BANK, GERMANY BRANCH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "FMBKDEMM050"
+    },
+    {
+      "bank": "CACEIS BANK, GERMANY BRANCH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "FMBKDEMM109"
+    },
+    {
+      "bank": "CACEIS BANK, GERMANY BRANCH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "FMBKDEMM115"
+    },
+    {
+      "bank": "CACEIS BANK, GERMANY BRANCH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "FMBKDEMM122"
+    },
+    {
+      "bank": "CACEIS BANK, GERMANY BRANCH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "FMBKDEMM210"
+    },
+    {
+      "bank": "CACEIS BANK, GERMANY BRANCH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "FMBKDEMM616"
+    },
+    {
+      "bank": "CACEIS BANK, GERMANY BRANCH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "FMBKDEMM913"
+    },
+    {
+      "bank": "CACEIS BANK, GERMANY BRANCH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "FMBKDEMM992"
+    },
+    {
+      "bank": "CACEIS BANK, GERMANY BRANCH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "FMBKDEMMGRP"
+    },
+    {
+      "bank": "COMMERZ FINANZ GMBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "WKVBDEM1"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "MUENCHEN",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF098"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "MUENCHEN",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF099"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "MUENCHEN",
+      "branch": "(CC SP7)",
+      "swift_code": "COBADEFFS07"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "MUENCHEN",
+      "branch": "(COMMERZBANK SERVICE-BZ)",
+      "swift_code": "COBADEFFBZM"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "MUENCHEN",
+      "branch": "(FILIALE 2)",
+      "swift_code": "COBADEFF709"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "MUENCHEN",
+      "branch": "(MUE GF-M48)",
+      "swift_code": "COBADEFF970"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "MUENCHEN",
+      "branch": "(ZW.38)",
+      "swift_code": "COBADEFF738"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "COBADEFF700"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "MUENCHEN",
+      "branch": "(CORPORATE BANKING DCC-ITGK)",
+      "swift_code": "DRESDEFFI45"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "MUENCHEN",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK)",
+      "swift_code": "DRESDEFFI23"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "MUENCHEN",
+      "branch": "(PCC DCC-ITGK 3)",
+      "swift_code": "DRESDEFFI55"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "MUENCHEN",
+      "branch": "(PCC DCC-ITGK 4)",
+      "swift_code": "DRESDEFFJ23"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "MUENCHEN",
+      "branch": "(PCC DCC-ITGK 5)",
+      "swift_code": "DRESDEFFJ24"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "MUENCHEN",
+      "branch": "(PCC DCC-ITGK 6)",
+      "swift_code": "DRESDEFFJ25"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "MUENCHEN",
+      "branch": "(ZW 56)",
+      "swift_code": "DRESDEFF714"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "MUENCHEN",
+      "branch": "(ZW 57)",
+      "swift_code": "DRESDEFF724"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "DRESDEFF700"
+    },
+    {
+      "bank": "DERO BANK AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "VEAKDEMM"
+    },
+    {
+      "bank": "DERO BANK AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "VEAKDEMMHAM"
+    },
+    {
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "DAAEDED1006"
+    },
+    {
+      "bank": "DEUTSCHE BANK AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "DEUTDEMM"
+    },
+    {
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "DEUTDEDBMUC"
+    },
+    {
+      "bank": "DEUTSCHE BUNDESBANK",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "MARKDEF1700"
+    },
+    {
+      "bank": "DEUTSCHE KONTOR PRIVATBANK AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "DEKTDE71002"
+    },
+    {
+      "bank": "DEUTSCHE POSTBANK AG",
+      "city": "MUENCHEN",
+      "branch": "(MUENCHEN BRANCH)",
+      "swift_code": "PBNKDEFF700"
+    },
+    {
+      "bank": "DEUTSCHE POSTBANK AG",
+      "city": "MUENCHEN",
+      "branch": "(MUNICH SAVINGS)",
+      "swift_code": "PBNKDEFF701"
+    },
+    {
+      "bank": "DONNER AND REUSCHEL AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "CHDBDEM1"
+    },
+    {
+      "bank": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "GENODEFF701"
+    },
+    {
+      "bank": "EUROPEAN BANK FOR FINANCIAL SERVICES GMBH (EBASE)",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "COBADEMX"
+    },
+    {
+      "bank": "FCF FOX CORPORATE FINANCE GMBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "FFCFDEM1"
+    },
+    {
+      "bank": "FIDOR BANK AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "FDDODEMM"
+    },
+    {
+      "bank": "FIDOR BANK AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "FDORDEFF"
+    },
+    {
+      "bank": "FMS WERTMANAGEMENT AOER",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "FMSWDEMM"
+    },
+    {
+      "bank": "FREISTAAT BAYERN",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "FRBYDEM1"
+    },
+    {
+      "bank": "FURST FUGGER PRIVATBANK AKTIENGESELLSCHAFT",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "FUBKDE71MUC"
+    },
+    {
+      "bank": "GENOSSENSCHAFTSBANK EG MUENCHEN",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "GENODEF1M07"
+    },
+    {
+      "bank": "GENOSSENSCHAFTSBANK MUENCHEN EG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "GENODEF1M7Y"
+    },
+    {
+      "bank": "GIESECKE UND DEVRIENT",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "GIESDEMM"
+    },
+    {
+      "bank": "GRUND INTELLECTUAL PROPERTY GROUP",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "GIPGDEM1"
+    },
+    {
+      "bank": "HAUSBANK MUENCHEN EG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "GENODEF1M04"
+    },
+    {
+      "bank": "HAUSBANK MUENCHEN EG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "GENODEF1MY4"
+    },
+    {
+      "bank": "HAUSBANK MUENCHEN EG BANK FUER HAUS- UND GRUNDBESITZ",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "GENODEF1MU4"
+    },
+    {
+      "bank": "HSBC TRINKAUS UND BURKHARDT AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "TUBDDEDD700"
+    },
+    {
+      "bank": "HVB WEALTH MANAGEMENT HOLDING GMBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "HVBWDEM1"
+    },
+    {
+      "bank": "HW-INVEST AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "HWINDEM1"
+    },
+    {
+      "bank": "IMC OPTIONS B.V., ZWEIGNIEDERLASSUNG MUNCHEN",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "IMOPDEM1"
+    },
+    {
+      "bank": "INTERNATIONALES IMMOBILIEN-INSTITUT GMBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "IIIDDEM1"
+    },
+    {
+      "bank": "ISBANK AG",
+      "city": "MUENCHEN",
+      "branch": "(FILIALE MUENCHEN)",
+      "swift_code": "ISBKDEFXMUN"
+    },
+    {
+      "bank": "KREISSPARKASSE MUENCHEN STARNBERG EBERSBERG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "BYLADEM1EBE"
+    },
+    {
+      "bank": "KREISSPARKASSE MUENCHEN STARNBERG EBERSBERG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "BYLADEM1KMS"
+    },
+    {
+      "bank": "LANDESAMT FUR FINANZEN",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "LAFNDEM1"
+    },
+    {
+      "bank": "LBS BAYERISCHE LANDESBAUSPARKASSE",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "LBBNDEM1"
+    },
+    {
+      "bank": "LEBENSVERSICHERUNG VON 1871",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "LEBNDEM1"
+    },
+    {
+      "bank": "LFA FOERDERBANK BAYERN",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "LFFBDEMM"
+    },
+    {
+      "bank": "LINDE AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "LNDEDEMM"
+    },
+    {
+      "bank": "MAN FINANCIAL SERVICES SAS ZWEIGNIEDERLASSUNG DEUTSCHLAND",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "MFESDEM1"
+    },
+    {
+      "bank": "MAN SE",
+      "city": "MUENCHEN",
+      "branch": "(ACCOUNTING)",
+      "swift_code": "MANXDEMMACC"
+    },
+    {
+      "bank": "MAN SE",
+      "city": "MUENCHEN",
+      "branch": "(AUSZUEGE)",
+      "swift_code": "MANXDEMMUPL"
+    },
+    {
+      "bank": "MAN SE",
+      "city": "MUENCHEN",
+      "branch": "(MAN ACCOUNTING CENTER)",
+      "swift_code": "MANXDEMMMAC"
+    },
+    {
+      "bank": "MAN SE",
+      "city": "MUENCHEN",
+      "branch": "(MDT KONZERN)",
+      "swift_code": "MANXDEMMMDT"
+    },
+    {
+      "bank": "MAN SE",
+      "city": "MUENCHEN",
+      "branch": "(MTB)",
+      "swift_code": "MANXDEMMMTB"
+    },
+    {
+      "bank": "MAN SE",
+      "city": "MUENCHEN",
+      "branch": "(RENK KONZERN)",
+      "swift_code": "MANXDEMMRNK"
+    },
+    {
+      "bank": "MAN SE",
+      "city": "MUENCHEN",
+      "branch": "(UPOLI UND MAC)",
+      "swift_code": "MANXDEMMBOT"
+    },
+    {
+      "bank": "MAN SE",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "MANXDEMM"
+    },
+    {
+      "bank": "MEAG MUNICH ERGO ASSETMANAGEMENT GMBH",
+      "city": "MUENCHEN",
+      "branch": "(ELECTRONIC TRADE CONFIRMATION)",
+      "swift_code": "MERGDEMHETC"
+    },
+    {
+      "bank": "MEAG MUNICH ERGO ASSETMANAGEMENT GMBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "MERGDEM1"
+    },
+    {
+      "bank": "MEAG MUNICH ERGO ASSETMANAGEMENT GMBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "MERGDEMH"
+    },
+    {
+      "bank": "MEAG MUNICH ERGO KAPITALANLAGEGESELLSCHAFT MBH",
+      "city": "MUENCHEN",
+      "branch": "(ELECTRONIC TRADE CONFIRMATION)",
+      "swift_code": "MEAGDEMMETC"
+    },
+    {
+      "bank": "MEAG MUNICH ERGO KAPITALANLAGEGESELLSCHAFT MBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "MEAGDEMM"
+    },
+    {
+      "bank": "MEAG MUNICH ERGO KAPITALANLAGEGESELLSCHAFT MBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "MEAGDEMMBMO"
+    },
+    {
+      "bank": "MERCK FINCK INVEST ASSET MANAGEMENT GMBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "MFIMDEM1"
+    },
+    {
+      "bank": "MERCK FINCK PRIVATBANKIERS",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "MEFIDEMM"
+    },
+    {
+      "bank": "MERCK, FINCK UND CO",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "MEFIDE21"
+    },
+    {
+      "bank": "MERKUR BANK KGAA",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "GENODEF1M06"
+    },
+    {
+      "bank": "MUENCHENER HYPOTHEKENBANK E.G.",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "MHYPDEMM"
+    },
+    {
+      "bank": "MUENCHENER RUECKVERSICHERUNGS- GESELLSCHAFT",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "MRGRDEMM"
+    },
+    {
+      "bank": "MUENCHENER RUECKVERSICHERUNGS- GESELLSCHAFT",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "MRGRDEMMMCM"
+    },
+    {
+      "bank": "MUENCHNER BANK EG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "GENODEF1M01"
+    },
+    {
+      "bank": "MUENCHNER BANK EG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "GENODEF1M1Y"
+    },
+    {
+      "bank": "MUENCHNER KAPITALANLAGE AKTIENGESELLSCHAFT",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "MKGADEM1"
+    },
+    {
+      "bank": "NET-M PRIVATBANK 1891 AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "BVWBDE2W"
+    },
+    {
+      "bank": "OBERBANK AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "OBKLDEMX"
+    },
+    {
+      "bank": "ODDO BHF AKTIENGESELLSCHAFT",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "BHFBDEFF700"
+    },
+    {
+      "bank": "OLDENBURGISCHE LANDESBANK AG",
+      "city": "MUENCHEN",
+      "branch": "(AZB)",
+      "swift_code": "OLBODEH2700"
+    },
+    {
+      "bank": "PELICAN (BC) HOLDING DEUTSCHLAND GMBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "PHDGDEM1"
+    },
+    {
+      "bank": "PSD BANK MUENCHEN EG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "GENODEF1PY4"
+    },
+    {
+      "bank": "RAIFFEISENBANK MUENCHEN EG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "GENODEF1M02"
+    },
+    {
+      "bank": "RAIFFEISENBANK MUENCHEN-NORD",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "GENODEF1M08"
+    },
+    {
+      "bank": "RAIFFEISENBANK MUENCHEN-SUED EG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "GENODEF1M03"
+    },
+    {
+      "bank": "RAIFFEISENBANK MUENCHEN-SUED EG-GAA",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "GENODEF1GAA"
+    },
+    {
+      "bank": "RAIFFEISENLANDESBANK OBEROESTERREICH AKTIENGESELLSCHAFT ZWEIGNIEDERLASSUNG SUEDDEUTSCHLAND",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "RZOODE77"
+    },
+    {
+      "bank": "SEB AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "ESSEDE5F700"
+    },
+    {
+      "bank": "SIEMENS AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "SIEMDEMM"
+    },
+    {
+      "bank": "SIEMENS BANK GMBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "SIBADEMM"
+    },
+    {
+      "bank": "SIEMENS FONDS INVEST GMBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "SIKADEMM"
+    },
+    {
+      "bank": "SPARDA-BANK MUENCHEN EG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "GENODEF1S04"
+    },
+    {
+      "bank": "SPARDA-BANK MUENCHEN EG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "SPBKDEMM"
+    },
+    {
+      "bank": "SPARDA-BANK MUENCHEN EG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "SPBKDEMMDOT"
+    },
+    {
+      "bank": "ST. GALLER KANTONALBANK DEUTSCHLAND AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "GAKDDEM1"
+    },
+    {
+      "bank": "ST. GALLER KANTONALBANK DEUTSCHLAND AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "GAKDDEM1111"
+    },
+    {
+      "bank": "STADTSPARKASSE MUENCHEN",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "SSKMDEA1"
+    },
+    {
+      "bank": "STADTSPARKASSE MUENCHEN",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "SSKMDEMM"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(AGENT FUND TRADING)",
+      "swift_code": "SBOSDEMXAFT"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(AGENT FUND TRADING)",
+      "swift_code": "SBOSDEMXZUB"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(CASH OPERATIONS)",
+      "swift_code": "SBOSDEMXATV"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(CASH OPERATIONS)",
+      "swift_code": "SBOSDEMXLUX"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(CUSTODY OPERATIONS)",
+      "swift_code": "SBOSDEMXCST"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(CUSTODY OPERATIONS)",
+      "swift_code": "SBOSDEMXELE"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(CUSTODY OPERATIONS)",
+      "swift_code": "SBOSDEMXZUR"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(FOREIGN EXCHANGE)",
+      "swift_code": "SBOSDEMXFEX"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2)",
+      "swift_code": "SBOSDEMXTGT"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX084"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX105"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX128"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX129"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX130"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX131"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX133"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX193"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX200"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX348"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX349"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX350"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX351"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX355"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX356"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX357"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX358"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX481"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX500"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX513"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX514"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX574"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TARGET2-SECURITIES OPERATIONS)",
+      "swift_code": "SBOSDEMX577"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "(TRADE AND SETTLEMENT DEPT.)",
+      "swift_code": "SBOSDEMXGTS"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "SBOSDEMX"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "SBOSDEMXCBF"
+    },
+    {
+      "bank": "STATE STREET BANK INTERNATIONAL GMBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "SBOSDEMXZTA"
+    },
+    {
+      "bank": "STATE STREET GLOBAL ADVISORS GMBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "STGIDEM1"
+    },
+    {
+      "bank": "SUEDTIROLER SPARKASSE",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "SUSKDEM1"
+    },
+    {
+      "bank": "TMW PRAMERICA PROPERTY INVESTMENT GMBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "TMWPDEM1"
+    },
+    {
+      "bank": "TUEV SUED AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "TUEVDEM1"
+    },
+    {
+      "bank": "UBI BANCA INTERNATIONAL S.A., NIEDERLASSUNG MUENCHEN",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "BEPODEMM"
+    },
+    {
+      "bank": "UBS EUROPE SE",
+      "city": "MUENCHEN",
+      "branch": "(MUENCHEN)",
+      "swift_code": "SMHBDEFFMUN"
+    },
+    {
+      "bank": "UBS REAL ESTATE KAPITALANLAGEGESELLSCHAFT MBH",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "UREADEM1"
+    },
+    {
+      "bank": "UNICREDIT BANK AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "UNRDDEM1"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(BANK SERVICE BILLING)",
+      "swift_code": "HYVEDEMMBSB"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(CLS CLEARING)",
+      "swift_code": "HYVEDEMMCLS"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(DOTATIONSKONTEN)",
+      "swift_code": "HYVEDEMMDOT"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME01"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME02"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME03"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME04"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME05"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME06"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME07"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME08"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME09"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME10"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME11"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME12"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME13"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME14"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME15"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME16"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME17"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME18"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME19"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME20"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME21"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME22"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME23"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME24"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME25"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME26"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME27"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME28"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME29"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME30"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME31"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME32"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME33"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME34"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME35"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME36"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME37"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME38"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME39"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME40"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME41"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME42"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME43"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME44"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME45"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME46"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME47"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME48"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME49"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME50"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME52"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME55"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME56"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME57"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME58"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME59"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME60"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME61"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME62"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME63"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME64"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME65"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME66"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME67"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME68"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME69"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME70"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME71"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME72"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME73"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME74"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME75"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME76"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME77"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME78"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME79"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME80"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME81"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME82"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME83"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME84"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME85"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME86"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME87"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME88"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME89"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME90"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME91"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME92"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME93"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME94"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME95"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME96"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME97"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME98"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EAC)",
+      "swift_code": "HYVEDEMME99"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EASY COLLECT)",
+      "swift_code": "HYVEDEMMEAC"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(EXCHANGE TRADED DERIVATIVES)",
+      "swift_code": "HYVEDEMMETD"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(FILE ACT ROUTING)",
+      "swift_code": "HYVEDEMMFAR"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(GROUP CUSTODY SERVICE)",
+      "swift_code": "HYVEDEMMGCS"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(INTERNATIONAL CASH MANAGEMENT)",
+      "swift_code": "HYVEDEMMICM"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(MUENCHEN CM ACCOUNT INFORMATIONS)",
+      "swift_code": "HYVEDEMM700"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(TRADE SERVICE UTILITY)",
+      "swift_code": "HYVEDEMMTSU"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "(TREASURY SETTLEMENT)",
+      "swift_code": "HYVEDEMMTSY"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "HYVEDEMM"
+    },
+    {
+      "bank": "UNICREDIT FAMILY FINANCING BANK, NIEDERLASSUNG DER UNICREDIT S.P.A.",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "CLABDEMM"
+    },
+    {
+      "bank": "URA RATING AGENTUR AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "URRADEM1"
+    },
+    {
+      "bank": "V-BANK AG",
+      "city": "MUENCHEN",
+      "branch": "(PM-KONTO)",
+      "swift_code": "VBANDEMMPML"
+    },
+    {
+      "bank": "V-BANK AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "VBANDEMM"
+    },
+    {
+      "bank": "VEREINSBANK VICTORIA BAUSPAR AKTIENGESELLSCHAFT",
+      "city": "MUENCHEN",
+      "branch": "(HBA)",
+      "swift_code": "VVAGDEM1HBA"
+    },
+    {
+      "bank": "VEREINSBANK VICTORIA BAUSPAR AKTIENGESELLSCHAFT",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "VVAGDEM1"
+    },
+    {
+      "bank": "VOLKSBANK RAIFFEISENBANK DACHAU EG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "VORUDEM1"
+    },
+    {
+      "bank": "VPE WERTPAPIERHANDELSBANK AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "VPEWDEM1"
+    },
+    {
+      "bank": "VZ DEPOTBANK DEUTSCHLAND AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "DEPDDEMM"
+    },
+    {
+      "bank": "WACKER CHEMIE AG",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "WACKDEM1"
+    },
+    {
+      "bank": "WACKER NEUSON SE",
+      "city": "MUENCHEN",
+      "branch": "",
+      "swift_code": "WNSEDEMM"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT-/BIC-Codes — Muenchen - Kostenloser Download",
+    "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 316 Institute, die die Quelle mit der Stadt \"MUENCHEN\" angibt. Enthält 316 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "SWIFT-/BIC-Codes — Muenchen | ListBase",
+    "seo_description": "Herunterladen SWIFT-/BIC-Codes — Muenchen — 316 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 316 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

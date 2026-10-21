@@ -1,0 +1,352 @@
+{
+  "id": "de-hamburg-flugplaetze",
+  "name": "Flugplaetze in Hamburg",
+  "title": "Flugplaetze in Hamburg",
+  "description": "Alle 11 aktiven Flugplaetze und Luftfahrtanlagen im Bundesland Hamburg (Hamburg) aus der OurAirports-Datenbank, darunter 2 Flugplaetze und 7 Hubschrauberlandeplaetze. Teilmenge der nationalen Liste de-flugplaetze, abgegrenzt ueber iso_region=DE-HH.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "type_de",
+      "label": "Type De",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_en",
+      "label": "Bundesland En",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "boolean"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ident": "DE-0271",
+      "type": "small_airport",
+      "type_de": "Flugplatz",
+      "name": "Fischbek Airfield",
+      "latitude": 53.4561,
+      "longitude": 9.8317,
+      "elevation_ft": 217,
+      "iso_region": "DE-HH",
+      "bundesland": "Hamburg",
+      "bundesland_en": "Hamburg",
+      "municipality": "Fischbek",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "http://www.segelflugclub-fischbek.de/",
+      "wikipedia_link": "https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Fischbek",
+      "keywords": ""
+    },
+    {
+      "ident": "DE-0299",
+      "type": "small_airport",
+      "type_de": "Flugplatz",
+      "name": "Boberg Airfield",
+      "latitude": 53.5147,
+      "longitude": 10.1442,
+      "elevation_ft": 2,
+      "iso_region": "DE-HH",
+      "bundesland": "Hamburg",
+      "bundesland_en": "Hamburg",
+      "municipality": "",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "http://www.hac-boberg.de/",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "ident": "DE-0490",
+      "type": "heliport",
+      "type_de": "Hubschrauberlandeplatz",
+      "name": "Bethesda Hospital Helipad",
+      "latitude": 53.48615,
+      "longitude": 10.234677,
+      "elevation_ft": 95,
+      "iso_region": "DE-HH",
+      "bundesland": "Hamburg",
+      "bundesland_en": "Hamburg",
+      "municipality": "Bergedorf",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "BKB",
+      "home_link": "https://www.klinik-bergedorf.de/start",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "ident": "DE-0491",
+      "type": "heliport",
+      "type_de": "Hubschrauberlandeplatz",
+      "name": "Wilhelmstift Catholic Children's Hospital Helipad",
+      "latitude": 53.587442,
+      "longitude": 10.164236,
+      "elevation_ft": 80,
+      "iso_region": "DE-HH",
+      "bundesland": "Hamburg",
+      "bundesland_en": "Hamburg",
+      "municipality": "Hamburg",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "KKKW",
+      "home_link": "",
+      "wikipedia_link": "https://de.wikipedia.org/wiki/Katholisches_Kinderkrankenhaus_Wilhelmstift",
+      "keywords": ""
+    },
+    {
+      "ident": "DE-0492",
+      "type": "heliport",
+      "type_de": "Hubschrauberlandeplatz",
+      "name": "Hamburg Military Hospital Helipad",
+      "latitude": 53.596875,
+      "longitude": 10.077857,
+      "elevation_ft": 56,
+      "iso_region": "DE-HH",
+      "bundesland": "Hamburg",
+      "bundesland_en": "Hamburg",
+      "municipality": "Hamburg",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "BWK",
+      "home_link": "https://hamburg.bwkrankenhaus.de/startseite.html",
+      "wikipedia_link": "https://de.wikipedia.org/wiki/Bundeswehrkrankenhaus_Hamburg",
+      "keywords": ""
+    },
+    {
+      "ident": "DE-0494",
+      "type": "heliport",
+      "type_de": "Hubschrauberlandeplatz",
+      "name": "Asklepios Hospital Harburg Helipad",
+      "latitude": 53.459786,
+      "longitude": 9.950835,
+      "elevation_ft": 210,
+      "iso_region": "DE-HH",
+      "bundesland": "Hamburg",
+      "bundesland_en": "Hamburg",
+      "municipality": "Hamburg",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "AKHAR",
+      "home_link": "https://www.asklepios.com/hamburg/harburg/",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "ident": "DE-0495",
+      "type": "heliport",
+      "type_de": "Hubschrauberlandeplatz",
+      "name": "Asklepios Hospital Altona Heliport",
+      "latitude": 53.555431,
+      "longitude": 9.902346,
+      "elevation_ft": 85,
+      "iso_region": "DE-HH",
+      "bundesland": "Hamburg",
+      "bundesland_en": "Hamburg",
+      "municipality": "Hamburg",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "AKHA",
+      "home_link": "https://www.asklepios.com/hamburg/altona/",
+      "wikipedia_link": "https://de.wikipedia.org/wiki/Asklepios_Klinik_Altona",
+      "keywords": ""
+    },
+    {
+      "ident": "DE-0496",
+      "type": "heliport",
+      "type_de": "Hubschrauberlandeplatz",
+      "name": "University of Hamburg Medical Center Eppendorf Helipad",
+      "latitude": 53.591518,
+      "longitude": 9.973955,
+      "elevation_ft": 200,
+      "iso_region": "DE-HH",
+      "bundesland": "Hamburg",
+      "bundesland_en": "Hamburg",
+      "municipality": "Hamburg",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/University_Medical_Center_Hamburg-Eppendorf",
+      "keywords": ""
+    },
+    {
+      "ident": "DE-0911",
+      "type": "heliport",
+      "type_de": "Hubschrauberlandeplatz",
+      "name": "Christoph Hansa ADAC Helipad",
+      "latitude": 53.507971,
+      "longitude": 10.173382,
+      "elevation_ft": 136,
+      "iso_region": "DE-HH",
+      "bundesland": "Hamburg",
+      "bundesland_en": "Hamburg",
+      "municipality": "Hamburg",
+      "scheduled_service": false,
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "HHBG",
+      "home_link": "",
+      "wikipedia_link": "https://de.wikipedia.org/wiki/Christoph_Hansa",
+      "keywords": "HHBG, BG Klinikum Boberg"
+    },
+    {
+      "ident": "EDDH",
+      "type": "large_airport",
+      "type_de": "Grossflughafen",
+      "name": "Hamburg Helmut Schmidt Airport",
+      "latitude": 53.630402,
+      "longitude": 9.98823,
+      "elevation_ft": 53,
+      "iso_region": "DE-HH",
+      "bundesland": "Hamburg",
+      "bundesland_en": "Hamburg",
+      "municipality": "Hamburg",
+      "scheduled_service": true,
+      "icao_code": "EDDH",
+      "iata_code": "HAM",
+      "gps_code": "EDDH",
+      "local_code": "",
+      "home_link": "https://www.hamburg-airport.de/en/",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Hamburg_Airport",
+      "keywords": "Hamburg-Fuhlsbüttel Airport"
+    },
+    {
+      "ident": "EDHI",
+      "type": "medium_airport",
+      "type_de": "Verkehrsflughafen",
+      "name": "Hamburg-Finkenwerder Airport",
+      "latitude": 53.535278,
+      "longitude": 9.835556,
+      "elevation_ft": 23,
+      "iso_region": "DE-HH",
+      "bundesland": "Hamburg",
+      "bundesland_en": "Hamburg",
+      "municipality": "Hamburg",
+      "scheduled_service": false,
+      "icao_code": "EDHI",
+      "iata_code": "XFW",
+      "gps_code": "EDHI",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Hamburg_Finkenwerder_Airport",
+      "keywords": "Airbus"
+    }
+  ],
+  "meta": {
+    "title": "Flugplaetze in Hamburg - Kostenloser Download",
+    "description": "Alle 11 aktiven Flugplaetze und Luftfahrtanlagen im Bundesland Hamburg (Hamburg) aus der OurAirports-Datenbank, darunter 2 Flugplaetze und 7 Hubschrauberlandeplaetze. Teilmenge der nationalen Liste de-flugplaetze, abgegrenzt ueber iso_region=DE-HH. Enthält 11 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Flugplaetze in Hamburg | ListBase",
+    "seo_description": "Herunterladen Flugplaetze in Hamburg — 11 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 11 Datensätze / 19 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

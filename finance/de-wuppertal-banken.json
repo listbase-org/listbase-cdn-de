@@ -1,0 +1,233 @@
+{
+  "id": "de-wuppertal-banken",
+  "name": "Banken in Wuppertal — SWIFT/BIC-Codes",
+  "title": "Banken in Wuppertal — SWIFT/BIC-Codes",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Wuppertal, Germany. Subset of de-banken.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 44,
+      "bank": "AKF BANK GMBH AND CO KG",
+      "city": "WUPPERTAL",
+      "branch": "",
+      "swift_code": "AKFBDE31"
+    },
+    {
+      "id": 45,
+      "bank": "AKF BANK GMBH UND CO KG",
+      "city": "WUPPERTAL",
+      "branch": "",
+      "swift_code": "AKFBDE33"
+    },
+    {
+      "id": 104,
+      "bank": "AXALTA COATING SYSTEMS GERMANY GMBH UND CO. KG",
+      "city": "WUPPERTAL",
+      "branch": "",
+      "swift_code": "DPCODE33"
+    },
+    {
+      "id": 1264,
+      "bank": "COMMERZBANK AG",
+      "city": "WUPPERTAL",
+      "branch": "(BARMEN)",
+      "swift_code": "COBADEFF336"
+    },
+    {
+      "id": 1265,
+      "bank": "COMMERZBANK AG",
+      "city": "WUPPERTAL",
+      "branch": "",
+      "swift_code": "COBADEFF330"
+    },
+    {
+      "id": 1907,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "WUPPERTAL",
+      "branch": "(PCC DCC-ITGK 1)",
+      "swift_code": "DRESDEFFI86"
+    },
+    {
+      "id": 1908,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "WUPPERTAL",
+      "branch": "(PCC DCC-ITGK 2)",
+      "swift_code": "DRESDEFFI87"
+    },
+    {
+      "id": 1909,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "WUPPERTAL",
+      "branch": "(PCC DCC-ITGK 3)",
+      "swift_code": "DRESDEFFI88"
+    },
+    {
+      "id": 1910,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "WUPPERTAL",
+      "branch": "(PCC DCC-ITGK 4)",
+      "swift_code": "DRESDEFFI89"
+    },
+    {
+      "id": 1911,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "WUPPERTAL",
+      "branch": "(PCC DCC-ITGK 5)",
+      "swift_code": "DRESDEFFI90"
+    },
+    {
+      "id": 1912,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "WUPPERTAL",
+      "branch": "",
+      "swift_code": "DRESDEFF332"
+    },
+    {
+      "id": 1920,
+      "bank": "COMMERZBANK AG, WUPPERTAL (ZW.117)",
+      "city": "WUPPERTAL",
+      "branch": "",
+      "swift_code": "COBADEDH"
+    },
+    {
+      "id": 1935,
+      "bank": "CREDIT UND VOLKSBANK EG",
+      "city": "WUPPERTAL",
+      "branch": "",
+      "swift_code": "GENODED1CVW"
+    },
+    {
+      "id": 2040,
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "WUPPERTAL",
+      "branch": "",
+      "swift_code": "DAAEDED1016"
+    },
+    {
+      "id": 2893,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "WUPPERTAL",
+      "branch": "",
+      "swift_code": "DEUTDEDW"
+    },
+    {
+      "id": 3628,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "WUPPERTAL",
+      "branch": "",
+      "swift_code": "DEUTDEDBWUP"
+    },
+    {
+      "id": 3952,
+      "bank": "ETRIS BANK",
+      "city": "WUPPERTAL",
+      "branch": "(PM LIGHT)",
+      "swift_code": "ETRIDE31111"
+    },
+    {
+      "id": 3953,
+      "bank": "ETRIS BANK",
+      "city": "WUPPERTAL",
+      "branch": "",
+      "swift_code": "ETRIDE31"
+    },
+    {
+      "id": 4146,
+      "bank": "GEFA BANK GMBH",
+      "city": "WUPPERTAL",
+      "branch": "",
+      "swift_code": "GGABDE31"
+    },
+    {
+      "id": 5994,
+      "bank": "SEB AG",
+      "city": "WUPPERTAL",
+      "branch": "",
+      "swift_code": "ESSEDE5F330"
+    },
+    {
+      "id": 6086,
+      "bank": "SPARDA-BANK WEST EG",
+      "city": "WUPPERTAL",
+      "branch": "",
+      "swift_code": "GENODED1SPW"
+    },
+    {
+      "id": 6481,
+      "bank": "STADTSPARKASSE WUPPERTAL",
+      "city": "WUPPERTAL",
+      "branch": "(DOTATIONSKONTO)",
+      "swift_code": "WUPSDE33DOT"
+    },
+    {
+      "id": 6482,
+      "bank": "STADTSPARKASSE WUPPERTAL",
+      "city": "WUPPERTAL",
+      "branch": "",
+      "swift_code": "WUPSDE33"
+    },
+    {
+      "id": 7183,
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "WUPPERTAL",
+      "branch": "",
+      "swift_code": "HYVEDEMM809"
+    },
+    {
+      "id": 7687,
+      "bank": "VOLKSBANK IM BERGISCHEN LAND EG",
+      "city": "WUPPERTAL",
+      "branch": "",
+      "swift_code": "VBRSDE33330"
+    },
+    {
+      "id": 8230,
+      "bank": "VORWERK UND CO. KG.",
+      "city": "WUPPERTAL",
+      "branch": "",
+      "swift_code": "VORWDE3X"
+    }
+  ],
+  "meta": {
+    "title": "Banken in Wuppertal — SWIFT/BIC-Codes - Kostenloser Download",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Wuppertal, Germany. Subset of de-banken. Enthält 26 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Banken in Wuppertal — SWIFT/BIC-Codes | ListBase",
+    "seo_description": "Herunterladen Banken in Wuppertal — SWIFT/BIC-Codes — 26 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 26 Datensätze / 5 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

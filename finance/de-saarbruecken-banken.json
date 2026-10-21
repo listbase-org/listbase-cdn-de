@@ -1,0 +1,205 @@
+{
+  "id": "de-saarbruecken-banken",
+  "name": "Banken in Saarbruecken — SWIFT/BIC-Codes",
+  "title": "Banken in Saarbruecken — SWIFT/BIC-Codes",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Saarbruecken, Germany. Subset of de-banken.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 188,
+      "bank": "BANK 1 SAAR EG (FORMERLY SAAR BANK EG)",
+      "city": "SAARBRUECKEN",
+      "branch": "",
+      "swift_code": "SABADE5S"
+    },
+    {
+      "id": 1151,
+      "bank": "COMMERZBANK AG",
+      "city": "SAARBRUECKEN",
+      "branch": "",
+      "swift_code": "COBADEFF590"
+    },
+    {
+      "id": 1806,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "SAARBRUECKEN",
+      "branch": "",
+      "swift_code": "DRESDEFF590"
+    },
+    {
+      "id": 2034,
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "SAARBRUECKEN",
+      "branch": "",
+      "swift_code": "DAAEDED1026"
+    },
+    {
+      "id": 2744,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "SAARBRUECKEN",
+      "branch": "",
+      "swift_code": "DEUTDE5M555"
+    },
+    {
+      "id": 3478,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "SAARBRUECKEN",
+      "branch": "",
+      "swift_code": "DEUTDEDB595"
+    },
+    {
+      "id": 3681,
+      "bank": "DEUTSCHE BUNDESBANK",
+      "city": "SAARBRUECKEN",
+      "branch": "",
+      "swift_code": "MARKDEF1590"
+    },
+    {
+      "id": 3815,
+      "bank": "DEUTSCHE POSTBANK AG",
+      "city": "SAARBRUECKEN",
+      "branch": "(SAARBRUECKEN BRANCH)",
+      "swift_code": "PBNKDEFF590"
+    },
+    {
+      "id": 4544,
+      "bank": "LANDESBANK SAAR",
+      "city": "SAARBRUECKEN",
+      "branch": "",
+      "swift_code": "SALADE55"
+    },
+    {
+      "id": 4545,
+      "bank": "LANDESBANK SAAR",
+      "city": "SAARBRUECKEN",
+      "branch": "",
+      "swift_code": "SALADE55COL"
+    },
+    {
+      "id": 4637,
+      "bank": "MEDISERV GMBH",
+      "city": "SAARBRUECKEN",
+      "branch": "",
+      "swift_code": "MEGHDE81"
+    },
+    {
+      "id": 4669,
+      "bank": "MINISTERIUM FUER FINANZEN UND EUROPA DES SAARLANDES",
+      "city": "SAARBRUECKEN",
+      "branch": "",
+      "swift_code": "MFEADE81"
+    },
+    {
+      "id": 4917,
+      "bank": "PSD BANK RHEINNECKARSAAR EG",
+      "city": "SAARBRUECKEN",
+      "branch": "",
+      "swift_code": "GENODEF1P19"
+    },
+    {
+      "id": 4918,
+      "bank": "PSD BANK RHEINNECKARSAAR EG",
+      "city": "SAARBRUECKEN",
+      "branch": "",
+      "swift_code": "PSDRDE51"
+    },
+    {
+      "id": 5706,
+      "bank": "SAARLANDISCHE INVESTITIONSKREDITBANK AKTIENGESELLSCHAFT",
+      "city": "SAARBRUECKEN",
+      "branch": "",
+      "swift_code": "SIKBDE51"
+    },
+    {
+      "id": 5974,
+      "bank": "SEB AG",
+      "city": "SAARBRUECKEN",
+      "branch": "",
+      "swift_code": "ESSEDE5F590"
+    },
+    {
+      "id": 6013,
+      "bank": "SIKB AG-SAARLAENDISCHE INVESTITIONSKREDIT-BANK AG",
+      "city": "SAARBRUECKEN",
+      "branch": "",
+      "swift_code": "SIKBDE55"
+    },
+    {
+      "id": 6081,
+      "bank": "SPARDA-BANK SUEDWEST EG",
+      "city": "SAARBRUECKEN",
+      "branch": "",
+      "swift_code": "GENODEF1SY1"
+    },
+    {
+      "id": 6350,
+      "bank": "SPARKASSE SAARBRUECKEN",
+      "city": "SAARBRUECKEN",
+      "branch": "(DOTATIONSKONTO)",
+      "swift_code": "SAKSDE55DOT"
+    },
+    {
+      "id": 6351,
+      "bank": "SPARKASSE SAARBRUECKEN",
+      "city": "SAARBRUECKEN",
+      "branch": "",
+      "swift_code": "SAKSDE55"
+    },
+    {
+      "id": 7090,
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "SAARBRUECKEN",
+      "branch": "",
+      "swift_code": "HYVEDEMM432"
+    },
+    {
+      "id": 7262,
+      "bank": "VEREINIGTE VOLKSBANK EG IM REGIONALVERBAND        SAARBRUECKEN",
+      "city": "SAARBRUECKEN",
+      "branch": "",
+      "swift_code": "GENODE51SBY"
+    }
+  ],
+  "meta": {
+    "title": "Banken in Saarbruecken — SWIFT/BIC-Codes - Kostenloser Download",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Saarbruecken, Germany. Subset of de-banken. Enthält 22 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Banken in Saarbruecken — SWIFT/BIC-Codes | ListBase",
+    "seo_description": "Herunterladen Banken in Saarbruecken — SWIFT/BIC-Codes — 22 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 22 Datensätze / 5 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

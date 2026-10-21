@@ -1,0 +1,224 @@
+{
+  "id": "de-bremen-universitaeten",
+  "name": "Bremen — Universitäten und Hochschulen",
+  "title": "Bremen — Universitäten und Hochschulen",
+  "description": "Higher-education institutions with at least one campus in the German Bundesland Bremen (Bremen, ISO 3166-2 code DE-HB). Includes institution type, sponsor, doctoral rights, all campus locations, and reported student counts. Sourced from corona-school/universities-info-germany.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "uuid",
+      "label": "Uuid",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "nicknames",
+      "label": "Nicknames",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "type_de",
+      "label": "Type De",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "sponsor",
+      "label": "Sponsor",
+      "type": "string"
+    },
+    {
+      "key": "sponsor_de",
+      "label": "Sponsor De",
+      "type": "string"
+    },
+    {
+      "key": "sponsor_en",
+      "label": "Sponsor En",
+      "type": "string"
+    },
+    {
+      "key": "doctorate",
+      "label": "Doctorate",
+      "type": "boolean"
+    },
+    {
+      "key": "locations",
+      "label": "Locations",
+      "type": "string"
+    },
+    {
+      "key": "states",
+      "label": "States",
+      "type": "string"
+    },
+    {
+      "key": "student_count",
+      "label": "Student Count",
+      "type": "number"
+    },
+    {
+      "key": "student_count_date",
+      "label": "Student Count Date",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "uuid": "b6648188-6efa-42fb-a044-424a44bc1281",
+      "name": "Apollon Hochschule der Gesundheitswirtschaft",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "private",
+      "sponsor_de": "privat",
+      "sponsor_en": "private",
+      "doctorate": false,
+      "locations": "HB: Bremen: Bremen",
+      "states": "HB",
+      "student_count": 1242,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "fc3297b9-d27f-47f0-a6b1-571b3374a673",
+      "name": "Hochschule Bremen",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "HB: Bremen: Bremen",
+      "states": "HB",
+      "student_count": 8917,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "1e4c16c8-14e5-4c70-833e-7d175d3cb01f",
+      "name": "Hochschule Bremerhaven",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "HB: Bremen: Bremen",
+      "states": "HB",
+      "student_count": 3093,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "66aea850-945a-48ad-bf11-e1263488d653",
+      "name": "Hochschule für internationale Wirtschaft und Logistik",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "private",
+      "sponsor_de": "privat",
+      "sponsor_en": "private",
+      "doctorate": false,
+      "locations": "HB: Bremen: Bremen",
+      "states": "HB",
+      "student_count": 68,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "708cc05e-7044-4cb7-87b2-2df5db13057c",
+      "name": "Hochschule für Künste Bremen",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "HB: Bremen: Bremen",
+      "states": "HB",
+      "student_count": 903,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "9b3700ed-e78e-44aa-bca9-95abea622b24",
+      "name": "Hochschule für Öffentliche Verwaltung Bremen",
+      "nicknames": "",
+      "type": "FH",
+      "type_de": "Fachhochschule",
+      "type_en": "University of Applied Sciences",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": false,
+      "locations": "HB: Bremen: Bremen",
+      "states": "HB",
+      "student_count": 375,
+      "student_count_date": "2012/13 (WS)"
+    },
+    {
+      "uuid": "31ca521b-b536-4c37-b4e7-6db766b2e9eb",
+      "name": "Jacobs University Bremen",
+      "nicknames": "",
+      "type": "Uni",
+      "type_de": "Universität",
+      "type_en": "University",
+      "sponsor": "private",
+      "sponsor_de": "privat",
+      "sponsor_en": "private",
+      "doctorate": true,
+      "locations": "HB: Bremen: Bremen",
+      "states": "HB",
+      "student_count": 1466,
+      "student_count_date": "2019/20 (WS)"
+    },
+    {
+      "uuid": "6de3e54b-f41a-4f9c-baf9-a2471bc35d72",
+      "name": "Universität Bremen",
+      "nicknames": "",
+      "type": "Uni",
+      "type_de": "Universität",
+      "type_en": "University",
+      "sponsor": "public",
+      "sponsor_de": "öffentlich",
+      "sponsor_en": "public",
+      "doctorate": true,
+      "locations": "HB: Bremen: Bremen",
+      "states": "HB",
+      "student_count": 18488,
+      "student_count_date": "2019/20 (WS)"
+    }
+  ],
+  "meta": {
+    "title": "Bremen — Universitäten und Hochschulen - Kostenloser Download",
+    "description": "Higher-education institutions with at least one campus in the German Bundesland Bremen (Bremen, ISO 3166-2 code DE-HB). Includes institution type, sponsor, doctoral rights, all campus locations, and reported student counts. Sourced from corona-school/universities-info-germany. Enthält 8 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Bremen — Universitäten und Hochschulen | ListBase",
+    "seo_description": "Herunterladen Bremen — Universitäten und Hochschulen — 8 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 8 Datensätze / 14 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "id": "de-tv-sender-klassiker",
+  "name": "Klassiker-Sender (Classic TV channels)",
+  "title": "Klassiker-Sender (Classic TV channels)",
+  "description": "Deutsche Fernsehsender der Kategorie \"classic\" (Klassiker) — 5 Sender aus dem offenen Register iptv-org/database. Enthält Sendername, alternative Namen, Netzwerk, Eigentümer, Kategorien, Start- und Einstellungsdatum sowie Webseite.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "string"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "CinCin.de",
+      "name": "Cin Cin",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Pluto TV Europe GmbH, Paramount Skydance Corporation",
+      "country": "DE",
+      "categories": "series, classic",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/cin-cin-it/details"
+    },
+    {
+      "id": 2,
+      "channel_id": "Dynasty.de",
+      "name": "Dynasty",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Pluto Inc., Pluto TV Europe GmbH, Paramount Skydance Corporation",
+      "country": "DE",
+      "categories": "series, classic",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/dynasty-it/details"
+    },
+    {
+      "id": 3,
+      "channel_id": "Gunsmoke.de",
+      "name": "Gunsmoke",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Pluto Inc., Pluto TV Europe GmbH, Paramount Skydance Corporation",
+      "country": "DE",
+      "categories": "classic",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/gunsmoke-gb/details"
+    },
+    {
+      "id": 4,
+      "channel_id": "PlutoTVClassicTV.de",
+      "name": "Pluto TV Classic TV",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Pluto TV Europe GmbH, Paramount Skydance Corporation",
+      "country": "DE",
+      "categories": "classic",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-classic-gb/details"
+    },
+    {
+      "id": 5,
+      "channel_id": "PlutoTVSherlock.de",
+      "name": "Pluto TV Sherlock",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Pluto TV Europe GmbH, Paramount Skydance Corporation",
+      "country": "DE",
+      "categories": "classic",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-sherlock-gb/details"
+    }
+  ],
+  "meta": {
+    "title": "Klassiker-Sender (Classic TV channels) - Kostenloser Download",
+    "description": "Deutsche Fernsehsender der Kategorie \"classic\" (Klassiker) — 5 Sender aus dem offenen Register iptv-org/database. Enthält Sendername, alternative Namen, Netzwerk, Eigentümer, Kategorien, Start- und Einstellungsdatum sowie Webseite. Enthält 5 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Klassiker-Sender (Classic TV channels) | ListBase",
+    "seo_description": "Herunterladen Klassiker-Sender (Classic TV channels) — 5 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 5 Datensätze / 13 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

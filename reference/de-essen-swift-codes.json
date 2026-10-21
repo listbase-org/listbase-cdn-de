@@ -1,0 +1,298 @@
+{
+  "id": "de-essen-swift-codes",
+  "name": "SWIFT-/BIC-Codes — Essen",
+  "title": "SWIFT-/BIC-Codes — Essen",
+  "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 42 Institute, die die Quelle mit der Stadt \"ESSEN\" angibt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "AAREAL BANK AG",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "AARBDE5W360"
+    },
+    {
+      "bank": "BANK IM BISTUM ESSEN EG",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "GENODED1BBE"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "ESSEN",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF082"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "ESSEN",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF083"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "COBADEFF360"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "ESSEN",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK)",
+      "swift_code": "DRESDEFFI17"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "ESSEN",
+      "branch": "(PCC DCC-ITGK 2)",
+      "swift_code": "DRESDEFFI66"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "DRESDEFF360"
+    },
+    {
+      "bank": "DEICHMANN SE",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "DEICDE31"
+    },
+    {
+      "bank": "DEICHMANN SE",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "SHOEDE3E"
+    },
+    {
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "DAAEDED1010"
+    },
+    {
+      "bank": "DEUTSCHE BANK AG",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "DEUTDEDE"
+    },
+    {
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "DEUTDEDBESS"
+    },
+    {
+      "bank": "DEUTSCHE BUNDESBANK",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "MARKDEF1360"
+    },
+    {
+      "bank": "DEUTSCHE POSTBANK AG",
+      "city": "ESSEN",
+      "branch": "(ESSEN BRANCH)",
+      "swift_code": "PBNKDEFF360"
+    },
+    {
+      "bank": "EVONIK INDUSTRIES AG",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "EVONDE31"
+    },
+    {
+      "bank": "GARFUNKEL HOLDING GMBH",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "GRFHDE6E"
+    },
+    {
+      "bank": "GENO BANK ESSEN EG",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "GENODEM1GBE"
+    },
+    {
+      "bank": "NATIONAL-BANK AG",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "NBAGDE3E"
+    },
+    {
+      "bank": "NATIONAL-BANK AG",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "NBAGDE3EBBK"
+    },
+    {
+      "bank": "NATIONAL-BANK AG",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "NBAGDE3ET2S"
+    },
+    {
+      "bank": "NIBC BANK DEUTSCHLAND AG",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "GABKDE31"
+    },
+    {
+      "bank": "NIBC BANK DEUTSCHLAND AG",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "GABKDE31600"
+    },
+    {
+      "bank": "NIBC BANK DEUTSCHLAND AG",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "GABKDE31699"
+    },
+    {
+      "bank": "NIBC BANK DEUTSCHLAND AG",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "GABKDE3E"
+    },
+    {
+      "bank": "PAX-BANK EG",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "GENODED1PA2"
+    },
+    {
+      "bank": "PSD RHEIN-RUHR EG",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "GENODEF1PY5"
+    },
+    {
+      "bank": "RWE GROUP BUSINESS SERVICES GMBH",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "RWEGDE3E"
+    },
+    {
+      "bank": "RWE TRADING SERVICES GMBH",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "RTSGDE31"
+    },
+    {
+      "bank": "SEB AG",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "ESSEDE5F360"
+    },
+    {
+      "bank": "SPARDA-BANK WEST EG",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "GENODED1SPE"
+    },
+    {
+      "bank": "SPARKASSE ESSEN",
+      "city": "ESSEN",
+      "branch": "(ALL OFFICES)",
+      "swift_code": "SPESDE3E"
+    },
+    {
+      "bank": "SPARKASSE ESSEN",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "SPESDE3EDO1"
+    },
+    {
+      "bank": "SPARKASSE ESSEN",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "SPESDE3EDO3"
+    },
+    {
+      "bank": "SPARKASSE ESSEN",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "SPESDE3EHAM"
+    },
+    {
+      "bank": "THYSSENKRUPP AG",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "THYSDE33"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "HYVEDEMM360"
+    },
+    {
+      "bank": "VALOVIS BANK",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "VABKDE3E"
+    },
+    {
+      "bank": "VALOVIS BANK AG",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "KAHYDE31"
+    },
+    {
+      "bank": "VOLKSBANK ESSEN-CAPPELN EG",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "GENODEF1ESX"
+    },
+    {
+      "bank": "VON ESSEN GMBH AND CO. KG BANKGESELLSCHAFT",
+      "city": "ESSEN",
+      "branch": "(DOTATIONSKONTO BBK)",
+      "swift_code": "VONEDE31VON"
+    },
+    {
+      "bank": "VON ESSEN GMBH AND CO. KG BANKGESELLSCHAFT",
+      "city": "ESSEN",
+      "branch": "",
+      "swift_code": "VONEDE33"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT-/BIC-Codes — Essen - Kostenloser Download",
+    "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 42 Institute, die die Quelle mit der Stadt \"ESSEN\" angibt. Enthält 42 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "SWIFT-/BIC-Codes — Essen | ListBase",
+    "seo_description": "Herunterladen SWIFT-/BIC-Codes — Essen — 42 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 42 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

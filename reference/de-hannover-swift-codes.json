@@ -1,0 +1,346 @@
+{
+  "id": "de-hannover-swift-codes",
+  "name": "SWIFT-/BIC-Codes — Hannover",
+  "title": "SWIFT-/BIC-Codes — Hannover",
+  "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 50 Institute, die die Quelle mit der Stadt \"HANNOVER\" angibt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "AAREAL BANK AG",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "AARBDE5W250"
+    },
+    {
+      "bank": "BANK FUER SCHIFFAHRT",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "GENODEF1BFS"
+    },
+    {
+      "bank": "BANK FUER SOZIALWIRTSCHAFT AG",
+      "city": "HANNOVER",
+      "branch": "(HANNOVER)",
+      "swift_code": "BFSWDE33HAN"
+    },
+    {
+      "bank": "BANKHAUS HALLBAUM AG",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "HALLDE2H"
+    },
+    {
+      "bank": "BANKHAUS HALLBAUM AG",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "HALLDE2HTGT"
+    },
+    {
+      "bank": "BANTLEON AG",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "HBANDE21"
+    },
+    {
+      "bank": "CALENBERGER KREDITVEREIN CALENBERG-GOETTINGEN-GRUBENHAGEN-HILDESHEIM'SCHER RITTERSCHAFTLICHER KREDITVER.",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "CKVHDE21"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "HANNOVER",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF076"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "HANNOVER",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF077"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "COBADEFF250"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "HANNOVER",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK)",
+      "swift_code": "DRESDEFFI09"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "HANNOVER",
+      "branch": "(PCC DCC-ITGK 2)",
+      "swift_code": "DRESDEFFI65"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "DRESDEFF250"
+    },
+    {
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "DAAEDED1008"
+    },
+    {
+      "bank": "DEUTSCHE BANK AG",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "DEUTDE2H"
+    },
+    {
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "DEUTDEDBHAN"
+    },
+    {
+      "bank": "DEUTSCHE BUNDESBANK",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "MARKDEF1250"
+    },
+    {
+      "bank": "DEUTSCHE HYPOTHEKENBANK AG",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "DEHYDE2H"
+    },
+    {
+      "bank": "DEUTSCHE POSTBANK AG",
+      "city": "HANNOVER",
+      "branch": "(HANNOVER BRANCH)",
+      "swift_code": "PBNKDEFF250"
+    },
+    {
+      "bank": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "GENODEFF250"
+    },
+    {
+      "bank": "E.ON BUSINESS SERVICES GMBH",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "EONGDE2H"
+    },
+    {
+      "bank": "FINANZ INFORMATIK",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "NOLADE21CSH"
+    },
+    {
+      "bank": "HANNOVER RUECKVERSICHERUNG AG",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "HRESDE2H"
+    },
+    {
+      "bank": "HANNOVERSCHE VOLKSBANK EG",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "HAVKDE21"
+    },
+    {
+      "bank": "HANNOVERSCHE VOLKSBANK EG",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "VOHADE2H"
+    },
+    {
+      "bank": "HSBC TRINKAUS UND BURKHARDT AG",
+      "city": "HANNOVER",
+      "branch": "(HANNOVER)",
+      "swift_code": "TUBDDEDD250"
+    },
+    {
+      "bank": "LAND NIEDERSACHSEN",
+      "city": "HANNOVER",
+      "branch": "(FINANZMINISTERIUM KREDITREFERAT)",
+      "swift_code": "LANIDE21KFR"
+    },
+    {
+      "bank": "LAND NIEDERSACHSEN",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "LANIDE21"
+    },
+    {
+      "bank": "LBS NORDDEUTSCHE LANDESBAUSPARKASSE",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "NOLADE21LBS"
+    },
+    {
+      "bank": "NIEDERSAECHSISCHE BOERSE ZU HANNOVER",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "XHANDE21"
+    },
+    {
+      "bank": "NORD/LB ASSET MANAGEMENT AG",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "NOCDDE2H"
+    },
+    {
+      "bank": "NORDDEUTSCHE LANDESBANK GIROZENTRALE",
+      "city": "HANNOVER",
+      "branch": "(FI SCHECK CLEARING MV)",
+      "swift_code": "NOLADE21CMV"
+    },
+    {
+      "bank": "NORDDEUTSCHE LANDESBANK GIROZENTRALE",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "NOLADE2H"
+    },
+    {
+      "bank": "ODDO BHF AKTIENGESELLSCHAFT",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "BHFBDEFF250"
+    },
+    {
+      "bank": "PSD BANK HANNOVER",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "GENODEF1P09"
+    },
+    {
+      "bank": "SEB AG",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "ESSEDE5F250"
+    },
+    {
+      "bank": "SPARDA-BANK HANNOVER EG",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "GENODEF1S09"
+    },
+    {
+      "bank": "SPARKASSE HANNOVER",
+      "city": "HANNOVER",
+      "branch": "(T2S)",
+      "swift_code": "SPKHDE2H001"
+    },
+    {
+      "bank": "SPARKASSE HANNOVER",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "KRHADE21"
+    },
+    {
+      "bank": "SPARKASSE HANNOVER",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "SPKHDE2H"
+    },
+    {
+      "bank": "TALANX SERVICE AG",
+      "city": "HANNOVER",
+      "branch": "(HDI LEBENSVERSICHERUNG AG)",
+      "swift_code": "TXSEDE2HHLV"
+    },
+    {
+      "bank": "TALANX SERVICE AG",
+      "city": "HANNOVER",
+      "branch": "(HDI PENSIONSKASSE AG)",
+      "swift_code": "TXSEDE2HHPK"
+    },
+    {
+      "bank": "TALANX SERVICE AG",
+      "city": "HANNOVER",
+      "branch": "(HDI VERSICHERUNG AG)",
+      "swift_code": "TXSEDE2HHDV"
+    },
+    {
+      "bank": "TALANX SERVICE AG",
+      "city": "HANNOVER",
+      "branch": "(NL LEBENSVERSICHERUNG AG)",
+      "swift_code": "TXSEDE2HNLL"
+    },
+    {
+      "bank": "TALANX SERVICE AG",
+      "city": "HANNOVER",
+      "branch": "(NL PENSIONSKASSE AG)",
+      "swift_code": "TXSEDE2HNLP"
+    },
+    {
+      "bank": "TALANX SERVICE AG",
+      "city": "HANNOVER",
+      "branch": "(PB LEBENSVERSICHERUNG AG)",
+      "swift_code": "TXSEDE2HPBL"
+    },
+    {
+      "bank": "TALANX SERVICE AG",
+      "city": "HANNOVER",
+      "branch": "(TARGO LEBENSVERSICHERUNG AG)",
+      "swift_code": "TXSEDE2HTAL"
+    },
+    {
+      "bank": "TALANX SERVICE AG",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "TXSEDE2H"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "HYVEDEMM210"
+    },
+    {
+      "bank": "WARENTERMINBOERSE HANNOVER",
+      "city": "HANNOVER",
+      "branch": "",
+      "swift_code": "XHCEDE21"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT-/BIC-Codes — Hannover - Kostenloser Download",
+    "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 50 Institute, die die Quelle mit der Stadt \"HANNOVER\" angibt. Enthält 50 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "SWIFT-/BIC-Codes — Hannover | ListBase",
+    "seo_description": "Herunterladen SWIFT-/BIC-Codes — Hannover — 50 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 50 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

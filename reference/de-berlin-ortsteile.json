@@ -1,0 +1,526 @@
+{
+  "id": "de-berlin-ortsteile",
+  "name": "Ortsteile von Berlin",
+  "title": "Ortsteile von Berlin",
+  "description": "Die 97 Ortsteile (localities) der Stadt Berlin, extrahiert aus den Grenz-GeoJSON-Dateien des Projekts Code for Germany / click_that_hood. Nur der native deutsche Name je Teilgebiet wurde übernommen; die Polygon-Geometrie wurde verworfen. Für Berlin sind zusätzlich der amtliche Schlüssel (sch) und die ALKIS-UUID (AX_KommunalesGebiet) enthalten.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 97,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "amtlicher_schluessel",
+      "label": "Amtlicher Schluessel",
+      "type": "number"
+    },
+    {
+      "key": "ax_uuid",
+      "label": "Ax Uuid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Adlershof",
+      "amtlicher_schluessel": "110000090907",
+      "ax_uuid": "DEBE09YYO000000N"
+    },
+    {
+      "name": "Alt-Hohenschönhausen",
+      "amtlicher_schluessel": "110000111110",
+      "ax_uuid": "DEBE11YYH0000003"
+    },
+    {
+      "name": "Alt-Treptow",
+      "amtlicher_schluessel": "110000090901",
+      "ax_uuid": "DEBE09YYO000000P"
+    },
+    {
+      "name": "Altglienicke",
+      "amtlicher_schluessel": "110000090906",
+      "ax_uuid": "DEBE09YYO000000D"
+    },
+    {
+      "name": "Baumschulenweg",
+      "amtlicher_schluessel": "110000090903",
+      "ax_uuid": "DEBE09YYO000000J"
+    },
+    {
+      "name": "Biesdorf",
+      "amtlicher_schluessel": "110000101002",
+      "ax_uuid": "DEBE10YYS0000009"
+    },
+    {
+      "name": "Blankenburg",
+      "amtlicher_schluessel": "110000030303",
+      "ax_uuid": "DEBE03YY60000009"
+    },
+    {
+      "name": "Blankenfelde",
+      "amtlicher_schluessel": "110000030308",
+      "ax_uuid": "DEBE03YY6000000N"
+    },
+    {
+      "name": "Bohnsdorf",
+      "amtlicher_schluessel": "110000090908",
+      "ax_uuid": "DEBE09YYO000000R"
+    },
+    {
+      "name": "Borsigwalde",
+      "amtlicher_schluessel": "110000121211",
+      "ax_uuid": "DEBE12YYJ0000005"
+    },
+    {
+      "name": "Britz",
+      "amtlicher_schluessel": "110000080802",
+      "ax_uuid": "DEBE08YYF0000005"
+    },
+    {
+      "name": "Buch",
+      "amtlicher_schluessel": "110000030309",
+      "ax_uuid": "DEBE03YY6000000D"
+    },
+    {
+      "name": "Buckow",
+      "amtlicher_schluessel": "110000080803",
+      "ax_uuid": "DEBE08YYF0000003"
+    },
+    {
+      "name": "Charlottenburg",
+      "amtlicher_schluessel": "110000040401",
+      "ax_uuid": "DEBE04YY50000003"
+    },
+    {
+      "name": "Charlottenburg-Nord",
+      "amtlicher_schluessel": "110000040406",
+      "ax_uuid": "DEBE04YY50000009"
+    },
+    {
+      "name": "Dahlem",
+      "amtlicher_schluessel": "110000060605",
+      "ax_uuid": "DEBE06YYA000000B"
+    },
+    {
+      "name": "Falkenberg",
+      "amtlicher_schluessel": "110000111104",
+      "ax_uuid": "DEBE11YYH0000001"
+    },
+    {
+      "name": "Falkenhagener Feld",
+      "amtlicher_schluessel": "110000050508",
+      "ax_uuid": "DEBE05YYQ000000D"
+    },
+    {
+      "name": "Fennpfuhl",
+      "amtlicher_schluessel": "110000111111",
+      "ax_uuid": "DEBE11YYH0000007"
+    },
+    {
+      "name": "Französisch Buchholz",
+      "amtlicher_schluessel": "110000030310",
+      "ax_uuid": "DEBE03YY60000001"
+    },
+    {
+      "name": "Friedenau",
+      "amtlicher_schluessel": "110000070702",
+      "ax_uuid": "DEBE07YY9000000B"
+    },
+    {
+      "name": "Friedrichsfelde",
+      "amtlicher_schluessel": "110000111101",
+      "ax_uuid": "DEBE11YYH000000J"
+    },
+    {
+      "name": "Friedrichshagen",
+      "amtlicher_schluessel": "110000090911",
+      "ax_uuid": "DEBE09YYO000000B"
+    },
+    {
+      "name": "Friedrichshain",
+      "amtlicher_schluessel": "110000020201",
+      "ax_uuid": "DEBE02YY20000003"
+    },
+    {
+      "name": "Frohnau",
+      "amtlicher_schluessel": "110000121205",
+      "ax_uuid": "DEBE12YYJ000000B"
+    },
+    {
+      "name": "Gatow",
+      "amtlicher_schluessel": "110000050505",
+      "ax_uuid": "DEBE05YYQ000000F"
+    },
+    {
+      "name": "Gesundbrunnen",
+      "amtlicher_schluessel": "110000010106",
+      "ax_uuid": "DEBE01YYK0000003"
+    },
+    {
+      "name": "Gropiusstadt",
+      "amtlicher_schluessel": "110000080805",
+      "ax_uuid": "DEBE08YYF0000009"
+    },
+    {
+      "name": "Grunewald",
+      "amtlicher_schluessel": "110000040404",
+      "ax_uuid": "DEBE04YY5000000D"
+    },
+    {
+      "name": "Grünau",
+      "amtlicher_schluessel": "110000090913",
+      "ax_uuid": "DEBE09YYO0000001"
+    },
+    {
+      "name": "Hakenfelde",
+      "amtlicher_schluessel": "110000050507",
+      "ax_uuid": "DEBE05YYQ0000009"
+    },
+    {
+      "name": "Halensee",
+      "amtlicher_schluessel": "110000040407",
+      "ax_uuid": "DEBE04YY50000005"
+    },
+    {
+      "name": "Hansaviertel",
+      "amtlicher_schluessel": "110000010103",
+      "ax_uuid": "DEBE01YYK0000001"
+    },
+    {
+      "name": "Haselhorst",
+      "amtlicher_schluessel": "110000050502",
+      "ax_uuid": "DEBE05YYQ0000005"
+    },
+    {
+      "name": "Heiligensee",
+      "amtlicher_schluessel": "110000121204",
+      "ax_uuid": "DEBE12YYJ0000003"
+    },
+    {
+      "name": "Heinersdorf",
+      "amtlicher_schluessel": "110000030304",
+      "ax_uuid": "DEBE03YY6000000B"
+    },
+    {
+      "name": "Hellersdorf",
+      "amtlicher_schluessel": "110000101005",
+      "ax_uuid": "DEBE00YY2Ke00070"
+    },
+    {
+      "name": "Hermsdorf",
+      "amtlicher_schluessel": "110000121206",
+      "ax_uuid": "DEBE12YYJ0000001"
+    },
+    {
+      "name": "Johannisthal",
+      "amtlicher_schluessel": "110000090904",
+      "ax_uuid": "DEBE09YYO000000L"
+    },
+    {
+      "name": "Karlshorst",
+      "amtlicher_schluessel": "110000111102",
+      "ax_uuid": "DEBE11YYH0000009"
+    },
+    {
+      "name": "Karow",
+      "amtlicher_schluessel": "110000030305",
+      "ax_uuid": "DEBE03YY6000000J"
+    },
+    {
+      "name": "Kaulsdorf",
+      "amtlicher_schluessel": "110000101003",
+      "ax_uuid": "DEBE00YYvB000000"
+    },
+    {
+      "name": "Kladow",
+      "amtlicher_schluessel": "110000050506",
+      "ax_uuid": "DEBE05YYQ000000B"
+    },
+    {
+      "name": "Konradshöhe",
+      "amtlicher_schluessel": "110000121203",
+      "ax_uuid": "DEBE12YYJ0000009"
+    },
+    {
+      "name": "Kreuzberg",
+      "amtlicher_schluessel": "110000020202",
+      "ax_uuid": "DEBE02YY20000001"
+    },
+    {
+      "name": "Köpenick",
+      "amtlicher_schluessel": "110000090910",
+      "ax_uuid": "DEBE09YYO0000007"
+    },
+    {
+      "name": "Lankwitz",
+      "amtlicher_schluessel": "110000060603",
+      "ax_uuid": "DEBE06YYA0000001"
+    },
+    {
+      "name": "Lichtenberg",
+      "amtlicher_schluessel": "110000111103",
+      "ax_uuid": "DEBE11YYH0000005"
+    },
+    {
+      "name": "Lichtenrade",
+      "amtlicher_schluessel": "110000070706",
+      "ax_uuid": "DEBE07YY90000003"
+    },
+    {
+      "name": "Lichterfelde",
+      "amtlicher_schluessel": "110000060602",
+      "ax_uuid": "DEBE06YYA0000005"
+    },
+    {
+      "name": "Lübars",
+      "amtlicher_schluessel": "110000121208",
+      "ax_uuid": "DEBE12YYJ000000H"
+    },
+    {
+      "name": "Mahlsdorf",
+      "amtlicher_schluessel": "110000101004",
+      "ax_uuid": "DEBE00YY2Ke00071"
+    },
+    {
+      "name": "Malchow",
+      "amtlicher_schluessel": "110000111106",
+      "ax_uuid": "DEBE11YYH000000D"
+    },
+    {
+      "name": "Mariendorf",
+      "amtlicher_schluessel": "110000070704",
+      "ax_uuid": "DEBE07YY90000007"
+    },
+    {
+      "name": "Marienfelde",
+      "amtlicher_schluessel": "110000070705",
+      "ax_uuid": "DEBE07YY90000001"
+    },
+    {
+      "name": "Marzahn",
+      "amtlicher_schluessel": "110000101001",
+      "ax_uuid": "DEBE10YYS0000003"
+    },
+    {
+      "name": "Mitte",
+      "amtlicher_schluessel": "110000010101",
+      "ax_uuid": "DEBE01YYK0000007"
+    },
+    {
+      "name": "Moabit",
+      "amtlicher_schluessel": "110000010102",
+      "ax_uuid": "DEBE01YYK0000009"
+    },
+    {
+      "name": "Märkisches Viertel",
+      "amtlicher_schluessel": "110000121210",
+      "ax_uuid": "DEBE12YYJ000000D"
+    },
+    {
+      "name": "Müggelheim",
+      "amtlicher_schluessel": "110000090914",
+      "ax_uuid": "DEBE09YYO000000F"
+    },
+    {
+      "name": "Neu-Hohenschönhausen",
+      "amtlicher_schluessel": "110000111109",
+      "ax_uuid": "DEBE11YYH000000F"
+    },
+    {
+      "name": "Neukölln",
+      "amtlicher_schluessel": "110000080801",
+      "ax_uuid": "DEBE08YYF0000007"
+    },
+    {
+      "name": "Niederschöneweide",
+      "amtlicher_schluessel": "110000090905",
+      "ax_uuid": "DEBE09YYO0000003"
+    },
+    {
+      "name": "Niederschönhausen",
+      "amtlicher_schluessel": "110000030311",
+      "ax_uuid": "DEBE03YY60000007"
+    },
+    {
+      "name": "Nikolassee",
+      "amtlicher_schluessel": "110000060606",
+      "ax_uuid": "DEBE06YYA0000003"
+    },
+    {
+      "name": "Oberschöneweide",
+      "amtlicher_schluessel": "110000090909",
+      "ax_uuid": "DEBE09YYO0000009"
+    },
+    {
+      "name": "Pankow",
+      "amtlicher_schluessel": "110000030307",
+      "ax_uuid": "DEBE03YY6000000P"
+    },
+    {
+      "name": "Plänterwald",
+      "amtlicher_schluessel": "110000090902",
+      "ax_uuid": "DEBE09YYO000000T"
+    },
+    {
+      "name": "Prenzlauer Berg",
+      "amtlicher_schluessel": "110000030301",
+      "ax_uuid": "DEBE03YY6000000L"
+    },
+    {
+      "name": "Rahnsdorf",
+      "amtlicher_schluessel": "110000090912",
+      "ax_uuid": "DEBE09YYO0000005"
+    },
+    {
+      "name": "Reinickendorf",
+      "amtlicher_schluessel": "110000121201",
+      "ax_uuid": "DEBE12YYJ000000J"
+    },
+    {
+      "name": "Rosenthal",
+      "amtlicher_schluessel": "110000030312",
+      "ax_uuid": "DEBE03YY60000005"
+    },
+    {
+      "name": "Rudow",
+      "amtlicher_schluessel": "110000080804",
+      "ax_uuid": "DEBE08YYF0000001"
+    },
+    {
+      "name": "Rummelsburg",
+      "amtlicher_schluessel": "110000111112",
+      "ax_uuid": "DEBE11YYH000000B"
+    },
+    {
+      "name": "Schlachtensee",
+      "amtlicher_schluessel": "110000060608",
+      "ax_uuid": "DEBE06AL5Co00000"
+    },
+    {
+      "name": "Schmargendorf",
+      "amtlicher_schluessel": "110000040403",
+      "ax_uuid": "DEBE04YY5000000B"
+    },
+    {
+      "name": "Schmöckwitz",
+      "amtlicher_schluessel": "110000090915",
+      "ax_uuid": "DEBE09YYO000000H"
+    },
+    {
+      "name": "Schöneberg",
+      "amtlicher_schluessel": "110000070701",
+      "ax_uuid": "DEBE07YY90000009"
+    },
+    {
+      "name": "Siemensstadt",
+      "amtlicher_schluessel": "110000050503",
+      "ax_uuid": "DEBE05YYQ0000007"
+    },
+    {
+      "name": "Spandau",
+      "amtlicher_schluessel": "110000050501",
+      "ax_uuid": "DEBE05YYQ000000H"
+    },
+    {
+      "name": "Staaken",
+      "amtlicher_schluessel": "110000050504",
+      "ax_uuid": "DEBE05YYQ0000001"
+    },
+    {
+      "name": "Stadtrandsiedlung Malchow",
+      "amtlicher_schluessel": "110000030306",
+      "ax_uuid": "DEBE03YY6000000H"
+    },
+    {
+      "name": "Steglitz",
+      "amtlicher_schluessel": "110000060601",
+      "ax_uuid": "DEBE06YYA0000009"
+    },
+    {
+      "name": "Tegel",
+      "amtlicher_schluessel": "110000121202",
+      "ax_uuid": "DEBE12YYJ000000L"
+    },
+    {
+      "name": "Tempelhof",
+      "amtlicher_schluessel": "110000070703",
+      "ax_uuid": "DEBE07YY90000005"
+    },
+    {
+      "name": "Tiergarten",
+      "amtlicher_schluessel": "110000010104",
+      "ax_uuid": "DEBE01YYK000000B"
+    },
+    {
+      "name": "Waidmannslust",
+      "amtlicher_schluessel": "110000121207",
+      "ax_uuid": "DEBE12YYJ0000007"
+    },
+    {
+      "name": "Wannsee",
+      "amtlicher_schluessel": "110000060607",
+      "ax_uuid": "DEBE06YYA0000007"
+    },
+    {
+      "name": "Wartenberg",
+      "amtlicher_schluessel": "110000111107",
+      "ax_uuid": "DEBE11YYH000000H"
+    },
+    {
+      "name": "Wedding",
+      "amtlicher_schluessel": "110000010105",
+      "ax_uuid": "DEBE01YYK0000005"
+    },
+    {
+      "name": "Weißensee",
+      "amtlicher_schluessel": "110000030302",
+      "ax_uuid": "DEBE03YY6000000F"
+    },
+    {
+      "name": "Westend",
+      "amtlicher_schluessel": "110000040405",
+      "ax_uuid": "DEBE04YY50000001"
+    },
+    {
+      "name": "Wilhelmsruh",
+      "amtlicher_schluessel": "110000030313",
+      "ax_uuid": "DEBE03YY60000003"
+    },
+    {
+      "name": "Wilhelmstadt",
+      "amtlicher_schluessel": "110000050509",
+      "ax_uuid": "DEBE05YYQ0000003"
+    },
+    {
+      "name": "Wilmersdorf",
+      "amtlicher_schluessel": "110000040402",
+      "ax_uuid": "DEBE04YY50000007"
+    },
+    {
+      "name": "Wittenau",
+      "amtlicher_schluessel": "110000121209",
+      "ax_uuid": "DEBE12YYJ000000F"
+    },
+    {
+      "name": "Zehlendorf",
+      "amtlicher_schluessel": "110000060604",
+      "ax_uuid": "DEBE06YYA000000D"
+    }
+  ],
+  "meta": {
+    "title": "Ortsteile von Berlin - Kostenloser Download",
+    "description": "Die 97 Ortsteile (localities) der Stadt Berlin, extrahiert aus den Grenz-GeoJSON-Dateien des Projekts Code for Germany / click_that_hood. Nur der native deutsche Name je Teilgebiet wurde übernommen; die Polygon-Geometrie wurde verworfen. Für Berlin sind zusätzlich der amtliche Schlüssel (sch) und die ALKIS-UUID (AX_KommunalesGebiet) enthalten. Enthält 97 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Ortsteile von Berlin | ListBase",
+    "seo_description": "Herunterladen Ortsteile von Berlin — 97 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 97 Datensätze / 3 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

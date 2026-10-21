@@ -1,0 +1,286 @@
+{
+  "id": "de-tv-sender-nachrichten",
+  "name": "Nachrichtensender (News TV channels)",
+  "title": "Nachrichtensender (News TV channels)",
+  "description": "Deutsche Fernsehsender der Kategorie \"news\" (Nachrichten) — 13 Sender aus dem offenen Register iptv-org/database. Enthält Sendername, alternative Namen, Netzwerk, Eigentümer, Kategorien, Start- und Einstellungsdatum sowie Webseite.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "1730SAT1Bayern.de",
+      "name": "17:30 SAT.1 Bayern",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.sat1.de/serien/regional-bayern"
+    },
+    {
+      "id": 2,
+      "channel_id": "1730SAT1LIVE.de",
+      "name": "17:30 SAT.1 LIVE",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.1730live.de/"
+    },
+    {
+      "id": 3,
+      "channel_id": "1730SAT1REGIONALHamburgSchleswigHolstein.de",
+      "name": "17:30 SAT.1 REGIONAL Hamburg & Schleswig-Holstein",
+      "alt_names": "17:30 SAT.1 REGIONAL Hamburg und Schleswig-Holstein",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.sat1regional.de/livestream-hamburg/"
+    },
+    {
+      "id": 4,
+      "channel_id": "1730SAT1REGIONALLowerSaxonyBremen.de",
+      "name": "17:30 SAT.1 REGIONAL Lower Saxony & Bremen",
+      "alt_names": "17:30 SAT.1 REGIONAL Niedersachsen und Bremen",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.sat1regional.de/livestream-niedersachsen-und-bremen/"
+    },
+    {
+      "id": 5,
+      "channel_id": "DW.de",
+      "name": "DW",
+      "alt_names": "Deutsche Welle",
+      "network": "",
+      "owners": "Federal Government of Germany",
+      "country": "DE",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "1953-05-03",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.dw.com/"
+    },
+    {
+      "id": 6,
+      "channel_id": "Kanal13.de",
+      "name": "Kanal 13",
+      "alt_names": "",
+      "network": "",
+      "owners": "Əziz Orucov",
+      "country": "DE",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "2008-10-10",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 7,
+      "channel_id": "MeydanTV.de",
+      "name": "Meydan TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "Emin Milli",
+      "country": "DE",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "2013-05-15",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.meydan.tv/az/"
+    },
+    {
+      "id": 8,
+      "channel_id": "Nachrichten360.de",
+      "name": "Nachrichten 360",
+      "alt_names": "",
+      "network": "News 360",
+      "owners": "Love TV Channels S.L.",
+      "country": "DE",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "2025-12-15",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://lovetvchannels.com/en/our-channels/#actualidad"
+    },
+    {
+      "id": 9,
+      "channel_id": "OstWest.de",
+      "name": "Ost West",
+      "alt_names": "",
+      "network": "",
+      "owners": "RTV Broadcast & Content Mangement GmbH",
+      "country": "DE",
+      "categories": "news, culture",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://ostwest.tv/"
+    },
+    {
+      "id": 10,
+      "channel_id": "OstWest24.de",
+      "name": "Ost West 24",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "culture, news",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 11,
+      "channel_id": "RTDE.de",
+      "name": "RT DE",
+      "alt_names": "",
+      "network": "RT",
+      "owners": "RT",
+      "country": "DE",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "2014-11-06",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://de.rt.com/"
+    },
+    {
+      "id": 12,
+      "channel_id": "SchwarzRotGoldTV.de",
+      "name": "SchwarzRotGoldTV",
+      "alt_names": "SRGT",
+      "network": "",
+      "owners": "",
+      "country": "DE",
+      "categories": "news, documentary",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://schwarzrotgold.tv/"
+    },
+    {
+      "id": 13,
+      "channel_id": "WELT.de",
+      "name": "WELT",
+      "alt_names": "",
+      "network": "",
+      "owners": "WeltN24 GmbH",
+      "country": "DE",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.welt.de/"
+    }
+  ],
+  "meta": {
+    "title": "Nachrichtensender (News TV channels) - Kostenloser Download",
+    "description": "Deutsche Fernsehsender der Kategorie \"news\" (Nachrichten) — 13 Sender aus dem offenen Register iptv-org/database. Enthält Sendername, alternative Namen, Netzwerk, Eigentümer, Kategorien, Start- und Einstellungsdatum sowie Webseite. Enthält 13 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Nachrichtensender (News TV channels) | ListBase",
+    "seo_description": "Herunterladen Nachrichtensender (News TV channels) — 13 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 13 Datensätze / 13 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

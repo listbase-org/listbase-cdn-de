@@ -1,0 +1,115 @@
+{
+  "id": "de-masseinheiten-angle",
+  "name": "Maßeinheiten — Kategorie 'angle' (6)",
+  "title": "Maßeinheiten — Kategorie 'angle' (6)",
+  "description": "Maßeinheiten der Kategorie 'angle' aus der Locale de in CLDR, mit Namen auf Deutsch.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abkuerzung",
+      "label": "Abkuerzung",
+      "type": "string"
+    },
+    {
+      "key": "schmalform",
+      "label": "Schmalform",
+      "type": "string"
+    },
+    {
+      "key": "muster",
+      "label": "Muster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "angle-arc-minute",
+      "kategorie": "angle",
+      "name": "Winkelminuten",
+      "abkuerzung": "Winkelminuten",
+      "schmalform": "′",
+      "muster": "{0} Winkelminuten"
+    },
+    {
+      "id": 2,
+      "unit_code": "angle-arc-second",
+      "kategorie": "angle",
+      "name": "Winkelsekunden",
+      "abkuerzung": "Winkelsekunden",
+      "schmalform": "″",
+      "muster": "{0} Winkelsekunden"
+    },
+    {
+      "id": 3,
+      "unit_code": "angle-degree",
+      "kategorie": "angle",
+      "name": "Grad",
+      "abkuerzung": "Grad",
+      "schmalform": "°",
+      "muster": "{0} Grad"
+    },
+    {
+      "id": 4,
+      "unit_code": "angle-radian",
+      "kategorie": "angle",
+      "name": "Radiant",
+      "abkuerzung": "rad",
+      "schmalform": "rad",
+      "muster": "{0} Radiant"
+    },
+    {
+      "id": 5,
+      "unit_code": "angle-revolution",
+      "kategorie": "angle",
+      "name": "Umdrehung",
+      "abkuerzung": "Umdr.",
+      "schmalform": "U",
+      "muster": "{0} Umdrehungen"
+    },
+    {
+      "id": 6,
+      "unit_code": "angle-steradian",
+      "kategorie": "angle",
+      "name": "Steradiant",
+      "abkuerzung": "sr",
+      "schmalform": "sr",
+      "muster": "{0} Steradiant"
+    }
+  ],
+  "meta": {
+    "title": "Maßeinheiten — Kategorie 'angle' (6) - Kostenloser Download",
+    "description": "Maßeinheiten der Kategorie 'angle' aus der Locale de in CLDR, mit Namen auf Deutsch. Enthält 6 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Maßeinheiten — Kategorie 'angle' (6) | ListBase",
+    "seo_description": "Herunterladen Maßeinheiten — Kategorie 'angle' (6) — 6 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 6 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

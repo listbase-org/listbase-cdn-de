@@ -1,0 +1,79 @@
+{
+  "id": "de-masseinheiten-magnetic",
+  "name": "Maßeinheiten — Kategorie 'magnetic' (2)",
+  "title": "Maßeinheiten — Kategorie 'magnetic' (2)",
+  "description": "Maßeinheiten der Kategorie 'magnetic' aus der Locale de in CLDR, mit Namen auf Deutsch.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abkuerzung",
+      "label": "Abkuerzung",
+      "type": "string"
+    },
+    {
+      "key": "schmalform",
+      "label": "Schmalform",
+      "type": "string"
+    },
+    {
+      "key": "muster",
+      "label": "Muster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "magnetic-tesla",
+      "kategorie": "magnetic",
+      "name": "Tesla",
+      "abkuerzung": "T",
+      "schmalform": "T",
+      "muster": "{0} Tesla"
+    },
+    {
+      "id": 2,
+      "unit_code": "magnetic-weber",
+      "kategorie": "magnetic",
+      "name": "Weber",
+      "abkuerzung": "Wb",
+      "schmalform": "Wb",
+      "muster": "{0} Weber"
+    }
+  ],
+  "meta": {
+    "title": "Maßeinheiten — Kategorie 'magnetic' (2) - Kostenloser Download",
+    "description": "Maßeinheiten der Kategorie 'magnetic' aus der Locale de in CLDR, mit Namen auf Deutsch. Enthält 2 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Maßeinheiten — Kategorie 'magnetic' (2) | ListBase",
+    "seo_description": "Herunterladen Maßeinheiten — Kategorie 'magnetic' (2) — 2 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 2 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

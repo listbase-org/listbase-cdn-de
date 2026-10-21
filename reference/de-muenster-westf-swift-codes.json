@@ -1,0 +1,196 @@
+{
+  "id": "de-muenster-westf-swift-codes",
+  "name": "SWIFT-/BIC-Codes — Muenster (westf)",
+  "title": "SWIFT-/BIC-Codes — Muenster (westf)",
+  "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 25 Institute, die die Quelle mit der Stadt \"MUENSTER (WESTF)\" angibt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "BANK FUER KIRCHE UND CARITAS EG",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "KICRDE31"
+    },
+    {
+      "bank": "COMMERZBANK AG",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "COBADEFF400"
+    },
+    {
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "DRESDEFF400"
+    },
+    {
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "DAAEDED1014"
+    },
+    {
+      "bank": "DEUTSCHE BANK AG",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "DEUTDE3B400"
+    },
+    {
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "DEUTDEDB400"
+    },
+    {
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "DEUTDEDB933"
+    },
+    {
+      "bank": "DKM DARLEHNSKASSE MUENSTER EG",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "GENODEM1DKM"
+    },
+    {
+      "bank": "DZ BANK AG (FORMERLY WGZ BANK)",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "GENODEMS"
+    },
+    {
+      "bank": "LANDESBANK HESSEN-THUERINGEN GIROZENTRALE, MUENSTER",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "WELADE3M"
+    },
+    {
+      "bank": "LBS WESTDEUTSCHE LANDESBAUSPARKASSE",
+      "city": "MUENSTER (WESTF)",
+      "branch": "(OFFENMARKTGESCHAEFT)",
+      "swift_code": "LBSWDE31OFM"
+    },
+    {
+      "bank": "LBS WESTDEUTSCHE LANDESBAUSPARKASSE",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "LBSWDE31"
+    },
+    {
+      "bank": "MUENSTERLANDISCHE BANK THIE AND CO. KG",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "MLBKDEH1"
+    },
+    {
+      "bank": "MUENSTERLANDISCHE BANK THIE AND CO. KG",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "MLBKDEH1MUE"
+    },
+    {
+      "bank": "MUNSTERLANDISCHE BANK THIE AND CO. KG",
+      "city": "MUENSTER (WESTF)",
+      "branch": "(DOTATIONSKONTO)",
+      "swift_code": "MLBKDE31DOT"
+    },
+    {
+      "bank": "MUNSTERLANDISCHE BANK THIE AND CO. KG",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "MLBKDE31"
+    },
+    {
+      "bank": "NRW. BANK",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "NRWBDEDMMST"
+    },
+    {
+      "bank": "PSD BANK WESTFALEN-LIPPE EG",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "GENODEF1P15"
+    },
+    {
+      "bank": "SEB AG",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "ESSEDE5F400"
+    },
+    {
+      "bank": "SPARDA-BANK MUENSTER EG",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "GENODEF1S08"
+    },
+    {
+      "bank": "SPARDA-BANK MUENSTER EG",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "SPBKDE88"
+    },
+    {
+      "bank": "SPARKASSE MUENSTERLAND OST",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "WELADED1MST"
+    },
+    {
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "HYVEDEMM400"
+    },
+    {
+      "bank": "VEREINIGTE VOLKSBANK MUENSTER EG",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "GENODEM1MSC"
+    },
+    {
+      "bank": "WL-BANK AG",
+      "city": "MUENSTER (WESTF)",
+      "branch": "",
+      "swift_code": "GENODEM1WLM"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT-/BIC-Codes — Muenster (westf) - Kostenloser Download",
+    "description": "SWIFT-/BIC-Codes von Banken und Finanzinstituten in Deutschland. Jeder Eintrag nennt den Namen des Instituts, die Stadt, ggf. die Filiale sowie den SWIFT-/BIC-Code. Quelle: PeterNotenboom/SwiftCodes (MIT). Diese Teilmenge umfasst die 25 Institute, die die Quelle mit der Stadt \"MUENSTER (WESTF)\" angibt. Enthält 25 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "SWIFT-/BIC-Codes — Muenster (westf) | ListBase",
+    "seo_description": "Herunterladen SWIFT-/BIC-Codes — Muenster (westf) — 25 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 25 Datensätze / 4 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

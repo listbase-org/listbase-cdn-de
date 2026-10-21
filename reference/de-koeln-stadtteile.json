@@ -1,0 +1,289 @@
+{
+  "id": "de-koeln-stadtteile",
+  "name": "Stadtteile von Köln",
+  "title": "Stadtteile von Köln",
+  "description": "Die 86 Stadtteile (city districts) der Stadt Köln, extrahiert aus den Grenz-GeoJSON-Dateien des Projekts Code for Germany / click_that_hood. Nur der native deutsche Name je Teilgebiet wurde übernommen; die Polygon-Geometrie wurde verworfen.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 86,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Altstadt/Nord"
+    },
+    {
+      "name": "Altstadt/Süd"
+    },
+    {
+      "name": "Bayenthal"
+    },
+    {
+      "name": "Bickendorf"
+    },
+    {
+      "name": "Bilderstöckchen"
+    },
+    {
+      "name": "Blumenberg"
+    },
+    {
+      "name": "Bocklemünd/Mengenich"
+    },
+    {
+      "name": "Braunsfeld"
+    },
+    {
+      "name": "Brück"
+    },
+    {
+      "name": "Buchforst"
+    },
+    {
+      "name": "Buchheim"
+    },
+    {
+      "name": "Chorweiler"
+    },
+    {
+      "name": "Dellbrück"
+    },
+    {
+      "name": "Deutz"
+    },
+    {
+      "name": "Dünnwald"
+    },
+    {
+      "name": "Ehrenfeld"
+    },
+    {
+      "name": "Eil"
+    },
+    {
+      "name": "Elsdorf"
+    },
+    {
+      "name": "Ensen"
+    },
+    {
+      "name": "Esch/Auweiler"
+    },
+    {
+      "name": "Finkenberg"
+    },
+    {
+      "name": "Flittard"
+    },
+    {
+      "name": "Fühlingen"
+    },
+    {
+      "name": "Godorf"
+    },
+    {
+      "name": "Gremberghoven"
+    },
+    {
+      "name": "Grengel"
+    },
+    {
+      "name": "Hahnwald"
+    },
+    {
+      "name": "Heimersdorf"
+    },
+    {
+      "name": "Holweide"
+    },
+    {
+      "name": "Humboldt/Gremberg"
+    },
+    {
+      "name": "Höhenberg"
+    },
+    {
+      "name": "Höhenhaus"
+    },
+    {
+      "name": "Immendorf"
+    },
+    {
+      "name": "Junkersdorf"
+    },
+    {
+      "name": "Kalk"
+    },
+    {
+      "name": "Klettenberg"
+    },
+    {
+      "name": "Langel"
+    },
+    {
+      "name": "Libur"
+    },
+    {
+      "name": "Lind"
+    },
+    {
+      "name": "Lindenthal"
+    },
+    {
+      "name": "Lindweiler"
+    },
+    {
+      "name": "Longerich"
+    },
+    {
+      "name": "Lövenich"
+    },
+    {
+      "name": "Marienburg"
+    },
+    {
+      "name": "Mauenheim"
+    },
+    {
+      "name": "Merheim"
+    },
+    {
+      "name": "Merkenich"
+    },
+    {
+      "name": "Meschenich"
+    },
+    {
+      "name": "Mülheim"
+    },
+    {
+      "name": "Müngersdorf"
+    },
+    {
+      "name": "Neubrück"
+    },
+    {
+      "name": "Neuehrenfeld"
+    },
+    {
+      "name": "Neustadt/Nord"
+    },
+    {
+      "name": "Neustadt/Süd"
+    },
+    {
+      "name": "Niehl"
+    },
+    {
+      "name": "Nippes"
+    },
+    {
+      "name": "Ossendorf"
+    },
+    {
+      "name": "Ostheim"
+    },
+    {
+      "name": "Pesch"
+    },
+    {
+      "name": "Poll"
+    },
+    {
+      "name": "Porz"
+    },
+    {
+      "name": "Raderberg"
+    },
+    {
+      "name": "Raderthal"
+    },
+    {
+      "name": "Rath/Heumar"
+    },
+    {
+      "name": "Riehl"
+    },
+    {
+      "name": "Rodenkirchen"
+    },
+    {
+      "name": "Roggendorf/Thenhoven"
+    },
+    {
+      "name": "Rondorf"
+    },
+    {
+      "name": "Seeberg"
+    },
+    {
+      "name": "Stammheim"
+    },
+    {
+      "name": "Sülz"
+    },
+    {
+      "name": "Sürth"
+    },
+    {
+      "name": "Urbach"
+    },
+    {
+      "name": "Vingst"
+    },
+    {
+      "name": "Vogelsang"
+    },
+    {
+      "name": "Volkhoven/Weiler"
+    },
+    {
+      "name": "Wahn"
+    },
+    {
+      "name": "Wahnheide"
+    },
+    {
+      "name": "Weiden"
+    },
+    {
+      "name": "Weidenpesch"
+    },
+    {
+      "name": "Weiß"
+    },
+    {
+      "name": "Westhoven"
+    },
+    {
+      "name": "Widdersdorf"
+    },
+    {
+      "name": "Worringen"
+    },
+    {
+      "name": "Zollstock"
+    },
+    {
+      "name": "Zündorf"
+    }
+  ],
+  "meta": {
+    "title": "Stadtteile von Köln - Kostenloser Download",
+    "description": "Die 86 Stadtteile (city districts) der Stadt Köln, extrahiert aus den Grenz-GeoJSON-Dateien des Projekts Code for Germany / click_that_hood. Nur der native deutsche Name je Teilgebiet wurde übernommen; die Polygon-Geometrie wurde verworfen. Enthält 86 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Stadtteile von Köln | ListBase",
+    "seo_description": "Herunterladen Stadtteile von Köln — 86 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 86 Datensätze / 1 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

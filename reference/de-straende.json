@@ -1,0 +1,358 @@
+{
+  "id": "de-straende",
+  "name": "Strände in Deutschland / Beaches in Germany",
+  "title": "Strände in Deutschland / Beaches in Germany",
+  "description": "Strände in Deutschland (Beaches in Germany). Geolocated points sourced from Wikidata (instance of Q40080), located in Germany (Q183), each with a coordinate (P625).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_de",
+      "label": "Name De",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q136368518",
+      "name_de": "Ahrenshoop Strand",
+      "name_en": "",
+      "latitude": 54.378664,
+      "longitude": 12.411214,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136368518"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q15785306",
+      "name_de": "Bakenberg",
+      "name_en": "Bakenberg",
+      "latitude": 54.66769,
+      "longitude": 13.28276,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15785306"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q136759623",
+      "name_de": "",
+      "name_en": "Beach in Mönkebude",
+      "latitude": 53.772165,
+      "longitude": 13.972497,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136759623"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q136794219",
+      "name_de": "",
+      "name_en": "Beach of Ueckermünde",
+      "latitude": 53.748107,
+      "longitude": 14.073261,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136794219"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q136760308",
+      "name_de": "",
+      "name_en": "Beach Ückeritz",
+      "latitude": 54.022973,
+      "longitude": 14.060533,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136760308"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q31913266",
+      "name_de": "",
+      "name_en": "Billriff",
+      "latitude": 53.668056,
+      "longitude": 6.876944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31913266"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q1021024",
+      "name_de": "Bürgerablage",
+      "name_en": "Bürgerablage",
+      "latitude": 52.585,
+      "longitude": 13.2114,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1021024"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q55974124",
+      "name_de": "Falckenstein",
+      "name_en": "Falckenstein",
+      "latitude": 54.400278,
+      "longitude": 10.191028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55974124"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q128769478",
+      "name_de": "Falckensteiner Strand",
+      "name_en": "Falckensteiner Strand",
+      "latitude": 54.3989,
+      "longitude": 10.1903,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q128769478"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q127060687",
+      "name_de": "Freizeitpark Wisseler See",
+      "name_en": "Freizeitpark Wisseler See",
+      "latitude": 51.761642,
+      "longitude": 6.289271,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q127060687"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q1502258",
+      "name_de": "Geniusstrand",
+      "name_en": "Geniusstrand",
+      "latitude": 53.581236,
+      "longitude": 8.133489,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1502258"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q33326586",
+      "name_de": "",
+      "name_en": "Großer Strand",
+      "latitude": 54.3025,
+      "longitude": 13.716111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33326586"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q15111873",
+      "name_de": "Großes Fenster",
+      "name_en": "",
+      "latitude": 52.451583,
+      "longitude": 13.190887,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15111873"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q1616274",
+      "name_de": "Hetlinger Schanze",
+      "name_en": "Hetlinger Schanze",
+      "latitude": 53.6056,
+      "longitude": 9.60167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1616274"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q1824253",
+      "name_de": "Lieper Bucht",
+      "name_en": "Lieper Bucht",
+      "latitude": 52.4704,
+      "longitude": 13.1959,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1824253"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q131415121",
+      "name_de": "Neckarstrand an der Stadthalle Heidelberg",
+      "name_en": "",
+      "latitude": 49.412527,
+      "longitude": 8.699071,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131415121"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q123561511",
+      "name_de": "Neckarstrand bei Remseck",
+      "name_en": "",
+      "latitude": 48.87384,
+      "longitude": 9.275,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123561511"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q32193088",
+      "name_de": "Nordstrand",
+      "name_en": "Nordstrand",
+      "latitude": 53.721944,
+      "longitude": 7.272222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32193088"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q17341865",
+      "name_de": "Ostseebad",
+      "name_en": "Ostseebad",
+      "latitude": 54.8134,
+      "longitude": 9.42986,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17341865"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q124156686",
+      "name_de": "Pelzerhaken Strand",
+      "name_en": "Pelzerhaken Beach",
+      "latitude": 54.08622,
+      "longitude": 10.8713,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124156686"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q112841718",
+      "name_de": "Radfahrerwiese",
+      "name_en": "",
+      "latitude": 52.4585,
+      "longitude": 13.18931,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112841718"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q55983717",
+      "name_de": "Schilkseer Strand",
+      "name_en": "Schilksee beach",
+      "latitude": 54.427333,
+      "longitude": 10.171333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55983717"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q15638688",
+      "name_de": "Strand Hooksiel",
+      "name_en": "Beach of Hooksiel",
+      "latitude": 53.642067,
+      "longitude": 8.058891,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15638688"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q136410113",
+      "name_de": "Strand von Zingst",
+      "name_en": "Beach of Zingst",
+      "latitude": 54.441959,
+      "longitude": 12.670766,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136410113"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q1545614",
+      "name_de": "Strandbad Wannsee",
+      "name_en": "Strandbad Wannsee",
+      "latitude": 52.4386,
+      "longitude": 13.1789,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1545614"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q136005781",
+      "name_de": "Strände auf Borkum",
+      "name_en": "Beaches of Borkum",
+      "latitude": 53.590708,
+      "longitude": 6.657293,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136005781"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q136005793",
+      "name_de": "Strände auf Juist",
+      "name_en": "Beaches of Juist",
+      "latitude": 53.682111,
+      "longitude": 6.993734,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136005793"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q136005700",
+      "name_de": "Strände auf Norderney",
+      "name_en": "Beaches of Norderney",
+      "latitude": 53.720185,
+      "longitude": 7.178749,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136005700"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q33345921",
+      "name_de": "Südstrand",
+      "name_en": "Südstrand",
+      "latitude": 53.56392,
+      "longitude": 6.7135,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33345921"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q63614901",
+      "name_de": "Südstrand Sellin",
+      "name_en": "Südstrand Sellin",
+      "latitude": 54.37289,
+      "longitude": 13.70781,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63614901"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q33346545",
+      "name_de": "",
+      "name_en": "Weissenhäuser Brök",
+      "latitude": 54.316667,
+      "longitude": 10.783333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33346545"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q117033591",
+      "name_de": "Weststrand",
+      "name_en": "",
+      "latitude": 55.04,
+      "longitude": 8.386,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117033591"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q131418632",
+      "name_de": "Weststrand",
+      "name_en": "",
+      "latitude": 54.433333,
+      "longitude": 12.474722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131418632"
+    }
+  ],
+  "meta": {
+    "title": "Strände in Deutschland / Beaches in Germany - Kostenloser Download",
+    "description": "Strände in Deutschland (Beaches in Germany). Geolocated points sourced from Wikidata (instance of Q40080), located in Germany (Q183), each with a coordinate (P625). Enthält 33 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Strände in Deutschland / Beaches in Germany | ListBase",
+    "seo_description": "Herunterladen Strände in Deutschland / Beaches in Germany — 33 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 33 Datensätze / 7 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "de-brandenburg-landkreise",
+  "name": "Landkreise — Brandenburg",
+  "title": "Landkreise — Brandenburg",
+  "description": "Landkreise im Bundesland Brandenburg (14 Landkreise). Kreisfreie Städte sind in dieser Liste nicht enthalten und führen kein landkreis-Feld in der Quelle (Quelle: suche-postleitzahl.org / OSM).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bundesland_slug",
+      "label": "Bundesland Slug",
+      "type": "string"
+    },
+    {
+      "key": "plz_count",
+      "label": "Plz Count",
+      "type": "number"
+    },
+    {
+      "key": "ort_count",
+      "label": "Ort Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Landkreis Barnim",
+      "slug": "landkreis-barnim",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 11,
+      "ort_count": 25
+    },
+    {
+      "name": "Landkreis Dahme-Spreewald",
+      "slug": "landkreis-dahme-spreewald",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 20,
+      "ort_count": 37
+    },
+    {
+      "name": "Landkreis Elbe-Elster",
+      "slug": "landkreis-elbe-elster",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 14,
+      "ort_count": 33
+    },
+    {
+      "name": "Landkreis Havelland",
+      "slug": "landkreis-havelland",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 12,
+      "ort_count": 26
+    },
+    {
+      "name": "Landkreis Märkisch-Oderland",
+      "slug": "landkreis-maerkisch-oderland",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 16,
+      "ort_count": 45
+    },
+    {
+      "name": "Landkreis Oberhavel",
+      "slug": "landkreis-oberhavel",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 16,
+      "ort_count": 19
+    },
+    {
+      "name": "Landkreis Oberspreewald-Lausitz",
+      "slug": "landkreis-oberspreewald-lausitz",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 15,
+      "ort_count": 25
+    },
+    {
+      "name": "Landkreis Oder-Spree",
+      "slug": "landkreis-oder-spree",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 15,
+      "ort_count": 37
+    },
+    {
+      "name": "Landkreis Ostprignitz-Ruppin",
+      "slug": "landkreis-ostprignitz-ruppin",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 11,
+      "ort_count": 23
+    },
+    {
+      "name": "Landkreis Potsdam-Mittelmark",
+      "slug": "landkreis-potsdam-mittelmark",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 20,
+      "ort_count": 38
+    },
+    {
+      "name": "Landkreis Prignitz",
+      "slug": "landkreis-prignitz",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 10,
+      "ort_count": 26
+    },
+    {
+      "name": "Landkreis Spree-Neiße",
+      "slug": "landkreis-spree-neisse",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 11,
+      "ort_count": 29
+    },
+    {
+      "name": "Landkreis Teltow-Fläming",
+      "slug": "landkreis-teltow-flaeming",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 13,
+      "ort_count": 16
+    },
+    {
+      "name": "Landkreis Uckermark",
+      "slug": "landkreis-uckermark",
+      "bundesland": "Brandenburg",
+      "bundesland_slug": "brandenburg",
+      "plz_count": 9,
+      "ort_count": 30
+    }
+  ],
+  "meta": {
+    "title": "Landkreise — Brandenburg - Kostenloser Download",
+    "description": "Landkreise im Bundesland Brandenburg (14 Landkreise). Kreisfreie Städte sind in dieser Liste nicht enthalten und führen kein landkreis-Feld in der Quelle (Quelle: suche-postleitzahl.org / OSM). Enthält 14 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Landkreise — Brandenburg | ListBase",
+    "seo_description": "Herunterladen Landkreise — Brandenburg — 14 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 14 Datensätze / 6 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}

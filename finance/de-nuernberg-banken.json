@@ -1,0 +1,366 @@
+{
+  "id": "de-nuernberg-banken",
+  "name": "Banken in Nuernberg — SWIFT/BIC-Codes",
+  "title": "Banken in Nuernberg — SWIFT/BIC-Codes",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Nuernberg, Germany. Subset of de-banken.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 316,
+      "bank": "BAYERISCHE LANDESBANK,NUERNBERG BRANCH",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "BYLADE77"
+    },
+    {
+      "id": 363,
+      "bank": "BNP PARIBAS S.A. NIEDERLASSUNG DEUTSCHLAND (FORMERLY CORTAL CONSORS S.A)DEUTSCHLAND",
+      "city": "NUERNBERG",
+      "branch": "(T2S)",
+      "swift_code": "CSDBDE71T2S"
+    },
+    {
+      "id": 364,
+      "bank": "BNP PARIBAS S.A. NIEDERLASSUNG DEUTSCHLAND (FORMERLY CORTAL CONSORS S.A)DEUTSCHLAND",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "CSDBDE71"
+    },
+    {
+      "id": 365,
+      "bank": "BNP PARIBAS S.A. NIEDERLASSUNG DEUTSCHLAND (FORMERLY CORTAL CONSORS S.A. DEUTSCHLAND)",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "CSDBDE7N"
+    },
+    {
+      "id": 435,
+      "bank": "BSQ BAUSPAR AG",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "QUBADE71"
+    },
+    {
+      "id": 1086,
+      "bank": "COMMERZBANK AG",
+      "city": "NUERNBERG",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF100"
+    },
+    {
+      "id": 1087,
+      "bank": "COMMERZBANK AG",
+      "city": "NUERNBERG",
+      "branch": "(CASH COLLECTION)",
+      "swift_code": "COBADEFF101"
+    },
+    {
+      "id": 1088,
+      "bank": "COMMERZBANK AG",
+      "city": "NUERNBERG",
+      "branch": "(FILIALE 2)",
+      "swift_code": "COBADEFF761"
+    },
+    {
+      "id": 1089,
+      "bank": "COMMERZBANK AG",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "COBADEFF760"
+    },
+    {
+      "id": 1741,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "NUERNBERG",
+      "branch": "(CORPORATE BANKING DCC-ITGK)",
+      "swift_code": "DRESDEFFI46"
+    },
+    {
+      "id": 1742,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "NUERNBERG",
+      "branch": "(CORPORATES AND MARKETS DCC-ITGK)",
+      "swift_code": "DRESDEFFI24"
+    },
+    {
+      "id": 1743,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "NUERNBERG",
+      "branch": "(PCC DCC-ITGK 1)",
+      "swift_code": "DRESDEFFJ26"
+    },
+    {
+      "id": 1744,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "NUERNBERG",
+      "branch": "(PCC DCC-ITGK 2)",
+      "swift_code": "DRESDEFFJ27"
+    },
+    {
+      "id": 1745,
+      "bank": "COMMERZBANK AG (FORMERLY DRESDNER BANK AG)",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "DRESDEFF760"
+    },
+    {
+      "id": 2028,
+      "bank": "DEUTSCHE APOTHEKER- UND AERZTEBANK",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "DAAEDED1013"
+    },
+    {
+      "id": 2662,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "DEUTDEMM760"
+    },
+    {
+      "id": 3396,
+      "bank": "DEUTSCHE BANK PRIVAT-UND GESCHAEFTSKUNDEN AG",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "DEUTDEDB760"
+    },
+    {
+      "id": 3675,
+      "bank": "DEUTSCHE BUNDESBANK",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "MARKDEF1760"
+    },
+    {
+      "id": 3808,
+      "bank": "DEUTSCHE POSTBANK AG",
+      "city": "NUERNBERG",
+      "branch": "(NUERNBERG BRANCH)",
+      "swift_code": "PBNKDEFF760"
+    },
+    {
+      "id": 3905,
+      "bank": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "GENODEFF760"
+    },
+    {
+      "id": 4051,
+      "bank": "EVENORD-BANK",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "GENODEF1N03"
+    },
+    {
+      "id": 4131,
+      "bank": "FURST FUGGER PRIVATBANK AKTIENGESELLSCHAFT",
+      "city": "NUERNBERG",
+      "branch": "(FILIALE NUERNBERG)",
+      "swift_code": "FUBKDE71NBG"
+    },
+    {
+      "id": 4168,
+      "bank": "GETAF MBH",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "GETMDE71"
+    },
+    {
+      "id": 4266,
+      "bank": "HSBC TRINKAUS UND BURKHARDT AG",
+      "city": "NUERNBERG",
+      "branch": "(NUERNBERG)",
+      "swift_code": "TUBDDEDD760"
+    },
+    {
+      "id": 4342,
+      "bank": "ISBANK AG",
+      "city": "NUERNBERG",
+      "branch": "(ZWEIGSTELLE NUERNBERG)",
+      "swift_code": "ISBKDEFXNUR"
+    },
+    {
+      "id": 4774,
+      "bank": "NUERNBERGER BETEILIGUNGS-AG",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "NUBEDE71"
+    },
+    {
+      "id": 4777,
+      "bank": "OBERBANK AG",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "OBKLDEMXNUE"
+    },
+    {
+      "id": 4915,
+      "bank": "PSD BANK NUERNBERG EG",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "GENODEF1P17"
+    },
+    {
+      "id": 5294,
+      "bank": "RAIFFEISENBANK KATZWANG EG",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "GENODEF1N07"
+    },
+    {
+      "id": 5310,
+      "bank": "RAIFFEISENBANK KNOBLAUCHSLAND EG",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "GENODEF1N08"
+    },
+    {
+      "id": 5608,
+      "bank": "RAIFFEISEN-VOLKSBANK FUERTH EG",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "RAFUDE71"
+    },
+    {
+      "id": 5958,
+      "bank": "SEB AG",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "ESSEDE5F760"
+    },
+    {
+      "id": 6071,
+      "bank": "SPARDA-BANK NUERNBERG EG",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "GENODEF1S06"
+    },
+    {
+      "id": 6307,
+      "bank": "SPARKASSE NUERNBERG",
+      "city": "NUERNBERG",
+      "branch": "(DOTATIONSKONTO 1)",
+      "swift_code": "SSKNDE77002"
+    },
+    {
+      "id": 6308,
+      "bank": "SPARKASSE NUERNBERG",
+      "city": "NUERNBERG",
+      "branch": "(LZB-KONTO)",
+      "swift_code": "SSKNDE77001"
+    },
+    {
+      "id": 6309,
+      "bank": "SPARKASSE NUERNBERG",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "SSKNDE77"
+    },
+    {
+      "id": 6572,
+      "bank": "TEAMBANK AG",
+      "city": "NUERNBERG",
+      "branch": "(AUSTRIA)",
+      "swift_code": "TEAMDE71TAT"
+    },
+    {
+      "id": 6573,
+      "bank": "TEAMBANK AG",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "TEAMDE71"
+    },
+    {
+      "id": 6574,
+      "bank": "TEAMBANK AG",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "TEAMDE77"
+    },
+    {
+      "id": 6635,
+      "bank": "UMWELTBANK AG",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "UMWEDE7N"
+    },
+    {
+      "id": 7030,
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "NUERNBERG",
+      "branch": "(CREDIT CARDS)",
+      "swift_code": "HYVEDEMMCAR"
+    },
+    {
+      "id": 7031,
+      "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "HYVEDEMM460"
+    },
+    {
+      "id": 7869,
+      "bank": "VOLKSBANK NUERNBERG EG",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "GENODEF1N01"
+    },
+    {
+      "id": 7934,
+      "bank": "VOLKSBANK RAIFFEISENBANK NUERNBERG EG",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "GENODEF1N02"
+    },
+    {
+      "id": 7935,
+      "bank": "VOLKSBANK RAIFFEISENBANK NUERNBERG EG",
+      "city": "NUERNBERG",
+      "branch": "",
+      "swift_code": "GENODEF1N0X"
+    }
+  ],
+  "meta": {
+    "title": "Banken in Nuernberg — SWIFT/BIC-Codes - Kostenloser Download",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Nuernberg, Germany. Subset of de-banken. Enthält 45 Datensätze. Download in Excel, CSV, PDF.",
+    "seo_title": "Banken in Nuernberg — SWIFT/BIC-Codes | ListBase",
+    "seo_description": "Herunterladen Banken in Nuernberg — SWIFT/BIC-Codes — 45 Datensätze. Verfügbar in Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Enthält 45 Datensätze / 5 Felder",
+      "Kostenlos verfügbar in Excel, CSV und PDF",
+      "Datenquelle: open data"
+    ]
+  }
+}
