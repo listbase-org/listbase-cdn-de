@@ -1,0 +1,786 @@
+{
+  "id": "de-naturparks",
+  "name": "Naturparks in Deutschland",
+  "title": "Naturparks in Deutschland",
+  "description": "Die Naturparks in Deutschland mit Bundesland, Gründungsjahr, Fläche (km²) und Beschreibung.",
+  "category": "tourism",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Naturparks_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Naturparks_in_Deutschland",
+  "updated": "2026-10",
+  "record_count": 105,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "land",
+      "label": "Land",
+      "type": "string"
+    },
+    {
+      "key": "jahr",
+      "label": "Jahr",
+      "type": "number"
+    },
+    {
+      "key": "flaeche_km2",
+      "label": "Flaeche Km2",
+      "type": "number"
+    },
+    {
+      "key": "beschreibung",
+      "label": "Beschreibung",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Altmühltal",
+      "land": "BY",
+      "jahr": "1969",
+      "flaeche_km2": 2962,
+      "beschreibung": "Der Naturpark wird von sanft gewellten Hochflächen und steilwandigen Tälern mit schroffen Felsen der südlichen Frankenalb geprägt. Die Altmühl fließt durch eine eindrucksvolle Tallandschaft von West nach Ost in dem etwa zur Hälfte bewaldeten Naturpark."
+    },
+    {
+      "name": "Am Stettiner Haff",
+      "land": "MV",
+      "jahr": "2005",
+      "flaeche_km2": 553,
+      "beschreibung": "Der Naturpark erstreckt sich von der Haffküste bis zu den Brohmer Bergen im Süden, geprägt von einer ebenen und hügeligen Endmoränenlandschaft, der Haffküste und umfasst weite, geschlossene Waldkomplexe der Ueckermünder Heide."
+    },
+    {
+      "name": "Ammergauer Alpen",
+      "land": "BY",
+      "jahr": "2017",
+      "flaeche_km2": 227,
+      "beschreibung": "Der Naturpark umfasst das obere Ammertal, den Nordostteil des Ammergebirges, das Laber-Aufacker-Massiv und die größtenteils jungmoränenüberdeckte Faltenmolasse. Prägende Landschaften sind kulturhistorisch wertvolle Wiesmahdhänge, Bergwälder, die Ammer als einer der letzten naturnahen Alpenflüsse und eiszeitlich geprägte Moore."
+    },
+    {
+      "name": "Arnsberger Wald",
+      "land": "NW",
+      "jahr": "1961",
+      "flaeche_km2": 482,
+      "beschreibung": "Der Naturpark umfasst den Arnsberger Wald im Westen und den Warsteiner Wald im Osten. Er ist ein waldreiches Mittelgebirge mit mehreren Bergrücken. Begrenzt wird er von der Möhne im Norden und der tief eingeschnittenen Ruhr im Süden."
+    },
+    {
+      "name": "Augsburg – Westliche Wälder",
+      "land": "BY",
+      "jahr": "1988",
+      "flaeche_km2": 1225,
+      "beschreibung": "Der Naturpark wird von der Donau, Wertach, Schmutter und Mindel begrenzt und reicht bis an den Rand des Unterallgäus. Die sanfte, hügelige, von Bächen zergliederte Landschaft ist durch eiszeitliche Alpengletscher aufgeschüttet worden und knapp zur Hälfte bewaldet."
+    },
+    {
+      "name": "Aukrug",
+      "land": "SH",
+      "jahr": "1970",
+      "flaeche_km2": 384,
+      "beschreibung": "Der Naturpark umfasst eine flache und lehmige Grundmoränenlandschaft und ein wesentlich stärker gegliedertes, hügeliges Gebiet, den Aukrug. Geprägt wird die Landschaft, die im Süden von der Stör durchflossen wird, von Moränen, Heide, Wald und einer Vielzahl von Teichen."
+    },
+    {
+      "name": "Barnim",
+      "land": "BB BE",
+      "jahr": "1999",
+      "flaeche_km2": 749,
+      "beschreibung": "Der Naturpark umfasst die eiszeitlich gebildete Hochfläche Barnim. Er liegt zwischen den Urstromtälern von Eberswalde im Norden und Berlin im Süden und ist zu mehr als der Hälfte bewaldet. Geprägt ist die Region durch viele einzelne Seen und ehemalige Schmelzwasserrinnen."
+    },
+    {
+      "name": "Bayerische Rhön",
+      "land": "BY",
+      "jahr": "1967",
+      "flaeche_km2": 1245,
+      "beschreibung": "Der Naturpark umfasst Bereiche der Rhön und liegt zwischen mehreren Mittelgebirgen. Im Süden reicht er bis zur Fränkischen Saale, hat aber auch mit der baumfreien Langen Rhön Anteil am Kerngebiet der Hohen Rhön. Die sanft wellige Oberfläche wird teilweise durch Bergkuppen aus Basaltschloten durchbrochen."
+    },
+    {
+      "name": "Bayerischer Spessart",
+      "land": "BY",
+      "jahr": "1963",
+      "flaeche_km2": 1710,
+      "beschreibung": "Der Naturpark wird von einer nach Südosten geneigten Buntsandsteinplatte gebildet. Er umfasst das größte zusammenhängende Mischlaubwaldgebiet in Deutschland und wird durch tiefe Täler, sanfte Hänge und Höhen geprägt."
+    },
+    {
+      "name": "Bayerischer Wald",
+      "land": "BY",
+      "jahr": "1967",
+      "flaeche_km2": 2780,
+      "beschreibung": "Der Naturpark liegt zwischen der Donau und den Hochlagen des Bayerischen Waldes. Der zur Hälfte bewaldete Naturpark umfasst die Kammlagen des Gebirges ebenso wie die südwestliche Abdachung, ist von tiefen Tälern durchzogen und grenzt an den Nationalpark Bayerischer Wald."
+    },
+    {
+      "name": "Bergisches Land",
+      "land": "NW",
+      "jahr": "1973",
+      "flaeche_km2": 2115,
+      "beschreibung": "Der Naturpark umfasst den nördlichen Teil des Rheinischen Schiefergebirges und das nördliche Siegerland und ist ein typisches bewaldetes Mittelgebirge. Es steigt allmählich von West nach Ost an und weist teilweise dichtbesiedelte Täler auf."
+    },
+    {
+      "name": "Bergstraße-Odenwald",
+      "land": "HE BY BW",
+      "jahr": "1960",
+      "flaeche_km2": 3500,
+      "beschreibung": "Der Geo-Naturpark umfasst die waldreiche Mittelgebirgslandschaft des Odenwaldes und reicht im Osten bis an das Maintal heran. Begrenzt wird er von den Flüssen Rhein, Main und Neckar. Die Region weist Felsenmeere aus mächtigen Granitblöcken und bizarre Felsengebilde auf."
+    },
+    {
+      "name": "Bourtanger Moor-Bargerveen",
+      "land": "NI NL",
+      "jahr": "2006",
+      "flaeche_km2": 140,
+      "beschreibung": "Der Internationale Naturpark umfasst mit dem Bourtanger Moor das größte zusammenhängende Hochmoor Europas. Es bietet ein buntes Landschaftsbild und ist durch Heideflächen, Landwirtschaft, Wasserflächen und Torfabbau geprägt."
+    },
+    {
+      "name": "Dahme-Heideseen",
+      "land": "BB",
+      "jahr": "1998",
+      "flaeche_km2": 594,
+      "beschreibung": "Der Naturpark ist geprägt von der Seenlandschaft der Dahme und zahlreichen Fließgewässern. Die Region ist durchzogen von Talsandebenen, Mooren, markanten Endmoränenerhebungen und durch den Wind vielerorts gebildeten Binnendünen."
+    },
+    {
+      "name": "Diemelsee",
+      "land": "HE NW",
+      "jahr": "1965",
+      "flaeche_km2": 334,
+      "beschreibung": "Der Naturpark ist ein Teil des Rothaargebirges und von großen geschlossenen Waldgebieten geprägt. Im Südosten und Osten grenzt er an die Waldecker Ebene, im Norden und Nordwesten an die Paderborner Hochfläche und den Arnsberger Wald."
+    },
+    {
+      "name": "Dübener Heide",
+      "land": "SN ST",
+      "jahr": "1992",
+      "flaeche_km2": 788,
+      "beschreibung": "Der Naturpark umfasst große Teile der Dübener Heide und ist etwa zu zwei Dritteln bewaldet. Geprägt ist die Landschaft durch eine in der Saale-Eiszeit gebildete abwechslungsreiche hügelige Heidelandschaft. Er liegt zwischen den Flussauen von Elbe und Mulde."
+    },
+    {
+      "name": "Dümmer",
+      "land": "NI NW",
+      "jahr": "1972",
+      "flaeche_km2": 1123,
+      "beschreibung": "Der Naturpark umfasst die Dammer Berge, den Dümmer, den Stemweder Berg und zahlreiche Moorgebiete. Die Höhenzüge der Region sind von flachen Senken durchzogen, die durch Gletscher der Saale-Eiszeit und aufgestauchte Moränen gebildet wurden."
+    },
+    {
+      "name": "Eichsfeld-Hainich-Werratal",
+      "land": "TH",
+      "jahr": "2012",
+      "flaeche_km2": 870,
+      "beschreibung": "Der Naturpark ist charakterisiert durch die Hügelketten des Hainichs und die Plateaus des Eichsfeldes. Die Werra hat sich im Südwesten tief in das Gebiet eingeschnitten und prägt die Landschaft."
+    },
+    {
+      "name": "Elm-Lappwald",
+      "land": "NI",
+      "jahr": "1976",
+      "flaeche_km2": 470,
+      "beschreibung": "Der Naturpark umfasst die nördlich des Harzes gelegenen bewaldeten Höhenzüge von Lappwald, Dorm und Elm, sowie das Gebiet der Helmstedter Mulde im Osten. Geprägt ist es durch welliges Hügelland. Fossilienreich sind die Muschelkalkschichten der Bergrücken."
+    },
+    {
+      "name": "Erzgebirge/Vogtland",
+      "land": "SN",
+      "jahr": "1990",
+      "flaeche_km2": 1495,
+      "beschreibung": "Der Naturpark umfasst mit dem Erzgebirge und dem Vogtland eine abwechslungsreiche Mittelgebirgslandschaft. Geprägt ist die waldreiche Region durch eine wellige Hochfläche im Vogtland, die nach Süden sanft ansteigt. Das Erzgebirge ist von tief eingesenkten Tälern durchzogen."
+    },
+    {
+      "name": "Feldberger Seenlandschaft",
+      "land": "MV",
+      "jahr": "1997",
+      "flaeche_km2": 347,
+      "beschreibung": "Der Naturpark ist zu etwa 38 Prozent bewaldet und durch Hügel, Täler und sandige Ebenen geprägt. Der westliche Teil der eiszeitlich geformten Region mit Grundmoräne, Endmoräne, Sander und Urstromtal gehört zum Nationalpark Müritz."
+    },
+    {
+      "name": "Fichtelgebirge",
+      "land": "BY",
+      "jahr": "1971",
+      "flaeche_km2": 1028,
+      "beschreibung": "Der Naturpark umfasst die bewaldeten Hochlagen des Fichtelgebirges und die angrenzende, landwirtschaftlich genutzte Hochfläche. Er wird begrenzt vom Thüringer Wald, Frankenwald, Oberpfälzer Wald und Erzgebirge. Geprägt ist die Region durch ausgedehnte Felsmeere und Felsburgen wie der Luisenburg."
+    },
+    {
+      "name": "Fläming",
+      "land": "ST",
+      "jahr": "2005",
+      "flaeche_km2": 824,
+      "beschreibung": "Der Naturpark umfasst die Region zwischen den Elbauen und dem nördlich benachbarten Naturpark Hoher Fläming. Die sanften Hügel des südlichen Fläming senken sich hier allmählich hinab zur Lutherstadt Wittenberg."
+    },
+    {
+      "name": "Flusslandschaft Peenetal",
+      "land": "MV",
+      "jahr": "2011",
+      "flaeche_km2": 334,
+      "beschreibung": "Der Naturpark umfasst die ursprüngliche Flusslandschaft des Peenetals zwischen Kummerower See und Peenestrom. Geprägt ist die Landschaft vom größten Niedermoorgebiet Mitteleuropas."
+    },
+    {
+      "name": "Frankenhöhe",
+      "land": "BY",
+      "jahr": "1974",
+      "flaeche_km2": 1105,
+      "beschreibung": "Der Naturpark hat Anteil an der südwestdeutschen Schichtstufenlandschaft und senkt sich mit Steilabfall nach Westen und Osten zur Hohenloher Ebene und zum Tauberland ab. Nach Südosten zum Mittelfränkischen Becken ist der Übergang sanfter."
+    },
+    {
+      "name": "Frankenwald",
+      "land": "BY",
+      "jahr": "1971",
+      "flaeche_km2": 1023,
+      "beschreibung": "Der Naturpark grenzt unmittelbar an die Naturparks Thüringer Wald und Thüringer Schiefergebirge-Obere Saale an. Er besteht aus einem welligen Plateau, wird von einzelnen Bergkuppen überragt und besteht zu mehr als der Hälfte aus Wald."
+    },
+    {
+      "name": "Fränkische Schweiz-Frankenjura",
+      "land": "BY",
+      "jahr": "1968",
+      "flaeche_km2": 2346,
+      "beschreibung": "Der Naturpark hieß bis Juni 2018 Naturpark Fränkische Schweiz-Veldensteiner Forst. Er umfasst abwechslungsreiche Täler und Hochflächen der Fränkischen Alb, teilweise mit bizarren Felspartien. Zudem bildeten sich durch Auslaugung zahlreiche Höhlen. Im zentralen Bereich liegt die Fränkische Schweiz."
+    },
+    {
+      "name": "Frau-Holle-Land – Werratal.Meißner.Kaufunger Wald",
+      "land": "HE",
+      "jahr": "1962",
+      "flaeche_km2": 1139,
+      "beschreibung": "Der Geo-Naturpark hieß bis Januar 2017 Naturpark Meißner-Kaufunger Wald. Er umfasst unter anderem Bereiche des Kaufunger Waldes, der Söhre, des Hohen Meißners, der Hessischen Schweiz und des Ringgaus. Er ist durch eine abwechslungsreiche Mittelgebirgslandschaft, die im Nordwesten an den Naturpark Münden und im Osten an den Naturpark Eichsfeld-Hainich-Werratal stößt, geprägt, und liegt zwischen Werra und Fulda."
+    },
+    {
+      "name": "Habichtswald",
+      "land": "HE",
+      "jahr": "1962",
+      "flaeche_km2": 474,
+      "beschreibung": "Der Naturpark umfasst den eigentlichen Habichtswald, ein waldreiches Mittelgebirge, welches ein nördlicher Teil des Westhessischen Berglands ist. Die Berglandschaft fällt im Süden und Südwesten in das Edertal ab."
+    },
+    {
+      "name": "Harz (Niedersachsen)",
+      "land": "NI",
+      "jahr": "1960",
+      "flaeche_km2": 790,
+      "beschreibung": "Der Naturpark umfasst die niedersächsischen Teile des Mittelgebirges Harz ohne den Nationalpark Harz, der zum Hochharz und Oberharz gehört. Geprägt ist das waldreiche Gebirge durch kurze, steile Täler, die von Bergrücken und Einzelbergen abgelöst werden."
+    },
+    {
+      "name": "Harz/Sachsen-Anhalt",
+      "land": "ST",
+      "jahr": "2003",
+      "flaeche_km2": 1660,
+      "beschreibung": "Der Naturpark umfasst die sachsen-anhaltischen Teile des Mittelgebirges Harz, inklusive jenen des Hochharzes, die zum Nationalpark Harz gehören. Geprägt ist das waldreiche Gebirge durch kurze, steile Täler, die von Bergrücken und Einzelbergen abgelöst werden."
+    },
+    {
+      "name": "Harz/Sachsen-Anhalt (Mansfelder Land)",
+      "land": "ST",
+      "jahr": "2012",
+      "flaeche_km2": 256,
+      "beschreibung": "Der vierte Naturpark des Mittelgebirges Harz umfasst die Region von Molmerswende bis Hettstedt und von Welbsleben bis Gorenzen. Er gehört zum Geopark Harz – Braunschweiger Land – Ostfalen. Die Region Mansfelder Land wurde durch den jahrhundertelangen Bergbau geprägt."
+    },
+    {
+      "name": "Haßberge",
+      "land": "BY",
+      "jahr": "1974",
+      "flaeche_km2": 860,
+      "beschreibung": "Der Naturpark ist durch die hügelige Landschaft der Haßberge geprägt. Der langgestreckte Höhenrücken fällt im Westen steil und nach Osten hin ganz allmählich ab, was mit den Lagerungsverhältnissen der geologischen Schichten zusammenhängt. Im Süden grenzt der Naturpark an das Maintal."
+    },
+    {
+      "name": "Hessische Rhön",
+      "land": "HE",
+      "jahr": "1963",
+      "flaeche_km2": 720,
+      "beschreibung": "Der Naturpark umfasst die nordwestliche Rhön, sowie Teile des Vorlandes. Über die langgestreckte Hochfläche verläuft die Grenze zum Naturpark Bayerische Rhön. Geprägt ist die Mittelgebirgslandschaft von bewaldeten Kuppen und waldfreien Hochlagen."
+    },
+    {
+      "name": "Hessischer Spessart",
+      "land": "HE",
+      "jahr": "1962",
+      "flaeche_km2": 729,
+      "beschreibung": "Der Naturpark ist durch Eichen- und Buchenwälder, tiefe Täler, sanfte Hänge und Höhen des Spessarts geprägt. Im Süden schließt sich der bayerische Teil des Spessarts an; im Norden wird der Naturpark durch die Kinzig begrenzt."
+    },
+    {
+      "name": "Hirschwald",
+      "land": "BY",
+      "jahr": "2006",
+      "flaeche_km2": 278,
+      "beschreibung": "Der Naturpark war früher ein kurfürstliches Jagdgebiet. Er ist der älteste Forst und eines der größten Waldgebiete in der gesamten Region. Geprägt ist er von Talauen und den steilen Hängen zu Vils und Lauterach."
+    },
+    {
+      "name": "Hohe Mark",
+      "land": "NW",
+      "jahr": "1964",
+      "flaeche_km2": 1040,
+      "beschreibung": "Der Naturpark umfasst die bewaldeten Höhenzüge der Halterner Berge – Hohe Mark (nebst Nordwestausläufern Rekener Berge und Die Berge), Haard und Borkenberge – die sanfte Höhen aufweisen und im südlichen Münsterland liegen. Die Region ist durch eine vielfältige und abwechslungsreiche Landschaftsform geprägt. Angrenzend liegen die Haard und die Borkenberge."
+    },
+    {
+      "name": "Hoher Fläming",
+      "land": "BB",
+      "jahr": "1997",
+      "flaeche_km2": 827,
+      "beschreibung": "Der Naturpark umfasst zwei unterschiedliche Regionen, im Norden die flache Niederungslandschaft der Belziger Landschaftswiesen und im Süden die hügelige und waldreiche Landschaft des Hohen Fläming. Geprägt ist die Region durch große, zusammenhängende Waldflächen und ein Netz von Bächen und Quellen."
+    },
+    {
+      "name": "Hohes Venn-Eifel",
+      "land": "RP NW BE",
+      "jahr": "1960",
+      "flaeche_km2": 1751,
+      "beschreibung": "Der Deutsch-Belgische Naturpark umfasst die Eifel mit der Hocheifel und das Hohe Venn. Die südliche Hocheifel ist geprägt von bewaldeten Bergrücken, die von der Prüm und der Kyll durchschnitten werden. Das Vennvorland besitzt sanfte Erhebungen."
+    },
+    {
+      "name": "Holsteinische Schweiz",
+      "land": "SH",
+      "jahr": "1986",
+      "flaeche_km2": 753,
+      "beschreibung": "Der Naturpark umfasst eine Vielzahl von Seen, wie den Großen Plöner See, die in der Weichseleiszeit entstandenen Jungmoränenlandschaft des Schleswig-Holsteinischen Hügellandes eingebettet sind. Durchflossen wird die hügelige Landschaft von den Flüssen Schwentine und Kossau."
+    },
+    {
+      "name": "Hümmling",
+      "land": "NI",
+      "jahr": "2015",
+      "flaeche_km2": 577,
+      "beschreibung": "Der Naturpark umfasst mit dem Hümmling im nordöstlichen Emsland eine sanfthügelige Grundmoränenlandschaft, die in der Saale-Eiszeit entstand. Geprägt wird die Agrarlandschaft, die unter anderem von den im Zentrum entspringenden Flüssen Ohe und Nordradde durchzogen wird, von Wäldern, Mooren und Heideflächen."
+    },
+    {
+      "name": "Hüttener Berge",
+      "land": "SH",
+      "jahr": "1970",
+      "flaeche_km2": 219,
+      "beschreibung": "Der Naturpark umfasst mit den Hüttener Bergen das nördlichste Hügelgebiet Deutschlands und ist größtenteils Bestandteil der Schleswigschen Geest. Geschaffen wurde die Hügellandschaft durch Gletscheraufschiebungen in der letzten Eiszeit."
+    },
+    {
+      "name": "Insel Usedom",
+      "land": "MV",
+      "jahr": "1999",
+      "flaeche_km2": 632,
+      "beschreibung": "Der Naturpark umfasst die Insel Usedom sowie das Gewässer zum Festland hin und einen kleinen Festlandstreifen. Etwa 30 Prozent der Region sind bewaldet und weisen auf kleinstem Raum eine große Vielfalt landschaftlicher Formen auf."
+    },
+    {
+      "name": "Kellerwald-Edersee",
+      "land": "HE",
+      "jahr": "2001",
+      "flaeche_km2": 406,
+      "beschreibung": "Der Naturpark ist durch eine Mittelgebirgslandschaft mit sanften Tälern und Hügeln geprägt. Er umfasst einen Teil des Kellerwaldes, wird von der Eder durchflossen und reicht bis zum Edersee. Im Naturpark steht einer der größten Buchenwälder Europas unter Naturschutz."
+    },
+    {
+      "name": "Knüll",
+      "land": "HE",
+      "jahr": "2021",
+      "flaeche_km2": 830,
+      "beschreibung": "Der Naturpark ist eine durch eine Mittelgebirgslandschaft mit offener Basalt-Kuppenlandschaft im Norden, einem großflächig bewaldeten Bereich im Osten und einer fruchtbaren Ackerlandschaft im Westen gekennzeichnet, im Osten wird sie durch die Fulda begrenzt."
+    },
+    {
+      "name": "Kyffhäuser",
+      "land": "TH",
+      "jahr": "2008",
+      "flaeche_km2": 305,
+      "beschreibung": "Der Naturpark ist durch die geologisch sehr unterschiedlichen Gebiete des Kyffhäuser -Gebirges, der Windleite und der Hainleite geprägt. Im Norden hat er Anteile an der Goldenen Aue (Vogelschutzgebiet internationaler Bedeutung). Der Naturpark ist zur Hälfte bewaldet und besitzt Magerrasen mit Orchideen und Steppenpflanzen."
+    },
+    {
+      "name": "Lahn-Dill-Bergland",
+      "land": "HE",
+      "jahr": "2007",
+      "flaeche_km2": 874,
+      "beschreibung": "Der Naturpark umfasst größere Teile des Gladenbacher Berglandes. Im Nordwesten grenzt der Naturpark an das Rothaargebirge, im Südwesten an den Westerwald und im Süden an den Taunus. Der Naturpark ist zu mehr als die Hälfte bewaldet und teilweise mit Felslandschaften durchzogen. Nordwestlich schließt sich der Naturpark Sauerland-Rothaargebirge an."
+    },
+    {
+      "name": "Lauenburgische Seen",
+      "land": "SH",
+      "jahr": "1960",
+      "flaeche_km2": 474,
+      "beschreibung": "Der Naturpark umfasst die Lauenburgischen Seen wie den Ratzeburger See und den Schaalsee und ist mit ausgedehnten Waldgebieten, die etwa ein Viertel des Naturparks einnehmen, überzogen. Geprägt ist er von Endmoränen -Höhen und im Süden von sanftwelligen Sandflächen."
+    },
+    {
+      "name": "Lüneburger Heide",
+      "land": "NI",
+      "jahr": "1921",
+      "flaeche_km2": 1130,
+      "beschreibung": "Der Naturpark umfasst Teile der Lüneburger Heide, die weiträumige typische Heideflächen aufweist, und wird von der Wümme, die dort entspringt, durchflossen. Geformt wurde die Hügellandschaft von eiszeitlichen Gletschern. Große Bereiche der Region werden von Kiefernwald eingenommen."
+    },
+    {
+      "name": "Maas-Schwalm-Nette",
+      "land": "NW NL",
+      "jahr": "1965",
+      "flaeche_km2": 435,
+      "beschreibung": "Der Naturpark geht in niederländisches Gebiet über und ist im Grenzbereich durch ausgedehnte Wälder geprägt. Die Region ist ein abwechslungsreiches Gebiet, von den namensgebenden Flüssen Schwalm und Nette durchzogen und umfasst die Bereiche Süchtelner Höhen und Hardter Wald."
+    },
+    {
+      "name": "Märkische Schweiz",
+      "land": "BB",
+      "jahr": "1990",
+      "flaeche_km2": 205,
+      "beschreibung": "Der Naturpark umfasst eine bewegte Hügellandschaft, den Buckower Wald und zahlreiche Seen, welche durch die Gletscher der letzten Eiszeit gebildet wurden. Die Region ist mit Tälern durchzogen und quer durch den Naturpark geht die Buckower Rinne, welche vom Schmelzwasser der Gletscher ausgewaschen wurde."
+    },
+    {
+      "name": "Mecklenburgische Schweiz und Kummerower See",
+      "land": "MV",
+      "jahr": "1997",
+      "flaeche_km2": 673,
+      "beschreibung": "Der Naturpark ist nur gering bewaldet und umfasst den Malchiner See, den Kummerower See und den Teterower See. Durchflossen wird er durch die Peene. Geprägt ist die Region durch die Hügelketten im Zentrum des Naturparks und durch die Eiszeit geformten Niederungen."
+    },
+    {
+      "name": "Münden",
+      "land": "NI",
+      "jahr": "1959",
+      "flaeche_km2": 450,
+      "beschreibung": "Der Naturpark umfasst den Nordteil des Kaufunger Walds, den Bramwald und den Dransfelder Stadtwald. Im Westen stößt er an den Naturpark Reinhardswald, im Süden an den Geo-Naturpark Frau-Holle-Land. Geprägt ist er von einer Mittelgebirgslandschaft mit Hochebenen und großen, zusammenhängenden Waldgebieten."
+    },
+    {
+      "name": "Nagelfluhkette",
+      "land": "BY AT",
+      "jahr": "2008",
+      "flaeche_km2": 247,
+      "beschreibung": "Der Naturpark ist die erste grenzüberschreitende Einrichtung dieser Art zwischen Deutschland und Österreich. Er erstreckt sich über den südwestlichen Rand des Allgäus und große Teile des Vorderen Bregenzerwaldes. Namensgebend ist der aus dem Konglomeratgestein des Nagelfluhs bestehende Gebirgskamm am Nordrand der Allgäuer Alpen."
+    },
+    {
+      "name": "Nassau",
+      "land": "RP",
+      "jahr": "1963",
+      "flaeche_km2": 590,
+      "beschreibung": "Der Naturpark liegt im Rheinischen Schiefergebirge und wird von der tief eingeschnittenen, gewundenen Lahn in Ost-West-Richtung durchzogen. Mehrere abgeschiedene Nebentäler führen steil zu den Höhen des Westerwald und Taunus hinauf."
+    },
+    {
+      "name": "Neckartal-Odenwald",
+      "land": "BW",
+      "jahr": "1980",
+      "flaeche_km2": 1526,
+      "beschreibung": "Der Naturpark umfasst die waldreiche Mittelgebirgslandschaft des Odenwaldes mit tief eingeschnittenen Tälern. Angrenzende Landschaften sind das Bauland im Osten, die Bergstraße im Westen und das tief eingeschnittene Neckartal im Süden."
+    },
+    {
+      "name": "Niederlausitzer Heidelandschaft",
+      "land": "BB",
+      "jahr": "1996",
+      "flaeche_km2": 484,
+      "beschreibung": "Der Naturpark ist geprägt von Grundmoränen und Endmoränenzügen, aber auch von Urstromtälern und Sanderflächen, die aus der Saale-Eiszeit stammen. Im Norden erstrecken sich auf sandigen Hochflächen große, zusammenhängende Waldgebiete."
+    },
+    {
+      "name": "Niederlausitzer Landrücken",
+      "land": "BB",
+      "jahr": "1997",
+      "flaeche_km2": 586,
+      "beschreibung": "Der Naturpark umfasst den Höhenzug Niederlausitzer Landrücken, eine typische Endmoränenlandschaft aus der Eiszeit. Durchzogen ist die Region von dem nordwestlich verlaufenden Baruther Urstromtal, zu welchem der Naturpark steil abfällt."
+    },
+    {
+      "name": "Nördlicher Oberpfälzer Wald",
+      "land": "BY",
+      "jahr": "1975",
+      "flaeche_km2": 1380,
+      "beschreibung": "Der Naturpark umfasst die hügelige Mittelgebirgslandschaft des nördlichen Oberpfälzer Waldes. Im Westen wechseln sich Wälder, Felder, Wiesen und Weiden ab. Größere Höhen werden im Osten, im Bayerischen Wald, erreicht."
+    },
+    {
+      "name": "Nossentiner/Schwinzer Heide",
+      "land": "MV",
+      "jahr": "1994",
+      "flaeche_km2": 365,
+      "beschreibung": "Der Naturpark besteht zu 60 Prozent aus Wald und fast 60 teilweise verlandeten Seen und umfasst eine weithin ebene Landschaft, die nur vereinzelt von einigen Hügeln überragt wird. Geprägt ist die Region durch weite Sandflächen, die vereinzelt zu Dünen aufgeweht wurden."
+    },
+    {
+      "name": "Nuthe-Nieplitz",
+      "land": "BB",
+      "jahr": "1999",
+      "flaeche_km2": 623,
+      "beschreibung": "Der Naturpark ist von den feuchten Niederungen der Flüsse Nuthe und Nieplitz und von naturnahen Buchenwäldern geprägt. Das zentrale Gebiet der Region wurde am Ende der Weichseleiszeit als Zwischenurstromtal der abtauenden Gletscher geformt."
+    },
+    {
+      "name": "Obere Donau",
+      "land": "BW",
+      "jahr": "1980",
+      "flaeche_km2": 1492,
+      "beschreibung": "Der Naturpark umfasst die höchsten Bereiche der Schwäbischen Alb zwischen dem Bodensee und dem Schwarzwald. Die Albhochfläche ist von ausgedehnten Waldflächen bedeckt und senkt sich sanft nach Süden ab. Die Region wird von der tief in die Kalksteinschichten eingesenkten Donau durchschnitten."
+    },
+    {
+      "name": "Oberer Bayerischer Wald",
+      "land": "BY",
+      "jahr": "1965",
+      "flaeche_km2": 1738,
+      "beschreibung": "Der Naturpark umfasst den Nordwesten des Bayerischen Waldes und erstreckt sich von der Kammlinie bis zum Falkensteiner Vorwald. Die Landschaft ist von weitgeschwungenen Bergrücken und den darin eingebetteten Tälern und Dörfern geprägt."
+    },
+    {
+      "name": "Oberpfälzer Wald",
+      "land": "BY",
+      "jahr": "1971",
+      "flaeche_km2": 817,
+      "beschreibung": "Der Naturpark ist knapp zur Hälfte bewaldet und wird von einer ausgedehnten welligen bis hügeligen Landschaft mit vielen kleinen Flüssen und Bächen geprägt. Er umfasst im Wesentlichen den Hinteren und den Vorderen Oberpfälzer Wald."
+    },
+    {
+      "name": "Reinhardswald",
+      "land": "HE",
+      "jahr": "2017",
+      "flaeche_km2": 449,
+      "beschreibung": "Der Naturpark umfasst den Reinhardswald, eine weitläufige, zumeist dicht bewaldete und nahezu unbewohnte Buntsandsteinhochfläche, und das in Sedimente des Muschelkalks eingeschnittene untere Tal der Diemel, welches die letzte große Kalkmagerrasenlandschaft Nordwestdeutschlands aufweist. Er grenzt an die Naturparks Teutoburger Wald/Eggegebirge, Solling-Vogler und Münden."
+    },
+    {
+      "name": "Rhein-Taunus",
+      "land": "HE",
+      "jahr": "1968",
+      "flaeche_km2": 808,
+      "beschreibung": "Der Naturpark umfasst den westlichen Teil des Taunus und reicht über das Idsteiner Becken bis zum Rhein. Geprägt ist er von einer zu etwa 60 Prozent bewaldeten Mittelgebirgslandschaft, die zum Durchbruchstal des Mittelrheins steil abfällt."
+    },
+    {
+      "name": "Rhein-Westerwald",
+      "land": "RP",
+      "jahr": "1962",
+      "flaeche_km2": 446,
+      "beschreibung": "Der Naturpark gehört zum Nieder westerwald, Teil des Rheinischen Schiefergebirges. Der Naturpark wird in einer breiten Talmulde und teilweise einem schluchtartig engen Tal von der Wied durchflossen. Etwa 45 Prozent sind bewaldet."
+    },
+    {
+      "name": "Rheinland",
+      "land": "NW",
+      "jahr": "1978",
+      "flaeche_km2": 1045,
+      "beschreibung": "Der Naturpark hieß bis 12. Dezember 2005 Naturpark Kottenforst-Ville. Er liegt zwischen der Rhein ebene mit den Randbereichen der Kölner Bucht und der Erft. Quer durch den von landschaftlicher Vielfalt geprägten Park zieht sich die Ville, ein langgestreckter Höhenzug, der parallel zum Rhein verläuft."
+    },
+    {
+      "name": "Saale-Unstrut-Triasland",
+      "land": "ST",
+      "jahr": "1991",
+      "flaeche_km2": 1037,
+      "beschreibung": "Der Naturpark umfasst Teile des mittleren Saaletales und das untere Unstruttal mit den benachbarten Hochflächen. Geprägt ist es von sanften Hügeln und einer überwiegend offenen Landschaft. Es gibt Weinanbau und Streuobstwiesen."
+    },
+    {
+      "name": "Saar-Hunsrück",
+      "land": "RP SL",
+      "jahr": "1980",
+      "flaeche_km2": 2055,
+      "beschreibung": "Der Naturpark umfasst den Hunsrück mit dem Schwarzwälder Hochwald und dem Osburger Hochwald. Die Region ist von einer Mittelgebirgslandschaft mit tief eingeschnittenen Tälern, bewaldeten Bergrücken, Wiesen und Felsen geprägt."
+    },
+    {
+      "name": "Sauerland-Rothaargebirge",
+      "land": "NW",
+      "jahr": "2015",
+      "flaeche_km2": 4215,
+      "beschreibung": "Der Naturpark entstand aus dem Zusammenschluss der Naturparks Ebbegebirge, Homert und Rothaargebirge."
+    },
+    {
+      "name": "Schlaubetal",
+      "land": "BB",
+      "jahr": "1995",
+      "flaeche_km2": 228,
+      "beschreibung": "Der Naturpark umfasst im Norden die Heidelandschaft Reicherskreuzer Heide und ist von Grund-, End- und Strauchmoränenresten, Sanderflächen und Binnendünen geprägt. In der Region liegen die in der Weichseleiszeit geschaffenen Schmelzwassersysteme der Schlaube, Dorche, Oelse und Demnitz."
+    },
+    {
+      "name": "Schlei",
+      "land": "SH",
+      "jahr": "2008",
+      "flaeche_km2": 498,
+      "beschreibung": "Der Naturpark Schlei umfasst den gesamten gleichnamigen Meeresarm inklusive zahlreicher Neben-, Binnen- und Brackgewässer von der Ostseeküste bis nach Schleswig. Weite Teile seiner Uferbereiche und das Hinterland der angrenzenden Landschaften Schwansen (im Süden) und Angeln (im Norden) gehören ebenfalls zum Naturpark. Neben der Küstenregion ist das Naturparkgebiet von abwechslungsreicher, meist halboffener Hügellandschaft, kleineren Mooren und zahlreichen Knicks geprägt."
+    },
+    {
+      "name": "Schönbuch",
+      "land": "BW",
+      "jahr": "1972",
+      "flaeche_km2": 156,
+      "beschreibung": "Der Naturpark umfasst den Schönbuch und ist in der Region Stuttgart das größte zusammenhängende Waldgebiet. Südlich wird es durch das Ammer - und das Neckartal begrenzt. Die östliche Grenze ist das Filderplateau und im Westen die Ebene des Gäu."
+    },
+    {
+      "name": "Schwäbisch-Fränkischer Wald",
+      "land": "BW",
+      "jahr": "1979",
+      "flaeche_km2": 1271,
+      "beschreibung": "Der Naturpark ist in fünf kleinere Regionen, Welzheimer, Murrhardter und Mainhardter Wald sowie Waldenburger und Löwensteiner Berge gegliedert. Geprägt ist die Region von bizarren Felsgebilden und steilen Keuperhängen."
+    },
+    {
+      "name": "Schwarzwald Mitte/Nord",
+      "land": "BW",
+      "jahr": "2000",
+      "flaeche_km2": 4200,
+      "beschreibung": "Der Naturpark ist von einer vielfältigen Landschaft des Schwarzwaldes mit tief eingekerbten Tälern, Felsen, Bächen und großen, zusammenhängenden Waldgebieten geprägt. In den Hochlagen finden sich baumfreie Grinden. Im Süden schließt sich der Naturpark Südschwarzwald an."
+    },
+    {
+      "name": "Siebengebirge",
+      "land": "NW",
+      "jahr": "1959",
+      "flaeche_km2": 112,
+      "beschreibung": "Der Naturpark umfasst das Naturschutzgebiet Siebengebirge und nördlich und östlich angrenzende Gebiete. Das Siebengebirge ist durch eine einzigartige Felsenlandschaft vulkanischen Ursprungs, durch Abtragung und Freilegung herauspräpariert, geprägt."
+    },
+    {
+      "name": "Solling-Vogler im Weserbergland",
+      "land": "NI",
+      "jahr": "1966",
+      "flaeche_km2": 555,
+      "beschreibung": "Der Naturpark umfasst die beiden Mittelgebirge Solling und Vogler und den dazwischenliegenden Höhenzug Burgberg. Westlich grenzt er an das Wesertal. Berge sind nicht markant und laufen am Rand flach aus. Der Laub- und Nadelwaldbestand ist durchgängig, kleinere Bachläufe runden das Landschaftsbild malerisch ab."
+    },
+    {
+      "name": "Soonwald-Nahe",
+      "land": "RP",
+      "jahr": "2005",
+      "flaeche_km2": 736,
+      "beschreibung": "Der Naturpark weist auf kleinem Raum unterschiedliche Landschaften auf, umfasst die Hochflächen des Hunsrücks, die Quarzitkämme des Soonwalds mit tiefen, eingeschnittenen Bächen und das Tal der Nahe. Die Region ist durch ausgedehnte Laubwälder geprägt."
+    },
+    {
+      "name": "Stechlin-Ruppiner Land",
+      "land": "BB",
+      "jahr": "2001",
+      "flaeche_km2": 683,
+      "beschreibung": "Der Naturpark ist zu 62 Prozent bewaldet und grenzt an den Naturpark Uckermärkische Seen. Geprägt ist die Region durch eine lange Seenkette, darunter viele dort seltene Klarwasserseen. Ökologisch wertvoll sind die großflächigen Buchenwälder."
+    },
+    {
+      "name": "Steigerwald",
+      "land": "BY",
+      "jahr": "1971",
+      "flaeche_km2": 1280,
+      "beschreibung": "Der Naturpark wird von einer sanften, mit Buchen- und teilweise lichten Eichenwäldern bestandenen waldreichen Mittelgebirgslandschaft geprägt. Im Norden wird der Steigerwald vom großen Mainbogen und im Süden von der Aisch begrenzt."
+    },
+    {
+      "name": "Steinhuder Meer",
+      "land": "NI",
+      "jahr": "1974",
+      "flaeche_km2": 420,
+      "beschreibung": "Der Naturpark umfasst den größten Binnensee Nordwestdeutschlands, das Steinhuder Meer, und ist recht waldarm. Geprägt ist die Region durch Moore, die etwa ein Viertel des Naturparks einnehmen. Gebildet wurde die Region als Urstromtal der Saale-Eiszeit."
+    },
+    {
+      "name": "Steinwald",
+      "land": "BY",
+      "jahr": "1970",
+      "flaeche_km2": 246,
+      "beschreibung": "Der Naturpark umfasst den Steinwald, ist eingebettet zwischen Fichtelgebirge und Oberpfälzer Wald und weist eine große landschaftliche Vielfalt auf. Im Wesentlichen ist er durch eine Basaltkuppenlandschaft mit bizarren Blockmeeren und Felsburgen geprägt."
+    },
+    {
+      "name": "Sternberger Seenland",
+      "land": "MV",
+      "jahr": "2005",
+      "flaeche_km2": 540,
+      "beschreibung": "Der Naturpark umfasst das mittlere Warnowtal und die Sternberger Seenlandschaft. Geprägt ist die Region von bewaldeten Sanderflächen, Urstromtälern der Warnow und der Mildenitz sowie Schmelzwasserseen und Endmoränen"
+    },
+    {
+      "name": "Stromberg-Heuchelberg",
+      "land": "BW",
+      "jahr": "1980",
+      "flaeche_km2": 408,
+      "beschreibung": "Der Naturpark umfasst die Landschaft Stromberg und den Höhenzug Heuchelberg und ist durch eine waldreiche Hügellandschaft geprägt. Geologisch gehört er zum Keuperbergland. Die Nordhänge tragen meistens Wald, die Südhänge Weinberge."
+    },
+    {
+      "name": "Südeifel",
+      "land": "RP LU",
+      "jahr": "1958",
+      "flaeche_km2": 432,
+      "beschreibung": "Der Naturpark umfasst den westlichen Teil der Südeifel. Geprägt ist er durch eine hügelige Landschaft mit weitgespannten Hochflächen, tief eingeschnittenen Tälern und schroffen Felspartien. Der Naturpark ist Teil des länderübergreifenden Deutsch-Luxemburgischen Naturparks."
+    },
+    {
+      "name": "Südharz",
+      "land": "TH",
+      "jahr": "2010",
+      "flaeche_km2": 270,
+      "beschreibung": "Der Naturpark erstreckt sich von Ellrich über Nordhausen bis zum Alten Stollen bei Urbach. Malerisch fließen die steil aufragenden, bewaldeten Randhöhen des Harzes in eine sich daran anschließende, hügelige Gipskarstlandschaft. Der Naturpark Südharz ist der fünfte ausgewiesene Naturpark Thüringens und mit 26.700 Hektar auch der kleinste im Freistaat."
+    },
+    {
+      "name": "Südheide",
+      "land": "NI",
+      "jahr": "1963",
+      "flaeche_km2": 500,
+      "beschreibung": "Der Naturpark liegt in der südlichen Lüneburger Heide und ist durch große Wald - und Heideflächen gekennzeichnet. Die Landschaft wurde in der Eiszeit gebildet und wird durch welliges bis sanft hügeliges Gelände und große zusammenhängende Waldgebiete geprägt."
+    },
+    {
+      "name": "Südschwarzwald",
+      "land": "BW",
+      "jahr": "1999",
+      "flaeche_km2": 3940,
+      "beschreibung": "Der Naturpark ist zu zwei Dritteln mit Wald bedeckt und von tief eingekerbten Tälern des Schwarzwaldes geprägt. Im Westen und Süden reicht er bis an den Rhein, im Osten bis an das Alb-Wutach-Gebiet und im Norden an den Mittleren Schwarzwald."
+    },
+    {
+      "name": "Taunus",
+      "land": "HE",
+      "jahr": "1962",
+      "flaeche_km2": 1348,
+      "beschreibung": "Der Naturpark hieß bis Dezember 2012 Naturpark Hochtaunus. Er umfasst den Hauptkamm und den nördlich zur Lahn abdachenden, flächenmäßig größeren Östlichen Hintertaunus des bewaldeten, welligen bis gebirgigen Mittelgebirges Taunus. Im Hochtaunus herrscht Nadelwald vor, im östlichen Hintertaunus überwiegend Laubwald."
+    },
+    {
+      "name": "TERRA.vita – Nördlicher Teutoburger Wald, Wiehengebirge, Osnabrücker Land",
+      "land": "NW NI",
+      "jahr": "1962",
+      "flaeche_km2": 1510,
+      "beschreibung": "Der Natur- und Geopark hieß früher Naturpark Nördlicher Teutoburger Wald-Wiehengebirge. Er umfasst Bereiche des Teutoburger Waldes, Wiehengebirges, Wesergebirges und des Osnabrücker Landes. Geprägt ist der Park durch eine abwechslungsreiche und vielfältige Mittelgebirgslandschaft, die von vielen Tälern durchzogen ist."
+    },
+    {
+      "name": "Teutoburger Wald/Eggegebirge",
+      "land": "NW",
+      "jahr": "1965",
+      "flaeche_km2": 2736,
+      "beschreibung": "Der Naturpark umfasst die Gebirgszüge des südlichen Teutoburger Waldes und des Eggegebirges. Die Landschaft ist durch eine abwechslungsreiche und vielfältige Mittelgebirgslandschaft geprägt und dicht bewaldet."
+    },
+    {
+      "name": "Thüringer Schiefergebirge/ Obere Saale",
+      "land": "TH",
+      "jahr": "1990",
+      "flaeche_km2": 873,
+      "beschreibung": "Der Naturpark ist durch tief eingeschnittene Täler, vor allem der Saale, die mit zahlreichen Windungen durch ihr Tal zwischen den Bergrücken fließt, geprägt. Die welligen Hochflächen sind teilweise mit dichtem Fichtenwald besetzt."
+    },
+    {
+      "name": "Thüringer Wald",
+      "land": "TH",
+      "jahr": "1990",
+      "flaeche_km2": 2082,
+      "beschreibung": "Der Naturpark erstreckt sich nahezu über den gesamten Thüringer Wald und das Thüringer Schiefergebirge. Die Region ist überwiegend bewaldet und geprägt von tief eingeschnittenen Tälern. Auf dem Kamm verläuft der Rennsteig-Wanderweg."
+    },
+    {
+      "name": "Uckermärkische Seen",
+      "land": "BB",
+      "jahr": "1997",
+      "flaeche_km2": 897,
+      "beschreibung": "Der Naturpark ist eine eiszeitlich geprägte Landschaft und etwa zur Hälfte bewaldet. Auf engem Raum wechseln sich am Endmoränenwall Hügel und Seen ab. Das Eis hinterließ im Süden neben Geröll ausgedehnte Sanderflächen, in welche viele kleine Rinnenseen und Moore eingesenkt sind."
+    },
+    {
+      "name": "Unteres Saaletal",
+      "land": "ST",
+      "jahr": "2005",
+      "flaeche_km2": 408,
+      "beschreibung": "Der Naturpark umfasst das untere Saaletal und ist von eiszeitlichen Ablagerungen und einer Porphyrkuppenlandschaft geprägt. Die Region ist von Gebirgsbrücken durchbrochen, die steil herausragende Felsen und Hangflächen aufweisen."
+    },
+    {
+      "name": "Vulkaneifel",
+      "land": "RP",
+      "jahr": "2010",
+      "flaeche_km2": 980,
+      "beschreibung": "Das Gebiet des Natur- und Geoparks ist kreisübergreifend und schließt neben dem größten Teil des Landkreises Vulkaneifel auch Gebiete der angrenzenden Kreise Bernkastel-Wittlich und Cochem-Zell ein. Kernzonen sind der Salmwald sowie das Lieser- und Uessbachtal."
+    },
+    {
+      "name": "Vulkanregion Vogelsberg",
+      "land": "HE",
+      "jahr": "1958",
+      "flaeche_km2": 880,
+      "beschreibung": "Der Naturpark hieß bis November 2016 Naturpark Hoher Vogelsberg. Er umfasst den zentralen Bereich des Vogelsberges mit der größten Basaltmasse Europas. Geprägt ist er von Mischwald, dessen Anteil etwa 34 Prozent beträgt, sowie von Grünland und Feuchtbiotopen."
+    },
+    {
+      "name": "Wendland.Elbe",
+      "land": "NI",
+      "jahr": "1968",
+      "flaeche_km2": 1160,
+      "beschreibung": "Der Naturpark enthielt ursprünglich zwei unterschiedliche Großlandschaften, den teils bewaldeten Höhenzug Drawehn und die Elbtalniederung (letztere ist heute ausgespart und gehört stattdessen zum Biosphärenreservat Niedersächsische Elbtalaue). Geprägt ist er durch ein abwechslungsreiches Relief mit starker Hangbildung und vielfältiger Zertalung im Drawehn und durch weitläufige Niederungen im äußeren Elbe-Urstromtal."
+    },
+    {
+      "name": "Weserbergland",
+      "land": "NI",
+      "jahr": "1975",
+      "flaeche_km2": 1160,
+      "beschreibung": "Der Naturpark liegt im Übergangsbereich der Mittelgebirge zur Norddeutschen Tiefebene und wird von der Weser geteilt. Sanft geneigte Hänge, bedeckt von großen zusammenhängenden Waldungen, wechseln sich mit kleinräumigen Tälern ab."
+    },
+    {
+      "name": "Westensee",
+      "land": "SH",
+      "jahr": "1969",
+      "flaeche_km2": 260,
+      "beschreibung": "Der Naturpark umfasst den Westensee, der am Ende der Weichseleiszeit gebildet wurde und von der Eider durchflossen wird, sowie kuppige Höhenzüge. Geprägt ist die Landschaft von sanften Hügeln und Tälern, Wäldern, Seen und Mooren."
+    },
+    {
+      "name": "Westhavelland",
+      "land": "BB",
+      "jahr": "1998",
+      "flaeche_km2": 1315,
+      "beschreibung": "Der Naturpark umfasst das größte zusammenhängende Feuchtgebiet des europäischen Binnenlandes und ist von internationaler Bedeutung. Große Bereiche der Region werden von Binnendünen und Sanderflächen eingenommen. Durchzogen wird die Region von der Havel und ihren Nebenflüssen."
+    },
+    {
+      "name": "Wildeshauser Geest",
+      "land": "NI",
+      "jahr": "1984",
+      "flaeche_km2": 1554,
+      "beschreibung": "Der Naturpark umfasst die Tiefebene zu beiden Seiten der Hunte. Geprägt ist die waldarme Region durch einen Teil des nordwestdeutschen Geestrückens mit stillen Flussniederungen und Heideflächen. Gebildet wurde die Region in der Saale-Eiszeit."
+    },
+    {
+      "name": "Zittauer Gebirge",
+      "land": "SN",
+      "jahr": "2007",
+      "flaeche_km2": 133,
+      "beschreibung": "Der Naturpark umfasst das Zittauer Gebirge sowie sein Vorland und liegt im Dreiländereck zu Polen und Tschechien. Geprägt ist das kleinste deutsche Mittelgebirge von vielgestaltigen Sandsteinbergen, Felsengebilden, vulkanischen Kuppen und eingeschnittenen Tälern."
+    },
+    {
+      "name": "Regionaler Naturpark Schaffhausen",
+      "land": "BW Schweiz",
+      "jahr": "2018",
+      "flaeche_km2": 209,
+      "beschreibung": "Der Naturpark ist ein grenzüberschreitender Naturpark in der Schweiz und in Deutschland. Er umfasst 13 Schaffhauser Gemeinden sowie zwei Gemeinden aus dem Bundesland Baden-Württemberg auf einer Fläche von 209 km²."
+    }
+  ],
+  "meta": {
+    "title": "Naturparks in Deutschland - Free Download",
+    "description": "Die Naturparks in Deutschland mit Bundesland, Gründungsjahr, Fläche (km²) und Beschreibung. Contains 105 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Naturparks in Deutschland | ListBase",
+    "seo_description": "Download Naturparks in Deutschland — 105 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 105 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Naturparks_in_Deutschland"
+    ]
+  }
+}

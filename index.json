@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-27T02:22:49.856Z",
-  "total_datasets": 486,
-  "total_records": 1870948,
+  "generated": "2026-10-27T02:22:52.317Z",
+  "total_datasets": 487,
+  "total_records": 1871053,
   "categories": [
     {
       "id": "agriculture",
@@ -83,6 +83,10 @@
     {
       "id": "time",
       "dataset_count": 31
+    },
+    {
+      "id": "tourism",
+      "dataset_count": 1
     },
     {
       "id": "transport",
@@ -13906,6 +13910,32 @@
         "xlsx": {
           "name": "de-wochentage-quartale-aeren_DE.xlsx",
           "size": 7578
+        }
+      }
+    },
+    {
+      "id": "de-naturparks",
+      "name": "Naturparks in Deutschland",
+      "category": "tourism",
+      "record_count": 105,
+      "columns": [
+        "name",
+        "land",
+        "jahr",
+        "flaeche_km2",
+        "beschreibung"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Naturparks_in_Deutschland",
+      "updated": "2026-10",
+      "size": 44556,
+      "files": {
+        "csv": {
+          "name": "de-naturparks_DE.csv",
+          "size": 32529
+        },
+        "xlsx": {
+          "name": "de-naturparks_DE.xlsx",
+          "size": 19757
         }
       }
     },
