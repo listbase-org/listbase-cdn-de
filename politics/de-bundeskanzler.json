@@ -1,0 +1,176 @@
+{
+  "id": "de-bundeskanzler",
+  "name": "Bundeskanzler der Bundesrepublik Deutschland",
+  "title": "Bundeskanzler der Bundesrepublik Deutschland",
+  "description": "Alle Bundeskanzler Deutschlands seit 1949 mit Partei, Amtsantritt, Amtsende, Amtsdauer, Kabinetten und Wahlperioden.",
+  "category": "politics",
+  "source": "https://de.wikipedia.org/wiki/Bundeskanzler_(Deutschland)",
+  "source_url": "https://de.wikipedia.org/wiki/Bundeskanzler_(Deutschland)",
+  "updated": "2026-10",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "partei",
+      "label": "Partei",
+      "type": "string"
+    },
+    {
+      "key": "amtsantritt",
+      "label": "Amtsantritt",
+      "type": "string"
+    },
+    {
+      "key": "amtsende",
+      "label": "Amtsende",
+      "type": "string"
+    },
+    {
+      "key": "amtsdauer",
+      "label": "Amtsdauer",
+      "type": "string"
+    },
+    {
+      "key": "kabinette",
+      "label": "Kabinette",
+      "type": "string"
+    },
+    {
+      "key": "bundestage",
+      "label": "Bundestage",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nr": "1",
+      "name": "Konrad Adenauer (1876–1967)",
+      "partei": "CDU",
+      "amtsantritt": "15. September 1949",
+      "amtsende": "16. Oktober 1963",
+      "amtsdauer": "14 Jahre, 1 Monat, 1 Tag (5144 Tage)",
+      "kabinette": "I, II, III, IV",
+      "bundestage": "1., 2., 3., 4."
+    },
+    {
+      "nr": "2",
+      "name": "Ludwig Erhard (1897–1977)",
+      "partei": "CDU",
+      "amtsantritt": "16. Oktober 1963",
+      "amtsende": "1. Dezember 1966",
+      "amtsdauer": "3 Jahre, 1 Monat, 15 Tage (1142 Tage)",
+      "kabinette": "I, II",
+      "bundestage": "4., 5."
+    },
+    {
+      "nr": "3",
+      "name": "Kurt Georg Kiesinger (1904–1988)",
+      "partei": "CDU",
+      "amtsantritt": "1. Dezember 1966",
+      "amtsende": "21. Oktober 1969",
+      "amtsdauer": "2 Jahre, 10 Monate, 20 Tage (1055 Tage)",
+      "kabinette": "I",
+      "bundestage": "5."
+    },
+    {
+      "nr": "4",
+      "name": "Willy Brandt (1913–1992)",
+      "partei": "SPD",
+      "amtsantritt": "21. Oktober 1969",
+      "amtsende": "7. Mai 1974",
+      "amtsdauer": "4 Jahre, 6 Monate, 16 Tage (1659 Tage)",
+      "kabinette": "I, II",
+      "bundestage": "6., 7."
+    },
+    {
+      "nr": "–",
+      "name": "Walter Scheel (geschäftsführend) (1919–2016)",
+      "partei": "FDP",
+      "amtsantritt": "7. Mai 1974",
+      "amtsende": "16. Mai 1974",
+      "amtsdauer": "9 Tage",
+      "kabinette": "Brandt II",
+      "bundestage": "7."
+    },
+    {
+      "nr": "5",
+      "name": "Helmut Schmidt (1918–2015)",
+      "partei": "SPD",
+      "amtsantritt": "16. Mai 1974",
+      "amtsende": "1. Oktober 1982",
+      "amtsdauer": "8 Jahre, 4 Monate, 15 Tage (3060 Tage)",
+      "kabinette": "I, II, III",
+      "bundestage": "7., 8., 9."
+    },
+    {
+      "nr": "6",
+      "name": "Helmut Kohl (1930–2017)",
+      "partei": "CDU",
+      "amtsantritt": "1. Oktober 1982",
+      "amtsende": "27. Oktober 1998",
+      "amtsdauer": "16 Jahre, 26 Tage (5870 Tage)",
+      "kabinette": "I, II, III, IV, V",
+      "bundestage": "9., 10., 11., 12., 13."
+    },
+    {
+      "nr": "7",
+      "name": "Gerhard Schröder (* 1944)",
+      "partei": "SPD",
+      "amtsantritt": "27. Oktober 1998",
+      "amtsende": "22. November 2005",
+      "amtsdauer": "7 Jahre, 26 Tage (2583 Tage)",
+      "kabinette": "I, II",
+      "bundestage": "14., 15."
+    },
+    {
+      "nr": "8",
+      "name": "Angela Merkel (* 1954)",
+      "partei": "CDU",
+      "amtsantritt": "22. November 2005",
+      "amtsende": "8. Dezember 2021",
+      "amtsdauer": "16 Jahre, 16 Tage (5860 Tage)",
+      "kabinette": "I, II, III, IV",
+      "bundestage": "16., 17., 18., 19."
+    },
+    {
+      "nr": "9",
+      "name": "Olaf Scholz (* 1958)",
+      "partei": "SPD",
+      "amtsantritt": "8. Dezember 2021",
+      "amtsende": "6. Mai 2025",
+      "amtsdauer": "3 Jahre, 4 Monate, 28 Tage (1245 Tage)",
+      "kabinette": "I",
+      "bundestage": "20."
+    },
+    {
+      "nr": "10",
+      "name": "Friedrich Merz (* 1955)",
+      "partei": "CDU",
+      "amtsantritt": "6. Mai 2025",
+      "amtsende": "amtierend",
+      "amtsdauer": "1 Jahr und 174 Tage (539 Tage)",
+      "kabinette": "I",
+      "bundestage": "21."
+    }
+  ],
+  "meta": {
+    "title": "Bundeskanzler der Bundesrepublik Deutschland - Free Download",
+    "description": "Alle Bundeskanzler Deutschlands seit 1949 mit Partei, Amtsantritt, Amtsende, Amtsdauer, Kabinetten und Wahlperioden. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bundeskanzler der Bundesrepublik Deutschland | ListBase",
+    "seo_description": "Download Bundeskanzler der Bundesrepublik Deutschland — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Bundeskanzler_(Deutschland)"
+    ]
+  }
+}
