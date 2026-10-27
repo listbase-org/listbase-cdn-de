@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-27T02:22:54.749Z",
-  "total_datasets": 488,
-  "total_records": 1871159,
+  "generated": "2026-10-27T02:22:57.373Z",
+  "total_datasets": 489,
+  "total_records": 1871248,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "reference",
@@ -5153,6 +5153,36 @@
         "xlsx": {
           "name": "de-ministerpraesidenten-laender_DE.xlsx",
           "size": 8487
+        }
+      }
+    },
+    {
+      "id": "de-politische-parteien",
+      "name": "Politische Parteien in Deutschland",
+      "category": "politics",
+      "record_count": 89,
+      "columns": [
+        "name",
+        "kurzbezeichnung",
+        "mitglieder",
+        "landesverbaende",
+        "staatliche_teilfinanzierung",
+        "letzte_bundestagswahl",
+        "letzte_landtagswahl",
+        "gruendungsdatum",
+        "europaeische_partei"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_politischen_Parteien_in_Deutschland",
+      "updated": "2026-10",
+      "size": 35123,
+      "files": {
+        "csv": {
+          "name": "de-politische-parteien_DE.csv",
+          "size": 10209
+        },
+        "xlsx": {
+          "name": "de-politische-parteien_DE.xlsx",
+          "size": 13262
         }
       }
     },
