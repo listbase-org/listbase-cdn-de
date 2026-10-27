@@ -1,0 +1,121 @@
+{
+  "id": "de-at-bundeslaender-bip",
+  "name": "Österreichische Bundesländer nach Bruttoinlandsprodukt",
+  "title": "Österreichische Bundesländer nach Bruttoinlandsprodukt",
+  "description": "Die neun Bundesländer Österreichs nach Bruttoinlandsprodukt (Mio. €), realem Wachstum und BIP pro Kopf.",
+  "category": "economy",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_österreichischen_Bundesländer_nach_Bruttoinlandsprodukt",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_österreichischen_Bundesländer_nach_Bruttoinlandsprodukt",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "bip_mio_euro",
+      "label": "Bip Mio Euro",
+      "type": "number"
+    },
+    {
+      "key": "wachstum_real_pct",
+      "label": "Wachstum Real Pct",
+      "type": "number"
+    },
+    {
+      "key": "bip_pro_kopf_euro",
+      "label": "Bip Pro Kopf Euro",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rang": 1,
+      "bundesland": "Wien",
+      "bip_mio_euro": 124867,
+      "wachstum_real_pct": 0.9,
+      "bip_pro_kopf_euro": 61900
+    },
+    {
+      "rang": 2,
+      "bundesland": "Oberösterreich",
+      "bip_mio_euro": 82538,
+      "wachstum_real_pct": -2.7,
+      "bip_pro_kopf_euro": 53800
+    },
+    {
+      "rang": 3,
+      "bundesland": "Niederösterreich",
+      "bip_mio_euro": 76878,
+      "wachstum_real_pct": -1,
+      "bip_pro_kopf_euro": 44500
+    },
+    {
+      "rang": 4,
+      "bundesland": "Steiermark",
+      "bip_mio_euro": 63924,
+      "wachstum_real_pct": 0.1,
+      "bip_pro_kopf_euro": 50300
+    },
+    {
+      "rang": 5,
+      "bundesland": "Tirol",
+      "bip_mio_euro": 44805,
+      "wachstum_real_pct": 0.1,
+      "bip_pro_kopf_euro": 57700
+    },
+    {
+      "rang": 6,
+      "bundesland": "Salzburg",
+      "bip_mio_euro": 37663,
+      "wachstum_real_pct": -0.5,
+      "bip_pro_kopf_euro": 65800
+    },
+    {
+      "rang": 7,
+      "bundesland": "Kärnten",
+      "bip_mio_euro": 28270,
+      "wachstum_real_pct": -3.6,
+      "bip_pro_kopf_euro": 49600
+    },
+    {
+      "rang": 8,
+      "bundesland": "Vorarlberg",
+      "bip_mio_euro": 23214,
+      "wachstum_real_pct": -0.7,
+      "bip_pro_kopf_euro": 56500
+    },
+    {
+      "rang": 9,
+      "bundesland": "Burgenland",
+      "bip_mio_euro": 11763,
+      "wachstum_real_pct": -0.4,
+      "bip_pro_kopf_euro": 39000
+    },
+    {
+      "rang": "",
+      "bundesland": "Österreich",
+      "bip_mio_euro": 494088,
+      "wachstum_real_pct": -0.7,
+      "bip_pro_kopf_euro": 53800
+    }
+  ],
+  "meta": {
+    "title": "Österreichische Bundesländer nach Bruttoinlandsprodukt - Free Download",
+    "description": "Die neun Bundesländer Österreichs nach Bruttoinlandsprodukt (Mio. €), realem Wachstum und BIP pro Kopf. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Österreichische Bundesländer nach Bruttoinlandsprodukt | ListBase",
+    "seo_description": "Download Österreichische Bundesländer nach Bruttoinlandsprodukt — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_österreichischen_Bundesländer_nach_Bruttoinlandsprodukt"
+    ]
+  }
+}
