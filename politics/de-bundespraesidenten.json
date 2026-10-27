@@ -1,0 +1,186 @@
+{
+  "id": "de-bundespraesidenten",
+  "name": "Bundespräsidenten der Bundesrepublik Deutschland",
+  "title": "Bundespräsidenten der Bundesrepublik Deutschland",
+  "description": "Alle deutschen Bundespräsidenten seit 1949 mit Partei, Amtszeit, Amtstagen und Wahljahren.",
+  "category": "politics",
+  "source": "https://de.wikipedia.org/wiki/Bundespräsident_(Deutschland)",
+  "source_url": "https://de.wikipedia.org/wiki/Bundespräsident_(Deutschland)",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "partei",
+      "label": "Partei",
+      "type": "string"
+    },
+    {
+      "key": "amtsbeginn",
+      "label": "Amtsbeginn",
+      "type": "string"
+    },
+    {
+      "key": "amtsende",
+      "label": "Amtsende",
+      "type": "string"
+    },
+    {
+      "key": "tage",
+      "label": "Tage",
+      "type": "number"
+    },
+    {
+      "key": "vollendete_amtszeiten",
+      "label": "Vollendete Amtszeiten",
+      "type": "number"
+    },
+    {
+      "key": "wahlen",
+      "label": "Wahlen",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nr": "1",
+      "name": "Theodor Heuss (1884–1963)",
+      "partei": "FDP",
+      "amtsbeginn": "12.09.1949",
+      "amtsende": "12.09.1959",
+      "tage": 3653,
+      "vollendete_amtszeiten": "2",
+      "wahlen": "1949 / 1954"
+    },
+    {
+      "nr": "2",
+      "name": "Heinrich Lübke (1894–1972)",
+      "partei": "CDU",
+      "amtsbeginn": "13.09.1959",
+      "amtsende": "30.06.1969",
+      "tage": 3579,
+      "vollendete_amtszeiten": "1; in der 2. zurückgetreten",
+      "wahlen": "1959 / 1964"
+    },
+    {
+      "nr": "3",
+      "name": "Gustav Heinemann (1899–1976)",
+      "partei": "SPD",
+      "amtsbeginn": "01.07.1969",
+      "amtsende": "30.06.1974",
+      "tage": 1826,
+      "vollendete_amtszeiten": "1",
+      "wahlen": "1969"
+    },
+    {
+      "nr": "4",
+      "name": "Walter Scheel (1919–2016)",
+      "partei": "FDP",
+      "amtsbeginn": "01.07.1974",
+      "amtsende": "30.06.1979",
+      "tage": 1826,
+      "vollendete_amtszeiten": "1",
+      "wahlen": "1974"
+    },
+    {
+      "nr": "5",
+      "name": "Karl Carstens (1914–1992)",
+      "partei": "CDU",
+      "amtsbeginn": "01.07.1979",
+      "amtsende": "30.06.1984",
+      "tage": 1827,
+      "vollendete_amtszeiten": "1",
+      "wahlen": "1979"
+    },
+    {
+      "nr": "6",
+      "name": "Richard von Weizsäcker (1920–2015)",
+      "partei": "CDU",
+      "amtsbeginn": "01.07.1984",
+      "amtsende": "30.06.1994",
+      "tage": 3652,
+      "vollendete_amtszeiten": "2",
+      "wahlen": "1984 / 1989"
+    },
+    {
+      "nr": "7",
+      "name": "Roman Herzog (1934–2017)",
+      "partei": "CDU",
+      "amtsbeginn": "01.07.1994",
+      "amtsende": "30.06.1999",
+      "tage": 1826,
+      "vollendete_amtszeiten": "1",
+      "wahlen": "1994"
+    },
+    {
+      "nr": "8",
+      "name": "Johannes Rau (1931–2006)",
+      "partei": "SPD",
+      "amtsbeginn": "01.07.1999",
+      "amtsende": "30.06.2004",
+      "tage": 1827,
+      "vollendete_amtszeiten": "1",
+      "wahlen": "1999"
+    },
+    {
+      "nr": "9",
+      "name": "Horst Köhler (1943–2025)",
+      "partei": "CDU",
+      "amtsbeginn": "01.07.2004",
+      "amtsende": "31.05.2010",
+      "tage": 2161,
+      "vollendete_amtszeiten": "1; in der 2. zurückgetreten",
+      "wahlen": "2004 / 2009"
+    },
+    {
+      "nr": "10",
+      "name": "Christian Wulff (* 1959)",
+      "partei": "CDU",
+      "amtsbeginn": "30.06.2010",
+      "amtsende": "17.02.2012",
+      "tage": 598,
+      "vollendete_amtszeiten": "zurückgetreten",
+      "wahlen": "2010"
+    },
+    {
+      "nr": "11",
+      "name": "Joachim Gauck (* 1940)",
+      "partei": "parteilos",
+      "amtsbeginn": "18.03.2012",
+      "amtsende": "18.03.2017",
+      "tage": 1827,
+      "vollendete_amtszeiten": "1",
+      "wahlen": "2012"
+    },
+    {
+      "nr": "12",
+      "name": "Frank-Walter Steinmeier (* 1956)",
+      "partei": "SPD",
+      "amtsbeginn": "19.03.2017",
+      "amtsende": "18.03.2027",
+      "tage": 3510,
+      "vollendete_amtszeiten": "1; in der 2. amtierend",
+      "wahlen": "2017 / 2022"
+    }
+  ],
+  "meta": {
+    "title": "Bundespräsidenten der Bundesrepublik Deutschland - Free Download",
+    "description": "Alle deutschen Bundespräsidenten seit 1949 mit Partei, Amtszeit, Amtstagen und Wahljahren. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bundespräsidenten der Bundesrepublik Deutschland | ListBase",
+    "seo_description": "Download Bundespräsidenten der Bundesrepublik Deutschland — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Bundespräsident_(Deutschland)"
+    ]
+  }
+}
