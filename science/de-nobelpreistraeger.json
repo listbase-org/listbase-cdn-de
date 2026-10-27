@@ -1,0 +1,793 @@
+{
+  "id": "de-nobelpreistraeger",
+  "name": "Deutsche Nobelpreisträger",
+  "title": "Deutsche Nobelpreisträger",
+  "description": "Deutsche Nobelpreisträgerinnen und -träger nach Kategorie (Physik, Chemie, Medizin, Literatur, Frieden, Wirtschaft) mit Jahr, Lebensdaten und gewürdigter Leistung.",
+  "category": "science",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Nobelpreisträger",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Nobelpreisträger",
+  "updated": "2026-10",
+  "record_count": 106,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "jahr",
+      "label": "Jahr",
+      "type": "number"
+    },
+    {
+      "key": "lebensdaten",
+      "label": "Lebensdaten",
+      "type": "string"
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Gustav Stresemann",
+      "jahr": "1926",
+      "lebensdaten": "1878–1929",
+      "leistung": "Annäherung an Frankreich zur Sicherung des Friedens in Europa",
+      "kategorie": "Friedensnobelpreis"
+    },
+    {
+      "name": "Ludwig Quidde",
+      "jahr": "1927",
+      "lebensdaten": "1858–1941",
+      "leistung": "Organisation von Friedenskonferenzen",
+      "kategorie": "Friedensnobelpreis"
+    },
+    {
+      "name": "Carl von Ossietzky",
+      "jahr": "1935",
+      "lebensdaten": "1889–1938",
+      "leistung": "Einsatz gegen den deutschen Militarismus als Chefredakteur der Weltbühne",
+      "kategorie": "Friedensnobelpreis"
+    },
+    {
+      "name": "Albert Schweitzer *",
+      "jahr": "1952",
+      "lebensdaten": "1875–1965",
+      "leistung": "Einsatz gegen die atomare Aufrüstung",
+      "kategorie": "Friedensnobelpreis"
+    },
+    {
+      "name": "Willy Brandt",
+      "jahr": "1971",
+      "lebensdaten": "1913–1992",
+      "leistung": "Ostpolitik",
+      "kategorie": "Friedensnobelpreis"
+    },
+    {
+      "name": "Henry Kissinger *",
+      "jahr": "1973",
+      "lebensdaten": "1923–2023",
+      "leistung": "Verhandlung einer Waffenruhe im Vietnamkrieg",
+      "kategorie": "Friedensnobelpreis"
+    },
+    {
+      "name": "Theodor Mommsen",
+      "jahr": "1902",
+      "lebensdaten": "1817–1903",
+      "leistung": "Römische Geschichte",
+      "kategorie": "Nobelpreis für Literatur"
+    },
+    {
+      "name": "Rudolf Eucken",
+      "jahr": "1908",
+      "lebensdaten": "1846–1926",
+      "leistung": "„auf Grund des ernsten Suchens nach Wahrheit, der durchdringenden Gedankenkraft und des Weitblicks, der Wärme und Kraft der Darstellung, womit er in zahlreichen Arbeiten eine ideale Weltanschauung vertreten und entwickelt hat“",
+      "kategorie": "Nobelpreis für Literatur"
+    },
+    {
+      "name": "Paul Heyse",
+      "jahr": "1910",
+      "lebensdaten": "1830–1914",
+      "leistung": "sein belletristisches Werk",
+      "kategorie": "Nobelpreis für Literatur"
+    },
+    {
+      "name": "Gerhart Hauptmann",
+      "jahr": "1912",
+      "lebensdaten": "1862–1946",
+      "leistung": "„für sein fruchtbares und vielseitiges Wirken im Bereich der dramatischen Dichtung“",
+      "kategorie": "Nobelpreis für Literatur"
+    },
+    {
+      "name": "Thomas Mann",
+      "jahr": "1929",
+      "lebensdaten": "1875–1955",
+      "leistung": "Buddenbrooks",
+      "kategorie": "Nobelpreis für Literatur"
+    },
+    {
+      "name": "Hermann Hesse *",
+      "jahr": "1946",
+      "lebensdaten": "1877–1962",
+      "leistung": "„für sein durch Versenkung getragenes Werk, das sich immer kühner und eindringlicher entwickelte und die Ideale des klassischen Humanismus ebenso wie eine hohe Kunst des Stils offenbart“",
+      "kategorie": "Nobelpreis für Literatur"
+    },
+    {
+      "name": "Nelly Sachs *",
+      "jahr": "1966",
+      "lebensdaten": "1891–1970",
+      "leistung": "„für ihre hervorragenden lyrischen und dramatischen Werke, die das Schicksal Israels mit ergreifender Stärke interpretieren“",
+      "kategorie": "Nobelpreis für Literatur"
+    },
+    {
+      "name": "Heinrich Böll",
+      "jahr": "1972",
+      "lebensdaten": "1917–1985",
+      "leistung": "Gesamtwerk",
+      "kategorie": "Nobelpreis für Literatur"
+    },
+    {
+      "name": "Günter Grass",
+      "jahr": "1999",
+      "lebensdaten": "1927–2015",
+      "leistung": "Lebenswerk",
+      "kategorie": "Nobelpreis für Literatur"
+    },
+    {
+      "name": "Herta Müller",
+      "jahr": "2009",
+      "lebensdaten": "* 1953",
+      "leistung": "Gesamtwerk",
+      "kategorie": "Nobelpreis für Literatur"
+    },
+    {
+      "name": "Emil Fischer",
+      "jahr": "1902",
+      "lebensdaten": "1852–1919",
+      "leistung": "Forschung über Zucker- und Puringruppen",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Adolf von Baeyer",
+      "jahr": "1905",
+      "lebensdaten": "1835–1917",
+      "leistung": "Arbeiten über organische Farbstoffe und hydroaromatische Verbindungen",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Eduard Buchner",
+      "jahr": "1907",
+      "lebensdaten": "1860–1917",
+      "leistung": "Entdeckung der zellfreien Gärung",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Wilhelm Ostwald",
+      "jahr": "1909",
+      "lebensdaten": "1853–1932",
+      "leistung": "Arbeit über die Katalyse",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Otto Wallach",
+      "jahr": "1910",
+      "lebensdaten": "1847–1931",
+      "leistung": "Forschung auf dem Gebiet der ringförmigen Kohlenwasserstoffe",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Richard Willstätter",
+      "jahr": "1915",
+      "lebensdaten": "1872–1942",
+      "leistung": "Forschungen über das Chlorophyll",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Fritz Haber",
+      "jahr": "1918",
+      "lebensdaten": "1868–1934",
+      "leistung": "Entwicklung eines Verfahrens zur Herstellung von Ammoniak",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Walther Hermann Nernst",
+      "jahr": "1920",
+      "lebensdaten": "1864–1941",
+      "leistung": "Forschung zur Thermochemie",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Richard Adolf Zsigmondy *",
+      "jahr": "1925",
+      "lebensdaten": "1865–1929",
+      "leistung": "„für die Aufklärung der heterogenen Natur kolloidaler Lösungen sowie für die dabei angewandten Methoden“",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Heinrich Otto Wieland",
+      "jahr": "1927",
+      "lebensdaten": "1877–1957",
+      "leistung": "Forschung über Gallensäure",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Adolf Windaus",
+      "jahr": "1928",
+      "lebensdaten": "1876–1959",
+      "leistung": "„für […] Verdienste um die Erforschung des Aufbaus der Sterine und ihres Zusammenhanges mit den Vitaminen“",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Hans von Euler-Chelpin",
+      "jahr": "1929",
+      "lebensdaten": "1873–1964",
+      "leistung": "„für […] Forschung über die Zuckervergärung und deren Anteil der Enzyme an diesem Vorgang“",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Hans Fischer",
+      "jahr": "1930",
+      "lebensdaten": "1881–1945",
+      "leistung": "Häminsynthese",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Friedrich Bergius",
+      "jahr": "1931",
+      "lebensdaten": "1884–1949",
+      "leistung": "„für […] Verdienste um die Entdeckung und Entwicklung der chemischen Hochdruckverfahren“",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Carl Bosch",
+      "jahr": "1931",
+      "lebensdaten": "1874–1940",
+      "leistung": "Entwicklung chemischer Hochdruckverfahren",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Richard Kuhn *",
+      "jahr": "1938",
+      "lebensdaten": "1900–1967",
+      "leistung": "„für seine Arbeiten über Carotinoide und Vitamine“",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Adolf F. J. Butenandt",
+      "jahr": "1939",
+      "lebensdaten": "1903–1995",
+      "leistung": "Forschung über Steroidhormone",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Otto Hahn",
+      "jahr": "1944",
+      "lebensdaten": "1879–1968",
+      "leistung": "„für seine Entdeckung der Spaltung schwerer Atomkerne“",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Otto P. H. Diels",
+      "jahr": "1950",
+      "lebensdaten": "1876–1954",
+      "leistung": "Entdeckung der Diels-Alder-Reaktion",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Kurt Alder",
+      "jahr": "1950",
+      "lebensdaten": "1902–1958",
+      "leistung": "Entdeckung der Diels-Alder-Reaktion",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Hermann Staudinger",
+      "jahr": "1953",
+      "lebensdaten": "1881–1965",
+      "leistung": "Begründung der Polymerchemie",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Karl Ziegler",
+      "jahr": "1963",
+      "lebensdaten": "1898–1973",
+      "leistung": "Entdeckungen auf dem Gebiet der Polymere",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Manfred Eigen",
+      "jahr": "1967",
+      "lebensdaten": "1927–2019",
+      "leistung": "Geschwindigkeitsmessung von schnellen chemischen Reaktionen",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Gerhard Herzberg *",
+      "jahr": "1971",
+      "lebensdaten": "1904–1999",
+      "leistung": "„für seine Beiträge zur Kenntnis der elektronischen Struktur und Geometrie von Molekülen, insbesondere von freien Radikalen“",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Ernst Otto Fischer",
+      "jahr": "1973",
+      "lebensdaten": "1917–2007",
+      "leistung": "Erforschung der metallorganischen Sandwichkomplexe",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Georg Wittig",
+      "jahr": "1979",
+      "lebensdaten": "1897–1987",
+      "leistung": "Wittig-Reaktion",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Johann Deisenhofer",
+      "jahr": "1988",
+      "lebensdaten": "* 1943",
+      "leistung": "„für die Erforschung der dreidimensionalen Struktur des Reaktionszentrums der Photosynthese bei einem Purpurbakterium“",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Robert Huber",
+      "jahr": "1988",
+      "lebensdaten": "* 1937",
+      "leistung": "„für die Erforschung der dreidimensionalen Struktur des Reaktionszentrums der Photosynthese bei einem Purpurbakterium“",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Hartmut Michel",
+      "jahr": "1988",
+      "lebensdaten": "* 1948",
+      "leistung": "„für die Erforschung der dreidimensionalen Struktur des Reaktionszentrums der Photosynthese bei einem Purpurbakterium“",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Gerhard Ertl",
+      "jahr": "2007",
+      "lebensdaten": "* 1936",
+      "leistung": "„für Studien von chemischen Prozessen auf Festkörperoberflächen“",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Stefan Hell",
+      "jahr": "2014",
+      "lebensdaten": "* 1962",
+      "leistung": "„für die Entwicklung von superauflösender Fluoreszenzmikroskopie“",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Joachim Frank *",
+      "jahr": "2017",
+      "lebensdaten": "* 1940",
+      "leistung": "„für die Entwicklung der Kryo-Elektronenmikroskopie zur hochauflösenden Strukturaufklärung von Biomolekülen“",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Benjamin List",
+      "jahr": "2021",
+      "lebensdaten": "* 1968",
+      "leistung": "„für die Entwicklung der asymmetrischen Organokatalyse zur Beschleunigung chemischer Reaktionen“",
+      "kategorie": "Nobelpreis für Chemie"
+    },
+    {
+      "name": "Wilhelm Conrad Röntgen",
+      "jahr": "1901",
+      "lebensdaten": "1845–1923",
+      "leistung": "Entdeckung der Röntgenstrahlung",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Philipp Lenard *",
+      "jahr": "1905",
+      "lebensdaten": "1862–1947",
+      "leistung": "Forschung im Bereich Festkörper und Atomphysik",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Ferdinand Braun",
+      "jahr": "1909",
+      "lebensdaten": "1850–1918",
+      "leistung": "Beitrag zur Entwicklung der drahtlosen Telegrafie",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Wilhelm Wien",
+      "jahr": "1911",
+      "lebensdaten": "1864–1928",
+      "leistung": "Erforschung der Wärmestrahlung",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Max von Laue",
+      "jahr": "1914",
+      "lebensdaten": "1879–1960",
+      "leistung": "Beugung von Röntgenstrahlen an Kristallen",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Max Planck",
+      "jahr": "1918",
+      "lebensdaten": "1858–1947",
+      "leistung": "Entdeckung der Energiequanten",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Johannes Stark",
+      "jahr": "1919",
+      "lebensdaten": "1874–1957",
+      "leistung": "Entdeckung des optischen Doppler-Effektes und des Stark-Effektes",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Albert Einstein",
+      "jahr": "1921",
+      "lebensdaten": "1879–1955",
+      "leistung": "„für Verdienste um die theoretische Physik, besonders für seine Entdeckung des Gesetzes des photoelektrischen Effekts “",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "James Franck",
+      "jahr": "1925",
+      "lebensdaten": "1882–1964",
+      "leistung": "Bestätigung des Bohrschen Atommodells",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Gustav Hertz",
+      "jahr": "1925",
+      "lebensdaten": "1887–1975",
+      "leistung": "Bestätigung des Bohrschen Atommodells",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Werner Heisenberg",
+      "jahr": "1932",
+      "lebensdaten": "1901–1976",
+      "leistung": "Begründung der Quantenmechanik",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Max Born *",
+      "jahr": "1954",
+      "lebensdaten": "1882–1970",
+      "leistung": "Grundlagenforschung in der Quantenmechanik",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Walther Bothe",
+      "jahr": "1954",
+      "lebensdaten": "1891–1957",
+      "leistung": "Entwicklung der Koinzidenzmethode",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Rudolf Mößbauer",
+      "jahr": "1961",
+      "lebensdaten": "1929–2011",
+      "leistung": "Entdeckung des Mößbauer-Effekts",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "J. Hans D. Jensen",
+      "jahr": "1963",
+      "lebensdaten": "1907–1973",
+      "leistung": "Entwicklung des Schalenmodells der Atomkerne",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Maria Goeppert-Mayer *",
+      "jahr": "1963",
+      "lebensdaten": "1906–1972",
+      "leistung": "Entwicklung des Schalenmodells der Atomkerne",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Klaus von Klitzing",
+      "jahr": "1985",
+      "lebensdaten": "* 1943",
+      "leistung": "Entdeckung des quantisierten Hall-Effekts",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Gerd Binnig",
+      "jahr": "1986",
+      "lebensdaten": "* 1947",
+      "leistung": "Entwicklung des Rastertunnelmikroskops",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Ernst Ruska",
+      "jahr": "1986",
+      "lebensdaten": "1906–1988",
+      "leistung": "Erfindung des Elektronenmikroskops",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Johannes Georg Bednorz",
+      "jahr": "1987",
+      "lebensdaten": "* 1950",
+      "leistung": "Entdeckung der keramischen Hochtemperatursupraleiter",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Jack Steinberger *",
+      "jahr": "1988",
+      "lebensdaten": "1921–2020",
+      "leistung": "Grundlagenforschung über Neutrinos",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Wolfgang Paul",
+      "jahr": "1989",
+      "lebensdaten": "1913–1993",
+      "leistung": "Entwicklung der Ionen-Falle (Paul-Falle)",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Hans Georg Dehmelt *",
+      "jahr": "1989",
+      "lebensdaten": "1922–2017",
+      "leistung": "Entwicklung der Ionenfalle",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Horst L. Störmer",
+      "jahr": "1998",
+      "lebensdaten": "* 1949",
+      "leistung": "„für [die] Entdeckung einer neuen Art von Quantenflüssigkeit mit fraktionell geladenen Anregungen“",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Herbert Kroemer",
+      "jahr": "2000",
+      "lebensdaten": "1928–2024",
+      "leistung": "Entwicklung von Halbleiterheterostrukturen für Hochgeschwindigkeits- und Optoelektronik",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Wolfgang Ketterle",
+      "jahr": "2001",
+      "lebensdaten": "* 1957",
+      "leistung": "Erzeugung des Bose-Einstein-Kondensats",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Theodor W. Hänsch",
+      "jahr": "2005",
+      "lebensdaten": "* 1941",
+      "leistung": "Entwicklung des Frequenzkamms in Verbindung mit seinen übrigen Leistungen",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Peter Grünberg",
+      "jahr": "2007",
+      "lebensdaten": "1939–2018",
+      "leistung": "„für die Entdeckung des Riesenmagnetwiderstands (GMR)“",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Reinhard Genzel",
+      "jahr": "2020",
+      "lebensdaten": "* 1952",
+      "leistung": "„für die Entdeckung eines supermassiven kompakten Objekts im Zentrum unserer Galaxie“",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Klaus Hasselmann",
+      "jahr": "2021",
+      "lebensdaten": "* 1931",
+      "leistung": "„für bahnbrechende Beiträge zum Verständnis komplexer physikalischer Systeme“, konkret „für die Entdeckung, wie das Zusammenspiel von Unordnung und Fluktuationen physikalische Systeme von der atomaren bis hin zur planetarischen Ebene bestimmt“.",
+      "kategorie": "Nobelpreis für Physik"
+    },
+    {
+      "name": "Emil von Behring",
+      "jahr": "1901",
+      "lebensdaten": "1854–1907",
+      "leistung": "Arbeit über die Serumtherapie",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Robert Koch",
+      "jahr": "1905",
+      "lebensdaten": "1843–1910",
+      "leistung": "Entdeckung der Erreger von Milzbrand, Tuberkulose und Cholera",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Paul Ehrlich",
+      "jahr": "1908",
+      "lebensdaten": "1854–1915",
+      "leistung": "Begründung der Immunologie",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Albrecht Kossel",
+      "jahr": "1910",
+      "lebensdaten": "1853–1927",
+      "leistung": "„in Anerkennung seines Beitrags über das Wissen der Zellchemie durch seine Arbeiten an Proteinen einschließlich der Kernsubstanzen“",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Otto F. Meyerhof",
+      "jahr": "1922",
+      "lebensdaten": "1884–1951",
+      "leistung": "Forschungen über den Stoffwechsel im Muskel",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Otto Warburg",
+      "jahr": "1931",
+      "lebensdaten": "1883–1970",
+      "leistung": "Forschungen zum Atmungsferment",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Hans Spemann",
+      "jahr": "1935",
+      "lebensdaten": "1869–1941",
+      "leistung": "Entdeckung des Organisator-Effekts",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Otto Loewi *",
+      "jahr": "1936",
+      "lebensdaten": "1873–1961",
+      "leistung": "„für […] Entdeckungen bei der chemischen Übertragung der Nervenimpulse“",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Gerhard Domagk",
+      "jahr": "1939",
+      "lebensdaten": "1895–1964",
+      "leistung": "Entdeckung der antibakteriellen Wirkung des Sulfonamids Prontosil",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Ernst Boris Chain *",
+      "jahr": "1945",
+      "lebensdaten": "1906–1979",
+      "leistung": "Entdeckung des Penizillins",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Hans Adolf Krebs *",
+      "jahr": "1953",
+      "lebensdaten": "1900–1981",
+      "leistung": "Entdeckung des Citratzyklus",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Werner Forßmann",
+      "jahr": "1956",
+      "lebensdaten": "1904–1979",
+      "leistung": "„für […] Entdeckungen zur Herzkatheterisierung und zu den pathologischen Veränderungen im Kreislaufsystem“",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Feodor Lynen",
+      "jahr": "1964",
+      "lebensdaten": "1911–1979",
+      "leistung": "Forschungen über die Regulierung des Cholesterin- und Fettsäurestoffwechsels",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Konrad Bloch *",
+      "jahr": "1964",
+      "lebensdaten": "1912–2000",
+      "leistung": "Forschungen über die Regulierung des Cholesterin- und Fettsäurestoffwechsels",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Max Delbrück *",
+      "jahr": "1969",
+      "lebensdaten": "1906–1981",
+      "leistung": "Begründung der modernen Molekularbiologie und Genetik",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Bernard Katz *",
+      "jahr": "1970",
+      "lebensdaten": "1911–2003",
+      "leistung": "Arbeiten über die quantisierte Form der synaptischen Informationsübertragung",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Karl von Frisch *",
+      "jahr": "1973",
+      "lebensdaten": "1886–1982",
+      "leistung": "„Entdeckungen zur Organisation und Auslösung von individuellen und sozialen Verhaltensmustern“",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Georges J. F. Köhler",
+      "jahr": "1984",
+      "lebensdaten": "1946–1995",
+      "leistung": "Forschung über das Immunsystem und monoklonale Antikörper",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Erwin Neher",
+      "jahr": "1991",
+      "lebensdaten": "* 1944",
+      "leistung": "Entdeckungen zur Funktion von einzelnen Ionenkanälen in Zellen",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Bert Sakmann",
+      "jahr": "1991",
+      "lebensdaten": "* 1942",
+      "leistung": "„für [die] Entwicklung einer Methode zum direkten Nachweis von Ionenkanälen in Zellmembranen zur Erforschung der Signalübertragung innerhalb der Zelle und zwischen den Zellen“",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Christiane Nüsslein-Volhard",
+      "jahr": "1995",
+      "lebensdaten": "* 1942",
+      "leistung": "Forschungen über die genetische Kontrolle der frühen Embryonalentwicklung",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Günter Blobel *",
+      "jahr": "1999",
+      "lebensdaten": "1936–2018",
+      "leistung": "„für die Entdeckung der in Proteinen eingebauten Signale, die ihren Transport und die Lokalisierung in der Zelle steuern“",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Harald zur Hausen",
+      "jahr": "2008",
+      "lebensdaten": "1936–2023",
+      "leistung": "Forschungen zum humanen Papillomvirus",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Thomas Südhof *",
+      "jahr": "2013",
+      "lebensdaten": "* 1955",
+      "leistung": "Forschungen zum Transportsystem der Zellen",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Peter Hegemann",
+      "jahr": "2026",
+      "lebensdaten": "* 1954",
+      "leistung": "Entdeckungen zu lichtgesteuerten Ionenkanälen und zur Optogenetik",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Georg Nagel",
+      "jahr": "2026",
+      "lebensdaten": "* 1953",
+      "leistung": "Entdeckungen zu lichtgesteuerten Ionenkanälen und zur Optogenetik",
+      "kategorie": "Nobelpreis für Physiologie oder Medizin"
+    },
+    {
+      "name": "Reinhard Selten",
+      "jahr": "1994",
+      "lebensdaten": "1930–2016",
+      "leistung": "Forschungen zur Spieltheorie",
+      "kategorie": "Alfred-Nobel-Gedächtnispreis für Wirtschaftswissenschaften"
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Nobelpreisträger - Free Download",
+    "description": "Deutsche Nobelpreisträgerinnen und -träger nach Kategorie (Physik, Chemie, Medizin, Literatur, Frieden, Wirtschaft) mit Jahr, Lebensdaten und gewürdigter Leistung. Contains 106 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Deutsche Nobelpreisträger | ListBase",
+    "seo_description": "Download Deutsche Nobelpreisträger — 106 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 106 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_deutschen_Nobelpreisträger"
+    ]
+  }
+}
