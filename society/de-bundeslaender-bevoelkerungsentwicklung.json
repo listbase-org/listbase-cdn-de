@@ -1,0 +1,302 @@
+{
+  "id": "de-bundeslaender-bevoelkerungsentwicklung",
+  "name": "Bevölkerungsentwicklung der deutschen Bundesländer (1960–2024)",
+  "title": "Bevölkerungsentwicklung der deutschen Bundesländer (1960–2024)",
+  "description": "Einwohnerzahlen der 16 Bundesländer 1960–2024 und ihr Anteil an der Gesamtbevölkerung Deutschlands.",
+  "category": "society",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Bevölkerungsentwicklung",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Bevölkerungsentwicklung",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "land",
+      "label": "Land",
+      "type": "string"
+    },
+    {
+      "key": "anteil_2024_pct",
+      "label": "Anteil 2024 Pct",
+      "type": "number"
+    },
+    {
+      "key": "anteil_1990_pct",
+      "label": "Anteil 1990 Pct",
+      "type": "number"
+    },
+    {
+      "key": "einwohner_2024",
+      "label": "Einwohner 2024",
+      "type": "number"
+    },
+    {
+      "key": "einwohner_2015",
+      "label": "Einwohner 2015",
+      "type": "number"
+    },
+    {
+      "key": "einwohner_2010",
+      "label": "Einwohner 2010",
+      "type": "number"
+    },
+    {
+      "key": "einwohner_2000",
+      "label": "Einwohner 2000",
+      "type": "number"
+    },
+    {
+      "key": "einwohner_1990",
+      "label": "Einwohner 1990",
+      "type": "number"
+    },
+    {
+      "key": "einwohner_1980",
+      "label": "Einwohner 1980",
+      "type": "number"
+    },
+    {
+      "key": "einwohner_1970",
+      "label": "Einwohner 1970",
+      "type": "number"
+    },
+    {
+      "key": "einwohner_1960",
+      "label": "Einwohner 1960",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "land": "Nordrhein-Westfalen",
+      "anteil_2024_pct": 21.6,
+      "anteil_1990_pct": 21.8,
+      "einwohner_2024": 18034454,
+      "einwohner_2015": 17865516,
+      "einwohner_2010": 17845154,
+      "einwohner_2000": 18009865,
+      "einwohner_1990": 17349651,
+      "einwohner_1980": 17058193,
+      "einwohner_1970": 17004851,
+      "einwohner_1960": 15852476
+    },
+    {
+      "land": "Bayern",
+      "anteil_2024_pct": 15.9,
+      "anteil_1990_pct": 14.4,
+      "einwohner_2024": 13248928,
+      "einwohner_2015": 12843514,
+      "einwohner_2010": 12538696,
+      "einwohner_2000": 12230255,
+      "einwohner_1990": 11448823,
+      "einwohner_1980": 10928151,
+      "einwohner_1970": 10561110,
+      "einwohner_1960": 9494939
+    },
+    {
+      "land": "Baden-Württemberg",
+      "anteil_2024_pct": 13.5,
+      "anteil_1990_pct": 12.3,
+      "einwohner_2024": 11245898,
+      "einwohner_2015": 10879618,
+      "einwohner_2010": 10753880,
+      "einwohner_2000": 10524415,
+      "einwohner_1990": 9822027,
+      "einwohner_1980": 9258947,
+      "einwohner_1970": 8953607,
+      "einwohner_1960": 7726859
+    },
+    {
+      "land": "Niedersachsen",
+      "anteil_2024_pct": 9.6,
+      "anteil_1990_pct": 9.3,
+      "einwohner_2024": 8004489,
+      "einwohner_2015": 7926599,
+      "einwohner_2010": 7918293,
+      "einwohner_2000": 7926193,
+      "einwohner_1990": 7387245,
+      "einwohner_1980": 7256386,
+      "einwohner_1970": 7121824,
+      "einwohner_1960": 6576137
+    },
+    {
+      "land": "Hessen",
+      "anteil_2024_pct": 7.5,
+      "anteil_1990_pct": 7.2,
+      "einwohner_2024": 6280793,
+      "einwohner_2015": 6176172,
+      "einwohner_2010": 6067021,
+      "einwohner_2000": 6068129,
+      "einwohner_1990": 5763310,
+      "einwohner_1980": 5601031,
+      "einwohner_1970": 5424529,
+      "einwohner_1960": 4783352
+    },
+    {
+      "land": "Rheinland-Pfalz",
+      "anteil_2024_pct": 4.9,
+      "anteil_1990_pct": 4.7,
+      "einwohner_2024": 4129569,
+      "einwohner_2015": 4052803,
+      "einwohner_2010": 4003745,
+      "einwohner_2000": 4034557,
+      "einwohner_1990": 3763510,
+      "einwohner_1980": 3642482,
+      "einwohner_1970": 3658932,
+      "einwohner_1960": 3411170
+    },
+    {
+      "land": "Sachsen",
+      "anteil_2024_pct": 4.8,
+      "anteil_1990_pct": 6,
+      "einwohner_2024": 4042422,
+      "einwohner_2015": 4084851,
+      "einwohner_2010": 4149477,
+      "einwohner_2000": 4425581,
+      "einwohner_1990": 4764301,
+      "einwohner_1980": "",
+      "einwohner_1970": "",
+      "einwohner_1960": ""
+    },
+    {
+      "land": "Berlin",
+      "anteil_2024_pct": 4.4,
+      "anteil_1990_pct": 4.3,
+      "einwohner_2024": 3685265,
+      "einwohner_2015": 3520031,
+      "einwohner_2010": 3460725,
+      "einwohner_2000": 3382169,
+      "einwohner_1990": 3433695,
+      "einwohner_1980": 1896230,
+      "einwohner_1970": 2115311,
+      "einwohner_1960": 2202241
+    },
+    {
+      "land": "Schleswig-Holstein",
+      "anteil_2024_pct": 3.5,
+      "anteil_1990_pct": 3.3,
+      "einwohner_2024": 2959517,
+      "einwohner_2015": 2858714,
+      "einwohner_2010": 2834259,
+      "einwohner_2000": 2789761,
+      "einwohner_1990": 2626127,
+      "einwohner_1980": 2611285,
+      "einwohner_1970": 2510608,
+      "einwohner_1960": 2309409
+    },
+    {
+      "land": "Brandenburg",
+      "anteil_2024_pct": 3.1,
+      "anteil_1990_pct": 3.2,
+      "einwohner_2024": 2556747,
+      "einwohner_2015": 2484826,
+      "einwohner_2010": 2503273,
+      "einwohner_2000": 2601962,
+      "einwohner_1990": 2578312,
+      "einwohner_1980": "",
+      "einwohner_1970": "",
+      "einwohner_1960": ""
+    },
+    {
+      "land": "Sachsen-Anhalt",
+      "anteil_2024_pct": 2.6,
+      "anteil_1990_pct": 3.6,
+      "einwohner_2024": 2135597,
+      "einwohner_2015": 2245470,
+      "einwohner_2010": 2335006,
+      "einwohner_2000": 2615375,
+      "einwohner_1990": 2873957,
+      "einwohner_1980": "",
+      "einwohner_1970": "",
+      "einwohner_1960": ""
+    },
+    {
+      "land": "Thüringen",
+      "anteil_2024_pct": 2.5,
+      "anteil_1990_pct": 3.3,
+      "einwohner_2024": 2100277,
+      "einwohner_2015": 2170714,
+      "einwohner_2010": 2235025,
+      "einwohner_2000": 2431255,
+      "einwohner_1990": 2611319,
+      "einwohner_1980": "",
+      "einwohner_1970": "",
+      "einwohner_1960": ""
+    },
+    {
+      "land": "Hamburg",
+      "anteil_2024_pct": 2.2,
+      "anteil_1990_pct": 2.1,
+      "einwohner_2024": 1862565,
+      "einwohner_2015": 1787408,
+      "einwohner_2010": 1786448,
+      "einwohner_2000": 1715392,
+      "einwohner_1990": 1652363,
+      "einwohner_1980": 1645095,
+      "einwohner_1970": 1793640,
+      "einwohner_1960": 1836958
+    },
+    {
+      "land": "Mecklenburg-Vorpommern",
+      "anteil_2024_pct": 1.9,
+      "anteil_1990_pct": 2.4,
+      "einwohner_2024": 1573597,
+      "einwohner_2015": 1612362,
+      "einwohner_2010": 1642327,
+      "einwohner_2000": 1775703,
+      "einwohner_1990": 1923959,
+      "einwohner_1980": "",
+      "einwohner_1970": "",
+      "einwohner_1960": ""
+    },
+    {
+      "land": "Saarland",
+      "anteil_2024_pct": 1.2,
+      "anteil_1990_pct": 1.4,
+      "einwohner_2024": 1012141,
+      "einwohner_2015": 995597,
+      "einwohner_2010": 1017567,
+      "einwohner_2000": 1068703,
+      "einwohner_1990": 1072963,
+      "einwohner_1980": 1066299,
+      "einwohner_1970": 1121300,
+      "einwohner_1960": 1060493
+    },
+    {
+      "land": "Bremen",
+      "anteil_2024_pct": 0.8,
+      "anteil_1990_pct": 0.9,
+      "einwohner_2024": 704881,
+      "einwohner_2015": 671489,
+      "einwohner_2010": 660706,
+      "einwohner_2000": 660225,
+      "einwohner_1990": 681665,
+      "einwohner_1980": 693846,
+      "einwohner_1970": 735452,
+      "einwohner_1960": 704287
+    },
+    {
+      "land": "Deutschland",
+      "anteil_2024_pct": 100,
+      "anteil_1990_pct": 100,
+      "einwohner_2024": 83577140,
+      "einwohner_2015": 82175684,
+      "einwohner_2010": 81751602,
+      "einwohner_2000": 82259540,
+      "einwohner_1990": 79753227,
+      "einwohner_1980": 61657945,
+      "einwohner_1970": 61001164,
+      "einwohner_1960": 55958321
+    }
+  ],
+  "meta": {
+    "title": "Bevölkerungsentwicklung der deutschen Bundesländer (1960–2024) - Free Download",
+    "description": "Einwohnerzahlen der 16 Bundesländer 1960–2024 und ihr Anteil an der Gesamtbevölkerung Deutschlands. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bevölkerungsentwicklung der deutschen Bundesländer (1960–2024) | ListBase",
+    "seo_description": "Download Bevölkerungsentwicklung der deutschen Bundesländer (1960–2024) — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Bevölkerungsentwicklung"
+    ]
+  }
+}
