@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-27T02:22:32.033Z",
-  "total_datasets": 479,
-  "total_records": 1866892,
+  "generated": "2026-10-27T02:22:34.389Z",
+  "total_datasets": 480,
+  "total_records": 1866947,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "music",
@@ -4854,6 +4854,31 @@
         "xlsx": {
           "name": "de-austriazismen_DE.xlsx",
           "size": 35920
+        }
+      }
+    },
+    {
+      "id": "de-jugendwort-des-jahres",
+      "name": "Jugendwort des Jahres (Deutschland)",
+      "category": "language",
+      "record_count": 55,
+      "columns": [
+        "jahr",
+        "platzierung",
+        "jugendwort",
+        "erklaerung"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Jugendwort_des_Jahres_(Deutschland)",
+      "updated": "2026-10",
+      "size": 13104,
+      "files": {
+        "csv": {
+          "name": "de-jugendwort-des-jahres_DE.csv",
+          "size": 6599
+        },
+        "xlsx": {
+          "name": "de-jugendwort-des-jahres_DE.xlsx",
+          "size": 10639
         }
       }
     },
