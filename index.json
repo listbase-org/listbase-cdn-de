@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-27T02:22:09.362Z",
-  "total_datasets": 470,
-  "total_records": 1866314,
+  "generated": "2026-10-27T02:22:11.866Z",
+  "total_datasets": 471,
+  "total_records": 1866331,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -557,6 +557,31 @@
         "xlsx": {
           "name": "de-at-bundeslaender-bip_DE.xlsx",
           "size": 7143
+        }
+      }
+    },
+    {
+      "id": "de-bundeslaender-arbeitslosenquote",
+      "name": "Deutsche Bundesländer nach Arbeitslosenquote",
+      "category": "economy",
+      "record_count": 17,
+      "columns": [
+        "rang",
+        "bundesland",
+        "arbeitslosenquote_pct",
+        "arbeitslose"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Arbeitslosenquote",
+      "updated": "2026-10",
+      "size": 3913,
+      "files": {
+        "csv": {
+          "name": "de-bundeslaender-arbeitslosenquote_DE.csv",
+          "size": 624
+        },
+        "xlsx": {
+          "name": "de-bundeslaender-arbeitslosenquote_DE.xlsx",
+          "size": 7311
         }
       }
     },

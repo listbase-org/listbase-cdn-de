@@ -1,0 +1,148 @@
+{
+  "id": "de-bundeslaender-arbeitslosenquote",
+  "name": "Deutsche Bundesländer nach Arbeitslosenquote",
+  "title": "Deutsche Bundesländer nach Arbeitslosenquote",
+  "description": "Die Bundesländer nach Arbeitslosenquote und Anzahl der Arbeitslosen (Bundesagentur für Arbeit).",
+  "category": "economy",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Arbeitslosenquote",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Arbeitslosenquote",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "arbeitslosenquote_pct",
+      "label": "Arbeitslosenquote Pct",
+      "type": "number"
+    },
+    {
+      "key": "arbeitslose",
+      "label": "Arbeitslose",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rang": 1,
+      "bundesland": "Bayern",
+      "arbeitslosenquote_pct": 4,
+      "arbeitslose": 313557
+    },
+    {
+      "rang": 2,
+      "bundesland": "Baden-Württemberg",
+      "arbeitslosenquote_pct": 4.6,
+      "arbeitslose": 297819
+    },
+    {
+      "rang": 3,
+      "bundesland": "Rheinland-Pfalz",
+      "arbeitslosenquote_pct": 5.5,
+      "arbeitslose": 126577
+    },
+    {
+      "rang": 4,
+      "bundesland": "Schleswig-Holstein",
+      "arbeitslosenquote_pct": 5.8,
+      "arbeitslose": 94348
+    },
+    {
+      "rang": 5,
+      "bundesland": "Hessen",
+      "arbeitslosenquote_pct": 5.9,
+      "arbeitslose": 208672
+    },
+    {
+      "rang": 6,
+      "bundesland": "Niedersachsen",
+      "arbeitslosenquote_pct": 6,
+      "arbeitslose": 271864
+    },
+    {
+      "rang": 7,
+      "bundesland": "Thüringen",
+      "arbeitslosenquote_pct": 6.4,
+      "arbeitslose": 69551
+    },
+    {
+      "rang": 8,
+      "bundesland": "Brandenburg",
+      "arbeitslosenquote_pct": 6.4,
+      "arbeitslose": 86393
+    },
+    {
+      "rang": 9,
+      "bundesland": "Sachsen",
+      "arbeitslosenquote_pct": 7,
+      "arbeitslose": 151442
+    },
+    {
+      "rang": 10,
+      "bundesland": "Saarland",
+      "arbeitslosenquote_pct": 7.3,
+      "arbeitslose": 38970
+    },
+    {
+      "rang": 11,
+      "bundesland": "Mecklenburg-Vorpommern",
+      "arbeitslosenquote_pct": 7.7,
+      "arbeitslose": 63014
+    },
+    {
+      "rang": 12,
+      "bundesland": "Nordrhein-Westfalen",
+      "arbeitslosenquote_pct": 7.8,
+      "arbeitslose": 780973
+    },
+    {
+      "rang": 13,
+      "bundesland": "Sachsen-Anhalt",
+      "arbeitslosenquote_pct": 8,
+      "arbeitslose": 88268
+    },
+    {
+      "rang": 14,
+      "bundesland": "Hamburg",
+      "arbeitslosenquote_pct": 8.3,
+      "arbeitslose": 94531
+    },
+    {
+      "rang": 15,
+      "bundesland": "Berlin",
+      "arbeitslosenquote_pct": 10.3,
+      "arbeitslose": 222023
+    },
+    {
+      "rang": 16,
+      "bundesland": "Bremen",
+      "arbeitslosenquote_pct": 11.2,
+      "arbeitslose": 42454
+    },
+    {
+      "rang": "",
+      "bundesland": "Deutschland",
+      "arbeitslosenquote_pct": 6.3,
+      "arbeitslose": 2950456
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Bundesländer nach Arbeitslosenquote - Free Download",
+    "description": "Die Bundesländer nach Arbeitslosenquote und Anzahl der Arbeitslosen (Bundesagentur für Arbeit). Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Deutsche Bundesländer nach Arbeitslosenquote | ListBase",
+    "seo_description": "Download Deutsche Bundesländer nach Arbeitslosenquote — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Arbeitslosenquote"
+    ]
+  }
+}
