@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-27T02:23:07.791Z",
-  "total_datasets": 493,
-  "total_records": 1871509,
+  "generated": "2026-10-27T02:23:10.447Z",
+  "total_datasets": 494,
+  "total_records": 1871810,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "transport",
@@ -14105,6 +14105,35 @@
         "xlsx": {
           "name": "de-seebaeder_DE.xlsx",
           "size": 9638
+        }
+      }
+    },
+    {
+      "id": "de-wanderwege",
+      "name": "Wanderwege in Deutschland",
+      "category": "tourism",
+      "record_count": 301,
+      "columns": [
+        "name",
+        "art",
+        "laenge_km",
+        "verlauf",
+        "verein",
+        "region",
+        "anmerkungen",
+        "schwierigkeit"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_von_Wanderwegen_in_Deutschland",
+      "updated": "2026-10",
+      "size": 100804,
+      "files": {
+        "csv": {
+          "name": "de-wanderwege_DE.csv",
+          "size": 51726
+        },
+        "xlsx": {
+          "name": "de-wanderwege_DE.xlsx",
+          "size": 32679
         }
       }
     },

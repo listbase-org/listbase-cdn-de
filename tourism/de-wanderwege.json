@@ -1,0 +1,3076 @@
+{
+  "id": "de-wanderwege",
+  "name": "Wanderwege in Deutschland",
+  "title": "Wanderwege in Deutschland",
+  "description": "Fernwanderwege und Wanderwege in Deutschland mit Art, Länge (km), Verlauf, Trägerverein, Region und Schwierigkeitsgrad.",
+  "category": "tourism",
+  "source": "https://de.wikipedia.org/wiki/Liste_von_Wanderwegen_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_von_Wanderwegen_in_Deutschland",
+  "updated": "2026-10",
+  "record_count": 301,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "art",
+      "label": "Art",
+      "type": "string"
+    },
+    {
+      "key": "laenge_km",
+      "label": "Laenge Km",
+      "type": "number"
+    },
+    {
+      "key": "verlauf",
+      "label": "Verlauf",
+      "type": "string"
+    },
+    {
+      "key": "verein",
+      "label": "Verein",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "anmerkungen",
+      "label": "Anmerkungen",
+      "type": "string"
+    },
+    {
+      "key": "schwierigkeit",
+      "label": "Schwierigkeit",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "66-Seen-Wanderweg",
+      "art": "Fw",
+      "laenge_km": 416,
+      "verlauf": "rund um Berlin",
+      "verein": "",
+      "region": "Brandenburg",
+      "anmerkungen": "17 Tagesetappen",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Ahrsteig",
+      "art": "Fw",
+      "laenge_km": 108,
+      "verlauf": "gesamtes Ahrtal",
+      "verein": "",
+      "region": "Eifel, Mittelrhein",
+      "anmerkungen": "7 Etappen; EU-gefördert als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "mittel, zum Teil starke Steigungen"
+    },
+    {
+      "name": "Albtraufgänger",
+      "art": "Fw",
+      "laenge_km": 113,
+      "verlauf": "E1: Wiesensteig – Landgasthof Deutsches Haus E2: Deutsches Haus – Wasserberghaus E3: Wasserberghaus – Gingen/Fils E4: Gingen/Fils – Geislingen/Steige E5: Geislingen/Steige – Bad Ditzenbach E6: Bad Ditzenbach – Wiesensteig",
+      "verein": "Erlebnisregion Schwäbischer Albtrauf e. V.",
+      "region": "Landkreis Göppingen",
+      "anmerkungen": "als Leading Quality Trail und Qualitätswanderweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "mittel"
+    },
+    {
+      "name": "Alemannenweg",
+      "art": "Fw",
+      "laenge_km": 144,
+      "verlauf": "Erbach, Reichelsheim, Lautertal, Bensheim, Mühltal, Fischbachtal, Otzberg, Michelstadt",
+      "verein": "Odenwaldklub",
+      "region": "Odenwald, Bergstraße",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Alsterwanderweg",
+      "art": "Fw",
+      "laenge_km": 37,
+      "verlauf": "entlang der Alster (Quelle–Mündung)",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Altmühltal-Panoramaweg",
+      "art": "Fw",
+      "laenge_km": 200,
+      "verlauf": "Gunzenhausen, Kelheim",
+      "verein": "",
+      "region": "Altmühltal",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert; zusätzlich Schlaufenwege",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Ausoniusstraße",
+      "art": "Fw",
+      "laenge_km": 200,
+      "verlauf": "Trier, Kirchberg, Bingen am Rhein",
+      "verein": "Hunsrückverein",
+      "region": "Hunsrück",
+      "anmerkungen": "alte Römerstraße",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Arminiusweg",
+      "art": "Fw",
+      "laenge_km": 100,
+      "verlauf": "Porta Westfalica, Bramsche -Kalkriese",
+      "verein": "Wiehengebirgsverband Weser-Ems",
+      "region": "Wiehengebirge",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Barbarossaweg",
+      "art": "Fw",
+      "laenge_km": 332,
+      "verlauf": "Korbach, Kyffhäuserdenkmal",
+      "verein": "Hessisch-Waldeckischer Gebirgs- und Heimatverein",
+      "region": "Nordhessen",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Baunapfad",
+      "art": "Tw",
+      "laenge_km": 18,
+      "verlauf": "entlang der Bauna (Quelle–Mündung)",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Bergischer Weg",
+      "art": "Fw",
+      "laenge_km": 262,
+      "verlauf": "Essen, Velbert, Wülfrath, Solingen, Odenthal, Bergisch Gladbach, Rösrath, Overath, Much, Neunkirchen-Seelscheid, Hennef, Königswinter, Bad Honnef",
+      "verein": "Naturarena Bergisches Land und Sauerländischer Gebirgsverein",
+      "region": "Bergisches Land",
+      "anmerkungen": "14 Etappen, Etappenlängen zwischen 11,6 km und 28,7 km; als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Bettlerpfad",
+      "art": "Tw",
+      "laenge_km": 27,
+      "verlauf": "Merzhausen, Badenweiler",
+      "verein": "Schwarzwaldverein",
+      "region": "Landkreis Breisgau-Hochschwarzwald",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Birkenhainer Landstraße",
+      "art": "Fw",
+      "laenge_km": 71,
+      "verlauf": "Hanau, Gemünden am Main",
+      "verein": "Spessartbund e. V., Aschaffenburg",
+      "region": "Spessart",
+      "anmerkungen": "auf der Route eines alten Handels- und Transportwegs",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Blasiussteig",
+      "art": "Tw",
+      "laenge_km": 20,
+      "verlauf": "rund um die Blasiuskapelle und die Dornburg",
+      "verein": "Verkehrs- und Verschönerungsvereine Frickhofen, Dorndorf, Thalheim",
+      "region": "Westerwald",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Bodensee-Rundweg",
+      "art": "Fw",
+      "laenge_km": 256,
+      "verlauf": "rund um den Bodensee",
+      "verein": "u. a. Schwäbischer Albverein",
+      "region": "Bodensee",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Bonifatius-Route",
+      "art": "Fw",
+      "laenge_km": 172,
+      "verlauf": "Mainz, Vogelsberg, Fulda",
+      "verein": "",
+      "region": "Südhessen, Nordhessen",
+      "anmerkungen": "alter Pilgerweg, in Richtung Mainz auch Teil eines Jakobswegs",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Bonifatiuspfad (Diemelstadt – Burg Herzberg)",
+      "art": "Fw",
+      "laenge_km": "",
+      "verlauf": "Diemelstadt, Bad Arolsen, Borken, Burg Herzberg",
+      "verein": "Hessisch-Waldeckischer Gebirgs- und Heimatverein",
+      "region": "Nordhessen",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Bonifatiusweg (Hochheim–Fulda)",
+      "art": "Fw",
+      "laenge_km": "",
+      "verlauf": "Hochheim am Main, Vogelsberg, Fulda",
+      "verein": "",
+      "region": "Südhessen, Nordhessen",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Böhmweg",
+      "art": "Fw",
+      "laenge_km": 55,
+      "verlauf": "Deggendorf nach Bayerisch Eisenstein",
+      "verein": "",
+      "region": "Niederbayern Bayerischer Wald",
+      "anmerkungen": "Alter Handelsweg",
+      "schwierigkeit": "erste Tagesetappe mittel (Anstieg) Rest leicht"
+    },
+    {
+      "name": "Breisgauer Weinweg",
+      "art": "Fw",
+      "laenge_km": 98,
+      "verlauf": "Diersburg, Lahr, Ettenheim, Emmendingen, Freiburg",
+      "verein": "Schwarzwaldverein",
+      "region": "Ortenau, Breisgau",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Bremer Stadtrandweg",
+      "art": "Rw",
+      "laenge_km": 134,
+      "verlauf": "rund um Bremen",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "13 Etappen",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Bückeberge-Weg",
+      "art": "Fw",
+      "laenge_km": 51,
+      "verlauf": "Porta Westfalica, Bad Nenndorf",
+      "verein": "",
+      "region": "Weserbergland, Bückeberge",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Burgensteig",
+      "art": "Fw",
+      "laenge_km": 115,
+      "verlauf": "Porta Westfalica, Höxter",
+      "verein": "Teutoburger-Wald-Verein",
+      "region": "Weserbergland, Lipper Bergland",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Butjadinger Weg",
+      "art": "Fw",
+      "laenge_km": 58,
+      "verlauf": "Dangaster Siel, Nordenham-Blexen",
+      "verein": "Wiehengebirgsverband Weser-Ems",
+      "region": "Butjadingen",
+      "anmerkungen": "Teil des E9",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Calenberger Weg",
+      "art": "Fw",
+      "laenge_km": 45,
+      "verlauf": "Bad Nenndorf – Nordstemmen",
+      "verein": "Hannoverscher Wander- und Gebirgsverein",
+      "region": "Niedersachsen",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Camino Incluso",
+      "art": "Fw",
+      "laenge_km": 84,
+      "verlauf": "Bensheim-Auerbach, Staatspark Fürstenlager, Beedenkirchen, Neunkirchen, Neunkircher Höhe, Winterkasten, Lindenfels, Fürth im Odenwald, Hammelbach, Tromm, Siedelsbrunn, Unter-Abtsteinach, Wilhelmsfeld, Heiligenberg, Heidelberg",
+      "verein": "",
+      "region": "Odenwald, Bergstraße",
+      "anmerkungen": "Pilgerweg mit 6 Etappen zu je 11 – 15 km; offiziell eingeweiht im Oktober 2021",
+      "schwierigkeit": "mittel"
+    },
+    {
+      "name": "Cheruskerweg",
+      "art": "Fw",
+      "laenge_km": 70,
+      "verlauf": "Schlangen (Gemeinde), Detmold, Lemgo, Talle, Vlotho, Porta Westfalica (Stadt)",
+      "verein": "Teutoburger-Wald-Verein",
+      "region": "Teutoburger Wald, Lipper Bergland, Weserbergland",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Christine-Koch-Weg",
+      "art": "Fw",
+      "laenge_km": 123,
+      "verlauf": "Menden, Balve, Bad Laasphe",
+      "verein": "Sauerländischer Gebirgsverein",
+      "region": "Sauerland",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Crescentia-Pilgerweg",
+      "art": "Rw",
+      "laenge_km": 88,
+      "verlauf": "Kaufbeuren, Mindelheim, Ottobeuren, Kaufbeuren",
+      "verein": "",
+      "region": "Allgäu",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Deister-Süntel-Weg",
+      "art": "Tw",
+      "laenge_km": 30,
+      "verlauf": "Barsinghausen – Hessisch Oldendorf",
+      "verein": "Hannoverscher Wander- und Gebirgsverein",
+      "region": "Niedersachsen",
+      "anmerkungen": "Weiter als Pyrmonter Weg bis Bad Pyrmont (Länge: 38 km)",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Dichter-Musiker-Maler-Weg",
+      "art": "Fw",
+      "laenge_km": 91,
+      "verlauf": "Dresden-Loschwitz, Pillnitz, Graupa, Lohmen, Bastei, Hohnstein, Kirnitzschtal, Großer Winterberg, Schmilka, Prebischtor, Schmilka",
+      "verein": "Dichter-Musiker-Maler-Weg e. V. Dresden",
+      "region": "Dresden, Sächsische Schweiz",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Diemelsteig",
+      "art": "Rw",
+      "laenge_km": 63,
+      "verlauf": "Heringhausen (Diemelsee), Rhenegge, Adorf (Diemelsee), Wirmighausen, Flechtdorf, Schweinsbühl, Deisfeld, Ottlar, Stormbruch, Kotthausen (Diemelsee), Diemelsee Staumauer, Heringhausen",
+      "verein": "",
+      "region": "Naturpark Diemelsee, Ostsauerländer Gebirgsrand",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert Teilstrecke von: E1; Hessenweg 1; Sauerland-Waldroute",
+      "schwierigkeit": "mittel bis schwer Aufstiege: 317 Höhenmeter"
+    },
+    {
+      "name": "Dingelstedtpfad",
+      "art": "Fw",
+      "laenge_km": 114,
+      "verlauf": "Bad Oeynhausen (NW), Polle (NS)",
+      "verein": "Teutoburger-Wald-Verein",
+      "region": "Ravensberger Hügelland, Lipper Bergland, Weserbergland",
+      "anmerkungen": "",
+      "schwierigkeit": "mittel, ±2.400 Höhenmeter"
+    },
+    {
+      "name": "Donauberglandweg",
+      "art": "Fw",
+      "laenge_km": 57,
+      "verlauf": "Lemberg, Dreifaltigkeitsberg, Mühlheim, Fridingen, Kloster Beuron",
+      "verein": "Schwäbischer Albverein",
+      "region": "Schwäbische Alb, Oberes Donautal",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Druidensteig",
+      "art": "Fw",
+      "laenge_km": 75,
+      "verlauf": "Freusburg, Herdorf, Friedewald, Alsdorf, Abtei Marienstatt",
+      "verein": "Westerwald-Verein",
+      "region": "Siegerland, Westerwald",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Ederseeweg",
+      "art": "",
+      "laenge_km": 49,
+      "verlauf": "Kassel, Habichtswälder Bergland, Waldecker Wald, Edersee",
+      "verein": "",
+      "region": "Nordhessen",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Eggeweg",
+      "art": "Fw",
+      "laenge_km": 70,
+      "verlauf": "Eggegebirge (Externsteine, Marsberg)",
+      "verein": "Eggegebirgsverein",
+      "region": "",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert; Teil des E1",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Eifelleiter",
+      "art": "Fw",
+      "laenge_km": 52.8,
+      "verlauf": "Brohltal, Vulkaneifel, Östliche Hocheifel",
+      "verein": "Verbandsgemeinde Brohltal Tourist-Information",
+      "region": "",
+      "anmerkungen": "3 Etappen, Premiumwanderweg, 2015 eröffnet",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Eifelsteig",
+      "art": "Fw",
+      "laenge_km": 313,
+      "verlauf": "Aachen, Monschau, Gerolstein, Daun, Manderscheid, Trier",
+      "verein": "Eifelverein",
+      "region": "Hohes Venn, Vulkaneifel",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Elsterperlenweg",
+      "art": "Rw",
+      "laenge_km": 72,
+      "verlauf": "Greiz, Berga/Elster, Wünschendorf, Neumühle/Elster - Greiz",
+      "verein": "Tourismusverband Vogtland e. V.",
+      "region": "Thüringer - Vogtland",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Emmerweg",
+      "art": "Fw",
+      "laenge_km": 72,
+      "verlauf": "entlang der Emmer (Quelle–Mündung)",
+      "verein": "Eggegebirgsverein",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Ems-Hase-Hunte-Else-Weg",
+      "art": "Fw",
+      "laenge_km": 170,
+      "verlauf": "Lingen, Bad Rothenfelde",
+      "verein": "Wiehengebirgsverband Weser-Ems",
+      "region": "Emsland, Teutoburger Wald",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Ems-Hunte-Weg",
+      "art": "Fw",
+      "laenge_km": 87,
+      "verlauf": "Leer, Oldenburg",
+      "verein": "Wiehengebirgsverband Weser-Ems",
+      "region": "Ostfriesland, Oldenburger Land",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Ems-Jade-Weg",
+      "art": "Fw",
+      "laenge_km": 75,
+      "verlauf": "Emden, Aurich, Wilhelmshaven",
+      "verein": "Wiehengebirgsverband Weser-Ems",
+      "region": "Ostfriesland, Friesland",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Emsweg",
+      "art": "Fw",
+      "laenge_km": 162,
+      "verlauf": "Rheine, Papenburg",
+      "verein": "Wiehengebirgsverband Weser-Ems",
+      "region": "Emsland",
+      "anmerkungen": "von Weener bis Leer Teil des E9",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Erzweg",
+      "art": "Fw",
+      "laenge_km": 383.2,
+      "verlauf": "Pegnitz, Auerbach i.d.OPf., Neuhaus a. d. Pegnitz, Etzelwang, Lichtenegg, Sulzbach-Rosenberg, Amberg, Paulsdorf, Theuern, Heimhof, Kastl",
+      "verein": "Fränkischer Albverein Fränkische-Schweiz-Verein Bayerischer Wald-Verein Plecher Heimatverein",
+      "region": "Erzregion",
+      "anmerkungen": "9 Schlaufenwege, als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Eselsweg",
+      "art": "Fw",
+      "laenge_km": 111,
+      "verlauf": "Schlüchtern, Mernes, Flörsbach, Heigenbrücken, Weibersbrunn, Wildensee, Großheubach",
+      "verein": "Spessartbund e. V., Aschaffenburg",
+      "region": "Spessart",
+      "anmerkungen": "auf der Route eines alten Handels- und Transportwegs (von den Salinen im Kinzigtal zum Main)",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Europäische Wasserscheide",
+      "art": "Fw",
+      "laenge_km": 97,
+      "verlauf": "Ansbach, Colmberg, Burgbernheim, Neusitz, Schillingsfürst, Schnelldorf",
+      "verein": "Tourismusverband Romantisches Franken",
+      "region": "Frankenhöhe",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Feengrotten-Kyffhäuser-Weg",
+      "art": "Fw",
+      "laenge_km": 230,
+      "verlauf": "Saalfeld, Jena, Freyburg, Bad Frankenhausen, Kyffhäuserdenkmal",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Feldberg-Steig",
+      "art": "Rw",
+      "laenge_km": 12,
+      "verlauf": "um Gipfel und Feldsee",
+      "verein": "Schwarzwaldverein",
+      "region": "Hochschwarzwald",
+      "anmerkungen": "Premiumwanderweg",
+      "schwierigkeit": "schwer"
+    },
+    {
+      "name": "Felsentour Herbstein",
+      "art": "Rw",
+      "laenge_km": 19,
+      "verlauf": "Rund um Herbstein",
+      "verein": "",
+      "region": "Vogelsberg",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Frankenalb-Panoramaweg",
+      "art": "Fw",
+      "laenge_km": 51,
+      "verlauf": "Rundweg, Burgruine Lichtenegg",
+      "verein": "Fränkischer Albverein",
+      "region": "Hersbrucker Alb",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "FrankenwaldSteig (Bayern)",
+      "art": "Rw",
+      "laenge_km": 242,
+      "verlauf": "Bad Steben, Ludwigsstadt, Kronach, Kulmbach, Wirsberg, Naila, Bad Steben",
+      "verein": "Frankenwaldverein",
+      "region": "Frankenwald",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Frankenweg (Bayern)",
+      "art": "Fw",
+      "laenge_km": 520,
+      "verlauf": "Frankenwald, Fränkische Schweiz, Frankenalb, Hahnenkamm, Nördlinger Ries",
+      "verein": "Frankenwaldverein Fränkische-Schweiz-Verein Fränkischer Albverein",
+      "region": "",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert am 31. Dezember 2010",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Frankenweg (Baden-Württemberg, Bayern)",
+      "art": "Fw",
+      "laenge_km": 220,
+      "verlauf": "Pforzheim, Maulbronn, Heilbronn, Neuenstein, Künzelsau, Rothenburg ob der Tauber",
+      "verein": "Schwäbischer Albverein",
+      "region": "Kraichgau, Schwäbischer Wald, Hohenloher Ebene",
+      "anmerkungen": "Hauptwanderweg 8 des Schwäbischen Albvereins",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Fränkischer Dünenweg",
+      "art": "Rw",
+      "laenge_km": 85,
+      "verlauf": "Rund um Altdorf im Landkreis Nürnberger Land",
+      "verein": "Fränkischer Albverein",
+      "region": "Frankenalb",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert im Januar 2013",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Fränkischer Gebirgsweg",
+      "art": "Fw",
+      "laenge_km": 425,
+      "verlauf": "Blankenstein, Frankenwald, Fichtelgebirge, Steinwald, Fränkische Schweiz, Hersbrucker Schweiz, Hersbruck",
+      "verein": "Frankenwaldverein, Fichtelgebirgsverein, Fränkische-Schweiz-Verein, Fränkische Albverein",
+      "region": "Franken",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert am 31. Dezember 2016",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Fränkischer Marienweg (Bamberg)",
+      "art": "Rw",
+      "laenge_km": 1059,
+      "verlauf": "zwei Rundwanderwege mit Ausgangspunkt Bamberg – Ave-Maria- und Magnifikat-Route, berührt 40 Wallfahrtsorte und besonders sehenswerte Kirchen und Kapellen",
+      "verein": "Verein der Freunde und Förderer des Fränkischen Marienwegs, Würzburg",
+      "region": "Franken",
+      "anmerkungen": "Ave-Maria-Route: Ostschleife (593 km) führt teilweise durch die Fränkische Schweiz und den Frankenwald; Magnifikat-Route: Westschleife (466 km) führt teilweise durch die Haßberge und den Steigerwald",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Fränkischer Marienweg (Würzburg)",
+      "art": "Rw",
+      "laenge_km": 900,
+      "verlauf": "zwei Rundwanderwege – „Ost-“ und „Westschleife“ mit Ausgangspunkt Würzburg, berührt über 50 Wallfahrtsorte und besonders sehenswerte Kirchen und Kapellen",
+      "verein": "Verein der Freunde und Förderer des Fränkischen Marienwegs",
+      "region": "Franken",
+      "anmerkungen": "Die „Ostschleife“ (560 km) führt durch den östlichen Teil Unterfrankens und berührt dabei die Mittelgebirge Steigerwald, Haßberge und Rhön; die „Westschleife“ (340 km) umrundet im Wesentlichen den Bayerischen Spessart.",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Fränkischer Rotweinwanderweg",
+      "art": "Fw",
+      "laenge_km": 79,
+      "verlauf": "Großwallstadt, Klingenberg, Miltenberg, Bürgstadt",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "entlang des Mains (zwischen Spessart und Odenwald)",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Frau-Holle-Pfad",
+      "art": "Fw",
+      "laenge_km": 185,
+      "verlauf": "Bad Karlshafen, Reinhardswald, Bramwald, Kaufunger Wald, Stölzinger, Richelsdorfer Gebirge, Kuppenrhön, Schenklengsfeld",
+      "verein": "Hessisch-Waldeckischer Gebirgs- und Heimatverein",
+      "region": "Nordhessen, Südniedersachsen",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Freudenthalweg",
+      "art": "Fw",
+      "laenge_km": 153,
+      "verlauf": "Hamburg-Harburg, Soltau, Verden",
+      "verein": "Wanderverband Norddeutschland",
+      "region": "Hamburg, Niedersachsen",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Gäurandweg",
+      "art": "Fw",
+      "laenge_km": 106,
+      "verlauf": "Mühlacker, Schopfloch",
+      "verein": "Schwarzwaldverein",
+      "region": "Schwarzwald",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Geestweg",
+      "art": "Fw",
+      "laenge_km": 195,
+      "verlauf": "Meppen, Bremen",
+      "verein": "Wiehengebirgsverband Weser-Ems",
+      "region": "Emsland, Wildeshauser Geest",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Georg-Fahrbach-Weg",
+      "art": "Fw",
+      "laenge_km": 123,
+      "verlauf": "Criesbach, Stuttgart-Uhlbach",
+      "verein": "Schwäbischer Albverein",
+      "region": "Hohenloher Ebene, Schwäbischer Wald",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Gernsbacher Runde",
+      "art": "Rw",
+      "laenge_km": 42.7,
+      "verlauf": "Rund um Gernsbach",
+      "verein": "",
+      "region": "Schwarzwald",
+      "anmerkungen": "Wandersiegel Premium-Wanderweg",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Glasträgerweg",
+      "art": "Fw",
+      "laenge_km": 180,
+      "verlauf": "Todtnau, Feldberg, Schluchsee, Lenzkirch, Bonndorf, Grafenhausen, St. Blasien, Bernau, Todtmoos, Wehr, Bad Säckingen, Laufenburg",
+      "verein": "",
+      "region": "Schwarzwald",
+      "anmerkungen": "Lehrpfad",
+      "schwierigkeit": "mittel"
+    },
+    {
+      "name": "Glockenwanderweg",
+      "art": "Rw",
+      "laenge_km": 23,
+      "verlauf": "Deutschneudorf, Brüderwiese, Deutscheinsiedel, Seiffen, Oberseiffenbach, Oberlochmühle, Deutschkatharinenberg, Deutschneudorf",
+      "verein": "",
+      "region": "Erzgebirge",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Görlitz–Greiz",
+      "art": "Fw",
+      "laenge_km": 366,
+      "verlauf": "Görlitz, Löbau, Stolpen, Pirna, Frauenstein, Marienberg, Annaberg-Buchholz, Greiz",
+      "verein": "",
+      "region": "Oberlausitzer Bergland, Erzgebirge, Vogtland",
+      "anmerkungen": "in der Oberlausitz Teil des Wanderwegs der Deutschen Einheit",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Goethewanderweg Ilmenau-Stützerbach",
+      "art": "Tw",
+      "laenge_km": 20,
+      "verlauf": "Ilmenau – Manebach – Stützerbach",
+      "verein": "Stadt Ilmenau",
+      "region": "Thüringer Wald",
+      "anmerkungen": "der höchste Punkt ist der Kickelhahn mit 861 m",
+      "schwierigkeit": "mittel"
+    },
+    {
+      "name": "Goethewanderweg Weimar-Großkochberg",
+      "art": "Tw",
+      "laenge_km": 29,
+      "verlauf": "von Weimar nach Großkochberg",
+      "verein": "Landkreis Weimarer Land",
+      "region": "Weimarer Land, Thüringen",
+      "anmerkungen": "Höhenunterschied ca. 305 m",
+      "schwierigkeit": "leicht-mittel"
+    },
+    {
+      "name": "Goldsteig",
+      "art": "Fw",
+      "laenge_km": 600,
+      "verlauf": "Oberpfälzer Wald, Bayerischer Wald (Marktredwitz, Passau)",
+      "verein": "Tourismusverband Ostbayern e. V.",
+      "region": "Ostbayern",
+      "anmerkungen": "Qualitätsweg Wanderbares Deutschland; teilweise gemeinsame Route mit E6 und E8",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Graf-Engelbert-Weg",
+      "art": "Fw",
+      "laenge_km": 111,
+      "verlauf": "Hattingen, Schladern",
+      "verein": "Sauerländischer Gebirgsverein",
+      "region": "Ruhrgebiet, Bergisches Land, Siegerland",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Grimmsteig",
+      "art": "Rw",
+      "laenge_km": 84,
+      "verlauf": "",
+      "verein": "vom Land Hessen gefördertes Gemeinschaftsprojekt",
+      "region": "Kaufunger Wald, Hoher Meißner, Söhre",
+      "anmerkungen": "5 Tagesetappen",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Habichtswaldsteig",
+      "art": "Fw",
+      "laenge_km": 85,
+      "verlauf": "Zierenberg, Edersee (Staumauer) / Hemfurth-Edersee",
+      "verein": "AG Habichtswaldsteig (elf Kommunen am Steig)",
+      "region": "Habichtswälder Bergland, Kellerwald",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Hainichlandweg",
+      "art": "RW",
+      "laenge_km": 130,
+      "verlauf": "Weberstedt, Kammerforst, Struth, Heyerode, Probstei Zella, Mihla, Hütscheroda, Weberstedt",
+      "verein": "Nationalpark Hainich",
+      "region": "Hainich",
+      "anmerkungen": "",
+      "schwierigkeit": "mittel"
+    },
+    {
+      "name": "Hainleiteweg",
+      "art": "Fw",
+      "laenge_km": 70,
+      "verlauf": "Friedrichroda, Sachsenburg",
+      "verein": "",
+      "region": "Hainleite",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Handelsweg",
+      "art": "Fw",
+      "laenge_km": 229,
+      "verlauf": "Osnabrück, Bad Bentheim, Oldenzaal (Niederlande), Deventer (Niederlande)",
+      "verein": "Wiehengebirgsverband Weser-Ems",
+      "region": "",
+      "anmerkungen": "Teil des E11",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Hansaweg",
+      "art": "Fw",
+      "laenge_km": 72,
+      "verlauf": "Herford, Bad Salzuflen, Lemgo, Dörentrup, Extertal, Hameln",
+      "verein": "Teutoburger-Wald-Verein",
+      "region": "Ravensberger Hügelland, Lipper Bergland, Weserbergland",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert Teil des E1",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Hansjakobweg I (Kleiner Hansjakobweg)",
+      "art": "Rw",
+      "laenge_km": 49,
+      "verlauf": "Schapbach, Schenkenzell, Schapbach",
+      "verein": "Schwarzwaldverein",
+      "region": "Schwarzwald",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Hansjakobweg II (Großer Hansjakobweg)",
+      "art": "Rw",
+      "laenge_km": 105,
+      "verlauf": "Haslach, Zell am Harmersbach, Haslach",
+      "verein": "Schwarzwaldverein",
+      "region": "Schwarzwald",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Harzer Baudensteig",
+      "art": "Fw",
+      "laenge_km": 100,
+      "verlauf": "Bad Grund, Lerbach, Bad Lauterberg, Bad Sachsa, Walkenried",
+      "verein": "Harzklub e. V.",
+      "region": "Harz",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Harzer Försterstieg",
+      "art": "Fw",
+      "laenge_km": 60,
+      "verlauf": "Goslar, Lautenthal, Bad Grund, Buntenbock, Riefensbeek-Kamschlacken",
+      "verein": "Harzklub e. V.",
+      "region": "Harz",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Harzer Hexenstieg",
+      "art": "Fw",
+      "laenge_km": 100,
+      "verlauf": "Osterode, Brocken, Thale",
+      "verein": "Harzklub e. V.",
+      "region": "Harz",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Harzer Naturistenstieg",
+      "art": "Rw",
+      "laenge_km": 18,
+      "verlauf": "Wippra, Dankerode und zurück",
+      "verein": "",
+      "region": "Harz, Wipper-Tal",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Hasenstabweg",
+      "art": "Rw",
+      "laenge_km": 68,
+      "verlauf": "Rothenbuch, Lichtenau, Schollbrunn, Weibersbrunn, Rothenbuch",
+      "verein": "Tourismusverband Spessart-Mainland e.V",
+      "region": "Bayerischer Spessart",
+      "anmerkungen": "im Revier des Wilderers Hasenstab",
+      "schwierigkeit": "insges. über 1650 hm Auf- und Abstieg"
+    },
+    {
+      "name": "Hegau-Panorama-Weg",
+      "art": "Rw",
+      "laenge_km": 175,
+      "verlauf": "Engen – Stockach",
+      "verein": "Arbeitsgemeinschaft Hegau-Touristik e. V.",
+      "region": "Hegau",
+      "anmerkungen": "13 empfohlene Etappen",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Heide-Bieber-Tour",
+      "art": "Fw",
+      "laenge_km": 26,
+      "verlauf": "Bad Düben, Bad Schmiedeberg",
+      "verein": "Verein Dübener Heide e. V.",
+      "region": "Naturpark Dübener Heide",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Heidschnuckenweg",
+      "art": "Fw",
+      "laenge_km": 223,
+      "verlauf": "Hamburg-Neugraben-Fischbek, Celle",
+      "verein": "Verein Naturparkregion Lüneburger Heide e. V.",
+      "region": "Harburger Berge, Lüneburger Heide",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Herkulesweg",
+      "art": "Fw",
+      "laenge_km": 193,
+      "verlauf": "Battenberg, Breite Struth, Naturpark Kellerwald-Edersee, Waldecker Wald, Habichtswald, Kaufunger Wald, Soodener Bergland, Oberes Eichsfeld, Heilbad Heiligenstadt",
+      "verein": "Hessisch-Waldeckischer Gebirgs- und Heimatverein",
+      "region": "Nordhessen, West thüringen",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Hermannsweg",
+      "art": "Fw",
+      "laenge_km": 156,
+      "verlauf": "Teutoburger Wald (Rheine, Lippischer Velmerstot)",
+      "verein": "Teutoburger-Wald-Verein e. V.",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Hessenweg 1",
+      "art": "Fw",
+      "laenge_km": 320,
+      "verlauf": "Diemelsee, Korbach, Biedenkopf, Herborn, Weilburg, Limburg, Holzhausen, Eltville am Rhein",
+      "verein": "",
+      "region": "Upland, Burgwald, Lahn-Dill-Bergland, Taunus, Rheingau",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Hessenweg 2",
+      "art": "Fw",
+      "laenge_km": 404,
+      "verlauf": "Warburg, Homberg, Knüll, Alsfeld, Vogelsberg, Gelnhausen, Groß-Umstadt",
+      "verein": "Verband Deutscher Gebirgs- und Wandervereine – Landesverband Hessen e. V.",
+      "region": "",
+      "anmerkungen": "verläuft von Warburg bis Alsfeld auf dem durchgängig gekennzeichneten Löwenweg",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Hessenweg 3",
+      "art": "Fw",
+      "laenge_km": 253,
+      "verlauf": "Bad Karlshafen, Reinhardswald, Kassel, Bad Hersfeld, Rhön, Bad Brückenau",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Hessenweg 4",
+      "art": "Fw",
+      "laenge_km": 400,
+      "verlauf": "Marsberg, Edersee, Kellerwald, Marburg, Grünberg, Bad Nauheim, Frankfurt am Main, Darmstadt, Neckarsteinach",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Hessenweg 5",
+      "art": "Fw",
+      "laenge_km": 186,
+      "verlauf": "Dillenburg, Gießen, Vogelsberg, Schlüchtern, Bad Brückenau",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Hessenweg 6",
+      "art": "Fw",
+      "laenge_km": 130,
+      "verlauf": "Brilon, Korbach, Bad Arolsen, Hofgeismar, Reinhardshagen",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Hessenweg 7",
+      "art": "Fw",
+      "laenge_km": 155,
+      "verlauf": "Kaub, Rheingau, Wiesbaden, Biebrich, Darmstadt, Odenwald, Erbach",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Hessenweg 8",
+      "art": "Fw",
+      "laenge_km": 190,
+      "verlauf": "Korbach, Kellerwald, Bad Wildungen, Melsungen, Wanfried",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Hessenweg 9",
+      "art": "Fw",
+      "laenge_km": 184,
+      "verlauf": "Limburg, Gelnhausen, Katharinenbild, Lohr am Main",
+      "verein": "",
+      "region": "Hochtaunus, Wetterau, Spessart",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Hessenweg 10",
+      "art": "Fw",
+      "laenge_km": 134,
+      "verlauf": "Biedenkopf, Marburg, Schwalm, Haunetal, Rasdorf",
+      "verein": "",
+      "region": "Lahn-Dill-Bergland, Burgwald",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Hessenweg 11",
+      "art": "Fw",
+      "laenge_km": 314,
+      "verlauf": "Hanau, Kinzigtal, Vogelsberg, Alsfeld, Knüll, Kassel, Reinhardswald, Hoher Meißner, Oberes Wesertal, Bad Karlshafen",
+      "verein": "Deutsche Gebirgs- und Wandervereine – Landesverband Hessen e. V.",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Hessische Schweiz, Rundwanderweg",
+      "art": "Rw",
+      "laenge_km": 15.5,
+      "verlauf": "Rund um Hitzelrode",
+      "verein": "",
+      "region": "Werra-Meißner-Kreis",
+      "anmerkungen": "Premium-Wanderweg",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Heuberg-Allgäu-Weg",
+      "art": "Fw",
+      "laenge_km": 185,
+      "verlauf": "Spaichingen, Stockach, Meersburg, Friedrichshafen, Wangen im Allgäu, Isny, Schwarzer Grat",
+      "verein": "Schwäbischer Albverein",
+      "region": "Schwäbische Alb, Oberschwaben, Bodensee, Allgäu",
+      "anmerkungen": "Hauptwanderweg 9 des Schwäbischen Albvereins",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Hochrhein-Höhenweg",
+      "art": "Fw",
+      "laenge_km": 123,
+      "verlauf": "Basel, Wehr, Albbruck, Waldshut, Küssaburg, Rheinau, Schaffhausen",
+      "verein": "Schwarzwaldverein",
+      "region": "Südschwarzwald, Klettgau",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Hochrhöner",
+      "art": "Fw",
+      "laenge_km": 172,
+      "verlauf": "Bad Salzungen – Bad Kissingen, teilt sich in der Hochrhön (Route „Kuppenrhön“ und „Lange Rhön“)",
+      "verein": "Rhönklub",
+      "region": "Rhön",
+      "anmerkungen": "wird ergänzt durch Zubringerrouten (grün markiert) und mittlerweile 37 „Extratouren“ (Rundwanderwege, z. B. Extratour Kreuzberg und Extratour Milseburg, rot markiert)",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Höhenweg",
+      "art": "Fw",
+      "laenge_km": 48,
+      "verlauf": "Schwarzenbach an der Saale, Wunsiedel",
+      "verein": "Fichtelgebirgsverein",
+      "region": "Fichtelgebirge",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Hollenpfad",
+      "art": "",
+      "laenge_km": 9,
+      "verlauf": "Bödefeld, Golddorfroute",
+      "verein": "",
+      "region": "Sauerland",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Hotzenwald-Querweg",
+      "art": "Fw",
+      "laenge_km": 45,
+      "verlauf": "Schopfheim, Waldshut",
+      "verein": "Schwarzwaldverein",
+      "region": "Südschwarzwald",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Hünenweg",
+      "art": "Fw",
+      "laenge_km": 188,
+      "verlauf": "Osnabrück, Papenburg",
+      "verein": "Wiehengebirgsverband Weser-Ems",
+      "region": "Landkreis Osnabrück, Landkreis Emsland",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Irmgardispfad",
+      "art": "Tw",
+      "laenge_km": 10.7,
+      "verlauf": "Süchteln, Irmgardiskapelle, Süchtelner Höhen, Hoher Busch, Löh, Hoser, Bockert, Oberbeberich, Ompert, Ummer, Helenabrunn",
+      "verein": "Stadt Viersen",
+      "region": "Stadtgebiet Viersen",
+      "anmerkungen": "auch Pilgerpfad und Radwanderweg",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Jadeweg",
+      "art": "Fw",
+      "laenge_km": 130,
+      "verlauf": "Wilhelmshaven, Wildeshausen",
+      "verein": "Wiehengebirgsverband Weser-Ems",
+      "region": "Oldenburger Land",
+      "anmerkungen": "zwischen Wilhelmshaven und Petershörn Teil des E9",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Jakobswege in Deutschland",
+      "art": "Fw",
+      "laenge_km": "",
+      "verlauf": "verschiedene Wege – soweit möglich auf den Routen der mittelalterlichen Jakobspilger nach Santiago",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "Die Jakobswege in Deutschland bilden ein umfangreiches Wegenetz – bestehend aus einer Reihe von Routen mit Ausgangspunkten meist in Nord- und Ostdeutschland und zusammengesetzt aus über 30 Teilstrecken. Nach der Durchquerung von West- bzw. Süddeutschland besteht Anschluss an die Jakobswege in Frankreich und der Schweiz",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Jean Paul Weg",
+      "art": "Fw",
+      "laenge_km": 200,
+      "verlauf": "Joditz bei Hof bis Sanspareil bei Bayreuth",
+      "verein": "",
+      "region": "Oberfranken",
+      "anmerkungen": "161 Stationstafeln zum Leben und Werk des Dichters Jean Paul",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Johann-Ludwig-Klarmann-Weg",
+      "art": "Fw",
+      "laenge_km": 115,
+      "verlauf": "Steigerwald",
+      "verein": "Steigerwald e. V.",
+      "region": "Steigerwald",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Jubiläumsweg Bodenseekreis",
+      "art": "Fw",
+      "laenge_km": 111,
+      "verlauf": "Kressbronn, Neukirch, Meckenbeuren, Markdorf, Heiligenberg, Owingen, Überlingen",
+      "verein": "Landratsamt Bodenseekreis",
+      "region": "Bodenseekreis",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Jurasteig",
+      "art": "Fw / Rw",
+      "laenge_km": 230,
+      "verlauf": "Kelheim, Bad Abbach, Kallmünz, Schmidmühlen, Hohenburg, Deining, Dietfurt, Riedenburg, Kelheim",
+      "verein": "",
+      "region": "Oberpfälzer Jura",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert am 12. Januar 2008",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Kaiserstuhlpfad",
+      "art": "Tw",
+      "laenge_km": 21.7,
+      "verlauf": "Endingen, Eichelspitze, Totenkopf, Ihringen",
+      "verein": "Schwarzwaldverein",
+      "region": "Kaiserstuhl",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Kaiserweg",
+      "art": "Fw",
+      "laenge_km": 85,
+      "verlauf": "Bad Harzburg, Tilleda",
+      "verein": "",
+      "region": "Harz",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Kaiser-Otto-Weg",
+      "art": "Fw",
+      "laenge_km": 85,
+      "verlauf": "Meschede, Marsberg",
+      "verein": "Sauerländischer Gebirgsverein",
+      "region": "Sauerland",
+      "anmerkungen": "Teil des E1",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Kammweg",
+      "art": "Fw",
+      "laenge_km": 289,
+      "verlauf": "Geising im Osterzgebirge, Blankenstein in Thüringen",
+      "verein": "Tourismusverband Erzgebirge e. V., Tourismusverband Vogtland e. V.",
+      "region": "Erzgebirge, Vogtland",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Kandelhöhenweg",
+      "art": "Fw",
+      "laenge_km": 112,
+      "verlauf": "Oberkirch, Freiburg",
+      "verein": "Schwarzwaldverein",
+      "region": "Schwarzwald",
+      "anmerkungen": "",
+      "schwierigkeit": "mittel"
+    },
+    {
+      "name": "Kansteinweg",
+      "art": "Fw",
+      "laenge_km": 88,
+      "verlauf": "Hannover – Alfeld",
+      "verein": "Hannoverscher Wander- und Gebirgsverein",
+      "region": "Niedersachsen",
+      "anmerkungen": "Der Abschnitt im Saupark Springe ist nachts und im Winter bei Treibjagden gesperrt",
+      "schwierigkeit": "schwer"
+    },
+    {
+      "name": "Karl-Bachler-Weg",
+      "art": "Fw",
+      "laenge_km": 77,
+      "verlauf": "Bad Salzuflen, Vlotho, Kalletal, Rinteln, Bad Eilsen, Bückeburg, Rehburg-Loccum",
+      "verein": "Teutoburger-Wald-Verein",
+      "region": "Lipper Bergland, Wesergebirge, Rehburger Berge",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Kassel-Steig",
+      "art": "Rw",
+      "laenge_km": 157,
+      "verlauf": "rund um Kassel / Kasseler Becken",
+      "verein": "Hessisch-Waldeckischer Gebirgs- und Heimatverein",
+      "region": "Nordhessen, Südniedersachsen",
+      "anmerkungen": "12 Etappen",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Kellerwaldsteig",
+      "art": "Rw",
+      "laenge_km": 156,
+      "verlauf": "Kellerwald, Edersee",
+      "verein": "Hessisch-Waldeckischer Gebirgs- und Heimatverein",
+      "region": "Nordhessen",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert am 4. September 2009",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Keltenerlebnisweg",
+      "art": "Fw",
+      "laenge_km": 254,
+      "verlauf": "Meiningen, Dolmar, Gleichberge, Haßberge, Steigerwald, Bad Windsheim",
+      "verein": "",
+      "region": "Franken",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Keltenweg Nahe–Mosel",
+      "art": "Fw",
+      "laenge_km": 65,
+      "verlauf": "Kirn, Kirchberg – Haserich, Treis oder Senheim",
+      "verein": "Hunsrückverein",
+      "region": "Hunsrück",
+      "anmerkungen": "Alternativteilroute auch als Rundweg möglich",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Klingenpfad",
+      "art": "Fw",
+      "laenge_km": 70,
+      "verlauf": "rund um Solingen",
+      "verein": "Sauerländischer Gebirgsverein",
+      "region": "Bergisches Land",
+      "anmerkungen": "Der Klingenpfad gilt als einer der schönsten und abwechslungsreichsten Wanderwege im Bergischen Land.",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Klötzie-Stieg",
+      "art": "Rw",
+      "laenge_km": 26.5,
+      "verlauf": "Hitzacker, Elbufer, Elbtalaue, Wendland",
+      "verein": "Förderverein Wendlandrundweg",
+      "region": "Elbtalaue, Wendland",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Kölnpfad",
+      "art": "Rw",
+      "laenge_km": 171,
+      "verlauf": "rund um Köln ÖPNV erschlossen",
+      "verein": "Kölner Eifelverein von 1888",
+      "region": "",
+      "anmerkungen": "11 Etappen à 9 bis 22 km",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "König-Ludwig-Weg",
+      "art": "Fw",
+      "laenge_km": 95,
+      "verlauf": "Starnberger See, Füssen",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Kunigundenweg",
+      "art": "Fw",
+      "laenge_km": 110,
+      "verlauf": "Aub, Scheinfeld, Schlüsselfeld, Bamberg",
+      "verein": "Steigerwald-Verein e. V.",
+      "region": "Steigerwald",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Kunstwanderweg Hoher Fläming",
+      "art": "Tw",
+      "laenge_km": 33,
+      "verlauf": "Bad Belzig, Wiesenburg/Mark",
+      "verein": "Naturparkverein Fläming e. V.",
+      "region": "Fläming",
+      "anmerkungen": "10 km langer Kunstwanderweg XR zwischen Bahnhof Wiesenburg und Klein Glien auf dem digitale sowie bestehende Kunstwerke mit 3D-Animationen der Kunstschaffenden (sog. Avatare) durch Augmented-Reality -Technologie dargestellt wird.",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Landwehrweg",
+      "art": "Tw",
+      "laenge_km": 37,
+      "verlauf": "rund um Lemgo",
+      "verein": "Teutoburger-Wald-Verband, Lemgo Marketing",
+      "region": "Lipper Bergland",
+      "anmerkungen": "verläuft entlang der Lemgoer Landwehr aus dem 13. Jahrhundert",
+      "schwierigkeit": "mittel"
+    },
+    {
+      "name": "Lahn-Dill-Bergland-Pfad",
+      "art": "Fw",
+      "laenge_km": 86,
+      "verlauf": "Haiger bzw. Herborn, Dillenburg, Bicken, Eisemroth, Bad Endbach, Erdhausen, Damshausen, Marburg",
+      "verein": "Oberhessischer Gebirgsverein, Verein Lahn-Dill-Bergland",
+      "region": "Lahn-Dill-Bergland, Burgwald",
+      "anmerkungen": "Qualitätsweg Wanderbares Deutschland, Wanderpark mit 18 Extra-Touren zwischen 7 und 36 km Länge",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Lahnhöhen-Extratour",
+      "art": "Rw",
+      "laenge_km": 36,
+      "verlauf": "Buchenau, Allendorf, Friedensdorf, Dautphe, Wolfgruben, Wilhelmshütte, Biedenkopf, Katzenbach, Buchenau",
+      "verein": "Oberhessischer Gebirgsverein, Verein Lahn-Dill-Bergland",
+      "region": "Lahn-Dill-Bergland",
+      "anmerkungen": "Qualitätsweg Wanderbares Deutschland, längste Extratour des Wanderparks Lahn-Dill-Bergland",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Lahnhöhenweg",
+      "art": "Fw",
+      "laenge_km": 295,
+      "verlauf": "Netphen, Lahnstein",
+      "verein": "Sauerländischer Gebirgsverein, Oberhessischer Gebirgsverein",
+      "region": "Sauerland, Westerwald, Taunus",
+      "anmerkungen": "beidseitig der Lahn",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Lahnwanderweg",
+      "art": "Fw",
+      "laenge_km": 288,
+      "verlauf": "Netphen, Marburg, Gießen, Wetzlar, Weilburg, Limburg, Bad Ems, Lahnstein",
+      "verein": "Lahntal Tourismus Verband e. V., Wetzlar",
+      "region": "Lahntal",
+      "anmerkungen": "19 Etappen auf Höhenlagen, Hängen und Seitentäler entlang der Lahn",
+      "schwierigkeit": "mittel"
+    },
+    {
+      "name": "Lausitzer Schlange",
+      "art": "Fw",
+      "laenge_km": 330,
+      "verlauf": "Dresdner Heide, Radeberger Land, Sächsische Schweiz, Oberlausitzer Bergland, Zittauer Gebirge, Königshainer Berge, Oberlausitzer Heide- und Teichlandschaft, Lausitzer Seenland, Senftenberger See",
+      "verein": "",
+      "region": "Oberlausitz",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Lech-Höhenweg",
+      "art": "Fw",
+      "laenge_km": 84,
+      "verlauf": "Landsberg am Lech, Schongau, Füssen",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "Variante ab Augsburg",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Limeswanderweg (= Limesweg)",
+      "art": "Fw",
+      "laenge_km": 126,
+      "verlauf": "Rheinbrohl, Bad Ems, Lindschied",
+      "verein": "Westerwald-Verein,",
+      "region": "Westerwald, Lahn-Taunus",
+      "anmerkungen": "Teilabschnitt des Deutschen Limes-Wanderwegs",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Limes-Wanderweg",
+      "art": "Fw",
+      "laenge_km": 245,
+      "verlauf": "Miltenberg, Walldürn, Öhringen, Schwäbisch Gmünd, Wilburgstetten",
+      "verein": "Schwäbischer Albverein",
+      "region": "Maintal, Odenwald, Hohenloher Ebene, Schwäbischer Wald",
+      "anmerkungen": "Hauptwanderweg 6 des Schwäbischen Albvereins, Teilabschnitt des Deutschen Limes-Wanderwegs",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Limesweg",
+      "art": "Fw",
+      "laenge_km": 38.9,
+      "verlauf": "Wilburgstetten, Gunzenhausen",
+      "verein": "Fränkischer Albverein",
+      "region": "Hesselberg -Region",
+      "anmerkungen": "Weg 46 des Fränkischen Albvereins, Teilabschnitt des Deutschen Limes-Wanderwegs",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Limesweg",
+      "art": "Fw",
+      "laenge_km": 115,
+      "verlauf": "Gunzenhausen, Ellingen, Oberhochstatt, Denkendorf, Altmannstein, Eining, Bad Gögging",
+      "verein": "Tourismusverband Naturpark Altmühltal",
+      "region": "Naturpark Altmühltal",
+      "anmerkungen": "Teilabschnitt des Deutschen Limes-Wanderwegs",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Lönspfad",
+      "art": "Fw",
+      "laenge_km": 44,
+      "verlauf": "Horn-Bad Meinberg, Schlangen, Berlebeck, Augustdorf, Oerlinghausen",
+      "verein": "Teutoburger-Wald-Verein",
+      "region": "Teutoburger Wald",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Löwenpfade",
+      "art": "Rw",
+      "laenge_km": 3,
+      "verlauf": "Landkreis Göppingen",
+      "verein": "Landkreis Göppingen",
+      "region": "Landkreis Göppingen",
+      "anmerkungen": "alle 16 Löwenpfade sind als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "leicht – schwer"
+    },
+    {
+      "name": "Ludgerusweg",
+      "art": "Fw",
+      "laenge_km": 30,
+      "verlauf": "Tilbeck – Coesfeld, Kreis Coesfeld",
+      "verein": "Baumberge-Verein",
+      "region": "Baumberge",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert, zwei Etappen",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Lulluspfad",
+      "art": "Fw",
+      "laenge_km": 184,
+      "verlauf": "Herzhausen (Edersee), Bad Hersfeld, Hohe Sonne (Rennsteig)",
+      "verein": "Knüllgebirgsverein",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Märchenlandweg",
+      "art": "Fw",
+      "laenge_km": 430.8,
+      "verlauf": "Bad Karlshafen, Reinhardswald, Solling, Kassel, Kaufunger Wald, Söhre, Habichtswälder Bergland, Bad Karlshafen (zzgl. Nebenwege)",
+      "verein": "Hessisch-Waldeckischer Gebirgs- und Heimatverein",
+      "region": "Nordhessen, Südniedersachsen, Ostwestfalen",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Main-Donau-Bodensee-Weg",
+      "art": "Fw",
+      "laenge_km": 420,
+      "verlauf": "Würzburg, Rothenburg ob der Tauber, Crailsheim, Ellwangen, Heidenheim, Ulm, Ochsenhausen, Friedrichshafen",
+      "verein": "Schwäbischer Albverein",
+      "region": "Maintal, Taubergrund, Hohenloher Ebene, Schwäbische Alb, Oberschwaben, Bodensee",
+      "anmerkungen": "Hauptwanderweg 4 des Schwäbischen Albvereins",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Main-Donau-Weg",
+      "art": "Fw",
+      "laenge_km": 1140,
+      "verlauf": "Main, Donau",
+      "verein": "Verschiedene Vereine",
+      "region": "",
+      "anmerkungen": "4 Wegrouten & Querverbinder",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Main-Neckar-Rhein-Weg",
+      "art": "Fw",
+      "laenge_km": 540,
+      "verlauf": "Wertheim, Bad Mergentheim, Schwäbisch Hall, Esslingen am Neckar, Tübingen, Villingen-Schwenningen, Furtwangen, Lörrach",
+      "verein": "Schwäbischer Albverein bis Villingen-Schwenningen, ab da Schwarzwaldverein",
+      "region": "Taubergrund, Hohenloher Ebene, Schwäbischer Wald, Schwäbische Alb, Schwarzwald",
+      "anmerkungen": "Wanderweg Baden-Württemberg; Hauptwanderweg 3 des Schwäbischen Albvereins",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Main-Wanderweg",
+      "art": "Fw",
+      "laenge_km": 490,
+      "verlauf": "von der Quelle des Weißen Mains am Ochsenkopf (Fichtelgebirge) bis zur Mündung des Mains in den Rhein bei Mainz",
+      "verein": "",
+      "region": "Fichtelgebirge, Obermain-Jura, Hassberge, Fränkisches Weinland, Spessart-Mainland, Bayerischer Untermain, Hessischer Untermain",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Maintalhöhenringweg",
+      "art": "Fw",
+      "laenge_km": 160,
+      "verlauf": "begleitet den Main rund um das Mainviereck von Aschaffenburg bis Gemünden",
+      "verein": "",
+      "region": "Spessart, Bayerischer Untermain",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Malerweg",
+      "art": "Rw",
+      "laenge_km": 115,
+      "verlauf": "Pirna (Liebethal) bis Schmilka beiderseits der Elbe",
+      "verein": "Tourismusverband Sächsische Schweiz e. V.",
+      "region": "Sächsische Schweiz / Nationalpark Sächsische Schweiz",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Markgräfler Wiiwegli",
+      "art": "Fw",
+      "laenge_km": 81,
+      "verlauf": "St. Georgen, Weil am Rhein",
+      "verein": "Schwarzwaldverein",
+      "region": "Markgräflerland",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Maria-Croon-Weg",
+      "art": "Tw",
+      "laenge_km": 18,
+      "verlauf": "Orscholz bis Saarburg",
+      "verein": "Saarwald-Verein",
+      "region": "Saargau",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Marienwanderweg",
+      "art": "Fw",
+      "laenge_km": 20,
+      "verlauf": "Streithausen, Westerwald",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Martin-Luther-Weg",
+      "art": "Tw",
+      "laenge_km": 17,
+      "verlauf": "Schmalkalden bis Tambach-Dietharz",
+      "verein": "",
+      "region": "Thüringer Wald",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Masdascher Burgherrenweg",
+      "art": "Rw",
+      "laenge_km": 11.3,
+      "verlauf": "verläuft auf historischen Pfaden und bestehenden Wanderwegen und schließt das lebendige Dorf Mastershausen mit ein.",
+      "verein": "",
+      "region": "Rhein-Hunsrück-Kreis",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert am 27. Mai 2009",
+      "schwierigkeit": "mittel"
+    },
+    {
+      "name": "Maximiliansweg",
+      "art": "Fw",
+      "laenge_km": 359,
+      "verlauf": "Lindau, Berchtesgaden",
+      "verein": "",
+      "region": "Teil des E4",
+      "anmerkungen": "mittel bis schwer",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Merscheider Scherenweg",
+      "art": "Rw",
+      "laenge_km": 6.5,
+      "verlauf": "Merscheid (Solingen), Solingen",
+      "verein": "Merscheider Heimatverein",
+      "region": "Bergisches Land",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Milseburgweg",
+      "art": "Fw",
+      "laenge_km": 74,
+      "verlauf": "Fulda, Meiningen",
+      "verein": "Rhönklub",
+      "region": "Rhön",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert, Hauptwanderweg des Rhönklubs (HWO 3)",
+      "schwierigkeit": "mittel bis schwer"
+    },
+    {
+      "name": "Mittelweg",
+      "art": "Fw",
+      "laenge_km": 233,
+      "verlauf": "Pforzheim, Waldshut",
+      "verein": "Schwarzwaldverein",
+      "region": "Schwarzwald",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Moselhöhenweg",
+      "art": "Fw",
+      "laenge_km": 185,
+      "verlauf": "Mosel, Eifel, Hunsrück",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Moselsteig",
+      "art": "Fw",
+      "laenge_km": 365,
+      "verlauf": "Perl, Trier, Bernkastel-Kues, Koblenz - Deutsches Eck",
+      "verein": "Mosellandtouristik GmbH",
+      "region": "Mosel",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "leicht bis schwer"
+    },
+    {
+      "name": "Murgleiter",
+      "art": "Fw",
+      "laenge_km": 110,
+      "verlauf": "Entlang des Murgtals und seiner Höhen über: Gaggenau, Gernsbach, Forbach, Schönmünzach, Baiersbronn, Schliffkopf",
+      "verein": "",
+      "region": "Schwarzwald",
+      "anmerkungen": "Wandersiegel Premium-Wanderweg",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Naturparkweg",
+      "art": "Fw",
+      "laenge_km": 117,
+      "verlauf": "verbindet fünf Naturparke in Schleswig-Holstein",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Natursteig Sieg",
+      "art": "Fw",
+      "laenge_km": 196.4,
+      "verlauf": "entlang der Sieg (vorerst nur von Siegburg bis Mudersbach)",
+      "verein": "",
+      "region": "Bergisches Land, Siegerland",
+      "anmerkungen": "14 Etappen; seit 2013 als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Neanderlandsteig",
+      "art": "Fw / Rw",
+      "laenge_km": 240,
+      "verlauf": "Neviges, Velbert, Heiligenhaus, Essen-Kettwig, Mülheim an der Ruhr, Ratingen, Erkrath, Hilden, Monheim am Rhein, Reusrath",
+      "verein": "Kreis Mettmann",
+      "region": "Kreis Mettmann",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Neckarweg",
+      "art": "Fw",
+      "laenge_km": 474,
+      "verlauf": "entlang des Neckars: Schwenningen, Rottweil, Horb, Tübingen, Esslingen, Ludwigsburg, Heilbronn, Eberbach, Heidelberg, Mannheim",
+      "verein": "Schwäbischer Albverein, Odenwaldklub",
+      "region": "Baden-Württemberg",
+      "anmerkungen": "Das Teilstück von Bad Wimpfen bis Heidelberg wurde überarbeitet und 2012 unter dem Namen Neckarsteig als Qualitätsweg Wanderbares Deutschland neu eröffnet.",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "NiederrheinWeg",
+      "art": "Fw / Rw",
+      "laenge_km": 138,
+      "verlauf": "Moers, Neukirchen-Vluyn, Rheurdt, Kamp-Lintfort, Issum, Alpen, Rheinberg",
+      "verein": "Niederrheinische Berg- und Wanderfreunde e. V.",
+      "region": "Niederrhein",
+      "anmerkungen": "neu angelegt 2007–2008",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Niedersachsenweg",
+      "art": "Fw",
+      "laenge_km": 80,
+      "verlauf": "Detmold, Horn-Bad Meinberg, Blomberg, Bad Pyrmont, Hameln",
+      "verein": "Teutoburger-Wald-Verein",
+      "region": "Lipper Bergland",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Nibelungensteig",
+      "art": "Fw",
+      "laenge_km": 130,
+      "verlauf": "Zwingenberg, Freudenberg am Main (Odenwald)",
+      "verein": "Odenwaldklub e. V.",
+      "region": "Bergstraße, Odenwald",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Nord-Ostsee-Wanderweg",
+      "art": "Fw",
+      "laenge_km": 109,
+      "verlauf": "Meldorf, Rendsburg, Kiel",
+      "verein": "",
+      "region": "Elbmarschen, Geest, Naturpark Westensee",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Nord Süd Trail",
+      "art": "Fw",
+      "laenge_km": 3700,
+      "verlauf": "Sylt – Allgäu",
+      "verein": "Nord Süd Trail Initiative",
+      "region": "",
+      "anmerkungen": "verbindet vorhandene deutsche Fernwanderwege miteinander und bildet daraus den längsten Fernwanderweg Deutschlands",
+      "schwierigkeit": "leicht bis schwer"
+    },
+    {
+      "name": "Oberlausitzer Bergweg",
+      "art": "Fw",
+      "laenge_km": 118,
+      "verlauf": "Zittau, Oybin, Waltersdorf, Eibau, Beiersdorf, Sohland/Spree, Neukirch",
+      "verein": "Sächsischer Wandersport- und Bergsteigerverband e. V. (SWBV)",
+      "region": "Oberlausitzer Bergland, Zittauer Gebirge",
+      "anmerkungen": "Teil des Fernwanderwegs Zittau–Wernigerode",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Ortenauer Weinpfad",
+      "art": "Fw",
+      "laenge_km": 98,
+      "verlauf": "Gernsbach, Baden-Baden, Bühlertal, Kappelrodeck, Oberkirch, Gengenbach, Diersburg",
+      "verein": "Schwarzwaldverein",
+      "region": "Nordschwarzwald, Ortenau",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Nationaler Fernwanderweg Ostsee-Saaletalsperren",
+      "art": "Fw",
+      "laenge_km": 700,
+      "verlauf": "Von Rügen über die Lausitz und das Erzgebirge zu den Saaletalsperren",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "zwischen Sassnitz, Niesky Teil des E10, nutzt die Fernwanderwege Heringsdorf–Ziegenrück und Baruth (Mark)–Ziegenrück",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Ostfriesland-Wanderweg",
+      "art": "Fw",
+      "laenge_km": 97,
+      "verlauf": "Bensersiel, Papenburg",
+      "verein": "Wiehengebirgsverband Weser-Ems",
+      "region": "Ostfriesland",
+      "anmerkungen": "zwischen Aurich, Leer Teil des E9",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Östlicher Limesweg",
+      "art": "Fw",
+      "laenge_km": 44.3,
+      "verlauf": "Miltenberg, Osterburken",
+      "verein": "Odenwaldklub",
+      "region": "Odenwald",
+      "anmerkungen": "Hauptwanderweg 37 des Odenwaldklubs",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Ostweg",
+      "art": "Fw",
+      "laenge_km": 239,
+      "verlauf": "Pforzheim, Schaffhausen",
+      "verein": "Schwarzwaldverein",
+      "region": "Schwarzwald",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Pandurensteig",
+      "art": "Fw",
+      "laenge_km": 173,
+      "verlauf": "Waldmünchen, Passau",
+      "verein": "",
+      "region": "Bayerischer Wald",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Pankewanderweg",
+      "art": "",
+      "laenge_km": 34,
+      "verlauf": "entlang der Panke von der Mündung in die Spree bis zur Quelle Nahe Bernau",
+      "verein": "",
+      "region": "Berlin, Brandenburg",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Panoramaweg Baden-Baden",
+      "art": "Rw",
+      "laenge_km": 40,
+      "verlauf": "rund um Baden-Baden",
+      "verein": "",
+      "region": "Nordschwarzwald",
+      "anmerkungen": "Premium-Wanderweg",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Panoramaweg Taubertal",
+      "art": "Fw",
+      "laenge_km": 133,
+      "verlauf": "Höhenwege entlang des Taubertals",
+      "verein": "",
+      "region": "Tauberland",
+      "anmerkungen": "Wanderweg durch das Taubertal und das angrenzende Maintal. 5 Etappen und 4 Extratouren.",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Paul-Gerhardt-Weg",
+      "art": "Fw",
+      "laenge_km": 140,
+      "verlauf": "Entlang der Spree und der Dahme von Berlin-Mitte nach Lübben (Spreewald)",
+      "verein": "",
+      "region": "Dahme-Seenland",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Pfälzer Höhenweg",
+      "art": "Fw",
+      "laenge_km": 112,
+      "verlauf": "durch den nördlichen Pfälzerwald von Winnweiler bis Wolfstein",
+      "verein": "",
+      "region": "Pfälzerwald, Nordpfälzer Bergland",
+      "anmerkungen": "7 Etappen; als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Pfälzer Waldpfad",
+      "art": "Fw",
+      "laenge_km": 142,
+      "verlauf": "durch den Pfälzerwald – von Kaiserslautern bis zum Deutschen Weintor in Schweigen",
+      "verein": "",
+      "region": "Pfälzerwald,",
+      "anmerkungen": "9 Etappen; als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Pfälzer Weinsteig",
+      "art": "Fw",
+      "laenge_km": 153,
+      "verlauf": "entlang der Haardt oberhalb der Deutschen Weinstraße von der Burg Neuleiningen bis zum Deutschen Weintor in Schweigen",
+      "verein": "",
+      "region": "Pfälzerwald, Deutsche Weinstraße",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Pickerweg",
+      "art": "Fw",
+      "laenge_km": 107,
+      "verlauf": "Wildeshausen, Osnabrück",
+      "verein": "Wiehengebirgsverband Weser-Ems",
+      "region": "Niedersachsen",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Plackweg",
+      "art": "",
+      "laenge_km": 137,
+      "verlauf": "Hagen, Helminghausen",
+      "verein": "Sauerländischer Gebirgsverein",
+      "region": "Sauerland",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Point-Alpha-Weg",
+      "art": "Rw",
+      "laenge_km": 15,
+      "verlauf": "Ulstertal",
+      "verein": "",
+      "region": "Rhön",
+      "anmerkungen": "führt entlang der ehemaligen innerdeutschen Grenze – ist auch „Extratour“ des Hochrhöners",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Prälatenweg",
+      "art": "Fw",
+      "laenge_km": 145,
+      "verlauf": "Marktoberdorf, Weilheim, Kochel am See",
+      "verein": "",
+      "region": "Schwäbisch - oberbayerisches Voralpenland",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Prinzenweg",
+      "art": "Tw",
+      "laenge_km": 14,
+      "verlauf": "Tegernsee, Gindelalmschneid, Schliersee",
+      "verein": "",
+      "region": "Oberbayern",
+      "anmerkungen": "im Winter mit Schneeschuhen",
+      "schwierigkeit": "mittel"
+    },
+    {
+      "name": "Renchtalsteig",
+      "art": "Fw",
+      "laenge_km": 98,
+      "verlauf": "Bottenau, Mooskopf, Oppenau, Bad Peterstal, Alexanderschanze, Schliffkopf, Allerheiligen, Schauenburg",
+      "verein": "Schwarzwaldverein",
+      "region": "Schwarzwald",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "mittel"
+    },
+    {
+      "name": "Rennsteig",
+      "art": "Fw",
+      "laenge_km": 169,
+      "verlauf": "Thüringer Wald, Frankenwald",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "mittel"
+    },
+    {
+      "name": "Rennweg",
+      "art": "Fw",
+      "laenge_km": 103,
+      "verlauf": "Neheim, Paderborn",
+      "verein": "Sauerländischer Gebirgsverein",
+      "region": "Sauerland, Paderborner Land",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Rheinburgenweg",
+      "art": "Fw",
+      "laenge_km": 196,
+      "verlauf": "Rheintal linksrheinisch (Bingen am Rhein, Remagen)",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Rheinsteig",
+      "art": "Fw",
+      "laenge_km": 320,
+      "verlauf": "Rheintal rechtsrh. und Rheingau (Bonn, Wiesbaden)",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Rheinhöhenweg",
+      "art": "Fw",
+      "laenge_km": 512,
+      "verlauf": "Rheintal; linksrheinisch Bonn, Alsheim (240 km); Rheintal; rechtsrheinisch Bonn-Beuel, Wiesbaden (272 km)",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Rhön-Hauptwanderweg HSN (Main-Werra-Weg)",
+      "art": "Fw",
+      "laenge_km": 176,
+      "verlauf": "Gemünden am Main – Vacha an der Werra",
+      "verein": "Rhönklub",
+      "region": "Rhön",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Rhön-Hauptwanderweg HWO 1 (Kegelspiel -Weg)",
+      "art": "Fw",
+      "laenge_km": 100,
+      "verlauf": "Haunetal-Neukirchen – Schmalkalden-Wernshausen",
+      "verein": "Rhönklub",
+      "region": "Rhön",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Rhön-Hauptwanderweg HWO 2 (Burgen- und Schlösser-Weg)",
+      "art": "Fw",
+      "laenge_km": 96,
+      "verlauf": "Schlitz (Vogelsbergkreis) – Wasungen",
+      "verein": "Rhönklub",
+      "region": "Rhön",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Rhön-Hauptwanderweg HWO 3 (Milseburgweg)",
+      "art": "Fw",
+      "laenge_km": 74,
+      "verlauf": "Fulda – Meiningen",
+      "verein": "Rhönklub",
+      "region": "Rhön",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Rhön-Hauptwanderweg HWO 4 (Wasserkuppen -Weg)",
+      "art": "Fw",
+      "laenge_km": 96,
+      "verlauf": "Giesel (Neuhof) – Fladungen",
+      "verein": "Rhönklub",
+      "region": "Rhön",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Rhön-Hauptwanderweg HWO 5 (Heidelstein -Weg)",
+      "art": "Fw",
+      "laenge_km": 60,
+      "verlauf": "Neuhof (bei Fulda) – Ostheim vor der Rhön",
+      "verein": "Rhönklub",
+      "region": "Rhön",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Rhön-Hauptwanderweg HWO 6 (Kloster-Weg)",
+      "art": "Fw",
+      "laenge_km": 93,
+      "verlauf": "Schlüchtern – Mellrichstadt",
+      "verein": "Rhönklub",
+      "region": "Rhön",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Rhön-Hauptwanderweg HWO 7 (Kreuzberg -Weg)",
+      "art": "Fw",
+      "laenge_km": 96,
+      "verlauf": "Schwarzenfels – Bad Königshofen",
+      "verein": "Rhönklub",
+      "region": "Rhön",
+      "anmerkungen": "bis zum Kreuzberg auch Kardinal-Döpfner-Weg genannt",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Rhön-Höhen-Weg (RHW)",
+      "art": "Fw",
+      "laenge_km": 137,
+      "verlauf": "Burgsinn – Bad Salzungen an der Werra",
+      "verein": "Rhönklub",
+      "region": "Rhön",
+      "anmerkungen": "beginnt im Spessart, quert die Brückenauer Kuppenrhön und die Hohe Rhön (Schwarze Berge, Kreuzberg, östlicher Dammersfeldrücken, Lange Rhön) und endet in der Thüringer Vorderen Rhön.",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Römerkanal-Wanderweg",
+      "art": "Fw",
+      "laenge_km": 111,
+      "verlauf": "Nettersheim, Kall, Rheinbach, Hürth, Köln-Sülz",
+      "verein": "Eifelverein",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Römerpfad",
+      "art": "Rw",
+      "laenge_km": 10,
+      "verlauf": "in der Südeifel zwischen Butzweiler, Kordel, Ehrang",
+      "verein": "Heimatverein Butzweiler",
+      "region": "Landkreis Trier-Saarburg",
+      "anmerkungen": "Premium-Wanderweg seit 16. April 2009",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Rössleweg",
+      "art": "Rw",
+      "laenge_km": 54,
+      "verlauf": "Rund um Stuttgart",
+      "verein": "Verschönerungsverein Stuttgart und Schwäbischer Albverein",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Roswithaweg",
+      "art": "Fw",
+      "laenge_km": 189,
+      "verlauf": "Nienburg/Weser – Bad Gandersheim",
+      "verein": "Hannoverscher Wander- und Gebirgsverein",
+      "region": "Niedersachsen",
+      "anmerkungen": "Der Abschnitt im Saupark Springe ist nachts und im Winter bei Treibjagden gesperrt",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Rothaarsteig",
+      "art": "",
+      "laenge_km": 154,
+      "verlauf": "Brilon, Kahler Asten, Dillenburg",
+      "verein": "",
+      "region": "Rothaargebirge",
+      "anmerkungen": "Premium-Wanderweg seit 2011",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Rothaarweg",
+      "art": "Fw",
+      "laenge_km": 125,
+      "verlauf": "Brilon, Siegen",
+      "verein": "Sauerländischer Gebirgsverein",
+      "region": "Sauerland",
+      "anmerkungen": "Teil des E1",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Rotweinwanderweg",
+      "art": "",
+      "laenge_km": 35,
+      "verlauf": "entlang der Ahr (Bad Bodendorf, Altenahr)",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Ruhrhöhenweg",
+      "art": "Fw",
+      "laenge_km": 244,
+      "verlauf": "entlang der Ruhr (Quelle–Mündung)",
+      "verein": "Sauerländischer Gebirgsverein",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Wanderweg Rund um Merscheid",
+      "art": "Fw",
+      "laenge_km": 10.8,
+      "verlauf": "Merscheid (Solingen), Solingen",
+      "verein": "Merscheider Heimatverein",
+      "region": "Bergisches Land",
+      "anmerkungen": "",
+      "schwierigkeit": "mittelschwer"
+    },
+    {
+      "name": "Rund um den Wetzstein",
+      "art": "Tw",
+      "laenge_km": 12,
+      "verlauf": "am Wetzstein",
+      "verein": "Wanderfreunde Hatzbachtal 1982 e. V.",
+      "region": "Gilserberger Höhen",
+      "anmerkungen": "viele alte Grenzsteine",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Runenweg",
+      "art": "Fw",
+      "laenge_km": 74,
+      "verlauf": "Porta Westfalica, Schlangen",
+      "verein": "Teutoburger-Wald-Verein",
+      "region": "Weserbergland, Lipper Bergland, Teutoburger Wald",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Saar-Hunsrück-Steig",
+      "art": "Fw",
+      "laenge_km": 410,
+      "verlauf": "Naturpark Saar-Hunsrück",
+      "verein": "",
+      "region": "Perl, Mettlach, Hermeskeil, Trier oder Idar-Oberstein, Boppard",
+      "anmerkungen": "Wandersiegel",
+      "schwierigkeit": "mittel"
+    },
+    {
+      "name": "Saarland-Rundwanderweg",
+      "art": "Rw",
+      "laenge_km": 273,
+      "verlauf": "Saarland",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Sachsenweg",
+      "art": "Fw",
+      "laenge_km": 41,
+      "verlauf": "Burg Ravensberg bei Borgholzhausen → Burg Limberg bei Preußisch Oldendorf",
+      "verein": "Teutoburger-Wald-Verein",
+      "region": "Teutoburger Wald, Wiehengebirge",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Sächsischer Weinwanderweg",
+      "art": "Fw",
+      "laenge_km": 90,
+      "verlauf": "entlang der Elbe (Pirna, Diesbar)",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "’s Äpple",
+      "art": "Rw",
+      "laenge_km": 84,
+      "verlauf": "Rundweg um Backnang",
+      "verein": "Schwäbisches Mostviertel e. V.",
+      "region": "Naturpark Schwäbisch-Fränkischer Wald",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Sauerland-Höhenflug",
+      "art": "Fw",
+      "laenge_km": 251,
+      "verlauf": "Altena oder Meinerzhagen, Korbach",
+      "verein": "",
+      "region": "Naturpark Sauerland-Rothaargebirge, Naturpark Diemelsee",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Sauerland-Waldroute",
+      "art": "Fw",
+      "laenge_km": 240,
+      "verlauf": "Iserlohn, Marsberg, Diemelsee",
+      "verein": "",
+      "region": "Sauerland",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert am 2. September 2016 Der Wanderweg teilt sich ab Warstein in eine Nord- und Südschleife bis Marsberg.",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Schau-ins-Land-Weg",
+      "art": "Fw",
+      "laenge_km": 97,
+      "verlauf": "Bevergern im Kreis Steinfurt, Bielefeld",
+      "verein": "Teutoburger-Wald-Verein",
+      "region": "Tecklenburger Land, Teutoburger Wald",
+      "anmerkungen": "",
+      "schwierigkeit": "mittel"
+    },
+    {
+      "name": "Schlaubetal-Wanderweg",
+      "art": "Tw",
+      "laenge_km": 25.1,
+      "verlauf": "Müllrose",
+      "verein": "",
+      "region": "Landkreis Oder-Spree",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Schluchtensteig",
+      "art": "Fw",
+      "laenge_km": 118,
+      "verlauf": "Südschwarzwald von Stühlingen nach Wehr",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Schusteracht",
+      "art": "Rw",
+      "laenge_km": 63,
+      "verlauf": "rund um Preetz",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Schwäbisch-Allgäuer Wanderweg",
+      "art": "Fw",
+      "laenge_km": 150,
+      "verlauf": "Augsburg, Sonthofen",
+      "verein": "",
+      "region": "Bayerisch-Schwaben",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Schwäbische-Alb-Nordrand-Weg (Albsteig)",
+      "art": "Fw",
+      "laenge_km": 318,
+      "verlauf": "entlang des Nordrands der Schwäbischen Alb, Donauwörth, Tuttlingen",
+      "verein": "Schwäbischer Albverein",
+      "region": "Schwäbische Alb",
+      "anmerkungen": "Hauptwanderweg 1 des Schwäbischen Albvereins, als Qualitätsweg Wanderbares Deutschland zertifiziert im Juli 2009",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Schwäbische-Alb-Oberschwaben-Weg",
+      "art": "Fw",
+      "laenge_km": 240,
+      "verlauf": "Lorch, Göppingen, Wiesensteig, Zwiefaltendorf, Bad Saulgau, Friedrichshafen",
+      "verein": "Schwäbischer Albverein",
+      "region": "Schwäbischer Wald, Schwäbische Alb, Oberschwaben, Bodensee",
+      "anmerkungen": "Hauptwanderweg 7 des Schwäbischen Albvereins",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Schwäbische-Alb-Südrand-Weg",
+      "art": "Fw",
+      "laenge_km": 256,
+      "verlauf": "entlang des Südrands der Schwäbischen Alb, Donauwörth, Tuttlingen",
+      "verein": "Schwäbischer Albverein",
+      "region": "Schwäbische Alb",
+      "anmerkungen": "Hauptwanderweg 2 des Schwäbischen Albvereins",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Schwarzwald-Jura-Bodensee-Weg",
+      "art": "Fw",
+      "laenge_km": 113,
+      "verlauf": "St. Georgen, Villingen, Bad Dürrheim, Immendingen, Engen, Singen, Gaienhofen",
+      "verein": "Schwarzwaldverein",
+      "region": "Schwarzwald, Baar, Hegau",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Schwarzwald-Nordrandweg",
+      "art": "Fw",
+      "laenge_km": 55,
+      "verlauf": "Mühlacker, Öschelbronn, Pforzheim, Langensteinbach, Karlsruhe-Durlach",
+      "verein": "Schwarzwaldverein",
+      "region": "Nordschwarzwald",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Schwarzwald-Querweg Freiburg–Bodensee",
+      "art": "Fw",
+      "laenge_km": 179,
+      "verlauf": "Freiburg, Konstanz",
+      "verein": "Schwarzwaldverein",
+      "region": "Schwarzwald",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Schwarzwald-Querweg Gengenbach–Alpirsbach",
+      "art": "Fw",
+      "laenge_km": 51,
+      "verlauf": "Gengenbach, Alpirsbach",
+      "verein": "Schwarzwaldverein",
+      "region": "Schwarzwald",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Schwarzwald-Querweg Rottweil–Lahr",
+      "art": "Fw",
+      "laenge_km": 99,
+      "verlauf": "Rottweil, Lahr",
+      "verein": "Schwarzwaldverein",
+      "region": "Schwarzwald",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Schwarzwald-Querweg Schwarzwald–Kaiserstuhl–Rhein",
+      "art": "Fw",
+      "laenge_km": 109,
+      "verlauf": "Donaueschingen, Breisach",
+      "verein": "Schwarzwaldverein",
+      "region": "Schwarzwald",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Schwarzwald-Schwäbische-Alb-Allgäu-Weg",
+      "art": "Fw",
+      "laenge_km": 311,
+      "verlauf": "Pforzheim, Weil der Stadt, Tübingen, Obermarchtal, Biberach, Bad Wurzach, Schwarzer Grat",
+      "verein": "Schwäbischer Albverein",
+      "region": "Schönbuch, Schwäbische Alb, Oberschwaben, Allgäu",
+      "anmerkungen": "Hauptwanderweg 5 des Schwäbischen Albvereins",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "SeeGang",
+      "art": "Fw",
+      "laenge_km": 53,
+      "verlauf": "Überlingen, Konstanz",
+      "verein": "Schwarzwaldverein",
+      "region": "Bodensee",
+      "anmerkungen": "1. Strecken-Premiumwanderweg am Bodensee",
+      "schwierigkeit": "leicht bis anspruchsvoll"
+    },
+    {
+      "name": "Siegerlandweg",
+      "art": "Fw",
+      "laenge_km": 117,
+      "verlauf": "von Iserlohn nach Siegen",
+      "verein": "SGV",
+      "region": "Sauerland, Siegerland",
+      "anmerkungen": "deckt sich teils mit Rothaarsteig, Siegerland-Höhenring und Europäischem Fernwanderweg E1",
+      "schwierigkeit": "mittel"
+    },
+    {
+      "name": "Siegerland-Höhenring",
+      "art": "Rw",
+      "laenge_km": 142,
+      "verlauf": "umrundet den Alt-Landkreis Siegen – ohne größere Orte zu berühren",
+      "verein": "SGV",
+      "region": "Siegerland, Wittgenstein, Sauerland, Mittelhessen",
+      "anmerkungen": "6 Tagesetappen, deckt sich teils mit Rothaarsteig, Siegerlandweg und Europäischem Fernwanderweg E1",
+      "schwierigkeit": "mittel"
+    },
+    {
+      "name": "Sintfeld-Höhenweg",
+      "art": "Fw/Rw",
+      "laenge_km": 144,
+      "verlauf": "Büren, Lichtenau, Bad Wünnenberg",
+      "verein": "",
+      "region": "Paderborner Hochfläche",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Sirona-Weg",
+      "art": "Fw",
+      "laenge_km": 104,
+      "verlauf": "Bundenbach, Hoppstädten-Weiersbach",
+      "verein": "",
+      "region": "Naheland",
+      "anmerkungen": "keltisch-römische Erlebnisroute mit 26 Stationen",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Spessartbogen",
+      "art": "Fw",
+      "laenge_km": 91.5,
+      "verlauf": "Schlüchtern, Bad Orb, Langenselbold",
+      "verein": "Main-Kinzig-Kreis, Naturpark Hessischer Spessart",
+      "region": "Hessischer Spessart",
+      "anmerkungen": "als Premiumwanderweg zertifiziert",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Spessartweg 1",
+      "art": "Fw",
+      "laenge_km": 63,
+      "verlauf": "Aschaffenburg, Waldaschaff, Rothenbuch, Lohr am Main, Gemünden am Main",
+      "verein": "Tourismusverband Spessart-Mainland e.V",
+      "region": "",
+      "anmerkungen": "durchquert in West- – Ostrichtung den nördlichen Bayerischen Spessart",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Spessartweg 2",
+      "art": "Fw",
+      "laenge_km": 58,
+      "verlauf": "Heigenbrücken, Waldaschaff, Hessenthal, Dammbach, Stadtprozelten",
+      "verein": "Tourismusverband Spessart-Mainland e.V",
+      "region": "",
+      "anmerkungen": "durchquert in Nord- – Südrichtung den Bayerischen Spessart",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Spessartweg 3",
+      "art": "Fw",
+      "laenge_km": 60,
+      "verlauf": "Bad Soden-Salmünster, Bad Orb, Habichsthal, Heigenbrücken",
+      "verein": "Tourismusverband Spessart-Mainland e.V",
+      "region": "",
+      "anmerkungen": "durchquert in Nord- – Südrichtung den Hessischen Spessart, in Heigenbrücken Anschluss an den Spessartweg 2",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Spitzenwanderweg",
+      "art": "Rw",
+      "laenge_km": 201,
+      "verlauf": "Murnau am Staffelsee, Garmisch-Partenkirchen, Mittenwald, Grainau, Unterammergau, Bad Kohlgrub, Murnau",
+      "verein": "",
+      "region": "Zugspitz-Region",
+      "anmerkungen": "in 12 Etappen zu Berg- und Kirchtumspitzen",
+      "schwierigkeit": "führt im südlichen Teil durch alpines Gelände"
+    },
+    {
+      "name": "Sponheimer Weg",
+      "art": "Fw",
+      "laenge_km": 105,
+      "verlauf": "Naturpark Soonwald-Nahe Bad Kreuznach, Hunsrück, Traben-Trarbach / Mosel",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Steigerwald-Panoramaweg",
+      "art": "Fw",
+      "laenge_km": 161,
+      "verlauf": "Bad Windsheim, Iphofen, Ebrach, Eltmann, Bamberg",
+      "verein": "Steigerwald Tourismus e. V.",
+      "region": "Steigerwald",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "mittel"
+    },
+    {
+      "name": "Störtebekerweg",
+      "art": "Fw",
+      "laenge_km": 187,
+      "verlauf": "Leer, Wilhelmshaven",
+      "verein": "Wiehengebirgsverband Weser-Ems",
+      "region": "Ostfriesland",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Stormarnweg",
+      "art": "Fw",
+      "laenge_km": 108,
+      "verlauf": "Reinbek, Großensee, Ahrensburg, Bargteheide, Bad Oldesloe, Reinfeld, Lübeck",
+      "verein": "Wanderverband Norddeutschland, Wanderfreunde Stormarn",
+      "region": "Kreis Stormarn",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Streuobstroute",
+      "art": "Rw",
+      "laenge_km": 9,
+      "verlauf": "Dautphe",
+      "verein": "Oberhessischer Gebirgsverein, Verein Lahn-Dill-Bergland",
+      "region": "Lahn-Dill-Bergland",
+      "anmerkungen": "Qualitätsweg Wanderbares Deutschland, Extratour des Wanderparks Lahn-Dill-Bergland",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Stromberg-Schwäbischer-Wald-Weg",
+      "art": "Fw",
+      "laenge_km": 170,
+      "verlauf": "Pforzheim, Marbach, Backnang, Lorch",
+      "verein": "Schwäbischer Albverein",
+      "region": "Naturpark Stromberg-Heuchelberg, Schwäbischer Wald",
+      "anmerkungen": "Hauptwanderweg 10 des Schwäbischen Albvereins",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Studentenpfad",
+      "art": "Fw",
+      "laenge_km": 253,
+      "verlauf": "verbindet Uni-Städte: Göttingen, Kassel, Marburg, Gießen",
+      "verein": "Hessisch-Waldeckischer Gebirgs- und Heimatverein",
+      "region": "Nordhessen",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Talweg",
+      "art": "Fw",
+      "laenge_km": 50,
+      "verlauf": "Werther (Westf.), Bad Oeynhausen",
+      "verein": "Teutoburger-Wald-Verein",
+      "region": "Ravensberger Hügelland, Teutoburger Wald, Osnabrücker Land",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Talsperrenweg",
+      "art": "Fw",
+      "laenge_km": 174,
+      "verlauf": "Hagen, Biedenkopf",
+      "verein": "Sauerländischer Gebirgsverein",
+      "region": "Sauerland, Bergisches Land, Lahn-Dill-Bergland",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Talsperrenweg Zeulenroda",
+      "art": "Rw",
+      "laenge_km": 45,
+      "verlauf": "rund um die Talsperre Zeulenroda und die Weidatalsperre",
+      "verein": "",
+      "region": "Thüringer Vogtland",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Thüringenweg",
+      "art": "Fw",
+      "laenge_km": 410,
+      "verlauf": "Altenburg, Creuzburg",
+      "verein": "Thüringer Gebirgs- und Wanderverein",
+      "region": "Thüringen",
+      "anmerkungen": "23 Etappen",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Töddenweg",
+      "art": "Fw",
+      "laenge_km": 122,
+      "verlauf": "Osnabrück, Bad Bentheim, Grenze Niederlande",
+      "verein": "Wiehengebirgsverband Weser-Ems",
+      "region": "",
+      "anmerkungen": "Teil des E11",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Traumpfade",
+      "art": "Tw",
+      "laenge_km": 3,
+      "verlauf": "z. B. ab Koblenz, Andernach, Kell, Mayen, Bendorf, Sayn und Rhens",
+      "verein": "Rhein-Mosel-Eifel-Touristik, Landkreis Mayen-Koblenz",
+      "region": "Hohe Eifel, Osteifel Pellenz, Maifeld (Neuwieder Becken), (Westerwald)",
+      "anmerkungen": "26 Rundwanderwege und 6 Spazierwege durch Weinberge, Fluss-, Wald- und Vulkanlandschaften",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Universitätswanderweg",
+      "art": "Tw",
+      "laenge_km": 30,
+      "verlauf": "im Ardeygebirge zwischen Technischer Universität Dortmund und Ruhr-Universität Bochum",
+      "verein": "Sauerländischer Gebirgsverein",
+      "region": "Ruhrgebiet",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Urwaldsteig Edersee",
+      "art": "Rw",
+      "laenge_km": 68,
+      "verlauf": "Edersee, Kellerwald",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert am 4. September 2009",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Via Claudia Augusta",
+      "art": "Fw",
+      "laenge_km": 700,
+      "verlauf": "Donauwörth, Augsburg, Füssen, Tirol, Trient, Trento Ostiglia",
+      "verein": "Verein Via Claudia Augusta Bavariae e. V.",
+      "region": "Bayern, Österreich, Italien",
+      "anmerkungen": "historische Route mit Sightseeingmöglichkeiten",
+      "schwierigkeit": "mittel"
+    },
+    {
+      "name": "Viaduktwanderweg",
+      "art": "Tw",
+      "laenge_km": 30,
+      "verlauf": "rund um den Altenbekener Viadukt",
+      "verein": "",
+      "region": "Eggegebirge",
+      "anmerkungen": "seit 2009 als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "mittel"
+    },
+    {
+      "name": "Vogtland Panorama Weg",
+      "art": "Rw",
+      "laenge_km": 228,
+      "verlauf": "Vogtland",
+      "verein": "",
+      "region": "Vogtland",
+      "anmerkungen": "2005 erstmals und 2008 erneut als Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Wacholderwanderweg",
+      "art": "Tw",
+      "laenge_km": 26,
+      "verlauf": "Langscheid, Arft, Langenfeld, Siebenbach",
+      "verein": "",
+      "region": "Ost eifel",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Waldskulpturenweg",
+      "art": "Tw",
+      "laenge_km": 23.4,
+      "verlauf": "Bad Berleburg, Schmallenberg",
+      "verein": "Kunststiftung NRW",
+      "region": "Rothaargebirge",
+      "anmerkungen": "",
+      "schwierigkeit": "schwer"
+    },
+    {
+      "name": "Wallenstein-Tilly-Weg",
+      "art": "Fw",
+      "laenge_km": 93,
+      "verlauf": "Königstein-Pruihausen, Eslarn",
+      "verein": "",
+      "region": "Oberpfalz",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Wanderbahn",
+      "art": "Tw",
+      "laenge_km": 28,
+      "verlauf": "auf ehemaliger Eisenbahnstrecke von Mosbach nach Mudau",
+      "verein": "Odenwaldklub",
+      "region": "Odenwald",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Wandertrilogie Allgäu",
+      "art": "Fw",
+      "laenge_km": 876,
+      "verlauf": "Allgäu, Tannheimer Tal",
+      "verein": "",
+      "region": "Allgäu, Tannheimer Tal",
+      "anmerkungen": "Weitwanderwegenetz über 3 Höhenlagen",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Wanderweg Bennigsen-Lauenau",
+      "art": "Tw",
+      "laenge_km": 27,
+      "verlauf": "Bennigsen – Lauenau",
+      "verein": "Hannoverscher Wander- und Gebirgsverein",
+      "region": "Niedersachsen",
+      "anmerkungen": "Variante: Bennigsen – Bad Nenndorf (39 km). Ehemaliger Deister -Kammweg.",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Wanderweg der Deutschen Einheit",
+      "art": "Fw",
+      "laenge_km": 1080,
+      "verlauf": "Görlitz, Aachen",
+      "verein": "Sauerländischer Gebirgsverein",
+      "region": "",
+      "anmerkungen": "Quer durch Deutschland von Ost nach West",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Wasserfallsteig",
+      "art": "Tw",
+      "laenge_km": 10.8,
+      "verlauf": "Feldberg-Hebelhof, Fahler Wasserfall, Brandenberg, Todtnau, Todtnauberg",
+      "verein": "Schwarzwaldverein",
+      "region": "Schwarzwald",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert am 15. Juni 2010",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Wehratal-Erlebnispfad",
+      "art": "Tw",
+      "laenge_km": 27,
+      "verlauf": "Todtmoos, Wehr",
+      "verein": "",
+      "region": "Schwarzwald",
+      "anmerkungen": "Lehrpfad",
+      "schwierigkeit": "leicht bis mittel"
+    },
+    {
+      "name": "Weinwanderweg Rhein-Nahe",
+      "art": "Fw",
+      "laenge_km": 98,
+      "verlauf": "Naheland; zwischen Kirn, Bingen am Rhein durch Nahe-Weinbauregion",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Wendlandrundweg",
+      "art": "Rw",
+      "laenge_km": 183,
+      "verlauf": "Hitzacker, Zernien, Lüchow, Gartow, Elbe",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Werra-Burgen-Steig",
+      "art": "Fw",
+      "laenge_km": 128,
+      "verlauf": "Hann. Münden bis zur Tannenburg bei Nentershausen",
+      "verein": "",
+      "region": "Hessen",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Weserberglandweg",
+      "art": "Fw",
+      "laenge_km": 225,
+      "verlauf": "",
+      "verein": "",
+      "region": "Weserbergland",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Weserweg",
+      "art": "Fw",
+      "laenge_km": 193,
+      "verlauf": "entlang der Weser, von Porta Westfalica nach Bremen",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Westerwaldsteig",
+      "art": "Fw",
+      "laenge_km": 235,
+      "verlauf": "Herborn, Altenkirchen, Bad Hönningen",
+      "verein": "Westerwald-Verein",
+      "region": "Westerwald",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Westfalenwanderweg",
+      "art": "Fw",
+      "laenge_km": 210,
+      "verlauf": "Hattingen, Altenbeken",
+      "verein": "Sauerländischer Gebirgsverein",
+      "region": "Ruhrgebiet, Paderborner Land",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Westpfalz-Wanderweg",
+      "art": "Rw",
+      "laenge_km": 409,
+      "verlauf": "durch die Westpfalz",
+      "verein": "Pfälzerwald-Verein",
+      "region": "Westpfalz",
+      "anmerkungen": "15 Etappen; Weg kann durch Querspange geteilt werden",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Westweg (Schwarzwald)",
+      "art": "Fw",
+      "laenge_km": 284,
+      "verlauf": "Pforzheim, Basel",
+      "verein": "Schwarzwaldverein",
+      "region": "Schwarzwald",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert; Teil des E1",
+      "schwierigkeit": "mittel bis schwer"
+    },
+    {
+      "name": "Westweg (Fichtelgebirge)",
+      "art": "Fw",
+      "laenge_km": 76,
+      "verlauf": "am Westrand des Fichtelgebirges von Münchberg zur Rauhen Kulm",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Wildbahn",
+      "art": "Fw",
+      "laenge_km": 210,
+      "verlauf": "Weserbergland, Rhön (Höxter, Kassel, Hünfeld)",
+      "verein": "Knüllgebirgsverein, Hessisch-Waldeckischer Gebirgs- und Heimatverein",
+      "region": "",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Winterberger Hochtour",
+      "art": "Rw",
+      "laenge_km": 85.8,
+      "verlauf": "Winterberg, Kahler Asten, Großes Bildchen, Schloss Siedlinghausen, Neuer Hagen, Siedlinghausen, Niedersfeld, Langenberg, Hildfeld, Grönebach, Elkeringhausen, Züschen, Ziegenhelle, Mollseifen, Hoheleye, Langewiese, Neuastenberg, Lenneplätze, Kahler Asten (Winterberg)",
+      "verein": "",
+      "region": "Rothaargebirge",
+      "anmerkungen": "Wandersiegel Wanderbares Deutschland",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Wittekindsweg",
+      "art": "Fw",
+      "laenge_km": 90,
+      "verlauf": "Wiehengebirge (Porta Westfalica, Lübbecke, Osnabrück)",
+      "verein": "",
+      "region": "",
+      "anmerkungen": "Teil des E11",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Wupperweg",
+      "art": "Fw",
+      "laenge_km": 125,
+      "verlauf": "entlang der Wupper (Quelle–Mündung)",
+      "verein": "Sauerländischer Gebirgsverein",
+      "region": "Bergisches Land",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Württembergischer Wein-Wanderweg",
+      "art": "Fw",
+      "laenge_km": 470,
+      "verlauf": "Aub, Heilbronn, Esslingen, Württemberger Weinbaugebiet",
+      "verein": "Schwäbischer Albverein",
+      "region": "Franken, Hohenlohe, nördliches Neckarland",
+      "anmerkungen": "",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Würzburger-Haus-Weg",
+      "art": "Fw",
+      "laenge_km": 70,
+      "verlauf": "Würzburg, Arnstein (Unterfranken), Fuchsstadt, Oberthulba, Riedenberg",
+      "verein": "Rhönklub",
+      "region": "Fränkisches Weinland, Rhön",
+      "anmerkungen": "Von Würzburg zum Würzburger Haus in den Schwarzen Bergen der Bayer. Rhön (östlich der Gemeinde Riedenberg)",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Zeugenbergrunde",
+      "art": "Rw",
+      "laenge_km": 48.3,
+      "verlauf": "rund um Neumarkt in der Oberpfalz",
+      "verein": "Stadt Neumarkt in der Oberpfalz",
+      "region": "Oberpfälzer Jura",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert am 31. August 2007",
+      "schwierigkeit": "leicht"
+    },
+    {
+      "name": "Zittau–Wernigerode",
+      "art": "Fw",
+      "laenge_km": 526,
+      "verlauf": "Zittauer Gebirge, Lilienstein, Schwartenberg, Erzgebirge, Vogtland, Thüringer Wald, Harz",
+      "verein": "",
+      "region": "Oberlausitz, Sächsische Schweiz, Erzgebirge, Thüringer Wald, Harz",
+      "anmerkungen": "1. Abschnitt Oberlausitzer Bergweg",
+      "schwierigkeit": ""
+    },
+    {
+      "name": "Zweitälersteig",
+      "art": "Rw",
+      "laenge_km": 108,
+      "verlauf": "Waldkirch, Kandel, Simonswald, Oberprechtal, Höhenhäuser, Waldkirch",
+      "verein": "Schwarzwaldverein",
+      "region": "Schwarzwald",
+      "anmerkungen": "als Qualitätsweg Wanderbares Deutschland zertifiziert am 15. Januar 2011",
+      "schwierigkeit": "mittel bis schwer"
+    },
+    {
+      "name": "Nordpfade",
+      "art": "Rw",
+      "laenge_km": 358,
+      "verlauf": "Landkreis Rotenburg (Wümme)",
+      "verein": "Touristikverband Landkreis Rotenburg (Wümme) e. V.",
+      "region": "Landkreis Rotenburg (Wümme)",
+      "anmerkungen": "24 Rundwege zwischen 6 und 32 km lang, 5 davon sind Qualitätsweg Wanderbares Deutschland zertifiziert",
+      "schwierigkeit": "leicht"
+    }
+  ],
+  "meta": {
+    "title": "Wanderwege in Deutschland - Free Download",
+    "description": "Fernwanderwege und Wanderwege in Deutschland mit Art, Länge (km), Verlauf, Trägerverein, Region und Schwierigkeitsgrad. Contains 301 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Wanderwege in Deutschland | ListBase",
+    "seo_description": "Download Wanderwege in Deutschland — 301 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 301 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_von_Wanderwegen_in_Deutschland"
+    ]
+  }
+}
