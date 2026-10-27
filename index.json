@@ -1,9 +1,13 @@
 {
   "lang": "de",
-  "generated": "2026-10-27T02:21:59.004Z",
-  "total_datasets": 466,
-  "total_records": 1865260,
+  "generated": "2026-10-27T02:22:01.512Z",
+  "total_datasets": 467,
+  "total_records": 1865379,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 15
@@ -70,6 +74,36 @@
     }
   ],
   "datasets": [
+    {
+      "id": "de-at-genussregionen",
+      "name": "Genuss Regionen Österreichs",
+      "category": "agriculture",
+      "record_count": 119,
+      "columns": [
+        "land",
+        "genussregion",
+        "region",
+        "nr",
+        "lebensmittel",
+        "produktklasse",
+        "betreuung",
+        "offenlegung",
+        "seit"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Genussregionen_Österreichs",
+      "updated": "2026-10",
+      "size": 46448,
+      "files": {
+        "csv": {
+          "name": "de-at-genussregionen_DE.csv",
+          "size": 22827
+        },
+        "xlsx": {
+          "name": "de-at-genussregionen_DE.xlsx",
+          "size": 18987
+        }
+      }
+    },
     {
       "id": "de-abteien",
       "name": "Abteien in Deutschland / Abbeys in Germany",
