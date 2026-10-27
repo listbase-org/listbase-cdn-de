@@ -1,0 +1,1040 @@
+{
+  "id": "de-ch-bundesraete",
+  "name": "Mitglieder des Schweizerischen Bundesrates",
+  "title": "Mitglieder des Schweizerischen Bundesrates",
+  "description": "Alle Mitglieder des Schweizer Bundesrates seit 1848 mit Amtsjahren, Lebensdaten, Kanton und Partei.",
+  "category": "politics",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Schweizerischen_Bundesrates",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Schweizerischen_Bundesrates",
+  "updated": "2026-10",
+  "record_count": 123,
+  "columns": [
+    {
+      "key": "nummer",
+      "label": "Nummer",
+      "type": "number"
+    },
+    {
+      "key": "amtsjahre",
+      "label": "Amtsjahre",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "lebensdaten",
+      "label": "Lebensdaten",
+      "type": "string"
+    },
+    {
+      "key": "kanton",
+      "label": "Kanton",
+      "type": "string"
+    },
+    {
+      "key": "partei",
+      "label": "Partei",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nummer": "1",
+      "amtsjahre": "1848–1861",
+      "name": "Jonas Furrer",
+      "lebensdaten": "1805–1861",
+      "kanton": "Zürich",
+      "partei": "freis."
+    },
+    {
+      "nummer": "2",
+      "amtsjahre": "1848–1854",
+      "name": "Ulrich Ochsenbein",
+      "lebensdaten": "1811–1890",
+      "kanton": "Bern",
+      "partei": "freis."
+    },
+    {
+      "nummer": "3",
+      "amtsjahre": "1848–1855",
+      "name": "Henri Druey",
+      "lebensdaten": "1799–1855",
+      "kanton": "Waadt",
+      "partei": "freis."
+    },
+    {
+      "nummer": "4",
+      "amtsjahre": "1848–1855",
+      "name": "Josef Munzinger",
+      "lebensdaten": "1791–1855",
+      "kanton": "Solothurn",
+      "partei": "freis."
+    },
+    {
+      "nummer": "5",
+      "amtsjahre": "1848–1857",
+      "name": "Stefano Franscini",
+      "lebensdaten": "1796–1857",
+      "kanton": "Tessin",
+      "partei": "freis."
+    },
+    {
+      "nummer": "6",
+      "amtsjahre": "1848–1866",
+      "name": "Friedrich Frey-Herosé",
+      "lebensdaten": "1801–1873",
+      "kanton": "Aargau",
+      "partei": "freis."
+    },
+    {
+      "nummer": "7",
+      "amtsjahre": "1848–1875",
+      "name": "Wilhelm Matthias Naeff",
+      "lebensdaten": "1802–1881",
+      "kanton": "St. Gallen",
+      "partei": "freis."
+    },
+    {
+      "nummer": "8",
+      "amtsjahre": "1855–1863",
+      "name": "Jakob Stämpfli",
+      "lebensdaten": "1820–1879",
+      "kanton": "Bern",
+      "partei": "freis."
+    },
+    {
+      "nummer": "9",
+      "amtsjahre": "1855–1867",
+      "name": "Constant Fornerod",
+      "lebensdaten": "1819–1899",
+      "kanton": "Waadt",
+      "partei": "freis."
+    },
+    {
+      "nummer": "10",
+      "amtsjahre": "1855–1875",
+      "name": "Josef Martin Knüsel",
+      "lebensdaten": "1813–1889",
+      "kanton": "Luzern",
+      "partei": "freis."
+    },
+    {
+      "nummer": "11",
+      "amtsjahre": "1857–1864",
+      "name": "Giovanni Battista Pioda",
+      "lebensdaten": "1808–1882",
+      "kanton": "Tessin",
+      "partei": "freis."
+    },
+    {
+      "nummer": "12",
+      "amtsjahre": "1861–1872",
+      "name": "Jakob Dubs",
+      "lebensdaten": "1822–1879",
+      "kanton": "Zürich",
+      "partei": "freis."
+    },
+    {
+      "nummer": "13",
+      "amtsjahre": "1864–1895",
+      "name": "Karl Schenk",
+      "lebensdaten": "1823–1895",
+      "kanton": "Bern",
+      "partei": "freis."
+    },
+    {
+      "nummer": "14",
+      "amtsjahre": "1864–1872",
+      "name": "Jean-Jacques Challet-Venel",
+      "lebensdaten": "1811–1893",
+      "kanton": "Genf",
+      "partei": "freis."
+    },
+    {
+      "nummer": "15",
+      "amtsjahre": "1867–1891",
+      "name": "Emil Welti",
+      "lebensdaten": "1825–1899",
+      "kanton": "Aargau",
+      "partei": "freis."
+    },
+    {
+      "nummer": "16",
+      "amtsjahre": "1867–1869",
+      "name": "Victor Ruffy",
+      "lebensdaten": "1823–1869",
+      "kanton": "Waadt",
+      "partei": "freis."
+    },
+    {
+      "nummer": "17",
+      "amtsjahre": "1870–1875",
+      "name": "Paul Cérésole",
+      "lebensdaten": "1832–1905",
+      "kanton": "Waadt",
+      "partei": "freis."
+    },
+    {
+      "nummer": "18",
+      "amtsjahre": "1872–1878",
+      "name": "Johann Jakob Scherer",
+      "lebensdaten": "1825–1878",
+      "kanton": "Zürich",
+      "partei": "freis."
+    },
+    {
+      "nummer": "19",
+      "amtsjahre": "1873–1875",
+      "name": "Eugène Borel",
+      "lebensdaten": "1835–1892",
+      "kanton": "Neuenburg",
+      "partei": "freis."
+    },
+    {
+      "nummer": "20",
+      "amtsjahre": "1876–1878",
+      "name": "Joachim Heer",
+      "lebensdaten": "1825–1879",
+      "kanton": "Glarus",
+      "partei": "freis."
+    },
+    {
+      "nummer": "21",
+      "amtsjahre": "1876–1880",
+      "name": "Fridolin Anderwert",
+      "lebensdaten": "1828–1880",
+      "kanton": "Thurgau",
+      "partei": "freis."
+    },
+    {
+      "nummer": "22",
+      "amtsjahre": "1876–1890",
+      "name": "Bernhard Hammer",
+      "lebensdaten": "1822–1907",
+      "kanton": "Solothurn",
+      "partei": "freis."
+    },
+    {
+      "nummer": "23",
+      "amtsjahre": "1876–1892",
+      "name": "Numa Droz",
+      "lebensdaten": "1844–1899",
+      "kanton": "Neuenburg",
+      "partei": "freis."
+    },
+    {
+      "nummer": "24",
+      "amtsjahre": "1879–1883",
+      "name": "Simeon Bavier",
+      "lebensdaten": "1825–1896",
+      "kanton": "Graubünden",
+      "partei": "freis."
+    },
+    {
+      "nummer": "25",
+      "amtsjahre": "1879–1888",
+      "name": "Wilhelm Hertenstein",
+      "lebensdaten": "1825–1888",
+      "kanton": "Zürich",
+      "partei": "freis."
+    },
+    {
+      "nummer": "26",
+      "amtsjahre": "1881–1893",
+      "name": "Louis Ruchonnet",
+      "lebensdaten": "1834–1893",
+      "kanton": "Waadt",
+      "partei": "freis."
+    },
+    {
+      "nummer": "27",
+      "amtsjahre": "1883–1912",
+      "name": "Adolf Deucher",
+      "lebensdaten": "1831–1912",
+      "kanton": "Thurgau",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "28",
+      "amtsjahre": "1889–1902",
+      "name": "Walter Hauser",
+      "lebensdaten": "1837–1902",
+      "kanton": "Zürich",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "29",
+      "amtsjahre": "1891–1897",
+      "name": "Emil Frey",
+      "lebensdaten": "1838–1922",
+      "kanton": "Basel-Landschaft",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "30",
+      "amtsjahre": "1892–1908",
+      "name": "Josef Zemp",
+      "lebensdaten": "1834–1908",
+      "kanton": "Luzern",
+      "partei": "kath.-kons."
+    },
+    {
+      "nummer": "31",
+      "amtsjahre": "1893–1899",
+      "name": "Adrien Lachenal",
+      "lebensdaten": "1849–1918",
+      "kanton": "Genf",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "32",
+      "amtsjahre": "1894–1899",
+      "name": "Eugène Ruffy",
+      "lebensdaten": "1854–1919",
+      "kanton": "Waadt",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "33",
+      "amtsjahre": "1895–1919",
+      "name": "Eduard Müller",
+      "lebensdaten": "1848–1919",
+      "kanton": "Bern",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "34",
+      "amtsjahre": "1897–1911",
+      "name": "Ernst Brenner",
+      "lebensdaten": "1856–1911",
+      "kanton": "Basel-Stadt",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "35",
+      "amtsjahre": "1900–1912",
+      "name": "Robert Comtesse",
+      "lebensdaten": "1847–1922",
+      "kanton": "Neuenburg",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "36",
+      "amtsjahre": "1900–1912",
+      "name": "Marc Ruchet",
+      "lebensdaten": "1853–1912",
+      "kanton": "Waadt",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "37",
+      "amtsjahre": "1903–1917",
+      "name": "Ludwig Forrer",
+      "lebensdaten": "1845–1921",
+      "kanton": "Zürich",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "38",
+      "amtsjahre": "1908–1911",
+      "name": "Josef Anton Schobinger",
+      "lebensdaten": "1849–1911",
+      "kanton": "Luzern",
+      "partei": "kath.-kons."
+    },
+    {
+      "nummer": "39",
+      "amtsjahre": "1911–1917",
+      "name": "Arthur Hoffmann",
+      "lebensdaten": "1857–1927",
+      "kanton": "St. Gallen",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "40",
+      "amtsjahre": "1912–1940",
+      "name": "Giuseppe Motta",
+      "lebensdaten": "1871–1940",
+      "kanton": "Tessin",
+      "partei": "SKVP"
+    },
+    {
+      "nummer": "41",
+      "amtsjahre": "1912–1913",
+      "name": "Louis Perrier",
+      "lebensdaten": "1849–1913",
+      "kanton": "Neuenburg",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "42",
+      "amtsjahre": "1912–1919",
+      "name": "Camille Decoppet",
+      "lebensdaten": "1862–1925",
+      "kanton": "Waadt",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "43",
+      "amtsjahre": "1912–1935",
+      "name": "Edmund Schulthess",
+      "lebensdaten": "1868–1944",
+      "kanton": "Aargau",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "44",
+      "amtsjahre": "1913–1920",
+      "name": "Felix Calonder",
+      "lebensdaten": "1863–1952",
+      "kanton": "Graubünden",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "45",
+      "amtsjahre": "1917–1919",
+      "name": "Gustave Ador",
+      "lebensdaten": "1845–1928",
+      "kanton": "Genf",
+      "partei": "LP"
+    },
+    {
+      "nummer": "46",
+      "amtsjahre": "1918–1929",
+      "name": "Robert Haab",
+      "lebensdaten": "1865–1939",
+      "kanton": "Zürich",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "47",
+      "amtsjahre": "1920–1929",
+      "name": "Karl Scheurer",
+      "lebensdaten": "1872–1929",
+      "kanton": "Bern",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "48",
+      "amtsjahre": "1920–1928",
+      "name": "Ernest Chuard",
+      "lebensdaten": "1857–1942",
+      "kanton": "Waadt",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "49",
+      "amtsjahre": "1920–1934",
+      "name": "Jean-Marie Musy",
+      "lebensdaten": "1876–1952",
+      "kanton": "Freiburg",
+      "partei": "SKVP"
+    },
+    {
+      "nummer": "50",
+      "amtsjahre": "1920–1934",
+      "name": "Heinrich Häberlin",
+      "lebensdaten": "1868–1947",
+      "kanton": "Thurgau",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "51",
+      "amtsjahre": "1929–1944",
+      "name": "Marcel Pilet-Golaz",
+      "lebensdaten": "1889–1958",
+      "kanton": "Waadt",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "52",
+      "amtsjahre": "1930–1940",
+      "name": "Rudolf Minger",
+      "lebensdaten": "1881–1955",
+      "kanton": "Bern",
+      "partei": "BGB"
+    },
+    {
+      "nummer": "53",
+      "amtsjahre": "1930–1938",
+      "name": "Albert Meyer",
+      "lebensdaten": "1870–1953",
+      "kanton": "Zürich",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "54",
+      "amtsjahre": "1934–1940",
+      "name": "Johannes Baumann",
+      "lebensdaten": "1874–1953",
+      "kanton": "Appenzell Ausserrhoden",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "55",
+      "amtsjahre": "1934–1959",
+      "name": "Philipp Etter",
+      "lebensdaten": "1891–1977",
+      "kanton": "Zug",
+      "partei": "SKVP"
+    },
+    {
+      "nummer": "56",
+      "amtsjahre": "1935–1940",
+      "name": "Hermann Obrecht",
+      "lebensdaten": "1882–1940",
+      "kanton": "Solothurn",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "57",
+      "amtsjahre": "1939–1943",
+      "name": "Ernst Wetter",
+      "lebensdaten": "1877–1963",
+      "kanton": "Zürich",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "58",
+      "amtsjahre": "1940–1950",
+      "name": "Enrico Celio",
+      "lebensdaten": "1889–1980",
+      "kanton": "Tessin",
+      "partei": "SKVP"
+    },
+    {
+      "nummer": "59",
+      "amtsjahre": "1940–1947",
+      "name": "Walther Stampfli",
+      "lebensdaten": "1884–1965",
+      "kanton": "Solothurn",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "60",
+      "amtsjahre": "1941–1951",
+      "name": "Eduard von Steiger",
+      "lebensdaten": "1881–1962",
+      "kanton": "Bern",
+      "partei": "BGB"
+    },
+    {
+      "nummer": "61",
+      "amtsjahre": "1941–1954",
+      "name": "Karl Kobelt",
+      "lebensdaten": "1891–1968",
+      "kanton": "St. Gallen",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "62",
+      "amtsjahre": "1944–1951",
+      "name": "Ernst Nobs",
+      "lebensdaten": "1886–1957",
+      "kanton": "Zürich",
+      "partei": "SP"
+    },
+    {
+      "nummer": "63",
+      "amtsjahre": "1945–1961",
+      "name": "Max Petitpierre",
+      "lebensdaten": "1899–1994",
+      "kanton": "Neuenburg",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "64",
+      "amtsjahre": "1948–1954",
+      "name": "Rodolphe Rubattel",
+      "lebensdaten": "1896–1961",
+      "kanton": "Waadt",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "65",
+      "amtsjahre": "1950–1954",
+      "name": "Josef Escher",
+      "lebensdaten": "1885–1954",
+      "kanton": "Wallis",
+      "partei": "SKVP"
+    },
+    {
+      "nummer": "66",
+      "amtsjahre": "1952–1958",
+      "name": "Markus Feldmann",
+      "lebensdaten": "1897–1958",
+      "kanton": "Bern",
+      "partei": "BGB"
+    },
+    {
+      "nummer": "67",
+      "amtsjahre": "1952–1954",
+      "name": "Max Weber",
+      "lebensdaten": "1897–1974",
+      "kanton": "Zürich",
+      "partei": "SP"
+    },
+    {
+      "nummer": "68",
+      "amtsjahre": "1954–1959",
+      "name": "Hans Streuli",
+      "lebensdaten": "1892–1970",
+      "kanton": "Zürich",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "69",
+      "amtsjahre": "1955–1959",
+      "name": "Thomas Holenstein",
+      "lebensdaten": "1896–1962",
+      "kanton": "St. Gallen",
+      "partei": "KCVP"
+    },
+    {
+      "nummer": "70",
+      "amtsjahre": "1955–1966",
+      "name": "Paul Chaudet",
+      "lebensdaten": "1904–1977",
+      "kanton": "Waadt",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "71",
+      "amtsjahre": "1955–1959",
+      "name": "Giuseppe Lepori",
+      "lebensdaten": "1902–1968",
+      "kanton": "Tessin",
+      "partei": "KCVP"
+    },
+    {
+      "nummer": "72",
+      "amtsjahre": "1959–1965",
+      "name": "Friedrich Traugott Wahlen",
+      "lebensdaten": "1899–1985",
+      "kanton": "Bern",
+      "partei": "BGB"
+    },
+    {
+      "nummer": "73",
+      "amtsjahre": "1960–1962",
+      "name": "Jean Bourgknecht",
+      "lebensdaten": "1902–1964",
+      "kanton": "Freiburg",
+      "partei": "KCVP"
+    },
+    {
+      "nummer": "74",
+      "amtsjahre": "1960–1970",
+      "name": "Willy Spühler",
+      "lebensdaten": "1902–1990",
+      "kanton": "Zürich",
+      "partei": "SP"
+    },
+    {
+      "nummer": "75",
+      "amtsjahre": "1960–1971",
+      "name": "Ludwig von Moos",
+      "lebensdaten": "1910–1990",
+      "kanton": "Obwalden",
+      "partei": "CVP"
+    },
+    {
+      "nummer": "76",
+      "amtsjahre": "1960–1973",
+      "name": "Hans-Peter Tschudi",
+      "lebensdaten": "1913–2002",
+      "kanton": "Basel-Stadt",
+      "partei": "SP"
+    },
+    {
+      "nummer": "77",
+      "amtsjahre": "1961–1969",
+      "name": "Hans Schaffner",
+      "lebensdaten": "1908–2004",
+      "kanton": "Aargau",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "78",
+      "amtsjahre": "1962–1973",
+      "name": "Roger Bonvin",
+      "lebensdaten": "1907–1982",
+      "kanton": "Wallis",
+      "partei": "CVP"
+    },
+    {
+      "nummer": "79",
+      "amtsjahre": "1966–1979",
+      "name": "Rudolf Gnägi",
+      "lebensdaten": "1917–1985",
+      "kanton": "Bern",
+      "partei": "SVP"
+    },
+    {
+      "nummer": "80",
+      "amtsjahre": "1967–1973",
+      "name": "Nello Celio",
+      "lebensdaten": "1914–1995",
+      "kanton": "Tessin",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "81",
+      "amtsjahre": "1970–1978",
+      "name": "Ernst Brugger",
+      "lebensdaten": "1914–1998",
+      "kanton": "Zürich",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "82",
+      "amtsjahre": "1970–1978",
+      "name": "Pierre Graber",
+      "lebensdaten": "1908–2003",
+      "kanton": "Neuenburg",
+      "partei": "SP"
+    },
+    {
+      "nummer": "83",
+      "amtsjahre": "1972–1986",
+      "name": "Kurt Furgler",
+      "lebensdaten": "1924–2008",
+      "kanton": "St. Gallen",
+      "partei": "CVP"
+    },
+    {
+      "nummer": "84",
+      "amtsjahre": "1974–1983",
+      "name": "Willi Ritschard",
+      "lebensdaten": "1918–1983",
+      "kanton": "Solothurn",
+      "partei": "SP"
+    },
+    {
+      "nummer": "85",
+      "amtsjahre": "1974–1982",
+      "name": "Hans Hürlimann",
+      "lebensdaten": "1918–1994",
+      "kanton": "Zug",
+      "partei": "CVP"
+    },
+    {
+      "nummer": "86",
+      "amtsjahre": "1974–1983",
+      "name": "Georges-André Chevallaz",
+      "lebensdaten": "1915–2002",
+      "kanton": "Waadt",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "87",
+      "amtsjahre": "1978–1982",
+      "name": "Fritz Honegger",
+      "lebensdaten": "1917–1999",
+      "kanton": "Zürich",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "88",
+      "amtsjahre": "1978–1987",
+      "name": "Pierre Aubert",
+      "lebensdaten": "1927–2016",
+      "kanton": "Neuenburg",
+      "partei": "SP"
+    },
+    {
+      "nummer": "89",
+      "amtsjahre": "1980–1987",
+      "name": "Leon Schlumpf",
+      "lebensdaten": "1925–2012",
+      "kanton": "Graubünden",
+      "partei": "SVP"
+    },
+    {
+      "nummer": "90",
+      "amtsjahre": "1983–1986",
+      "name": "Alphons Egli",
+      "lebensdaten": "1924–2016",
+      "kanton": "Luzern",
+      "partei": "CVP"
+    },
+    {
+      "nummer": "91",
+      "amtsjahre": "1983–1984",
+      "name": "Rudolf Friedrich",
+      "lebensdaten": "1923–2013",
+      "kanton": "Zürich",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "92",
+      "amtsjahre": "1984–1995",
+      "name": "Otto Stich",
+      "lebensdaten": "1927–2012",
+      "kanton": "Solothurn",
+      "partei": "SP"
+    },
+    {
+      "nummer": "93",
+      "amtsjahre": "1984–1998",
+      "name": "Jean-Pascal Delamuraz",
+      "lebensdaten": "1936–1998",
+      "kanton": "Waadt",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "94",
+      "amtsjahre": "1984–1989",
+      "name": "Elisabeth Kopp",
+      "lebensdaten": "1936–2023",
+      "kanton": "Zürich",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "95",
+      "amtsjahre": "1987–1999",
+      "name": "Arnold Koller",
+      "lebensdaten": "* 1933",
+      "kanton": "Appenzell Innerrhoden",
+      "partei": "CVP"
+    },
+    {
+      "nummer": "96",
+      "amtsjahre": "1987–1999",
+      "name": "Flavio Cotti",
+      "lebensdaten": "1939–2020",
+      "kanton": "Tessin",
+      "partei": "CVP"
+    },
+    {
+      "nummer": "97",
+      "amtsjahre": "1988–1993",
+      "name": "René Felber",
+      "lebensdaten": "1933–2020",
+      "kanton": "Neuenburg",
+      "partei": "SP"
+    },
+    {
+      "nummer": "98",
+      "amtsjahre": "1988–2000",
+      "name": "Adolf Ogi",
+      "lebensdaten": "* 1942",
+      "kanton": "Bern",
+      "partei": "SVP"
+    },
+    {
+      "nummer": "99",
+      "amtsjahre": "1989–2003",
+      "name": "Kaspar Villiger",
+      "lebensdaten": "* 1941",
+      "kanton": "Luzern",
+      "partei": "FDP"
+    },
+    {
+      "nummer": "100",
+      "amtsjahre": "1993–2002",
+      "name": "Ruth Dreifuss",
+      "lebensdaten": "* 1940",
+      "kanton": "Genf",
+      "partei": "SP"
+    },
+    {
+      "nummer": "101",
+      "amtsjahre": "1995–2010",
+      "name": "Moritz Leuenberger",
+      "lebensdaten": "* 1946",
+      "kanton": "Zürich",
+      "partei": "SP"
+    },
+    {
+      "nummer": "102",
+      "amtsjahre": "1998–2009",
+      "name": "Pascal Couchepin",
+      "lebensdaten": "* 1942",
+      "kanton": "Wallis",
+      "partei": "FDP.Die Liberalen"
+    },
+    {
+      "nummer": "103",
+      "amtsjahre": "1999–2003",
+      "name": "Ruth Metzler-Arnold",
+      "lebensdaten": "* 1964",
+      "kanton": "Appenzell Innerrhoden",
+      "partei": "CVP"
+    },
+    {
+      "nummer": "104",
+      "amtsjahre": "1999–2006",
+      "name": "Joseph Deiss",
+      "lebensdaten": "* 1946",
+      "kanton": "Freiburg",
+      "partei": "CVP"
+    },
+    {
+      "nummer": "105",
+      "amtsjahre": "2001–2008",
+      "name": "Samuel Schmid",
+      "lebensdaten": "* 1947",
+      "kanton": "Bern",
+      "partei": "SVP BDP"
+    },
+    {
+      "nummer": "106",
+      "amtsjahre": "2003–2011",
+      "name": "Micheline Calmy-Rey",
+      "lebensdaten": "* 1945",
+      "kanton": "Genf",
+      "partei": "SP"
+    },
+    {
+      "nummer": "107",
+      "amtsjahre": "2004–2007",
+      "name": "Christoph Blocher",
+      "lebensdaten": "* 1940",
+      "kanton": "Zürich",
+      "partei": "SVP"
+    },
+    {
+      "nummer": "108",
+      "amtsjahre": "2004–2010",
+      "name": "Hans-Rudolf Merz",
+      "lebensdaten": "* 1942",
+      "kanton": "Appenzell Ausserrhoden",
+      "partei": "FDP.Die Liberalen"
+    },
+    {
+      "nummer": "109",
+      "amtsjahre": "2006–2018",
+      "name": "Doris Leuthard",
+      "lebensdaten": "* 1963",
+      "kanton": "Aargau",
+      "partei": "CVP"
+    },
+    {
+      "nummer": "110",
+      "amtsjahre": "2008–2015",
+      "name": "Eveline Widmer-Schlumpf",
+      "lebensdaten": "* 1956",
+      "kanton": "Graubünden",
+      "partei": "SVP BDP"
+    },
+    {
+      "nummer": "111",
+      "amtsjahre": "2009–2022",
+      "name": "Ueli Maurer",
+      "lebensdaten": "* 1950",
+      "kanton": "Zürich",
+      "partei": "SVP"
+    },
+    {
+      "nummer": "112",
+      "amtsjahre": "2009–2017",
+      "name": "Didier Burkhalter",
+      "lebensdaten": "* 1960",
+      "kanton": "Neuenburg",
+      "partei": "FDP.Die Liberalen"
+    },
+    {
+      "nummer": "113",
+      "amtsjahre": "2010–2022",
+      "name": "Simonetta Sommaruga",
+      "lebensdaten": "* 1960",
+      "kanton": "Bern",
+      "partei": "SP"
+    },
+    {
+      "nummer": "114",
+      "amtsjahre": "2010–2018",
+      "name": "Johann Schneider-Ammann",
+      "lebensdaten": "* 1952",
+      "kanton": "Bern",
+      "partei": "FDP.Die Liberalen"
+    },
+    {
+      "nummer": "115",
+      "amtsjahre": "2012–2023",
+      "name": "Alain Berset",
+      "lebensdaten": "* 1972",
+      "kanton": "Freiburg",
+      "partei": "SP"
+    },
+    {
+      "nummer": "116",
+      "amtsjahre": "2016–2026",
+      "name": "Guy Parmelin",
+      "lebensdaten": "* 1959",
+      "kanton": "Waadt",
+      "partei": "SVP"
+    },
+    {
+      "nummer": "117",
+      "amtsjahre": "2017–",
+      "name": "Ignazio Cassis",
+      "lebensdaten": "* 1961",
+      "kanton": "Tessin",
+      "partei": "FDP.Die Liberalen"
+    },
+    {
+      "nummer": "118",
+      "amtsjahre": "2019–2025",
+      "name": "Viola Amherd",
+      "lebensdaten": "* 1962",
+      "kanton": "Wallis",
+      "partei": "Die Mitte"
+    },
+    {
+      "nummer": "119",
+      "amtsjahre": "2019–",
+      "name": "Karin Keller-Sutter",
+      "lebensdaten": "* 1963",
+      "kanton": "St. Gallen",
+      "partei": "FDP.Die Liberalen"
+    },
+    {
+      "nummer": "120",
+      "amtsjahre": "2023–",
+      "name": "Albert Rösti",
+      "lebensdaten": "* 1967",
+      "kanton": "Bern",
+      "partei": "SVP"
+    },
+    {
+      "nummer": "121",
+      "amtsjahre": "2023–",
+      "name": "Elisabeth Baume-Schneider",
+      "lebensdaten": "* 1963",
+      "kanton": "Jura",
+      "partei": "SP"
+    },
+    {
+      "nummer": "122",
+      "amtsjahre": "2024–",
+      "name": "Beat Jans",
+      "lebensdaten": "* 1964",
+      "kanton": "Basel-Stadt",
+      "partei": "SP"
+    },
+    {
+      "nummer": "123",
+      "amtsjahre": "2025–",
+      "name": "Martin Pfister",
+      "lebensdaten": "* 1963",
+      "kanton": "Zug",
+      "partei": "Die Mitte"
+    }
+  ],
+  "meta": {
+    "title": "Mitglieder des Schweizerischen Bundesrates - Free Download",
+    "description": "Alle Mitglieder des Schweizer Bundesrates seit 1848 mit Amtsjahren, Lebensdaten, Kanton und Partei. Contains 123 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mitglieder des Schweizerischen Bundesrates | ListBase",
+    "seo_description": "Download Mitglieder des Schweizerischen Bundesrates — 123 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 123 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Schweizerischen_Bundesrates"
+    ]
+  }
+}

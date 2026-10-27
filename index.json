@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-27T02:22:21.779Z",
-  "total_datasets": 475,
-  "total_records": 1866394,
+  "generated": "2026-10-27T02:22:24.177Z",
+  "total_datasets": 476,
+  "total_records": 1866517,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "reference",
@@ -4922,6 +4922,33 @@
         "xlsx": {
           "name": "de-bundespraesidenten_DE.xlsx",
           "size": 7736
+        }
+      }
+    },
+    {
+      "id": "de-ch-bundesraete",
+      "name": "Mitglieder des Schweizerischen Bundesrates",
+      "category": "politics",
+      "record_count": 123,
+      "columns": [
+        "nummer",
+        "amtsjahre",
+        "name",
+        "lebensdaten",
+        "kanton",
+        "partei"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Schweizerischen_Bundesrates",
+      "updated": "2026-10",
+      "size": 24852,
+      "files": {
+        "csv": {
+          "name": "de-ch-bundesraete_DE.csv",
+          "size": 8338
+        },
+        "xlsx": {
+          "name": "de-ch-bundesraete_DE.xlsx",
+          "size": 13036
         }
       }
     },
