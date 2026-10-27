@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-27T02:22:14.513Z",
-  "total_datasets": 472,
-  "total_records": 1866348,
+  "generated": "2026-10-27T02:22:16.979Z",
+  "total_datasets": 473,
+  "total_records": 1866365,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -586,6 +586,33 @@
         "xlsx": {
           "name": "de-bundeslaender-arbeitslosenquote_DE.xlsx",
           "size": 7311
+        }
+      }
+    },
+    {
+      "id": "de-bundeslaender-bip",
+      "name": "Deutsche Bundesländer nach Bruttoinlandsprodukt",
+      "category": "economy",
+      "record_count": 17,
+      "columns": [
+        "rang",
+        "bundesland",
+        "anteil_pct",
+        "bip_mrd_euro",
+        "reales_wachstum_pct",
+        "bip_pro_kopf_euro"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Bruttoinlandsprodukt",
+      "updated": "2026-10",
+      "size": 5172,
+      "files": {
+        "csv": {
+          "name": "de-bundeslaender-bip_DE.csv",
+          "size": 921
+        },
+        "xlsx": {
+          "name": "de-bundeslaender-bip_DE.xlsx",
+          "size": 7566
         }
       }
     },

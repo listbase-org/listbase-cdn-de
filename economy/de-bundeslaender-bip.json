@@ -1,0 +1,192 @@
+{
+  "id": "de-bundeslaender-bip",
+  "name": "Deutsche Bundesländer nach Bruttoinlandsprodukt",
+  "title": "Deutsche Bundesländer nach Bruttoinlandsprodukt",
+  "description": "Die 16 Bundesländer nach Bruttoinlandsprodukt (Mrd. €), Anteil am deutschen BIP, realem Wachstum und BIP pro Kopf.",
+  "category": "economy",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Bruttoinlandsprodukt",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Bruttoinlandsprodukt",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "anteil_pct",
+      "label": "Anteil Pct",
+      "type": "number"
+    },
+    {
+      "key": "bip_mrd_euro",
+      "label": "Bip Mrd Euro",
+      "type": "number"
+    },
+    {
+      "key": "reales_wachstum_pct",
+      "label": "Reales Wachstum Pct",
+      "type": "number"
+    },
+    {
+      "key": "bip_pro_kopf_euro",
+      "label": "Bip Pro Kopf Euro",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rang": 1,
+      "bundesland": "Nordrhein-Westfalen",
+      "anteil_pct": 20.3,
+      "bip_mrd_euro": 909.411,
+      "reales_wachstum_pct": 0.3,
+      "bip_pro_kopf_euro": 50470
+    },
+    {
+      "rang": 2,
+      "bundesland": "Bayern",
+      "anteil_pct": 18.4,
+      "bip_mrd_euro": 824.243,
+      "reales_wachstum_pct": 0.5,
+      "bip_pro_kopf_euro": 62200
+    },
+    {
+      "rang": 3,
+      "bundesland": "Baden-Württemberg",
+      "anteil_pct": 14.9,
+      "bip_mrd_euro": 667.105,
+      "reales_wachstum_pct": -0.6,
+      "bip_pro_kopf_euro": 59335
+    },
+    {
+      "rang": 4,
+      "bundesland": "Niedersachsen",
+      "anteil_pct": 8.9,
+      "bip_mrd_euro": 399.397,
+      "reales_wachstum_pct": 0.7,
+      "bip_pro_kopf_euro": 49907
+    },
+    {
+      "rang": 5,
+      "bundesland": "Hessen",
+      "anteil_pct": 8.6,
+      "bip_mrd_euro": 382.411,
+      "reales_wachstum_pct": -0.2,
+      "bip_pro_kopf_euro": 60894
+    },
+    {
+      "rang": 6,
+      "bundesland": "Berlin",
+      "anteil_pct": 4.9,
+      "bip_mrd_euro": 218.288,
+      "reales_wachstum_pct": 1.1,
+      "bip_pro_kopf_euro": 59097
+    },
+    {
+      "rang": 7,
+      "bundesland": "Rheinland-Pfalz",
+      "anteil_pct": 4.1,
+      "bip_mrd_euro": 185.27,
+      "reales_wachstum_pct": -0.5,
+      "bip_pro_kopf_euro": 44915
+    },
+    {
+      "rang": 8,
+      "bundesland": "Hamburg",
+      "anteil_pct": 3.8,
+      "bip_mrd_euro": 168.3,
+      "reales_wachstum_pct": 0.8,
+      "bip_pro_kopf_euro": 90208
+    },
+    {
+      "rang": 9,
+      "bundesland": "Sachsen",
+      "anteil_pct": 3.8,
+      "bip_mrd_euro": 167.973,
+      "reales_wachstum_pct": -0.2,
+      "bip_pro_kopf_euro": 41693
+    },
+    {
+      "rang": 10,
+      "bundesland": "Schleswig-Holstein",
+      "anteil_pct": 2.9,
+      "bip_mrd_euro": 131.247,
+      "reales_wachstum_pct": 0.9,
+      "bip_pro_kopf_euro": 44344
+    },
+    {
+      "rang": 11,
+      "bundesland": "Brandenburg",
+      "anteil_pct": 2.3,
+      "bip_mrd_euro": 104.1,
+      "reales_wachstum_pct": -0.2,
+      "bip_pro_kopf_euro": 40759
+    },
+    {
+      "rang": 12,
+      "bundesland": "Sachsen-Anhalt",
+      "anteil_pct": 1.8,
+      "bip_mrd_euro": 81.755,
+      "reales_wachstum_pct": -0.2,
+      "bip_pro_kopf_euro": 38452
+    },
+    {
+      "rang": 13,
+      "bundesland": "Thüringen",
+      "anteil_pct": 1.8,
+      "bip_mrd_euro": 80.639,
+      "reales_wachstum_pct": 0.4,
+      "bip_pro_kopf_euro": 38591
+    },
+    {
+      "rang": 14,
+      "bundesland": "Mecklenburg-Vorpommern",
+      "anteil_pct": 1.4,
+      "bip_mrd_euro": 63.585,
+      "reales_wachstum_pct": 1.4,
+      "bip_pro_kopf_euro": 40495
+    },
+    {
+      "rang": 15,
+      "bundesland": "Saarland",
+      "anteil_pct": 1,
+      "bip_mrd_euro": 43.174,
+      "reales_wachstum_pct": -0.9,
+      "bip_pro_kopf_euro": 42765
+    },
+    {
+      "rang": 16,
+      "bundesland": "Bremen",
+      "anteil_pct": 1,
+      "bip_mrd_euro": 43.011,
+      "reales_wachstum_pct": 1.4,
+      "bip_pro_kopf_euro": 60974
+    },
+    {
+      "rang": "",
+      "bundesland": "Deutschland",
+      "anteil_pct": 100,
+      "bip_mrd_euro": 4469.909,
+      "reales_wachstum_pct": 0.2,
+      "bip_pro_kopf_euro": 53516
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Bundesländer nach Bruttoinlandsprodukt - Free Download",
+    "description": "Die 16 Bundesländer nach Bruttoinlandsprodukt (Mrd. €), Anteil am deutschen BIP, realem Wachstum und BIP pro Kopf. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Deutsche Bundesländer nach Bruttoinlandsprodukt | ListBase",
+    "seo_description": "Download Deutsche Bundesländer nach Bruttoinlandsprodukt — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Bruttoinlandsprodukt"
+    ]
+  }
+}
