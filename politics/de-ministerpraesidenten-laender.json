@@ -1,0 +1,247 @@
+{
+  "id": "de-ministerpraesidenten-laender",
+  "name": "Ministerpräsidenten der deutschen Länder",
+  "title": "Ministerpräsidenten der deutschen Länder",
+  "description": "Die amtierenden Regierungschefs der 16 deutschen Bundesländer mit Partei, Amtsantritt, Landesregierung, Koalition und nächster Landtagswahl.",
+  "category": "politics",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Ministerpräsidenten_der_deutschen_Länder",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Ministerpräsidenten_der_deutschen_Länder",
+  "updated": "2026-10",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "land",
+      "label": "Land",
+      "type": "string"
+    },
+    {
+      "key": "regierungschef",
+      "label": "Regierungschef",
+      "type": "string"
+    },
+    {
+      "key": "geburtsdatum",
+      "label": "Geburtsdatum",
+      "type": "string"
+    },
+    {
+      "key": "partei",
+      "label": "Partei",
+      "type": "string"
+    },
+    {
+      "key": "amtsantritt",
+      "label": "Amtsantritt",
+      "type": "string"
+    },
+    {
+      "key": "amtsdauer",
+      "label": "Amtsdauer",
+      "type": "string"
+    },
+    {
+      "key": "naechste_landtagswahl",
+      "label": "Naechste Landtagswahl",
+      "type": "string"
+    },
+    {
+      "key": "landesregierung",
+      "label": "Landesregierung",
+      "type": "string"
+    },
+    {
+      "key": "regierungsparteien",
+      "label": "Regierungsparteien",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "land": "Baden-Württemberg",
+      "regierungschef": "Ministerpräsident Cem Özdemir",
+      "geburtsdatum": "21. Dez. 1965",
+      "partei": "Grüne",
+      "amtsantritt": "13. Mai 2026",
+      "amtsdauer": "168 Tage",
+      "naechste_landtagswahl": "Frühjahr 2031",
+      "landesregierung": "Kabinett Özdemir",
+      "regierungsparteien": "(Grüne / CDU)"
+    },
+    {
+      "land": "Bayern",
+      "regierungschef": "Ministerpräsident Markus Söder",
+      "geburtsdatum": "5. Jan. 1967",
+      "partei": "CSU",
+      "amtsantritt": "16. März 2018",
+      "amtsdauer": "3148 Tage",
+      "naechste_landtagswahl": "Herbst 2028",
+      "landesregierung": "Kabinett Söder III",
+      "regierungsparteien": "(CSU / FW)"
+    },
+    {
+      "land": "Berlin",
+      "regierungschef": "Regierender Bürgermeister Kai Wegner",
+      "geburtsdatum": "15. Sep. 1972",
+      "partei": "CDU",
+      "amtsantritt": "27. Apr. 2023",
+      "amtsdauer": "1280 Tage",
+      "naechste_landtagswahl": "20.09.2026",
+      "landesregierung": "Senat Wegner",
+      "regierungsparteien": "(CDU / SPD)"
+    },
+    {
+      "land": "Brandenburg",
+      "regierungschef": "Ministerpräsident Dietmar Woidke",
+      "geburtsdatum": "22. Okt. 1961",
+      "partei": "SPD",
+      "amtsantritt": "28. Aug. 2013",
+      "amtsdauer": "4809 Tage",
+      "naechste_landtagswahl": "Juni–Sept. 2029",
+      "landesregierung": "Kabinett Woidke V",
+      "regierungsparteien": "(SPD / CDU)"
+    },
+    {
+      "land": "Bremen",
+      "regierungschef": "Präsident des Senats und Bürgermeister Andreas Bovenschulte",
+      "geburtsdatum": "11. Aug. 1965",
+      "partei": "SPD",
+      "amtsantritt": "15. Aug. 2019",
+      "amtsdauer": "2631 Tage",
+      "naechste_landtagswahl": "30.05.2027",
+      "landesregierung": "Senat Bovenschulte II",
+      "regierungsparteien": "(SPD / Grüne / Linke)"
+    },
+    {
+      "land": "Hamburg",
+      "regierungschef": "Erster Bürgermeister Peter Tschentscher",
+      "geburtsdatum": "20. Jan. 1966",
+      "partei": "SPD",
+      "amtsantritt": "28. März 2018",
+      "amtsdauer": "3136 Tage",
+      "naechste_landtagswahl": "Winter 2030",
+      "landesregierung": "Senat Tschentscher III",
+      "regierungsparteien": "(SPD / Grüne)"
+    },
+    {
+      "land": "Hessen",
+      "regierungschef": "Ministerpräsident Boris Rhein",
+      "geburtsdatum": "2. Jan. 1972",
+      "partei": "CDU",
+      "amtsantritt": "31. Mai 2022",
+      "amtsdauer": "1611 Tage",
+      "naechste_landtagswahl": "Herbst 2028",
+      "landesregierung": "Kabinett Rhein II",
+      "regierungsparteien": "(CDU / SPD)"
+    },
+    {
+      "land": "Mecklenburg-Vorpommern",
+      "regierungschef": "Ministerpräsidentin Manuela Schwesig",
+      "geburtsdatum": "23. Mai 1974",
+      "partei": "SPD",
+      "amtsantritt": "4. Juli 2017",
+      "amtsdauer": "3403 Tage",
+      "naechste_landtagswahl": "20.09.2026",
+      "landesregierung": "Kabinett Schwesig II",
+      "regierungsparteien": "(SPD / Linke)"
+    },
+    {
+      "land": "Niedersachsen",
+      "regierungschef": "Ministerpräsident Olaf Lies",
+      "geburtsdatum": "8. Mai 1967",
+      "partei": "SPD",
+      "amtsantritt": "20. Mai 2025",
+      "amtsdauer": "526 Tage",
+      "naechste_landtagswahl": "2. Halbjahr 2027",
+      "landesregierung": "Kabinett Lies",
+      "regierungsparteien": "(SPD / Grüne)"
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "regierungschef": "Ministerpräsident Hendrik Wüst",
+      "geburtsdatum": "19. Juli 1975",
+      "partei": "CDU",
+      "amtsantritt": "27. Okt. 2021",
+      "amtsdauer": "1827 Tage",
+      "naechste_landtagswahl": "25.04.2027",
+      "landesregierung": "Kabinett Wüst II",
+      "regierungsparteien": "(CDU / Grüne)"
+    },
+    {
+      "land": "Rheinland-Pfalz",
+      "regierungschef": "Ministerpräsident Gordon Schnieder",
+      "geburtsdatum": "8. Juli 1975",
+      "partei": "CDU",
+      "amtsantritt": "18. Mai 2026",
+      "amtsdauer": "163 Tage",
+      "naechste_landtagswahl": "Frühjahr 2031",
+      "landesregierung": "Kabinett Schnieder",
+      "regierungsparteien": "(CDU / SPD)"
+    },
+    {
+      "land": "Saarland",
+      "regierungschef": "Ministerpräsidentin Anke Rehlinger",
+      "geburtsdatum": "6. Apr. 1976",
+      "partei": "SPD",
+      "amtsantritt": "25. Apr. 2022",
+      "amtsdauer": "1647 Tage",
+      "naechste_landtagswahl": "18.04.2027",
+      "landesregierung": "Kabinett Rehlinger",
+      "regierungsparteien": "(SPD)"
+    },
+    {
+      "land": "Sachsen",
+      "regierungschef": "Ministerpräsident Michael Kretschmer",
+      "geburtsdatum": "7. Mai 1975",
+      "partei": "CDU",
+      "amtsantritt": "13. Dez. 2017",
+      "amtsdauer": "3241 Tage",
+      "naechste_landtagswahl": "Herbst 2029",
+      "landesregierung": "Kabinett Kretschmer III",
+      "regierungsparteien": "(CDU / SPD)"
+    },
+    {
+      "land": "Sachsen-Anhalt",
+      "regierungschef": "Ministerpräsident Sven Schulze",
+      "geburtsdatum": "31. Juli 1979",
+      "partei": "CDU",
+      "amtsantritt": "28. Jan. 2026",
+      "amtsdauer": "273 Tage",
+      "naechste_landtagswahl": "2031",
+      "landesregierung": "Kabinett Schulze",
+      "regierungsparteien": "(CDU / SPD / FDP)"
+    },
+    {
+      "land": "Schleswig-Holstein",
+      "regierungschef": "Ministerpräsident Daniel Günther",
+      "geburtsdatum": "24. Juli 1973",
+      "partei": "CDU",
+      "amtsantritt": "28. Juni 2017",
+      "amtsdauer": "3409 Tage",
+      "naechste_landtagswahl": "18.04.2027",
+      "landesregierung": "Kabinett Günther II",
+      "regierungsparteien": "(CDU / Grüne)"
+    },
+    {
+      "land": "Thüringen",
+      "regierungschef": "Ministerpräsident Mario Voigt",
+      "geburtsdatum": "8. Feb. 1977",
+      "partei": "CDU",
+      "amtsantritt": "12. Dez. 2024",
+      "amtsdauer": "685 Tage",
+      "naechste_landtagswahl": "Herbst 2029",
+      "landesregierung": "Kabinett Voigt",
+      "regierungsparteien": "(CDU / TG / SPD)"
+    }
+  ],
+  "meta": {
+    "title": "Ministerpräsidenten der deutschen Länder - Free Download",
+    "description": "Die amtierenden Regierungschefs der 16 deutschen Bundesländer mit Partei, Amtsantritt, Landesregierung, Koalition und nächster Landtagswahl. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministerpräsidenten der deutschen Länder | ListBase",
+    "seo_description": "Download Ministerpräsidenten der deutschen Länder — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Ministerpräsidenten_der_deutschen_Länder"
+    ]
+  }
+}

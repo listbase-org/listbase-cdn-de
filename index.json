@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-27T02:22:47.285Z",
-  "total_datasets": 485,
-  "total_records": 1870932,
+  "generated": "2026-10-27T02:22:49.856Z",
+  "total_datasets": 486,
+  "total_records": 1870948,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -5119,6 +5119,36 @@
         "xlsx": {
           "name": "de-ch-bundesraete_DE.xlsx",
           "size": 13036
+        }
+      }
+    },
+    {
+      "id": "de-ministerpraesidenten-laender",
+      "name": "Ministerpräsidenten der deutschen Länder",
+      "category": "politics",
+      "record_count": 16,
+      "columns": [
+        "land",
+        "regierungschef",
+        "geburtsdatum",
+        "partei",
+        "amtsantritt",
+        "amtsdauer",
+        "naechste_landtagswahl",
+        "landesregierung",
+        "regierungsparteien"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Ministerpräsidenten_der_deutschen_Länder",
+      "updated": "2026-10",
+      "size": 8246,
+      "files": {
+        "csv": {
+          "name": "de-ministerpraesidenten-laender_DE.csv",
+          "size": 2585
+        },
+        "xlsx": {
+          "name": "de-ministerpraesidenten-laender_DE.xlsx",
+          "size": 8487
         }
       }
     },
