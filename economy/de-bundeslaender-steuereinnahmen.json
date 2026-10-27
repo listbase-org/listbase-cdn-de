@@ -1,0 +1,192 @@
+{
+  "id": "de-bundeslaender-steuereinnahmen",
+  "name": "Deutsche Bundesländer nach Steuereinnahmen",
+  "title": "Deutsche Bundesländer nach Steuereinnahmen",
+  "description": "Steuereinnahmen der Bundesländer: Landessteuern, Gemeindesteuern, Gesamteinnahmen (Mio. €) und Einnahmen pro Kopf.",
+  "category": "economy",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Steuereinnahmen",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Steuereinnahmen",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "landessteuern_mio_euro",
+      "label": "Landessteuern Mio Euro",
+      "type": "number"
+    },
+    {
+      "key": "gemeindesteuern_mio_euro",
+      "label": "Gemeindesteuern Mio Euro",
+      "type": "number"
+    },
+    {
+      "key": "gesamteinnahmen_mio_euro",
+      "label": "Gesamteinnahmen Mio Euro",
+      "type": "number"
+    },
+    {
+      "key": "gesamteinnahmen_pro_kopf_euro",
+      "label": "Gesamteinnahmen Pro Kopf Euro",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rang": 1,
+      "bundesland": "Nordrhein-Westfalen",
+      "landessteuern_mio_euro": 66538,
+      "gemeindesteuern_mio_euro": 26067,
+      "gesamteinnahmen_mio_euro": 92605,
+      "gesamteinnahmen_pro_kopf_euro": 5345
+    },
+    {
+      "rang": 2,
+      "bundesland": "Bayern",
+      "landessteuern_mio_euro": 48489,
+      "gemeindesteuern_mio_euro": 20537,
+      "gesamteinnahmen_mio_euro": 69026,
+      "gesamteinnahmen_pro_kopf_euro": 5562
+    },
+    {
+      "rang": 3,
+      "bundesland": "Baden-Württemberg",
+      "landessteuern_mio_euro": 40785,
+      "gemeindesteuern_mio_euro": 16783,
+      "gesamteinnahmen_mio_euro": 57568,
+      "gesamteinnahmen_pro_kopf_euro": 5346
+    },
+    {
+      "rang": 4,
+      "bundesland": "Niedersachsen",
+      "landessteuern_mio_euro": 29723,
+      "gemeindesteuern_mio_euro": 9804,
+      "gesamteinnahmen_mio_euro": 39526,
+      "gesamteinnahmen_pro_kopf_euro": 4927
+    },
+    {
+      "rang": 5,
+      "bundesland": "Hessen",
+      "landessteuern_mio_euro": 23832,
+      "gemeindesteuern_mio_euro": 10379,
+      "gesamteinnahmen_mio_euro": 34211,
+      "gesamteinnahmen_pro_kopf_euro": 5857
+    },
+    {
+      "rang": 6,
+      "bundesland": "Berlin",
+      "landessteuern_mio_euro": 19727,
+      "gemeindesteuern_mio_euro": 5001,
+      "gesamteinnahmen_mio_euro": 24727,
+      "gesamteinnahmen_pro_kopf_euro": 6728
+    },
+    {
+      "rang": 7,
+      "bundesland": "Sachsen",
+      "landessteuern_mio_euro": 16728,
+      "gemeindesteuern_mio_euro": 3749,
+      "gesamteinnahmen_mio_euro": 20477,
+      "gesamteinnahmen_pro_kopf_euro": 4599
+    },
+    {
+      "rang": 8,
+      "bundesland": "Rheinland-Pfalz",
+      "landessteuern_mio_euro": 15212,
+      "gemeindesteuern_mio_euro": 4916,
+      "gesamteinnahmen_mio_euro": 20128,
+      "gesamteinnahmen_pro_kopf_euro": 5495
+    },
+    {
+      "rang": 9,
+      "bundesland": "Schleswig-Holstein",
+      "landessteuern_mio_euro": 11051,
+      "gemeindesteuern_mio_euro": 3502,
+      "gesamteinnahmen_mio_euro": 14553,
+      "gesamteinnahmen_pro_kopf_euro": 5086
+    },
+    {
+      "rang": 10,
+      "bundesland": "Hamburg",
+      "landessteuern_mio_euro": 8796,
+      "gemeindesteuern_mio_euro": 4505,
+      "gesamteinnahmen_mio_euro": 13301,
+      "gesamteinnahmen_pro_kopf_euro": 7602
+    },
+    {
+      "rang": 11,
+      "bundesland": "Brandenburg",
+      "landessteuern_mio_euro": 10452,
+      "gemeindesteuern_mio_euro": 2466,
+      "gesamteinnahmen_mio_euro": 12918,
+      "gesamteinnahmen_pro_kopf_euro": 4761
+    },
+    {
+      "rang": 12,
+      "bundesland": "Sachsen-Anhalt",
+      "landessteuern_mio_euro": 9396,
+      "gemeindesteuern_mio_euro": 1877,
+      "gesamteinnahmen_mio_euro": 11273,
+      "gesamteinnahmen_pro_kopf_euro": 4436
+    },
+    {
+      "rang": 13,
+      "bundesland": "Thüringen",
+      "landessteuern_mio_euro": 8997,
+      "gemeindesteuern_mio_euro": 1838,
+      "gesamteinnahmen_mio_euro": 10835,
+      "gesamteinnahmen_pro_kopf_euro": 4488
+    },
+    {
+      "rang": 14,
+      "bundesland": "Mecklenburg-Vorpommern",
+      "landessteuern_mio_euro": 6849,
+      "gemeindesteuern_mio_euro": 1346,
+      "gesamteinnahmen_mio_euro": 8195,
+      "gesamteinnahmen_pro_kopf_euro": 4583
+    },
+    {
+      "rang": 15,
+      "bundesland": "Saarland",
+      "landessteuern_mio_euro": 4133,
+      "gemeindesteuern_mio_euro": 1059,
+      "gesamteinnahmen_mio_euro": 5192,
+      "gesamteinnahmen_pro_kopf_euro": 4762
+    },
+    {
+      "rang": 16,
+      "bundesland": "Bremen",
+      "landessteuern_mio_euro": 3810,
+      "gemeindesteuern_mio_euro": 1072,
+      "gesamteinnahmen_mio_euro": 4881,
+      "gesamteinnahmen_pro_kopf_euro": 6667
+    },
+    {
+      "rang": "",
+      "bundesland": "Alle Länder",
+      "landessteuern_mio_euro": 324517,
+      "gemeindesteuern_mio_euro": 114899,
+      "gesamteinnahmen_mio_euro": 439416,
+      "gesamteinnahmen_pro_kopf_euro": 5377
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Bundesländer nach Steuereinnahmen - Free Download",
+    "description": "Steuereinnahmen der Bundesländer: Landessteuern, Gemeindesteuern, Gesamteinnahmen (Mio. €) und Einnahmen pro Kopf. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Deutsche Bundesländer nach Steuereinnahmen | ListBase",
+    "seo_description": "Download Deutsche Bundesländer nach Steuereinnahmen — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Steuereinnahmen"
+    ]
+  }
+}

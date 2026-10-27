@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-27T02:22:16.979Z",
-  "total_datasets": 473,
-  "total_records": 1866365,
+  "generated": "2026-10-27T02:22:19.509Z",
+  "total_datasets": 474,
+  "total_records": 1866382,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -613,6 +613,33 @@
         "xlsx": {
           "name": "de-bundeslaender-bip_DE.xlsx",
           "size": 7566
+        }
+      }
+    },
+    {
+      "id": "de-bundeslaender-steuereinnahmen",
+      "name": "Deutsche Bundesländer nach Steuereinnahmen",
+      "category": "economy",
+      "record_count": 17,
+      "columns": [
+        "rang",
+        "bundesland",
+        "landessteuern_mio_euro",
+        "gemeindesteuern_mio_euro",
+        "gesamteinnahmen_mio_euro",
+        "gesamteinnahmen_pro_kopf_euro"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Steuereinnahmen",
+      "updated": "2026-10",
+      "size": 5926,
+      "files": {
+        "csv": {
+          "name": "de-bundeslaender-steuereinnahmen_DE.csv",
+          "size": 965
+        },
+        "xlsx": {
+          "name": "de-bundeslaender-steuereinnahmen_DE.xlsx",
+          "size": 7599
         }
       }
     },
