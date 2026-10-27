@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-27T02:22:04.424Z",
-  "total_datasets": 468,
-  "total_records": 1865570,
+  "generated": "2026-10-27T02:22:06.919Z",
+  "total_datasets": 469,
+  "total_records": 1866303,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "reference",
@@ -4705,6 +4705,30 @@
         "xlsx": {
           "name": "de-krankenhaeuser_DE.xlsx",
           "size": 89289
+        }
+      }
+    },
+    {
+      "id": "de-austriazismen",
+      "name": "Austriazismen",
+      "category": "language",
+      "record_count": 733,
+      "columns": [
+        "austriazismus",
+        "bedeutung",
+        "buchstabe"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_von_Austriazismen",
+      "updated": "2026-10",
+      "size": 100773,
+      "files": {
+        "csv": {
+          "name": "de-austriazismen_DE.csv",
+          "size": 43768
+        },
+        "xlsx": {
+          "name": "de-austriazismen_DE.xlsx",
+          "size": 35920
         }
       }
     },
