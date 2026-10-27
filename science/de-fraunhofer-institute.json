@@ -1,0 +1,496 @@
+{
+  "id": "de-fraunhofer-institute",
+  "name": "Fraunhofer-Institute und -Einrichtungen",
+  "title": "Fraunhofer-Institute und -Einrichtungen",
+  "description": "Die Institute und Einrichtungen der Fraunhofer-Gesellschaft mit Kürzel, Standort und Gründungsjahr.",
+  "category": "science",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Fraunhofer-Institute_und_-Einrichtungen",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Fraunhofer-Institute_und_-Einrichtungen",
+  "updated": "2026-10",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "kuerzel",
+      "label": "Kuerzel",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "standort",
+      "label": "Standort",
+      "type": "string"
+    },
+    {
+      "key": "gruendungsjahr",
+      "label": "Gruendungsjahr",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kuerzel": "IAPT",
+      "name": "Additive Produktionstechnologien",
+      "standort": "Hamburg",
+      "gruendungsjahr": "2018"
+    },
+    {
+      "kuerzel": "SCAI",
+      "name": "Algorithmen und Wissenschaftliches Rechnen",
+      "standort": "Sankt Augustin",
+      "gruendungsjahr": "2001"
+    },
+    {
+      "kuerzel": "IAF",
+      "name": "Angewandte Festkörperphysik",
+      "standort": "Freiburg im Breisgau",
+      "gruendungsjahr": "1957"
+    },
+    {
+      "kuerzel": "FIT",
+      "name": "Angewandte Informationstechnik",
+      "standort": "Sankt Augustin",
+      "gruendungsjahr": "2001"
+    },
+    {
+      "kuerzel": "IOF",
+      "name": "Angewandte Optik und Feinmechanik",
+      "standort": "Jena",
+      "gruendungsjahr": "1992"
+    },
+    {
+      "kuerzel": "IAP",
+      "name": "Angewandte Polymerforschung",
+      "standort": "Potsdam",
+      "gruendungsjahr": "1992"
+    },
+    {
+      "kuerzel": "AISEC",
+      "name": "Angewandte und Integrierte Sicherheit",
+      "standort": "Garching b. München",
+      "gruendungsjahr": "2009"
+    },
+    {
+      "kuerzel": "IAO",
+      "name": "Arbeitswirtschaft und Organisation",
+      "standort": "Stuttgart",
+      "gruendungsjahr": "1981"
+    },
+    {
+      "kuerzel": "IBP",
+      "name": "Bauphysik",
+      "standort": "Stuttgart, Holzkirchen",
+      "gruendungsjahr": "1958"
+    },
+    {
+      "kuerzel": "LBF",
+      "name": "Betriebsfestigkeit und Systemzuverlässigkeit",
+      "standort": "Darmstadt",
+      "gruendungsjahr": "1962"
+    },
+    {
+      "kuerzel": "IBMT",
+      "name": "Biomedizinische Technik",
+      "standort": "Sulzbach",
+      "gruendungsjahr": "1992"
+    },
+    {
+      "kuerzel": "ICT",
+      "name": "Chemische Technologie",
+      "standort": "Pfinztal",
+      "gruendungsjahr": "1959"
+    },
+    {
+      "kuerzel": "IDMT",
+      "name": "Digitale Medientechnologie",
+      "standort": "Ilmenau, Oldenburg",
+      "gruendungsjahr": "2004"
+    },
+    {
+      "kuerzel": "MEVIS",
+      "name": "Digitale Medizin",
+      "standort": "Bremen",
+      "gruendungsjahr": "2009"
+    },
+    {
+      "kuerzel": "ENAS",
+      "name": "Elektronische Nanosysteme",
+      "standort": "Chemnitz",
+      "gruendungsjahr": "2008"
+    },
+    {
+      "kuerzel": "IEG",
+      "name": "Energieinfrastrukturen und Geotechnologien (Fraunhofer-Einrichtung, bis 2024... und Geothermie)",
+      "standort": "Bochum, Cottbus",
+      "gruendungsjahr": "2020"
+    },
+    {
+      "kuerzel": "IEE",
+      "name": "Energiewirtschaft und Energiesystemtechnik",
+      "standort": "Kassel",
+      "gruendungsjahr": "2018"
+    },
+    {
+      "kuerzel": "IEM",
+      "name": "Entwurfstechnik Mechatronik",
+      "standort": "Paderborn",
+      "gruendungsjahr": "2011"
+    },
+    {
+      "kuerzel": "IESE",
+      "name": "Experimentelles Software Engineering",
+      "standort": "Kaiserslautern",
+      "gruendungsjahr": "1996"
+    },
+    {
+      "kuerzel": "IFF",
+      "name": "Fabrikbetrieb und -automatisierung",
+      "standort": "Magdeburg",
+      "gruendungsjahr": "1993"
+    },
+    {
+      "kuerzel": "IFAM",
+      "name": "Fertigungstechnik und Angewandte Materialforschung",
+      "standort": "Bremen",
+      "gruendungsjahr": "1974"
+    },
+    {
+      "kuerzel": "IGCV",
+      "name": "Gießerei-, Composite- und Verarbeitungstechnik",
+      "standort": "Augsburg, Garching, Taufkirchen",
+      "gruendungsjahr": "2016"
+    },
+    {
+      "kuerzel": "IGD",
+      "name": "Graphische Datenverarbeitung",
+      "standort": "Darmstadt",
+      "gruendungsjahr": "1987"
+    },
+    {
+      "kuerzel": "IGB",
+      "name": "Grenzflächen- und Bioverfahrenstechnik",
+      "standort": "Stuttgart",
+      "gruendungsjahr": "1953"
+    },
+    {
+      "kuerzel": "IGP",
+      "name": "Großstrukturen in der Produktionstechnik",
+      "standort": "Rostock",
+      "gruendungsjahr": "2017"
+    },
+    {
+      "kuerzel": "FHR",
+      "name": "Hochfrequenzphysik und Radartechnik",
+      "standort": "Wachtberg",
+      "gruendungsjahr": "2009"
+    },
+    {
+      "kuerzel": "WKI",
+      "name": "Holzforschung (Wilhelm-Klauditz-Institut)",
+      "standort": "Braunschweig",
+      "gruendungsjahr": "1972"
+    },
+    {
+      "kuerzel": "IIS",
+      "name": "Integrierte Schaltungen",
+      "standort": "Erlangen",
+      "gruendungsjahr": "1990"
+    },
+    {
+      "kuerzel": "IISB",
+      "name": "Integrierte Systeme und Bauelementetechnologie",
+      "standort": "Erlangen",
+      "gruendungsjahr": "1985"
+    },
+    {
+      "kuerzel": "IAIS",
+      "name": "Intelligente Analyse- und Informationssysteme",
+      "standort": "Sankt Augustin",
+      "gruendungsjahr": "2001"
+    },
+    {
+      "kuerzel": "IKTS",
+      "name": "Keramische Technologien und Systeme",
+      "standort": "Dresden, Hermsdorf (Thüringen)",
+      "gruendungsjahr": "1992"
+    },
+    {
+      "kuerzel": "IKS",
+      "name": "Kognitive Systeme",
+      "standort": "München",
+      "gruendungsjahr": "2019"
+    },
+    {
+      "kuerzel": "FKIE",
+      "name": "Kommunikation, Informationsverarbeitung und Ergonomie",
+      "standort": "Wachtberg",
+      "gruendungsjahr": "2009"
+    },
+    {
+      "kuerzel": "EMI",
+      "name": "Kurzzeitdynamik (Ernst-Mach-Institut)",
+      "standort": "Freiburg im Breisgau",
+      "gruendungsjahr": "1959"
+    },
+    {
+      "kuerzel": "ILT",
+      "name": "Lasertechnik",
+      "standort": "Aachen",
+      "gruendungsjahr": "1985"
+    },
+    {
+      "kuerzel": "IMTE",
+      "name": "Individualisierte und Zellbasierte Medizintechnik (Fraunhofer-Einrichtung, vormals Einrichtung für Marine Biotechnologie (EBM))",
+      "standort": "Lübeck",
+      "gruendungsjahr": "2008"
+    },
+    {
+      "kuerzel": "IML",
+      "name": "Materialfluss und Logistik",
+      "standort": "Dortmund",
+      "gruendungsjahr": "1981"
+    },
+    {
+      "kuerzel": "IMS",
+      "name": "Mikroelektronische Schaltungen und Systeme",
+      "standort": "Duisburg",
+      "gruendungsjahr": "1984"
+    },
+    {
+      "kuerzel": "IMWS",
+      "name": "Mikrostruktur von Werkstoffen und Systemen",
+      "standort": "Halle (Saale)",
+      "gruendungsjahr": "2016"
+    },
+    {
+      "kuerzel": "EMFT",
+      "name": "Mikrosysteme und Festkörper-Technologien (Fraunhofer-Einrichtung)",
+      "standort": "München",
+      "gruendungsjahr": "2010"
+    },
+    {
+      "kuerzel": "IMM",
+      "name": "Mikrotechnik und Mikrosysteme",
+      "standort": "Mainz",
+      "gruendungsjahr": "2014"
+    },
+    {
+      "kuerzel": "IME",
+      "name": "Molekularbiologie und Angewandte Oekologie",
+      "standort": "Aachen, Schmallenberg, Gießen",
+      "gruendungsjahr": "1959"
+    },
+    {
+      "kuerzel": "HHI",
+      "name": "Nachrichtentechnik (Heinrich-Hertz-Institut)",
+      "standort": "Berlin",
+      "gruendungsjahr": "2003"
+    },
+    {
+      "kuerzel": "INT",
+      "name": "Naturwissenschaftlich-Technische Trendanalysen",
+      "standort": "Euskirchen",
+      "gruendungsjahr": "1974"
+    },
+    {
+      "kuerzel": "FOKUS",
+      "name": "Offene Kommunikationssysteme",
+      "standort": "Berlin",
+      "gruendungsjahr": "2001"
+    },
+    {
+      "kuerzel": "IOSB",
+      "name": "Optronik, Systemtechnik und Bildauswertung",
+      "standort": "Karlsruhe, Ettlingen, Ilmenau, Lemgo",
+      "gruendungsjahr": "1967"
+    },
+    {
+      "kuerzel": "FEP",
+      "name": "Elektronenstrahl- und Plasmatechnik",
+      "standort": "Dresden",
+      "gruendungsjahr": "1991"
+    },
+    {
+      "kuerzel": "IPMS",
+      "name": "Photonische Mikrosysteme",
+      "standort": "Dresden",
+      "gruendungsjahr": "2003"
+    },
+    {
+      "kuerzel": "IPM",
+      "name": "Physikalische Messtechnik",
+      "standort": "Freiburg im Breisgau",
+      "gruendungsjahr": "1980"
+    },
+    {
+      "kuerzel": "IPK",
+      "name": "Produktionsanlagen und Konstruktionstechnik",
+      "standort": "Berlin",
+      "gruendungsjahr": "1976"
+    },
+    {
+      "kuerzel": "IPA",
+      "name": "Produktionstechnik und Automatisierung",
+      "standort": "Stuttgart",
+      "gruendungsjahr": "1971"
+    },
+    {
+      "kuerzel": "IPT",
+      "name": "Produktionstechnologie",
+      "standort": "Aachen",
+      "gruendungsjahr": "1980"
+    },
+    {
+      "kuerzel": "IRB",
+      "name": "Raum und Bau (Fraunhofer-Informationszentrum)",
+      "standort": "Stuttgart",
+      "gruendungsjahr": "1960"
+    },
+    {
+      "kuerzel": "IST",
+      "name": "Schicht- und Oberflächentechnik",
+      "standort": "Braunschweig",
+      "gruendungsjahr": "1990"
+    },
+    {
+      "kuerzel": "SIT",
+      "name": "Sichere Informationstechnologie",
+      "standort": "Darmstadt",
+      "gruendungsjahr": "2008"
+    },
+    {
+      "kuerzel": "ISC",
+      "name": "Silicatforschung",
+      "standort": "Würzburg",
+      "gruendungsjahr": "1971"
+    },
+    {
+      "kuerzel": "ISIT",
+      "name": "Siliziumtechnologie",
+      "standort": "Itzehoe",
+      "gruendungsjahr": "1980"
+    },
+    {
+      "kuerzel": "ISST",
+      "name": "Software- und Systemtechnik",
+      "standort": "Dortmund",
+      "gruendungsjahr": "1992"
+    },
+    {
+      "kuerzel": "ISE",
+      "name": "Solare Energiesysteme",
+      "standort": "Freiburg im Breisgau",
+      "gruendungsjahr": "1981"
+    },
+    {
+      "kuerzel": "ISI",
+      "name": "System- und Innovationsforschung",
+      "standort": "Karlsruhe",
+      "gruendungsjahr": "1972"
+    },
+    {
+      "kuerzel": "ITWM",
+      "name": "Techno- und Wirtschaftsmathematik",
+      "standort": "Kaiserslautern",
+      "gruendungsjahr": "2001"
+    },
+    {
+      "kuerzel": "ITEM",
+      "name": "Toxikologie und Experimentelle Medizin",
+      "standort": "Hannover",
+      "gruendungsjahr": "1981"
+    },
+    {
+      "kuerzel": "ITMP",
+      "name": "Translationale Medizin und Pharmakologie",
+      "standort": "Frankfurt am Main, Hamburg, Berlin, Göttingen, Penzberg bei München",
+      "gruendungsjahr": "2021"
+    },
+    {
+      "kuerzel": "UMSICHT",
+      "name": "Umwelt-, Sicherheits- und Energietechnik",
+      "standort": "Oberhausen",
+      "gruendungsjahr": "1990"
+    },
+    {
+      "kuerzel": "IVV",
+      "name": "Verfahrenstechnik und Verpackung",
+      "standort": "Freising",
+      "gruendungsjahr": "1973"
+    },
+    {
+      "kuerzel": "IVI",
+      "name": "Verkehrs- und Infrastruktursysteme",
+      "standort": "Dresden",
+      "gruendungsjahr": "1999"
+    },
+    {
+      "kuerzel": "IWM",
+      "name": "Werkstoffmechanik",
+      "standort": "Freiburg im Breisgau",
+      "gruendungsjahr": "1971"
+    },
+    {
+      "kuerzel": "IWS",
+      "name": "Werkstoff- und Strahltechnik",
+      "standort": "Dresden",
+      "gruendungsjahr": "1992"
+    },
+    {
+      "kuerzel": "IWU",
+      "name": "Werkzeugmaschinen und Umformtechnik",
+      "standort": "Chemnitz",
+      "gruendungsjahr": "1991"
+    },
+    {
+      "kuerzel": "IWKS",
+      "name": "Wertstoffkreisläufe und Ressourcenstrategie (Fraunhofer-Einrichtung)",
+      "standort": "Alzenau, Hanau",
+      "gruendungsjahr": "2011"
+    },
+    {
+      "kuerzel": "IWES",
+      "name": "Windenergiesysteme",
+      "standort": "Bremerhaven",
+      "gruendungsjahr": "2009"
+    },
+    {
+      "kuerzel": "IZI",
+      "name": "Zelltherapie und Immunologie",
+      "standort": "Leipzig",
+      "gruendungsjahr": "2005"
+    },
+    {
+      "kuerzel": "IZFP",
+      "name": "Zerstörungsfreie Prüfverfahren",
+      "standort": "Saarbrücken",
+      "gruendungsjahr": "1972"
+    },
+    {
+      "kuerzel": "IZM",
+      "name": "Zuverlässigkeit und Mikrointegration",
+      "standort": "Berlin",
+      "gruendungsjahr": "1993"
+    },
+    {
+      "kuerzel": "FFB",
+      "name": "Forschungsfertigung Batteriezelle (Fraunhofer-Einrichtung)",
+      "standort": "Münster",
+      "gruendungsjahr": "2022"
+    }
+  ],
+  "meta": {
+    "title": "Fraunhofer-Institute und -Einrichtungen - Free Download",
+    "description": "Die Institute und Einrichtungen der Fraunhofer-Gesellschaft mit Kürzel, Standort und Gründungsjahr. Contains 75 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Fraunhofer-Institute und -Einrichtungen | ListBase",
+    "seo_description": "Download Fraunhofer-Institute und -Einrichtungen — 75 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 75 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Fraunhofer-Institute_und_-Einrichtungen"
+    ]
+  }
+}

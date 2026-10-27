@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-27T02:22:29.233Z",
-  "total_datasets": 478,
-  "total_records": 1866817,
+  "generated": "2026-10-27T02:22:32.033Z",
+  "total_datasets": 479,
+  "total_records": 1866892,
   "categories": [
     {
       "id": "agriculture",
@@ -63,6 +63,10 @@
     {
       "id": "reference",
       "dataset_count": 206
+    },
+    {
+      "id": "science",
+      "dataset_count": 1
     },
     {
       "id": "society",
@@ -11006,6 +11010,31 @@
         "xlsx": {
           "name": "li-communes_DE.xlsx",
           "size": 7088
+        }
+      }
+    },
+    {
+      "id": "de-fraunhofer-institute",
+      "name": "Fraunhofer-Institute und -Einrichtungen",
+      "category": "science",
+      "record_count": 75,
+      "columns": [
+        "kuerzel",
+        "name",
+        "standort",
+        "gruendungsjahr"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Fraunhofer-Institute_und_-Einrichtungen",
+      "updated": "2026-10",
+      "size": 13363,
+      "files": {
+        "csv": {
+          "name": "de-fraunhofer-institute_DE.csv",
+          "size": 5100
+        },
+        "xlsx": {
+          "name": "de-fraunhofer-institute_DE.xlsx",
+          "size": 10330
         }
       }
     },
