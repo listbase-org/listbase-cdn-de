@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-27T02:23:04.875Z",
-  "total_datasets": 492,
-  "total_records": 1871473,
+  "generated": "2026-10-27T02:23:07.791Z",
+  "total_datasets": 493,
+  "total_records": 1871509,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "law",
@@ -5038,6 +5038,30 @@
         "xlsx": {
           "name": "de-sprachen_DE.xlsx",
           "size": 22934
+        }
+      }
+    },
+    {
+      "id": "de-unwort-des-jahres",
+      "name": "Unwort des Jahres (Deutschland)",
+      "category": "language",
+      "record_count": 36,
+      "columns": [
+        "jahr",
+        "unwort",
+        "begruendung"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Unwort_des_Jahres_(Deutschland)",
+      "updated": "2026-10",
+      "size": 13602,
+      "files": {
+        "csv": {
+          "name": "de-unwort-des-jahres_DE.csv",
+          "size": 9889
+        },
+        "xlsx": {
+          "name": "de-unwort-des-jahres_DE.xlsx",
+          "size": 11849
         }
       }
     },
