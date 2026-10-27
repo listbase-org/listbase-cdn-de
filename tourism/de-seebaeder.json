@@ -1,0 +1,446 @@
+{
+  "id": "de-seebaeder",
+  "name": "Deutsche Seebäder",
+  "title": "Deutsche Seebäder",
+  "description": "Seebäder an Nord- und Ostsee mit Region/Insel, Landkreis, Prädikat, Einwohnern, Übernachtungen und Besonderheiten.",
+  "category": "tourism",
+  "source": "https://de.wikipedia.org/wiki/Liste_deutscher_Seebäder",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_deutscher_Seebäder",
+  "updated": "2026-10",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "region_insel",
+      "label": "Region Insel",
+      "type": "string"
+    },
+    {
+      "key": "landkreis",
+      "label": "Landkreis",
+      "type": "string"
+    },
+    {
+      "key": "typ",
+      "label": "Typ",
+      "type": "string"
+    },
+    {
+      "key": "seit",
+      "label": "Seit",
+      "type": "number"
+    },
+    {
+      "key": "einwohner",
+      "label": "Einwohner",
+      "type": "number"
+    },
+    {
+      "key": "uebernachtungen_2012",
+      "label": "Uebernachtungen 2012",
+      "type": "number"
+    },
+    {
+      "key": "besonderheiten",
+      "label": "Besonderheiten",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ort": "Ahlbeck (Gemeinde Heringsdorf)",
+      "region_insel": "Insel Usedom",
+      "landkreis": "Vorpommern-Greifswald",
+      "typ": "Ostseeheilbad",
+      "seit": "",
+      "einwohner": 7274,
+      "uebernachtungen_2012": 495776,
+      "besonderheiten": "(Zahlen: Gemeinde Heringsdorf) Seebrücke Ahlbeck, ein Wahrzeichen der Insel Usedom; Ostseetherme"
+    },
+    {
+      "ort": "Ahrenshoop",
+      "region_insel": "Darß",
+      "landkreis": "Vorpommern-Rügen",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 642,
+      "uebernachtungen_2012": 176065,
+      "besonderheiten": "berühmte Künstlerkolonie (Kunstmuseum, Kunstkaten, Künstlerhaus Lukas)"
+    },
+    {
+      "ort": "Altefähr",
+      "region_insel": "Insel Rügen",
+      "landkreis": "Vorpommern-Rügen",
+      "typ": "Seebad",
+      "seit": "2016",
+      "einwohner": 1275,
+      "uebernachtungen_2012": "",
+      "besonderheiten": ""
+    },
+    {
+      "ort": "Baabe",
+      "region_insel": "Insel Rügen",
+      "landkreis": "Vorpommern-Rügen",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 972,
+      "uebernachtungen_2012": 314624,
+      "besonderheiten": "Mönchguter Küstenfischermuseum, Aussichtspunkt Baaber Bollwerk"
+    },
+    {
+      "ort": "Bansin (Gemeinde Heringsdorf)",
+      "region_insel": "Insel Usedom",
+      "landkreis": "Vorpommern-Greifswald",
+      "typ": "Ostseeheilbad",
+      "seit": "",
+      "einwohner": 7274,
+      "uebernachtungen_2012": 495776,
+      "besonderheiten": "(Zahlen: Gemeinde Heringsdorf) Perlenkette mit prächtigen Bädervillen entlang der Strandpromenade"
+    },
+    {
+      "ort": "Binz",
+      "region_insel": "Insel Rügen",
+      "landkreis": "Vorpommern-Rügen",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 5293,
+      "uebernachtungen_2012": 382053,
+      "besonderheiten": "Kurhaus Binz, Seebad Prora aus der NS-Zeit, Naturerbe-Zentrum Rügen, Casino im Hotel Loev"
+    },
+    {
+      "ort": "Boltenhagen",
+      "region_insel": "",
+      "landkreis": "Nordwestmecklenburg",
+      "typ": "Seebad",
+      "seit": "",
+      "einwohner": 2445,
+      "uebernachtungen_2012": 149623,
+      "besonderheiten": "Marina/Yachthafen Weiße Wiek, Kurgarten"
+    },
+    {
+      "ort": "Breege mit Juliusruh",
+      "region_insel": "Insel Rügen",
+      "landkreis": "Vorpommern-Rügen",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 583,
+      "uebernachtungen_2012": 76251,
+      "besonderheiten": "Historische Kapitänshäuser in Breege, Hafen, Park Juliusruh"
+    },
+    {
+      "ort": "Diedrichshagen (Hansestadt Rostock)",
+      "region_insel": "",
+      "landkreis": "kreisfrei",
+      "typ": "Ostseebad",
+      "seit": "1996",
+      "einwohner": 1281,
+      "uebernachtungen_2012": "",
+      "besonderheiten": "Steilküste an der Stoltera mit begleitendem Ostseeküstenradweg über Warnemünde, reetgedeckter Dreiseitenhof"
+    },
+    {
+      "ort": "Dierhagen",
+      "region_insel": "",
+      "landkreis": "Vorpommern-Rügen",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 1475,
+      "uebernachtungen_2012": 77745,
+      "besonderheiten": ""
+    },
+    {
+      "ort": "Göhren",
+      "region_insel": "Insel Rügen",
+      "landkreis": "Vorpommern-Rügen",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 1388,
+      "uebernachtungen_2012": 89621,
+      "besonderheiten": ""
+    },
+    {
+      "ort": "Graal-Müritz",
+      "region_insel": "",
+      "landkreis": "Rostock",
+      "typ": "Ostseeheilbad",
+      "seit": "",
+      "einwohner": 4167,
+      "uebernachtungen_2012": 119606,
+      "besonderheiten": ""
+    },
+    {
+      "ort": "Heiligendamm (Stadt Bad Doberan)",
+      "region_insel": "",
+      "landkreis": "Rostock",
+      "typ": "Ostseeheilbad",
+      "seit": "",
+      "einwohner": 13059,
+      "uebernachtungen_2012": 27863,
+      "besonderheiten": "(Zahlen: Stadt Bad Doberan) Ältestes Seebad auf dem Kontinent (gegr. 1793), erste Beispiele der Bäderarchitektur (Villen an der „Perlenkette“, Grand Hotel Heiligendamm)"
+    },
+    {
+      "ort": "Heringsdorf",
+      "region_insel": "Insel Usedom",
+      "landkreis": "Vorpommern-Greifswald",
+      "typ": "Ostseeheilbad",
+      "seit": "",
+      "einwohner": 7274,
+      "uebernachtungen_2012": 495776,
+      "besonderheiten": "(Zahlen: Gemeinde Heringsdorf) Deutschlands längste Seebrücke (508 m) mit vielen Läden und Restaurants, Bädervillen (Villa Oechsler, Staudt, Oppenheim, Bleichröder, Achterkerke, Irmgard und weitere)"
+    },
+    {
+      "ort": "Hiddensee, Insel",
+      "region_insel": "",
+      "landkreis": "Vorpommern-Rügen",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 912,
+      "uebernachtungen_2012": 25711,
+      "besonderheiten": "Wahrzeichen Leuchtturm Dornbusch, berühmte Künstlerkolonie (Blaue Scheune)"
+    },
+    {
+      "ort": "Hohe Düne (Hansestadt Rostock)",
+      "region_insel": "",
+      "landkreis": "kreisfrei",
+      "typ": "Ostseebad",
+      "seit": "1996",
+      "einwohner": 620,
+      "uebernachtungen_2012": "",
+      "besonderheiten": "Yachthafen und Premium-Hotelanlage Hohe Düne"
+    },
+    {
+      "ort": "Karlshagen",
+      "region_insel": "Insel Usedom",
+      "landkreis": "Vorpommern-Greifswald",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 3046,
+      "uebernachtungen_2012": 48305,
+      "besonderheiten": ""
+    },
+    {
+      "ort": "Koserow",
+      "region_insel": "Insel Usedom",
+      "landkreis": "Vorpommern-Greifswald",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 1522,
+      "uebernachtungen_2012": 49109,
+      "besonderheiten": ""
+    },
+    {
+      "ort": "Kühlungsborn",
+      "region_insel": "",
+      "landkreis": "Rostock",
+      "typ": "Ostseeheilbad",
+      "seit": "",
+      "einwohner": 8100,
+      "uebernachtungen_2012": 328661,
+      "besonderheiten": ""
+    },
+    {
+      "ort": "Lauterbach (Gemeinde Putbus)",
+      "region_insel": "Insel Rügen",
+      "landkreis": "Vorpommern-Rügen",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 4488,
+      "uebernachtungen_2012": 39862,
+      "besonderheiten": "(Zahlen: Stadt Putbus)"
+    },
+    {
+      "ort": "Loddin",
+      "region_insel": "Insel Usedom",
+      "landkreis": "Vorpommern-Greifswald",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 864,
+      "uebernachtungen_2012": 41937,
+      "besonderheiten": ""
+    },
+    {
+      "ort": "Lubmin bei Greifswald",
+      "region_insel": "Pommersche Bucht",
+      "landkreis": "Vorpommern-Greifswald",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 2259,
+      "uebernachtungen_2012": 10801,
+      "besonderheiten": ""
+    },
+    {
+      "ort": "Markgrafenheide (Hansestadt Rostock)",
+      "region_insel": "",
+      "landkreis": "kreisfrei",
+      "typ": "Ostseebad",
+      "seit": "1996",
+      "einwohner": 563,
+      "uebernachtungen_2012": "",
+      "besonderheiten": ""
+    },
+    {
+      "ort": "Nienhagen",
+      "region_insel": "",
+      "landkreis": "Rostock",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 2221,
+      "uebernachtungen_2012": 14335,
+      "besonderheiten": "„Gespensterwald“ an der Steilküste"
+    },
+    {
+      "ort": "Poel, Insel",
+      "region_insel": "",
+      "landkreis": "Nordwestmecklenburg",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 2486,
+      "uebernachtungen_2012": 30549,
+      "besonderheiten": "Wahrzeichen Leuchtturm Timmendorf, Kirche von Kirchdorf, Kirchdorfer Schwedenfest im Sommer"
+    },
+    {
+      "ort": "Prerow",
+      "region_insel": "Darß",
+      "landkreis": "Vorpommern-Rügen",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 1324,
+      "uebernachtungen_2012": 61070,
+      "besonderheiten": ""
+    },
+    {
+      "ort": "Rerik",
+      "region_insel": "Salzhaff",
+      "landkreis": "Rostock",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 2199,
+      "uebernachtungen_2012": 77941,
+      "besonderheiten": "Schmiedeberg am Strand mit Ausblick"
+    },
+    {
+      "ort": "Sassnitz",
+      "region_insel": "Insel Rügen",
+      "landkreis": "Vorpommern-Rügen",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 8879,
+      "uebernachtungen_2012": 73880,
+      "besonderheiten": "„Tor zum Nationalpark Jasmund “ mit den Rügener Kreidefelsen"
+    },
+    {
+      "ort": "Sellin",
+      "region_insel": "Insel Rügen",
+      "landkreis": "Vorpommern-Rügen",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 2465,
+      "uebernachtungen_2012": 130037,
+      "besonderheiten": "Seebrücke Sellin, ein Wahrzeichen Rügens"
+    },
+    {
+      "ort": "Mönchgut",
+      "region_insel": "Insel Rügen",
+      "landkreis": "Vorpommern-Rügen",
+      "typ": "Ostseebad",
+      "seit": "2020",
+      "einwohner": 1360,
+      "uebernachtungen_2012": 345143,
+      "besonderheiten": "Südperd mit Steilküste"
+    },
+    {
+      "ort": "Trassenheide",
+      "region_insel": "Insel Usedom",
+      "landkreis": "Vorpommern-Greifswald",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 884,
+      "uebernachtungen_2012": 55346,
+      "besonderheiten": "Europas größte Schmetterlingsfarm"
+    },
+    {
+      "ort": "Ückeritz",
+      "region_insel": "Insel Usedom",
+      "landkreis": "Vorpommern-Greifswald",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 1020,
+      "uebernachtungen_2012": 55725,
+      "besonderheiten": ""
+    },
+    {
+      "ort": "Ueckermünde",
+      "region_insel": "",
+      "landkreis": "Vorpommern-Greifswald",
+      "typ": "Seebad",
+      "seit": "",
+      "einwohner": 8651,
+      "uebernachtungen_2012": "",
+      "besonderheiten": "erhaltener Altstadtkern mit Stadthafen, Stadtstrand am Stettiner Haff"
+    },
+    {
+      "ort": "Warnemünde (Stadt Rostock)",
+      "region_insel": "",
+      "landkreis": "kreisfrei",
+      "typ": "Ostseebad",
+      "seit": "1996",
+      "einwohner": 6670,
+      "uebernachtungen_2012": 313317,
+      "besonderheiten": "Leuchtturm und Teepott als Wahrzeichen"
+    },
+    {
+      "ort": "Wustrow",
+      "region_insel": "Fischland",
+      "landkreis": "Vorpommern-Rügen",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 1134,
+      "uebernachtungen_2012": 51511,
+      "besonderheiten": ""
+    },
+    {
+      "ort": "Zempin",
+      "region_insel": "Insel Usedom",
+      "landkreis": "Vorpommern-Greifswald",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 872,
+      "uebernachtungen_2012": 23930,
+      "besonderheiten": ""
+    },
+    {
+      "ort": "Zingst",
+      "region_insel": "Zingst",
+      "landkreis": "Vorpommern-Rügen",
+      "typ": "Seeheilbad",
+      "seit": "",
+      "einwohner": 2867,
+      "uebernachtungen_2012": 135043,
+      "besonderheiten": ""
+    },
+    {
+      "ort": "Zinnowitz",
+      "region_insel": "Insel Usedom",
+      "landkreis": "Vorpommern-Greifswald",
+      "typ": "Ostseebad",
+      "seit": "",
+      "einwohner": 4114,
+      "uebernachtungen_2012": 157809,
+      "besonderheiten": "Tauchgondel auf der Seebrücke, Lift-Café an der Promenade"
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Seebäder - Free Download",
+    "description": "Seebäder an Nord- und Ostsee mit Region/Insel, Landkreis, Prädikat, Einwohnern, Übernachtungen und Besonderheiten. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Deutsche Seebäder | ListBase",
+    "seo_description": "Download Deutsche Seebäder — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_deutscher_Seebäder"
+    ]
+  }
+}
