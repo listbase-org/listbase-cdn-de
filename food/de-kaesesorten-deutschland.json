@@ -1,0 +1,219 @@
+{
+  "id": "de-kaesesorten-deutschland",
+  "name": "Käsesorten aus Deutschland",
+  "title": "Käsesorten aus Deutschland",
+  "description": "Deutsche Käsesorten mit geschützter Herkunftsbezeichnung (g.U./g.g.A.): Region, Milchart und Käsetyp.",
+  "category": "food",
+  "source": "https://de.wikipedia.org/wiki/Liste_von_Käsesorten_aus_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_von_Käsesorten_aus_Deutschland",
+  "updated": "2026-10",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "kaese",
+      "label": "Kaese",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "milch",
+      "label": "Milch",
+      "type": "string"
+    },
+    {
+      "key": "schutzstatus",
+      "label": "Schutzstatus",
+      "type": "string"
+    },
+    {
+      "key": "typ",
+      "label": "Typ",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kaese": "Allgäuer Bergkäse",
+      "region": "Allgäu",
+      "milch": "Kuh",
+      "schutzstatus": "g.U.",
+      "typ": "Schnittkäse"
+    },
+    {
+      "kaese": "Allgäuer Emmentaler",
+      "region": "Allgäu",
+      "milch": "Kuh",
+      "schutzstatus": "g.U.",
+      "typ": "halbfester Hartkäse (Schnittkäse)"
+    },
+    {
+      "kaese": "Allgäuer Sennalpkäse",
+      "region": "Allgäu",
+      "milch": "Kuh",
+      "schutzstatus": "g.U.",
+      "typ": "Hartkäse"
+    },
+    {
+      "kaese": "Altenburger Ziegenkäse",
+      "region": "Altenburger Land",
+      "milch": "Kuh / Ziege",
+      "schutzstatus": "g.U.",
+      "typ": "Weichkäse"
+    },
+    {
+      "kaese": "Bavaria blu",
+      "region": "Oberbayern",
+      "milch": "Kuh",
+      "schutzstatus": "",
+      "typ": "Blauschimmelkäse"
+    },
+    {
+      "kaese": "Harzer Käse",
+      "region": "Sachsen, Sachsen-Anhalt, Niedersachsen, Hessen, Thüringen",
+      "milch": "Kuh",
+      "schutzstatus": "",
+      "typ": "Sauermilchkäse"
+    },
+    {
+      "kaese": "Hessischer Handkäse",
+      "region": "Hessen, Rheinhessen, Pfalz",
+      "milch": "Kuh",
+      "schutzstatus": "g.g.A.",
+      "typ": "Sauermilchkäse"
+    },
+    {
+      "kaese": "Holsteiner Tilsiter",
+      "region": "ganz Schleswig-Holstein",
+      "milch": "Kuh",
+      "schutzstatus": "g.g.A.",
+      "typ": "halbfester Hartkäse (Schnittkäse)"
+    },
+    {
+      "kaese": "Hüttenkäse",
+      "region": "",
+      "milch": "Kuh",
+      "schutzstatus": "",
+      "typ": "Frischkäse"
+    },
+    {
+      "kaese": "Korbkäse",
+      "region": "",
+      "milch": "Kuh",
+      "schutzstatus": "",
+      "typ": "Sauermilchkäse"
+    },
+    {
+      "kaese": "Klützer Gold",
+      "region": "Klützer Winkel",
+      "milch": "Kuh",
+      "schutzstatus": "",
+      "typ": "Rotschmierkäse"
+    },
+    {
+      "kaese": "Limburger",
+      "region": "Allgäu",
+      "milch": "Kuh",
+      "schutzstatus": "",
+      "typ": "Rotschmierkäse"
+    },
+    {
+      "kaese": "Mainzer Käse",
+      "region": "",
+      "milch": "Kuh",
+      "schutzstatus": "",
+      "typ": "Sauermilchkäse"
+    },
+    {
+      "kaese": "Nieheimer Käse",
+      "region": "Ostwestfalen",
+      "milch": "Kuh",
+      "schutzstatus": "g.g.A.",
+      "typ": "Sauermilchkäse"
+    },
+    {
+      "kaese": "Odenwälder Frühstückskäse",
+      "region": "Odenwald",
+      "milch": "Kuh",
+      "schutzstatus": "g.U.",
+      "typ": "Rotschmierkäse"
+    },
+    {
+      "kaese": "Kochkäse",
+      "region": "",
+      "milch": "Kuh",
+      "schutzstatus": "",
+      "typ": "Schmelzkäse"
+    },
+    {
+      "kaese": "Romadur",
+      "region": "Allgäu",
+      "milch": "Kuh",
+      "schutzstatus": "",
+      "typ": "Schmelzkäse"
+    },
+    {
+      "kaese": "Sonneborner Weichkäse",
+      "region": "Altenburg und Schmölln",
+      "milch": "Kuh",
+      "schutzstatus": "g.U.",
+      "typ": "Weichkäse"
+    },
+    {
+      "kaese": "Steinbuscher",
+      "region": "Allgäu (früher Pommern, Ostbrandenburg)",
+      "milch": "Kuh",
+      "schutzstatus": "",
+      "typ": "Halbfester Hartkäse (Schnittkäse)"
+    },
+    {
+      "kaese": "Tiefländer",
+      "region": "Mecklenburg",
+      "milch": "Kuh",
+      "schutzstatus": "g.U.",
+      "typ": "Hartkäse"
+    },
+    {
+      "kaese": "Tilsiter / Tollenser",
+      "region": "Norddeutschland (früher Ostpreußen)",
+      "milch": "Kuh",
+      "schutzstatus": "",
+      "typ": "halbfester Hartkäse (Schnittkäse)"
+    },
+    {
+      "kaese": "Weißlacker",
+      "region": "Allgäu",
+      "milch": "Kuh",
+      "schutzstatus": "g.U.",
+      "typ": "Halbfester Schnittkäse"
+    },
+    {
+      "kaese": "Wilstermarschkäse",
+      "region": "Wilstermarsch, (Schleswig-Holstein)",
+      "milch": "Kuh",
+      "schutzstatus": "",
+      "typ": "Halbfester Hartkäse (Schnittkäse)"
+    },
+    {
+      "kaese": "Würchwitzer Milbenkäse (auch Altenburger Milbenkäse)",
+      "region": "Würchwitz",
+      "milch": "Kuh / Ziege",
+      "schutzstatus": "",
+      "typ": "Sauermilchkäse"
+    }
+  ],
+  "meta": {
+    "title": "Käsesorten aus Deutschland - Free Download",
+    "description": "Deutsche Käsesorten mit geschützter Herkunftsbezeichnung (g.U./g.g.A.): Region, Milchart und Käsetyp. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Käsesorten aus Deutschland | ListBase",
+    "seo_description": "Download Käsesorten aus Deutschland — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_von_Käsesorten_aus_Deutschland"
+    ]
+  }
+}
