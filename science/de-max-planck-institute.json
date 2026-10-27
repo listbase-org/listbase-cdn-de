@@ -1,0 +1,856 @@
+{
+  "id": "de-max-planck-institute",
+  "name": "Max-Planck-Institute und -Einrichtungen",
+  "title": "Max-Planck-Institute und -Einrichtungen",
+  "description": "Liste der Institute und Forschungseinrichtungen der Max-Planck-Gesellschaft mit Standort, Namensjahr und Hinweisen.",
+  "category": "science",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Max-Planck-Institute_und_-Einrichtungen",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Max-Planck-Institute_und_-Einrichtungen",
+  "updated": "2026-10",
+  "record_count": 135,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "name_seit",
+      "label": "Name Seit",
+      "type": "number"
+    },
+    {
+      "key": "hinweise",
+      "label": "Hinweise",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bibliotheca Hertziana – MPI für Kunstgeschichte",
+      "ort": "Rom (Italien)",
+      "name_seit": "1953",
+      "hinweise": "1913 Gründung der Bibliotheca Hertziana"
+    },
+    {
+      "name": "Ernst-Strüngmann-Institut der Max-Planck-Gesellschaft",
+      "ort": "Frankfurt am Main",
+      "name_seit": "2026",
+      "hinweise": "Gründung 2008, 2026 Aufnahme in die Max-Planck-Gesellschaft"
+    },
+    {
+      "name": "Fritz-Haber-Institut der Max-Planck-Gesellschaft",
+      "ort": "Berlin",
+      "name_seit": "1953",
+      "hinweise": "Schwerpunkt Molekülphysik"
+    },
+    {
+      "name": "Kunsthistorisches Institut in Florenz – MPI",
+      "ort": "Florenz (Italien)",
+      "name_seit": "2002",
+      "hinweise": "1897 Gründung des Instituts, seit 2002 MPI"
+    },
+    {
+      "name": "Max Planck Florida Institute for Neuroscience",
+      "ort": "Jupiter, Florida (USA)",
+      "name_seit": "2007",
+      "hinweise": "2012 Eröffnung, erstes und bisher einziges MPI außerhalb Europas"
+    },
+    {
+      "name": "MPI für Astronomie",
+      "ort": "Heidelberg",
+      "name_seit": "1967",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Astrophysik",
+      "ort": "Garching bei München",
+      "name_seit": "1991",
+      "hinweise": "zuvor ein Teilinstitut des MPI für Physik und Astrophysik"
+    },
+    {
+      "name": "MPI für ausländisches und internationales Privatrecht",
+      "ort": "Hamburg",
+      "name_seit": "1949",
+      "hinweise": "1956 Umzug von Berlin nach Hamburg"
+    },
+    {
+      "name": "MPI für ausländisches öffentliches Recht und Völkerrecht",
+      "ort": "Heidelberg",
+      "name_seit": "1949",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Bildungsforschung",
+      "ort": "Berlin",
+      "name_seit": "1971",
+      "hinweise": "zuvor Institut für Bildungsforschung in der Max-Planck-Gesellschaft"
+    },
+    {
+      "name": "MPI für Biochemie",
+      "ort": "Planegg - Martinsried",
+      "name_seit": "1949/ 1973",
+      "hinweise": "1954 Ausgliederung der Abteilung für Virusforschung als MPI für Virusforschung 1956 Verlegung von Tübingen nach München 1972/73 Integration des bisherigen MPI für Eiweiß- und Lederforschung und des bisherigen MPI für Zellchemie am neuen Standort Martinsried"
+    },
+    {
+      "name": "MPI für Biogeochemie",
+      "ort": "Jena",
+      "name_seit": "1997",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Biologie des Alterns",
+      "ort": "Köln",
+      "name_seit": "2008",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Biologie Tübingen",
+      "ort": "Tübingen",
+      "name_seit": "2022",
+      "hinweise": "zuvor MPI für Entwicklungsbiologie"
+    },
+    {
+      "name": "MPI für biologische Intelligenz",
+      "ort": "Planegg - Martinsried und Pöcking - Seewiesen",
+      "name_seit": "2022",
+      "hinweise": "entstanden durch Zusammenlegung des MPI für Neurobiologie und des MPI für Ornithologie, rechtlich wirksam ab 2023"
+    },
+    {
+      "name": "MPI für biologische Kybernetik",
+      "ort": "Tübingen",
+      "name_seit": "1968",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Biophysik",
+      "ort": "Frankfurt am Main",
+      "name_seit": "1948",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Chemie (Otto-Hahn-Institut)",
+      "ort": "Mainz",
+      "name_seit": "1949",
+      "hinweise": "Beiname „Otto-Hahn-Institut“ seit 1959"
+    },
+    {
+      "name": "MPI für Chemische Energiekonversion",
+      "ort": "Mülheim an der Ruhr",
+      "name_seit": "2012",
+      "hinweise": "hervorgegangen aus dem MPI für bioanorganische Chemie"
+    },
+    {
+      "name": "MPI für chemische Ökologie",
+      "ort": "Jena",
+      "name_seit": "1996",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Chemische Physik fester Stoffe",
+      "ort": "Dresden",
+      "name_seit": "1995",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für demografische Forschung",
+      "ort": "Rostock",
+      "name_seit": "1995",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Dynamik komplexer technischer Systeme",
+      "ort": "Magdeburg",
+      "name_seit": "1996",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Dynamik und Selbstorganisation",
+      "ort": "Göttingen",
+      "name_seit": "2004",
+      "hinweise": "zuvor MPI für Strömungsforschung"
+    },
+    {
+      "name": "MPI für empirische Ästhetik",
+      "ort": "Frankfurt am Main",
+      "name_seit": "2012",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Politik- und Sozialwissenschaft",
+      "ort": "Göttingen",
+      "name_seit": "2007",
+      "hinweise": "hervorgegangen aus dem MPI für Geschichte; bis 2026 MPI zur Erforschung multireligiöser und multiethnischer Gesellschaften"
+    },
+    {
+      "name": "MPI zur Erforschung von Kriminalität, Sicherheit und Recht",
+      "ort": "Freiburg im Breisgau",
+      "name_seit": "2020",
+      "hinweise": "zuvor MPI für ausländisches und internationales Strafrecht"
+    },
+    {
+      "name": "MPI für ethnologische Forschung",
+      "ort": "Halle (Saale)",
+      "name_seit": "1999",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für evolutionäre Anthropologie",
+      "ort": "Leipzig",
+      "name_seit": "1997",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Evolutionsbiologie",
+      "ort": "Plön",
+      "name_seit": "2007",
+      "hinweise": "zuvor MPI für Limnologie"
+    },
+    {
+      "name": "MPI für extraterrestrische Physik",
+      "ort": "Garching bei München",
+      "name_seit": "1991",
+      "hinweise": "zuvor ein Teilinstitut des MPI für Physik und Astrophysik"
+    },
+    {
+      "name": "MPI für Festkörperforschung",
+      "ort": "Stuttgart",
+      "name_seit": "1969",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Geoanthropologie",
+      "ort": "Jena",
+      "name_seit": "2022",
+      "hinweise": "zuvor MPI für Menschheitsgeschichte"
+    },
+    {
+      "name": "MPI für Gesellschaftsforschung",
+      "ort": "Köln",
+      "name_seit": "1985",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Gravitationsphysik (Albert-Einstein-Institut)",
+      "ort": "Potsdam und Hannover",
+      "name_seit": "1995",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Herz- und Lungenforschung (W. G. Kerckhoff-Institut)",
+      "ort": "Bad Nauheim",
+      "name_seit": "2004",
+      "hinweise": "zuvor MPI für Physiologische und Klinische Forschung"
+    },
+    {
+      "name": "MPI für Hirnforschung",
+      "ort": "Frankfurt am Main",
+      "name_seit": "1948",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Immunbiologie und Epigenetik",
+      "ort": "Freiburg im Breisgau",
+      "name_seit": "2010",
+      "hinweise": "zuvor MPI für Immunbiologie"
+    },
+    {
+      "name": "MPI für Infektionsbiologie",
+      "ort": "Berlin",
+      "name_seit": "1993",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Informatik",
+      "ort": "Saarbrücken",
+      "name_seit": "1988",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Innovation und Wettbewerb",
+      "ort": "München",
+      "name_seit": "2013",
+      "hinweise": "zuvor MPI für Immaterialgüter- und Wettbewerbsrecht"
+    },
+    {
+      "name": "MPI für Intelligente Systeme",
+      "ort": "Stuttgart und Tübingen",
+      "name_seit": "2011",
+      "hinweise": "zuvor MPI für Metallforschung"
+    },
+    {
+      "name": "MPI für Kernphysik",
+      "ort": "Heidelberg",
+      "name_seit": "1958",
+      "hinweise": "zuvor Teilinstitut für Physik am MPI für medizinische Forschung"
+    },
+    {
+      "name": "MPI für Kognitions- und Neurowissenschaften",
+      "ort": "Leipzig",
+      "name_seit": "2004",
+      "hinweise": "Entstehung durch Zusammenführung des MPI für neuropsychologische Forschung und des MPI für psychologische Forschung"
+    },
+    {
+      "name": "MPI für Kohlenforschung",
+      "ort": "Mülheim an der Ruhr",
+      "name_seit": "1949",
+      "hinweise": "selbständige rechtsfähige Stiftung des privaten Rechts"
+    },
+    {
+      "name": "MPI für Kolloid- und Grenzflächenforschung",
+      "ort": "Potsdam",
+      "name_seit": "1992",
+      "hinweise": "1999 Auflösung voriger Standorte und Einzug in den Neubau in Golm (heute Ortsteil von Potsdam)"
+    },
+    {
+      "name": "MPI für Marine Mikrobiologie",
+      "ort": "Bremen",
+      "name_seit": "1992",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Mathematik",
+      "ort": "Bonn",
+      "name_seit": "1980",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Mathematik in den Naturwissenschaften",
+      "ort": "Leipzig",
+      "name_seit": "1996",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für medizinische Forschung",
+      "ort": "Heidelberg",
+      "name_seit": "1948",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Meteorologie",
+      "ort": "Hamburg",
+      "name_seit": "1975",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Mikrostrukturphysik",
+      "ort": "Halle (Saale)",
+      "name_seit": "1992",
+      "hinweise": "erstes MPI in Ostdeutschland"
+    },
+    {
+      "name": "MPI für molekulare Biomedizin",
+      "ort": "Münster",
+      "name_seit": "2001",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für molekulare Genetik",
+      "ort": "Berlin",
+      "name_seit": "1964",
+      "hinweise": "zuvor MPI für vergleichende Erbbiologie und Erbpathologie"
+    },
+    {
+      "name": "MPI für molekulare Pflanzenphysiologie",
+      "ort": "Potsdam",
+      "name_seit": "1994",
+      "hinweise": "Gründung in Golm, heute Ortsteil von Potsdam"
+    },
+    {
+      "name": "MPI für molekulare Physiologie",
+      "ort": "Dortmund",
+      "name_seit": "1993",
+      "hinweise": "Entstehung durch Zusammenlegung des MPI für Ernährungsphysiologie und des MPI für Systemphysiologie"
+    },
+    {
+      "name": "MPI für molekulare Zellbiologie und Genetik",
+      "ort": "Dresden",
+      "name_seit": "1998",
+      "hinweise": "2001 Bezug des Neubaus, 2002 Einweihung des Neubaus"
+    },
+    {
+      "name": "MPI für Multidisziplinäre Naturwissenschaften",
+      "ort": "Göttingen",
+      "name_seit": "2022",
+      "hinweise": "Entstehung durch Zusammenlegung des MPI für biophysikalische Chemie und des MPI für experimentelle Medizin"
+    },
+    {
+      "name": "MPI für Nachhaltige Materialien",
+      "ort": "Düsseldorf",
+      "name_seit": "2024",
+      "hinweise": "zuvor MPI für Eisenforschung als MPI seit 1948, seit 1971 rechtlich selbständige GmbH"
+    },
+    {
+      "name": "MPI für Neurobiologie des Verhaltens – caesar",
+      "ort": "Bonn",
+      "name_seit": "2022",
+      "hinweise": "zuvor Forschungszentrum caesar"
+    },
+    {
+      "name": "MPI für Pflanzenzüchtungsforschung",
+      "ort": "Köln",
+      "name_seit": "2009",
+      "hinweise": "zuvor MPI für Züchtungsforschung"
+    },
+    {
+      "name": "MPI für Physik (Werner-Heisenberg-Institut)",
+      "ort": "Garching bei München",
+      "name_seit": "1991",
+      "hinweise": "zuvor ein Teilinstitut des MPI für Physik und Astrophysik"
+    },
+    {
+      "name": "MPI für die Physik des Lichts",
+      "ort": "Erlangen",
+      "name_seit": "2009",
+      "hinweise": "zuvor eine Max-Planck-Forschungsgruppe an der Universität Erlangen-Nürnberg"
+    },
+    {
+      "name": "MPI für Physik komplexer Systeme",
+      "ort": "Dresden",
+      "name_seit": "1992",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Plasmaphysik",
+      "ort": "Garching bei München und Greifswald",
+      "name_seit": "1971",
+      "hinweise": "zuvor Institut für Plasmaphysik GmbH, seit 1994 mit Standort in Greifswald"
+    },
+    {
+      "name": "MPI für Polymerforschung",
+      "ort": "Mainz",
+      "name_seit": "1983",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Psychiatrie",
+      "ort": "München",
+      "name_seit": "1966/ 2017",
+      "hinweise": "zuvor Deutsche Forschungsanstalt für Psychiatrie, 1954 Aufnahme in die Max-Planck-Gesellschaft, 1963 Aufteilung in ein klinisches und ein theoretisches Teilinstitut 1966 Umbenennung in MPI für Psychiatrie (Deutsche Forschungsanstalt für Psychiatrie) 2017 Umbenennung in MPI für Psychiatrie"
+    },
+    {
+      "name": "MPI für Psycholinguistik",
+      "ort": "Nijmegen (Niederlande)",
+      "name_seit": "1980",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Quantenoptik",
+      "ort": "Garching bei München",
+      "name_seit": "1981",
+      "hinweise": "zuvor eine Projektgruppe für Laserforschung"
+    },
+    {
+      "name": "MPI für Radioastronomie",
+      "ort": "Bonn und Bad Münstereifel",
+      "name_seit": "1966",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Rechtsgeschichte und Rechtstheorie",
+      "ort": "Frankfurt am Main",
+      "name_seit": "2021",
+      "hinweise": "Gründung 1964 als MPI für europäische Rechtsgeschichte; Namensänderung und teilweise Neuausrichtung 2021"
+    },
+    {
+      "name": "MPI für Sicherheit und Privatsphäre",
+      "ort": "Bochum",
+      "name_seit": "2019",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Softwaresysteme",
+      "ort": "Saarbrücken und Kaiserslautern",
+      "name_seit": "2004",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Sonnensystemforschung",
+      "ort": "Göttingen",
+      "name_seit": "2004",
+      "hinweise": "zuvor MPI für Aeronomie"
+    },
+    {
+      "name": "MPI für Sozialrecht und Sozialpolitik",
+      "ort": "München",
+      "name_seit": "2011",
+      "hinweise": "Gründung 1980 als MPI für ausländisches und internationales Sozialrecht"
+    },
+    {
+      "name": "MPI für Steuerrecht und Öffentliche Finanzen",
+      "ort": "München",
+      "name_seit": "2011",
+      "hinweise": "Entstehung durch Aufteilung des MPI für Geistiges Eigentum, Wettbewerbs- und Steuerrecht"
+    },
+    {
+      "name": "MPI für Stoffwechselforschung",
+      "ort": "Köln",
+      "name_seit": "2014",
+      "hinweise": "zuvor MPI für neurologische Forschung"
+    },
+    {
+      "name": "MPI für Struktur und Dynamik der Materie",
+      "ort": "Hamburg",
+      "name_seit": "2014",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für terrestrische Mikrobiologie",
+      "ort": "Marburg",
+      "name_seit": "1991",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Verhaltensbiologie",
+      "ort": "Radolfzell am Bodensee und Konstanz",
+      "name_seit": "2019",
+      "hinweise": "aus einem Standort des MPI für Ornithologie entstanden"
+    },
+    {
+      "name": "MPI für Verhaltensökonomik",
+      "ort": "Bonn",
+      "name_seit": "2004",
+      "hinweise": "bis Januar 2026 Max-Planck-Institut zur Erforschung von Gemeinschaftsgütern"
+    },
+    {
+      "name": "MPI für Wissenschaftsgeschichte",
+      "ort": "Berlin",
+      "name_seit": "1994",
+      "hinweise": ""
+    },
+    {
+      "name": "Friedrich-Miescher-Laboratorium der MPG",
+      "ort": "Tübingen",
+      "name_seit": "1969",
+      "hinweise": ""
+    },
+    {
+      "name": "Max-Planck-Forschungsstelle für Neurogenetik",
+      "ort": "Frankfurt am Main",
+      "name_seit": "2012",
+      "hinweise": "zuvor Abteilung Molekulare Neurogenetik am MPI für Biophysik"
+    },
+    {
+      "name": "Max-Planck-Forschungsstelle für die Wissenschaft der Pathogene",
+      "ort": "Berlin",
+      "name_seit": "2018",
+      "hinweise": "zuvor eine Abteilung am MPI für Infektionsbiologie"
+    },
+    {
+      "name": "Max Planck Information and Technology",
+      "ort": "München",
+      "name_seit": "2026",
+      "hinweise": "zuvor Max Planck Digital Library und Abteilung IKT der Generalverwaltung der Max-Planck-Gesellschaft"
+    },
+    {
+      "name": "Forschungsgruppe Soziale Neurowissenschaften",
+      "ort": "Berlin",
+      "name_seit": "",
+      "hinweise": ""
+    },
+    {
+      "name": "Archiv der Max-Planck-Gesellschaft",
+      "ort": "Berlin",
+      "name_seit": "2006",
+      "hinweise": "zuvor Archiv zur Geschichte der Max-Planck-Gesellschaft"
+    },
+    {
+      "name": "MPI für Aeronomie",
+      "ort": "Lindau (Eichsfeld)",
+      "name_seit": "1958–2004",
+      "hinweise": "umbenannt in MPI für Sonnensystemforschung"
+    },
+    {
+      "name": "MPI für Arbeitsphysiologie",
+      "ort": "Dortmund",
+      "name_seit": "1948–1973",
+      "hinweise": "umbenannt in MPI für Systemphysiologie 1973–1992, heute MPI für molekulare Physiologie"
+    },
+    {
+      "name": "MPI für ausländisches und internationales Patent-, Urheber- und Wettbewerbsrecht",
+      "ort": "München",
+      "name_seit": "1966–2002",
+      "hinweise": "dann umbenannt in MPI für Geistiges Eigentum, Wettbewerbs- und Steuerrecht"
+    },
+    {
+      "name": "MPI für Bastfaserforschung",
+      "ort": "Bielefeld, später Köln-Vogelsang",
+      "name_seit": "1948–1957",
+      "hinweise": "aufgelöst"
+    },
+    {
+      "name": "MPI für Biologie",
+      "ort": "Tübingen",
+      "name_seit": "1949–2004",
+      "hinweise": "geschlossen"
+    },
+    {
+      "name": "Max-Planck-Institut für Eisenforschung",
+      "ort": "Düsseldorf",
+      "name_seit": "1948–2024",
+      "hinweise": "umbenannt in MPI für Nachhaltige Materialien, vor 1948 KWI"
+    },
+    {
+      "name": "MPI für Eiweiß- und Lederforschung",
+      "ort": "Regensburg und München",
+      "name_seit": "1954–1973",
+      "hinweise": "ging im MPI für Biochemie auf"
+    },
+    {
+      "name": "MPI zur Erforschung der Lebensbedingungen der wissenschaftlich-technischen Welt",
+      "ort": "Starnberg",
+      "name_seit": "1970–1980",
+      "hinweise": "umbenannt in MPI für Sozialwissenschaften, 1981 geschlossen"
+    },
+    {
+      "name": "MPI zur Erforschung von Wirtschaftssystemen",
+      "ort": "Jena",
+      "name_seit": "1993–2005",
+      "hinweise": "danach MPI für Ökonomik, ab 2014 MPI für Menschheitsgeschichte, seit 2022 MPI für Geoanthropologie"
+    },
+    {
+      "name": "MPI für Ernährungsphysiologie",
+      "ort": "Dortmund",
+      "name_seit": "1983–1992",
+      "hinweise": "mit MPI für Systemphysiologie zusammengelegt zum MPI für molekulare Physiologie"
+    },
+    {
+      "name": "MPI für experimentelle Endokrinologie",
+      "ort": "Hannover",
+      "name_seit": "",
+      "hinweise": "1979 ausgegliedert aus dem MPI für Zellbiologie, 2006 im MPI für biophysikalische Chemie in Göttingen aufgegangen"
+    },
+    {
+      "name": "MPI für Geistiges Eigentum, Wettbewerbs- und Steuerrecht",
+      "ort": "München",
+      "name_seit": "2002–2011",
+      "hinweise": "dann Aufteilung in MPI für Immaterialgüter- und Wettbewerbsrecht (heute MPI für Innovation und Wettbewerb) und MPI für Steuerrecht und Öffentliche Finanzen, München"
+    },
+    {
+      "name": "MPI für Geschichte",
+      "ort": "Göttingen",
+      "name_seit": "1956–2007",
+      "hinweise": "umgewandelt in MPI zur Erforschung multireligiöser und multiethnischer Gesellschaften"
+    },
+    {
+      "name": "MPI für Immunbiologie",
+      "ort": "Freiburg",
+      "name_seit": "",
+      "hinweise": "im Dezember 2010 durch Etablierung der Epigenetikforschung umbenannt in MPI für Immunbiologie und Epigenetik"
+    },
+    {
+      "name": "MPI für Kulturpflanzenzüchtung",
+      "ort": "",
+      "name_seit": "1957–1968",
+      "hinweise": "1948 „Forschungsstelle von Sengbusch “ in Göttingen, 1951 Umzug in einen Neubau in Hamburg-Volksdorf, dort als Abteilung des MPI für Züchtungsforschung; ab 1969 Bundesforschungsanstalt"
+    },
+    {
+      "name": "MPI für Landarbeit und Landtechnik",
+      "ort": "Imbshausen und Bad Kreuznach",
+      "name_seit": "1948–1976",
+      "hinweise": ""
+    },
+    {
+      "name": "MPI für Limnologie",
+      "ort": "Plön",
+      "name_seit": "1966–2007",
+      "hinweise": "zuvor Hydrobiologische Anstalt in Plön, heute MPI für Evolutionsbiologie"
+    },
+    {
+      "name": "MPI Luxembourg for International, European and Regulatory Procedural Law",
+      "ort": "Luxemburg-Stadt (Luxemburg)",
+      "name_seit": "2012–2023",
+      "hinweise": "in die Universität Luxemburg überführt"
+    },
+    {
+      "name": "MPI für Meeresbiologie",
+      "ort": "Wilhelmshaven",
+      "name_seit": "1948–1968",
+      "hinweise": "danach bis 2003 MPI für Zellbiologie"
+    },
+    {
+      "name": "MPI für Neurobiologie",
+      "ort": "Martinsried bei München",
+      "name_seit": "1998–2022",
+      "hinweise": "aufgegangen im MPI für biologische Intelligenz"
+    },
+    {
+      "name": "MPI für neuropsychologische Forschung",
+      "ort": "Leipzig",
+      "name_seit": "1994–2004",
+      "hinweise": "nach Fusion mit dem MPI für psychologische Forschung umbenannt in MPI für Kognitions- und Neurowissenschaften"
+    },
+    {
+      "name": "MPI für Ökonomik",
+      "ort": "Jena",
+      "name_seit": "2005–2014",
+      "hinweise": "danach umgewidmet in MPI für Menschheitsgeschichte"
+    },
+    {
+      "name": "MPI für Ornithologie",
+      "ort": "Seewiesen, Andechs und Radolfzell am Bodensee",
+      "name_seit": "2004–2022",
+      "hinweise": "1997 als selbständige Max-Planck-Forschungsstelle für Ornithologie gegründet, 2004 in MPI für Ornithologie umbenannt; der Standort Radolfzell ging 2019 im MPI für Verhaltensbiologie auf"
+    },
+    {
+      "name": "MPI für Pflanzengenetik",
+      "ort": "Rosenhof bei Ladenburg",
+      "name_seit": "1960–1978",
+      "hinweise": "vorübergehende Ausgliederung aus dem MPI für Züchtungsforschung"
+    },
+    {
+      "name": "MPI für Physik der Stratosphäre",
+      "ort": "Weißenau (Ravensburg)",
+      "name_seit": "1952–1956",
+      "hinweise": "ging im MPI für Physik der Stratosphäre und der Ionosphäre auf"
+    },
+    {
+      "name": "MPI für Physik der Stratosphäre und der Ionosphäre",
+      "ort": "Weißenau (Ravensburg)",
+      "name_seit": "1956–1958",
+      "hinweise": "entstanden aus Zusammenlegung, ging im MPI für Aeronomie auf, heute MPI für Sonnensystemforschung"
+    },
+    {
+      "name": "MPI für Physik und Astrophysik",
+      "ort": "München",
+      "name_seit": "1948–1991",
+      "hinweise": "Aufspaltung in MPI für Physik, MPI für Astrophysik und MPI für extraterrestrische Physik"
+    },
+    {
+      "name": "MPI für physiologische und klinische Forschung",
+      "ort": "Bad Nauheim",
+      "name_seit": "1951–2005",
+      "hinweise": "heute MPI für Herz- und Lungenforschung"
+    },
+    {
+      "name": "MPI für psychologische Forschung",
+      "ort": "München",
+      "name_seit": "1981–2004",
+      "hinweise": "mit dem MPI für neuropsychologische Forschung fusioniert zum MPI für Kognitions- und Neurowissenschaften in Leipzig"
+    },
+    {
+      "name": "MPI für Silikatforschung",
+      "ort": "Würzburg",
+      "name_seit": "1948–1970",
+      "hinweise": "aus der MPG ausgegliedert und als Fraunhofer-Institut für Silicatforschung weitergeführt"
+    },
+    {
+      "name": "MPI für Spektroskopie",
+      "ort": "Göttingen",
+      "name_seit": "1965–1971",
+      "hinweise": "1950 als „Forschungsstelle für Spektroskopie in der MPG“ gegründet; 1971 im MPI für biophysikalische Chemie aufgegangen"
+    },
+    {
+      "name": "MPI für Strahlenchemie",
+      "ort": "Mülheim an der Ruhr",
+      "name_seit": "1981–2003",
+      "hinweise": "später MPI für bioanorganische Chemie, heute MPI für Chemische Energiekonversion"
+    },
+    {
+      "name": "MPI für Strömungsforschung",
+      "ort": "Göttingen",
+      "name_seit": "1948–2004",
+      "hinweise": "heute MPI für Dynamik und Selbstorganisation"
+    },
+    {
+      "name": "MPI für Tierzucht und Tierernährung",
+      "ort": "Mariensee (Neustadt am Rübenberge)",
+      "name_seit": "1948–1974",
+      "hinweise": "später bis 2007 Institut für Tierzucht der Bundesforschungsanstalt für Landwirtschaft."
+    },
+    {
+      "name": "MPI für vergleichende Erbbiologie und Erbpathologie",
+      "ort": "Berlin-Dahlem",
+      "name_seit": "1953–1964",
+      "hinweise": "umbenannt in MPI für molekulare Genetik"
+    },
+    {
+      "name": "MPI für Verhaltensphysiologie",
+      "ort": "Seewiesen",
+      "name_seit": "1958–1999",
+      "hinweise": "geschlossen, Teile umgegründet zum MPI für Ornithologie, heute MPI für biologische Intelligenz"
+    },
+    {
+      "name": "MPI für Virusforschung",
+      "ort": "Tübingen",
+      "name_seit": "1954–1984",
+      "hinweise": "heute MPI für Biologie Tübingen"
+    },
+    {
+      "name": "MPI für Zellbiologie",
+      "ort": "Wilhelmshaven, später Ladenburg",
+      "name_seit": "1968–2003",
+      "hinweise": "geschlossen"
+    },
+    {
+      "name": "MPI für Zellchemie",
+      "ort": "München",
+      "name_seit": "1956–1972",
+      "hinweise": "ging im MPI für Biochemie auf"
+    },
+    {
+      "name": "MPI für Zellphysiologie",
+      "ort": "Berlin-Dahlem",
+      "name_seit": "1953–1972",
+      "hinweise": "geschlossen (Direktor: Otto Warburg)"
+    },
+    {
+      "name": "Aerodynamische Versuchsanstalt in der Max-Planck-Gesellschaft",
+      "ort": "Göttingen",
+      "name_seit": "1953–1969",
+      "hinweise": "1953 Wiedereröffnung nach Aufhebung der Beschlagnahme durch die britische Besatzungsmacht, ab 1956 volle Integration in die MPG; 1969 auf eigenen Antrag ausgegliedert und von der Deutschen Forschungs- und Versuchsanstalt für Luft- und Raumfahrt e. V. übernommen"
+    },
+    {
+      "name": "Arbeitsgruppe Afheldt in der Max-Planck-Gesellschaft",
+      "ort": "Starnberg",
+      "name_seit": "1984–1989",
+      "hinweise": ""
+    },
+    {
+      "name": "Forschungsstelle Vennesland in der Max-Planck-Gesellschaft",
+      "ort": "Berlin-Dahlem",
+      "name_seit": "1970–1981",
+      "hinweise": "nach der Emeritierung von Birgit Vennesland geschlossen"
+    },
+    {
+      "name": "Gmelin-Institut für anorganische Chemie und Grenzgebiete",
+      "ort": "Clausthal-Zellerfeld, später Frankfurt am Main",
+      "name_seit": "1948–1997",
+      "hinweise": "geschlossen"
+    },
+    {
+      "name": "Institut für Instrumentenkunde in der Max-Planck-Gesellschaft",
+      "ort": "Göttingen",
+      "name_seit": "1946–1957",
+      "hinweise": "hervorgegangen aus der Aerodynamischen Versuchsanstalt; 1957 wieder ausgegliedert und von der Gesellschaft zur Förderung der kernphysikalischen Forschung (dem späteren Forschungszentrum Jülich) in Düsseldorf übernommen"
+    },
+    {
+      "name": "Max-Planck-Arbeitsgruppen für strukturelle Molekularbiologie am DESY",
+      "ort": "Hamburg",
+      "name_seit": "1985–2011",
+      "hinweise": "geschlossen"
+    },
+    {
+      "name": "Max-Planck-Forschungsstelle für Enzymologie der Proteinfaltung",
+      "ort": "Halle (Saale)",
+      "name_seit": "1996–2012",
+      "hinweise": ""
+    }
+  ],
+  "meta": {
+    "title": "Max-Planck-Institute und -Einrichtungen - Free Download",
+    "description": "Liste der Institute und Forschungseinrichtungen der Max-Planck-Gesellschaft mit Standort, Namensjahr und Hinweisen. Contains 135 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Max-Planck-Institute und -Einrichtungen | ListBase",
+    "seo_description": "Download Max-Planck-Institute und -Einrichtungen — 135 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 135 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Max-Planck-Institute_und_-Einrichtungen"
+    ]
+  }
+}

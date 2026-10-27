@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-27T02:22:44.603Z",
-  "total_datasets": 484,
-  "total_records": 1870797,
+  "generated": "2026-10-27T02:22:47.285Z",
+  "total_datasets": 485,
+  "total_records": 1870932,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -11162,6 +11162,31 @@
         "xlsx": {
           "name": "de-leibniz-preistraeger_DE.xlsx",
           "size": 21622
+        }
+      }
+    },
+    {
+      "id": "de-max-planck-institute",
+      "name": "Max-Planck-Institute und -Einrichtungen",
+      "category": "science",
+      "record_count": 135,
+      "columns": [
+        "name",
+        "ort",
+        "name_seit",
+        "hinweise"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Max-Planck-Institute_und_-Einrichtungen",
+      "updated": "2026-10",
+      "size": 28514,
+      "files": {
+        "csv": {
+          "name": "de-max-planck-institute_DE.csv",
+          "size": 16103
+        },
+        "xlsx": {
+          "name": "de-max-planck-institute_DE.xlsx",
+          "size": 14256
         }
       }
     },
