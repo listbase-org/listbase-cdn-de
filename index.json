@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-27T02:22:39.589Z",
-  "total_datasets": 482,
-  "total_records": 1870055,
+  "generated": "2026-10-27T02:22:42.136Z",
+  "total_datasets": 483,
+  "total_records": 1870437,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "history",
@@ -4856,6 +4856,31 @@
         "xlsx": {
           "name": "de-krankenhaeuser_DE.xlsx",
           "size": 89289
+        }
+      }
+    },
+    {
+      "id": "de-kurorte",
+      "name": "Kurorte in Deutschland",
+      "category": "health",
+      "record_count": 382,
+      "columns": [
+        "kurort",
+        "landkreis",
+        "land",
+        "praedikat"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Kurorte_in_Deutschland",
+      "updated": "2026-10",
+      "size": 64606,
+      "files": {
+        "csv": {
+          "name": "de-kurorte_DE.csv",
+          "size": 31003
+        },
+        "xlsx": {
+          "name": "de-kurorte_DE.xlsx",
+          "size": 19527
         }
       }
     },

@@ -1,0 +1,2338 @@
+{
+  "id": "de-kurorte",
+  "name": "Kurorte in Deutschland",
+  "title": "Kurorte in Deutschland",
+  "description": "Staatlich anerkannte Kurorte und Heilbäder in Deutschland mit Landkreis, Bundesland und Prädikat (Heilbad, Kneippkurort, Luftkurort usw.).",
+  "category": "health",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Kurorte_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Kurorte_in_Deutschland",
+  "updated": "2026-10",
+  "record_count": 382,
+  "columns": [
+    {
+      "key": "kurort",
+      "label": "Kurort",
+      "type": "string"
+    },
+    {
+      "key": "landkreis",
+      "label": "Landkreis",
+      "type": "string"
+    },
+    {
+      "key": "land",
+      "label": "Land",
+      "type": "string"
+    },
+    {
+      "key": "praedikat",
+      "label": "Praedikat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kurort": "Aachen",
+      "landkreis": "Städteregion Aachen",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Aalen (Stadtbezirk Wasseralfingen (Röthardt))",
+      "landkreis": "Ostalbkreis",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilklimatischer Kurort, Heilstollen-Kurbetrieb"
+    },
+    {
+      "kurort": "Ahlbeck (Gemeinde Heringsdorf)",
+      "landkreis": "Landkreis Vorpommern-Greifswald",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Ahrenshoop",
+      "landkreis": "Landkreis Vorpommern-Rügen",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Altenau (Berg- und Universitätsstadt Clausthal-Zellerfeld)",
+      "landkreis": "Landkreis Goslar",
+      "land": "Niedersachsen",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Aulendorf",
+      "landkreis": "Landkreis Ravensburg",
+      "land": "Baden-Württemberg",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Baabe",
+      "landkreis": "Landkreis Vorpommern-Rügen",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Baden-Baden",
+      "landkreis": "—",
+      "land": "Baden-Württemberg",
+      "praedikat": "Mineralheilbad"
+    },
+    {
+      "kurort": "Badenweiler",
+      "landkreis": "Landkreis Breisgau-Hochschwarzwald",
+      "land": "Baden-Württemberg",
+      "praedikat": "Thermalheilbad"
+    },
+    {
+      "kurort": "Bad Abbach",
+      "landkreis": "Landkreis Kelheim",
+      "land": "Bayern",
+      "praedikat": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "kurort": "Bad Aibling",
+      "landkreis": "Landkreis Rosenheim",
+      "land": "Bayern",
+      "praedikat": "Moorheilbad, Thermalbad"
+    },
+    {
+      "kurort": "Bad Alexandersbad",
+      "landkreis": "Landkreis Wunsiedel im Fichtelgebirge",
+      "land": "Bayern",
+      "praedikat": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "kurort": "Bad Arolsen",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "land": "Hessen",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Bayersoien",
+      "landkreis": "Landkreis Garmisch-Partenkirchen",
+      "land": "Bayern",
+      "praedikat": "Moorheilbad"
+    },
+    {
+      "kurort": "Bad Bederkesa (Stadt Geestland)",
+      "landkreis": "Landkreis Cuxhaven",
+      "land": "Niedersachsen",
+      "praedikat": "Ort mit Moor-Kurbetrieb"
+    },
+    {
+      "kurort": "Bad Bellingen",
+      "landkreis": "Landkreis Lörrach",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Belzig",
+      "landkreis": "Landkreis Potsdam-Mittelmark",
+      "land": "Brandenburg",
+      "praedikat": "Thermalsoleheilbad"
+    },
+    {
+      "kurort": "Bad Bentheim",
+      "landkreis": "Landkreis Grafschaft Bentheim",
+      "land": "Niedersachsen",
+      "praedikat": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "kurort": "Bad Bergzabern",
+      "landkreis": "Landkreis Südliche Weinstraße",
+      "land": "Rheinland-Pfalz",
+      "praedikat": "Heilklimatischer Kurort, Kneippheilbad"
+    },
+    {
+      "kurort": "Bad Berka",
+      "landkreis": "Landkreis Weimarer Land",
+      "land": "Thüringen",
+      "praedikat": "Ort mit Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Bad Berleburg",
+      "landkreis": "Kreis Siegen-Wittgenstein",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Kneippheilbad"
+    },
+    {
+      "kurort": "Bad Berneck im Fichtelgebirge",
+      "landkreis": "Landkreis Bayreuth",
+      "land": "Bayern",
+      "praedikat": "Kneippheilbad"
+    },
+    {
+      "kurort": "Bad Bertrich",
+      "landkreis": "Landkreis Cochem-Zell",
+      "land": "Rheinland-Pfalz",
+      "praedikat": "Thermal-Mineralheilbad"
+    },
+    {
+      "kurort": "Bad Bevensen",
+      "landkreis": "Landkreis Uelzen",
+      "land": "Niedersachsen",
+      "praedikat": "Jodsoleheilbad"
+    },
+    {
+      "kurort": "Bad Birnbach",
+      "landkreis": "Landkreis Rottal-Inn",
+      "land": "Bayern",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Blankenburg",
+      "landkreis": "Landkreis Saalfeld-Rudolstadt",
+      "land": "Thüringen",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Bocklet",
+      "landkreis": "Landkreis Bad Kissingen",
+      "land": "Bayern",
+      "praedikat": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "kurort": "Bad Bodenteich",
+      "landkreis": "Landkreis Uelzen",
+      "land": "Niedersachsen",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Bad Brambach",
+      "landkreis": "Vogtlandkreis",
+      "land": "Sachsen",
+      "praedikat": "Mineralheilbad"
+    },
+    {
+      "kurort": "Bad Bramstedt",
+      "landkreis": "Kreis Segeberg",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Moorbad, Solebad"
+    },
+    {
+      "kurort": "Bad Breisig",
+      "landkreis": "Landkreis Ahrweiler",
+      "land": "Rheinland-Pfalz",
+      "praedikat": "Mineralheilbad"
+    },
+    {
+      "kurort": "Bad Brückenau",
+      "landkreis": "Landkreis Bad Kissingen",
+      "land": "Bayern",
+      "praedikat": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "kurort": "Bad Buchau",
+      "landkreis": "Landkreis Biberach",
+      "land": "Baden-Württemberg",
+      "praedikat": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "kurort": "Bad Wörishofen",
+      "landkreis": "Landkreis Mindelheim",
+      "land": "Bayern",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Bad Boll (Gemeinde Bad Boll)",
+      "landkreis": "Landkreis Göppingen",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Bad Camberg",
+      "landkreis": "Landkreis Limburg-Weilburg",
+      "land": "Hessen",
+      "praedikat": "Kneippheilbad"
+    },
+    {
+      "kurort": "Bad Cannstatt (Stadt Stuttgart)",
+      "landkreis": "—",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Bad Colberg (Stadt Heldburg)",
+      "landkreis": "Landkreis Hildburghausen",
+      "land": "Thüringen",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Ditzenbach",
+      "landkreis": "Landkreis Göppingen",
+      "land": "Baden-Württemberg",
+      "praedikat": "Thermal-Mineralheilbad"
+    },
+    {
+      "kurort": "Bad Doberan",
+      "landkreis": "Landkreis Rostock",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Driburg",
+      "landkreis": "Kreis Höxter",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "kurort": "Bad Düben",
+      "landkreis": "Landkreis Nordsachsen",
+      "land": "Sachsen",
+      "praedikat": "Moorheilbad"
+    },
+    {
+      "kurort": "Bad Dürkheim",
+      "landkreis": "Landkreis Bad Dürkheim",
+      "land": "Rheinland-Pfalz",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Dürrheim",
+      "landkreis": "Schwarzwald-Baar-Kreis",
+      "land": "Baden-Württemberg",
+      "praedikat": "Soleheilbad, Heilklimatischer Kurort, Kneippkurort"
+    },
+    {
+      "kurort": "Bad Eilsen",
+      "landkreis": "Landkreis Schaumburg",
+      "land": "Niedersachsen",
+      "praedikat": "Ort mit Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Bad Elster",
+      "landkreis": "Vogtlandkreis",
+      "land": "Sachsen",
+      "praedikat": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "kurort": "Bad Ems",
+      "landkreis": "Rhein-Lahn-Kreis",
+      "land": "Rheinland-Pfalz",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Emstal",
+      "landkreis": "Landkreis Kassel",
+      "land": "Hessen",
+      "praedikat": "Mineralheilbad"
+    },
+    {
+      "kurort": "Bad Endbach",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "land": "Hessen",
+      "praedikat": "Kneippheilbad"
+    },
+    {
+      "kurort": "Bad Endorf",
+      "landkreis": "Landkreis Rosenheim",
+      "land": "Bayern",
+      "praedikat": "Jod-Thermalbad"
+    },
+    {
+      "kurort": "Bad Essen",
+      "landkreis": "Landkreis Osnabrück",
+      "land": "Niedersachsen",
+      "praedikat": "Ort mit Sole-Kurbetrieb"
+    },
+    {
+      "kurort": "Bad Fallingbostel",
+      "landkreis": "Landkreis Heidekreis",
+      "land": "Niedersachsen",
+      "praedikat": "Kneippheilbad"
+    },
+    {
+      "kurort": "Bad Faulenbach (Stadt Füssen)",
+      "landkreis": "Landkreis Ostallgäu",
+      "land": "Bayern",
+      "praedikat": "Mineralheilbad, Moorheilbad, Kneippkurort"
+    },
+    {
+      "kurort": "Bad Feilnbach",
+      "landkreis": "Landkreis Rosenheim",
+      "land": "Bayern",
+      "praedikat": "Moorheilbad"
+    },
+    {
+      "kurort": "Bad Frankenhausen",
+      "landkreis": "Kyffhäuserkreis",
+      "land": "Thüringen",
+      "praedikat": "Soleheilbad"
+    },
+    {
+      "kurort": "Bad Fredeburg (Stadt Schmallenberg)",
+      "landkreis": "Hochsauerlandkreis",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Kneippheilbad"
+    },
+    {
+      "kurort": "Bad Freienwalde (Oder)",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "land": "Brandenburg",
+      "praedikat": "Moorheilbad"
+    },
+    {
+      "kurort": "Bad Füssing",
+      "landkreis": "Landkreis Passau",
+      "land": "Bayern",
+      "praedikat": "Thermal-Mineralheilbad"
+    },
+    {
+      "kurort": "Bad Gandersheim",
+      "landkreis": "Landkreis Northeim",
+      "land": "Niedersachsen",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Gögging (Stadt Neustadt an der Donau)",
+      "landkreis": "Landkreis Kelheim",
+      "land": "Bayern",
+      "praedikat": "Moorheilbad, Schwefelheilbad"
+    },
+    {
+      "kurort": "Bad Gottleuba (Stadt Bad Gottleuba-Berggießhübel)",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "land": "Sachsen",
+      "praedikat": "Moorheilbad"
+    },
+    {
+      "kurort": "Bad Griesbach im Rottal",
+      "landkreis": "Landkreis Passau",
+      "land": "Bayern",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Grönenbach",
+      "landkreis": "Landkreis Unterallgäu",
+      "land": "Bayern",
+      "praedikat": "Kneippheilbad"
+    },
+    {
+      "kurort": "Bad Grund",
+      "landkreis": "Landkreis Göttingen",
+      "land": "Niedersachsen",
+      "praedikat": "Ort mit Heilstollen-Kurbetrieb"
+    },
+    {
+      "kurort": "Bad Harzburg",
+      "landkreis": "Landkreis Goslar",
+      "land": "Niedersachsen",
+      "praedikat": "Soleheilbad"
+    },
+    {
+      "kurort": "Bad Heilbrunn",
+      "landkreis": "Landkreis Bad Tölz-Wolfratshausen",
+      "land": "Bayern",
+      "praedikat": "Mineralheilbad"
+    },
+    {
+      "kurort": "Bad Hermannsborn (Stadt Bad Driburg)",
+      "landkreis": "Kreis Höxter",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Bad Herrenalb",
+      "landkreis": "Landkreis Calw",
+      "land": "Baden-Württemberg",
+      "praedikat": "Mineralheilbad, Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Bad Hersfeld",
+      "landkreis": "Landkreis Hersfeld-Rotenburg",
+      "land": "Hessen",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Hindelang",
+      "landkreis": "Landkreis Oberallgäu",
+      "land": "Bayern",
+      "praedikat": "Kneippheilbad, Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Bad Holzhausen (Stadt Preußisch Oldendorf)",
+      "landkreis": "Kreis Minden-Lübbecke",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Hönningen",
+      "landkreis": "Landkreis Neuwied",
+      "land": "Rheinland-Pfalz",
+      "praedikat": "Thermal-Mineralheilbad"
+    },
+    {
+      "kurort": "Bad Homburg vor der Höhe",
+      "landkreis": "Hochtaunuskreis",
+      "land": "Hessen",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Hopfenberg (Stadt Petershagen)",
+      "landkreis": "Kreis Minden-Lübbecke",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Moorheilbad"
+    },
+    {
+      "kurort": "Bad Iburg",
+      "landkreis": "Landkreis Osnabrück",
+      "land": "Niedersachsen",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Bad Imnau (Stadt Haigerloch)",
+      "landkreis": "Zollernalbkreis",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Bad Karlshafen",
+      "landkreis": "Landkreis Kassel",
+      "land": "Hessen",
+      "praedikat": "Soleheilbad"
+    },
+    {
+      "kurort": "Bad Kissingen",
+      "landkreis": "Landkreis Bad Kissingen",
+      "land": "Bayern",
+      "praedikat": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "kurort": "Bad Klosterlausnitz",
+      "landkreis": "Saale-Holzland-Kreis",
+      "land": "Thüringen",
+      "praedikat": "Moorheilbad"
+    },
+    {
+      "kurort": "Bad König",
+      "landkreis": "Odenwaldkreis",
+      "land": "Hessen",
+      "praedikat": "Thermalheilbad"
+    },
+    {
+      "kurort": "Bad Königshofen im Grabfeld",
+      "landkreis": "Landkreis Rhön-Grabfeld",
+      "land": "Bayern",
+      "praedikat": "Mineralheilbad"
+    },
+    {
+      "kurort": "Bad Kösen",
+      "landkreis": "Burgenlandkreis",
+      "land": "Sachsen-Anhalt",
+      "praedikat": "Soleheilbad"
+    },
+    {
+      "kurort": "Bad Kötzting",
+      "landkreis": "Landkreis Cham",
+      "land": "Bayern",
+      "praedikat": "Kneippheilbad"
+    },
+    {
+      "kurort": "Bad Kohlgrub",
+      "landkreis": "Landkreis Garmisch-Partenkirchen",
+      "land": "Bayern",
+      "praedikat": "Moorheilbad"
+    },
+    {
+      "kurort": "Bad Kreuznach",
+      "landkreis": "Landkreis Bad Kreuznach",
+      "land": "Rheinland-Pfalz",
+      "praedikat": "Mineralheilbad, Radonheilbad"
+    },
+    {
+      "kurort": "Bad Krozingen",
+      "landkreis": "Landkreis Breisgau-Hochschwarzwald",
+      "land": "Baden-Württemberg",
+      "praedikat": "Thermal-Mineralheilbad"
+    },
+    {
+      "kurort": "Bad Laasphe",
+      "landkreis": "Kreis Siegen-Wittgenstein",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Kneippheilbad"
+    },
+    {
+      "kurort": "Bad Laer",
+      "landkreis": "Landkreis Osnabrück",
+      "land": "Niedersachsen",
+      "praedikat": "Soleheilbad"
+    },
+    {
+      "kurort": "Bad Langensalza",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "land": "Thüringen",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Lausick (nur Hauptort)",
+      "landkreis": "Landkreis Leipzig",
+      "land": "Sachsen",
+      "praedikat": "Heilbad, Kneippkurort"
+    },
+    {
+      "kurort": "Bad Lauterberg",
+      "landkreis": "Landkreis Göttingen",
+      "land": "Niedersachsen",
+      "praedikat": "Kneippheilbad"
+    },
+    {
+      "kurort": "Bad Liebenstein",
+      "landkreis": "Wartburgkreis",
+      "land": "Thüringen",
+      "praedikat": "Mineralheilbad"
+    },
+    {
+      "kurort": "Bad Liebenwerda",
+      "landkreis": "Landkreis Elbe-Elster",
+      "land": "Brandenburg",
+      "praedikat": "Moorheilbad"
+    },
+    {
+      "kurort": "Bad Liebenzell",
+      "landkreis": "Landkreis Calw",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Malente-Gremsmühlen (Gemeinde Malente)",
+      "landkreis": "Kreis Ostholstein",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Kneippheilbad, Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Bad Marienberg (Westerwald)",
+      "landkreis": "Westerwaldkreis",
+      "land": "Rheinland-Pfalz",
+      "praedikat": "Kneippheilbad"
+    },
+    {
+      "kurort": "Bad Meinberg (Stadt Horn-Bad Meinberg)",
+      "landkreis": "Kreis Lippe",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Mergentheim",
+      "landkreis": "Main-Tauber-Kreis",
+      "land": "Baden-Württemberg",
+      "praedikat": "Mineralheilbad"
+    },
+    {
+      "kurort": "Bad Münder am Deister",
+      "landkreis": "Landkreis Hameln-Pyrmont",
+      "land": "Niedersachsen",
+      "praedikat": "Ort mit Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Bad Münster am Stein-Ebernburg (Stadt Bad Kreuznach)",
+      "landkreis": "Landkreis Bad Kreuznach",
+      "land": "Rheinland-Pfalz",
+      "praedikat": "Radonheilbad, Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Bad Münstereifel",
+      "landkreis": "Kreis Euskirchen",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Kneippheilbad"
+    },
+    {
+      "kurort": "Bad Muskau",
+      "landkreis": "Landkreis Görlitz",
+      "land": "Sachsen",
+      "praedikat": "Ort mit Moor-Kurbetrieb"
+    },
+    {
+      "kurort": "Bad Nauheim",
+      "landkreis": "Wetteraukreis",
+      "land": "Hessen",
+      "praedikat": "Thermal-Mineralbad"
+    },
+    {
+      "kurort": "Bad Nenndorf",
+      "landkreis": "Landkreis Schaumburg",
+      "land": "Niedersachsen",
+      "praedikat": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "kurort": "Bad Neuenahr-Ahrweiler",
+      "landkreis": "Landkreis Ahrweiler",
+      "land": "Rheinland-Pfalz",
+      "praedikat": "Mineralbad"
+    },
+    {
+      "kurort": "Bad Neustadt an der Saale",
+      "landkreis": "Landkreis Rhön-Grabfeld",
+      "land": "Bayern",
+      "praedikat": "Moorheilbad, Soleheilbad"
+    },
+    {
+      "kurort": "Bad Niedernau (Stadt Rottenburg am Neckar)",
+      "landkreis": "Landkreis Tübingen",
+      "land": "Baden-Württemberg",
+      "praedikat": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "kurort": "Bad Oberdorf",
+      "landkreis": "Landkreis Oberallgäu",
+      "land": "Bayern",
+      "praedikat": "Heilklimatischer Kurort, Kneippkurort, Schwefel-Thermalquelle"
+    },
+    {
+      "kurort": "Bad Oeynhausen",
+      "landkreis": "Kreis Minden-Lübbecke",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Mineralheilbad"
+    },
+    {
+      "kurort": "Bad Orb",
+      "landkreis": "Main-Kinzig-Kreis",
+      "land": "Hessen",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Peterstal-Griesbach",
+      "landkreis": "Ortenaukreis",
+      "land": "Baden-Württemberg",
+      "praedikat": "Mineralheilbad, Moorheilbad, Kneippkurort"
+    },
+    {
+      "kurort": "Bad Pyrmont",
+      "landkreis": "Landkreis Hameln-Pyrmont",
+      "land": "Niedersachsen",
+      "praedikat": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "kurort": "Bad Rappenau",
+      "landkreis": "Landkreis Heilbronn",
+      "land": "Baden-Württemberg",
+      "praedikat": "Soleheilbad"
+    },
+    {
+      "kurort": "Bad Reichenhall",
+      "landkreis": "Landkreis Berchtesgadener Land",
+      "land": "Bayern",
+      "praedikat": "Soleheilbad"
+    },
+    {
+      "kurort": "Bad Rippoldsau-Schapbach",
+      "landkreis": "Landkreis Freudenstadt",
+      "land": "Baden-Württemberg",
+      "praedikat": "Mineralbad, Moorbad"
+    },
+    {
+      "kurort": "Bad Rodach",
+      "landkreis": "Landkreis Coburg",
+      "land": "Bayern",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Rotenfels (Stadt Gaggenau)",
+      "landkreis": "Landkreis Rastatt",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Bad Rothenfelde",
+      "landkreis": "Landkreis Osnabrück",
+      "land": "Niedersachsen",
+      "praedikat": "Soleheilbad"
+    },
+    {
+      "kurort": "Bad Lippspringe",
+      "landkreis": "Kreis Paderborn",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Heilbad, Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Bad Lobenstein",
+      "landkreis": "Saale-Orla-Kreis",
+      "land": "Thüringen",
+      "praedikat": "Moorbad"
+    },
+    {
+      "kurort": "Bad Saarow",
+      "landkreis": "Landkreis Oder-Spree",
+      "land": "Brandenburg",
+      "praedikat": "Moorheilbad, Thermalsoleheilbad"
+    },
+    {
+      "kurort": "Bad Sachsa",
+      "landkreis": "Landkreis Göttingen",
+      "land": "Niedersachsen",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Bad Salzungen",
+      "landkreis": "Wartburgkreis",
+      "land": "Thüringen",
+      "praedikat": "Soleheilbad"
+    },
+    {
+      "kurort": "Bad Salzdetfurth",
+      "landkreis": "Landkreis Hildesheim",
+      "land": "Niedersachsen",
+      "praedikat": "Moorheilbad, Soleheilbad"
+    },
+    {
+      "kurort": "Bad Salzelmen (Stadt Schönebeck)",
+      "landkreis": "Salzlandkreis",
+      "land": "Sachsen-Anhalt",
+      "praedikat": "Soleheilbad"
+    },
+    {
+      "kurort": "Bad Salzig (Stadt Boppard)",
+      "landkreis": "Rhein-Hunsrück-Kreis",
+      "land": "Rheinland-Pfalz",
+      "praedikat": "Mineralheilbad"
+    },
+    {
+      "kurort": "Bad Salzschlirf",
+      "landkreis": "Landkreis Fulda",
+      "land": "Hessen",
+      "praedikat": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "kurort": "Bad Salzuflen",
+      "landkreis": "Kreis Lippe",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Mineralheilbad, Soleheilbad, Kneippkurort"
+    },
+    {
+      "kurort": "Bad Soden-Salmünster",
+      "landkreis": "Main-Kinzig-Kreis",
+      "land": "Hessen",
+      "praedikat": "Mineralheilbad"
+    },
+    {
+      "kurort": "Bad Sooden-Allendorf",
+      "landkreis": "Werra-Meißner-Kreis",
+      "land": "Hessen",
+      "praedikat": "Soleheilbad"
+    },
+    {
+      "kurort": "Bad Staffelstein",
+      "landkreis": "Landkreis Lichtenfels",
+      "land": "Bayern",
+      "praedikat": "Thermalsolebad"
+    },
+    {
+      "kurort": "Bad Steben",
+      "landkreis": "Landkreis Hof",
+      "land": "Bayern",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Suderode",
+      "landkreis": "Landkreis Harz",
+      "land": "Sachsen-Anhalt",
+      "praedikat": "Heilbad,"
+    },
+    {
+      "kurort": "Bad Sulza",
+      "landkreis": "Landkreis Weimarer Land",
+      "land": "Thüringen",
+      "praedikat": "Soleheilbad"
+    },
+    {
+      "kurort": "Bad Sülze",
+      "landkreis": "Landkreis Vorpommern-Rügen",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Moorheilbad, Soleheilbad, Peloid-Kurbetrieb"
+    },
+    {
+      "kurort": "Bad Tabarz",
+      "landkreis": "Landkreis Gotha",
+      "land": "Thüringen",
+      "praedikat": "Kneippheilbad"
+    },
+    {
+      "kurort": "Bad Sassendorf",
+      "landkreis": "Kreis Soest",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "kurort": "Bad Saulgau",
+      "landkreis": "Landkreis Sigmaringen",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Schandau (nur Gemeindeteile Bad Schandau, Krippen, Ostrau, Schmilka)",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "land": "Sachsen",
+      "praedikat": "Kneippheilbad"
+    },
+    {
+      "kurort": "Bad Schlema (Stadt Aue-Bad Schlema)",
+      "landkreis": "Erzgebirgskreis",
+      "land": "Sachsen",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Schmiedeberg",
+      "landkreis": "Landkreis Wittenberg",
+      "land": "Sachsen-Anhalt",
+      "praedikat": "Mineralheilbad, Moorheilbad, Kneippkurort"
+    },
+    {
+      "kurort": "Bad Schönborn",
+      "landkreis": "Landkreis Karlsruhe",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Säckingen",
+      "landkreis": "Landkreis Waldshut",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Salzhausen (Stadt Nidda)",
+      "landkreis": "Wetteraukreis",
+      "land": "Hessen",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Schussenried",
+      "landkreis": "Landkreis Biberach",
+      "land": "Baden-Württemberg",
+      "praedikat": "Moorheilbad"
+    },
+    {
+      "kurort": "Bad Schwalbach",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "land": "Hessen",
+      "praedikat": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "kurort": "Bad Schwartau",
+      "landkreis": "Kreis Ostholstein",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Jodsoleheilbad, Moorheilbad"
+    },
+    {
+      "kurort": "Bad Sebastiansweiler (Stadt Mössingen)",
+      "landkreis": "Landkreis Tübingen",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Bad Segeberg",
+      "landkreis": "Kreis Segeberg",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Mineralheilbad"
+    },
+    {
+      "kurort": "Bad Senkelteich (Stadt Vlotho)",
+      "landkreis": "Kreis Herford",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Luftkurort mit Kurmittelgebiet"
+    },
+    {
+      "kurort": "Bad Seebruch (Stadt Vlotho)",
+      "landkreis": "Kreis Herford",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Luftkurort mit Kurmittelgebiet"
+    },
+    {
+      "kurort": "Bad Sobernheim",
+      "landkreis": "Landkreis Bad Kreuznach",
+      "land": "Rheinland-Pfalz",
+      "praedikat": "Felke-Heilbad"
+    },
+    {
+      "kurort": "Bad Soden am Taunus",
+      "landkreis": "Main-Taunus-Kreis",
+      "land": "Hessen",
+      "praedikat": "Mineralheilbad, Soleheilbad"
+    },
+    {
+      "kurort": "Bad Teinach (Stadt Bad Teinach-Zavelstein)",
+      "landkreis": "Landkreis Calw",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Tennstedt",
+      "landkreis": "Unstrut-Hainich-Kreis",
+      "land": "Thüringen",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Tölz",
+      "landkreis": "Landkreis Bad Tölz-Wolfratshausen",
+      "land": "Bayern",
+      "praedikat": "Jodbad, Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Bad Überkingen",
+      "landkreis": "Landkreis Göppingen",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Urach",
+      "landkreis": "Landkreis Reutlingen",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Vilbel",
+      "landkreis": "Wetteraukreis",
+      "land": "Hessen",
+      "praedikat": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Bad Waldliesborn (Stadt Lippstadt)",
+      "landkreis": "Kreis Soest",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Mineralheilbad"
+    },
+    {
+      "kurort": "Bad Waldsee",
+      "landkreis": "Landkreis Ravensburg",
+      "land": "Baden-Württemberg",
+      "praedikat": "Moorheilbad, Kneippkurort"
+    },
+    {
+      "kurort": "Bad Wildbad",
+      "landkreis": "Landkreis Calw",
+      "land": "Baden-Württemberg",
+      "praedikat": "Thermalheilbad"
+    },
+    {
+      "kurort": "Bad Westernkotten (Stadt Erwitte)",
+      "landkreis": "Kreis Soest",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Moorheilbad, Soleheilbad"
+    },
+    {
+      "kurort": "Bad Wiessee",
+      "landkreis": "Landkreis Miesbach",
+      "land": "Bayern",
+      "praedikat": "Mineralheilbad"
+    },
+    {
+      "kurort": "Bad Wildstein (Stadt Traben-Trarbach)",
+      "landkreis": "Landkreis Bernkastel-Wittlich",
+      "land": "Rheinland-Pfalz",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Bad Wildungen",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "land": "Hessen",
+      "praedikat": "Mineralheilbad"
+    },
+    {
+      "kurort": "Bad Wimpfen",
+      "landkreis": "Landkreis Heilbronn",
+      "land": "Baden-Württemberg",
+      "praedikat": "Soleheilbad"
+    },
+    {
+      "kurort": "Bad Windsheim",
+      "landkreis": "Landkreis Neustadt an der Aisch-Bad Windsheim",
+      "land": "Bayern",
+      "praedikat": "Mineralheilbad, Soleheilbad"
+    },
+    {
+      "kurort": "Bad Wurzach",
+      "landkreis": "Landkreis Ravensburg",
+      "land": "Baden-Württemberg",
+      "praedikat": "Moorheilbad"
+    },
+    {
+      "kurort": "Bad Wilhelmshöhe (Stadt Kassel)",
+      "landkreis": "—",
+      "land": "Hessen",
+      "praedikat": "Thermalsoleheilbad, Kneippheilbad"
+    },
+    {
+      "kurort": "Bad Wilsnack",
+      "landkreis": "Landkreis Prignitz",
+      "land": "Brandenburg",
+      "praedikat": "Moorheilbad"
+    },
+    {
+      "kurort": "Bad Wünnenberg",
+      "landkreis": "Kreis Paderborn",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Kneippheilbad"
+    },
+    {
+      "kurort": "Bad Wurzach",
+      "landkreis": "Landkreis Ravensburg",
+      "land": "Baden-Württemberg",
+      "praedikat": "Moorheilbad"
+    },
+    {
+      "kurort": "Bad Zwesten",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "land": "Hessen",
+      "praedikat": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Bad Zwischenahn",
+      "landkreis": "Landkreis Ammerland",
+      "land": "Niedersachsen",
+      "praedikat": "Moorheilbad"
+    },
+    {
+      "kurort": "Baltrum",
+      "landkreis": "Landkreis Aurich",
+      "land": "Niedersachsen",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "Bansin (Gemeinde Heringsdorf)",
+      "landkreis": "Landkreis Vorpommern-Greifswald",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Bayrischzell",
+      "landkreis": "Landkreis Miesbach",
+      "land": "Bayern",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Bensersiel (Stadt Esens)",
+      "landkreis": "Landkreis Wittmund",
+      "land": "Niedersachsen",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "Berchtesgaden",
+      "landkreis": "Landkreis Berchtesgadener Land",
+      "land": "Bayern",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Berg (Stadt Stuttgart)",
+      "landkreis": "—",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Berggießhübel (Stadt Bad Gottleuba-Berggießhübel)",
+      "landkreis": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "land": "Sachsen",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Bernkastel-Kues",
+      "landkreis": "Landkreis Bernkastel-Wittlich",
+      "land": "Rheinland-Pfalz",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Beuren",
+      "landkreis": "Landkreis Esslingen",
+      "land": "Baden-Württemberg",
+      "praedikat": "Erholungsort mit Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Binz",
+      "landkreis": "Landkreis Vorpommern-Rügen",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Bischofsgrün",
+      "landkreis": "Landkreis Bayreuth",
+      "land": "Bayern",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Bischofswiesen",
+      "landkreis": "Landkreis Berchtesgadener Land",
+      "land": "Bayern",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Blieskastel",
+      "landkreis": "Saarpfalz-Kreis",
+      "land": "Saarland",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Bodenmais",
+      "landkreis": "Landkreis Regen",
+      "land": "Bayern",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Boltenhagen",
+      "landkreis": "Landkreis Nordwestmecklenburg",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Borkum",
+      "landkreis": "Landkreis Leer",
+      "land": "Niedersachsen",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "Breege",
+      "landkreis": "Landkreis Vorpommern-Rügen",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Brilon",
+      "landkreis": "Hochsauerlandkreis",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Kneippheilbad"
+    },
+    {
+      "kurort": "Buckow",
+      "landkreis": "Landkreis Märkisch-Oderland",
+      "land": "Brandenburg",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Büsum",
+      "landkreis": "Kreis Dithmarschen",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "Burg auf Fehmarn (Stadt Fehmarn)",
+      "landkreis": "Kreis Ostholstein",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Burg (Spreewald)",
+      "landkreis": "Landkreis Spree-Neiße",
+      "land": "Brandenburg",
+      "praedikat": "Ort mit Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Burhave (Gemeinde Butjadingen)",
+      "landkreis": "Landkreis Wesermarsch",
+      "land": "Niedersachsen",
+      "praedikat": "Nordseebad"
+    },
+    {
+      "kurort": "Carolinensiel - Harlesiel (Stadt Wittmund)",
+      "landkreis": "Landkreis Wittmund",
+      "land": "Niedersachsen",
+      "praedikat": "Nordseebad"
+    },
+    {
+      "kurort": "Cuxhaven",
+      "landkreis": "Landkreis Cuxhaven",
+      "land": "Niedersachsen",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "Dahme",
+      "landkreis": "Kreis Ostholstein",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Damp",
+      "landkreis": "Kreis Rendsburg-Eckernförde",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Dangast (Stadt Varel)",
+      "landkreis": "Landkreis Friesland",
+      "land": "Niedersachsen",
+      "praedikat": "Nordseebad, Ort mit Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Daun",
+      "landkreis": "Landkreis Vulkaneifel",
+      "land": "Rheinland-Pfalz",
+      "praedikat": "Heilklimatischer Kurort, Kneippkurort, Mineralbad"
+    },
+    {
+      "kurort": "Dierhagen",
+      "landkreis": "Landkreis Vorpommern-Rügen",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Dobel",
+      "landkreis": "Landkreis Calw",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Dornumersiel (Gemeinde Dornum)",
+      "landkreis": "Landkreis Aurich",
+      "land": "Niedersachsen",
+      "praedikat": "Nordseebad"
+    },
+    {
+      "kurort": "Eckenhagen (Gemeinde Reichshof)",
+      "landkreis": "Oberbergischer Kreis",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Eckernförde",
+      "landkreis": "Kreis Rendsburg-Eckernförde",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Eutin",
+      "landkreis": "Kreis Ostholstein",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Falkenstein (Stadt Königstein im Taunus)",
+      "landkreis": "Hochtaunuskreis",
+      "land": "Hessen",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Feldberg (zu Feldberger Seenlandschaft)",
+      "landkreis": "Landkreis Mecklenburgische Seenplatte",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Finsterbergen und Friedrichroda",
+      "landkreis": "Landkreis Gotha",
+      "land": "Thüringen",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Fischen im Allgäu",
+      "landkreis": "Landkreis Oberallgäu",
+      "land": "Bayern",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Freiburg im Breisgau",
+      "landkreis": "—",
+      "land": "Baden-Württemberg",
+      "praedikat": "Ort mit Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Freudenstadt",
+      "landkreis": "Landkreis Freudenstadt",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilklimatischer Kurort, Kneippkurort"
+    },
+    {
+      "kurort": "Friedrichskoog",
+      "landkreis": "Kreis Dithmarschen",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "Füssen",
+      "landkreis": "Landkreis Ostallgäu",
+      "land": "Bayern",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Garmisch-Partenkirchen",
+      "landkreis": "Landkreis Garmisch-Partenkirchen",
+      "land": "Bayern",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Gelting",
+      "landkreis": "Kreis Schleswig-Flensburg",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Gemünd (Schleiden) (Stadt Schleiden)",
+      "landkreis": "Kreis Euskirchen",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Gersfeld (Rhön)",
+      "landkreis": "Landkreis Fulda",
+      "land": "Hessen",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Gladenbach",
+      "landkreis": "Landkreis Marburg-Biedenkopf",
+      "land": "Hessen",
+      "praedikat": "Kneippheilbad"
+    },
+    {
+      "kurort": "Glücksburg (Ostsee)",
+      "landkreis": "Kreis Schleswig-Flensburg",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Göhren",
+      "landkreis": "Landkreis Vorpommern-Rügen",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Grafschaft (Stadt Schmallenberg)",
+      "landkreis": "Hochsauerlandkreis",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Grasellenbach",
+      "landkreis": "Landkreis Bergstraße",
+      "land": "Hessen",
+      "praedikat": "Kneippheilbad"
+    },
+    {
+      "kurort": "Graal-Müritz",
+      "landkreis": "Landkreis Rostock",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Grömitz",
+      "landkreis": "Kreis Ostholstein",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Großenbrode",
+      "landkreis": "Kreis Ostholstein",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Haffkrug (Gemeinde Scharbeutz)",
+      "landkreis": "Kreis Ostholstein",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Hahnenklee (Stadt Goslar)",
+      "landkreis": "Landkreis Goslar",
+      "land": "Niedersachsen",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Hausberge (Stadt Porta Westfalica)",
+      "landkreis": "Kreis Minden-Lübbecke",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Heikendorf",
+      "landkreis": "Kreis Plön",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Heilbad Heiligenstadt",
+      "landkreis": "Landkreis Eichsfeld",
+      "land": "Thüringen",
+      "praedikat": "Soleheilbad"
+    },
+    {
+      "kurort": "Heiligendamm (Stadt Bad Doberan)",
+      "landkreis": "Landkreis Rostock",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Heiligenhafen",
+      "landkreis": "Kreis Ostholstein",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Helgoland",
+      "landkreis": "Kreis Pinneberg",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "Herbstein",
+      "landkreis": "Vogelsbergkreis",
+      "land": "Hessen",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Heringsdorf",
+      "landkreis": "Landkreis Vorpommern-Greifswald",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Hinterzarten",
+      "landkreis": "Landkreis Breisgau-Hochschwarzwald",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Hitzacker",
+      "landkreis": "Landkreis Lüchow-Dannenberg",
+      "land": "Niedersachsen",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Höchenschwand",
+      "landkreis": "Landkreis Waldshut",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Hohwacht (Ostsee)",
+      "landkreis": "Kreis Plön",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Holm (Stadt Schönberg (Holstein))",
+      "landkreis": "Kreis Plön",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Hopfen am See (Stadt Füssen)",
+      "landkreis": "Landkreis Ostallgäu",
+      "land": "Bayern",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Hörnum (Sylt)",
+      "landkreis": "Kreis Nordfriesland",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Nordseebad"
+    },
+    {
+      "kurort": "Horumersiel - Schillig (Gemeinde Wangerland)",
+      "landkreis": "Landkreis Friesland",
+      "land": "Niedersachsen",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "Insel Hiddensee",
+      "landkreis": "Landkreis Vorpommern-Rügen",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Insel Poel",
+      "landkreis": "Landkreis Nordwestmecklenburg",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Isny im Allgäu",
+      "landkreis": "Landkreis Ravensburg",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Jordanbad (Stadt Biberach an der Riß)",
+      "landkreis": "Landkreis Biberach",
+      "land": "Baden-Württemberg",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Juist",
+      "landkreis": "Landkreis Aurich",
+      "land": "Niedersachsen",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "Kampen (Sylt)",
+      "landkreis": "Kreis Nordfriesland",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Nordseebad"
+    },
+    {
+      "kurort": "Karlshagen",
+      "landkreis": "Landkreis Vorpommern-Greifswald",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Kell am See",
+      "landkreis": "Landkreis Trier-Saarburg",
+      "land": "Rheinland-Pfalz",
+      "praedikat": "Luftkurort"
+    },
+    {
+      "kurort": "Kellberg (Gemeinde Thyrnau)",
+      "landkreis": "Landkreis Passau",
+      "land": "Bayern",
+      "praedikat": "Mineralquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Kellenhusen (Ostsee)",
+      "landkreis": "Kreis Ostholstein",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Kevelaer",
+      "landkreis": "Kreis Kleve",
+      "land": "Nordrhein-Westfalen | |Ort mit Heilquellen-Kurbetrieb",
+      "praedikat": ""
+    },
+    {
+      "kurort": "Königsfeld im Schwarzwald",
+      "landkreis": "Schwarzwald-Baar-Kreis",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilklimatischer Kurort, Kneippkurort"
+    },
+    {
+      "kurort": "Königstein im Taunus",
+      "landkreis": "Hochtaunuskreis",
+      "land": "Hessen",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Koserow",
+      "landkreis": "Landkreis Vorpommern-Greifswald",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Kreuth",
+      "landkreis": "Landkreis Miesbach",
+      "land": "Bayern",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Krumbad (Stadt Krumbach (Schwaben))",
+      "landkreis": "Landkreis Günzburg",
+      "land": "Bayern",
+      "praedikat": "Kneipp-Kurbetrieb, Peloid-Kurbetrieb"
+    },
+    {
+      "kurort": "Kühlungsborn",
+      "landkreis": "Landkreis Rostock",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Kyllburg",
+      "landkreis": "Eifelkreis Bitburg-Prüm",
+      "land": "Rheinland-Pfalz",
+      "praedikat": "Luftkurort"
+    },
+    {
+      "kurort": "Laboe",
+      "landkreis": "Kreis Plön",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Langeoog",
+      "landkreis": "Landkreis Wittmund",
+      "land": "Niedersachsen",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "Lenzkirch",
+      "landkreis": "Landkreis Breisgau-Hochschwarzwald",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Lindenfels",
+      "landkreis": "Landkreis Bergstraße",
+      "land": "Hessen",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "List auf Sylt",
+      "landkreis": "Kreis Nordfriesland",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Nordseebad"
+    },
+    {
+      "kurort": "Loddin",
+      "landkreis": "Landkreis Vorpommern-Greifswald",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Lubmin",
+      "landkreis": "Landkreis Vorpommern-Greifswald",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Ludwigsburg-Hoheneck",
+      "landkreis": "Landkreis Ludwigsburg",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Manderscheid",
+      "landkreis": "Landkreis Bernkastel-Wittlich",
+      "land": "Rheinland-Pfalz",
+      "praedikat": "Heilklimatischer Kurort, Kneippkurort"
+    },
+    {
+      "kurort": "Marktschellenberg",
+      "landkreis": "Landkreis Berchtesgadener Land",
+      "land": "Bayern",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Masserberg",
+      "landkreis": "Landkreis Hildburghausen",
+      "land": "Thüringen",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Mettnau (Stadt Radolfzell am Bodensee)",
+      "landkreis": "Landkreis Konstanz",
+      "land": "Baden-Württemberg",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Mölln",
+      "landkreis": "Kreis Herzogtum Lauenburg",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Murnau am Staffelsee",
+      "landkreis": "Landkreis Garmisch-Partenkirchen",
+      "land": "Bayern",
+      "praedikat": "Moor-Kurbetrieb"
+    },
+    {
+      "kurort": "Naumburg",
+      "landkreis": "Landkreis Kassel",
+      "land": "Hessen",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Nebel",
+      "landkreis": "Kreis Nordfriesland",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Nordseebad"
+    },
+    {
+      "kurort": "Neubulach",
+      "landkreis": "Landkreis Calw",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilklimatischer Kurort, Heilstollen-Kurbetrieb"
+    },
+    {
+      "kurort": "Neuharlingersiel",
+      "landkreis": "Landkreis Wittmund",
+      "land": "Niedersachsen",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "Neukirchen (Knüll)",
+      "landkreis": "Schwalm-Eder-Kreis",
+      "land": "Hessen",
+      "praedikat": "Kneippheilbad"
+    },
+    {
+      "kurort": "Neustadt in Holstein",
+      "landkreis": "Kreis Ostholstein",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Nieblum",
+      "landkreis": "Kreis Nordfriesland",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Nordseebad"
+    },
+    {
+      "kurort": "Nieheim",
+      "landkreis": "Kreis Höxter",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Niendorf (Gemeinde Timmendorfer Strand)",
+      "landkreis": "Kreis Ostholstein",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Nienhagen",
+      "landkreis": "Landkreis Rostock",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Nonnweiler",
+      "landkreis": "Landkreis Sankt Wendel",
+      "land": "Saarland",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Norddeich (Stadt Norden)",
+      "landkreis": "Landkreis Aurich",
+      "land": "Niedersachsen",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "Norddorf auf Amrum",
+      "landkreis": "Kreis Nordfriesland",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "Norderney",
+      "landkreis": "Landkreis Aurich",
+      "land": "Niedersachsen",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "Nordstrand",
+      "landkreis": "Kreis Nordfriesland",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "Nümbrecht",
+      "landkreis": "Oberbergischer Kreis",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Oberstaufen",
+      "landkreis": "Landkreis Oberallgäu",
+      "land": "Bayern",
+      "praedikat": "Heilklimatischer Kurort, Schroth-Heilbad"
+    },
+    {
+      "kurort": "Oberstdorf",
+      "landkreis": "Landkreis Oberallgäu",
+      "land": "Bayern",
+      "praedikat": "Heilklimatischer Kurort, Kneippkurort"
+    },
+    {
+      "kurort": "Obertal-Buhlbach (Gemeinde Baiersbronn)",
+      "landkreis": "Landkreis Freudenstadt",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Olsberg",
+      "landkreis": "Hochsauerlandkreis",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Kneippheilbad"
+    },
+    {
+      "kurort": "Orscholz (Gemeinde Mettlach)",
+      "landkreis": "Landkreis Merzig-Wadern",
+      "land": "Saarland",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Otterndorf",
+      "landkreis": "Landkreis Cuxhaven",
+      "land": "Niedersachsen",
+      "praedikat": "Nordseebad"
+    },
+    {
+      "kurort": "Ottobeuren",
+      "landkreis": "Landkreis Unterallgäu",
+      "land": "Bayern",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Oy-Mittelberg",
+      "landkreis": "Landkreis Oberallgäu",
+      "land": "Bayern",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Pellworm",
+      "landkreis": "Kreis Nordfriesland",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "Prerow",
+      "landkreis": "Landkreis Vorpommern-Rügen",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Prien am Chiemsee",
+      "landkreis": "Landkreis Rosenheim",
+      "land": "Bayern",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Ramsau bei Berchtesgaden",
+      "landkreis": "Landkreis Berchtesgadener Land",
+      "land": "Bayern",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Randringhausen (Stadt Bünde)",
+      "landkreis": "Kreis Herford",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Erholungsort mit Kurmittelgebiet"
+    },
+    {
+      "kurort": "Rantum (Gemeinde Sylt)",
+      "landkreis": "Kreis Nordfriesland",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Nordseebad"
+    },
+    {
+      "kurort": "Reinhardshausen (Stadt Bad Wildungen)",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "land": "Hessen",
+      "praedikat": "Mineralheilbad"
+    },
+    {
+      "kurort": "Rengsdorf",
+      "landkreis": "Landkreis Neuwied",
+      "land": "Rheinland-Pfalz",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Rerik",
+      "landkreis": "Landkreis Rostock",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Rothenuffeln (Gemeinde Hille)",
+      "landkreis": "Kreis Minden-Lübbecke",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Erholungsort mit Kurmittelgebiet"
+    },
+    {
+      "kurort": "Rottach-Egern",
+      "landkreis": "Landkreis Miesbach",
+      "land": "Bayern",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Saig (Gemeinde Lenzkirch)",
+      "landkreis": "Landkreis Breisgau-Hochschwarzwald",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Salzgitter-Bad (Stadt Salzgitter)",
+      "landkreis": "—",
+      "land": "Niedersachsen",
+      "praedikat": "Ort mit Sole-Kurbetrieb"
+    },
+    {
+      "kurort": "Sasbachwalden",
+      "landkreis": "Ortenaukreis",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilklimatischer Kurort, Kneippkurort"
+    },
+    {
+      "kurort": "Scharbeutz",
+      "landkreis": "Kreis Ostholstein",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Scheidegg",
+      "landkreis": "Landkreis Lindau (Bodensee)",
+      "land": "Bayern",
+      "praedikat": "Heilklimatischer Kurort, Kneippkurort"
+    },
+    {
+      "kurort": "Schieder (Stadt Schieder-Schwalenberg)",
+      "landkreis": "Kreis Lippe",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Schlangenbad",
+      "landkreis": "Rheingau-Taunus-Kreis",
+      "land": "Hessen",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Schluchsee",
+      "landkreis": "Landkreis Breisgau-Hochschwarzwald",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Schömberg",
+      "landkreis": "Landkreis Calw",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilklimatischer Kurort, Kneippkurort"
+    },
+    {
+      "kurort": "Schönau am Königssee",
+      "landkreis": "Landkreis Berchtesgadener Land",
+      "land": "Bayern",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Schönberg (Holstein)",
+      "landkreis": "Kreis Plön",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Schönhagen (Gemeinde Brodersby)",
+      "landkreis": "Kreis Rendsburg-Eckernförde",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Schönmünzach und Schwarzenberg (Gemeinde Baiersbronn)",
+      "landkreis": "Landkreis Freudenstadt",
+      "land": "Baden-Württemberg",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Schönwald im Schwarzwald",
+      "landkreis": "Schwarzwald-Baar-Kreis",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Schwangau",
+      "landkreis": "Landkreis Ostallgäu",
+      "land": "Bayern",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Sellin",
+      "landkreis": "Landkreis Vorpommern-Rügen",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Sibyllenbad (Marktgemeinde Bad Neualbenreuth)",
+      "landkreis": "Landkreis Tirschenreuth",
+      "land": "Bayern",
+      "praedikat": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Siegsdorf",
+      "landkreis": "Landkreis Traunstein",
+      "land": "Bayern",
+      "praedikat": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Sierksdorf",
+      "landkreis": "Kreis Ostholstein",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Soltau",
+      "landkreis": "Landkreis Heidekreis",
+      "land": "Niedersachsen",
+      "praedikat": "Ort mit Sole-Kurbetrieb"
+    },
+    {
+      "kurort": "Sankt Peter-Ording",
+      "landkreis": "Kreis Nordfriesland",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Nordseeheilbad, Schwefelbad"
+    },
+    {
+      "kurort": "Strande",
+      "landkreis": "Kreis Rendsburg-Eckernförde",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Stützerbach (Stadt Ilmenau)",
+      "landkreis": "Ilm-Kreis",
+      "land": "Thüringen",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Spiekeroog",
+      "landkreis": "Landkreis Wittmund",
+      "land": "Niedersachsen",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "St. Blasien",
+      "landkreis": "Landkreis Waldshut",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilklimatischer Kurort, Kneippkurort"
+    },
+    {
+      "kurort": "Sylt-Ost (Gemeinde Sylt)",
+      "landkreis": "Kreis Nordfriesland",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Nordseebad"
+    },
+    {
+      "kurort": "Sülzhayn (Stadt Ellrich)",
+      "landkreis": "Landkreis Nordhausen",
+      "land": "Thüringen",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Tecklenburg",
+      "landkreis": "Kreis Steinfurt",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Tegernsee",
+      "landkreis": "Landkreis Miesbach",
+      "land": "Bayern",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Templin",
+      "landkreis": "Landkreis Uckermark",
+      "land": "Brandenburg",
+      "praedikat": "Thermalsoleheilbad"
+    },
+    {
+      "kurort": "Thermalbad Wiesenbad (nur Hauptort)",
+      "landkreis": "Erzgebirgskreis",
+      "land": "Sachsen",
+      "praedikat": "Ort mit Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Thiessow (zu Mönchgut)",
+      "landkreis": "Landkreis Vorpommern-Rügen",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Timmendorfer Strand",
+      "landkreis": "Kreis Ostholstein",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Titisee-Neustadt",
+      "landkreis": "Landkreis Breisgau-Hochschwarzwald",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Todtmoos",
+      "landkreis": "Landkreis Waldshut",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Tossens (Gemeinde Butjadingen)",
+      "landkreis": "Landkreis Wesermarsch",
+      "land": "Niedersachsen",
+      "praedikat": "Nordseebad"
+    },
+    {
+      "kurort": "Trassenheide",
+      "landkreis": "Landkreis Vorpommern-Greifswald",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Travemünde (Stadt Lübeck)",
+      "landkreis": "—",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Treuchtlingen",
+      "landkreis": "Landkreis Weißenburg-Gunzenhausen",
+      "land": "Bayern",
+      "praedikat": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Triberg im Schwarzwald",
+      "landkreis": "Schwarzwald-Baar-Kreis",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Überlingen",
+      "landkreis": "Bodenseekreis",
+      "land": "Baden-Württemberg",
+      "praedikat": "Kneippheilbad"
+    },
+    {
+      "kurort": "Ückeritz",
+      "landkreis": "Landkreis Vorpommern-Greifswald",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Ueckermünde",
+      "landkreis": "Landkreis Vorpommern-Greifswald",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Seebad"
+    },
+    {
+      "kurort": "Usseln (Gemeinde Willingen (Upland))",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "land": "Hessen",
+      "praedikat": "Heilklimatischer Kurort, Kneippheilbad"
+    },
+    {
+      "kurort": "Utersum",
+      "landkreis": "Kreis Nordfriesland",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Nordseebad"
+    },
+    {
+      "kurort": "Villingen (Stadt Villingen-Schwenningen)",
+      "landkreis": "Schwarzwald-Baar-Kreis",
+      "land": "Baden-Württemberg",
+      "praedikat": "Kneippkurort"
+    },
+    {
+      "kurort": "Waldbronn",
+      "landkreis": "Landkreis Karlsruhe",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "kurort": "Wangerooge",
+      "landkreis": "Landkreis Friesland",
+      "land": "Niedersachsen",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "Waren (Müritz)",
+      "landkreis": "Landkreis Mecklenburgische Seenplatte",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Soleheilbad"
+    },
+    {
+      "kurort": "Warmbad (Stadt Wolkenstein)",
+      "landkreis": "Erzgebirgskreis",
+      "land": "Sachsen",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Warnemünde (Stadt Rostock)",
+      "landkreis": "—",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Weiskirchen",
+      "landkreis": "Landkreis Merzig-Wadern",
+      "land": "Saarland",
+      "praedikat": "Heilklimatischer Kurort, Kneippkurort"
+    },
+    {
+      "kurort": "Weißenhäuser Strand (Gemeinde Wangels)",
+      "landkreis": "Kreis Ostholstein",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Wenningstedt-Braderup (Sylt)",
+      "landkreis": "Kreis Nordfriesland",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "Westerland (Gemeinde Sylt)",
+      "landkreis": "Kreis Nordfriesland",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "Wiesbaden",
+      "landkreis": "—",
+      "land": "Hessen",
+      "praedikat": "Mineralbad"
+    },
+    {
+      "kurort": "Wildbach (Stadt Aue-Bad Schlema)",
+      "landkreis": "Erzgebirgskreis",
+      "land": "Sachsen",
+      "praedikat": "Heilbad"
+    },
+    {
+      "kurort": "Willingen (Upland)",
+      "landkreis": "Landkreis Waldeck-Frankenberg",
+      "land": "Hessen",
+      "praedikat": "Kneippheilbad, Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Winterberg",
+      "landkreis": "Hochsauerlandkreis",
+      "land": "Nordrhein-Westfalen",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Wittdün auf Amrum",
+      "landkreis": "Kreis Nordfriesland",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "Wolfegg",
+      "landkreis": "Landkreis Ravensburg",
+      "land": "Baden-Württemberg",
+      "praedikat": "Heilklimatischer Kurort"
+    },
+    {
+      "kurort": "Wremen",
+      "landkreis": "Landkreis Cuxhaven",
+      "land": "Niedersachsen",
+      "praedikat": "Nordseebad"
+    },
+    {
+      "kurort": "Wustrow",
+      "landkreis": "Landkreis Vorpommern-Rügen",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Wyk auf Föhr",
+      "landkreis": "Kreis Nordfriesland",
+      "land": "Schleswig-Holstein",
+      "praedikat": "Nordseeheilbad"
+    },
+    {
+      "kurort": "Zempin",
+      "landkreis": "Landkreis Vorpommern-Greifswald",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseebad"
+    },
+    {
+      "kurort": "Zingst",
+      "landkreis": "Landkreis Vorpommern-Rügen",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseeheilbad"
+    },
+    {
+      "kurort": "Zinnowitz",
+      "landkreis": "Landkreis Vorpommern-Greifswald",
+      "land": "Mecklenburg-Vorpommern",
+      "praedikat": "Ostseeheilbad"
+    }
+  ],
+  "meta": {
+    "title": "Kurorte in Deutschland - Free Download",
+    "description": "Staatlich anerkannte Kurorte und Heilbäder in Deutschland mit Landkreis, Bundesland und Prädikat (Heilbad, Kneippkurort, Luftkurort usw.). Contains 382 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kurorte in Deutschland | ListBase",
+    "seo_description": "Download Kurorte in Deutschland — 382 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 382 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Kurorte_in_Deutschland"
+    ]
+  }
+}
