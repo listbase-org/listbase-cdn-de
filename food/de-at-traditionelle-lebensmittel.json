@@ -1,0 +1,1584 @@
+{
+  "id": "de-at-traditionelle-lebensmittel",
+  "name": "Traditionelle österreichische Lebensmittel",
+  "title": "Traditionelle österreichische Lebensmittel",
+  "description": "Register der Traditionellen Lebensmittel Österreichs mit Lebensmittel, Produktklasse, Trägerorganisation und Tradition.",
+  "category": "food",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Traditionellen_österreichischen_Lebensmittel",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Traditionellen_österreichischen_Lebensmittel",
+  "updated": "2026-10",
+  "record_count": 191,
+  "columns": [
+    {
+      "key": "produkt",
+      "label": "Produkt",
+      "type": "string"
+    },
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "lebensmittel",
+      "label": "Lebensmittel",
+      "type": "string"
+    },
+    {
+      "key": "produktklasse",
+      "label": "Produktklasse",
+      "type": "string"
+    },
+    {
+      "key": "betreuung",
+      "label": "Betreuung",
+      "type": "string"
+    },
+    {
+      "key": "offenlegung_tradition",
+      "label": "Offenlegung Tradition",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "produkt": "Almenland Almochse",
+      "nr": 57,
+      "lebensmittel": "Ochsenfleisch",
+      "produktklasse": "Fleisch, Rindfleisch",
+      "betreuung": "Almbauern in der Region und Steirische Bergland Marktgemeinschaft",
+      "offenlegung_tradition": "seit Mittelalter"
+    },
+    {
+      "produkt": "Alpbachtaler Heumilchkäse",
+      "nr": 63,
+      "lebensmittel": "Käse aus Heumilch",
+      "produktklasse": "Käse",
+      "betreuung": "65 Lieferanten, Sennerei Reith im Alpbachtal",
+      "offenlegung_tradition": "seit Urzeiten, Heufütterung erw. 16. Jh."
+    },
+    {
+      "produkt": "Alpines Steinschaf",
+      "nr": 196,
+      "lebensmittel": "Schaffleisch",
+      "produktklasse": "Fleischspeisen",
+      "betreuung": "Günther Jaritz, Spartenbetreuer für das Alpine Steinschaf der Arche Austria",
+      "offenlegung_tradition": "Verbreitung bis in das 20. Jahrhundert entlang des Alpenhauptkammes"
+    },
+    {
+      "produkt": "Altsteirer Huhn",
+      "nr": 195,
+      "lebensmittel": "Haushuhn",
+      "produktklasse": "Eier",
+      "betreuung": "",
+      "offenlegung_tradition": "Vorläufer seit dem 13. und 14. Jahrhundert, Altsteirer seit dem 19. Jahrhundert"
+    },
+    {
+      "produkt": "Alpenvorland Rind",
+      "nr": 120,
+      "lebensmittel": "Fleckvieh",
+      "produktklasse": "Fleisch, Kalb- u. Rindfleisch",
+      "betreuung": "NÖ Rinderbörse; rd. 100 Rinderbauern",
+      "offenlegung_tradition": "seit Mittelalter"
+    },
+    {
+      "produkt": "Apfelstrudel, Milchrahmstrudel, Topfenstrudel",
+      "nr": 177,
+      "lebensmittel": "Strudel, Süßspeise",
+      "produktklasse": "Mehlspeise",
+      "betreuung": "Ludwig Mann",
+      "offenlegung_tradition": "Das älteste Rezept für einen Mülch Raimb Strudl stammt aus dem Jahre 1696"
+    },
+    {
+      "produkt": "Augsburger",
+      "nr": 186,
+      "lebensmittel": "Brätwurst",
+      "produktklasse": "Wurst",
+      "betreuung": "Industrielle und gewerbliche Erzeuger",
+      "offenlegung_tradition": "1820er und 1830er Jahre in Wien"
+    },
+    {
+      "produkt": "Ausseerland Seesaiblinge",
+      "nr": 13,
+      "lebensmittel": "Seesaibling",
+      "produktklasse": "Fisch, Seesaibling",
+      "betreuung": "Fischereivereinigung Seefischerei Altaussee; Seefischereien",
+      "offenlegung_tradition": "1280 ersterw."
+    },
+    {
+      "produkt": "Beugel, pikant und süß",
+      "nr": 219,
+      "lebensmittel": "Mohn-, Nussbeugel",
+      "produktklasse": "Kleingebäck",
+      "betreuung": "–",
+      "offenlegung_tradition": "seit einigen Jahrhunderten in Mitteleuropa"
+    },
+    {
+      "produkt": "Beuschel und andere Innerei-Spezialitäten",
+      "nr": 179,
+      "lebensmittel": "Beuschel, Innereien",
+      "produktklasse": "Fleischgericht",
+      "betreuung": "–",
+      "offenlegung_tradition": "wurde erst im 19. Jahrhundert salonfähig"
+    },
+    {
+      "produkt": "Bier",
+      "nr": 101,
+      "lebensmittel": "Bier",
+      "produktklasse": "Alkoholische Getränke",
+      "betreuung": "",
+      "offenlegung_tradition": "Die älteste Erwähnung des Bierbrauens stammt aus der Zeit von 985–983 im Pustertal"
+    },
+    {
+      "produkt": "Blaufränkisch",
+      "nr": 227,
+      "lebensmittel": "Wein",
+      "produktklasse": "Alkoholische Getränke",
+      "betreuung": "",
+      "offenlegung_tradition": "Die Rebsorte des Blaufränkischen gibt es seit dem 10. Jh. in Österreich"
+    },
+    {
+      "produkt": "Blutwurst (Blunzn)",
+      "nr": 158,
+      "lebensmittel": "Blutwurst",
+      "produktklasse": "Wurst",
+      "betreuung": "–",
+      "offenlegung_tradition": "eine der ältesten Wurstsorten im europäischen Kulturkreis (Homers Odyssee)"
+    },
+    {
+      "produkt": "Bramberger Obstsaft",
+      "nr": 144,
+      "lebensmittel": "Apfel - und Birnensaft",
+      "produktklasse": "Getränke, Obstsaft",
+      "betreuung": "Verein Tauriska; Obst- und Gartenbauverein Bramberg, ca. 450 Obstbauern",
+      "offenlegung_tradition": "1850 erw."
+    },
+    {
+      "produkt": "Bratleberwurst",
+      "nr": 209,
+      "lebensmittel": "Bratleberwurst, Kochwurst",
+      "produktklasse": "Wurst, Fleischprodukte",
+      "betreuung": "Fleischereien und bäuerliche Direktvermarkter",
+      "offenlegung_tradition": "Seit einigen Jahrhunderten"
+    },
+    {
+      "produkt": "Bratwurst",
+      "nr": 212,
+      "lebensmittel": "Bratwurst, Brühwurst",
+      "produktklasse": "Wurst, Fleischprodukte",
+      "betreuung": "Fleischereien und bäuerliche Direktvermarkter",
+      "offenlegung_tradition": "Das älteste Rezept findet man bei Apicius aus dem 1. Jh. v. Chr."
+    },
+    {
+      "produkt": "Breinwurst",
+      "nr": 211,
+      "lebensmittel": "Wurst aus Schweinefleisch (Schweineköpfen) unter Zusatz von gekochtem Buchweizen oder gekochter Hirse",
+      "produktklasse": "Wurst, Fleischprodukte",
+      "betreuung": "–",
+      "offenlegung_tradition": "Im Jahr 1869 beschrieb Katharina Prato eine Variante der Breinwurst."
+    },
+    {
+      "produkt": "Bregenzerwälder Alp- und Bergkäse",
+      "nr": 151,
+      "lebensmittel": "Käse aus Kuhmilch (Appenzeller Art)",
+      "produktklasse": "Käse, Hartkäse",
+      "betreuung": "KäseStrasse Bregenzerwald; 18 dörfl. Sennereien, 90 Milchalpen",
+      "offenlegung_tradition": "nach dem 30-jährigen Krieg"
+    },
+    {
+      "produkt": "Buchkirchner-Schartner Edelobst",
+      "nr": 110,
+      "lebensmittel": "Edelobst, insbes. Äpfel, Kirschen",
+      "produktklasse": "Obst, Tafelobst",
+      "betreuung": "LK OÖ; 20 bäuerl. Betriebe",
+      "offenlegung_tradition": "seit Mittelalter, insb. ab Mitte 17. Jh."
+    },
+    {
+      "produkt": "Buchteln",
+      "nr": 175,
+      "lebensmittel": "Süßspeise aus Germteig",
+      "produktklasse": "Mehlspeise",
+      "betreuung": "Ludwig Mann",
+      "offenlegung_tradition": "als Bestandteil der Böhmischen Küche in Wien seit der 1. Hälfte des 19. Jh."
+    },
+    {
+      "produkt": "Bucklige Welt Apfelmost",
+      "nr": 49,
+      "lebensmittel": "Apfelmost",
+      "produktklasse": "Getränke, Obstwein",
+      "betreuung": "Tourismusverband Bucklige Welt; ca. 30 Bauern einer Obstmostgemeinschaft",
+      "offenlegung_tradition": "1557 erw."
+    },
+    {
+      "produkt": "Burenwurst",
+      "nr": 157,
+      "lebensmittel": "Brühwurst aus Rind- oder Schweinefleisch",
+      "produktklasse": "Wurst, Fleischprodukte",
+      "betreuung": "–",
+      "offenlegung_tradition": "wurde in der Zeit der Burenkriege (1899–1902) in Österreich bekannt"
+    },
+    {
+      "produkt": "Cabanossi",
+      "nr": 155,
+      "lebensmittel": "schnittfeste Brühdauerwurst aus geschrotetem, gepökeltem Schweine- und Rindfleisch",
+      "produktklasse": "Wurst, Fleischerzeugnisse",
+      "betreuung": "–",
+      "offenlegung_tradition": "dürfte bereits im 19. Jh. hergestellt und wurde in die Kronländer verbreitet."
+    },
+    {
+      "produkt": "Debreziner",
+      "nr": 206,
+      "lebensmittel": "Brühwurst aus fein zerkleinertem fetten Rindfleisch",
+      "produktklasse": "Wurst, Fleischerzeugnisse",
+      "betreuung": "Industrielle und gewerbliche Erzeuger",
+      "offenlegung_tradition": "wurden bereits im 19. Jh. an Wiener Würstelständen verkauft"
+    },
+    {
+      "produkt": "Dürre, Braunschweiger",
+      "nr": 202,
+      "lebensmittel": "Brätwurst, Fleischwurst, Brühwurst",
+      "produktklasse": "Wurst, Fleischprodukte",
+      "betreuung": "Fleischereien sowie industrielle und gewerbliche Erzeuger",
+      "offenlegung_tradition": "aus 1925 ist eine Rezeptur für die Wiener Dürre und für die Braunschweiger, eine Variation der Dürren bekannt."
+    },
+    {
+      "produkt": "Eferdinger Landl Gemüse",
+      "nr": 96,
+      "lebensmittel": "über 70 Gemüsearten",
+      "produktklasse": "Feldfrüchte, Gemüse",
+      "betreuung": "Verein Eferdinger GemüseLust; rd. 150 bäuerl. Familienbetriebe",
+      "offenlegung_tradition": "13. Jh. erste Hinweise"
+    },
+    {
+      "produkt": "Eierschwammerl und Herrenpilz",
+      "nr": 189,
+      "lebensmittel": "Eierschwammerl, Herrenpilz /Steinpilz",
+      "produktklasse": "Speisepilz, Pilze",
+      "betreuung": "",
+      "offenlegung_tradition": "Pilze dürften bereits in Urzeiten gesammelt worden sein. Im österreichischen Raum waren die erste Pilzbeschreibungen in „Fungorium in Pannonia observatorum brevis Historia“ von Carl Clusius von 1601"
+    },
+    {
+      "produkt": "Elsbeerenbrand",
+      "nr": 32,
+      "lebensmittel": "Obstbrand aus Elsbeere",
+      "produktklasse": "Spirituosen",
+      "betreuung": "–",
+      "offenlegung_tradition": "Älteste Erwähnung stammt von Martin Luther um 1500"
+    },
+    {
+      "produkt": "Enzian",
+      "nr": 33,
+      "lebensmittel": "Wurzelbrand (Gelber, Punktierter Enzian)",
+      "produktklasse": "Spirituosen",
+      "betreuung": "–",
+      "offenlegung_tradition": "Erste Erwähnung in De materia medica im 1. Jh. von Pedanios Dioscurides."
+    },
+    {
+      "produkt": "Extrawurst",
+      "nr": 159,
+      "lebensmittel": "Extrawurst, Brühwurst",
+      "produktklasse": "Wurst, Fleischprodukte",
+      "betreuung": "Industrielle und gewerbliche Erzeuger",
+      "offenlegung_tradition": "bekannt in Wien um 1820"
+    },
+    {
+      "produkt": "Flachgauer Heumilchkäse",
+      "nr": 59,
+      "lebensmittel": "Käse aus Heumilch",
+      "produktklasse": "Käse",
+      "betreuung": "ARGE Heumilch Salzburg–Oberösterreich; Bauern der Region",
+      "offenlegung_tradition": "Mittelalter, ab 1860ern intensiviert"
+    },
+    {
+      "produkt": "Fleckvieh",
+      "nr": 103,
+      "lebensmittel": "Rindfleisch",
+      "produktklasse": "Fleischgerichte",
+      "betreuung": "Arbeitsgemeinschaft österreichischer Fleckviehzüchter (AGÖF)",
+      "offenlegung_tradition": "die erstmals 1830 nach Österreich importierten Simmentaler wurden mit lokalen Rassen eingekreuzt"
+    },
+    {
+      "produkt": "Fleischpastete",
+      "nr": 207,
+      "lebensmittel": "Pastete, Kochwurst",
+      "produktklasse": "Wurst, Fleischprodukte",
+      "betreuung": "",
+      "offenlegung_tradition": "Erste Erwähnungen beispielsweise einer Tauben-Pastete im Kochbuch Freywillig auffgesprungener Granat-Apffel von 1699 der liechtensteinischen Prinzessin Eleonora Maria Rosalia"
+    },
+    {
+      "produkt": "Frankfurter/ Wiener Würstel",
+      "nr": 160,
+      "lebensmittel": "Brühwurst aus Rind- und/oder Schweinefleisch",
+      "produktklasse": "Wurst, Fleischprodukte",
+      "betreuung": "Gehört heute zum Standardrepertoire der österreichischen Wursthersteller",
+      "offenlegung_tradition": "Sie wurden erstmals vom aus Frankfurt stammenden Fleischer Johann Georg Lahner im Jahr 1805 hergestellt"
+    },
+    {
+      "produkt": "Fraxner Kirsch/Fraxner Kriasiwasser",
+      "nr": 34,
+      "lebensmittel": "Kirschenbrand (Schnaps aus Süßkirschen)",
+      "produktklasse": "Spirituosen",
+      "betreuung": "Ca. 35 bäuerliche Brenner aus der Gemeinde Fraxern",
+      "offenlegung_tradition": "Fraxner Kriasi (Fraxner Kirschen) wurden bereits 1574 urkundlich als Khriespern erwähnt."
+    },
+    {
+      "produkt": "Gailtaler Almkäse g.U.",
+      "nr": 1,
+      "lebensmittel": "Käse",
+      "produktklasse": "Milchprodukte",
+      "betreuung": "Gemeinschaft der Gailtaler Almsennereien",
+      "offenlegung_tradition": "Erste Erwähnung frühester Erzeugung im Urbar von Görz 1375/81"
+    },
+    {
+      "produkt": "Gailtaler Speck g.g.A.",
+      "nr": 9,
+      "lebensmittel": "Käse, Speck",
+      "produktklasse": "Käse; Fleischprodukte, Rohpökelware",
+      "betreuung": "Gemeinschaft der Gailtaler Almsennereien / Gailtaler Speckverein; Gailtaler Speck – Naturarena Kärnten (Titel); örtl. Bauern und Fleischer",
+      "offenlegung_tradition": "Käse erw. im Urbar von Görz 1375/81; Speck 15. Jh."
+    },
+    {
+      "produkt": "Gesäuse Wild",
+      "nr": 139,
+      "lebensmittel": "Reh -, Gams -, Rot -, Auer -, Birkwild; Schinken aus Hirschwild",
+      "produktklasse": "Fleisch, Wildfleisch",
+      "betreuung": "Steiermärkische Landesforste – Forstdirektion Admont; zahlr. Jäger",
+      "offenlegung_tradition": "11. Jh."
+    },
+    {
+      "produkt": "Geselchtes",
+      "nr": 153,
+      "lebensmittel": "Selchen von gepökeltem Fleisch",
+      "produktklasse": "Räucherfleisch, Fleischprodukte",
+      "betreuung": "–",
+      "offenlegung_tradition": "ist bereits aus der Römerzeit bekannt"
+    },
+    {
+      "produkt": "Glundner Käse",
+      "nr": 190,
+      "lebensmittel": "Sauermilchkäse",
+      "produktklasse": "Käse",
+      "betreuung": "–",
+      "offenlegung_tradition": "Koch-/Schmelzkäse seit der Römerzeit"
+    },
+    {
+      "produkt": "Görtschitztaler Milch",
+      "nr": 113,
+      "lebensmittel": "Milch",
+      "produktklasse": "Getränke, Frischmilch",
+      "betreuung": "Sonnenalm Milch; 13 Milchbauern",
+      "offenlegung_tradition": "Mitte 12. Jh."
+    },
+    {
+      "produkt": "Grazer Krauthäuptel",
+      "nr": 93,
+      "lebensmittel": "Eissalat (Kopfsalat, Häuptelsalat)",
+      "produktklasse": "Feldfrüchte, Gemüse",
+      "betreuung": "LK Stmk; zahlr. Gemüsebauern",
+      "offenlegung_tradition": "Wende 19./20. Jh."
+    },
+    {
+      "produkt": "Großwalsertaler Bergkäse (Walserstolz)",
+      "nr": 69,
+      "lebensmittel": "Käse aus Kuhmilch (Walser stolz)",
+      "produktklasse": "Käse, Hartkäse",
+      "betreuung": "Emmi AG Österreich; 4 Tal- und zahlr. Alpensennereien",
+      "offenlegung_tradition": "14. Jh., 1905 erste Genossenschaftssennerei"
+    },
+    {
+      "produkt": "Grubenkraut",
+      "nr": 187,
+      "lebensmittel": "vergorenes Kraut",
+      "produktklasse": "Krautgemüse, Gemüse",
+      "betreuung": "Waltraud Froihofer (Biobetrieb)",
+      "offenlegung_tradition": "Belege verweisen auf das 15. Jh."
+    },
+    {
+      "produkt": "Grüner Veltliner",
+      "nr": 231,
+      "lebensmittel": "Wein",
+      "produktklasse": "",
+      "betreuung": "–",
+      "offenlegung_tradition": "–"
+    },
+    {
+      "produkt": "Gugelhupf",
+      "nr": 165,
+      "lebensmittel": "Kuchen",
+      "produktklasse": "Gebäck, Süßspeise, Backerzeugnis,",
+      "betreuung": "wird sowohl von Bäckereien und Konditoreien als auch von privaten Haushalten in ganz Österreich hergestellt",
+      "offenlegung_tradition": "Seine weltweite Verbreitung fand er von Wien ausgehend in der 1. Hälfte des 19. Jh."
+    },
+    {
+      "produkt": "Gulasch",
+      "nr": 178,
+      "lebensmittel": "ein mit Paprika gewürztes Fleischragout aus Rind-, Kalb- oder Schweinefleisch (auch Hühner-, Lamm- oder Hammelfleisch)",
+      "produktklasse": "Fleischgerichte",
+      "betreuung": "–",
+      "offenlegung_tradition": "Anfang 19. Jh."
+    },
+    {
+      "produkt": "Gurktaler Luftgeselchter Speck",
+      "nr": 14,
+      "lebensmittel": "Speck",
+      "produktklasse": "Fleischprodukte, Rohpökelware",
+      "betreuung": "ARGE Gurktaler Luftgeselchter Speck (Titel); 11 Betriebe",
+      "offenlegung_tradition": "seit Jahrhunderten"
+    },
+    {
+      "produkt": "HansBergLand Hopfen",
+      "nr": 15,
+      "lebensmittel": "Hopfen",
+      "produktklasse": "Spezialkulturen, Hopfen",
+      "betreuung": "Regionalverband Region HansBergLand; Hopfenbaugenossenschaft Neufelden, 38 Hopfenbauern",
+      "offenlegung_tradition": "um 1206 erw."
+    },
+    {
+      "produkt": "Hausruck Birn-Apfel-Most",
+      "nr": 147,
+      "lebensmittel": "Most: Birnmost, Apfelmost, Mischmost",
+      "produktklasse": "Getränke, Obstwein",
+      "betreuung": "Regionalverband Mostlandl Hausruck, ca. 70 Bauern u. Produzenten",
+      "offenlegung_tradition": "vermutl. frühes Mittelalter, ab um 1540 Haustrunk"
+    },
+    {
+      "produkt": "Hauswürstel",
+      "nr": 228,
+      "lebensmittel": "Roh- oder Brühwurst, Wurst aus Schweine- und/oder Rindfleisch",
+      "produktklasse": "Wursterzeugnisse,",
+      "betreuung": "",
+      "offenlegung_tradition": "seit dem Mittelalter und der Renaissance traditionell nach Hausschlachtungen"
+    },
+    {
+      "produkt": "Hochschwab Wild",
+      "nr": 16,
+      "lebensmittel": "Rotwild, Gämsen",
+      "produktklasse": "Fleisch, Wildfleisch",
+      "betreuung": "Steirische Romantik; 25 „Wilde Wirte“ sowie „Wilde Fleischhauer“",
+      "offenlegung_tradition": "um 1500"
+    },
+    {
+      "produkt": "Horitschoner Herzkirschenbrand",
+      "nr": 35,
+      "lebensmittel": "Obstbrand aus Herzkirschen",
+      "produktklasse": "Spirituosen",
+      "betreuung": "Obstverkaufsgemeinschaft Horitschon, PANNONIA GesnbR",
+      "offenlegung_tradition": "mündlich überliefert aus dem 18. Jahrhundert"
+    },
+    {
+      "produkt": "Innviertler Surspeck",
+      "nr": 66,
+      "lebensmittel": "Speck",
+      "produktklasse": "Fleischprodukte, Rohpökelware",
+      "betreuung": "Tourismusverband s’Innviertel, Naturschule St. Veit; örtl. Züchter u. Metzger",
+      "offenlegung_tradition": "gesichert 18. Jh., 1807 erw."
+    },
+    {
+      "produkt": "Jagdberger Heumilchkäse",
+      "nr": 61,
+      "lebensmittel": "Käse aus Heumilch",
+      "produktklasse": "Käse",
+      "betreuung": "Dorfsennerei Schlins-Röns; 30 Lieferanten, 2 Sennereien",
+      "offenlegung_tradition": "seit Urzeiten, 1906 Sennerei Schnifis"
+    },
+    {
+      "produkt": "Jauntaler Hadn",
+      "nr": 77,
+      "lebensmittel": "Buchweizen",
+      "produktklasse": "Spezialkulturen, Buchweizen",
+      "betreuung": "Verein Wir laden zum Had’n; 12 Bauern",
+      "offenlegung_tradition": "1442/45 urk."
+    },
+    {
+      "produkt": "Jauntaler Salami",
+      "nr": 118,
+      "lebensmittel": "Salami",
+      "produktklasse": "Wurstwaren",
+      "betreuung": "Salamibauern in der Region Jauntal",
+      "offenlegung_tradition": "seit Generationen im bäuerlichen Haushalt bekannt; geht bis auf das Mittelalter zurück"
+    },
+    {
+      "produkt": "Kaiserschmarren",
+      "nr": 166,
+      "lebensmittel": "Schmarrn",
+      "produktklasse": "Süßspeise, Mehlspeise",
+      "betreuung": "–",
+      "offenlegung_tradition": "geht vermutlich auf Kaiser Franz Joseph zurück"
+    },
+    {
+      "produkt": "Kaisersemmel",
+      "nr": 164,
+      "lebensmittel": "Weißgebäck",
+      "produktklasse": "Gebäck",
+      "betreuung": "Edmund Fröhlich, Bäckereien",
+      "offenlegung_tradition": "Sie soll ein Wiener Bäcker namens Kayser um 1750 die Kaysersemmel erfunden haben"
+    },
+    {
+      "produkt": "Kaiserwinkl Heumilchkäse",
+      "nr": 48,
+      "lebensmittel": "Käse aus Heumilch",
+      "produktklasse": "Käse, Milchprodukte",
+      "betreuung": "Ca. 400 Heumilchbauern und 6 Sennereien in der Region Kaiserwinkl",
+      "offenlegung_tradition": "Die Heufütterung ist im Kaiserwinkl seit dem 16. Jh. bekannt. Dementsprechend auch die Käseproduktion"
+    },
+    {
+      "produkt": "Kärntna Låxn",
+      "nr": 138,
+      "lebensmittel": "Seeforelle",
+      "produktklasse": "Fisch, Forelle",
+      "betreuung": "ARGE Oberkärntner Fisch, 4 Fischzuchtbetriebe",
+      "offenlegung_tradition": "14. Jh."
+    },
+    {
+      "produkt": "Kärntner Brillenschaf",
+      "nr": 105,
+      "lebensmittel": "Schaffleisch",
+      "produktklasse": "Frischfleisch",
+      "betreuung": "Friedhelm Jasbinschek, Verein der Kärntner Brillenschafzüchter Alpen-Adria",
+      "offenlegung_tradition": "Die Rasse wurde erstmals 1844 als Seeländerschaf beschrieben."
+    },
+    {
+      "produkt": "Kärntner Kasnudeln, Schlick-/Schlutzkrapfen",
+      "nr": 176,
+      "lebensmittel": "Kärntner Nudel",
+      "produktklasse": "Teigwaren, Nudelgerichte",
+      "betreuung": "–",
+      "offenlegung_tradition": "sind seit dem Mittelalter bekannt. Älteste bekannte schriftliche Aufzeichnung stammt von 1753."
+    },
+    {
+      "produkt": "Kärntner Reinling",
+      "nr": 173,
+      "lebensmittel": "Reindling",
+      "produktklasse": "Backwaren, Süßspeise, Germspeise",
+      "betreuung": "Edmund Fröhlich",
+      "offenlegung_tradition": "jahrhundertealte Tradition"
+    },
+    {
+      "produkt": "Kipfel",
+      "nr": 174,
+      "lebensmittel": "Gebäck aus Germteig",
+      "produktklasse": "Kleingebäck",
+      "betreuung": "Edmund Fröhlich",
+      "offenlegung_tradition": "vermutlich seit dem Jahr 1000"
+    },
+    {
+      "produkt": "Kittseer Marille",
+      "nr": 86,
+      "lebensmittel": "Marille",
+      "produktklasse": "Obst, Frischobst",
+      "betreuung": "Verein Kittseer Marille; rd. 120 Obstbauern",
+      "offenlegung_tradition": "1924 erw."
+    },
+    {
+      "produkt": "Kletzenbrot",
+      "nr": 172,
+      "lebensmittel": "Früchtebrot",
+      "produktklasse": "Brot, Gebäck, Backwaren",
+      "betreuung": "Edmund Fröhlich, Bäckereien",
+      "offenlegung_tradition": "war schon im Mittelalter als piratura bekannt"
+    },
+    {
+      "produkt": "Knödel allgemein",
+      "nr": 184,
+      "lebensmittel": "Knödel",
+      "produktklasse": "Beilagen",
+      "betreuung": "–",
+      "offenlegung_tradition": "Erste archäologische Funde in Österreich stammen aus Mondsee (2500–1800 v. Chr.)"
+    },
+    {
+      "produkt": "Krainer Steinschaf",
+      "nr": 200,
+      "lebensmittel": "Krainer Steinschaf",
+      "produktklasse": "Schaffleisch, Fleischgerichte",
+      "betreuung": "Verein der Krainer Steinschafzüchter Alpe Adria",
+      "offenlegung_tradition": "seit 1900 als andere Bezeichnung des Zaupelschafes"
+    },
+    {
+      "produkt": "Krakauer",
+      "nr": 205,
+      "lebensmittel": "Fleischwurst aus Schweine- und/oder Rindfleisch",
+      "produktklasse": "Wurst, Fleischprodukte",
+      "betreuung": "",
+      "offenlegung_tradition": "Erwähnung im österreichischen Fachkundebuch von 1931"
+    },
+    {
+      "produkt": "Krapfen",
+      "nr": 167,
+      "lebensmittel": "Süßspeise",
+      "produktklasse": "Fettbackwaren, Konditorwaren",
+      "betreuung": "Ludwig Mann",
+      "offenlegung_tradition": "Erste Erwähnung um 900"
+    },
+    {
+      "produkt": "Laaer Zwiebel",
+      "nr": 58,
+      "lebensmittel": "Zwiebeln",
+      "produktklasse": "Feldfrüchte, Zwiebelgemüse",
+      "betreuung": "AGRAR PLUS; rd. 50 Bauern",
+      "offenlegung_tradition": "Mitte 19. Jh. (gesichert)"
+    },
+    {
+      "produkt": "Ländle Alpschwein",
+      "nr": 134,
+      "lebensmittel": "Hausschwein",
+      "produktklasse": "Fleisch, Schweinefleisch",
+      "betreuung": "Ländle Qualitätsprodukte; ca. 40 Schweinebauern",
+      "offenlegung_tradition": "vermutlich mit den Römern (ab 15 v. Chr.)"
+    },
+    {
+      "produkt": "Ländle Apfel",
+      "nr": 83,
+      "lebensmittel": "Äpfel",
+      "produktklasse": "Obst, Apfel",
+      "betreuung": "Ländle Qualitätsprodukte; 16 Obstbauern und ‑produzenten",
+      "offenlegung_tradition": "13. Jh."
+    },
+    {
+      "produkt": "Ländle Kalb",
+      "nr": 119,
+      "lebensmittel": "Kalb",
+      "produktklasse": "Fleisch, Kalbfleisch",
+      "betreuung": "Ländle Qualitätsprodukte; zahlr. Bauern, rd. 20 Metzger",
+      "offenlegung_tradition": "1862 Beginn d. org. Zucht"
+    },
+    {
+      "produkt": "Laugenbrezel, Laugengebäck",
+      "nr": 221,
+      "lebensmittel": "Weißbäckerei, Laugengebäck",
+      "produktklasse": "Gebäck",
+      "betreuung": "Edmund Fröhlich, Bäckereien und Brotfabriken",
+      "offenlegung_tradition": "Laut Legende um 1477"
+    },
+    {
+      "produkt": "Lavanttaler Apfelwein",
+      "nr": 149,
+      "lebensmittel": "Apfelweine",
+      "produktklasse": "Getränke, Obstwein",
+      "betreuung": "Verein Mostbarkeiten; ca. 200 Bauern und Mostproduzenten",
+      "offenlegung_tradition": "vermutl. frühes Mittelalter, Obstanbau erw. 990"
+    },
+    {
+      "produkt": "Lavanttaler Bananenapfelbrand",
+      "nr": 36,
+      "lebensmittel": "Obstbrand (Apfelbrand aus dieser Sorte)",
+      "produktklasse": "Spirituosen",
+      "betreuung": "–",
+      "offenlegung_tradition": "die Apfelsorte wurde um 1882 von der Familie Birkershauser aus Massachusetts in die Region Lavanttal gebracht"
+    },
+    {
+      "produkt": "Leberstreichwurst",
+      "nr": 216,
+      "lebensmittel": "Kochwurst",
+      "produktklasse": "Wurst, Fleischprodukte",
+      "betreuung": "Fleischereien und bäuerliche Direktvermarkter",
+      "offenlegung_tradition": "Die Entwicklung der Wurstsorte fand im 19. Jh. statt"
+    },
+    {
+      "produkt": "Leinöl",
+      "nr": 108,
+      "lebensmittel": "Leinöl",
+      "produktklasse": "Speiseöl, Öl",
+      "betreuung": "Mühlviertler Ölmühle",
+      "offenlegung_tradition": "Ein Anbau von Lein fand bereits im Mittelalter in Österreich statt"
+    },
+    {
+      "produkt": "Leithaberger Edelkirsche",
+      "nr": 78,
+      "lebensmittel": "Kirsche",
+      "produktklasse": "Obst, Frischobst",
+      "betreuung": "Verein Leithaberger Edelkirsche; zahlr. Kirschenbauern",
+      "offenlegung_tradition": "18. Jh."
+    },
+    {
+      "produkt": "Leondinger Grünspargel",
+      "nr": 123,
+      "lebensmittel": "Grünspargel",
+      "produktklasse": "Feldfrüchte, Spargel",
+      "betreuung": "Nußböckgut; 4 Spargelbauern",
+      "offenlegung_tradition": "Jahrhundertwende, wieder seit 1987"
+    },
+    {
+      "produkt": "Lilienfelder-Voralpen Wild",
+      "nr": 126,
+      "lebensmittel": "Rotwild, Reh, Gams, Mufflon, Wildschwein",
+      "produktklasse": "Fleisch, Wildfleisch",
+      "betreuung": "Verein Genussregion Lilienfelder-Voralpen Wild; örtl. Jäger und Verwerter",
+      "offenlegung_tradition": "12. Jh. nachw."
+    },
+    {
+      "produkt": "Linz Land Apfel-Birnensaft",
+      "nr": 117,
+      "lebensmittel": "Apfel - und Birnensaft",
+      "produktklasse": "Getränke, Obstsaft",
+      "betreuung": "IG HOFSAFT; ca. 140 Obstbauern und Saftproduzenten",
+      "offenlegung_tradition": "19./20. Jh., Obst insb. ab 18./19. Jh."
+    },
+    {
+      "produkt": "Linzer Torte",
+      "nr": 170,
+      "lebensmittel": "Torte",
+      "produktklasse": "Konditorwaren",
+      "betreuung": "Ludwig Mann",
+      "offenlegung_tradition": "Ein Rezept von 1653 gilt als ältestes Tortenrezept weltweit"
+    },
+    {
+      "produkt": "Lungauer Eachtling",
+      "nr": 17,
+      "lebensmittel": "Kartoffel",
+      "produktklasse": "Feldfrüchte, Kartoffel",
+      "betreuung": "Lungauer Saatzucht- und Saatbauverein; Kartoffelbauern; ca. 28 Mitglieder",
+      "offenlegung_tradition": "1796 schriftl."
+    },
+    {
+      "produkt": "Lungauer Tauernroggen",
+      "nr": 100,
+      "lebensmittel": "Alpiner Winterroggen",
+      "produktklasse": "Getreide",
+      "betreuung": "Sechs Bio-Betriebe im Lungau",
+      "offenlegung_tradition": "Zucht besteht erst seit 1924"
+    },
+    {
+      "produkt": "Marchfeld Gemüse",
+      "nr": 95,
+      "lebensmittel": "über 60 Gemüsearten",
+      "produktklasse": "Feldfrüchte, Gemüse",
+      "betreuung": "Bezirks bauernkammer Gänserndf.; Fa. Marchfeldgemüse, ca. 700 Bauern",
+      "offenlegung_tradition": "verbreitet ab 19. Jh."
+    },
+    {
+      "produkt": "Marchfeldspargel g.g.A.",
+      "nr": 10,
+      "lebensmittel": "Spargel",
+      "produktklasse": "Feldfrüchte, Spargel",
+      "betreuung": "ARGE Marchfeldspargel; Bund der Marchfelder Spargelgüter (Titel); 13 Betriebe",
+      "offenlegung_tradition": "1565 erw., seit 18./19. Jh. vermehrt"
+    },
+    {
+      "produkt": "Mattigtal Forelle",
+      "nr": 88,
+      "lebensmittel": "Forelle",
+      "produktklasse": "Fisch, Forelle",
+      "betreuung": "Bachfischerei Baumgartner; div. Fischzüchter",
+      "offenlegung_tradition": "1829 urk. (Fischfang wohl seit Besiedl.)"
+    },
+    {
+      "produkt": "Meisterwurzbrand",
+      "nr": 37,
+      "lebensmittel": "Wurzelbrand",
+      "produktklasse": "Spirituosen",
+      "betreuung": "–",
+      "offenlegung_tradition": "Meisterwurz wurde von Hildegard von Bingen im Werk Physica um 1150 bis 1160 erwähnt"
+    },
+    {
+      "produkt": "Mittelburgenland Dinkel",
+      "nr": 133,
+      "lebensmittel": "Dinkel",
+      "produktklasse": "Spezialkulturen, Getreide",
+      "betreuung": "Pannonia Vitalis; ca. 50 Bio-Bauern",
+      "offenlegung_tradition": "vermutl. Mittelalter, wieder 1980er"
+    },
+    {
+      "produkt": "Mittelburgenländische Kaesten und Nuss",
+      "nr": 115,
+      "lebensmittel": "Edelkastanie, Nuss",
+      "produktklasse": "Spezialkulturen, Schalenobst",
+      "betreuung": "Verein Genussregion Mittelbgld. Kaesten und Nuss; zahlr. Baum-Besitzer u. Produzenten",
+      "offenlegung_tradition": "seit Römerzeit (vermutl. 200 n. Chr.)"
+    },
+    {
+      "produkt": "Metnitztaler Wild",
+      "nr": 130,
+      "lebensmittel": "Rotwild",
+      "produktklasse": "Fleisch, Wildfleisch",
+      "betreuung": "ARGE Metnitztaler Wild; 1000 Jäger, Wildwirte",
+      "offenlegung_tradition": "jahrhundertelang"
+    },
+    {
+      "produkt": "Mittelkärntner Blondvieh",
+      "nr": 50,
+      "lebensmittel": "Kärntner Blondvieh",
+      "produktklasse": "Fleisch, Rindfleisch",
+      "betreuung": "Kärntner Blondviehzuchtverein; 90 Bergland- und Grünlandbauern",
+      "offenlegung_tradition": "1703 erw., Rasse 1890"
+    },
+    {
+      "produkt": "Mohnzelten",
+      "nr": 220,
+      "lebensmittel": "Festtagsgebäck",
+      "produktklasse": "Süßspeisen",
+      "betreuung": "",
+      "offenlegung_tradition": ""
+    },
+    {
+      "produkt": "Mölltal-Glockner Lamm",
+      "nr": 25,
+      "lebensmittel": "Lamm",
+      "produktklasse": "Fleisch, Lammfleisch",
+      "betreuung": "ARGE Mölltal-Glocknerlamm; 94 Bauern",
+      "offenlegung_tradition": "frühes Mittelalter"
+    },
+    {
+      "produkt": "Montafoner Sura Kees",
+      "nr": 18,
+      "lebensmittel": "Magerkäs",
+      "produktklasse": "Käse, Sauermilchkäse",
+      "betreuung": "Verein bewusstmontafon, Stand Montafon -Montafonerstraße; Sennalpen",
+      "offenlegung_tradition": "1240 erw."
+    },
+    {
+      "produkt": "Mostbarkeiten",
+      "nr": 19,
+      "lebensmittel": "Most, Cider, sortenreinen Apfelsaft und Weinbrand aus alten Apfelsorten",
+      "produktklasse": "Obstsäfte, Spirituosen,",
+      "betreuung": "Verein Mostbarkeiten-Kompetenzzentrum Zogglhof, Bauern der Region",
+      "offenlegung_tradition": "Die Obstproduktion geht auf die Gründung des Stiftes St. Paul im Jahr 1091 zurück"
+    },
+    {
+      "produkt": "Mostviertler Birnmost g.g.A.",
+      "nr": 20,
+      "lebensmittel": "Birnen most",
+      "produktklasse": "Getränke, Obstwein",
+      "betreuung": "Regionalmanagement Mostviertel, rd. 1000 bäuerl. Familienbetriebe",
+      "offenlegung_tradition": "um 1240 erw. (Neidhart von Reuenthal)"
+    },
+    {
+      "produkt": "Mostviertler Schofkas",
+      "nr": 31,
+      "lebensmittel": "Schafkäse",
+      "produktklasse": "Käse",
+      "betreuung": "Regionalmanagement Mostviertel (Titel); örtl. Bauern, LMTZ Francisco Josephinum",
+      "offenlegung_tradition": "seit Generationen"
+    },
+    {
+      "produkt": "Mühlviertler Alm Weidegans",
+      "nr": 109,
+      "lebensmittel": "Hausgans",
+      "produktklasse": "Fleisch, Geflügelfleisch",
+      "betreuung": "Verband Mühlviertler Alm; 8 bäuerl. Betriebe",
+      "offenlegung_tradition": "17. Jh. erw."
+    },
+    {
+      "produkt": "Mühlviertler Bergkräuter",
+      "nr": 124,
+      "lebensmittel": "Bergkräuter: Tee - und Gewürzkräuter",
+      "produktklasse": "Spezialkulturen, Kräuter u. Gewürze",
+      "betreuung": "Kräuterkraftquelle Hirschbach; 37 Kräuterbauern, 4 Kräuterkraft-Wirte",
+      "offenlegung_tradition": "ab dem 13. Jh., wieder ab 1986"
+    },
+    {
+      "produkt": "Murbodner Rind",
+      "nr": 102,
+      "lebensmittel": "Rindfleisch",
+      "produktklasse": "Fleisch",
+      "betreuung": "Verein der Murbodnerzüchter",
+      "offenlegung_tradition": "seit 1868 Landesrasse"
+    },
+    {
+      "produkt": "Murtaler Steirerkäs",
+      "nr": 64,
+      "lebensmittel": "Kochkäse aus Mager topfen",
+      "produktklasse": "Käse, Sauermilchkäse",
+      "betreuung": "Stadt-Land-Impulszentrum Murtal; Molkerei Knittelfeld, zahlr. bäuerl. Betriebe u. Käsereien,",
+      "offenlegung_tradition": "Mittelalter, 17. Jh. „Steirerkas“ Grundnahrungsmittel"
+    },
+    {
+      "produkt": "Nationalpark Kalkalpen Bio-Rind",
+      "nr": 135,
+      "lebensmittel": "Hausrind",
+      "produktklasse": "Fleisch, Rindfleisch",
+      "betreuung": "Nationalpark O.ö. Kalkalpen; ca. 180 Bio-Bauern",
+      "offenlegung_tradition": "wohl 15. Jh., gen. 1627"
+    },
+    {
+      "produkt": "Nationalpark Kalkalpen Obstsäfte",
+      "nr": 148,
+      "lebensmittel": "div. Obstsäfte",
+      "produktklasse": "Getränke, Obstsaft",
+      "betreuung": "Nationalpark O.ö. Kalkalpen, ARGE Steinbacher Natursäfte; 50 Obstbauern",
+      "offenlegung_tradition": "19./20. Jh."
+    },
+    {
+      "produkt": "Nationalpark Neusiedlersee-Seewinkel Steppenrind",
+      "nr": 26,
+      "lebensmittel": "Ungarisches Steppenrind",
+      "produktklasse": "Fleisch, Rindfleisch",
+      "betreuung": "Nationalparkverwaltung",
+      "offenlegung_tradition": "vermutl. 9. Jh., bel.(egt) ab 14. Jh."
+    },
+    {
+      "produkt": "Neusiedlersee Fisch",
+      "nr": 82,
+      "lebensmittel": "Aale, Hecht, Schleie, Karpfen, Zander",
+      "produktklasse": "Fisch",
+      "betreuung": "ca. 15 Berufsfischer",
+      "offenlegung_tradition": "belegt ab Mitte 16. Jh."
+    },
+    {
+      "produkt": "Nockberge Almrind",
+      "nr": 137,
+      "lebensmittel": "Hausrind",
+      "produktklasse": "Fleisch, Rindfleisch",
+      "betreuung": "Bäuerliche Vermarktung Nockfleisch; 14 Betriebe",
+      "offenlegung_tradition": "um 1500"
+    },
+    {
+      "produkt": "Nordtiroler Gemüse",
+      "nr": 125,
+      "lebensmittel": "60 versch. Arten von Gemüse",
+      "produktklasse": "Feldfrüchte, Gemüse",
+      "betreuung": "LK Tirol; 100 bäuerl. Familienbetriebe",
+      "offenlegung_tradition": "12. Jh. Gärten nachweisbar"
+    },
+    {
+      "produkt": "Nordtiroler Grauvieh Almochs",
+      "nr": 51,
+      "lebensmittel": "Tiroler Grauvieh",
+      "produktklasse": "Fleisch, Rindfleisch",
+      "betreuung": "Tiroler Grauviehzuchtverband (Titel); Nordtiroler Bauern",
+      "offenlegung_tradition": "ca. 1000 v. Chr., seit der Römerzeit bekannt; Rasse: 1879/84"
+    },
+    {
+      "produkt": "Oberinntaler Erdäpfel",
+      "nr": 92,
+      "lebensmittel": "Kartoffel",
+      "produktklasse": "Feldfrüchte, Kartoffel",
+      "betreuung": "Erdäpfelkeller Silz; über 100 bäuerl. Kleinbetriebe",
+      "offenlegung_tradition": "18. Jh. (um 1770)"
+    },
+    {
+      "produkt": "Oberländer Apfel",
+      "nr": 84,
+      "lebensmittel": "Äpfel",
+      "produktklasse": "Obst, Apfel",
+      "betreuung": "Obstlager Haiming; Erzeugerorg. Oberinntalobst, 40 Obstbauern",
+      "offenlegung_tradition": "16. Jh."
+    },
+    {
+      "produkt": "Obstler",
+      "nr": 225,
+      "lebensmittel": "Obstbrand",
+      "produktklasse": "Spirituosen",
+      "betreuung": "–",
+      "offenlegung_tradition": "seit Jahrhunderten wird aus verschiedenen Obstsorten Branntwein hergestellt"
+    },
+    {
+      "produkt": "Original Pielachtaler Dirndlbrand",
+      "nr": 38,
+      "lebensmittel": "Obstbrand der Kornelkirsche (Dirndl)",
+      "produktklasse": "Spirituosen",
+      "betreuung": "Mitglieder der Pielachtaler Edelbrandgemeinschaft",
+      "offenlegung_tradition": "Tradition führt in die Zeit Maria Theresias zurück"
+    },
+    {
+      "produkt": "Österreichische Mostbirnensorten",
+      "nr": 191,
+      "lebensmittel": "Mostbirnensorten",
+      "produktklasse": "Obst",
+      "betreuung": "",
+      "offenlegung_tradition": "wachsen seit Jahrhunderten in Österreich"
+    },
+    {
+      "produkt": "Oststeirischer Apfel",
+      "nr": 89,
+      "lebensmittel": "Apfel",
+      "produktklasse": "Obst, Apfel",
+      "betreuung": "Tourismusverband ApfelLand-Stubenbergsee; Erzeugerorg. OPST GmbH, rd. 200 Obstbauern, Verarb.-Betriebe",
+      "offenlegung_tradition": "Kelten- und Römerzeit, urk. 1074"
+    },
+    {
+      "produkt": "Osttiroler Berglamm",
+      "nr": 52,
+      "lebensmittel": "Kitze von Schafen und Ziegen",
+      "produktklasse": "Fleisch, Lamm - u. Kitzfleisch",
+      "betreuung": "Salzburger Landesverband für Schafe und Ziegen; 50 Bauern",
+      "offenlegung_tradition": "um 1600, Rasse Pinzgauer Ziege 19. Jh."
+    },
+    {
+      "produkt": "Osttiroler Kartoffel",
+      "nr": 94,
+      "lebensmittel": "Kartoffel",
+      "produktklasse": "Feldfrüchte, Kartoffel",
+      "betreuung": "Bezirks-LK Lienz; rd. 170 Bauern",
+      "offenlegung_tradition": "nachw. um 1775"
+    },
+    {
+      "produkt": "Pannonischer Safran",
+      "nr": 185,
+      "lebensmittel": "Safran",
+      "produktklasse": "Gewürz",
+      "betreuung": "Arge Pannonischer Safran",
+      "offenlegung_tradition": "In der Zeit vom 15. bis zum 19. Jh. wurde Safran in Österreich großflächig angebaut."
+    },
+    {
+      "produkt": "Pannonisches Mangalitza Schwein",
+      "nr": 81,
+      "lebensmittel": "Mangalica-Schwein",
+      "produktklasse": "Fleisch, Schweinefleisch",
+      "betreuung": "örtl. Schweinezüchter",
+      "offenlegung_tradition": "um 1830"
+    },
+    {
+      "produkt": "Paznauner Almkäse",
+      "nr": 53,
+      "lebensmittel": "Käse von Kuhmilch",
+      "produktklasse": "Käse, Hartkäse",
+      "betreuung": "LK Tir; Vbd. d. Tir. Käserei- und Molkereifachleute (Titel); örtl. Molkereien u. Sennereien",
+      "offenlegung_tradition": "1544 urk."
+    },
+    {
+      "produkt": "Pfauenziege",
+      "nr": 194,
+      "lebensmittel": "Ziege",
+      "produktklasse": "Ziegenfleisch",
+      "betreuung": "–",
+      "offenlegung_tradition": "Erste Beschreibung stammt von 1880"
+    },
+    {
+      "produkt": "Pielachtaler Dirndl",
+      "nr": 90,
+      "lebensmittel": "Kornelkirsche (Dirndl)",
+      "produktklasse": "Obst, Kornelkirsche",
+      "betreuung": "Regionalbüro Pielachtal; rd. 300 Bauern, 15 Betriebe",
+      "offenlegung_tradition": "gesichert Zeit Maria Theresias (18. Jh.)"
+    },
+    {
+      "produkt": "Pinze, Osterpinze",
+      "nr": 222,
+      "lebensmittel": "Osterpinze",
+      "produktklasse": "Feingebäck, Mehlspeise, Backwaren",
+      "betreuung": "–",
+      "offenlegung_tradition": "werden seit dem 19. Jh. gebacken"
+    },
+    {
+      "produkt": "Pinzgauer Bierkäse",
+      "nr": 70,
+      "lebensmittel": "Pinzgauer Bierkäse",
+      "produktklasse": "Käse",
+      "betreuung": "Pinzgau Milch; mehr als 1200 Bauern",
+      "offenlegung_tradition": "17. Jh."
+    },
+    {
+      "produkt": "Pinzgauer Kaspressknödel",
+      "nr": 162,
+      "lebensmittel": "Knödel",
+      "produktklasse": "Käseprodukt",
+      "betreuung": "–",
+      "offenlegung_tradition": "Gehört seit Generationen zur lokalen Küche"
+    },
+    {
+      "produkt": "Pinzgauer Kitz",
+      "nr": 152,
+      "lebensmittel": "Kitzfleisch",
+      "produktklasse": "Frischfleisch",
+      "betreuung": "50 Bauern des Salzburger Landesverbands für Schafe und Ziegen",
+      "offenlegung_tradition": "seit dem 19. Jh. besteht die autochthone Ziegenrasse"
+    },
+    {
+      "produkt": "Pinzgauer Rind",
+      "nr": 29,
+      "lebensmittel": "Pinzgauer",
+      "produktklasse": "Fleisch, Rindfleisch",
+      "betreuung": "ARGE Pinzgauer Rind",
+      "offenlegung_tradition": "Zuchtbücher 1700er Jahre (Vorfahren um 800 v. Chr.)"
+    },
+    {
+      "produkt": "Pinzgauer Ziege",
+      "nr": 193,
+      "lebensmittel": "Ziege",
+      "produktklasse": "Frischfleisch",
+      "betreuung": "–",
+      "offenlegung_tradition": "seit dem 19. Jh. besteht die autochthone Ziegenrasse"
+    },
+    {
+      "produkt": "Polnische",
+      "nr": 203,
+      "lebensmittel": "Brühwurst, Fleischwurst",
+      "produktklasse": "Wurst",
+      "betreuung": "Industrielle und gewerbliche Erzeuger",
+      "offenlegung_tradition": "In Wien seit dem 19. Jh. bekannt"
+    },
+    {
+      "produkt": "Pöllauer Hirschbirne",
+      "nr": 21,
+      "lebensmittel": "Hirschbirne",
+      "produktklasse": "Obst, Birne",
+      "betreuung": "Tourismusverband Naturpark Pöllauer Tal; örtl. Bauernschaft",
+      "offenlegung_tradition": "um 1800?/1860, ersterw. 1893"
+    },
+    {
+      "produkt": "Pregler",
+      "nr": 39,
+      "lebensmittel": "Obstbrand",
+      "produktklasse": "Spirituosen",
+      "betreuung": "20 Osttiroler Schnapsbrenner",
+      "offenlegung_tradition": "geht gesichert bis zu Maria Theresia zurück"
+    },
+    {
+      "produkt": "Retzer Land Kürbis",
+      "nr": 122,
+      "lebensmittel": "Kürbis",
+      "produktklasse": "Feldfrüchte, Kürbis",
+      "betreuung": "Retzer Land – Regionale Vermarktungsges.",
+      "offenlegung_tradition": "seit 1980 wirtschaftl. genutzt"
+    },
+    {
+      "produkt": "Riesen von Aspern",
+      "nr": 198,
+      "lebensmittel": "Radieschen",
+      "produktklasse": "Wurzel- und Knollengemüse, Gemüse",
+      "betreuung": "LGV Frischgemüse Wien, 13 Gärtner aus Wien",
+      "offenlegung_tradition": "seit etwa 1900"
+    },
+    {
+      "produkt": "Rostbraten",
+      "nr": 181,
+      "lebensmittel": "Rindfleisch,",
+      "produktklasse": "Fleischgericht",
+      "betreuung": "–",
+      "offenlegung_tradition": "Bereits um 1800 werden mehrere Varianten in der Literatur erwähnt"
+    },
+    {
+      "produkt": "Rosentaler Carnica Honig",
+      "nr": 56,
+      "lebensmittel": "Waldhonig",
+      "produktklasse": "Honig",
+      "betreuung": "Carnica-Region Rosental; ca. 260 Imker, 35 Königinnenzüchter",
+      "offenlegung_tradition": "1875 Carnica Biene wiss. erw., Rasse ab 1929"
+    },
+    {
+      "produkt": "Ruster Ausbruch",
+      "nr": 68,
+      "lebensmittel": "Prädikatswein",
+      "produktklasse": "Wein",
+      "betreuung": "–",
+      "offenlegung_tradition": "Ein erster Nachweis stammt von 1634"
+    },
+    {
+      "produkt": "Sachertorte",
+      "nr": 168,
+      "lebensmittel": "Torte",
+      "produktklasse": "Süßspeise",
+      "betreuung": "Ludwig Mann",
+      "offenlegung_tradition": "1832 von Franz Sacher"
+    },
+    {
+      "produkt": "Salami",
+      "nr": 201,
+      "lebensmittel": "Salami",
+      "produktklasse": "Wurstwaren",
+      "betreuung": "Fleischereien und bäuerliche Direktvermarkter",
+      "offenlegung_tradition": "kam vermutlich durch italienische Einwanderer im 18. oder 19. Jh. nach Österreich"
+    },
+    {
+      "produkt": "Salzburger Nockerln",
+      "nr": 171,
+      "lebensmittel": "Nockerl",
+      "produktklasse": "Nockerl, Eierspeise, Süßspeise",
+      "betreuung": "–",
+      "offenlegung_tradition": "Sie gehen vermutlich auf den Salzburger Fürsterzbischof Wolf Dietrich von Raitenau zurück"
+    },
+    {
+      "produkt": "Salzkammergut Käse",
+      "nr": 65,
+      "lebensmittel": "Käse aus Kuhmilch",
+      "produktklasse": "Käse",
+      "betreuung": "Gmundner Molkerei; zahlr. bäuerl. Sennerein",
+      "offenlegung_tradition": "14. Jh., Käse als Zahlungsmittel 1390 urk."
+    },
+    {
+      "produkt": "Salzkammergut Reinanken",
+      "nr": 28,
+      "lebensmittel": "Reinanke",
+      "produktklasse": "Fisch, Reinanke",
+      "betreuung": "Wolfgangsee Fischerei; Seefischverein im Salzkammergut",
+      "offenlegung_tradition": "um 894 urk. (Attersee)"
+    },
+    {
+      "produkt": "Salzstangerl",
+      "nr": 224,
+      "lebensmittel": "Weißgebäck",
+      "produktklasse": "Gebäck",
+      "betreuung": "Edmund Fröhlich, Bäckereien und Brotfabriken",
+      "offenlegung_tradition": "Die Bäcker durften das Mundgebäck, wie Semmel oder Salzstangerl (damals Salzflecken), ab 1727 erzeugen"
+    },
+    {
+      "produkt": "Sauerkraut",
+      "nr": 188,
+      "lebensmittel": "Sauerkraut",
+      "produktklasse": "Krautgemüse, Gemüse",
+      "betreuung": "–",
+      "offenlegung_tradition": "In Meier Helmbrecht erwähnt Wernher der Gartenaere um 1270 das Sauerkraut"
+    },
+    {
+      "produkt": "Saumaise",
+      "nr": 210,
+      "lebensmittel": "Wurst",
+      "produktklasse": "Fleischprodukte",
+      "betreuung": "Fleischereien, bäuerliche Direktvermarkter, Gastronomie",
+      "offenlegung_tradition": "entstand in der bäuerlichen Tradition des Waldviertels, Zeitpunkt unbekannt"
+    },
+    {
+      "produkt": "Sauwald Erdäpfel",
+      "nr": 85,
+      "lebensmittel": "Kartoffel",
+      "produktklasse": "Feldfrüchte, Kartoffel",
+      "betreuung": "Sauwalderdäpfel; 11 Bauern",
+      "offenlegung_tradition": "2. Hälfte 18. Jh., 1789 erw."
+    },
+    {
+      "produkt": "Schilcher",
+      "nr": 98,
+      "lebensmittel": "Wein",
+      "produktklasse": "Wein",
+      "betreuung": "Versuchsstation für Obst- und Weinbau „Haidegg“",
+      "offenlegung_tradition": "Er wurde im Jahr 1580 erstmals erwähnt"
+    },
+    {
+      "produkt": "Schlierbacher Geflügel",
+      "nr": 143,
+      "lebensmittel": "Haushuhn, Hausgans, Truthahn",
+      "produktklasse": "Fleisch, Geflügelfleisch",
+      "betreuung": "IGV (Innovative Gemeinschaft Voralpenland) – ARGE Huhn & Co; ca. 40 Geflügelbauern",
+      "offenlegung_tradition": "trad., gezielte Zucht ab 1986"
+    },
+    {
+      "produkt": "Schlierbacher Käse",
+      "nr": 116,
+      "lebensmittel": "Käse aus Kuh -, Schaf - und Ziegenmilch",
+      "produktklasse": "Käse",
+      "betreuung": "Käserei & Glasmalerei; Stiftkäserei Schlierbach, zahlr. Lieferanten, ca. 90 Biobauern",
+      "offenlegung_tradition": "1924 Gründung Stiftskäserei"
+    },
+    {
+      "produkt": "Schneebergland Schwein",
+      "nr": 127,
+      "lebensmittel": "Hausschwein",
+      "produktklasse": "Fleisch, Schweinefleisch",
+      "betreuung": "Seidl Fleischerhandwerk; Verein Genuss Region Schneebergland Schwein, 13 Bauern, 6 Fleischer, 1 Schlachthof",
+      "offenlegung_tradition": "1793 urk."
+    },
+    {
+      "produkt": "Schweinsbraten",
+      "nr": 180,
+      "lebensmittel": "Schweinefleisch",
+      "produktklasse": "Fleischgericht",
+      "betreuung": "–",
+      "offenlegung_tradition": "Als Festtagsspeise hat er seit dem Mittelalter Tradition"
+    },
+    {
+      "produkt": "Seewinkler Gemüse",
+      "nr": 22,
+      "lebensmittel": "div. Gemüse",
+      "produktklasse": "Feldfrüchte, Gemüse",
+      "betreuung": "Genossenschaft SGV – Sonnengemüse Vertriebsges.; ca. 132 Betriebe",
+      "offenlegung_tradition": "? (vor 1921)"
+    },
+    {
+      "produkt": "Speck",
+      "nr": 208,
+      "lebensmittel": "Speck",
+      "produktklasse": "Fleischprodukte",
+      "betreuung": "",
+      "offenlegung_tradition": "ist seit Jahrhunderten fixer Bestandteil der heimischen Küche"
+    },
+    {
+      "produkt": "Speckwurst",
+      "nr": 215,
+      "lebensmittel": "Speckwurst, Salzburger Speckwurst, Brühwurst, Fleischwurst, Brätwurst,",
+      "produktklasse": "Wurst",
+      "betreuung": "Gewerbliche und industrielle Erzeuger",
+      "offenlegung_tradition": "Anfang des 19. Jh. wurde Speckwurst in Wien bereits angeboten"
+    },
+    {
+      "produkt": "Stanzer Zwetschke",
+      "nr": 54,
+      "lebensmittel": "Zwetschke",
+      "produktklasse": "Obst, Zwetschke",
+      "betreuung": "LK Tirol; örtl. Produzenten",
+      "offenlegung_tradition": "16. Jh., nachw. 1857"
+    },
+    {
+      "produkt": "Steirische Käferbohne",
+      "nr": 141,
+      "lebensmittel": "Käferbohnen",
+      "produktklasse": "Spezialkulturen, Gemüse",
+      "betreuung": "LK Stmk, Landesverband Steirischer Gemüsebauern",
+      "offenlegung_tradition": "19. Jh."
+    },
+    {
+      "produkt": "Steirischer Kren g.g.A.",
+      "nr": 55,
+      "lebensmittel": "Kren",
+      "produktklasse": "Spezialkulturen, Gemüse",
+      "betreuung": "LK Stmk; Landesverband St. Gemüsebauern (Titel); reg. St. Krenanbauer",
+      "offenlegung_tradition": "ca. 1860/70er"
+    },
+    {
+      "produkt": "Steirisches Kürbiskernöl g.g.A.",
+      "nr": 11,
+      "lebensmittel": "Kürbiskernöl",
+      "produktklasse": "Öl",
+      "betreuung": "Erzeugerring St. Kürbiskernöl; Erzeugungsorg. St. Gemüse (Titel); ca. 70 gewerbl. Ölmühlen, bäuerl. Mühlen, 2.300 produzenten",
+      "offenlegung_tradition": "1739 erw."
+    },
+    {
+      "produkt": "Steirisches Teichland-Karpfen",
+      "nr": 76,
+      "lebensmittel": "Karpfen",
+      "produktklasse": "Fisch, Karpfen",
+      "betreuung": "Teichwirteverband Steiermark; ca. 50 Erwerbsteichwirte",
+      "offenlegung_tradition": "Mittelalter (klösterl.)"
+    },
+    {
+      "produkt": "Südburgenländischer Apfel",
+      "nr": 79,
+      "lebensmittel": "Tafelapfel",
+      "produktklasse": "Obst, Apfel",
+      "betreuung": "Obstbauverein Kukmirn; Obstbauern der Region",
+      "offenlegung_tradition": "1339 urk."
+    },
+    {
+      "produkt": "Südburgenländische Kräuter",
+      "nr": 146,
+      "lebensmittel": "Teekräuter",
+      "produktklasse": "Spezialkulturen, Kräuter-Gewürze",
+      "betreuung": "Vermarktungsgem. Bauerngarten – Kräuter aus dem Südbgld.; 7 Bäuerinnen",
+      "offenlegung_tradition": "späteres Mittelalter"
+    },
+    {
+      "produkt": "Südburgenländische Weidegans",
+      "nr": 27,
+      "lebensmittel": "Hausgans",
+      "produktklasse": "Fleisch, Gänsefleisch",
+      "betreuung": "IG Burgenländische Weidegans; Landwirtschaftl. Bezirksreferat Güssing; Bauern der Region",
+      "offenlegung_tradition": "jahrhundertealt"
+    },
+    {
+      "produkt": "Sulmtaler Huhn",
+      "nr": 99,
+      "lebensmittel": "Zweinutzungshuhn",
+      "produktklasse": "Hühnerfleisch",
+      "betreuung": "Sulmtaler Vermarktungs GmbH mit 15 Mitgliedern",
+      "offenlegung_tradition": "Seit dem 14. Jh. Hühner, die sowohl für die Fleischqualität als auch für Legeleistung bekannt sind"
+    },
+    {
+      "produkt": "Sulz und Presswurst",
+      "nr": 214,
+      "lebensmittel": "Sulzwurst, Sulz, Presswurst",
+      "produktklasse": "Wurstwaren",
+      "betreuung": "Fleischereien und bäuerliche Direktvermarkter",
+      "offenlegung_tradition": "in einem der Lieder von Neidhart 1. Hälfte 13. Jh. erwähnt"
+    },
+    {
+      "produkt": "Tafelspitz",
+      "nr": 161,
+      "lebensmittel": "Rindfleisch",
+      "produktklasse": "Frischfleisch",
+      "betreuung": "–",
+      "offenlegung_tradition": "Rindfleisch hat seit dem späten Mittelalter große Bedeutung für die Versorgung von Wien"
+    },
+    {
+      "produkt": "Tennengauer Berglamm",
+      "nr": 72,
+      "lebensmittel": "Lamm",
+      "produktklasse": "Fleisch, Lammfleisch",
+      "betreuung": "Salzburger Landesverband für Schafe und Ziegen; ca. 100 Bauern",
+      "offenlegung_tradition": "jahrhundertelange Tradition, Schwaigen ab 12. Jh."
+    },
+    {
+      "produkt": "Traisentaler Fruchtsäfte",
+      "nr": 145,
+      "lebensmittel": "Obstsäfte",
+      "produktklasse": "Getränke, Obstsaft",
+      "betreuung": "Regionalentwicklungsverein Donauland-Traisental-Tullnerfeld; zahlr. Obstbauern u. Saftproduzenten",
+      "offenlegung_tradition": "19./20. Jh., Obstbau wohl seit der Römerzeit, Funde 2000 v. Chr."
+    },
+    {
+      "produkt": "Tullnerfelder Kraut",
+      "nr": 132,
+      "lebensmittel": "Weißkraut (Schnittkraut, lokalen Sorte)",
+      "produktklasse": "Gemüse, Krautgemüse",
+      "betreuung": "Regionalentwicklungsverein Donauland-Traisental-Tullnerfeld; örtl. Bauern",
+      "offenlegung_tradition": "1832 erw."
+    },
+    {
+      "produkt": "Tullnerfelder Schwein",
+      "nr": 131,
+      "lebensmittel": "Hausschwein",
+      "produktklasse": "Fleisch, Schweinefleisch",
+      "betreuung": "NÖ Rinderbörse; rd. 65 Bauern",
+      "offenlegung_tradition": "seit Generationen, vielleicht Römerzeit"
+    },
+    {
+      "produkt": "Wachauer Marille g.U.",
+      "nr": 7,
+      "lebensmittel": "Marille",
+      "produktklasse": "Obst, Marille",
+      "betreuung": "Verein z. Schutz d. Wachauer Marille; örtl. Marillenbauern",
+      "offenlegung_tradition": "1509 nachw."
+    },
+    {
+      "produkt": "Wagramer Nuss",
+      "nr": 140,
+      "lebensmittel": "Walnuss",
+      "produktklasse": "Spezialkulturen, Schalenobst",
+      "betreuung": "",
+      "offenlegung_tradition": ""
+    },
+    {
+      "produkt": "Waldviertler Erdäpfel",
+      "nr": 23,
+      "lebensmittel": "Erdäpfel",
+      "produktklasse": "Feldfrüchte, Kartoffel",
+      "betreuung": "Stadtgemeinde Litschau; örtl. Bauern",
+      "offenlegung_tradition": "1740 erw."
+    },
+    {
+      "produkt": "Waldviertler Graumohn g.U.",
+      "nr": 8,
+      "lebensmittel": "Graumohn",
+      "produktklasse": "Spezialkulturen, Mohn",
+      "betreuung": "Waldviertel Tourismus; Wv. Sonderkulturenverein (Titel); örtl. Bauern",
+      "offenlegung_tradition": "1280 erw."
+    },
+    {
+      "produkt": "Waldviertler Karpfen",
+      "nr": 30,
+      "lebensmittel": "Karpfen",
+      "produktklasse": "Fisch, Karpfen",
+      "betreuung": "NÖ Teichwirteverband (Titel), rd. 400 Fischproduzenten",
+      "offenlegung_tradition": "12./13. Jh., 1280 erw."
+    },
+    {
+      "produkt": "Walser Gemüse",
+      "nr": 24,
+      "lebensmittel": "div. Gemüse",
+      "produktklasse": "Feldfrüchte, Gemüse",
+      "betreuung": "Die Salzburger Gärtner u. Gemüsebauern; 50 Betriebe",
+      "offenlegung_tradition": "1576 erw."
+    },
+    {
+      "produkt": "Weinviertler Erdäpfel",
+      "nr": 80,
+      "lebensmittel": "Kartoffel",
+      "produktklasse": "Feldfrüchte, Kartoffel",
+      "betreuung": "Erzeugergem. Bauernerdäpfelverkaufsges., Frisch & Frost, örtl. Landwirte",
+      "offenlegung_tradition": "1761 eingeführt"
+    },
+    {
+      "produkt": "Weinviertler Getreide",
+      "nr": 111,
+      "lebensmittel": "div. Getreidesorten",
+      "produktklasse": "Spezialkulturen, Getreide",
+      "betreuung": "Markenprogramm Bauernkorn; Erzeugergem. Qualitätsgetreide Austria (EQA), Lagerhäuser, örtl. Landwirte, Mühlen, Bäckereien",
+      "offenlegung_tradition": "Bronzezeit, vermutl. Jungsteinzeit (vor 6000 J.)"
+    },
+    {
+      "produkt": "Weinviertler Schwein",
+      "nr": 128,
+      "lebensmittel": "Hausschwein",
+      "produktklasse": "Fleisch, Schweinefleisch",
+      "betreuung": "Fleischerei Bergmann, Fa. Stastnik; örtl. Bauern, Produzenten u. Fleischer",
+      "offenlegung_tradition": "seit ca. 3000 J."
+    },
+    {
+      "produkt": "Weinviertler Wild",
+      "nr": 129,
+      "lebensmittel": "Hasen, Fasan, Rebhuhn, auch Reh, Schwarz -, Rotwild",
+      "produktklasse": "Wildfleisch",
+      "betreuung": "LEADER Region Weinviertel Ost, Bezirksjägermeister Mistelbach; ca. 2100 Jäger",
+      "offenlegung_tradition": "15./16. Jh."
+    },
+    {
+      "produkt": "Weizer Berglamm",
+      "nr": 71,
+      "lebensmittel": "Lamm",
+      "produktklasse": "Fleisch, Lammfleisch",
+      "betreuung": "Weizer Schafbauern reg. Gen.; ca. 300 Schafbauern",
+      "offenlegung_tradition": "Spätes Mittelalter"
+    },
+    {
+      "produkt": "Weststeirisches Turopoljeschwein",
+      "nr": 87,
+      "lebensmittel": "Turopolje-Schwein",
+      "produktklasse": "Fleisch, Schweinefleisch",
+      "betreuung": "6 Bauern, 1 Schlachter, 2 Fleischereibetriebe",
+      "offenlegung_tradition": "Haltung 1955, Rasse 1352"
+    },
+    {
+      "produkt": "Wiener Gemüse",
+      "nr": 91,
+      "lebensmittel": "div. Gemüse",
+      "produktklasse": "Feldfrüchte, Gemüse",
+      "betreuung": "LK Wien; Erzeugerorg. LGV-Frischgemüse u. Perlinger Gemüse, 32 gewerbl. Gärtnereien",
+      "offenlegung_tradition": "15. Jh. nachgew. (Märkte 1208 urk.)"
+    },
+    {
+      "produkt": "Wienerwald Weiderind",
+      "nr": 121,
+      "lebensmittel": "div. Rinderrassen",
+      "produktklasse": "Fleisch, Rindfleisch",
+      "betreuung": "Biosphärenpark Wienerwald; Vermarktungsgem. Wienerwald; 10 Landwirte, 1 Fleischer",
+      "offenlegung_tradition": "vermutl. Mittelalter"
+    },
+    {
+      "produkt": "Wiesenwienerwald Elsbeere",
+      "nr": 74,
+      "lebensmittel": "Elsbeere (als Trockenobst, Kochobst, für Elsbeerenbrand)",
+      "produktklasse": "Obst, Beerenobst",
+      "betreuung": "Verein z. Erhaltung, Pflege u. Vermarktung d. Elsbeere; örtl. Bauern",
+      "offenlegung_tradition": "über 200 Jahre"
+    },
+    {
+      "produkt": "Ybbstal Forelle",
+      "nr": 75,
+      "lebensmittel": "Forellen, Bachforellen, Regenbogenforellen, Lachsforellen und Saiblinge in Teichkultur",
+      "produktklasse": "Fisch, Forelle",
+      "betreuung": "Regionalmanagement Mostviertel; Verein Genussregion Ybbstalforelle; 7 Fisch züchter",
+      "offenlegung_tradition": "vor 400 J. erste klösterl. Fischteiche"
+    },
+    {
+      "produkt": "Wiesener Ananas Erdbeere",
+      "nr": 136,
+      "lebensmittel": "Ananas-Erdbeere",
+      "produktklasse": "Obst, Frischobst",
+      "betreuung": "Tourismusverband Region Rosalia; rd. 45 Betriebe",
+      "offenlegung_tradition": "ab 1870"
+    },
+    {
+      "produkt": "Wildschönauer Krautinger",
+      "nr": 47,
+      "lebensmittel": "Krautinger (Schnaps)",
+      "produktklasse": "Getränke",
+      "betreuung": "Tourismusinfo Wildschönau; zahlr. Rübenbauern",
+      "offenlegung_tradition": "18. Jh. Brannt-Monopol"
+    },
+    {
+      "produkt": "Wildschönauer Krautingerrübe",
+      "nr": 150,
+      "lebensmittel": "Weiße Stoppelrübe",
+      "produktklasse": "Feldfrüchte",
+      "betreuung": "Tourismusinfo Wildschönau; zahlr. Rübenbauern",
+      "offenlegung_tradition": "18. Jh. Brannt-Monopol"
+    },
+    {
+      "produkt": "Zickentaler Moorochse",
+      "nr": 73,
+      "lebensmittel": "Galloway-Rind, Angus-Rind",
+      "produktklasse": "Fleisch, Rindfleisch",
+      "betreuung": "Verein Rinderweide am Zickentaler Moor; rd. 37 Bauern",
+      "offenlegung_tradition": "Viehzucht seit Jahrhunderten, Verein 2003"
+    }
+  ],
+  "meta": {
+    "title": "Traditionelle österreichische Lebensmittel - Free Download",
+    "description": "Register der Traditionellen Lebensmittel Österreichs mit Lebensmittel, Produktklasse, Trägerorganisation und Tradition. Contains 191 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Traditionelle österreichische Lebensmittel | ListBase",
+    "seo_description": "Download Traditionelle österreichische Lebensmittel — 191 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 191 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Traditionellen_österreichischen_Lebensmittel"
+    ]
+  }
+}
