@@ -1,0 +1,499 @@
+{
+  "id": "de-roemisch-deutsche-herrscher",
+  "name": "Römisch-deutsche Herrscher",
+  "title": "Römisch-deutsche Herrscher",
+  "description": "Die Könige und Kaiser des Heiligen Römischen Reiches von den Karolingern bis 1806 mit Herrschaftschronik, Krönungsort und Anmerkungen.",
+  "category": "history",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_römisch-deutschen_Herrscher",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_römisch-deutschen_Herrscher",
+  "updated": "2026-10",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "herrschaft",
+      "label": "Herrschaft",
+      "type": "string"
+    },
+    {
+      "key": "kroenung",
+      "label": "Kroenung",
+      "type": "string"
+    },
+    {
+      "key": "anmerkungen",
+      "label": "Anmerkungen",
+      "type": "string"
+    },
+    {
+      "key": "dynastie_epoche",
+      "label": "Dynastie Epoche",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ludwig II. der Deutsche",
+      "herrschaft": "817 von Ludwig dem Frommen als Unterkönig von Baiern eingesetzt, das er ab 826 selbstständig regierte, ostfränkischer König 843–876",
+      "kroenung": "",
+      "anmerkungen": "Sohn Ludwigs des Frommen, nach Schlacht von Fontenoy und Straßburger Eiden Vertrag von Verdun: Teilung des Frankenreichs, Einfälle von Slawen und Wikingern, Konflikt mit Westfrankenreich",
+      "dynastie_epoche": "Karolinger (843–911)"
+    },
+    {
+      "name": "Karlmann",
+      "herrschaft": "König im Teilreich Bayern 865/876–880, König von Italien 877–879",
+      "kroenung": "",
+      "anmerkungen": "Sohn Ludwigs des Deutschen",
+      "dynastie_epoche": "Karolinger (843–911)"
+    },
+    {
+      "name": "Ludwig III. der Jüngere",
+      "herrschaft": "König im Teilreich Franken-Sachsen 865/876–882, im Teilreich Bayern 880–882",
+      "kroenung": "",
+      "anmerkungen": "Sohn Ludwigs des Deutschen, Schlacht bei Andernach",
+      "dynastie_epoche": "Karolinger (843–911)"
+    },
+    {
+      "name": "Karl III. der Dicke",
+      "herrschaft": "König im Teilreich Alemannien 865/876–882, König von Italien 879–887, ostfränkischer König 876–887, westfränkischer König 885–887, römischer Kaiser 881–888",
+      "kroenung": "Kaiserkrönung in Rom durch Papst Johannes VIII.",
+      "anmerkungen": "Sohn Ludwigs des Deutschen, vereinigte als Kaiser das Frankenreich kurzfristig nochmals (885–887)",
+      "dynastie_epoche": "Karolinger (843–911)"
+    },
+    {
+      "name": "Arnolf von Kärnten",
+      "herrschaft": "Markgraf von Kärnten ab 880, Herzog von Bayern und ostfränkischer König ab 887, König von Italien und römischer Kaiser 896–899",
+      "kroenung": "Kaiserkrönung in Rom durch Papst Formosus",
+      "anmerkungen": "Sohn Karlmanns, letzter karolingischer Kaiser, Sieger über die Normannen, Pakt mit den Ungarn, Italienzüge und Konflikte mit den dortigen Herrschern, faktischer Verzicht auf das westfränkische Reich",
+      "dynastie_epoche": "Karolinger (843–911)"
+    },
+    {
+      "name": "Ludwig IV. das Kind",
+      "herrschaft": "Ostfränkischer König 900–911",
+      "kroenung": "Forchheim, Ostfranken",
+      "anmerkungen": "Sohn Arnolfs von Kärnten, letzter karolingischer König",
+      "dynastie_epoche": "Karolinger (843–911)"
+    },
+    {
+      "name": "Konrad I.",
+      "herrschaft": "Herzog von Franken 906–918, ostfränkischer König 911–918",
+      "kroenung": "Königserhebung in Forchheim",
+      "anmerkungen": "Erster nichtkarolingischer deutscher König, Konflikte mit den Herzögen",
+      "dynastie_epoche": "Konradiner (911–918)"
+    },
+    {
+      "name": "Heinrich I.",
+      "herrschaft": "Herzog von Sachsen 912–936, ostfränkischer König 919–936",
+      "kroenung": "Königserhebung in Fritzlar",
+      "anmerkungen": "Rückgewinnung Lothringens, Burgenbau während Waffenstillstands mit den Ungarn, bedeutsamer Sieg über die Ungarn (933)",
+      "dynastie_epoche": "Ottonen/Liudolfinger (919–1024)"
+    },
+    {
+      "name": "Otto I. der Große",
+      "herrschaft": "Herzog von Sachsen und ostfränkischer König ab 936, König von Italien ab 951, römischer Kaiser 962–973",
+      "kroenung": "Königserhebung in Aachen, Kaiserkrönung in Rom durch Papst Johannes XII.",
+      "anmerkungen": "Sohn Heinrichs I., Sieg über die Ungarn in der Schlacht auf dem Lechfeld bei Augsburg (955), Aufstände von Adeligen, König von Italien und erster römischer Kaiser der Ottonen, Eroberung ostelbischer Gebiete, Gründung des Erzbistums Magdeburg",
+      "dynastie_epoche": "Ottonen/Liudolfinger (919–1024)"
+    },
+    {
+      "name": "Otto II.",
+      "herrschaft": "Römischer König ab 961, römischer Kaiser 973–983",
+      "kroenung": "Königskrönung in Aachen, Kaiserkrönung in Rom durch Papst Johannes XIII.",
+      "anmerkungen": "Sohn Ottos I., Verlust der ostelbischen Gebiete und vernichtende Niederlage 982 bei Crotone beim Versuch, die Byzantiner und Sarazenen aus Süditalien zu verdrängen, ab 974 Theophanu als „coimperatrix“ (Mitkaiserin)",
+      "dynastie_epoche": "Ottonen/Liudolfinger (919–1024)"
+    },
+    {
+      "name": "Otto III.",
+      "herrschaft": "Römischer und italienischer König ab 983, römischer Kaiser 996–1002 983–991 Regentin Theophanu; 991–995 Regentin Adelheid von Burgund; 997–999 Regentin und Statthalterin im Reich Mathilde",
+      "kroenung": "Königskrönung in Aachen, Kaiserkrönung in Rom durch Papst Gregor V.",
+      "anmerkungen": "Sohn Ottos II., Idee der Erneuerung des Römischen Reiches (Renovatio imperii Romanorum)",
+      "dynastie_epoche": "Ottonen/Liudolfinger (919–1024)"
+    },
+    {
+      "name": "Heinrich II.",
+      "herrschaft": "Herzog von Bayern 995–1004 und 1009–1017, römischer König ab 1002, König von Italien ab 1004, römischer Kaiser 1014–1024",
+      "kroenung": "Königskrönung in Mainz, Kaiserkrönung in Rom durch Papst Benedikt VIII.",
+      "anmerkungen": "Urenkel Heinrichs I., Feldzüge nach Böhmen, Gründung des Bistums Bamberg 1007, 1146 heiliggesprochen",
+      "dynastie_epoche": "Ottonen/Liudolfinger (919–1024)"
+    },
+    {
+      "name": "Konrad II.",
+      "herrschaft": "Herzog von Franken 1015, römischer König ab 1024, König von Italien 1026, römischer Kaiser 1027–1039, König von Burgund 1033",
+      "kroenung": "Königskrönung in Mainz, Kaiserkrönung in Rom durch Papst Johannes XIX.",
+      "anmerkungen": "Erbschaft von Burgund, Italienzüge",
+      "dynastie_epoche": "Salier (1024–1125)"
+    },
+    {
+      "name": "Heinrich III.",
+      "herrschaft": "Hz. von Bayern 1027–1042 und 1047–1049, römischer König ab 1028, 1038–1056 König von Burgund, 1038–1045 Hz. von Schwaben, 1039–1047 Verwalter des Hzm. Kärnten, 1039 Hz. von Franken, römischer Kaiser 1046–1056",
+      "kroenung": "Königskrönung in Aachen, Kaiserkrönung in Rom durch Papst Clemens II.",
+      "anmerkungen": "Sohn Konrads II., Italienzüge, erfolgreiche Kirchenpolitik",
+      "dynastie_epoche": "Salier (1024–1125)"
+    },
+    {
+      "name": "Heinrich IV.",
+      "herrschaft": "Herzog von Bayern 1053/54 und 1077–1096, römischer König ab 1056, römischer Kaiser 1084–1105 1056–62 Regentin Agnes von Poitou; 1062–65 Reichsverweser Anno II.; 1063–65 Reichsverweser Adalbert von Bremen",
+      "kroenung": "Königskrönung in Aachen, Kaiserkrönung in Rom durch Gegenpapst Clemens III.",
+      "anmerkungen": "Sohn Heinrichs III., Investiturstreit, Bannung durch Papst Gregor VII. im Jahr 1076, Gang nach Canossa im Januar 1077, Konflikt mit Gegenkönigen",
+      "dynastie_epoche": "Salier (1024–1125)"
+    },
+    {
+      "name": "Konrad (III.)",
+      "herrschaft": "1076–1088 Herzog von Franken und Niederlothringen, König von Italien 1093–1098, Mitkönig 1087–1098",
+      "kroenung": "Königskrönung in Aachen",
+      "anmerkungen": "Sohn Heinrichs IV., Anschluss an den Papst",
+      "dynastie_epoche": "Salier (1024–1125)"
+    },
+    {
+      "name": "Rudolf von Rheinfelden",
+      "herrschaft": "Herzog von Schwaben 1057–1080, Gegenkönig 1077–1080",
+      "kroenung": "Königskrönung in Mainz",
+      "anmerkungen": "Gegenkönig, bald weitestgehend auf Sachsen beschränkt, Tod in der Schlacht an der Weißen Elster (Thüringen) im Jahr 1080",
+      "dynastie_epoche": "Salier (1024–1125)"
+    },
+    {
+      "name": "Hermann von Luxemburg, Graf von Salm",
+      "herrschaft": "Gegenkönig 1081–1088",
+      "kroenung": "Geweiht in Goslar",
+      "anmerkungen": "Weitgehend machtloser Gegenkönig in Sachsen",
+      "dynastie_epoche": "Salier (1024–1125)"
+    },
+    {
+      "name": "Heinrich V.",
+      "herrschaft": "Römischer Mitkönig ab 1099, römischer Kaiser 1111–1125",
+      "kroenung": "Königskrönung in Aachen, Kaiserkrönung in Rom durch Papst Paschalis II.",
+      "anmerkungen": "Sohn Heinrichs IV., Gegenkönig und Rebellion, Einigung im Investiturstreit mit Papst Calixt II. (Wormser Konkordat im Jahr 1122)",
+      "dynastie_epoche": "Salier (1024–1125)"
+    },
+    {
+      "name": "Lothar III.",
+      "herrschaft": "Herzog von Sachsen 1106–1137, römischer König ab 1125, König von Italien ab 1128, römischer Kaiser 1133–1137",
+      "kroenung": "Königskrönungen in Aachen und Monza (Italien), Kaiserkrönung in Rom (Lateran) durch Papst Innozenz II.",
+      "anmerkungen": "Konflikt mit Staufern, Italienpolitik",
+      "dynastie_epoche": "Supplinburger (1125–1137)"
+    },
+    {
+      "name": "Konrad III.",
+      "herrschaft": "1105–1138 Herzog von Franken, 1127–1135 Gegenkönig, italienischer, burgundischer und römischer König 1138–1152",
+      "kroenung": "Königskrönung in Aachen",
+      "anmerkungen": "Erfolgloser Kreuzzug, Konflikt mit Welfen",
+      "dynastie_epoche": "Staufer (1138–1208)"
+    },
+    {
+      "name": "Heinrich (VI.)",
+      "herrschaft": "1138–1150 Herzog von Franken, Mitkönig 1147–1150",
+      "kroenung": "Königskrönung in Aachen",
+      "anmerkungen": "Sohn Konrads III., Schlacht bei Flochberg",
+      "dynastie_epoche": "Staufer (1138–1208)"
+    },
+    {
+      "name": "Friedrich I. Barbarossa",
+      "herrschaft": "Herzog von Schwaben 1147–1152, römischer König ab 1152, römischer Kaiser 1155–1190",
+      "kroenung": "Königskrönung in Aachen und Arles, Kaiserkrönung in Rom durch Papst Hadrian IV.",
+      "anmerkungen": "Neffe Konrads III., 1152–1174 Allianz, dann Konflikt mit Heinrich dem Löwen, Italienzüge und dritter Kreuzzug: 1162 kaiserliche Truppen zerstören Mailand (zweiter Italienzug); 1164 Überführung der Reliquien der Heiligen Drei Könige nach Köln (dritter Italienzug); 1176 Niederlage in der Schlacht von Legnano gegen die Lombarden (fünfter Italienzug); 1190 Friedrich I. ertrinkt in Kleinasien (dritter Kreuzzug)",
+      "dynastie_epoche": "Staufer (1138–1208)"
+    },
+    {
+      "name": "Heinrich VI.",
+      "herrschaft": "Römischer König ab 1169, König von Italien ab 1186, römischer Kaiser 1191–1197, König von Sizilien ab 1194",
+      "kroenung": "Königskrönung in Aachen, Kaiserkrönung in Rom durch Papst Coelestin III.",
+      "anmerkungen": "Sohn Friedrichs I., Italienzug, Heirat mit Konstanze von Sizilien, der Erbin des süditalienischen Normannenreichs",
+      "dynastie_epoche": "Staufer (1138–1208)"
+    },
+    {
+      "name": "Philipp von Schwaben",
+      "herrschaft": "1196 Herzog von Schwaben, römischer König 1198–1208",
+      "kroenung": "Königskrönung in Mainz und Aachen",
+      "anmerkungen": "Sohn Friedrichs I., Konflikt mit den Welfen, Königsmord zu Bamberg (Juni 1208)",
+      "dynastie_epoche": "Staufer (1138–1208)"
+    },
+    {
+      "name": "Otto IV. von Braunschweig",
+      "herrschaft": "Römischer König ab 1198, römischer Kaiser 1209–1218",
+      "kroenung": "Königskrönung in Aachen, Kaiserkrönung in Rom durch Papst Innozenz III.",
+      "anmerkungen": "Dritter Sohn Heinrichs des Löwen, erfolgloser Zug nach Sizilien, 1211 Bannung durch Papst Innozenz III.",
+      "dynastie_epoche": "Welfen (1198–1211/1218)"
+    },
+    {
+      "name": "Friedrich II.",
+      "herrschaft": "1198 König von Sizilien, gewählt zum künftigen Kaiser (1211), seit 1212 rechtmäßiger römischer König, 1212–1217 Herzog von Schwaben, römischer Kaiser 1220–1250, seit 1225 König von Jerusalem",
+      "kroenung": "Königskrönung in Mainz und Aachen, Kaiserkrönung in Rom durch Papst Honorius III.",
+      "anmerkungen": "Sohn Heinrichs VI., König von Jerusalem",
+      "dynastie_epoche": "Staufer (1212–1254)"
+    },
+    {
+      "name": "Heinrich (VII.)",
+      "herrschaft": "1212–1216 König von Sizilien, 1217–1235 Herzog von Schwaben, seit 1220 römischer Mitkönig, 1235 vom Vater abgesetzt",
+      "kroenung": "Königskrönung in Aachen",
+      "anmerkungen": "Sohn Friedrichs II., Aufstand gegen Vater",
+      "dynastie_epoche": "Staufer (1212–1254)"
+    },
+    {
+      "name": "Heinrich Raspe",
+      "herrschaft": "1227 Vormund für Landgraf Hermann II. von Thüringen, ab 1238 gemeinsame Regierung, ab 1241 Alleinregierung, Gegenkönig 1246–1247",
+      "kroenung": "Veitshöchheim bei Würzburg",
+      "anmerkungen": "Konflikt mit Staufern",
+      "dynastie_epoche": "Staufer (1212–1254)"
+    },
+    {
+      "name": "Konrad IV.",
+      "herrschaft": "1235–1254 Herzog von Schwaben, römischer König 1237–1254, König von Sizilien (ab 1250) und Jerusalem (ab 1228)",
+      "kroenung": "Wahlort Wien 1237",
+      "anmerkungen": "Sohn Friedrichs II., Italienpolitik, Konflikt mit Gegenkönig",
+      "dynastie_epoche": "Staufer (1212–1254)"
+    },
+    {
+      "name": "Wilhelm von Holland",
+      "herrschaft": "1234–1256 Graf von Holland, Gegenkönig 1248–1254, römischer König 1254–1256",
+      "kroenung": "Königskrönung in Aachen",
+      "anmerkungen": "Fehden, Konflikt mit Staufern",
+      "dynastie_epoche": "Interregnum (1254–1273)"
+    },
+    {
+      "name": "Richard von Cornwall",
+      "herrschaft": "Römischer König 1257–1272",
+      "kroenung": "Königskrönung in Aachen",
+      "anmerkungen": "War selten im Reich",
+      "dynastie_epoche": "Interregnum (1254–1273)"
+    },
+    {
+      "name": "Alfons von Kastilien",
+      "herrschaft": "1252–1284 König von Kastilien, Gegenkönig 1257–1275",
+      "kroenung": "",
+      "anmerkungen": "Betrat niemals den Boden des HRR",
+      "dynastie_epoche": "Interregnum (1254–1273)"
+    },
+    {
+      "name": "Rudolf I. von Habsburg",
+      "herrschaft": "1239 Graf von Habsburg, 1276–1286 Herzog von Kärnten und Krain, 1278–1282 Herzog von Österreich und der Steiermark, röm.-dt. König 1273–1291",
+      "kroenung": "Königskrönung in Aachen",
+      "anmerkungen": "Sieg über Ottokar II. von Böhmen in der Schlacht bei Dürnkrut",
+      "dynastie_epoche": "Habsburger und Nassau (1273–1308)"
+    },
+    {
+      "name": "Adolf von Nassau",
+      "herrschaft": "Röm.-dt. König 1292–1298, 1294/95–1298 Markgraf von Meißen und Landgraf von Thüringen",
+      "kroenung": "Königskrönung in Aachen",
+      "anmerkungen": "Absetzung durch Kurfürsten",
+      "dynastie_epoche": "Habsburger und Nassau (1273–1308)"
+    },
+    {
+      "name": "Albrecht I. von Habsburg",
+      "herrschaft": "1282–1308 Herzog von Österreich und der Steiermark, röm.-dt. König 1298–1308",
+      "kroenung": "Königskrönung in Aachen",
+      "anmerkungen": "Erfolgreiche Hausmachtpolitik, Königsmord bei Windisch (1308)",
+      "dynastie_epoche": "Habsburger und Nassau (1273–1308)"
+    },
+    {
+      "name": "Heinrich VII., Luxemburger",
+      "herrschaft": "1288 Graf von Luxemburg, röm.-dt. König ab 1308, lombardischer König ab 1311, römischer Kaiser 1312–1313",
+      "kroenung": "Königskrönung in Aachen, Kaiserkrönung in Rom (Lateran)",
+      "anmerkungen": "Italienzug",
+      "dynastie_epoche": "Luxemburger und Wittelsbacher (1308–1437)"
+    },
+    {
+      "name": "Ludwig IV., der Bayer, Wittelsbacher",
+      "herrschaft": "1294–1302 unter Vormundschaft seines Bruders Rudolf I., danach Mitregent in Oberbayern und der Pfalzgrafschaft bei Rhein, röm.-dt. König ab 1314, lombardischer König ab 1327, römischer Kaiser 1328–1347, 1340–1347 Herzog in ganz Bayern",
+      "kroenung": "Königskrönung in Aachen, Kaiserkrönung in Rom",
+      "anmerkungen": "Konflikt mit Habsburg und Papst (Kurverein von Rhense), Hausmachtpolitik",
+      "dynastie_epoche": "Luxemburger und Wittelsbacher (1308–1437)"
+    },
+    {
+      "name": "Friedrich der Schöne, Habsburger",
+      "herrschaft": "1308–1330 Herzog von Österreich und der Steiermark als Friedrich I., röm.-dt. König 1314–1330",
+      "kroenung": "Königskrönung in Bonn",
+      "anmerkungen": "Konflikt und Einigung mit Wittelsbach",
+      "dynastie_epoche": "Luxemburger und Wittelsbacher (1308–1437)"
+    },
+    {
+      "name": "Karl IV. von Luxemburg",
+      "herrschaft": "1346 Gegenkönig, 1347 röm.-dt. König, König von Böhmen und Graf von Luxemburg, 1355 lombardischer König, römischer Kaiser 1355–1378, 1365 König von Burgund",
+      "kroenung": "Krönung zum Gegenkönig 1346 in Bonn, erneute Königskrönung 1349 in Aachen, Kaiserkrönung in Rom",
+      "anmerkungen": "Hausmachtpolitik, Goldene Bulle",
+      "dynastie_epoche": "Luxemburger und Wittelsbacher (1308–1437)"
+    },
+    {
+      "name": "Günther von Schwarzburg",
+      "herrschaft": "1349 Gegenkönig",
+      "kroenung": "",
+      "anmerkungen": "Machtloser Gegenkönig",
+      "dynastie_epoche": "Luxemburger und Wittelsbacher (1308–1437)"
+    },
+    {
+      "name": "Wenzel von Luxemburg",
+      "herrschaft": "1373–1378 Kurfürst und Markgraf von Brandenburg, 1378–1419 König von Böhmen, röm.-dt. König 1376–1400, 1383–1388 Herzog von Luxemburg",
+      "kroenung": "Königskrönung in Aachen",
+      "anmerkungen": "Wegen Untätigkeit abgesetzt",
+      "dynastie_epoche": "Luxemburger und Wittelsbacher (1308–1437)"
+    },
+    {
+      "name": "Ruprecht von der Pfalz, Wittelsbacher",
+      "herrschaft": "1398 Kurfürst und Pfalzgraf bei Rhein, röm.-dt. König 1400–1410",
+      "kroenung": "Erste Königskrönung in Köln 1401",
+      "anmerkungen": "Keine Königskrönung in Aachen, wo er aber am 14. November 1407 den Thron Karls des Großen bestieg",
+      "dynastie_epoche": "Luxemburger und Wittelsbacher (1308–1437)"
+    },
+    {
+      "name": "Jobst von Mähren, Luxemburger",
+      "herrschaft": "1375 Markgraf von Mähren, 1388 Kurfürst und Markgraf von Brandenburg, Herzog von Luxemburg, röm.-dt. König 1410–1411",
+      "kroenung": "",
+      "anmerkungen": "1410 gewählt, starb kurz darauf, konnte sein Amt faktisch nicht antreten",
+      "dynastie_epoche": "Luxemburger und Wittelsbacher (1308–1437)"
+    },
+    {
+      "name": "Sigismund von Luxemburg",
+      "herrschaft": "1378–1388 und 1411–1415 Kurfürst und Markgraf von Brandenburg, 1387 König von Ungarn und Kroatien, röm.-dt. König ab 1411, 1420 König von Böhmen, 1431 lombardischer König, römischer Kaiser 1433–1437",
+      "kroenung": "Königskrönung in Aachen, Kaiserkrönung in Rom",
+      "anmerkungen": "Verleihung Brandenburgs, Hussitenkriege, Konzil von Konstanz und Überwindung des Abendländischen Schismas",
+      "dynastie_epoche": "Luxemburger und Wittelsbacher (1308–1437)"
+    },
+    {
+      "name": "Albrecht II.",
+      "herrschaft": "1404 unter Vormund und ab 1411 Herzog von Österreich, 1438 König von Böhmen, 1438 König von Ungarn und Kroatien, röm.-dt. König 1438–1439",
+      "kroenung": "Erwählt in Frankfurt am Main",
+      "anmerkungen": "",
+      "dynastie_epoche": "Habsburger (1438–1740)"
+    },
+    {
+      "name": "Friedrich III.",
+      "herrschaft": "1424 Herzog von Innerösterreich, 1458–1461 Erzherzog von Niederösterreich, 1463–1485 und 1490–1493 Erzherzog von Österreich, röm.-dt. König Friedrich IV. ab 1440, König der Lombardei und römischer Kaiser Friedrich III. 1452–1493",
+      "kroenung": "Königskrönung in Aachen, Kaiserkrönung in Rom",
+      "anmerkungen": "Heirats- und Erbfolgeverträge, längste Regierungszeit (rund 53 Jahre)",
+      "dynastie_epoche": "Habsburger (1438–1740)"
+    },
+    {
+      "name": "Maximilian I.",
+      "herrschaft": "Röm.-dt. König ab 1486, 1493 Erzherzog von Österreich, erwählter römischer Kaiser 1508–1519",
+      "kroenung": "Königskrönung in Aachen, Annahme des Kaisertitels in Trient",
+      "anmerkungen": "Reichsreform, Italienkriege",
+      "dynastie_epoche": "Habsburger (1438–1740)"
+    },
+    {
+      "name": "Karl V.",
+      "herrschaft": "1506 burgundisches Erbe, 1516 König von Spanien, 1519–1521 Erzherzog von Österreich, röm.-dt. König ab 1519, König der Lombardei, erwählter römischer Kaiser 1520–1530, vom Papst gekrönter römischer Kaiser 1530–1556",
+      "kroenung": "Königskrönung in Aachen, Kaiserkrönung in Bologna (letzte Krönung eines Kaisers durch den Papst)",
+      "anmerkungen": "Kriege gegen Frankreich und Türken, Reformationszeit",
+      "dynastie_epoche": "Habsburger (1438–1740)"
+    },
+    {
+      "name": "Ferdinand I.",
+      "herrschaft": "1521 Erzherzog von Österreich, 1526 König von Böhmen und Ungarn (Krönung 1527), 1527 König von Kroatien, röm.-dt. König ab 1531, römischer Kaiser 1558–1564",
+      "kroenung": "Königskrönung in Aachen",
+      "anmerkungen": "Frieden von Passau und Augsburg",
+      "dynastie_epoche": "Habsburger (1438–1740)"
+    },
+    {
+      "name": "Maximilian II.",
+      "herrschaft": "1562 König von Böhmen, röm.-dt. König ab 1562, 1563 König von Ungarn und Kroatien, 1564 Erzherzog von Österreich, römischer Kaiser 1564–1576",
+      "kroenung": "Frankfurt am Main (König)",
+      "anmerkungen": "Neigt der protestantischen Lehre zu",
+      "dynastie_epoche": "Habsburger (1438–1740)"
+    },
+    {
+      "name": "Rudolf II.",
+      "herrschaft": "1572–1608 König von Ungarn und Kroatien, 1575–1611 König von Böhmen, röm.-dt. König ab 1575, 1576–1608 Erzherzog von Österreich, römischer Kaiser 1576–1612",
+      "kroenung": "Regensburg (König)",
+      "anmerkungen": "Religiös toleranter und kunstsinniger Kaiser, in den letzten Jahren untätig",
+      "dynastie_epoche": "Habsburger (1438–1740)"
+    },
+    {
+      "name": "Matthias",
+      "herrschaft": "1608 König von Ungarn und Kroatien, Erzherzog von Österreich, 1611 König von Böhmen und röm.-dt. König und Kaiser 1612–1619",
+      "kroenung": "Frankfurt am Main",
+      "anmerkungen": "Beginn des Dreißigjährigen Krieges",
+      "dynastie_epoche": "Habsburger (1438–1740)"
+    },
+    {
+      "name": "Ferdinand II.",
+      "herrschaft": "1596 Herzog von Innerösterreich, 1617–1619 und ab 1621 König von Böhmen, 1618 König von Ungarn und Kroatien, Erzherzog von Österreich und röm.-dt. König und Kaiser 1619–1637",
+      "kroenung": "Frankfurt am Main",
+      "anmerkungen": "Dreißigjähriger Krieg, Betreiber der Gegenreformation",
+      "dynastie_epoche": "Habsburger (1438–1740)"
+    },
+    {
+      "name": "Ferdinand III.",
+      "herrschaft": "1625 König von Ungarn und Kroatien, 1627 König von Böhmen, röm.-dt. König ab 1636, Erzherzog von Österreich und römischer Kaiser 1637–1657",
+      "kroenung": "Regensburg (König)",
+      "anmerkungen": "Ende des Dreißigjährigen Krieges",
+      "dynastie_epoche": "Habsburger (1438–1740)"
+    },
+    {
+      "name": "Ferdinand IV.",
+      "herrschaft": "1646 König von Böhmen, 1647 König von Ungarn und Kroatien, röm.-dt. König 1653–1654",
+      "kroenung": "Regensburg",
+      "anmerkungen": "Trug nur den Königstitel, sein Vater Kaiser Ferdinand III. regierte",
+      "dynastie_epoche": "Habsburger (1438–1740)"
+    },
+    {
+      "name": "Leopold I.",
+      "herrschaft": "1655 König von Ungarn und Kroatien, 1656 König von Böhmen, 1657 Erzherzog von Österreich, röm.-dt. König und Kaiser 1658–1705",
+      "kroenung": "Frankfurt am Main",
+      "anmerkungen": "Kriege gegen Türken und Frankreich",
+      "dynastie_epoche": "Habsburger (1438–1740)"
+    },
+    {
+      "name": "Joseph I.",
+      "herrschaft": "1687 König von Ungarn und Kroatien, röm.-dt. König ab 1690, Erzherzog von Österreich, König von Böhmen und römischer Kaiser 1705–1711",
+      "kroenung": "Augsburg (König),",
+      "anmerkungen": "Spanischer Erbfolgekrieg",
+      "dynastie_epoche": "Habsburger (1438–1740)"
+    },
+    {
+      "name": "Karl VI.",
+      "herrschaft": "1706–1714 zum König von Spanien gewählt, König von Böhmen, König von Ungarn und Kroatien, Erzherzog von Österreich, röm.-dt. König und Kaiser 1711–1740",
+      "kroenung": "Frankfurt am Main",
+      "anmerkungen": "Pragmatische Sanktion, Türkenkrieg",
+      "dynastie_epoche": "Habsburger (1438–1740)"
+    },
+    {
+      "name": "Karl VII.",
+      "herrschaft": "1726 Kurfürst und Herzog von Bayern, 1741–1743 König von Böhmen, röm.-dt. König und Kaiser 1742–1745",
+      "kroenung": "Frankfurt am Main",
+      "anmerkungen": "Österreichischer Erbfolgekrieg",
+      "dynastie_epoche": "Wittelsbacher (1742–1745)"
+    },
+    {
+      "name": "Franz I.",
+      "herrschaft": "1729–1736 Herzog von Lothringen, 1737 Großherzog der Toskana, 1740–1741 Mitregent in den österreichischen und ungarischen Erbländern, röm.-dt. König und Kaiser 1745–1765",
+      "kroenung": "Frankfurt am Main",
+      "anmerkungen": "Im Erzherzogtum Österreich nur Mitregent von Maria Theresia, welche zwar die weibliche Habsburger-Nachfolge verteidigte (Pragmatische Sanktion), jedoch als Frau nicht die Kaiserwürde des HRR erhalten konnte; Siebenjähriger Krieg",
+      "dynastie_epoche": "Habsburg-Lothringen (1745–1806)"
+    },
+    {
+      "name": "Joseph II.",
+      "herrschaft": "Röm.-dt. König ab 1764, römischer Kaiser 1765–1790, ab 1765 Mitregent, ab 1780 Alleinregierung als König von Böhmen, Kroatien und Ungarn, Erzherzog von Österreich",
+      "kroenung": "Frankfurt am Main",
+      "anmerkungen": "Josephinismus",
+      "dynastie_epoche": "Habsburg-Lothringen (1745–1806)"
+    },
+    {
+      "name": "Leopold II.",
+      "herrschaft": "1765–1790 Großherzog der Toskana, König von Böhmen, Kroatien und Ungarn, Erzherzog von Österreich, röm.-dt. König und Kaiser 1790–1792",
+      "kroenung": "Frankfurt am Main",
+      "anmerkungen": "Reichenbacher Konvention, Pillnitzer Deklaration",
+      "dynastie_epoche": "Habsburg-Lothringen (1745–1806)"
+    },
+    {
+      "name": "Franz II.",
+      "herrschaft": "König von Böhmen, Kroatien und Ungarn, Erzherzog von Österreich ab 1792, röm.-dt. König und Kaiser 1792–1806, ab 1804 auch Kaiser von Österreich; ab 1806 mit der Auflösung des Heiligen Römischen Reiches deutscher Nation als Franz I. nur noch Kaiser von Österreich",
+      "kroenung": "Frankfurt am Main",
+      "anmerkungen": "Koalitionskriege, dankt nach der Gründung des Rheinbundes auf Druck des französischen Kaisers Napoléon Bonaparte ab",
+      "dynastie_epoche": "Habsburg-Lothringen (1745–1806)"
+    }
+  ],
+  "meta": {
+    "title": "Römisch-deutsche Herrscher - Free Download",
+    "description": "Die Könige und Kaiser des Heiligen Römischen Reiches von den Karolingern bis 1806 mit Herrschaftschronik, Krönungsort und Anmerkungen. Contains 64 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Römisch-deutsche Herrscher | ListBase",
+    "seo_description": "Download Römisch-deutsche Herrscher — 64 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 64 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_römisch-deutschen_Herrscher"
+    ]
+  }
+}
