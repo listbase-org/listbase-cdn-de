@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-27T02:23:10.447Z",
-  "total_datasets": 494,
-  "total_records": 1871810,
+  "generated": "2026-10-27T02:23:13.442Z",
+  "total_datasets": 495,
+  "total_records": 1871860,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "law",
@@ -5062,6 +5062,34 @@
         "xlsx": {
           "name": "de-unwort-des-jahres_DE.xlsx",
           "size": 11849
+        }
+      }
+    },
+    {
+      "id": "de-wort-des-jahres",
+      "name": "Wort des Jahres (Deutschland)",
+      "category": "language",
+      "record_count": 50,
+      "columns": [
+        "jahr",
+        "wort_des_jahres",
+        "platz_2_und_3",
+        "unwort_des_jahres",
+        "satz_des_jahres",
+        "jugendwort_des_jahres",
+        "erklaerung"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Wort_des_Jahres_(Deutschland)",
+      "updated": "2026-10",
+      "size": 20487,
+      "files": {
+        "csv": {
+          "name": "de-wort-des-jahres_DE.csv",
+          "size": 9452
+        },
+        "xlsx": {
+          "name": "de-wort-des-jahres_DE.xlsx",
+          "size": 13020
         }
       }
     },

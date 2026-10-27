@@ -1,0 +1,511 @@
+{
+  "id": "de-wort-des-jahres",
+  "name": "Wort des Jahres (Deutschland)",
+  "title": "Wort des Jahres (Deutschland)",
+  "description": "Die Wörter des Jahres der Gesellschaft für deutsche Sprache seit 1971 mit Platz 2 und 3, Unwort, Satz und Jugendwort des Jahres sowie Erklärung.",
+  "category": "language",
+  "source": "https://de.wikipedia.org/wiki/Wort_des_Jahres_(Deutschland)",
+  "source_url": "https://de.wikipedia.org/wiki/Wort_des_Jahres_(Deutschland)",
+  "updated": "2026-10",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "jahr",
+      "label": "Jahr",
+      "type": "number"
+    },
+    {
+      "key": "wort_des_jahres",
+      "label": "Wort Des Jahres",
+      "type": "string"
+    },
+    {
+      "key": "platz_2_und_3",
+      "label": "Platz 2 Und 3",
+      "type": "string"
+    },
+    {
+      "key": "unwort_des_jahres",
+      "label": "Unwort Des Jahres",
+      "type": "string"
+    },
+    {
+      "key": "satz_des_jahres",
+      "label": "Satz Des Jahres",
+      "type": "string"
+    },
+    {
+      "key": "jugendwort_des_jahres",
+      "label": "Jugendwort Des Jahres",
+      "type": "string"
+    },
+    {
+      "key": "erklaerung",
+      "label": "Erklaerung",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jahr": "1971",
+      "wort_des_jahres": "aufmüpfig",
+      "platz_2_und_3": "Junktim; Umweltschutz",
+      "unwort_des_jahres": "",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "1970/71 im westdeutschen Sprachgebrauch neu aufgekommen; bezog sich anfangs vor allem auf die 68er-Bewegung"
+    },
+    {
+      "jahr": "1977",
+      "wort_des_jahres": "Szene",
+      "platz_2_und_3": "Terrorismus, Terrorist; Sympathisant",
+      "unwort_des_jahres": "",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Steht für verschiedene Komposita (Terrorszene, Sympathisantenszene, Unterstützerszene) im Zusammenhang mit dem deutschen Herbst"
+    },
+    {
+      "jahr": "1978",
+      "wort_des_jahres": "konspirative Wohnung",
+      "platz_2_und_3": "die Grünen; Geisterfahrer",
+      "unwort_des_jahres": "",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Im Zusammenhang mit der Entführung Hanns Martin Schleyers durch die Rote Armee Fraktion"
+    },
+    {
+      "jahr": "1979",
+      "wort_des_jahres": "Holocaust",
+      "platz_2_und_3": "Boat people; Nachrüstung",
+      "unwort_des_jahres": "",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Etablierung des Begriffs nach der Ausstrahlung der Fernsehserie Holocaust – Die Geschichte der Familie Weiss"
+    },
+    {
+      "jahr": "1980",
+      "wort_des_jahres": "Rasterfahndung",
+      "platz_2_und_3": "Asylant; Instandbesetzer",
+      "unwort_des_jahres": "",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Einführung der Fahndungsmethode aufgrund der terroristischen Bedrohung der 1970er Jahre in Westdeutschland"
+    },
+    {
+      "jahr": "1981",
+      "wort_des_jahres": "Nulllösung",
+      "platz_2_und_3": "Sommertheater; (rett)bar",
+      "unwort_des_jahres": "",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Im Zusammenhang mit der Debatte um den NATO-Doppelbeschluss"
+    },
+    {
+      "jahr": "1982",
+      "wort_des_jahres": "Ellenbogengesellschaft",
+      "platz_2_und_3": "Wende; Mitte",
+      "unwort_des_jahres": "",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Steht für den Vorwurf der SPD an die neue CDU-FDP-Regierung, sozial Schwache zu benachteiligen und den Egoismus in der Gesellschaft zu fördern"
+    },
+    {
+      "jahr": "1983",
+      "wort_des_jahres": "heißer Herbst",
+      "platz_2_und_3": "Volksaushorchung; Zündi",
+      "unwort_des_jahres": "",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Beschreibung der Proteste der Friedensbewegung gegen die Nachrüstung im Rahmen des NATO-Doppelbeschlusses"
+    },
+    {
+      "jahr": "1984",
+      "wort_des_jahres": "Umweltauto",
+      "platz_2_und_3": "Formaldehyd; Neidsteuer",
+      "unwort_des_jahres": "",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Diskussion um die Verpflichtung, Autos mit Katalysatortechnik herzustellen"
+    },
+    {
+      "jahr": "1985",
+      "wort_des_jahres": "Glykol",
+      "platz_2_und_3": "SDI; EUREKA",
+      "unwort_des_jahres": "",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Infolge des Glykolwein-Skandals"
+    },
+    {
+      "jahr": "1986",
+      "wort_des_jahres": "Tschernobyl",
+      "platz_2_und_3": "Havarie; Super-Gau",
+      "unwort_des_jahres": "",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Nach der Reaktorkatastrophe am 26. April"
+    },
+    {
+      "jahr": "1987",
+      "wort_des_jahres": "Aids, Kondom",
+      "platz_2_und_3": "Perestroika, Glasnost; Waterkantgate",
+      "unwort_des_jahres": "",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Zunehmende Angst vor der Immunschwächeerkrankung, die „im Begriff [ist], alle anderen gesellschaftlichen Ängste zu überwuchern“"
+    },
+    {
+      "jahr": "1988",
+      "wort_des_jahres": "Gesundheitsreform",
+      "platz_2_und_3": "Robbensterben; Kälbermastskandal",
+      "unwort_des_jahres": "",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Versuch der Bundesregierung, die Medikamentenkosten zu begrenzen"
+    },
+    {
+      "jahr": "1989",
+      "wort_des_jahres": "Reisefreiheit",
+      "platz_2_und_3": "BRDDR; Montagsdemonstrationen",
+      "unwort_des_jahres": "",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Einführung derselben in der DDR"
+    },
+    {
+      "jahr": "1990",
+      "wort_des_jahres": "die neuen Bundesländer",
+      "platz_2_und_3": "vereintes Deutschland; 2+4-Gespräche",
+      "unwort_des_jahres": "",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Aufgrund der Wiedervereinigung"
+    },
+    {
+      "jahr": "1991",
+      "wort_des_jahres": "Besserwessi",
+      "platz_2_und_3": "abwickeln; Kurzarbeit Null",
+      "unwort_des_jahres": "ausländerfrei",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Das Portmanteauwort aus Besserwisser und Wessi ist ein Ausdruck, der nach der deutschen Wiedervereinigung entstanden ist"
+    },
+    {
+      "jahr": "1992",
+      "wort_des_jahres": "Politikverdrossenheit",
+      "platz_2_und_3": "Fremdenhass; Rassismus",
+      "unwort_des_jahres": "ethnische Säuberung",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Zunehmende Unzufriedenheit und Skepsis der Bürger gegenüber der Politik, ihren Vertretern, Institutionen und Ergebnissen"
+    },
+    {
+      "jahr": "1993",
+      "wort_des_jahres": "Sozialabbau",
+      "platz_2_und_3": "Standort Deutschland; Blutskandal",
+      "unwort_des_jahres": "Überfremdung",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Bezieht sich auf eine breit geführte Diskussion über den Abbau staatlicher Leistungen im Sozialbereich"
+    },
+    {
+      "jahr": "1994",
+      "wort_des_jahres": "Superwahljahr",
+      "platz_2_und_3": "Jackpot; Unwort",
+      "unwort_des_jahres": "Peanuts",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Aufgrund der Bundestagswahl, der Europawahl, acht Landtagswahlen und zehn Kommunalwahlen"
+    },
+    {
+      "jahr": "1995",
+      "wort_des_jahres": "Multimedia",
+      "platz_2_und_3": "Eurogeld; Kruzifixurteil",
+      "unwort_des_jahres": "Diätenanpassung",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "„Leitwort für die Reise in die ‚schöne neue Medienwelt‘“"
+    },
+    {
+      "jahr": "1996",
+      "wort_des_jahres": "Sparpaket",
+      "platz_2_und_3": "Haushaltslöcher; Lohnfortzahlung",
+      "unwort_des_jahres": "Rentnerschwemme",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Bündelung von Maßnahmen, um ein bestimmtes Einsparungsziel zu erreichen"
+    },
+    {
+      "jahr": "1997",
+      "wort_des_jahres": "Reformstau",
+      "platz_2_und_3": "Ruck durch Deutschland; Bildungsmisere",
+      "unwort_des_jahres": "Wohlstandsmüll (arbeitsunfähige Kranke)",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Schlagwort, mit dem das Unterbleiben als nötig angesehener politischer oder struktureller Reformen kritisiert wird"
+    },
+    {
+      "jahr": "1998",
+      "wort_des_jahres": "Rot-Grün",
+      "platz_2_und_3": "Viagra; neue Mitte",
+      "unwort_des_jahres": "sozialverträgliches Frühableben",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Erstmaliges Auftauchen dieser Koalition auf Bundesebene nach der Bundestagswahl 1998"
+    },
+    {
+      "jahr": "1999",
+      "wort_des_jahres": "Millennium",
+      "platz_2_und_3": "Kosovokrieg; Generation @",
+      "unwort_des_jahres": "Kollateralschaden",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Aufgrund des darauffolgenden Jahres 2000"
+    },
+    {
+      "jahr": "2000",
+      "wort_des_jahres": "Schwarzgeldaffäre",
+      "platz_2_und_3": "BSE-Krise; Greencard",
+      "unwort_des_jahres": "national befreite Zone",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Aufdeckung der illegalen Spendenpraxis der CDU in den 1990er Jahren unter dem früheren Bundeskanzler Helmut Kohl"
+    },
+    {
+      "jahr": "2001",
+      "wort_des_jahres": "der 11. September",
+      "platz_2_und_3": "Anti-Terror-Krieg; Milzbrandattacke",
+      "unwort_des_jahres": "Gotteskrieger",
+      "satz_des_jahres": "„Und das ist (auch) gut so!“ (Klaus Wowereit)",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Aufgrund der Terroranschläge in den USA"
+    },
+    {
+      "jahr": "2002",
+      "wort_des_jahres": "Teuro",
+      "platz_2_und_3": "PISA-Schock; Jahrtausendflut",
+      "unwort_des_jahres": "Ich-AG",
+      "satz_des_jahres": "„Es gibt nur ein’ Rudi Völler !“",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Gefühlte Preissteigerungen nach der Euro -Einführung"
+    },
+    {
+      "jahr": "2003",
+      "wort_des_jahres": "das alte Europa",
+      "platz_2_und_3": "Agenda 2010; Reformstreit",
+      "unwort_des_jahres": "Tätervolk",
+      "satz_des_jahres": "„ Deutschland sucht den Superstar.“",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Aussage des US-amerikanischen Verteidigungsministers Donald Rumsfeld"
+    },
+    {
+      "jahr": "2004",
+      "wort_des_jahres": "Hartz IV",
+      "platz_2_und_3": "Parallelgesellschaften; Pisa-gebeutelte Nation",
+      "unwort_des_jahres": "Humankapital",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Bezeichnung für Vorschläge der „Kommission für moderne Dienstleistungen am Arbeitsmarkt“"
+    },
+    {
+      "jahr": "2005",
+      "wort_des_jahres": "Bundeskanzlerin",
+      "platz_2_und_3": "Wir sind Papst; Tsunami",
+      "unwort_des_jahres": "Entlassungsproduktivität",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Nach der Bundestagswahl 2005 wurde mit Angela Merkel erstmals eine Frau in das Amt des Bundeskanzlers gewählt."
+    },
+    {
+      "jahr": "2006",
+      "wort_des_jahres": "Fanmeile",
+      "platz_2_und_3": "Generation Praktikum; Karikaturenstreit",
+      "unwort_des_jahres": "freiwillige Ausreise",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Im Zusammenhang mit der Fußball-Weltmeisterschaft 2006"
+    },
+    {
+      "jahr": "2007",
+      "wort_des_jahres": "Klimakatastrophe",
+      "platz_2_und_3": "Herdprämie; Raucherkneipe",
+      "unwort_des_jahres": "Herdprämie",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Die Folgen von unkontrollierter globaler Erwärmung"
+    },
+    {
+      "jahr": "2008",
+      "wort_des_jahres": "Finanzkrise",
+      "platz_2_und_3": "verzockt; Datenklau",
+      "unwort_des_jahres": "notleidende Banken",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "Gammelfleischparty",
+      "erklaerung": "Globale Banken- und Finanzkrise als Teil der Großen Regression, die im Sommer 2007 als Immobilienkrise in den USA begann"
+    },
+    {
+      "jahr": "2009",
+      "wort_des_jahres": "Abwrackprämie",
+      "platz_2_und_3": "kriegsähnliche Zustände; Schweinegrippe",
+      "unwort_des_jahres": "betriebsratsverseucht",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "hartzen",
+      "erklaerung": "Eine Prämie für Pkw-Halter, die ihr älteres Auto verschrotten ließen und gleichzeitig ein neues kauften"
+    },
+    {
+      "jahr": "2010",
+      "wort_des_jahres": "Wutbürger",
+      "platz_2_und_3": "Stuttgart 21; Sarrazin-Gen",
+      "unwort_des_jahres": "alternativlos",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "Niveaulimbo",
+      "erklaerung": "Aufkommen einer Protestkultur aus Enttäuschung über bestimmte politische Entscheidungen"
+    },
+    {
+      "jahr": "2011",
+      "wort_des_jahres": "Stresstest",
+      "platz_2_und_3": "hebeln; Arabellion",
+      "unwort_des_jahres": "Döner-Morde",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "Swag",
+      "erklaerung": "Durchführung zahlreicher derartiger Tests in verschiedenen Bereichen (v. a. Banken, Atomkraftwerke, Stuttgart 21)"
+    },
+    {
+      "jahr": "2012",
+      "wort_des_jahres": "Rettungsroutine",
+      "platz_2_und_3": "Kanzlerpräsidentin; Bildungsabwendungsprämie",
+      "unwort_des_jahres": "Opfer-Abo",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "YOLO",
+      "erklaerung": "Das Wort wurde nahezu nie verwendet, soll aber beschreiben, dass „alle paar Wochen […] neue (Rettungs-)Pakete geschnürt“ wurden."
+    },
+    {
+      "jahr": "2013",
+      "wort_des_jahres": "GroKo",
+      "platz_2_und_3": "Protz-Bischof; Armutseinwanderung",
+      "unwort_des_jahres": "Sozialtourismus",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "Babo",
+      "erklaerung": "Die Abkürzung „GroKo“ steht für die Große Koalition aus Union und SPD."
+    },
+    {
+      "jahr": "2014",
+      "wort_des_jahres": "Lichtgrenze",
+      "platz_2_und_3": "Schwarze Null; Götzseidank",
+      "unwort_des_jahres": "Lügenpresse",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "Läuft bei dir",
+      "erklaerung": "Bezieht sich auf die Lichtinstallation zum Anlass der Feierlichkeiten „25 Jahre Mauerfall “ in Berlin."
+    },
+    {
+      "jahr": "2015",
+      "wort_des_jahres": "Flüchtlinge",
+      "platz_2_und_3": "Je suis Charlie; Grexit",
+      "unwort_des_jahres": "Gutmensch",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "Smombie",
+      "erklaerung": "Im Kontext der Migration von Menschen, die 2015 vor den Kriegen im Mittleren Osten nach Europa und insbesondere Deutschland flüchten. Diskutiert wurde von den Sprachwissenschaftlern auch die unterschiedliche Bewertung der Nachsilbe „ -linge “ als Pejorativsuffix."
+    },
+    {
+      "jahr": "2016",
+      "wort_des_jahres": "postfaktisch",
+      "platz_2_und_3": "Brexit; Silvesternacht",
+      "unwort_des_jahres": "Volksverräter",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "fly sein",
+      "erklaerung": "Kunstwort, das darauf verweist, dass es zunehmend um Emotionen anstelle von Fakten geht und ein Teil der Bevölkerung bereit ist, auf den Anspruch auf Wahrheit zu verzichten, Tatsachen zu ignorieren und offensichtliche Lügen zu akzeptieren."
+    },
+    {
+      "jahr": "2017",
+      "wort_des_jahres": "Jamaika-Aus",
+      "platz_2_und_3": "Ehe für alle; #MeToo",
+      "unwort_des_jahres": "Alternative Fakten",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "i bims",
+      "erklaerung": "Bezeichnet das Scheitern der Sondierungsgespräche für eine Jamaika-Koalition auf Bundesebene nach der Bundestagswahl 2017."
+    },
+    {
+      "jahr": "2018",
+      "wort_des_jahres": "Heißzeit",
+      "platz_2_und_3": "Funklochrepublik; Ankerzentren",
+      "unwort_des_jahres": "Anti-Abschiebe-Industrie",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "Ehrenmann/Ehrenfrau",
+      "erklaerung": "Begriff für den extremen Sommer 2018 und den Klimawandel. Außerdem ist „Heißzeit“ eine Wortbildung mit lautlicher Analogie zur „Eiszeit“."
+    },
+    {
+      "jahr": "2019",
+      "wort_des_jahres": "Respektrente",
+      "platz_2_und_3": "Rollerchaos; Fridays for Future",
+      "unwort_des_jahres": "Klimahysterie",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "",
+      "erklaerung": "Aus sprachlicher Sicht handelt es sich um die Neubildung eines Hochwertwortes in der politischen Debatte, die der Selbstaufwertung durch Fremdaufwertung dient."
+    },
+    {
+      "jahr": "2020",
+      "wort_des_jahres": "Corona-Pandemie",
+      "platz_2_und_3": "Lockdown; Verschwörungserzählung",
+      "unwort_des_jahres": "Rückführungspatenschaften und Corona-Diktatur",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "lost",
+      "erklaerung": "„Die Zusammensetzung benennt das beherrschende Thema nahezu des gesamten Jahres.“"
+    },
+    {
+      "jahr": "2021",
+      "wort_des_jahres": "Wellenbrecher",
+      "platz_2_und_3": "SolidAHRität, Pflexit",
+      "unwort_des_jahres": "Pushback",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "cringe",
+      "erklaerung": "„Das Wort steht für alle Maßnahmen, die getroffen wurden und werden, um die 4. Corona-Welle zu brechen.“"
+    },
+    {
+      "jahr": "2022",
+      "wort_des_jahres": "Zeitenwende",
+      "platz_2_und_3": "Krieg um Frieden; Gaspreisbremse",
+      "unwort_des_jahres": "Klimaterroristen",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "smash",
+      "erklaerung": "Das Wort wurde von Bundeskanzler Scholz verwendet. Der russische Überfall auf die Ukraine am 24. Februar 2022 markiere eine „Zeitenwende in der Geschichte unseres Kontinentes.“ Ursprünglich hatte er das Wort in seinem Buch „Hoffnungsland“ im Jahr 2017 im Vorwort verwendet – in einem etwas anderen Kontext."
+    },
+    {
+      "jahr": "2023",
+      "wort_des_jahres": "Krisenmodus",
+      "platz_2_und_3": "Antisemitismus; leseunfähig",
+      "unwort_des_jahres": "Remigration",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "goofy",
+      "erklaerung": "Der Begriff bezieht sich auf die Anzahl an Krisen, die im Jahr 2023 gleichzeitig nebeneinander existierten, sowie auf deren Bewältigung."
+    },
+    {
+      "jahr": "2024",
+      "wort_des_jahres": "Ampel-Aus",
+      "platz_2_und_3": "Klimaschönfärberei; kriegstüchtig",
+      "unwort_des_jahres": "Biodeutsch",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "Aura",
+      "erklaerung": "Das Ende der Ampelkoalition drängte sogar den zeitgleich bekannt gewordenen Ausgang der US-amerikanischen Präsidentschaftswahl medial zur Seite. Jamaika-Aus war das Wort des Jahres 2017."
+    },
+    {
+      "jahr": "2025",
+      "wort_des_jahres": "KI-Ära",
+      "platz_2_und_3": "Deal; Land gegen Frieden",
+      "unwort_des_jahres": "Sondervermögen",
+      "satz_des_jahres": "",
+      "jugendwort_des_jahres": "das crazy",
+      "erklaerung": "Der wachsende Einfluss von Künstlicher Intelligenz stehe für einen „epochalen Wandel“."
+    }
+  ],
+  "meta": {
+    "title": "Wort des Jahres (Deutschland) - Free Download",
+    "description": "Die Wörter des Jahres der Gesellschaft für deutsche Sprache seit 1971 mit Platz 2 und 3, Unwort, Satz und Jugendwort des Jahres sowie Erklärung. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Wort des Jahres (Deutschland) | ListBase",
+    "seo_description": "Download Wort des Jahres (Deutschland) — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Wort_des_Jahres_(Deutschland)"
+    ]
+  }
+}
