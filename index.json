@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-27T02:22:26.738Z",
-  "total_datasets": 477,
-  "total_records": 1866745,
+  "generated": "2026-10-27T02:22:29.233Z",
+  "total_datasets": 478,
+  "total_records": 1866817,
   "categories": [
     {
       "id": "agriculture",
@@ -51,6 +51,10 @@
     {
       "id": "language",
       "dataset_count": 3
+    },
+    {
+      "id": "music",
+      "dataset_count": 1
     },
     {
       "id": "politics",
@@ -4894,6 +4898,36 @@
         "xlsx": {
           "name": "de-sprachen_DE.xlsx",
           "size": 22934
+        }
+      }
+    },
+    {
+      "id": "de-eurovision-teilnahmen",
+      "name": "Deutschland beim Eurovision Song Contest",
+      "category": "music",
+      "record_count": 72,
+      "columns": [
+        "jahr",
+        "interpret",
+        "titel_autoren",
+        "sprache",
+        "uebersetzung",
+        "platz_finale",
+        "punkte_finale",
+        "platz_halbfinale",
+        "punkte_halbfinale"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Deutschland_beim_Eurovision_Song_Contest",
+      "updated": "2026-10",
+      "size": 31162,
+      "files": {
+        "csv": {
+          "name": "de-eurovision-teilnahmen_DE.csv",
+          "size": 13746
+        },
+        "xlsx": {
+          "name": "de-eurovision-teilnahmen_DE.xlsx",
+          "size": 13263
         }
       }
     },

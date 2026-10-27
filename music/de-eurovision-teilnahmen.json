@@ -1,0 +1,863 @@
+{
+  "id": "de-eurovision-teilnahmen",
+  "name": "Deutschland beim Eurovision Song Contest",
+  "title": "Deutschland beim Eurovision Song Contest",
+  "description": "Alle deutschen Beiträge beim Eurovision Song Contest seit 1956: Interpret, Titel, Sprache, Platzierung und Punkte.",
+  "category": "music",
+  "source": "https://de.wikipedia.org/wiki/Deutschland_beim_Eurovision_Song_Contest",
+  "source_url": "https://de.wikipedia.org/wiki/Deutschland_beim_Eurovision_Song_Contest",
+  "updated": "2026-10",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "jahr",
+      "label": "Jahr",
+      "type": "number"
+    },
+    {
+      "key": "interpret",
+      "label": "Interpret",
+      "type": "string"
+    },
+    {
+      "key": "titel_autoren",
+      "label": "Titel Autoren",
+      "type": "string"
+    },
+    {
+      "key": "sprache",
+      "label": "Sprache",
+      "type": "string"
+    },
+    {
+      "key": "uebersetzung",
+      "label": "Uebersetzung",
+      "type": "string"
+    },
+    {
+      "key": "platz_finale",
+      "label": "Platz Finale",
+      "type": "string"
+    },
+    {
+      "key": "punkte_finale",
+      "label": "Punkte Finale",
+      "type": "string"
+    },
+    {
+      "key": "platz_halbfinale",
+      "label": "Platz Halbfinale",
+      "type": "string"
+    },
+    {
+      "key": "punkte_halbfinale",
+      "label": "Punkte Halbfinale",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jahr": "1956",
+      "interpret": "Walter Andreas Schwarz",
+      "titel_autoren": "Im Wartesaal zum großen Glück M/T: Walter Andreas Schwarz",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "k. A. / 14",
+      "punkte_finale": "k. A.",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1956",
+      "interpret": "Freddy Quinn",
+      "titel_autoren": "So geht das jede Nacht M: Lotar Olias; T: Peter Moesser",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "k. A. / 14",
+      "punkte_finale": "k. A.",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1957",
+      "interpret": "Margot Hielscher",
+      "titel_autoren": "Telefon, Telefon M: Friedrich Meyer; T: Ralph Maria Siegel",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "4 / 10",
+      "punkte_finale": "8",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1958",
+      "interpret": "Margot Hielscher",
+      "titel_autoren": "Für zwei Groschen Musik M: Friedrich Meyer; T: Fred Rauch, Walter Brandin",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "7 / 10",
+      "punkte_finale": "5",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1959",
+      "interpret": "Alice und Ellen Kessler",
+      "titel_autoren": "Heute Abend wollen wir tanzen geh’n M: Helmut Zander; T: Astrid Voltmann",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "8 / 11",
+      "punkte_finale": "5",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1960",
+      "interpret": "Wyn Hoop",
+      "titel_autoren": "Bonne nuit ma chérie M: Franz Josef Breuer; T: Kurt Schwabach",
+      "sprache": "Deutsch",
+      "uebersetzung": "Gute Nacht, meine Liebe",
+      "platz_finale": "4 / 13",
+      "punkte_finale": "11",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1961",
+      "interpret": "Lale Andersen",
+      "titel_autoren": "Einmal sehen wir uns wieder M: Rudolf Maluck; T: Ernst Bader",
+      "sprache": "Deutsch, Französisch",
+      "uebersetzung": "–",
+      "platz_finale": "13 / 16",
+      "punkte_finale": "3",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1962",
+      "interpret": "Conny Froboess",
+      "titel_autoren": "Zwei kleine Italiener M: Christian Bruhn; T: Georg Buschor",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "6 / 16",
+      "punkte_finale": "9",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1963",
+      "interpret": "Heidi Brühl",
+      "titel_autoren": "Marcel M/T: Charly Niessen",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "9 / 16",
+      "punkte_finale": "5",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1964",
+      "interpret": "Nora Nova",
+      "titel_autoren": "Man gewöhnt sich so schnell an das Schöne M: Rudi von der Dovenmühle; T: Niels Nobach",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "13 / 16",
+      "punkte_finale": "0",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1965",
+      "interpret": "Ulla Wiesner",
+      "titel_autoren": "Paradies, wo bist du? M: Hans Blum; T: Barbara Kist",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "15 / 18",
+      "punkte_finale": "0",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1966",
+      "interpret": "Margot Eskens",
+      "titel_autoren": "Die Zeiger der Uhr M: Walter Dobschinski; T: Hans Bradtke",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "10 / 18",
+      "punkte_finale": "7",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1967",
+      "interpret": "Inge Brück",
+      "titel_autoren": "Anouschka M/T: Hans Blum",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "8 / 17",
+      "punkte_finale": "7",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1968",
+      "interpret": "Wencke Myhre",
+      "titel_autoren": "Ein Hoch der Liebe M: Horst Jankowski; T: Carl J. Schäuble",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "6 / 17",
+      "punkte_finale": "11",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1969",
+      "interpret": "Siw Malmkvist",
+      "titel_autoren": "Primaballerina M/T: Hans Blum",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "9 / 16",
+      "punkte_finale": "8",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1970",
+      "interpret": "Katja Ebstein",
+      "titel_autoren": "Wunder gibt es immer wieder M: Christian Bruhn; T: Günther Loose",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "3 / 12",
+      "punkte_finale": "12",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1971",
+      "interpret": "Katja Ebstein",
+      "titel_autoren": "Diese Welt M: Dieter Zimmermann; T: Fred Jay",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "3 / 18",
+      "punkte_finale": "100",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1972",
+      "interpret": "Mary Roos",
+      "titel_autoren": "Nur die Liebe läßt uns leben M: Joachim Heider; T: Joachim Relin",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "3 / 18",
+      "punkte_finale": "107",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1973",
+      "interpret": "Gitte",
+      "titel_autoren": "Junger Tag M: Günther-Eric Thöner; T: Stephan Lego",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "8 / 17",
+      "punkte_finale": "85",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1974",
+      "interpret": "Cindy & Bert",
+      "titel_autoren": "Die Sommermelodie M: Werner Scharfenberger; T: Kurt Feltz",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "14 / 17",
+      "punkte_finale": "3",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1975",
+      "interpret": "Joy Fleming",
+      "titel_autoren": "Ein Lied kann eine Brücke sein M: Rainer Pietsch; T: Michael Holm",
+      "sprache": "Deutsch, Englisch",
+      "uebersetzung": "–",
+      "platz_finale": "17 / 19",
+      "punkte_finale": "15",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1976",
+      "interpret": "The Les Humphries Singers",
+      "titel_autoren": "Sing Sang Song M: Ralph Siegel; T: Kurt Hertha",
+      "sprache": "Deutsch",
+      "uebersetzung": "Singsang-Lied",
+      "platz_finale": "15 / 18",
+      "punkte_finale": "12",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1977",
+      "interpret": "Silver Convention",
+      "titel_autoren": "Telegram M: Sylvester Levay; T: Michael Kunze",
+      "sprache": "Englisch",
+      "uebersetzung": "Telegramm",
+      "platz_finale": "8 / 18",
+      "punkte_finale": "55",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1978",
+      "interpret": "Ireen Sheer",
+      "titel_autoren": "Feuer M: Jean Frankfurter; T: John Möring",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "6 / 20",
+      "punkte_finale": "84",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1979",
+      "interpret": "Dschinghis Khan",
+      "titel_autoren": "Dschinghis Khan M: Ralph Siegel; T: Bernd Meinunger",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "4 / 19",
+      "punkte_finale": "86",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1980",
+      "interpret": "Katja Ebstein",
+      "titel_autoren": "Theater M: Ralph Siegel; T: Bernd Meinunger",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "2 / 19",
+      "punkte_finale": "128",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1981",
+      "interpret": "Lena Valaitis",
+      "titel_autoren": "Johnny Blue M: Ralph Siegel; T: Bernd Meinunger",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "2 / 20",
+      "punkte_finale": "132",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1982",
+      "interpret": "Nicole",
+      "titel_autoren": "Ein bißchen Frieden M: Ralph Siegel; T: Bernd Meinunger",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "1 / 18",
+      "punkte_finale": "161",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1983",
+      "interpret": "Hoffmann & Hoffmann",
+      "titel_autoren": "Rücksicht M: Michael Reinecke; T: Volker Lechtenbrink",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "5 / 20",
+      "punkte_finale": "94",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1984",
+      "interpret": "Mary Roos",
+      "titel_autoren": "Aufrecht geh’n M: Michael Reinecke; T: Michael Kunze",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "13 / 19",
+      "punkte_finale": "34",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1985",
+      "interpret": "Wind",
+      "titel_autoren": "Für alle M/T: Hanne Haller",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "2 / 19",
+      "punkte_finale": "105",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1986",
+      "interpret": "Ingrid Peters",
+      "titel_autoren": "Über die Brücke geh’n M/T: Hans Blum",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "8 / 20",
+      "punkte_finale": "62",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1987",
+      "interpret": "Wind",
+      "titel_autoren": "Laß die Sonne in dein Herz M: Ralph Siegel; T: Bernd Meinunger",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "2 / 22",
+      "punkte_finale": "141",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1988",
+      "interpret": "Maxi & Chris Garden",
+      "titel_autoren": "Lied für einen Freund M: Ralph Siegel; T: Bernd Meinunger",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "14 / 21",
+      "punkte_finale": "48",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1989",
+      "interpret": "Nino de Angelo",
+      "titel_autoren": "Flieger M: Dieter Bohlen; T: Joachim Horn-Bernges",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "14 / 22",
+      "punkte_finale": "46",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1990",
+      "interpret": "Chris Kempers & Daniel Kovac",
+      "titel_autoren": "Frei zu leben M: Ralph Siegel; T: Michael Kunze",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "9 / 22",
+      "punkte_finale": "60",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1991",
+      "interpret": "Atlantis 2000",
+      "titel_autoren": "Dieser Traum darf niemals sterben M: Alfons Weindorf; T: Helmut Frey",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "18 / 22",
+      "punkte_finale": "10",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1992",
+      "interpret": "Wind",
+      "titel_autoren": "Träume sind für alle da M: Ralph Siegel; T: Bernd Meinunger",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "16 / 23",
+      "punkte_finale": "27",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1993",
+      "interpret": "Münchener Freiheit",
+      "titel_autoren": "Viel zu weit M/T: Stefan Zauner",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "18 / 25",
+      "punkte_finale": "18",
+      "platz_halbfinale": "Kein Halbfinale ausgetragen",
+      "punkte_halbfinale": "Kein Halbfinale ausgetragen"
+    },
+    {
+      "jahr": "1994",
+      "interpret": "Mekado",
+      "titel_autoren": "Wir geben ’ne Party M: Ralph Siegel; T: Bernd Meinunger",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "3 / 25",
+      "punkte_finale": "128",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "1995",
+      "interpret": "Stone & Stone",
+      "titel_autoren": "Verliebt in Dich M/T: Cheyenne Stone",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "23 / 23",
+      "punkte_finale": "1",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "1996",
+      "interpret": "Leon",
+      "titel_autoren": "Planet of Blue M/T: Hanne Haller",
+      "sprache": "Deutsch, Englisch",
+      "uebersetzung": "Blauer Planet",
+      "platz_finale": "Nicht qualifiziert Qualifikationsrunde",
+      "punkte_finale": "Nicht qualifiziert Qualifikationsrunde",
+      "platz_halbfinale": "24 / 29",
+      "punkte_halbfinale": "24"
+    },
+    {
+      "jahr": "1997",
+      "interpret": "Bianca Shomburg",
+      "titel_autoren": "Zeit M: Ralph Siegel; T: Bernd Meinunger",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "18 / 25",
+      "punkte_finale": "22",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "1998",
+      "interpret": "Guildo Horn",
+      "titel_autoren": "Guildo hat Euch lieb! M/T: Stefan Raab",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "7 / 25",
+      "punkte_finale": "86",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "1999",
+      "interpret": "Sürpriz",
+      "titel_autoren": "Reise nach Jerusalem – Kudüs’e seyahat M: Ralph Siegel; T: Bernd Meinunger, Cihan Özden, Deniz Filizmen",
+      "sprache": "Deutsch, Türkisch, Englisch",
+      "uebersetzung": "–",
+      "platz_finale": "3 / 23",
+      "punkte_finale": "140",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2000",
+      "interpret": "Stefan Raab",
+      "titel_autoren": "Wadde hadde dudde da? M/T: Stefan Raab",
+      "sprache": "Deutsch, Englisch",
+      "uebersetzung": "Was hast du denn da?",
+      "platz_finale": "5 / 24",
+      "punkte_finale": "96",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2001",
+      "interpret": "Michelle",
+      "titel_autoren": "Wer Liebe lebt M: Gino Trovatello, Matthias Stingl; T: Eva Richter, Mary Applegate",
+      "sprache": "Deutsch, Englisch",
+      "uebersetzung": "–",
+      "platz_finale": "8 / 23",
+      "punkte_finale": "66",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2002",
+      "interpret": "Corinna May",
+      "titel_autoren": "I Can’t Live Without Music M: Ralph Siegel; T: Bernd Meinunger",
+      "sprache": "Englisch",
+      "uebersetzung": "Ohne Musik kann ich nicht leben",
+      "platz_finale": "21 / 24",
+      "punkte_finale": "17",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2003",
+      "interpret": "Lou",
+      "titel_autoren": "Let’s Get Happy M: Ralph Siegel; T: Bernd Meinunger",
+      "sprache": "Englisch",
+      "uebersetzung": "Lasst uns fröhlich sein",
+      "platz_finale": "12 / 26",
+      "punkte_finale": "53",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2004",
+      "interpret": "Max Mutzke",
+      "titel_autoren": "Can’t Wait Until Tonight M/T: Stefan Raab",
+      "sprache": "Englisch, Türkisch",
+      "uebersetzung": "Kann nicht bis heute Nacht warten",
+      "platz_finale": "8 / 24",
+      "punkte_finale": "93",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2005",
+      "interpret": "Gracia",
+      "titel_autoren": "Run & Hide M: David Brandes, Jane Tempest; T: Bernd Meinunger",
+      "sprache": "Englisch",
+      "uebersetzung": "Rennen und verstecken",
+      "platz_finale": "24 / 24",
+      "punkte_finale": "4",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2006",
+      "interpret": "Texas Lightning",
+      "titel_autoren": "No No Never M/T: Jane Comerford",
+      "sprache": "Englisch",
+      "uebersetzung": "Nein, nein, niemals",
+      "platz_finale": "14 / 24",
+      "punkte_finale": "36",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2007",
+      "interpret": "Roger Cicero",
+      "titel_autoren": "Frauen regier’n die Welt M: Matthias Haß; T: Frank Ramond",
+      "sprache": "Deutsch, Englisch",
+      "uebersetzung": "–",
+      "platz_finale": "19 / 24",
+      "punkte_finale": "49",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2008",
+      "interpret": "No Angels",
+      "titel_autoren": "Disappear M/T: Remee Sigvardt, Hanne Sørvaag, Thomas Troelsen",
+      "sprache": "Englisch",
+      "uebersetzung": "Verschwinden",
+      "platz_finale": "23 / 25",
+      "punkte_finale": "14",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2009",
+      "interpret": "Alex Swings Oscar Sings!",
+      "titel_autoren": "Miss Kiss Kiss Bang M/T: Alex Christensen, Steffen Häfelinger",
+      "sprache": "Englisch",
+      "uebersetzung": "–",
+      "platz_finale": "20 / 25",
+      "punkte_finale": "35",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2010",
+      "interpret": "Lena",
+      "titel_autoren": "Satellite M: Julie Frost, John Gordon; T: Julie Frost",
+      "sprache": "Englisch",
+      "uebersetzung": "Satellit",
+      "platz_finale": "1 / 25",
+      "punkte_finale": "246",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2011",
+      "interpret": "Lena",
+      "titel_autoren": "Taken by a Stranger M/T: Gus Seyffert, Monica Birkenes, Nicole Morier",
+      "sprache": "Englisch",
+      "uebersetzung": "Fasziniert von einem Fremden",
+      "platz_finale": "10 / 25",
+      "punkte_finale": "107",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2012",
+      "interpret": "Roman Lob",
+      "titel_autoren": "Standing Still M/T: Jamie Cullum, Steve Robson, Wayne Hector",
+      "sprache": "Englisch",
+      "uebersetzung": "Stillstehen",
+      "platz_finale": "8 / 26",
+      "punkte_finale": "110",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2013",
+      "interpret": "Cascada",
+      "titel_autoren": "Glorious M/T: Manuel Reuter, Yann Peifer, Andres Ballinas, Tony Cornelissen",
+      "sprache": "Englisch",
+      "uebersetzung": "Glorreich",
+      "platz_finale": "21 / 26",
+      "punkte_finale": "18",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2014",
+      "interpret": "Elaiza",
+      "titel_autoren": "Is It Right M: Elżbieta Steinmetz, Frank Kretschmer; T: Elżbieta Steinmetz, Adam Kesselhaut",
+      "sprache": "Englisch",
+      "uebersetzung": "Ist es richtig?",
+      "platz_finale": "18 / 26",
+      "punkte_finale": "39",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2015",
+      "interpret": "Ann Sophie",
+      "titel_autoren": "Black Smoke M/T: Michael Harwood, Ella McMahon, Tonino Speciale",
+      "sprache": "Englisch",
+      "uebersetzung": "Schwarzer Rauch",
+      "platz_finale": "27 / 27",
+      "punkte_finale": "0",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2016",
+      "interpret": "Jamie-Lee",
+      "titel_autoren": "Ghost M: Thomas Burchia, Anna Leyne, Conrad Hensel; T: Anna Leyne",
+      "sprache": "Englisch",
+      "uebersetzung": "Geist",
+      "platz_finale": "26 / 26",
+      "punkte_finale": "11",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2017",
+      "interpret": "Levina",
+      "titel_autoren": "Perfect Life M/T: Lindy Robbins, Dave Bassett, Lindsey Ray",
+      "sprache": "Englisch",
+      "uebersetzung": "Vollkommenes Leben",
+      "platz_finale": "25 / 26",
+      "punkte_finale": "6",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2018",
+      "interpret": "Michael Schulte",
+      "titel_autoren": "You Let Me Walk Alone M/T: Michael Schulte, Thomas Stengaard, Nisse Ingwersen, Nina Müller",
+      "sprache": "Englisch",
+      "uebersetzung": "Du lässt mich alleine gehen",
+      "platz_finale": "4 / 26",
+      "punkte_finale": "340",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2019",
+      "interpret": "S!sters",
+      "titel_autoren": "Sister M/T: Laurell Barker, Marine Kaltenbacher, Tom Oehler, Thomas Stengaard",
+      "sprache": "Englisch",
+      "uebersetzung": "Schwester",
+      "platz_finale": "25 / 26",
+      "punkte_finale": "24",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2020",
+      "interpret": "Ben Dolic",
+      "titel_autoren": "Violent Thing M/T: Borislaw Milanow, Peter St. James, Dag Lundberg, Jimmy Thorén, Connor Martin",
+      "sprache": "Englisch",
+      "uebersetzung": "Brutale Sache",
+      "platz_finale": "Absage wegen der COVID-19-Pandemie durch die EBU",
+      "punkte_finale": "Absage wegen der COVID-19-Pandemie durch die EBU",
+      "platz_halbfinale": "Absage wegen der COVID-19-Pandemie durch die EBU",
+      "punkte_halbfinale": "Absage wegen der COVID-19-Pandemie durch die EBU"
+    },
+    {
+      "jahr": "2021",
+      "interpret": "Jendrik",
+      "titel_autoren": "I Don’t Feel Hate M/T: Jendrik Sigwart, Christoph Oswald",
+      "sprache": "Englisch",
+      "uebersetzung": "Ich fühle keinen Hass",
+      "platz_finale": "25 / 26",
+      "punkte_finale": "3",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2022",
+      "interpret": "Malik Harris",
+      "titel_autoren": "Rockstars M/T: Malik Harris, Marianne Kobylka, Robin Karow",
+      "sprache": "Englisch",
+      "uebersetzung": "–",
+      "platz_finale": "25 / 25",
+      "punkte_finale": "6",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2023",
+      "interpret": "Lord of the Lost",
+      "titel_autoren": "Blood & Glitter M: Chris Harms, Rupert Keplinger; T: Chris Harms, Rupert Keplinger, Anthony James Brown, Pi Stoffers",
+      "sprache": "Englisch",
+      "uebersetzung": "Blut und Glitzer",
+      "platz_finale": "26 / 26",
+      "punkte_finale": "18",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2024",
+      "interpret": "Isaak",
+      "titel_autoren": "Always on the Run M/T: Greg Taro, Isaak Guderian, Kevin Lehr, Leo Jupiter",
+      "sprache": "Englisch",
+      "uebersetzung": "Immer auf der Flucht",
+      "platz_finale": "12 / 25",
+      "punkte_finale": "117",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2025",
+      "interpret": "Abor & Tynna",
+      "titel_autoren": "Baller M/T: Alexander Hauer, Attila Bornemisza, Tünde Bornemisza",
+      "sprache": "Deutsch",
+      "uebersetzung": "–",
+      "platz_finale": "15 / 26",
+      "punkte_finale": "151",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    },
+    {
+      "jahr": "2026",
+      "interpret": "Sarah Engels",
+      "titel_autoren": "Fire M/T: Valentin Boes, Dario Schürmann, Raphael Lott, Luisa Heinemann, Sarah Engels",
+      "sprache": "Englisch",
+      "uebersetzung": "Feuer",
+      "platz_finale": "23 / 25",
+      "punkte_finale": "12",
+      "platz_halbfinale": "Direkt für das Finale qualifiziert",
+      "punkte_halbfinale": "Direkt für das Finale qualifiziert"
+    }
+  ],
+  "meta": {
+    "title": "Deutschland beim Eurovision Song Contest - Free Download",
+    "description": "Alle deutschen Beiträge beim Eurovision Song Contest seit 1956: Interpret, Titel, Sprache, Platzierung und Punkte. Contains 72 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Deutschland beim Eurovision Song Contest | ListBase",
+    "seo_description": "Download Deutschland beim Eurovision Song Contest — 72 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 72 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Deutschland_beim_Eurovision_Song_Contest"
+    ]
+  }
+}
