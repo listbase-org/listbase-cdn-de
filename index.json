@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-28T02:27:27.236Z",
-  "total_datasets": 497,
-  "total_records": 1872205,
+  "generated": "2026-10-28T02:27:29.624Z",
+  "total_datasets": 498,
+  "total_records": 1872313,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -4942,6 +4942,34 @@
         "xlsx": {
           "name": "de-ch-kriege-schlachten_DE.xlsx",
           "size": 19346
+        }
+      }
+    },
+    {
+      "id": "de-konzentrationslager-deutsches-reich",
+      "name": "Konzentrationslager des Deutschen Reichs",
+      "category": "history",
+      "record_count": 108,
+      "columns": [
+        "name",
+        "location_today",
+        "type",
+        "period",
+        "est_prisoners",
+        "est_deaths",
+        "section"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Konzentrationslager_des_Deutschen_Reichs",
+      "updated": "2026-10",
+      "size": 33857,
+      "files": {
+        "csv": {
+          "name": "de-konzentrationslager-deutsches-reich_DE.csv",
+          "size": 16164
+        },
+        "xlsx": {
+          "name": "de-konzentrationslager-deutsches-reich_DE.xlsx",
+          "size": 14052
         }
       }
     },

@@ -1,0 +1,1033 @@
+{
+  "id": "de-konzentrationslager-deutsches-reich",
+  "name": "Konzentrationslager des Deutschen Reichs",
+  "title": "Konzentrationslager des Deutschen Reichs",
+  "description": "Frühe Konzentrationslager und Konzentrationslager des NS-Regimes mit heutigem Standort, Typ, Bestehenszeit sowie geschätzter Zahl der Inhaftierten und Toten.",
+  "category": "history",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Konzentrationslager_des_Deutschen_Reichs",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Konzentrationslager_des_Deutschen_Reichs",
+  "updated": "2026-10",
+  "record_count": 108,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "location_today",
+      "label": "Location Today",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    },
+    {
+      "key": "est_prisoners",
+      "label": "Est Prisoners",
+      "type": "number"
+    },
+    {
+      "key": "est_deaths",
+      "label": "Est Deaths",
+      "type": "string"
+    },
+    {
+      "key": "section",
+      "label": "Section",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ahrensbök",
+      "location_today": "Deutschland",
+      "type": "frühes KZ der SA – ging aus dem KZ Eutin hervor",
+      "period": "Oktober 1933 bis Mai 1934",
+      "est_prisoners": 300,
+      "est_deaths": 0,
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Alt-Daber",
+      "location_today": "Deutschland",
+      "type": "frühes KZ der SA",
+      "period": "April 1933 bis Juli 1933",
+      "est_prisoners": "",
+      "est_deaths": "",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Bad Sulza",
+      "location_today": "Deutschland",
+      "type": "frühes KZ der SA / Innenministerium",
+      "period": "November 1933 bis Juli 1937",
+      "est_prisoners": 800,
+      "est_deaths": "",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Benninghausen",
+      "location_today": "Deutschland",
+      "type": "frühes KZ der SA",
+      "period": "März bis September 1933",
+      "est_prisoners": 344,
+      "est_deaths": "unbekannt",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Bergisch Gladbach",
+      "location_today": "Deutschland",
+      "type": "frühes KZ der SA (Stella-Werk Bergisch Gladbach)",
+      "period": "Juni bis Juli 1933",
+      "est_prisoners": "mindestens 29",
+      "est_deaths": "",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Börnicke",
+      "location_today": "Deutschland",
+      "type": "frühes KZ der SA",
+      "period": "Mai bis Juli 1933",
+      "est_prisoners": "mindestens 13",
+      "est_deaths": "mindestens 13",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Bredow",
+      "location_today": "Deutschland (Polen)",
+      "type": "frühes KZ der SS",
+      "period": "20. Oktober 1933 bis 11. März 1934",
+      "est_prisoners": 40,
+      "est_deaths": "",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Brandenburg an der Havel",
+      "location_today": "Deutschland",
+      "type": "frühes KZ, später Tötungsanstalt der Aktion T4",
+      "period": "August 1933 bis Februar 1934",
+      "est_prisoners": "1.000–1.200",
+      "est_deaths": "3 (mindestens)",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Breitenau",
+      "location_today": "Deutschland",
+      "type": "frühes KZ, später „ Arbeitserziehungslager “",
+      "period": "Juni 1933 bis März 1934 bzw. 1940–1945",
+      "est_prisoners": "470 bzw. 8.500",
+      "est_deaths": "",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Breslau-Dürrgoy",
+      "location_today": "Deutschland (Polen)",
+      "type": "frühes KZ, „Privatlager“ Edmund Heines",
+      "period": "April bis August 1933",
+      "est_prisoners": "200–400",
+      "est_deaths": "",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Bochum",
+      "location_today": "Deutschland",
+      "type": "Führungslager der Bochumer SA-Standarte 17, siehe auch NS-Zwangsarbeit in Bochum und Wattenscheid sowie Bochumer Verein#Zeit des Nationalsozialismus und Zweiter Weltkrieg",
+      "period": "wahrscheinlich März 1933 bis Mitte 1933 / Anfang 1934 (verschiedenen Angaben)",
+      "est_prisoners": "",
+      "est_deaths": "",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Colditz",
+      "location_today": "Deutschland",
+      "type": "frühes KZ der SA und SS",
+      "period": "21. März 1933 bis 18. August 1934 ab 31. März 1934 Außenlager des KZ Sachsenburg",
+      "est_prisoners": 2311,
+      "est_deaths": "",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Columbia-Haus",
+      "location_today": "Deutschland",
+      "type": "frühes KZ der Gestapo",
+      "period": "Dezember 1934 bis Dezember 1936",
+      "est_prisoners": 10000,
+      "est_deaths": "",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Dachau",
+      "location_today": "Deutschland",
+      "type": "Erstes KZ der SS, Prototyp",
+      "period": "März 1933 bis April 1945",
+      "est_prisoners": 200000,
+      "est_deaths": "etwa 41.500",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Elsterberg",
+      "location_today": "Deutschland",
+      "type": "frühes KZ im Gefängnis des Amtsgerichts Elsterberg",
+      "period": "Anfang März 1933 bis 19. April 1933",
+      "est_prisoners": "unbekannte Anzahl von politischen Gegnern, zehn Personen namentlich nachgewiesen",
+      "est_deaths": "unbekannt",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Emslandlager",
+      "location_today": "Deutschland",
+      "type": "frühes KZ (mehrere Teillager: KZ Börgermoor, KZ Neusustrum, KZ Esterwegen), ab 1936 Strafgefangenenlager",
+      "period": "Juni 1933 bis 1945",
+      "est_prisoners": "80.000 KZ-Häftlinge und Strafgefangene, 100.000–180.000 Kriegsgefangene",
+      "est_deaths": "30.000 überwiegend sowjetische Kriegsgefangene",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Eutin",
+      "location_today": "Deutschland",
+      "type": "frühes KZ der SA",
+      "period": "ca. Juli 1933 bis Mai 1934",
+      "est_prisoners": 259,
+      "est_deaths": 0,
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Heuberg",
+      "location_today": "Deutschland",
+      "type": "frühes KZ",
+      "period": "März bis Dezember 1933",
+      "est_prisoners": "3.500 – 4.000",
+      "est_deaths": "mindestens 1",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Hainewalde",
+      "location_today": "Deutschland",
+      "type": "frühes KZ der SA",
+      "period": "März 1933 bis August 1933",
+      "est_prisoners": "",
+      "est_deaths": "",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Hohnstein",
+      "location_today": "Deutschland",
+      "type": "frühes KZ der SA",
+      "period": "März 1933 bis August 1934",
+      "est_prisoners": 5600,
+      "est_deaths": "unbekannt",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Kemna",
+      "location_today": "Deutschland",
+      "type": "frühes KZ",
+      "period": "Juni 1933 bis Januar 1934",
+      "est_prisoners": "2.500–3.000",
+      "est_deaths": 4,
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Kislau",
+      "location_today": "Deutschland",
+      "type": "frühes KZ des badischen Innenministeriums",
+      "period": "April 1933 bis April 1939",
+      "est_prisoners": "",
+      "est_deaths": 1,
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Königstein-Halbestadt",
+      "location_today": "Deutschland",
+      "type": "frühes KZ der SA – ging später in KZ Hohnstein auf",
+      "period": "10. März bis Mai 1933",
+      "est_prisoners": 215,
+      "est_deaths": "unbekannt",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Kuhlen",
+      "location_today": "Deutschland",
+      "type": "frühes KZ",
+      "period": "Juli bis Oktober 1933",
+      "est_prisoners": 200,
+      "est_deaths": 0,
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Leschwitz",
+      "location_today": "Deutschland",
+      "type": "frühes KZ",
+      "period": "März bis August 1933",
+      "est_prisoners": "1.000–1.500",
+      "est_deaths": "unbekannt",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Lichtenburg",
+      "location_today": "Deutschland",
+      "type": "Männer-, dann Frauen-Konzentrationslager",
+      "period": "Juni 1933 bis Mai 1939",
+      "est_prisoners": "",
+      "est_deaths": "",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Meissnershof",
+      "location_today": "Deutschland",
+      "type": "frühes KZ, Außenstelle des KZ Börnicke",
+      "period": "Februar 1933 bis Juni 1933",
+      "est_prisoners": "",
+      "est_deaths": "",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Mißler",
+      "location_today": "Deutschland",
+      "type": "frühes KZ der SA und SS",
+      "period": "März bis September 1933",
+      "est_prisoners": "148 später 300",
+      "est_deaths": "",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Neustadt an der Haardt",
+      "location_today": "Deutschland",
+      "type": "frühes KZ („Schutzhaft-, Arbeits- und Internierungslager“), heute befindet sich die Gedenkstätte für NS-Opfer in Neustadt auf dem Gelände der Turenne-Kaserne",
+      "period": "März bis Juni 1933",
+      "est_prisoners": "gegen 500",
+      "est_deaths": "keine",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Nohra",
+      "location_today": "Deutschland",
+      "type": "Frühes KZ",
+      "period": "3. März bis 1. Oktober 1933",
+      "est_prisoners": 260,
+      "est_deaths": "",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Ulm, Oberer Kuhberg",
+      "location_today": "Deutschland",
+      "type": "Frühes KZ",
+      "period": "November 1933 bis Juli 1935",
+      "est_prisoners": "ca. 600",
+      "est_deaths": 0,
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Oederan",
+      "location_today": "Deutschland",
+      "type": "Frühes KZ",
+      "period": "März 1933 bis April 1933",
+      "est_prisoners": 80,
+      "est_deaths": "unbekannt",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Oranienburg",
+      "location_today": "Deutschland",
+      "type": "Sammellager",
+      "period": "März 1933 bis Juli 1934",
+      "est_prisoners": 3000,
+      "est_deaths": "16 (mindestens)",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Osthofen",
+      "location_today": "Deutschland",
+      "type": "Sammellager „Umerziehungslager“",
+      "period": "März 1933 bis Juli 1934",
+      "est_prisoners": 3000,
+      "est_deaths": "keine",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "SA-Gefängnis Papestraße",
+      "location_today": "Deutschland",
+      "type": "frühes KZ der SA",
+      "period": "März 1933 bis Dezember 1933",
+      "est_prisoners": "ca. 2.000",
+      "est_deaths": "ca. 30",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Perleberg",
+      "location_today": "Deutschland",
+      "type": "frühes KZ der SA und SS",
+      "period": "Mai bis Juni 1933",
+      "est_prisoners": 34,
+      "est_deaths": "keine",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Plaue",
+      "location_today": "Deutschland",
+      "type": "frühes KZ der SA und SS",
+      "period": "9. März bis 10. Juni 1933",
+      "est_prisoners": 600,
+      "est_deaths": "keine",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Sachsenburg",
+      "location_today": "Deutschland",
+      "type": "frühes KZ der SA",
+      "period": "Juni 1933 bis Juli 1937",
+      "est_prisoners": 2000,
+      "est_deaths": "11 (mindestens)",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Sonnenburg",
+      "location_today": "Deutschland (Polen)",
+      "type": "frühes KZ",
+      "period": "April 1933 bis April 1934",
+      "est_prisoners": 1000,
+      "est_deaths": "",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Senftenberg",
+      "location_today": "Deutschland",
+      "type": "frühes KZ",
+      "period": "Juni 1933 bis August 1933",
+      "est_prisoners": 265,
+      "est_deaths": "",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Wasserturm Berlin-Prenzlauer Berg",
+      "location_today": "Deutschland",
+      "type": "frühes KZ der SA",
+      "period": "März 1933 bis Juni 1933",
+      "est_prisoners": "",
+      "est_deaths": "",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Vechta",
+      "location_today": "Deutschland",
+      "type": "Schutzhaftlager",
+      "period": "10. Juli 1933 bis Juli 1934",
+      "est_prisoners": 100,
+      "est_deaths": 0,
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Wittmoor",
+      "location_today": "Deutschland",
+      "type": "frühes KZ der SA",
+      "period": "März bis Oktober 1933",
+      "est_prisoners": "",
+      "est_deaths": "",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Zschorlau",
+      "location_today": "Deutschland",
+      "type": "frühes KZ",
+      "period": "21. April 1933 bis 10. Juli 1933",
+      "est_prisoners": 207,
+      "est_deaths": "",
+      "section": "Frühe Konzentrationslager"
+    },
+    {
+      "name": "Arbeitsdorf-Fallersleben",
+      "location_today": "Deutschland",
+      "type": "Konzentrationslager",
+      "period": "April bis Oktober 1942",
+      "est_prisoners": "ca. 1.200",
+      "est_deaths": "",
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Auschwitz-Stammlager",
+      "location_today": "Polen",
+      "type": "Konzentrationslager",
+      "period": "Mai 1940 bis Januar 1945",
+      "est_prisoners": "",
+      "est_deaths": "siehe Birkenau",
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Auschwitz-Birkenau",
+      "location_today": "Polen",
+      "type": "Konzentrations- und Vernichtungslager",
+      "period": "Oktober 1941 bis Januar 1945",
+      "est_prisoners": 400000,
+      "est_deaths": "1,1 bis 1,5 Millionen",
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Auschwitz-Monowitz",
+      "location_today": "Polen",
+      "type": "Konzentrationslager",
+      "period": "Ende 1942 bis Januar 1945",
+      "est_prisoners": "",
+      "est_deaths": "siehe Birkenau",
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Bergen-Belsen",
+      "location_today": "Deutschland",
+      "type": "Konzentrationslager",
+      "period": "April 1943 bis April 1945",
+      "est_prisoners": 120000,
+      "est_deaths": 70000,
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Buchenwald",
+      "location_today": "Deutschland",
+      "type": "Konzentrationslager",
+      "period": "Juli 1937 bis April 1945",
+      "est_prisoners": 250000,
+      "est_deaths": 56000,
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Dachau",
+      "location_today": "Deutschland",
+      "type": "Konzentrationslager (Prototyp)",
+      "period": "März 1933 bis April 1945",
+      "est_prisoners": 200000,
+      "est_deaths": "etwa 41.500",
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Flossenbürg",
+      "location_today": "Deutschland",
+      "type": "Konzentrationslager",
+      "period": "Mai 1938 bis April 1945",
+      "est_prisoners": "mindestens 100.000",
+      "est_deaths": 30000,
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Groß-Rosen",
+      "location_today": "Deutschland (Polen)",
+      "type": "Konzentrationslager",
+      "period": "August 1940 bis Februar 1945",
+      "est_prisoners": 125000,
+      "est_deaths": 40000,
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Gusen",
+      "location_today": "Österreich",
+      "type": "Konzentrationslager",
+      "period": "Mai 1940 bis April 1945",
+      "est_prisoners": "60 - 70.000",
+      "est_deaths": 44602,
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Herzogenbusch-Vught",
+      "location_today": "Niederlande",
+      "type": "Konzentrationslager",
+      "period": "Januar 1943 bis September 1944",
+      "est_prisoners": 31000,
+      "est_deaths": 749,
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Hinzert",
+      "location_today": "Deutschland",
+      "type": "SS-Sonderlager, Durchgangslager, 'Eindeutschungslager'",
+      "period": "Juli 1940 bis März 1945",
+      "est_prisoners": 14000,
+      "est_deaths": "mindestens 302",
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Riga-Kaiserwald",
+      "location_today": "Lettland",
+      "type": "Konzentrationslager",
+      "period": "März 1943 bis September 1944",
+      "est_prisoners": 15000,
+      "est_deaths": "",
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Kauen",
+      "location_today": "Litauen",
+      "type": "Konzentrationslager",
+      "period": "September 1943 bis Juli 1944",
+      "est_prisoners": 17000,
+      "est_deaths": "18.500–30.000",
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Majdanek-Lublin",
+      "location_today": "Polen",
+      "type": "Konzentrations- und Vernichtungslager",
+      "period": "Juli 1941 bis Juli 1944",
+      "est_prisoners": "10 - 25.000",
+      "est_deaths": 78000,
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Mauthausen",
+      "location_today": "Österreich",
+      "type": "Konzentrationslager",
+      "period": "August 1938 bis Mai 1945",
+      "est_prisoners": 195000,
+      "est_deaths": "mindestens 95.000 (mit Gusen)",
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Mittelbau",
+      "location_today": "Deutschland",
+      "type": "Konzentrationslager",
+      "period": "August 1943 bis April 1945",
+      "est_prisoners": 60000,
+      "est_deaths": "mindestens 20.000",
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Moringen",
+      "location_today": "Deutschland",
+      "type": "Frauen-Konzentrationslager",
+      "period": "Juni 1933 bis März 1938",
+      "est_prisoners": 1350,
+      "est_deaths": "",
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Natzweiler/Struthof, Fortführung in Guttenbach / Neckarelz",
+      "location_today": "Frankreich",
+      "type": "Konzentrationslager",
+      "period": "Mai 1941 bis September 1944, danach eine nominelle Fortführung im Konzentrationslager Neckarelz bis März 1945",
+      "est_prisoners": 52000,
+      "est_deaths": 22000,
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Neuengamme",
+      "location_today": "Deutschland",
+      "type": "Konzentrationslager",
+      "period": "Dezember 1938 bis Mai 1945",
+      "est_prisoners": 106000,
+      "est_deaths": 55000,
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Niederhagen / Wewelsburg",
+      "location_today": "Deutschland",
+      "type": "Konzentrationslager",
+      "period": "September 1941 bis Frühjahr 1943",
+      "est_prisoners": 3900,
+      "est_deaths": 1285,
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Plaszow",
+      "location_today": "Polen",
+      "type": "Konzentrationslager",
+      "period": "Dezember 1942 bis Januar 1945",
+      "est_prisoners": "(mindestens 150.000)",
+      "est_deaths": 8000,
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Ravensbrück",
+      "location_today": "Deutschland",
+      "type": "Frauen-Konzentrationslager",
+      "period": "Mai 1939 bis April 1945",
+      "est_prisoners": 150000,
+      "est_deaths": "20.000–30.000",
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Sachsenhausen",
+      "location_today": "Deutschland",
+      "type": "Konzentrationslager",
+      "period": "Juli 1936 bis April 1945",
+      "est_prisoners": "mindestens 200.000",
+      "est_deaths": "mindestens 30.000–40.000 (20.500 namentlich bekannte + 10.000–13.000 sowjetische Kriegsgefangene + weitere Opfer)",
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Stutthof",
+      "location_today": "Freie Stadt Danzig",
+      "type": "Konzentrationslager",
+      "period": "September 1939 bis Mai 1945",
+      "est_prisoners": 110000,
+      "est_deaths": 65000,
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Vaivara",
+      "location_today": "Estland",
+      "type": "Konzentrationslager",
+      "period": "September 1943 bis März(?) 1944",
+      "est_prisoners": 20000,
+      "est_deaths": 950,
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Warschau",
+      "location_today": "Polen",
+      "type": "Konzentrationslager",
+      "period": "Juli 1943 bis Juli 1944",
+      "est_prisoners": 40000,
+      "est_deaths": 20000,
+      "section": "Konzentrationslager der IKL bzw. des WVHA"
+    },
+    {
+      "name": "Vernichtungslager Kulmhof",
+      "location_today": "Polen",
+      "type": "Vernichtungslager",
+      "period": "Dezember 1941 bis April 1943 April 1944 bis Januar 1945",
+      "est_prisoners": "",
+      "est_deaths": "mindestens 160.000",
+      "section": "Vernichtungslager (nicht innerhalb des KZ-Systems)"
+    },
+    {
+      "name": "Vernichtungslager Maly Trostinez",
+      "location_today": "Belarus",
+      "type": "Vernichtungslager",
+      "period": "Mai 1942 bis Juli 1944",
+      "est_prisoners": "",
+      "est_deaths": "40.000–60.000",
+      "section": "Vernichtungslager (nicht innerhalb des KZ-Systems)"
+    },
+    {
+      "name": "Vernichtungslager Belzec",
+      "location_today": "Polen",
+      "type": "Vernichtungslager (Aktion Reinhardt)",
+      "period": "März bis Dezember 1942",
+      "est_prisoners": "",
+      "est_deaths": "434.508 Juden 1.000–1.500 Polen",
+      "section": "Vernichtungslager (nicht innerhalb des KZ-Systems)"
+    },
+    {
+      "name": "Vernichtungslager Sobibor",
+      "location_today": "Polen",
+      "type": "Vernichtungslager (Aktion Reinhardt)",
+      "period": "Mai 1942 bis Oktober 1943",
+      "est_prisoners": "",
+      "est_deaths": 250000,
+      "section": "Vernichtungslager (nicht innerhalb des KZ-Systems)"
+    },
+    {
+      "name": "Vernichtungslager Treblinka",
+      "location_today": "Polen",
+      "type": "Vernichtungslager (Aktion Reinhardt)",
+      "period": "Juli 1942 bis November 1943",
+      "est_prisoners": "",
+      "est_deaths": "mindestens 713.000 bis zu 1,1 Millionen.",
+      "section": "Vernichtungslager (nicht innerhalb des KZ-Systems)"
+    },
+    {
+      "name": "Fort Breendonk",
+      "location_today": "Belgien",
+      "type": "Durchgangslager, teilweise auch Langzeithäftlinge",
+      "period": "September 1940 bis August 1944",
+      "est_prisoners": "3.500–4.000",
+      "est_deaths": "300?",
+      "section": "Durchgangslager"
+    },
+    {
+      "name": "Mechelen",
+      "location_today": "Belgien",
+      "type": "Sammel- und Durchgangslager",
+      "period": "Juli 1942 bis September 1944",
+      "est_prisoners": 25300,
+      "est_deaths": 1221,
+      "section": "Durchgangslager"
+    },
+    {
+      "name": "Drancy",
+      "location_today": "Frankreich",
+      "type": "Sammel- und Durchgangslager",
+      "period": "",
+      "est_prisoners": "",
+      "est_deaths": "",
+      "section": "Durchgangslager"
+    },
+    {
+      "name": "Fünfbrunnen (Pafemillen)",
+      "location_today": "Luxemburg",
+      "type": "„Jüdisches Altersheim“, anschließend Durchgangslager",
+      "period": "Juli 1941 bis April 1943",
+      "est_prisoners": 300,
+      "est_deaths": "über 20",
+      "section": "Durchgangslager"
+    },
+    {
+      "name": "Nováky",
+      "location_today": "Slowakei",
+      "type": "Sammel- und Durchgangslager",
+      "period": "",
+      "est_prisoners": "",
+      "est_deaths": "",
+      "section": "Durchgangslager"
+    },
+    {
+      "name": "Risiera di San Sabba",
+      "location_today": "Italien",
+      "type": "Sammel- und Durchgangslager, StaLag, Polizeilager",
+      "period": "Oktober 1943 bis April 1945",
+      "est_prisoners": "20.000–25.000",
+      "est_deaths": "3.000–5.000",
+      "section": "Durchgangslager"
+    },
+    {
+      "name": "Konzentrationslager Sereď",
+      "location_today": "Slowakei",
+      "type": "Sammel- und Durchgangslager",
+      "period": "",
+      "est_prisoners": "",
+      "est_deaths": "",
+      "section": "Durchgangslager"
+    },
+    {
+      "name": "Theresienstadt",
+      "location_today": "Tschechien",
+      "type": "Gestapo-Gefängnis Sammel- und Durchgangslager",
+      "period": "Juni 1940 bis Mai 1945 November 1941 bis Mai 1945",
+      "est_prisoners": "32.000 140.000",
+      "est_deaths": "2.500 35.000",
+      "section": "Durchgangslager"
+    },
+    {
+      "name": "Westerbork",
+      "location_today": "Niederlande",
+      "type": "Sammel- und Durchgangslager",
+      "period": "Oktober 1939 bis April 1945",
+      "est_prisoners": 102000,
+      "est_deaths": "",
+      "section": "Durchgangslager"
+    },
+    {
+      "name": "Innsbruck-Reichenau",
+      "location_today": "Österreich",
+      "type": "Durchgangslager",
+      "period": "August 1941 bis 1945",
+      "est_prisoners": 8500,
+      "est_deaths": 130,
+      "section": "Durchgangslager"
+    },
+    {
+      "name": "Strasshof",
+      "location_today": "Österreich",
+      "type": "Durchgangslager",
+      "period": "",
+      "est_prisoners": "",
+      "est_deaths": "",
+      "section": "Durchgangslager"
+    },
+    {
+      "name": "Pruszków",
+      "location_today": "Polen",
+      "type": "Durchgangslager",
+      "period": "August 1944 bis Januar 1945",
+      "est_prisoners": 650000,
+      "est_deaths": "?",
+      "section": "Durchgangslager"
+    },
+    {
+      "name": "„Judenreservat“ in Nisko, unter Leitung Adolf Eichmanns geplant als Durchgangslager für ein riesiges „Judenreservat“",
+      "location_today": "Polen",
+      "type": "Lager der SS",
+      "period": "Oktober 1939 bis 14. April 1940",
+      "est_prisoners": 5000,
+      "est_deaths": "? (Rücktransport von 501 Häftlingen)",
+      "section": "Andere Lager"
+    },
+    {
+      "name": "Schutzhaftlager Welzheim",
+      "location_today": "Deutschland",
+      "type": "Lager der Gestapo",
+      "period": "1935 bis April 1945",
+      "est_prisoners": "mindestens 2.000",
+      "est_deaths": "(7)",
+      "section": "Andere Lager"
+    },
+    {
+      "name": "Zwangslager Berlin-Marzahn",
+      "location_today": "Deutschland",
+      "type": "",
+      "period": "Mai 1936 bis 1937",
+      "est_prisoners": "",
+      "est_deaths": "",
+      "section": "Andere Lager"
+    },
+    {
+      "name": "Moringen",
+      "location_today": "Deutschland",
+      "type": "Jugendkonzentrationslager für Jungen",
+      "period": "1940 bis April 1945",
+      "est_prisoners": 1400,
+      "est_deaths": "mindestens 89",
+      "section": "Jugendhaftstätten"
+    },
+    {
+      "name": "Uckermark",
+      "location_today": "Deutschland",
+      "type": "Jugendkonzentrationslager für Mädchen und junge Frauen",
+      "period": "Juni 1942 bis April 1945",
+      "est_prisoners": "unbekannt",
+      "est_deaths": "unbekannt",
+      "section": "Jugendhaftstätten"
+    },
+    {
+      "name": "Litzmannstadt (Łódź)",
+      "location_today": "Polen",
+      "type": "Jugendkonzentrationslager für polnische und tschechische Kinder und Jugendliche",
+      "period": "Dezember 1942 bis Januar 1945",
+      "est_prisoners": "unbekannt",
+      "est_deaths": "500?",
+      "section": "Jugendhaftstätten"
+    },
+    {
+      "name": "Fort Goeben",
+      "location_today": "Frankreich",
+      "type": "„SS-Sonderlager“",
+      "period": "Oktober 1943 bis August 1944",
+      "est_prisoners": "1.500–1.800 Widerstandskämpfer und andere",
+      "est_deaths": "mindestens 36",
+      "section": "Sonstige NS-Lager"
+    },
+    {
+      "name": "Bozen",
+      "location_today": "Italien",
+      "type": "„Polizeidurchgangslager“",
+      "period": "Juli 1944 bis April 1945",
+      "est_prisoners": "15.000 „Politische“, Juden und andere",
+      "est_deaths": "mindestens 20",
+      "section": "Sonstige NS-Lager"
+    },
+    {
+      "name": "Chaidari",
+      "location_today": "Griechenland",
+      "type": "\"Konzentrations- und Durchgangslager\"",
+      "period": "Oktober 1943 bis 1944",
+      "est_prisoners": "20.000 Widerstandskämpfer und Juden",
+      "est_deaths": "mind. 1.800",
+      "section": "Sonstige NS-Lager"
+    },
+    {
+      "name": "Lemberg-Janowska",
+      "location_today": "Ukraine",
+      "type": "Zwangsarbeitslager; Massenmordstätte",
+      "period": "September 1941 bis November 1943",
+      "est_prisoners": "",
+      "est_deaths": "100.000–200.000 (meist Juden)",
+      "section": "Sonstige NS-Lager"
+    },
+    {
+      "name": "Lackenbach",
+      "location_today": "Österreich",
+      "type": "„Polizeidurchgangslager“, Zwangsarbeit",
+      "period": "November 1940 bis 1945",
+      "est_prisoners": "",
+      "est_deaths": "(Roma, Juden)",
+      "section": "Sonstige NS-Lager"
+    },
+    {
+      "name": "Hodonín",
+      "location_today": "Tschechien",
+      "type": "Zigeunerlager (Protektorat Böhmen und Mähren)",
+      "period": "Juli 1940 bis 1945",
+      "est_prisoners": "",
+      "est_deaths": "(Roma)",
+      "section": "Sonstige NS-Lager"
+    },
+    {
+      "name": "Lety",
+      "location_today": "Tschechien",
+      "type": "Zigeunerlager (Protektorat Böhmen und Mähren)",
+      "period": "Dezember 1939 bis 1945",
+      "est_prisoners": "",
+      "est_deaths": "(Roma)",
+      "section": "Sonstige NS-Lager"
+    },
+    {
+      "name": "Gurs",
+      "location_today": "Frankreich",
+      "type": "Internierungslager (Vichy -Frankreich)",
+      "period": "1939–1944",
+      "est_prisoners": "",
+      "est_deaths": "(Diverse)",
+      "section": "Sonstige NS-Lager"
+    },
+    {
+      "name": "Le Vernet",
+      "location_today": "Frankreich",
+      "type": "Internierungslager (Vichy -Frankreich)",
+      "period": "1939–1944",
+      "est_prisoners": "",
+      "est_deaths": "(Diverse)",
+      "section": "Sonstige NS-Lager"
+    },
+    {
+      "name": "Jasenovac",
+      "location_today": "Kroatien",
+      "type": "Arbeits-, Vernichtungs- und Konzentrationslagerkomplex, davon drei Kinderlager (Ustascha -Kroatien)",
+      "period": "Ende 1941 bis 1945",
+      "est_prisoners": "insgesamt ca. 1.000.000, davon gleichzeitig maximal 3.000–5.000",
+      "est_deaths": "mindestens 80.000 und bis zu mehreren 100.000 (Serben, Juden, Muslime, Roma und orthodox-katholische; Kroaten)",
+      "section": "Sonstige NS-Lager"
+    },
+    {
+      "name": "Neue Bremm",
+      "location_today": "Saarbrücken, Deutschland",
+      "type": "Arbeitslager; „Erweitertes Polizeigefängnis“ (Gestapo)",
+      "period": "1940–1945",
+      "est_prisoners": 20000,
+      "est_deaths": "mehrere 100",
+      "section": "Sonstige NS-Lager"
+    },
+    {
+      "name": "Pavlos Melas",
+      "location_today": "Griechenland",
+      "type": "Polizeihaftlager des SD",
+      "period": "1941–1944",
+      "est_prisoners": "",
+      "est_deaths": "(Geiseln, Juden, Kommunisten)",
+      "section": "Sonstige NS-Lager"
+    },
+    {
+      "name": "Sicherungslager Schirmeck-Vorbruck",
+      "location_today": "Frankreich",
+      "type": "„Sicherungslager“ oder „Erziehungslager“ für Elsässer und Lothringer",
+      "period": "August 1940 bis 1944",
+      "est_prisoners": "15.000–25.000",
+      "est_deaths": "mindestens 76, Schätzungen bis 500",
+      "section": "Sonstige NS-Lager"
+    },
+    {
+      "name": "Internierungslager Skrochowitz",
+      "location_today": "Tschechien",
+      "type": "Internierungslager (Reichsgau Sudetenland)",
+      "period": "September 1939 bis?",
+      "est_prisoners": "",
+      "est_deaths": "(Polen, Juden)",
+      "section": "Sonstige NS-Lager"
+    }
+  ],
+  "meta": {
+    "title": "Konzentrationslager des Deutschen Reichs - Free Download",
+    "description": "Frühe Konzentrationslager und Konzentrationslager des NS-Regimes mit heutigem Standort, Typ, Bestehenszeit sowie geschätzter Zahl der Inhaftierten und Toten. Contains 108 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Konzentrationslager des Deutschen Reichs | ListBase",
+    "seo_description": "Download Konzentrationslager des Deutschen Reichs — 108 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 108 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Konzentrationslager_des_Deutschen_Reichs"
+    ]
+  }
+}
