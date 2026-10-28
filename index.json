@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-28T02:27:31.983Z",
-  "total_datasets": 499,
-  "total_records": 1872396,
+  "generated": "2026-10-28T02:27:34.502Z",
+  "total_datasets": 500,
+  "total_records": 1872935,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "politics",
@@ -5259,6 +5259,33 @@
         "xlsx": {
           "name": "de-eurovision-teilnahmen_DE.xlsx",
           "size": 13263
+        }
+      }
+    },
+    {
+      "id": "de-nummer-eins-alben-deutschland-2015-2025",
+      "name": "Nummer-eins-Alben in Deutschland 2015–2025",
+      "category": "music",
+      "record_count": 539,
+      "columns": [
+        "chart_year",
+        "period",
+        "weeks",
+        "artist",
+        "album",
+        "info"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Nummer-eins-Hits_in_Deutschland_(2025)",
+      "updated": "2026-10",
+      "size": 171310,
+      "files": {
+        "csv": {
+          "name": "de-nummer-eins-alben-deutschland-2015-2025_DE.csv",
+          "size": 109124
+        },
+        "xlsx": {
+          "name": "de-nummer-eins-alben-deutschland-2015-2025_DE.xlsx",
+          "size": 49265
         }
       }
     },
