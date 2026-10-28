@@ -1,0 +1,2608 @@
+{
+  "id": "de-brauereien-nrw-hessen-niedersachsen",
+  "name": "Brauereien in Nordrhein-Westfalen, Hessen und Niedersachsen",
+  "title": "Brauereien in Nordrhein-Westfalen, Hessen und Niedersachsen",
+  "description": "Aktive Brauereien in Nordrhein-Westfalen, Hessen und Niedersachsen mit Standort, Gründungsjahr und Region.",
+  "category": "food",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Brauereien_in_Nordrhein-Westfalen",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Brauereien_in_Nordrhein-Westfalen",
+  "updated": "2026-10",
+  "record_count": 319,
+  "columns": [
+    {
+      "key": "brewery",
+      "label": "Brewery",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "brewery": "Bergmann Brauerei",
+      "location": "Dortmund-Phoenix-West",
+      "founded": "2007",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Dortmunder Actien-Brauerei",
+      "location": "Dortmund-Nordmarkt",
+      "founded": "1875",
+      "notes": "Braut u. a. Brinkhoff’s, Dortmunder Hansa, Dortmunder Kronen, Dortmunder Stifts, Dortmunder Thier, Ritter, Schlösser und Wicküler",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Hövels Hausbrauerei",
+      "location": "Dortmund-City",
+      "founded": "1854",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Aktionsbrauerei Dähne",
+      "location": "Herne",
+      "founded": "2009",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Benno’s Brauhaus",
+      "location": "Witten",
+      "founded": "2016",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Lindenbrauerei Hausbrauerei des Kultur- und Kommunikationszentrum",
+      "location": "Unna",
+      "founded": "2002",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Privatbrauerei Moritz Fiege",
+      "location": "Bochum",
+      "founded": "1878",
+      "notes": "Die Marke Bernstein wurde 2012 von der insolventen Brauerei Schwelm Dr. Lohbeck GmbH und Co KG übernommen.",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Braumanufaktur Pohlmann",
+      "location": "Hagen, LWL-Freilichtmuseum",
+      "founded": "2014",
+      "notes": "seit 01/2019 im LWL-Freilichtmuseum in Hagen, zuvor in Witten",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "RuhrtalBrauerei",
+      "location": "Witten-Heven",
+      "founded": "2008",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Vormann Brauerei",
+      "location": "Hagen-Dahl",
+      "founded": "1877",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "KohleCraftBräu",
+      "location": "Lünen",
+      "founded": "2020",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Ostermann Braumanufaktur GmbH",
+      "location": "Schwerte",
+      "founded": "2020",
+      "notes": "Schwerter Brauerei seit 1863, geschlossen 1920. Wiedereröffnung 2020.",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Altenhofer Carolinenbräu",
+      "location": "Wenden -Altenhof",
+      "founded": "1999",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Altenrüthener Landbierbrauerei",
+      "location": "Rüthen - Altenrüthen",
+      "founded": "1994",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Arnsberger Mühlenbräu",
+      "location": "Arnsberg",
+      "founded": "2012",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Biermanufaktur Dangel",
+      "location": "Eslohe- Wenholthausen",
+      "founded": "",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Brauerei Mette GbR Metten Hefemännchen",
+      "location": "Finnentrop- Schliprüthen",
+      "founded": "2008",
+      "notes": "Gewerblich nebenberufliche Brauerei Keine festen Öffnungszeiten. Bier nur auf Vorbestellung",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Brauerei C. & A. Veltins",
+      "location": "Meschede-Grevenstein",
+      "founded": "1824",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Bräukels GbR",
+      "location": "Lennestadt-Altenhundem",
+      "founded": "2018",
+      "notes": "Nebengewerbs-Brauerei",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Esloher Brauhaus",
+      "location": "Eslohe",
+      "founded": "1988",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Freiherr von Fürstenberg Gaugreben’sche Verwaltung Hofbrauerei",
+      "location": "Olsberg-Bruchhausen",
+      "founded": "1993",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Gräflich zu Stolberg’sche Brauerei Westheim",
+      "location": "Marsberg-Westheim",
+      "founded": "1862",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Hotel Flurschütz",
+      "location": "Lennestadt-Saalhausen",
+      "founded": "2016",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Repetaler Heldenbräu",
+      "location": "Attendorn- Helden",
+      "founded": "2018",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Rönsahler Brauerei",
+      "location": "Kierspe-Rönsahl",
+      "founded": "2011",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Troll’s Brauhaus",
+      "location": "Medebach",
+      "founded": "2011",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Waldstadtbrauerei Iserlohn",
+      "location": "Iserlohn",
+      "founded": "2017",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Warsteiner Brauerei Haus Cramer",
+      "location": "Warstein",
+      "founded": "1753",
+      "notes": "Braut u. a. Isenbeck",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Brauerei Bosch",
+      "location": "Bad Laasphe",
+      "founded": "1705",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Braugemeinschaft Edertal",
+      "location": "Bad Berleburg-Beddelhausen",
+      "founded": "2011",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Brauhaus Johann Friedrich Irle",
+      "location": "Siegen-Kaan-Marienborn",
+      "founded": "1693",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Ilsen Brauerei",
+      "location": "Kreuztal- Littfeld",
+      "founded": "1994",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Krombacher Brauerei",
+      "location": "Kreuztal-Krombach",
+      "founded": "1803",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Brauhaus Zwiebel",
+      "location": "Soest",
+      "founded": "1993",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Gasthaus Himmelpforten",
+      "location": "Ense-Niederense",
+      "founded": "2014",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Lippstädter Brauerei Thombansen",
+      "location": "Lippstadt",
+      "founded": "2000",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Brauhof Wilshaus",
+      "location": "Hamm -Braam-Ostwennemar",
+      "founded": "2001",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Arnsberg"
+    },
+    {
+      "brewery": "Alter Bahnhof Oberkassel",
+      "location": "",
+      "founded": "2011",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Brauerei im Füchschen",
+      "location": "",
+      "founded": "1848",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Brauerei Kürzer",
+      "location": "",
+      "founded": "2010",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Brauerei Schumacher",
+      "location": "",
+      "founded": "1838",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Brauerei zum Schlüssel",
+      "location": "",
+      "founded": "1850",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Brauhaus Joh. Albrecht",
+      "location": "",
+      "founded": "",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Privatbrauerei Olbermann",
+      "location": "",
+      "founded": "2019",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Uerige Obergärige Hausbrauerei",
+      "location": "",
+      "founded": "1862",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "König-Brauerei",
+      "location": "Duisburg-Beeck",
+      "founded": "1858",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Restaurant Im Eichwäldchen",
+      "location": "Duisburg-Mündelheim",
+      "founded": "2013",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Privatbrauerei Jacob Stauder",
+      "location": "Essen-Altenessen",
+      "founded": "1867",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Dampfbierbrauerei Borbeck",
+      "location": "Essen-Borbeck",
+      "founded": "1872/1895",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Aspera-Brauerei Riese",
+      "location": "Mülheim an der Ruhr",
+      "founded": "",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Bottroper Bier",
+      "location": "Bottrop-Fuhlenbrock",
+      "founded": "2019",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Brauerei Diebels",
+      "location": "Issum",
+      "founded": "1878",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Brauerei Gleumes",
+      "location": "Krefeld",
+      "founded": "1896",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Brauerei Schlüffken",
+      "location": "Krefeld -Nordbahnhof",
+      "founded": "2018",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Bolten-Brauerei",
+      "location": "Korschenbroich",
+      "founded": "1266",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Brauerei Königshof",
+      "location": "Krefeld",
+      "founded": "2003",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Brauerei Zum Stefanus",
+      "location": "Mönchengladbach-Mennrath",
+      "founded": "1999",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Brauhaus Kalkarer Mühle",
+      "location": "Kalkar",
+      "founded": "1994",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Feldschlösschen Spezialbierbrauerei",
+      "location": "Hamminkeln",
+      "founded": "1852",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "fleuther",
+      "location": "Geldern",
+      "founded": "2016",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Geilings Bräu",
+      "location": "Kamp-Lintfort-Saalhoff",
+      "founded": "2012",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Hensen Brauerei",
+      "location": "Mönchengladbach",
+      "founded": "2017",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Hausbrauerei Schmitz Mönk",
+      "location": "Willich - Anrath",
+      "founded": "1903",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Brauerei Im Dom",
+      "location": "Neuss",
+      "founded": "1601",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Neue Willicher Brauerei",
+      "location": "Willich",
+      "founded": "2018",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Oettinger Brauerei",
+      "location": "Mönchengladbach",
+      "founded": "2003",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Walter Bräu",
+      "location": "Wesel-Büderich",
+      "founded": "2007",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Straelener Brauhaus",
+      "location": "Straelen",
+      "founded": "2015",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Brauprojekt 777",
+      "location": "Voerde-Spellen",
+      "founded": "2011",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Corma",
+      "location": "Meerbusch",
+      "founded": "2020",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Bockerter Heide Brauerei",
+      "location": "Viersen",
+      "founded": "2018",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Hausbrauerei Wirtschaft Richard Becker",
+      "location": "Remscheid",
+      "founded": "2006",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Wuppertaler Brauhaus",
+      "location": "Wuppertal-Barmen",
+      "founded": "1997",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Ratinger Brauhaus",
+      "location": "Ratingen",
+      "founded": "2005",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Remscheider Bräu",
+      "location": "Remscheid",
+      "founded": "2015",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Brauhaus Aloysianum",
+      "location": "Leichlingen (im Bahnhof)",
+      "founded": "2015",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Barmer Brauerei",
+      "location": "Wuppertal-Barmen",
+      "founded": "2019",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Düsseldorf"
+    },
+    {
+      "brewery": "Brauhaus Joh. Albrecht",
+      "location": "Bielefeld",
+      "founded": "",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Braustube Bielefelder Biermanufaktur",
+      "location": "Bielefeld",
+      "founded": "2015",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Brauerei Rotingdorf",
+      "location": "Werther-Rotingdorf",
+      "founded": "2006",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Brauerei Sandforth",
+      "location": "Steinhagen-Brockhagen",
+      "founded": "2014",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Gerry Weber Landhotel",
+      "location": "Halle (Westfalen)",
+      "founded": "2008",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Gräflich von Mengersen’sche Dampfbrauerei",
+      "location": "Brakel",
+      "founded": "1686",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Gütersloher Brauhaus",
+      "location": "Gütersloh",
+      "founded": "",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Herforder Brauerei",
+      "location": "Hiddenhausen",
+      "founded": "1878",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Hofbrauerei Marienhof Marks",
+      "location": "Delbrück - Bentfeld",
+      "founded": "2010",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Havarie Braumanufaktur",
+      "location": "Delbrück",
+      "founded": "2020",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Hotel-Residence Klosterpforte",
+      "location": "Harsewinkel-Marienfeld",
+      "founded": "2009",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Josefs-Brauerei",
+      "location": "Bad Lippspringe",
+      "founded": "2000",
+      "notes": "behindertengerechte Brauerei/ Integrationsfirma, bis 2021 in Bigge (Olsberg)",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Kleinbrauerei Hohler Landbier",
+      "location": "Olpe- Hohl",
+      "founded": "2017",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Kaiser Craft",
+      "location": "Bünde",
+      "founded": "2017",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Kloster Dalheim",
+      "location": "Lichtenau-Dalheim",
+      "founded": "2007",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Paderborner Brauerei Haus Cramer",
+      "location": "Paderborn",
+      "founded": "1825",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Privatbrauerei Ernst Barre",
+      "location": "Lübbecke",
+      "founded": "1842",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Privat-Brauerei Hohenfelde",
+      "location": "Langenberg",
+      "founded": "1845",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Privat-Brauerei Strate Detmold",
+      "location": "Detmold",
+      "founded": "1863",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Liebharts Privatbrauerei",
+      "location": "Detmold",
+      "founded": "2005",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Schwalenberger Brauzunft",
+      "location": "Schieder-Schwalenberg",
+      "founded": "2004",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Warburger Brauerei",
+      "location": "Warburg",
+      "founded": "1721",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Westfälisches Biermuseum",
+      "location": "Nieheim",
+      "founded": "2006",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Detmold / Ostwestfalen-Lippe"
+    },
+    {
+      "brewery": "Brauerei zur Malzmühle",
+      "location": "Altstadt-Nord",
+      "founded": "1858",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Cölner Hofbräu P. Josef Früh",
+      "location": "Feldkassel",
+      "founded": "1904",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Gasthaus-Brauerei Braustelle",
+      "location": "Ehrenfeld",
+      "founded": "2001",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Haus Kölscher Brautradition",
+      "location": "Mülheim",
+      "founded": "",
+      "notes": "Braut u. a. Sion Kölsch, Peters Kölsch, Gilden Kölsch, Küppers Kölsch und Dom Kölsch",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Brauerei Päffgen",
+      "location": "Altstadt-Nord",
+      "founded": "1883",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Privatbrauerei Gaffel Becker & Co",
+      "location": "Altstadt-Nord",
+      "founded": "1908",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Privat-Brauerei Heinrich Reissdorf",
+      "location": "Rodenkirchen",
+      "founded": "1894",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Brauerei & Brennerei Gebrüder Sünner",
+      "location": "Kalk",
+      "founded": "1830",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Weiss Bräu",
+      "location": "Neustadt-Süd",
+      "founded": "2012",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Ale*Mania",
+      "location": "Bonn",
+      "founded": "2014",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Aloysianum",
+      "location": "Leichlingen (Rheinland)",
+      "founded": "2015",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Alter Bahnhof Frechen",
+      "location": "Frechen",
+      "founded": "2012",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Anton’s Brauerei",
+      "location": "Erkelenz",
+      "founded": "2014",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Privatbrauerei Bischoff",
+      "location": "Brühl / Hürth",
+      "founded": "1962",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Brauereigasthof McMüller's",
+      "location": "Linnich - Kofferen",
+      "founded": "1998",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Brauhaus Am Ennert",
+      "location": "Bonn- Beuel",
+      "founded": "",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Brauhaus Bönnsch",
+      "location": "Bonn",
+      "founded": "",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Brauhaus Gummersbach",
+      "location": "Gummersbach",
+      "founded": "2002",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Brauhaus Rheinbach",
+      "location": "Rheinbach",
+      "founded": "1998",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Brauerei Am Roßtor",
+      "location": "Wassenberg",
+      "founded": "2014",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Erlebnisbrauerei Lohmar",
+      "location": "Lohmar",
+      "founded": "2010",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Erzquell-Brauerei Bielstein Haas & Co",
+      "location": "Wiehl-Bielstein",
+      "founded": "1976",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Heinenhof – Die Mikrobrauerei",
+      "location": "Pulheim-Orr",
+      "founded": "2018",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Gemünder Brauerei",
+      "location": "Schleiden-Gemünd",
+      "founded": "1961",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Hilfarther Brauhaus",
+      "location": "Hückelhoven - Hilfarth",
+      "founded": "2011",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Hotel Maueler Hofbräu / Gasthof Willmeroth",
+      "location": "Windeck -Mauel",
+      "founded": "2003",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Pfaffen Brauerei - Max Päffgen",
+      "location": "Lohmar",
+      "founded": "2002",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Privatbrauerei Jacob Rainer & Sohn",
+      "location": "Linnich-Welz",
+      "founded": "1828",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Schnaff Privatbrauerei",
+      "location": "Hückeswagen",
+      "founded": "2017",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Siegburger Brauhaus „Zum roten Löwen“",
+      "location": "Siegburg",
+      "founded": "1990",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Stadtbrauerei Troisdorf",
+      "location": "Troisdorf",
+      "founded": "",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "2T-Bauerei",
+      "location": "Lindlar",
+      "founded": "2017",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Köln"
+    },
+    {
+      "brewery": "Pinkus Müller",
+      "location": "Münster",
+      "founded": "1816",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Gruthaus-Brauerei",
+      "location": "Münster",
+      "founded": "2011",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Läuterwerk",
+      "location": "Münster",
+      "founded": "2015",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Finne Brauerei",
+      "location": "Münster",
+      "founded": "2016",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Bierbrauerei Dackel",
+      "location": "Münster",
+      "founded": "2017",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Böcken-Bräu",
+      "location": "Haltern am See",
+      "founded": "2016",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Brauhaus Kemker",
+      "location": "Everswinkel- Alverskirchen",
+      "founded": "2018",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Pott’s Naturpark-Brauerei",
+      "location": "Oelde",
+      "founded": "1769",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Rolinck",
+      "location": "Steinfurt -Burgsteinfurt",
+      "founded": "1820",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Privatbrauerei Stiefel Jürgens",
+      "location": "Beckum",
+      "founded": "1680",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Brauhaus Stephanus",
+      "location": "Coesfeld",
+      "founded": "1990",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Haus Klute",
+      "location": "Havixbeck -Poppenbeck",
+      "founded": "1993",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Brauhaus Rütershoff",
+      "location": "Castrop-Rauxel",
+      "founded": "2005",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Isendorfer Hausbrauerei",
+      "location": "Emsdetten -Isendorf",
+      "founded": "2009",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Lüdinghauser Brauwerkstatt",
+      "location": "Lüdinghausen",
+      "founded": "2015",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Suberg's bei Boente",
+      "location": "Recklinghausen",
+      "founded": "1988",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Teutoburger Brauerei",
+      "location": "Lengerich",
+      "founded": "2010",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Privatbrauerei Haverkamp",
+      "location": "Ibbenbüren- Laggenbeck",
+      "founded": "2015",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Winnis Brauwerkstatt",
+      "location": "Olfen",
+      "founded": "2017",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Britannia Beers",
+      "location": "Lienen",
+      "founded": "2012",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Major Braumanufaktur",
+      "location": "Borken",
+      "founded": "2020",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Brauerei Hagedorn",
+      "location": "Rhede",
+      "founded": "2024",
+      "notes": "",
+      "state": "Nordrhein-Westfalen",
+      "region": "Regierungsbezirk Münster"
+    },
+    {
+      "brewery": "Bad Homburger Brauhaus",
+      "location": "Bad Homburg",
+      "founded": "2000",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Kärrners Hausbrauerei",
+      "location": "Bad Orb",
+      "founded": "1998",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "BannenBerger Brauerei",
+      "location": "Bad König",
+      "founded": "2022",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Felwila",
+      "location": "Bad Vilbel",
+      "founded": "2020",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Landbrauerei Bierbacher",
+      "location": "Brensbach",
+      "founded": "",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Brauerei Grohe",
+      "location": "Darmstadt",
+      "founded": "1838",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Darmstädter Privatbrauerei",
+      "location": "Darmstadt",
+      "founded": "1847",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Darmstädter Ratskeller Hausbrauerei",
+      "location": "Darmstadt",
+      "founded": "1989",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Bierhannes Brauerei zur Mainkur",
+      "location": "Frankfurt am Main",
+      "founded": "1989",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "The Station",
+      "location": "Frankfurt am Main",
+      "founded": "2014",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Zu den 12 Aposteln",
+      "location": "Frankfurt am Main",
+      "founded": "",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Kultland Brauerei",
+      "location": "Friedberg",
+      "founded": "2016",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Kreativbrauerei Brewers Fantasy / Inh. Marcel Kevin Alberti",
+      "location": "Fürth",
+      "founded": "2015",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Wilhelmsbader HOF BRÄU",
+      "location": "Hanau",
+      "founded": "2012",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Halber Mond",
+      "location": "Heppenheim",
+      "founded": "2011",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Umstädter Brauhaus",
+      "location": "Groß-Umstadt",
+      "founded": "",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Idsteiner Brauhaus Alte Feuerwache",
+      "location": "Idstein",
+      "founded": "",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "WasserCraftWerk - Die Hausbrauerei",
+      "location": "Kelsterbach",
+      "founded": "",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Getränkeschmiede Schmidt",
+      "location": "Kronberg im Taunus",
+      "founded": "",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Rheingauer Gutsbräu",
+      "location": "Lorch",
+      "founded": "",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Back- und Brauhaus Drayß",
+      "location": "Lorsch",
+      "founded": "",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Hopfünf (von 2007 bis 2024 Hochstädter-Landbier / Inh. Ingo Rohmann)",
+      "location": "Maintal",
+      "founded": "2007",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Michelstädter Rathausbräu",
+      "location": "Michelstadt",
+      "founded": "1815",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Daum Bräu",
+      "location": "Michelstadt",
+      "founded": "",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Zum Wohl Brauerei / Inh. Andreas Wohlsperger",
+      "location": "Mörfelden-Walldorf",
+      "founded": "2017",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Privat-Brauerei Schmucker",
+      "location": "Mossautal",
+      "founded": "1780",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Niddaer Marktbräu",
+      "location": "Nidda",
+      "founded": "2003",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Alt-Oberurseler Brauhaus",
+      "location": "Oberursel",
+      "founded": "",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Das Brauhaus",
+      "location": "Rüsselsheim am Main",
+      "founded": "",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Rüsselsheimer Bräu",
+      "location": "Rüsselsheim am Main",
+      "founded": "",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Seligenstädter Klein-Brauerei",
+      "location": "Seligenstadt",
+      "founded": "1999",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Glaabsbräu",
+      "location": "Seligenstadt",
+      "founded": "1744",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Brauhaus Castel",
+      "location": "Wiesbaden",
+      "founded": "1990",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Darmstadt"
+    },
+    {
+      "brewery": "Brauhaus Obermühle",
+      "location": "Braunfels",
+      "founded": "2007",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Gießen"
+    },
+    {
+      "brewery": "Octobräu",
+      "location": "Lahnau",
+      "founded": "2018",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Gießen"
+    },
+    {
+      "brewery": "Lauterbacher Burgbrauerei",
+      "location": "Lauterbach",
+      "founded": "1527",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Gießen"
+    },
+    {
+      "brewery": "Licher Privatbrauerei Jhring-Melchior",
+      "location": "Lich",
+      "founded": "1854",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Gießen"
+    },
+    {
+      "brewery": "Gasthausbrauerei Petrimühle",
+      "location": "Selters",
+      "founded": "",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Gießen"
+    },
+    {
+      "brewery": "Fleisbacher Brauerei",
+      "location": "Sinn",
+      "founded": "2018",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Gießen"
+    },
+    {
+      "brewery": "DorfBräuHaus – Wartenberger Brauhaus",
+      "location": "Wartenberg",
+      "founded": "2011",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Gießen"
+    },
+    {
+      "brewery": "Brauhaus Bad Wildungen",
+      "location": "Bad Wildungen",
+      "founded": "1997",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Kassel"
+    },
+    {
+      "brewery": "Eschweger Klosterbrauerei",
+      "location": "Eschwege",
+      "founded": "1839",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Kassel"
+    },
+    {
+      "brewery": "Fritzlarer Dombräu",
+      "location": "Fritzlar",
+      "founded": "2003",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Kassel"
+    },
+    {
+      "brewery": "Brauhaus Wiesenmühle",
+      "location": "Fulda",
+      "founded": "",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Kassel"
+    },
+    {
+      "brewery": "Hohmanns Brauerei Fulda",
+      "location": "Fulda",
+      "founded": "2008",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Kassel"
+    },
+    {
+      "brewery": "Hochstiftliches Brauhaus Fulda",
+      "location": "Fulda",
+      "founded": "1848",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Kassel"
+    },
+    {
+      "brewery": "Fuldabrücker Landbrauerei",
+      "location": "Fuldabrück",
+      "founded": "1995",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Kassel"
+    },
+    {
+      "brewery": "Osterbach Brauerei",
+      "location": "Gemünden (Wohra)",
+      "founded": "2014",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Kassel"
+    },
+    {
+      "brewery": "Kellerwälder Brauhaus",
+      "location": "Gilserberg",
+      "founded": "2010",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Kassel"
+    },
+    {
+      "brewery": "Braumanufaktur Werk II",
+      "location": "Großalmerode",
+      "founded": "2013",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Kassel"
+    },
+    {
+      "brewery": "Oberländchen Braumanufaktur",
+      "location": "Neuhof (bei Fulda)",
+      "founded": "2018",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Kassel"
+    },
+    {
+      "brewery": "MausBräu",
+      "location": "Hünfeld-Dammersbach",
+      "founded": "2009",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Kassel"
+    },
+    {
+      "brewery": "Braumanufaktur Steckenpferd",
+      "location": "Kassel",
+      "founded": "2015",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Kassel"
+    },
+    {
+      "brewery": "BrauStübl Malsfeld",
+      "location": "Malsfeld",
+      "founded": "2013",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Kassel"
+    },
+    {
+      "brewery": "Biermanufaktur Rotenburg",
+      "location": "Rotenburg an der Fulda",
+      "founded": "2007",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Kassel"
+    },
+    {
+      "brewery": "Atelier VRAI",
+      "location": "Schrecksbach",
+      "founded": "2016",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Kassel"
+    },
+    {
+      "brewery": "Privatbrauerei Friedrich Haaß",
+      "location": "Schwalmstadt-Treysa",
+      "founded": "1820",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Kassel"
+    },
+    {
+      "brewery": "Rehbocks Braumanufaktur",
+      "location": "Wolfhagen",
+      "founded": "2016",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Kassel"
+    },
+    {
+      "brewery": "Schinkels Brauhaus",
+      "location": "Witzenhausen",
+      "founded": "1997",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Kassel"
+    },
+    {
+      "brewery": "Willinger Brauhaus",
+      "location": "Willingen (Upland)",
+      "founded": "1988",
+      "notes": "",
+      "state": "Hessen",
+      "region": "Regierungsbezirk Kassel"
+    },
+    {
+      "brewery": "Aper Brauhaus",
+      "location": "Apen",
+      "founded": "2023",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Auricher probier (Stadtperle)",
+      "location": "Aurich",
+      "founded": "2012",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Denner Bier",
+      "location": "Bad Münder",
+      "founded": "1998",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Heinder Naturtrüb",
+      "location": "Bad Salzdetfurth",
+      "founded": "2018",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "BOESE Brauerei",
+      "location": "Basdahl",
+      "founded": "2021",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Bleckeder Brauhaus",
+      "location": "Bleckede",
+      "founded": "2011",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Bäckerei & Konditorei Kretzschmar",
+      "location": "Braunschweig",
+      "founded": "2013",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Brauerei Braunschweig",
+      "location": "Braunschweig",
+      "founded": "1871",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Hofbrauhaus Wolters",
+      "location": "Braunschweig",
+      "founded": "1627",
+      "notes": "u. a. Hemelinger",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Liquid Story Brewing",
+      "location": "Braunschweig",
+      "founded": "2021",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "National Jürgens Brauerei",
+      "location": "Braunschweig",
+      "founded": "2016",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Schadt’s Brauerei-Gasthaus",
+      "location": "Braunschweig",
+      "founded": "1985",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Hoffbruhuus Heidhoff",
+      "location": "Bruchhausen-Vilsen",
+      "founded": "2016",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Frommanns Landhotel und Privatbrauerei",
+      "location": "Buchholz in der Nordheide",
+      "founded": "2006",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Burgwedeler Brauerei",
+      "location": "Burgwedel",
+      "founded": "2017",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Fuhrberger Brauerei",
+      "location": "Burgwedel",
+      "founded": "2021",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Brauerei Carl Betz GmbH",
+      "location": "Celle",
+      "founded": "1893",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Altenauer Brauerei",
+      "location": "Clausthal-Zellerfeld",
+      "founded": "1617 / 2021",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Kurbetriebsgesellschaft „Die Oberharzer“ mbH",
+      "location": "Clausthal-Zellerfeld",
+      "founded": "2014",
+      "notes": "Braustätte: \" Brauakademie im Kunsthandwerkerhof \"",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Forschungsbrauerei der TU Clausthal",
+      "location": "Clausthal-Zellerfeld",
+      "founded": "2019",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "WendlandBräu / Inh. Mathias Edler",
+      "location": "Clenze",
+      "founded": "2009",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Craftbeer Manufaktur",
+      "location": "Cramme",
+      "founded": "2018",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Brauerei Alte Liebe",
+      "location": "Cuxhaven",
+      "founded": "2022",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Die Bake Braumanufaktur",
+      "location": "Cuxhaven",
+      "founded": "2023",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Dachs Brauhandwerk GmbH",
+      "location": "Dahlenburg",
+      "founded": "2009",
+      "notes": "seit 2021 als GmbH",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Duderstädter Braumanufaktur GmbH & Co. KG",
+      "location": "Duderstadt",
+      "founded": "2013",
+      "notes": "Schankstätte: Hotel zum Löwen",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Zweibrückenbrauerei",
+      "location": "Edewecht",
+      "founded": "2022",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Brauerei „De Lütte“",
+      "location": "Egestorf",
+      "founded": "2024",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Egestorfer Fuhrenbräu",
+      "location": "Egestorf",
+      "founded": "2016",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Einbecker Brauhaus",
+      "location": "Einbeck",
+      "founded": "1967 (1378)",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Herrenholzer Privatbrauerei",
+      "location": "Goldenstedt",
+      "founded": "2023",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Brauhaus Goslar",
+      "location": "Goslar",
+      "founded": "2004",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Grasberger Brauerei",
+      "location": "Grasberg",
+      "founded": "2023",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Brauerei „Gut Strackholt“",
+      "location": "Großefehn",
+      "founded": "2021",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Ostfriesen Bräu – Historische Landbrauerei mit Brauhaus",
+      "location": "Großefehn",
+      "founded": "1999",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Brauhaus Ernst August",
+      "location": "Hannover",
+      "founded": "1986",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Privatbrauerei Herrenhausen",
+      "location": "Hannover",
+      "founded": "1868",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Gilde Brauerei",
+      "location": "Hannover",
+      "founded": "1546",
+      "notes": "u. a. Lindener Spezial",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Meiers Lebenslust",
+      "location": "Hannover",
+      "founded": "2012",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Mashsee",
+      "location": "Hannover",
+      "founded": "2014",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Ratsbrauhaus",
+      "location": "Hann. Münden",
+      "founded": "2003",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Hildesheimer Braumanufaktur",
+      "location": "Hildesheim",
+      "founded": "2016",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "HarryS Craft Beer",
+      "location": "Holle",
+      "founded": "2018",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Schwarzes Huhn – Biermanufaktur Grasdorf",
+      "location": "Holle",
+      "founded": "2009",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Altstadtbrauerei",
+      "location": "Jever",
+      "founded": "2009",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Friesisches Brauhaus zu Jever",
+      "location": "Jever",
+      "founded": "1848",
+      "notes": "u. a. Jever und Wicküler-Brauerei",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Olli's Braumanufaktur",
+      "location": "Katlenburg-Lindau",
+      "founded": "2022",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Handgebrautes",
+      "location": "Kirchlinteln",
+      "founded": "2020",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Mad Dukes Brewery",
+      "location": "Kissenbrück",
+      "founded": "2017",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Brauwerk 2010",
+      "location": "Königslutter am Elm",
+      "founded": "2015",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Brauerei Ranters",
+      "location": "Laar (Grafschaft Bentheim)",
+      "founded": "2021",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Häsefelder Privatbrauerei",
+      "location": "Langwedel (Weser)",
+      "founded": "2013",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Brauhaus Felsenkeller, Rupp-Bräu",
+      "location": "Lauenau",
+      "founded": "1861",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Braumanufaktur Wendhausen",
+      "location": "Lehre",
+      "founded": "2022",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Lupita Brauerei",
+      "location": "Luckau (Wendland)",
+      "founded": "2019",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Brau- & Tafelhaus Mälzer",
+      "location": "Lüneburg",
+      "founded": "1997",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Gasthausbrauerei und Brennerei Nolte",
+      "location": "Lüneburg",
+      "founded": "1906 / 1993",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Landhaus-Brauerei Borchert",
+      "location": "Lünne",
+      "founded": "1997",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Bootshaus Brauerei",
+      "location": "Marl",
+      "founded": "2020",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Martfelder Hausbräu",
+      "location": "Martfeld",
+      "founded": "2013",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Gesmolder Braugemeinschaft",
+      "location": "Melle",
+      "founded": "2012",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Brauhaus Alt Neuhaus",
+      "location": "Neuhaus (Oste)",
+      "founded": "2005",
+      "notes": "u. a. Cronemeyers",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Butjenter Brauhaus",
+      "location": "Nordenham",
+      "founded": "2016",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Norderneyer Brauhaus",
+      "location": "Norderney",
+      "founded": "2012",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Grafschafter Brauhaus",
+      "location": "Nordhorn",
+      "founded": "1999",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Hausbrauerei Meierhöfer",
+      "location": "Obernkirchen",
+      "founded": "1999",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Old Garden's Biermanufaktur",
+      "location": "Oldenburg",
+      "founded": "2021",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Oldenbräu",
+      "location": "Oldenburg",
+      "founded": "2018",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "OLs Oldenburger Brauerei",
+      "location": "Oldenburg",
+      "founded": "2010",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Brauerei Beura",
+      "location": "Osnabrück",
+      "founded": "2016",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Hausbrauerei Rampendahl",
+      "location": "Osnabrück",
+      "founded": "",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Osterholzer Hausbrauerei",
+      "location": "Osterholz-Scharmbeck",
+      "founded": "2014",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Dorster Kesselbräu – Hausbrauerei T. Beushausen",
+      "location": "Osterode am Harz",
+      "founded": "2012",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Die Bierbrauer TS",
+      "location": "Papenburg",
+      "founded": "2019",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Hüpscher Werkstatt Bräu",
+      "location": "Pattensen",
+      "founded": "2013",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Pibe's Brauerei",
+      "location": "Reinstorf",
+      "founded": "2016",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Goldbecker Mühlenbier",
+      "location": "Rinteln",
+      "founded": "2020",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "REIMOT-Braumanufaktur / Sarstedter Bierfreunde",
+      "location": "Sarstedt",
+      "founded": "2019",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Hausbrauerei in Klindworths Gasthof",
+      "location": "Sauensiek",
+      "founded": "2007",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Mühlenbrauerei der Wassermühle Karoxbostel",
+      "location": "Seevetal",
+      "founded": "2019",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Gutshofbrauerei Das Freie",
+      "location": "Sehnde",
+      "founded": "2014",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Selsinger Hof",
+      "location": "Selsingen",
+      "founded": "2008",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Brauhaus Joh. Albrecht",
+      "location": "Soltau",
+      "founded": "1990",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Robens Craft Beer",
+      "location": "Springe",
+      "founded": "2006",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Stader Ratskeller",
+      "location": "Stade",
+      "founded": "2008",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Brauerei Amtspforde",
+      "location": "Stadthagen",
+      "founded": "2019",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Brauhaus Steinfeld",
+      "location": "Steinfeld (Oldenburg)",
+      "founded": "2008",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Privatbrauerei Braugut Stuhr",
+      "location": "Stuhr",
+      "founded": "2014",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Burzel Bräu",
+      "location": "Tarmstedt",
+      "founded": "2014",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Bogler’s Brauerei",
+      "location": "Uetze",
+      "founded": "2011",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Bergbräu",
+      "location": "Uslar",
+      "founded": "1868",
+      "notes": "seit 2006 als GmbH & Co. KG",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Vareler Brauhaus",
+      "location": "Varel",
+      "founded": "2008",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Domschatten Privatbrauerei",
+      "location": "Vechta",
+      "founded": "2023",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Verdener Brau Manufaktur",
+      "location": "Verden (Aller)",
+      "founded": "2017",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Loyds Braumanufactur",
+      "location": "Wagenfeld",
+      "founded": "2015",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Hünziger Brauhaus Schnuckenbräu / Meyer Braugesellschaft",
+      "location": "Walsrode",
+      "founded": "2000",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Hausbrauerei im Tungeler Krug",
+      "location": "Wardenburg",
+      "founded": "2017",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Weerhuus Privatbrauerei",
+      "location": "Wathlingen",
+      "founded": "2018",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Carlenberger Landbrauerei",
+      "location": "Wennigsen (Deister)",
+      "founded": "2021",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Küstenbrauerei zu Werdum",
+      "location": "Werdum",
+      "founded": "2000",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Braugasthaus Mühlengrund",
+      "location": "Wienhausen",
+      "founded": "1998 (1586)",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Privatbrauerei Wittingen",
+      "location": "Wittingen",
+      "founded": "1429",
+      "notes": "seit 2006 als GmbH",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Anthons Privatbrauerei",
+      "location": "Wittmund",
+      "founded": "2018",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Denver's Craftbeer",
+      "location": "Wolfenbüttel",
+      "founded": "2017",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    },
+    {
+      "brewery": "Altes Brauhaus zu Fallersleben",
+      "location": "Wolfsburg",
+      "founded": "1986 (1765)",
+      "notes": "",
+      "state": "Niedersachsen",
+      "region": ""
+    }
+  ],
+  "meta": {
+    "title": "Brauereien in Nordrhein-Westfalen, Hessen und Niedersachsen - Free Download",
+    "description": "Aktive Brauereien in Nordrhein-Westfalen, Hessen und Niedersachsen mit Standort, Gründungsjahr und Region. Contains 319 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Brauereien in Nordrhein-Westfalen, Hessen und Niedersachsen | ListBase",
+    "seo_description": "Download Brauereien in Nordrhein-Westfalen, Hessen und Niedersachsen — 319 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 319 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Brauereien_in_Nordrhein-Westfalen"
+    ]
+  }
+}
