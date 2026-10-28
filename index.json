@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-28T02:27:29.624Z",
-  "total_datasets": 498,
-  "total_records": 1872313,
+  "generated": "2026-10-28T02:27:31.983Z",
+  "total_datasets": 499,
+  "total_records": 1872396,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -4970,6 +4970,31 @@
         "xlsx": {
           "name": "de-konzentrationslager-deutsches-reich_DE.xlsx",
           "size": 14052
+        }
+      }
+    },
+    {
+      "id": "de-kriege-schlachten-preussens",
+      "name": "Kriege und Schlachten Preußens",
+      "category": "history",
+      "record_count": 83,
+      "columns": [
+        "battle",
+        "date",
+        "notes",
+        "war"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Kriege_und_Schlachten_Preußens",
+      "updated": "2026-10",
+      "size": 30531,
+      "files": {
+        "csv": {
+          "name": "de-kriege-schlachten-preussens_DE.csv",
+          "size": 22859
+        },
+        "xlsx": {
+          "name": "de-kriege-schlachten-preussens_DE.xlsx",
+          "size": 15141
         }
       }
     },

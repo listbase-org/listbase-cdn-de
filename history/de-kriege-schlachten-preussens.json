@@ -1,0 +1,544 @@
+{
+  "id": "de-kriege-schlachten-preussens",
+  "name": "Kriege und Schlachten Preußens",
+  "title": "Kriege und Schlachten Preußens",
+  "description": "Schlachten und Gefechte unter preußischer Beteiligung, gegliedert nach Kriegen, mit Datum und Erläuterung.",
+  "category": "history",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Kriege_und_Schlachten_Preußens",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Kriege_und_Schlachten_Preußens",
+  "updated": "2026-10",
+  "record_count": 83,
+  "columns": [
+    {
+      "key": "battle",
+      "label": "Battle",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    },
+    {
+      "key": "war",
+      "label": "War",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "battle": "Schlacht bei Warschau",
+      "date": "28.–30. Juli 1656",
+      "notes": "In dieser Schlacht siegte das brandenburgische Heer zusammen mit den Schweden gegen das viel größere polnisch-krimtatarische Heer.",
+      "war": "Zweiter Nordischer Krieg (1655–1660)"
+    },
+    {
+      "battle": "Schlacht um Rathenow",
+      "date": "15. Juni 1675",
+      "notes": "Die brandenburgischen Truppen besiegten im ersten Gefecht des Schwedisch-Brandenburgischen Krieges die schwedischen Truppen.",
+      "war": "Schwedisch-Brandenburgischer Krieg (1674–1679)"
+    },
+    {
+      "battle": "Gefecht bei Nauen",
+      "date": "17. Juni 1675",
+      "notes": "Das Gefecht bei Nauen war ein Gefecht zwischen brandenburgisch-preußischen Vorhuttruppen und schwedischen Nachhuteinheiten im Vorfeld der einen Tag später folgenden Schlacht bei Fehrbellin.",
+      "war": "Schwedisch-Brandenburgischer Krieg (1674–1679)"
+    },
+    {
+      "battle": "Schlacht bei Fehrbellin",
+      "date": "18. Juni 1675",
+      "notes": "Die Schlacht war ein Rückzugsgefecht, bei dem die brandenburgischen die schwedischen Truppen schlugen.",
+      "war": "Schwedisch-Brandenburgischer Krieg (1674–1679)"
+    },
+    {
+      "battle": "Die große Schlittenfahrt",
+      "date": "Winter 1678",
+      "notes": "War ein kühnes Manöver Friedrich Wilhelms, der die Schweden erneut aus Brandenburg-Preußen vertrieb.",
+      "war": "Schwedisch-Brandenburgischer Krieg (1674–1679)"
+    },
+    {
+      "battle": "Belagerung von Ofen",
+      "date": "Mitte Juni 1686 bis 2. September 1686",
+      "notes": "Eine 74.000 Mann starke christliche Streitmacht (darunter 8.000 Brandenburger) belagerten ab Mitte Juni 1686 die ungarische Hauptstadt Ofen (ung. Buda). Ein türkisches Entsatzheer traf Mitte August vor Ofen ein, doch sein Kommandant scheute einen Großangriff gegen die Belagerungsarmee, und so kam es am 2. September 1686 zum erfolgreichen Generalsturm auf die Festung.",
+      "war": "Großer Türkenkrieg (1683–1699)"
+    },
+    {
+      "battle": "Erste Schlacht bei Höchstädt",
+      "date": "20. September 1703",
+      "notes": "Französische und bayerische Truppen errangen einen überzeugenden Sieg über ein Aufgebot Österreichs und des Reiches unter Graf Styrum. Lediglich der Widerstand preußischer Einheiten (6.000 Mann) unter Leopold I. von Anhalt-Dessau verhinderte die völlige Auflösung der österreichischen und Reichsverbände.",
+      "war": "Spanischer Erbfolgekrieg (1701–1714)"
+    },
+    {
+      "battle": "Zweite Schlacht bei Höchstädt",
+      "date": "13. August 1704",
+      "notes": "Einheiten der preußischen Armee (9.000 Mann) kämpften und siegten in der Reichsarmee unter Führung von Ludwig Wilhelm von Baden zusammen mit den verbündeten englisch-holländischen Truppen gegen die französische Armee.",
+      "war": "Spanischer Erbfolgekrieg (1701–1714)"
+    },
+    {
+      "battle": "Schlacht bei Cassano",
+      "date": "16. August 1705",
+      "notes": "Ein französisches besiegte ein österreichisch-preußisches Heer. Das preußische Kontingent wurde in dieser Schlacht zwar stark dezimiert, durch die Aktivitäten der Österreicher und Preußen konnte allerdings der Druck auf die belagerte Stadt Turin verringert werden, wodurch die Stadt bis zu ihrer Entsetzung aushalten konnte.",
+      "war": "Spanischer Erbfolgekrieg (1701–1714)"
+    },
+    {
+      "battle": "Schlacht bei Turin",
+      "date": "7. September 1706",
+      "notes": "Ein alliiertes Heer, bestehend aus Österreichern, Preußen (unter Führung von Leopold I. von Anhalt-Dessau) und Italienern, brach die Belagerung der Stadt Turin seitens der Franzosen auf und zwang die Franzosen dadurch, sich aus Norditalien vollständig zurückzuziehen.",
+      "war": "Spanischer Erbfolgekrieg (1701–1714)"
+    },
+    {
+      "battle": "Schlacht bei Oudenaarde",
+      "date": "11. Juli 1708",
+      "notes": "Ein 70.000 Mann starkes Heer aus Preußen, Briten und Holländern unter Befehl von Eugen von Savoyen und Fürst Marlborough besiegte die Franzosen bei Oudenaarde, Belgien.",
+      "war": "Spanischer Erbfolgekrieg (1701–1714)"
+    },
+    {
+      "battle": "Schlacht bei Malplaquet",
+      "date": "11. September 1709",
+      "notes": "Preußische Truppen kämpften und siegten in einer alliierten Armee, bestehend aus Österreichern, Holländern und Briten, gegen die Franzosen. Diese Schlacht forderte unter den Alliierten sehr hohe Verluste.",
+      "war": "Spanischer Erbfolgekrieg (1701–1714)"
+    },
+    {
+      "battle": "Pommernfeldzug 1715/1716",
+      "date": "1. Mai 1715 bis 19. April 1716",
+      "notes": "Ein alliiertes Heer bestehend aus Preußen, Dänen und Sachsen erobert ganz Schwedisch-Pommern.",
+      "war": "Großer Nordischer Krieg (1700–1721)"
+    },
+    {
+      "battle": "Erstürmung von Glogau",
+      "date": "8. Februar 1741",
+      "notes": "",
+      "war": "Österreichischer Erbfolgekrieg (1740–1748)"
+    },
+    {
+      "battle": "Gefecht bei Baumgarten",
+      "date": "27. Februar 1741",
+      "notes": "",
+      "war": "Österreichischer Erbfolgekrieg (1740–1748)"
+    },
+    {
+      "battle": "Schlacht bei Mollwitz",
+      "date": "10. April 1741",
+      "notes": "Die Schlacht fand zwischen einer 24.000 Mann starken preußischen Armee unter Friedrich II. und einem 20.000 Mann starken Heer Österreichs statt. Obwohl beide Seiten im Verlauf grobe militärische Fehler begingen (es war die erste Schlacht Friedrichs II.), gelang es Friedrich II. doch, am Ende den Sieg zu erringen.",
+      "war": "Österreichischer Erbfolgekrieg (1740–1748)"
+    },
+    {
+      "battle": "Gefecht bei Lesch",
+      "date": "14. März 1742",
+      "notes": "Gefecht im Zusammenhang mit der preußischen Besetzung von Brünn. Lösch (Líšeň) ist heute ein nordöstlicher Stadtteil von Brno",
+      "war": "Österreichischer Erbfolgekrieg (1740–1748)"
+    },
+    {
+      "battle": "Schlacht bei Chotusitz",
+      "date": "17. Mai 1742",
+      "notes": "In dieser Schlacht nahe Kuttenberg (Böhmen) besiegten am 17. Mai 1742 23.500 Preußen unter Friedrich II. 28.000 Österreicher unter dem Prinzen Karl von Lothringen. Letztere wollten die Preußen überfallen, fanden sie jedoch in Schlachtordnung und wurden von Friedrich II. in der linken Flanke angegriffen und geschlagen. Diese Schlacht führte unmittelbar zum Vorfrieden von Breslau.",
+      "war": "Österreichischer Erbfolgekrieg (1740–1748)"
+    },
+    {
+      "battle": "Gefecht bei Teltschitz",
+      "date": "19. November 1744",
+      "notes": "",
+      "war": "Österreichischer Erbfolgekrieg (1740–1748)"
+    },
+    {
+      "battle": "Gefecht bei Pless",
+      "date": "27. November 1744",
+      "notes": "",
+      "war": "Österreichischer Erbfolgekrieg (1740–1748)"
+    },
+    {
+      "battle": "Gefecht bei Ratibor",
+      "date": "9. Februar 1745",
+      "notes": "",
+      "war": "Österreichischer Erbfolgekrieg (1740–1748)"
+    },
+    {
+      "battle": "Schlacht bei Hohenfriedberg",
+      "date": "4. Juni 1745",
+      "notes": "In dieser Schlacht in Schlesien errangen die preußischen Truppen unter Führung Friedrichs II. einen entscheidenden Sieg gegen eine gleichstarke Armee aus Österreichern und Sachsen.",
+      "war": "Österreichischer Erbfolgekrieg (1740–1748)"
+    },
+    {
+      "battle": "Schlacht bei Soor",
+      "date": "30. September 1745",
+      "notes": "Die Preußen unter Friedrich II. schlugen hier mit 19.000 Mann die Österreicher und Sachsen mit 32.000 Mann, die vom Prinzen Karl von Lothringen befehligt wurden.",
+      "war": "Österreichischer Erbfolgekrieg (1740–1748)"
+    },
+    {
+      "battle": "Schlacht bei Hennersdorf",
+      "date": "23. November 1745",
+      "notes": "Eine preußische Armee unter Kommando von Friedrich dem Großen besiegte eine sächsische Armee unter Kommando von General Buchner.",
+      "war": "Österreichischer Erbfolgekrieg (1740–1748)"
+    },
+    {
+      "battle": "Gefecht bei Zittau",
+      "date": "27. November 1745",
+      "notes": "",
+      "war": "Österreichischer Erbfolgekrieg (1740–1748)"
+    },
+    {
+      "battle": "Schlacht bei Kesselsdorf",
+      "date": "15. Dezember 1745",
+      "notes": "Eine preußische Armee unter dem Kommando von Leopold I. von Dessau besiegte die verbündeten Österreicher und Sachsen unter Feldmarschall Rutowski. Die Schlacht bei Kesselsdorf war der letzte Sieg des Alten Dessauers, sie entschied den Krieg zugunsten Preußens.",
+      "war": "Österreichischer Erbfolgekrieg (1740–1748)"
+    },
+    {
+      "battle": "Kanonade von Valmy",
+      "date": "20. September 1792",
+      "notes": "Eine französische Armee brachte ein 35.000-Mann-Heer der Preußen zum Stehen. Die Franzosen gingen zur Offensive im Ersten Koalitionskrieg über. Das Gefecht erlangte historische Bedeutung, weil die Revolutionssoldaten Frankreichs dabei erstmals gegnerischen Truppen standhielten und so die Revolution retteten.",
+      "war": "Revolutions- und Napoléonische Kriege (1792–1807)"
+    },
+    {
+      "battle": "Belagerung von Mainz",
+      "date": "14. April bis 23. Juli 1793",
+      "notes": "Preußische Truppen und alliierte deutsche Truppen belagerten die von Franzosen besetzte Stadt. Am Ende kapitulierten 19.000 französische Soldaten vor den Alliierten und zogen ab.",
+      "war": "Revolutions- und Napoléonische Kriege (1792–1807)"
+    },
+    {
+      "battle": "Schlacht bei Pirmasens",
+      "date": "14. September 1793",
+      "notes": "War eine Schlacht zwischen französischen Truppen einerseits und preußischen und österreichischen Truppen andererseits und endete mit einem Sieg der Verbündeten. Nach einem heftigen Kampf wurde die Schlacht durch das Eingreifen preußischer Truppen unter dem Kommando von Generalleutnant Wilhelm de Courbière entschieden.",
+      "war": "Revolutions- und Napoléonische Kriege (1792–1807)"
+    },
+    {
+      "battle": "Gefecht bei Saalfeld",
+      "date": "10. Oktober 1806",
+      "notes": "Das Gefecht zwischen französischen und preußisch-sächsischen Vorhuten endete mit einer Niederlage der Preußen und dem Tod des populären Prinzen Louis Ferdinand. Das Gefecht hatte keinen strategischen Einfluss auf den Verlauf des Feldzuges, jedoch waren die moralischen Wirkungen auf preußischer Seite beträchtlich. In der Nacht vom 10. zum 11. Oktober 1806 brachen Unordnungen und Panikerscheinungen in der Truppe aus. Sächsische und preußische Truppen des Korps Hohenlohe hielten sich gegenseitig für Franzosen und beschossen sich untereinander.",
+      "war": "Revolutions- und Napoléonische Kriege (1792–1807)"
+    },
+    {
+      "battle": "Schlachten bei Jena und Auerstedt",
+      "date": "14. Oktober 1806",
+      "notes": "Die preußische Armee erlitt im Bündnis mit Sachsen in zwei Schlachten die größte Niederlage ihrer Geschichte. Auf dem fluchtartigen Rückzug gerieten die geschlagenen Truppen durcheinander, weshalb eine geordnete Befehlsführung unmöglich wurde. Während sich die Armee in den folgenden Wochen durch Kapitulationen von Truppen und Festungen nahezu auflöste und Sachsen ausschied, unterwarfen die Franzosen das Staatsgebiet bis zur Weichsel.",
+      "war": "Revolutions- und Napoléonische Kriege (1792–1807)"
+    },
+    {
+      "battle": "Schlacht bei Lübeck",
+      "date": "6. November 1806",
+      "notes": "Französische Truppen unter Nicolas-Jean de Dieu Soult besiegten ein 21.000 Mann starkes preußisches Restheer, das sich unter dem Kommando Gebhard Leberecht von Blüchers ins neutrale Lübeck gerettet hatte. Blücher musste darauf mit 8.000 verbliebenen Soldaten am 7. November kapitulieren.",
+      "war": "Revolutions- und Napoléonische Kriege (1792–1807)"
+    },
+    {
+      "battle": "Schlacht bei Preußisch Eylau",
+      "date": "7./8. Februar 1807",
+      "notes": "War in diesem Krieg die erste Schlacht zwischen Franzosen und den mit Preußen verbündeten Russen. Als sich das Kampfgeschehen zugunsten der Franzosen entwickelte, stieß das nach einem Eilmarsch erschienene preußische Korps unter Oberst Scharnhorst mit 8.000 Mann in die rechte Flanke der französischen Einheiten. Dadurch konnte der russische linke Flügel standhalten, und die Franzosen mussten zurückweichen. Die Schlacht endete unentschieden.",
+      "war": "Revolutions- und Napoléonische Kriege (1792–1807)"
+    },
+    {
+      "battle": "Belagerung Kolbergs 1807",
+      "date": "14. März bis 2. Juli 1807",
+      "notes": "War der einzige größere Erfolg Preußens in diesem Krieg. Die Festung konnte sich bis zum Waffenstillstand behaupten. Dadurch wurden die Namen Gneisenau, Schill und Nettelbeck bekannt. Das populäre Ereignis diente den preußischen Reformern als Argument zur Notwendigkeit der Einbeziehung der Bürger in das Staatsleben.",
+      "war": "Revolutions- und Napoléonische Kriege (1792–1807)"
+    },
+    {
+      "battle": "Schlacht bei Heilsberg",
+      "date": "10. Juni 1807",
+      "notes": "",
+      "war": "Revolutions- und Napoléonische Kriege (1792–1807)"
+    },
+    {
+      "battle": "Schlacht bei Friedland",
+      "date": "14. Juni 1807",
+      "notes": "",
+      "war": "Revolutions- und Napoléonische Kriege (1792–1807)"
+    },
+    {
+      "battle": "Gefecht bei Lüneburg",
+      "date": "2. April 1813",
+      "notes": "Das Gefecht war die erste größere Kampfhandlung nach dem Rückzug der in Russland geschlagenen Franzosen hinter die Elbe. Verbündete Preußen und Russen vernichteten ein französisches Korps, das am Vorabend die aufständische Stadt Lüneburg erobert hatte. Umstände und Ausgang des Gefechts waren von moralischer Bedeutung für die beginnenden Befreiungskriege.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Schlacht bei Großgörschen",
+      "date": "2. Mai 1813",
+      "notes": "Napoléon lockte die preußische und russische Armee in dieser Schlacht in eine Falle. Die Preußen und Russen mussten sich nach einem Tag schwerer Kämpfe zurückziehen.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Schlacht bei Bautzen",
+      "date": "20.–21. Mai 1813",
+      "notes": "Während des Rückzugs der preußisch-russischen Armee griff Napoléon bei Bautzen erneut an. Obwohl die Franzosen nur Gelände gewinnen konnten, wird diese Schlacht als Sieg für Napoléon gewertet.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Schlacht bei Großbeeren",
+      "date": "23. August 1813",
+      "notes": "Die preußische Armee unter Kommando von Friedrich Wilhelm Freiherr von Bülow besiegte ein französisches Heer unter Kommando von Marschall Reynier und Oudinot. Nach dieser Niederlage beschlossen Reynier und Oudinot den Rückzug nach Wittenberg. Der Angriff der napoléonischen Streitkräfte auf Berlin war gescheitert, die preußische Hauptstadt vor der Eroberung durch den Feind bewahrt.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Schlacht an der Katzbach",
+      "date": "26. August 1813",
+      "notes": "Die Schlacht war ein unbeabsichtigter Kampf und fand zwischen französischen Kräften unter Kommando von Marschall MacDonald und preußischen Kräften unter von Blücher statt. Sie endete mit einem Sieg der preußischen Armee.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Schlacht um Dresden",
+      "date": "26.–27. August 1813",
+      "notes": "Das Ergebnis der Schlacht war ein französischer Sieg unter Napoléon gegen die Kräfte der alliierten Österreicher, Russen und Preußen unter Kommando von Feldmarschall Schwarzenberg.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Schlacht bei Hagelberg",
+      "date": "27. August 1813",
+      "notes": "Die Schlacht ereignete sich in Folge der Schlacht bei Großbeeren. ein preußisches Kontingent (3.500 Reguläre, 8.000 Landwehr) unter General von Hirschfeld besiegten ein französisches Korps (etwa 10.000 Mann stark). Nur etwa 3.000 Franzosen erreichten Magdeburg. Die Schlacht, eigentlich nur ein Gefecht, war einer der ersten Einsätze der neugeschaffenen Landwehr und bestätigte den Wert dieser Truppe.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Schlacht bei Kulm",
+      "date": "29./30. August 1813",
+      "notes": "Eine 32.000 Mann starke Armee der Franzosen unter Kommando von General Vandamme verlor gegen ein alliiertes Heer aus Österreichern, Preußen und Russen.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Schlacht bei Dennewitz",
+      "date": "6. September 1813",
+      "notes": "In dieser Schlacht besiegten preußische Truppen der Nordarmee, die unter dem Oberbefehl des schwedischen Kronprinzen Karl XIV. Johann stand, die französische Armee und die mit ihr verbündeten Sachsen. Dieser Sieg hinderte Napoléon endgültig daran, nach Berlin vorzudringen, und war ein wichtiger Grundstein für die Völkerschlacht bei Leipzig.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Schlacht an der Göhrde",
+      "date": "16. September 1813",
+      "notes": "Ein preußisches Kontingent (12.300 Mann) besiegte eine 3.000 Mann starke französische Einheit unter Kommando von General Pécheux.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Völkerschlacht bei Leipzig",
+      "date": "16.–19. Oktober 1813",
+      "notes": "In der Schlacht kämpften die Truppen Kaiser Napoléons und die der Verbündeten Russland, Preußen und Österreich gegeneinander. Die Niederlage Napoléons bedeutete das Ende der französischen Fremdherrschaft in Deutschland. Die preußische Armee erlitt in dieser Schlacht 17.200 Tote und Verwundete.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Schlacht bei Brienne",
+      "date": "29. Januar 1814",
+      "notes": "Die Schlacht war ein Sieg der Franzosen gegen ein preußisch-russisches Heer unter Führung von Blücher.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Schlacht bei La Rothière",
+      "date": "1. Februar 1814",
+      "notes": "Ein 110.000 Mann starkes Heer der Preußen schlug ein 40.000 Mann starkes Heer der Franzosen unter Napoléon.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Schlacht bei Montmirail",
+      "date": "11. Februar 1814",
+      "notes": "Ein 20.000 Mann starkes Heer der Franzosen unter Napoléon siegte gegen die russischen und preußischen Truppen.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Schlacht bei Château-Thierry",
+      "date": "12. Februar 1814",
+      "notes": "Die preußisch-russischen Truppen verloren diese Schlacht gegen französische Truppen unter Napoléon.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Schlacht bei Vauchamps",
+      "date": "14. Februar 1814",
+      "notes": "18.000 Franzosen unter Napoléon schlugen ein 30.000 Mann starkes Heer unter von Blücher.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Schlacht bei Craonne",
+      "date": "7. März 1814",
+      "notes": "Die französischen Truppen konnten einen Sieg gegen das preußische und russische Heer erlangen.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Schlacht bei Laon",
+      "date": "9./10. März 1814",
+      "notes": "Die Schlacht bei Laon war ein Sieg der preußischen Armee unter von Blücher gegen die französische Armee im Norden Frankreichs.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Schlacht von Paris",
+      "date": "30./31. März 1814",
+      "notes": "Die Niederlage der Franzosen gegen die preußischen, österreichischen und russischen Armeen in dieser Schlacht führte zur direkten Abdankung Napoléons.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Schlacht bei Ligny",
+      "date": "16. Juni 1815",
+      "notes": "Ligny war Napoléons letzter Sieg. Er konnte die preußischen Truppen von Blüchers zwar schlagen, aber nicht völlig vernichten. Dies sollte in Waterloo fatale Folgen für ihn haben.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Schlacht bei Waterloo",
+      "date": "18. Juni 1815",
+      "notes": "Die Schlacht war die letzte entscheidende Schlacht der Befreiungskriege und endete mit einem Sieg der verbündeten britisch-preußischen Truppen unter von Blücher und Wellington. Napoléon Bonaparte musste als Folge abtreten und wurde nach St. Helena verbannt. Dadurch zählt diese Schlacht zu den weltgeschichtlich bedeutenden Schlachten.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Schlacht bei Wavre",
+      "date": "18./19. Juni 1815",
+      "notes": "Diese Schlacht markiert den Endpunkt der Befreiungskriege und wurde zwischen der preußischen Nachhut unter Johann von Thielmann und drei französischen Korps unter Emmanuel de Grouchy gefochten. Durch die Kampfhandlungen wurde das Eingreifen der französischen Verbände in der Schlacht bei Waterloo erfolgreich verhindert, was Napoléon vor der Niederlage hätte bewahren können.",
+      "war": "Befreiungskriege (1813–1815)"
+    },
+    {
+      "battle": "Schlacht bei Schleswig",
+      "date": "23. April 1848",
+      "notes": "",
+      "war": "Schleswig-Holsteinischer Krieg (1848–1851)"
+    },
+    {
+      "battle": "Düppeler Schanzen",
+      "date": "18. April 1864",
+      "notes": "Die Schlacht war die Entscheidungsschlacht im Deutsch-Dänischen Krieg. Die zehn Düppeler Schanzen wurden nach fast fünfwöchiger Belagerung am 18. April 1864 von den Preußen unter Prinz Friedrich Karl erstürmt.",
+      "war": "Deutsch-Dänischer Krieg (1864)"
+    },
+    {
+      "battle": "Schlacht von Alsen",
+      "date": "29. Juni 1864",
+      "notes": "Die Preußen unter Herwarth von Bittenfeld eroberten Alsen nach einer Nachtattacke gegen die dänische Armee. Die Schlacht stellte das letzte größere Ereignis in diesem Krieg dar. Die dänische Armee musste 3.000 Tote, Verwundete und Gefangene hinnehmen.",
+      "war": "Deutsch-Dänischer Krieg (1864)"
+    },
+    {
+      "battle": "Gefecht von Lundby",
+      "date": "23. Juli 1864",
+      "notes": "Das Gefecht war das letzte im Deutsch-Dänischen Krieg. Das Ergebnis war eine klare Niederlage für Dänemark. Die dänische Seite erlitt 32 Tote, 44 Verwundete und 20 Gefangene, während die Verluste der Preußen nur bei drei Verwundeten lag.",
+      "war": "Deutsch-Dänischer Krieg (1864)"
+    },
+    {
+      "battle": "Gefecht bei Hühnerwasser",
+      "date": "27. Juni 1866",
+      "notes": "Das Gefecht bei Hühnerwasser war das erste Gefecht des Deutschen Krieges zwischen Preußen und Österreichern am 27. Juni 1866. Die Preußen siegten.",
+      "war": "Deutscher Krieg (1866)"
+    },
+    {
+      "battle": "Schlacht bei Podol",
+      "date": "27. Juni 1866",
+      "notes": "Podol war der Schauplatz einer Schlacht des Deutschen Krieges zwischen Preußen und Österreichern. Die Preußen siegten.",
+      "war": "Deutscher Krieg (1866)"
+    },
+    {
+      "battle": "Gefechte bei Trautenau",
+      "date": "27. /28. Juni 1866",
+      "notes": "Im ersten Gefecht bei Trautenau zwang ein österreichisches Korps die Preußen zum Rückzug, am Folgetag wurde es von der preußischen Garde geschlagen. Auffallend waren die mit über 8.000 Mann vierfach höheren österreichischen Verluste, die auf den Gebrauch von Hinterladergewehren durch die preußische Armee zurückgingen.",
+      "war": "Deutscher Krieg (1866)"
+    },
+    {
+      "battle": "Schlacht bei Nachod",
+      "date": "27. Juni 1866",
+      "notes": "War eine Schlacht in Böhmen, bei der die preußische Armee die österreichische Armee besiegte.",
+      "war": "Deutscher Krieg (1866)"
+    },
+    {
+      "battle": "Schlacht bei Langensalza",
+      "date": "27. Juni 1866",
+      "notes": "Die Schlacht bei Langensalza war das erste größere Gefecht auf dem westlichen Kriegsschauplatz während des Deutschen Krieges. Auf diesem Kriegsschauplatz standen Preußen dem Königreich Hannover gegenüber. Die hannoversche Armee siegte zwar in dieser Schlacht; an der ungünstigen Gesamtlage änderte dies allerdings nur wenig, und schon am 29. Juni kapitulierte die hannoversche Armee.",
+      "war": "Deutscher Krieg (1866)"
+    },
+    {
+      "battle": "Schlacht bei Skalitz",
+      "date": "28. Juni 1866",
+      "notes": "Die Schlacht war ein Gefecht in Böhmen zwischen Preußen und Österreichern im Deutschen Krieg und endete mit einem Sieg der Preußen.",
+      "war": "Deutscher Krieg (1866)"
+    },
+    {
+      "battle": "Schlacht bei Münchengrätz",
+      "date": "28. Juni 1866",
+      "notes": "Die Schlacht fand zwischen Preußen und Österreichern in Böhmen statt, bei der die Preußen siegten.",
+      "war": "Deutscher Krieg (1866)"
+    },
+    {
+      "battle": "Schlacht bei Gitschin",
+      "date": "29. Juni 1866",
+      "notes": "Die Schlacht bei Gitschin fand in Böhmen zwischen Preußen einerseits und Österreichern und Sachsen andererseits statt. Sie endete mit einem Sieg der preußischen Armee.",
+      "war": "Deutscher Krieg (1866)"
+    },
+    {
+      "battle": "Gefecht bei Königinhof",
+      "date": "29. Juni 1866",
+      "notes": "Die Österreicher büßten etwa 600 Mann in Königinhof ein, davon 100 Tote. Die Preußen siegten und nahmen Königinhof mit verhältnismäßig geringen Opfern.",
+      "war": "Deutscher Krieg (1866)"
+    },
+    {
+      "battle": "Gefecht bei Schweinschädel",
+      "date": "29. Juni 1866",
+      "notes": "Das Gefecht fand in Böhmen zwischen Preußen und Österreichern statt. Trotz heftiger Gegenwehr waren die Österreicher den Preußen in den Kämpfen unterlegen. Bei den Kämpfen gab auf österreichischer Seite 1.750 Tote, die Zahl der preußischen Gefallenen betrug 394.",
+      "war": "Deutscher Krieg (1866)"
+    },
+    {
+      "battle": "Schlacht bei Königgrätz",
+      "date": "3. Juli 1866",
+      "notes": "In der Schlacht von Königgrätz trafen die Truppen Preußens auf die Armee der Österreicher. Es stellt die Entscheidungsschlacht des Krieges dar, bei der die Österreicher vernichtend geschlagen wurden.",
+      "war": "Deutscher Krieg (1866)"
+    },
+    {
+      "battle": "Gefechte bei Dermbach",
+      "date": "4. Juli 1866",
+      "notes": "Die Gefechte bei Dermbach bezeichnen ein am 4. Juli 1866 bei Dermbach in Thüringen stattgefundenen ersten Zusammenstoß zwischen preußischen und bayerischen Truppen. Das Gefecht endete mit einem Sieg der Preußen.",
+      "war": "Deutscher Krieg (1866)"
+    },
+    {
+      "battle": "Schlacht bei Kissingen",
+      "date": "10. Juli 1866",
+      "notes": "Die Schlacht bei Bad Kissingen fand zwischen Preußen und dem deutschen Bundesheer, bestehend aus süddeutschen und österreichischen Truppen, statt und endete mit einem preußischen Sieg.",
+      "war": "Deutscher Krieg (1866)"
+    },
+    {
+      "battle": "Gefechte bei Frohnhofen",
+      "date": "13. Juli 1866",
+      "notes": "Die Gefechte bei Frohnhofen in Bayern, endeten mit einem Sieg der Preußen über die Bundestruppen.",
+      "war": "Deutscher Krieg (1866)"
+    },
+    {
+      "battle": "Gefechte bei Aschaffenburg",
+      "date": "14. Juli 1866",
+      "notes": "Die Gefechte fanden zwischen Preußen und dem Bundesheer bestehend aus süddeutschen und österreichischen Truppen statt, bei der die Preußen siegten.",
+      "war": "Deutscher Krieg (1866)"
+    },
+    {
+      "battle": "Gefecht bei Blumenau",
+      "date": "22. Juli 1866",
+      "notes": "Das Gefecht war das letzte Gefecht des Deutschen Krieges zwischen Preußen und Österreichern, bei der auch hier die Preußen erfolgreich waren.",
+      "war": "Deutscher Krieg (1866)"
+    },
+    {
+      "battle": "Gefecht bei Hundheim",
+      "date": "23. Juli 1866",
+      "notes": "",
+      "war": "Deutscher Krieg (1866)"
+    },
+    {
+      "battle": "Gefechte bei Tauberbischofsheim",
+      "date": "24. Juli 1866",
+      "notes": "Das Gefecht fand zwischen Preußen und dem Bundesheer in Baden statt und endete mit einem preußischen Sieg.",
+      "war": "Deutscher Krieg (1866)"
+    },
+    {
+      "battle": "Gefecht bei Werbach",
+      "date": "24. Juli 1866",
+      "notes": "",
+      "war": "Deutscher Krieg (1866)"
+    },
+    {
+      "battle": "Gefechte bei Helmstadt",
+      "date": "25. Juli 1866",
+      "notes": "Die Gefechte waren eine Serie von Gefechten des Deutschen Krieges, die zwischen Preußen und dem Bundesheer ausgefochten wurde, wobei auch hier die Preußen erfolgreich waren.",
+      "war": "Deutscher Krieg (1866)"
+    },
+    {
+      "battle": "Gefechte bei Uettingen",
+      "date": "26. Juli 1866",
+      "notes": "Die Gefechte fanden zwischen preußischen Truppen und Truppen des Bundesheeres in Bayern statt. Preußen siegte.",
+      "war": "Deutscher Krieg (1866)"
+    }
+  ],
+  "meta": {
+    "title": "Kriege und Schlachten Preußens - Free Download",
+    "description": "Schlachten und Gefechte unter preußischer Beteiligung, gegliedert nach Kriegen, mit Datum und Erläuterung. Contains 83 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kriege und Schlachten Preußens | ListBase",
+    "seo_description": "Download Kriege und Schlachten Preußens — 83 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 83 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Kriege_und_Schlachten_Preußens"
+    ]
+  }
+}
