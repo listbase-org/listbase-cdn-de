@@ -1,0 +1,326 @@
+{
+  "id": "de-bundesminister-der-justiz",
+  "name": "Bundesminister der Justiz",
+  "title": "Bundesminister der Justiz",
+  "description": "Alle Bundesministerinnen und Bundesminister der Justiz seit 1949 mit Partei, Amtszeit, Amtstagen und Kabinett.",
+  "category": "law",
+  "source": "https://de.wikipedia.org/wiki/Bundesministerium_der_Justiz",
+  "source_url": "https://de.wikipedia.org/wiki/Bundesministerium_der_Justiz",
+  "updated": "2026-10",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "lifespan",
+      "label": "Lifespan",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    },
+    {
+      "key": "days_in_office",
+      "label": "Days In Office",
+      "type": "number"
+    },
+    {
+      "key": "cabinet",
+      "label": "Cabinet",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "Thomas Dehler",
+      "lifespan": "1897–1967",
+      "party": "FDP",
+      "term_start": "20. September 1949",
+      "term_end": "20. Oktober 1953",
+      "days_in_office": 1491,
+      "cabinet": "Adenauer I"
+    },
+    {
+      "no": 2,
+      "name": "Fritz Neumayer",
+      "lifespan": "1884–1973",
+      "party": "FDP",
+      "term_start": "20. Oktober 1953",
+      "term_end": "16. Oktober 1956",
+      "days_in_office": 1092,
+      "cabinet": "Adenauer II"
+    },
+    {
+      "no": 3,
+      "name": "Hans-Joachim von Merkatz",
+      "lifespan": "1905–1982",
+      "party": "DP",
+      "term_start": "16. Oktober 1956",
+      "term_end": "29. Oktober 1957",
+      "days_in_office": 378,
+      "cabinet": "Adenauer II"
+    },
+    {
+      "no": 4,
+      "name": "Fritz Schäffer",
+      "lifespan": "1888–1967",
+      "party": "CSU",
+      "term_start": "29. Oktober 1957",
+      "term_end": "14. November 1961",
+      "days_in_office": 1477,
+      "cabinet": "Adenauer III"
+    },
+    {
+      "no": 5,
+      "name": "Wolfgang Stammberger",
+      "lifespan": "1920–1982",
+      "party": "FDP",
+      "term_start": "14. November 1961",
+      "term_end": "19. November 1962",
+      "days_in_office": 370,
+      "cabinet": "Adenauer IV"
+    },
+    {
+      "no": 6,
+      "name": "Ewald Bucher",
+      "lifespan": "1914–1991",
+      "party": "FDP",
+      "term_start": "14. Dezember 1962",
+      "term_end": "27. März 1965",
+      "days_in_office": 834,
+      "cabinet": "Adenauer V Erhard I"
+    },
+    {
+      "no": 7,
+      "name": "Karl Weber",
+      "lifespan": "1898–1985",
+      "party": "CDU",
+      "term_start": "1. April 1965",
+      "term_end": "26. Oktober 1965",
+      "days_in_office": 208,
+      "cabinet": "Erhard I"
+    },
+    {
+      "no": 8,
+      "name": "Richard Jaeger",
+      "lifespan": "1913–1998",
+      "party": "CSU",
+      "term_start": "26. Oktober 1965",
+      "term_end": "30. November 1966",
+      "days_in_office": 400,
+      "cabinet": "Erhard II"
+    },
+    {
+      "no": 9,
+      "name": "Gustav Heinemann",
+      "lifespan": "1899–1976",
+      "party": "SPD",
+      "term_start": "1. Dezember 1966",
+      "term_end": "26. März 1969",
+      "days_in_office": 846,
+      "cabinet": "Kiesinger"
+    },
+    {
+      "no": 10,
+      "name": "Horst Ehmke",
+      "lifespan": "1927–2017",
+      "party": "SPD",
+      "term_start": "26. März 1969",
+      "term_end": "21. Oktober 1969",
+      "days_in_office": 209,
+      "cabinet": "Kiesinger"
+    },
+    {
+      "no": 11,
+      "name": "Gerhard Jahn",
+      "lifespan": "1927–1998",
+      "party": "SPD",
+      "term_start": "22. Oktober 1969",
+      "term_end": "7. Mai 1974",
+      "days_in_office": 1658,
+      "cabinet": "Brandt I Brandt II"
+    },
+    {
+      "no": 12,
+      "name": "Hans-Jochen Vogel",
+      "lifespan": "1926–2020",
+      "party": "SPD",
+      "term_start": "16. Mai 1974",
+      "term_end": "22. Januar 1981",
+      "days_in_office": 2443,
+      "cabinet": "Schmidt I Schmidt II Schmidt III"
+    },
+    {
+      "no": 13,
+      "name": "Jürgen Schmude",
+      "lifespan": "1936–2025",
+      "party": "SPD",
+      "term_start": "22. Januar 1981",
+      "term_end": "1. Oktober 1982",
+      "days_in_office": 617,
+      "cabinet": "Schmidt III"
+    },
+    {
+      "no": 14,
+      "name": "Hans A. Engelhard",
+      "lifespan": "1934–2008",
+      "party": "FDP",
+      "term_start": "4. Oktober 1982",
+      "term_end": "18. Januar 1991",
+      "days_in_office": 3028,
+      "cabinet": "Kohl I Kohl II Kohl III"
+    },
+    {
+      "no": 15,
+      "name": "Klaus Kinkel",
+      "lifespan": "1936–2019",
+      "party": "FDP (ab 1991)",
+      "term_start": "18. Januar 1991",
+      "term_end": "18. Mai 1992",
+      "days_in_office": 486,
+      "cabinet": "Kohl IV"
+    },
+    {
+      "no": 16,
+      "name": "Sabine Leutheusser-Schnarrenberger",
+      "lifespan": "* 1951",
+      "party": "FDP",
+      "term_start": "18. Mai 1992",
+      "term_end": "17. Januar 1996",
+      "days_in_office": 1339,
+      "cabinet": "Kohl IV Kohl V"
+    },
+    {
+      "no": 17,
+      "name": "Edzard Schmidt-Jortzig",
+      "lifespan": "* 1941",
+      "party": "FDP",
+      "term_start": "17. Januar 1996",
+      "term_end": "26. Oktober 1998",
+      "days_in_office": 1013,
+      "cabinet": "Kohl V"
+    },
+    {
+      "no": 18,
+      "name": "Herta Däubler-Gmelin",
+      "lifespan": "* 1943",
+      "party": "SPD",
+      "term_start": "27. Oktober 1998",
+      "term_end": "22. Oktober 2002",
+      "days_in_office": 1456,
+      "cabinet": "Schröder I"
+    },
+    {
+      "no": 19,
+      "name": "Brigitte Zypries",
+      "lifespan": "* 1953",
+      "party": "SPD",
+      "term_start": "22. Oktober 2002",
+      "term_end": "28. Oktober 2009",
+      "days_in_office": 2563,
+      "cabinet": "Schröder II Merkel I"
+    },
+    {
+      "no": 20,
+      "name": "Sabine Leutheusser-Schnarrenberger",
+      "lifespan": "* 1951",
+      "party": "FDP",
+      "term_start": "28. Oktober 2009",
+      "term_end": "17. Dezember 2013",
+      "days_in_office": "1.511 (insg. 2.850)",
+      "cabinet": "Merkel II"
+    },
+    {
+      "no": 21,
+      "name": "Heiko Maas",
+      "lifespan": "* 1966",
+      "party": "SPD",
+      "term_start": "17. Dezember 2013",
+      "term_end": "14. März 2018",
+      "days_in_office": 1548,
+      "cabinet": "Merkel III"
+    },
+    {
+      "no": 22,
+      "name": "Katarina Barley",
+      "lifespan": "* 1968",
+      "party": "SPD",
+      "term_start": "14. März 2018",
+      "term_end": "27. Juni 2019",
+      "days_in_office": 470,
+      "cabinet": "Merkel IV"
+    },
+    {
+      "no": 23,
+      "name": "Christine Lambrecht",
+      "lifespan": "* 1965",
+      "party": "SPD",
+      "term_start": "27. Juni 2019",
+      "term_end": "8. Dezember 2021",
+      "days_in_office": 895,
+      "cabinet": "Merkel IV"
+    },
+    {
+      "no": 24,
+      "name": "Marco Buschmann",
+      "lifespan": "* 1977",
+      "party": "FDP",
+      "term_start": "8. Dezember 2021",
+      "term_end": "7. November 2024",
+      "days_in_office": 1065,
+      "cabinet": "Scholz"
+    },
+    {
+      "no": 25,
+      "name": "Volker Wissing",
+      "lifespan": "* 1970",
+      "party": "parteilos",
+      "term_start": "7. November 2024",
+      "term_end": "6. Mai 2025",
+      "days_in_office": 180,
+      "cabinet": "Scholz"
+    },
+    {
+      "no": 26,
+      "name": "Stefanie Hubig",
+      "lifespan": "* 1968",
+      "party": "SPD",
+      "term_start": "6. Mai 2025",
+      "term_end": "Im Amt",
+      "days_in_office": 540,
+      "cabinet": "Merz"
+    }
+  ],
+  "meta": {
+    "title": "Bundesminister der Justiz - Free Download",
+    "description": "Alle Bundesministerinnen und Bundesminister der Justiz seit 1949 mit Partei, Amtszeit, Amtstagen und Kabinett. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bundesminister der Justiz | ListBase",
+    "seo_description": "Download Bundesminister der Justiz — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Bundesministerium_der_Justiz"
+    ]
+  }
+}
