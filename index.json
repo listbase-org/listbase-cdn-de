@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-28T02:27:34.502Z",
-  "total_datasets": 500,
-  "total_records": 1872935,
+  "generated": "2026-10-28T02:27:37.129Z",
+  "total_datasets": 501,
+  "total_records": 1873303,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "sports",
@@ -11557,6 +11557,28 @@
         "xlsx": {
           "name": "de-bundeslaender-bevoelkerungsentwicklung_DE.xlsx",
           "size": 8220
+        }
+      }
+    },
+    {
+      "id": "de-regionalzeitungen",
+      "name": "Deutsche Regionalzeitungen",
+      "category": "society",
+      "record_count": 368,
+      "columns": [
+        "newspaper"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_deutscher_Regionalzeitungen",
+      "updated": "2026-10",
+      "size": 23499,
+      "files": {
+        "csv": {
+          "name": "de-regionalzeitungen_DE.csv",
+          "size": 10562
+        },
+        "xlsx": {
+          "name": "de-regionalzeitungen_DE.xlsx",
+          "size": 13637
         }
       }
     },
