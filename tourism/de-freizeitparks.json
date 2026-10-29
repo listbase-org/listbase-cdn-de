@@ -1,0 +1,340 @@
+{
+  "id": "de-freizeitparks",
+  "name": "Freizeitparks in Deutschland",
+  "title": "Freizeitparks in Deutschland",
+  "description": "Liste der Freizeitparks in Deutschland mit Ort, Bundesland und Gründungsjahr.",
+  "category": "tourism",
+  "source": "https://de.wikipedia.org/wiki/Liste_von_Freizeitparks_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_von_Freizeitparks_in_Deutschland",
+  "updated": "2026-10",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "freizeitpark",
+      "label": "Freizeitpark",
+      "type": "string"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "gruendungsjahr",
+      "label": "Gruendungsjahr",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "freizeitpark": "Erlebnispark Tripsdrill",
+      "ort": "Cleebronn",
+      "bundesland": "Baden-Württemberg",
+      "gruendungsjahr": 1929
+    },
+    {
+      "freizeitpark": "Jaderpark",
+      "ort": "Jaderberg",
+      "bundesland": "Niedersachsen",
+      "gruendungsjahr": 1950
+    },
+    {
+      "freizeitpark": "Märchengarten im Blühenden Barock",
+      "ort": "Ludwigsburg",
+      "bundesland": "Baden-Württemberg",
+      "gruendungsjahr": 1959
+    },
+    {
+      "freizeitpark": "Panorama-Park Sauerland Wildpark",
+      "ort": "Kirchhundem",
+      "bundesland": "Nordrhein-Westfalen",
+      "gruendungsjahr": 1963
+    },
+    {
+      "freizeitpark": "Tolk-Schau",
+      "ort": "Tolk",
+      "bundesland": "Schleswig-Holstein",
+      "gruendungsjahr": 1963
+    },
+    {
+      "freizeitpark": "Eifelpark",
+      "ort": "Gondorf",
+      "bundesland": "Rheinland-Pfalz",
+      "gruendungsjahr": 1964
+    },
+    {
+      "freizeitpark": "Erlebnispark Ziegenhagen",
+      "ort": "Witzenhausen",
+      "bundesland": "Hessen",
+      "gruendungsjahr": 1964
+    },
+    {
+      "freizeitpark": "Taunus Wunderland",
+      "ort": "Schlangenbad",
+      "bundesland": "Hessen",
+      "gruendungsjahr": 1966
+    },
+    {
+      "freizeitpark": "Phantasialand",
+      "ort": "Brühl",
+      "bundesland": "Nordrhein-Westfalen",
+      "gruendungsjahr": 1967
+    },
+    {
+      "freizeitpark": "Freizeitpark Ruhpolding",
+      "ort": "Ruhpolding",
+      "bundesland": "Bayern",
+      "gruendungsjahr": 1967
+    },
+    {
+      "freizeitpark": "Freizeit-Land Geiselwind",
+      "ort": "Geiselwind",
+      "bundesland": "Bayern",
+      "gruendungsjahr": 1969
+    },
+    {
+      "freizeitpark": "Potts Park",
+      "ort": "Minden",
+      "bundesland": "Nordrhein-Westfalen",
+      "gruendungsjahr": 1969
+    },
+    {
+      "freizeitpark": "Safariland Stukenbrock",
+      "ort": "Schloß Holte-Stukenbrock",
+      "bundesland": "Nordrhein-Westfalen",
+      "gruendungsjahr": 1969
+    },
+    {
+      "freizeitpark": "Freizeitpark Lochmühle",
+      "ort": "Wehrheim",
+      "bundesland": "Hessen",
+      "gruendungsjahr": 1970
+    },
+    {
+      "freizeitpark": "Wild- und Freizeitpark Klotten",
+      "ort": "Klotten",
+      "bundesland": "Rheinland-Pfalz",
+      "gruendungsjahr": 1970
+    },
+    {
+      "freizeitpark": "Ferienzentrum Schloss Dankern",
+      "ort": "Haren",
+      "bundesland": "Niedersachsen",
+      "gruendungsjahr": 1971
+    },
+    {
+      "freizeitpark": "Churpfalzpark Loifling",
+      "ort": "Loifling",
+      "bundesland": "Bayern",
+      "gruendungsjahr": 1971
+    },
+    {
+      "freizeitpark": "Plopsaland Deutschland (bis 2025: Holiday Park)",
+      "ort": "Haßloch",
+      "bundesland": "Rheinland-Pfalz",
+      "gruendungsjahr": 1971
+    },
+    {
+      "freizeitpark": "Magic Park Verden",
+      "ort": "Verden",
+      "bundesland": "Niedersachsen",
+      "gruendungsjahr": 1971
+    },
+    {
+      "freizeitpark": "Fort Fun Abenteuerland",
+      "ort": "Bestwig",
+      "bundesland": "Nordrhein-Westfalen",
+      "gruendungsjahr": 1972
+    },
+    {
+      "freizeitpark": "Schwabenpark",
+      "ort": "Kaisersbach",
+      "bundesland": "Baden-Württemberg",
+      "gruendungsjahr": 1972
+    },
+    {
+      "freizeitpark": "Rasti-Land",
+      "ort": "Salzhemmendorf",
+      "bundesland": "Niedersachsen",
+      "gruendungsjahr": 1973
+    },
+    {
+      "freizeitpark": "Steinwasen-Park",
+      "ort": "Oberried",
+      "bundesland": "Baden-Württemberg",
+      "gruendungsjahr": 1974
+    },
+    {
+      "freizeitpark": "Serengeti-Park",
+      "ort": "Hodenhagen",
+      "bundesland": "Niedersachsen",
+      "gruendungsjahr": 1974
+    },
+    {
+      "freizeitpark": "Europa-Park",
+      "ort": "Rust",
+      "bundesland": "Baden-Württemberg",
+      "gruendungsjahr": 1975
+    },
+    {
+      "freizeitpark": "Erlebnispark Schloss Thurn",
+      "ort": "Heroldsbach",
+      "bundesland": "Bayern",
+      "gruendungsjahr": 1975
+    },
+    {
+      "freizeitpark": "Erse Park",
+      "ort": "Uetze",
+      "bundesland": "Niedersachsen",
+      "gruendungsjahr": 1976
+    },
+    {
+      "freizeitpark": "Hansa-Park (bis 1987: Hansaland)",
+      "ort": "Sierksdorf",
+      "bundesland": "Schleswig-Holstein",
+      "gruendungsjahr": 1977
+    },
+    {
+      "freizeitpark": "Heide Park Resort",
+      "ort": "Soltau",
+      "bundesland": "Niedersachsen",
+      "gruendungsjahr": 1978
+    },
+    {
+      "freizeitpark": "Affen- und Vogelpark Eckenhagen",
+      "ort": "Eckenhagen",
+      "bundesland": "Nordrhein-Westfalen",
+      "gruendungsjahr": 1981
+    },
+    {
+      "freizeitpark": "Bayern-Park",
+      "ort": "Reisbach",
+      "bundesland": "Bayern",
+      "gruendungsjahr": 1985
+    },
+    {
+      "freizeitpark": "Familienpark Funtastico",
+      "ort": "Schieder",
+      "bundesland": "Nordrhein-Westfalen",
+      "gruendungsjahr": 1991
+    },
+    {
+      "freizeitpark": "Playmobil FunPark",
+      "ort": "Zirndorf",
+      "bundesland": "Bayern",
+      "gruendungsjahr": 1991
+    },
+    {
+      "freizeitpark": "Familienpark Herne",
+      "ort": "Herne",
+      "bundesland": "Nordrhein-Westfalen",
+      "gruendungsjahr": 1994
+    },
+    {
+      "freizeitpark": "Erlebnispark Steinau",
+      "ort": "Steinau an der Straße",
+      "bundesland": "Hessen",
+      "gruendungsjahr": 1994
+    },
+    {
+      "freizeitpark": "Wunderland Kalkar",
+      "ort": "Kalkar",
+      "bundesland": "Nordrhein-Westfalen",
+      "gruendungsjahr": 1995
+    },
+    {
+      "freizeitpark": "Freizeitpark Plohn",
+      "ort": "Lengenfeld",
+      "bundesland": "Sachsen",
+      "gruendungsjahr": 1996
+    },
+    {
+      "freizeitpark": "Movie Park Germany (bis 2004: Warner Bros. Movie World)",
+      "ort": "Bottrop",
+      "bundesland": "Nordrhein-Westfalen",
+      "gruendungsjahr": 1996
+    },
+    {
+      "freizeitpark": "Erlebnispark Voglsam",
+      "ort": "Schönau",
+      "bundesland": "Bayern",
+      "gruendungsjahr": 1997
+    },
+    {
+      "freizeitpark": "Ravensburger Spieleland",
+      "ort": "Meckenbeuren",
+      "bundesland": "Baden-Württemberg",
+      "gruendungsjahr": 1998
+    },
+    {
+      "freizeitpark": "Irrland",
+      "ort": "Twisteden",
+      "bundesland": "Nordrhein-Westfalen",
+      "gruendungsjahr": 1999
+    },
+    {
+      "freizeitpark": "Funny-World",
+      "ort": "Kappel-Grafenhausen",
+      "bundesland": "Baden-Württemberg",
+      "gruendungsjahr": 1999
+    },
+    {
+      "freizeitpark": "Allgäu Skyline Park",
+      "ort": "Rammingen",
+      "bundesland": "Bayern",
+      "gruendungsjahr": 1999
+    },
+    {
+      "freizeitpark": "Legoland Deutschland",
+      "ort": "Günzburg",
+      "bundesland": "Bayern",
+      "gruendungsjahr": 2002
+    },
+    {
+      "freizeitpark": "Belantis",
+      "ort": "Leipzig",
+      "bundesland": "Sachsen",
+      "gruendungsjahr": 2003
+    },
+    {
+      "freizeitpark": "Elbe-Freizeitland Königstein",
+      "ort": "Königstein",
+      "bundesland": "Sachsen",
+      "gruendungsjahr": 2007
+    },
+    {
+      "freizeitpark": "Karls Erlebnisdorf Rövershagen",
+      "ort": "Rövershagen bei Rostock",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "gruendungsjahr": 2008
+    },
+    {
+      "freizeitpark": "Peppa Pig Park",
+      "ort": "Günzburg",
+      "bundesland": "Bayern",
+      "gruendungsjahr": 2024
+    },
+    {
+      "freizeitpark": "ArkaZien Erlebniswelt",
+      "ort": "Grimma bei Leipzig",
+      "bundesland": "Sachsen",
+      "gruendungsjahr": 2025
+    }
+  ],
+  "meta": {
+    "title": "Freizeitparks in Deutschland - Free Download",
+    "description": "Liste der Freizeitparks in Deutschland mit Ort, Bundesland und Gründungsjahr. Contains 49 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Freizeitparks in Deutschland | ListBase",
+    "seo_description": "Download Freizeitparks in Deutschland — 49 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 49 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_von_Freizeitparks_in_Deutschland"
+    ]
+  }
+}

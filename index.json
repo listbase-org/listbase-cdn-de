@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-29T02:17:41.312Z",
-  "total_datasets": 503,
-  "total_records": 1874127,
+  "generated": "2026-10-29T02:17:43.800Z",
+  "total_datasets": 504,
+  "total_records": 1874176,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "transport",
@@ -14287,6 +14287,31 @@
         "xlsx": {
           "name": "de-wochentage-quartale-aeren_DE.xlsx",
           "size": 7578
+        }
+      }
+    },
+    {
+      "id": "de-freizeitparks",
+      "name": "Freizeitparks in Deutschland",
+      "category": "tourism",
+      "record_count": 49,
+      "columns": [
+        "freizeitpark",
+        "ort",
+        "bundesland",
+        "gruendungsjahr"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_von_Freizeitparks_in_Deutschland",
+      "updated": "2026-10",
+      "size": 8968,
+      "files": {
+        "csv": {
+          "name": "de-freizeitparks_DE.csv",
+          "size": 2958
+        },
+        "xlsx": {
+          "name": "de-freizeitparks_DE.xlsx",
+          "size": 8750
         }
       }
     },
