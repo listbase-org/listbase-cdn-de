@@ -1,0 +1,491 @@
+{
+  "id": "de-musikhochschulen-konservatorien",
+  "name": "Musikhochschulen und Konservatorien in Deutschland",
+  "title": "Musikhochschulen und Konservatorien in Deutschland",
+  "description": "Liste der Musikhochschulen, Hochschulinstitute für Musik und Kirchenmusik, Konservatorien und Berufsfachschulen für Musik in Deutschland mit Ort und Typ.",
+  "category": "music",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Musikhochschulen_und_Konservatorien_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Musikhochschulen_und_Konservatorien_in_Deutschland",
+  "updated": "2026-10",
+  "record_count": 90,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "typ",
+      "label": "Typ",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Universität der Künste Berlin",
+      "ort": "Berlin",
+      "typ": "Universitäten für Musik"
+    },
+    {
+      "name": "Folkwang Universität der Künste",
+      "ort": "Essen (Dortmund, Duisburg, Bochum)",
+      "typ": "Universitäten für Musik"
+    },
+    {
+      "name": "Leopold Mozart College of Music (ehem. Leopold-Mozart-Zentrum) der Universität Augsburg (Abteilung für Musik)",
+      "ort": "Augsburg",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Hochschule für Musik „Hanns Eisler“ Berlin",
+      "ort": "Berlin",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Barenboim-Said-Akademie",
+      "ort": "Berlin",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "BIMM Institute Berlin",
+      "ort": "Berlin",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Hochschule für Künste Bremen",
+      "ort": "Bremen",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Brandenburgische Technische Universität Cottbus : Institut für Instrumental- und Gesangspädagogik (IGP), Cottbus",
+      "ort": "Cottbus",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Hochschule für Musik Detmold",
+      "ort": "Detmold",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Hochschule für Musik Carl Maria von Weber Dresden",
+      "ort": "Dresden",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Robert Schumann Hochschule Düsseldorf",
+      "ort": "Düsseldorf",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Internationale Musikakademie Anton Rubinstein",
+      "ort": "Düsseldorf",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Hochschule für Musik und Darstellende Kunst Frankfurt am Main",
+      "ort": "Frankfurt am Main",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Hochschule für Musik Freiburg",
+      "ort": "Freiburg im Breisgau",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Institut für Musik der Martin-Luther-Universität Halle-Wittenberg (Abteilung für Musik)",
+      "ort": "Halle (Saale)",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Hochschule für Musik und Theater Hamburg",
+      "ort": "Hamburg",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "BIMM Institute Hamburg",
+      "ort": "Hamburg",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Hochschule für Musik, Theater und Medien Hannover",
+      "ort": "Hannover",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Hochschule für Musik Karlsruhe",
+      "ort": "Karlsruhe",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Institut für Musik der Universität Kassel",
+      "ort": "Kassel",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Hochschule für Musik und Tanz Köln (mit den Standorten Aachen und Wuppertal)",
+      "ort": "Köln",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Hochschule für Musik und Theater „Felix Mendelssohn Bartholdy“ Leipzig",
+      "ort": "Leipzig",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Musikhochschule Lübeck",
+      "ort": "Lübeck",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Hochschule für Musik Mainz an der Johannes Gutenberg-Universität Mainz",
+      "ort": "Mainz",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Staatliche Hochschule für Musik und Darstellende Kunst Mannheim",
+      "ort": "Mannheim",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Hochschule für Musik und Theater München",
+      "ort": "München",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Musikhochschule Münster",
+      "ort": "Münster",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Hochschule für Musik Nürnberg",
+      "ort": "Nürnberg",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Institut für Musikwissenschaft und Musikpädagogik der Universität Osnabrück",
+      "ort": "Osnabrück",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Institut für Musik der Hochschule Osnabrück",
+      "ort": "Osnabrück",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Strukturbereich für Musik und Musikpädagogik an der Universität Potsdam",
+      "ort": "Potsdam",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Hochschule für Musik und Theater Rostock",
+      "ort": "Rostock",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Hochschule für Musik Saar",
+      "ort": "Saarbrücken",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Hochschule für Musik und Darstellende Kunst Stuttgart",
+      "ort": "Stuttgart",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Staatliche Hochschule für Musik Trossingen",
+      "ort": "Trossingen",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Hochschule für Musik „Franz Liszt“ Weimar",
+      "ort": "Weimar",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Bergische Universität Wuppertal : Fachgruppe Musikpädagogik",
+      "ort": "Wuppertal",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Hochschule für Musik Würzburg",
+      "ort": "Würzburg",
+      "typ": "Hochschulen, Hochschulinstitute und Universitätsabteilungen für Musik"
+    },
+    {
+      "name": "Hochschule für evangelische Kirchenmusik Bayreuth",
+      "ort": "Bayreuth",
+      "typ": "Hochschulen und Hochschulinstitute für Kirchenmusik mit Diplom Kirchenmusik A und B"
+    },
+    {
+      "name": "Evangelische Hochschule für Kirchenmusik Dresden",
+      "ort": "Dresden",
+      "typ": "Hochschulen und Hochschulinstitute für Kirchenmusik mit Diplom Kirchenmusik A und B"
+    },
+    {
+      "name": "Philosophische Fakultät der Universität Greifswald, Institut für Kirchenmusik und Musikwissenschaft",
+      "ort": "Greifswald",
+      "typ": "Hochschulen und Hochschulinstitute für Kirchenmusik mit Diplom Kirchenmusik A und B"
+    },
+    {
+      "name": "Evangelische Hochschule für Kirchenmusik Halle",
+      "ort": "Halle (Saale)",
+      "typ": "Hochschulen und Hochschulinstitute für Kirchenmusik mit Diplom Kirchenmusik A und B"
+    },
+    {
+      "name": "Hochschule für Kirchenmusik Heidelberg",
+      "ort": "Heidelberg",
+      "typ": "Hochschulen und Hochschulinstitute für Kirchenmusik mit Diplom Kirchenmusik A und B"
+    },
+    {
+      "name": "Hochschule für Kirchenmusik der Evangelischen Kirche von Westfalen, bis 2025 zusätzlich in Herford",
+      "ort": "Witten",
+      "typ": "Hochschulen und Hochschulinstitute für Kirchenmusik mit Diplom Kirchenmusik A und B"
+    },
+    {
+      "name": "Hochschule für Katholische Kirchenmusik und Musikpädagogik Regensburg",
+      "ort": "Regensburg",
+      "typ": "Hochschulen und Hochschulinstitute für Kirchenmusik mit Diplom Kirchenmusik A und B"
+    },
+    {
+      "name": "Katholische Hochschule für Kirchenmusik Rottenburg",
+      "ort": "Rottenburg",
+      "typ": "Hochschulen und Hochschulinstitute für Kirchenmusik mit Diplom Kirchenmusik A und B"
+    },
+    {
+      "name": "Evangelische Hochschule für Kirchenmusik Tübingen",
+      "ort": "Tübingen",
+      "typ": "Hochschulen und Hochschulinstitute für Kirchenmusik mit Diplom Kirchenmusik A und B"
+    },
+    {
+      "name": "Akademie für Tonkunst Darmstadt",
+      "ort": "Darmstadt",
+      "typ": "Konservatorien und Musikakademien mit Bachelor"
+    },
+    {
+      "name": "Dr. Hoch’s Konservatorium",
+      "ort": "Frankfurt am Main",
+      "typ": "Konservatorien und Musikakademien mit Bachelor"
+    },
+    {
+      "name": "Hamburger Konservatorium",
+      "ort": "Hamburg",
+      "typ": "Konservatorien und Musikakademien mit Bachelor"
+    },
+    {
+      "name": "Musikakademie der Stadt Kassel „Louis Spohr“",
+      "ort": "Kassel",
+      "typ": "Konservatorien und Musikakademien mit Bachelor"
+    },
+    {
+      "name": "Peter-Cornelius-Konservatorium der Stadt Mainz",
+      "ort": "Mainz",
+      "typ": "Konservatorien und Musikakademien mit Bachelor"
+    },
+    {
+      "name": "Popakademie Baden-Württemberg",
+      "ort": "Mannheim",
+      "typ": "Konservatorien und Musikakademien mit Bachelor"
+    },
+    {
+      "name": "Wiesbadener Musikakademie",
+      "ort": "Wiesbaden",
+      "typ": "Konservatorien und Musikakademien mit Bachelor"
+    },
+    {
+      "name": "Internationale Musikakademie Wuppertal IMAW (in Kooperation der Kalaidos University of Applied Sciences Switzerland)",
+      "ort": "Wuppertal",
+      "typ": "Konservatorien und Musikakademien mit Bachelor"
+    },
+    {
+      "name": "Berlin Opera Academy",
+      "ort": "Berlin",
+      "typ": "Konservatorien und Musikakademien"
+    },
+    {
+      "name": "Internationale Musikakademie Anton Rubinstein",
+      "ort": "Berlin",
+      "typ": "Konservatorien und Musikakademien"
+    },
+    {
+      "name": "Internationale Musikakademie Anton Rubinstein",
+      "ort": "Düsseldorf",
+      "typ": "Konservatorien und Musikakademien"
+    },
+    {
+      "name": "FMW Frankfurter Musikwerkstatt, Berufsfachschule",
+      "ort": "Frankfurt am Main",
+      "typ": "Konservatorien und Musikakademien"
+    },
+    {
+      "name": "Johannes-Brahms-Konservatorium",
+      "ort": "Hamburg",
+      "typ": "Konservatorien und Musikakademien"
+    },
+    {
+      "name": "Das Hamburger Mozarteum, Berufsfachschule für Musik",
+      "ort": "Hamburg",
+      "typ": "Konservatorien und Musikakademien"
+    },
+    {
+      "name": "Hamburg School of Music – staatlich anerkannte Berufsfachschule für Popularmusik (Rock, Pop, Jazz)",
+      "ort": "Hamburg",
+      "typ": "Konservatorien und Musikakademien"
+    },
+    {
+      "name": "staatlich anerkannte Berufsfachschule für Musik (Rock, Pop, Jazz)",
+      "ort": "Hannover Music College Hannover",
+      "typ": "Konservatorien und Musikakademien"
+    },
+    {
+      "name": "Hohner-Konservatorium",
+      "ort": "Trossingen",
+      "typ": "Konservatorien und Musikakademien"
+    },
+    {
+      "name": "Musikakademie",
+      "ort": "Wiesbaden",
+      "typ": "Konservatorien und Musikakademien"
+    },
+    {
+      "name": "Institut für Kirchenmusik Mainz",
+      "ort": "Mainz",
+      "typ": "Institute für Kirchenmusik"
+    },
+    {
+      "name": "Kirchenmusikalische Fortbildungsstätte Schlüchtern",
+      "ort": "Schlüchtern",
+      "typ": "Institute für Kirchenmusik"
+    },
+    {
+      "name": "Bischöfliches Kirchenmusikalisches Institut (Speyer)",
+      "ort": "Speyer",
+      "typ": "Institute für Kirchenmusik"
+    },
+    {
+      "name": "Berufsfachschule für Musik Altötting",
+      "ort": "Altötting",
+      "typ": "Berufsfachschulen für Musik in Bayern"
+    },
+    {
+      "name": "Berufsfachschule für Musik Bad Königshofen",
+      "ort": "Bad Königshofen",
+      "typ": "Berufsfachschulen für Musik in Bayern"
+    },
+    {
+      "name": "Berufsfachschule für Musik des Bezirks Mittelfranken",
+      "ort": "Dinkelsbühl",
+      "typ": "Berufsfachschulen für Musik in Bayern"
+    },
+    {
+      "name": "Berufsfachschule für Musik Oberfranken",
+      "ort": "Kronach",
+      "typ": "Berufsfachschulen für Musik in Bayern"
+    },
+    {
+      "name": "Berufsfachschule für Musik des Bezirks Schwaben",
+      "ort": "Krumbach",
+      "typ": "Berufsfachschulen für Musik in Bayern"
+    },
+    {
+      "name": "Berufsfachschule für Musik Fachrichtung Rock/Pop/Jazz der Neuen Jazzschool München e. V.",
+      "ort": "München",
+      "typ": "Berufsfachschulen für Musik in Bayern"
+    },
+    {
+      "name": "Musication Berufsfachschule für Musik (Fachbereich Klassik & Rock/Pop/Jazz)",
+      "ort": "Nürnberg",
+      "typ": "Berufsfachschulen für Musik in Bayern"
+    },
+    {
+      "name": "Berufsfachschule für Musik für Blinde, Sehbehinderte und Sehende",
+      "ort": "Nürnberg",
+      "typ": "Berufsfachschulen für Musik in Bayern"
+    },
+    {
+      "name": "Berufsfachschule für Musik Plattling",
+      "ort": "Plattling",
+      "typ": "Berufsfachschulen für Musik in Bayern"
+    },
+    {
+      "name": "Music College für Rock-Pop-Jazz",
+      "ort": "Regensburg",
+      "typ": "Berufsfachschulen für Musik in Bayern"
+    },
+    {
+      "name": "Berufsfachschule für Musik des Bezirks Oberpfalz",
+      "ort": "Sulzbach-Rosenberg",
+      "typ": "Berufsfachschulen für Musik in Bayern"
+    },
+    {
+      "name": "Konservatorium Cottbus",
+      "ort": "Cottbus",
+      "typ": "Konservatorien ohne Berufsabschluss"
+    },
+    {
+      "name": "Heinrich-Schütz-Konservatorium Dresden e. V.",
+      "ort": "Dresden",
+      "typ": "Konservatorien ohne Berufsabschluss"
+    },
+    {
+      "name": "Konservatorium „ Georg Friedrich Händel “",
+      "ort": "Halle (Saale)",
+      "typ": "Konservatorien ohne Berufsabschluss"
+    },
+    {
+      "name": "Musikseminar",
+      "ort": "Hamburg",
+      "typ": "Konservatorien ohne Berufsabschluss"
+    },
+    {
+      "name": "Badisches Konservatorium",
+      "ort": "Karlsruhe",
+      "typ": "Konservatorien ohne Berufsabschluss"
+    },
+    {
+      "name": "Lobanov-Musikakademie – für Klavier, Geige, Bratsche, Violoncello, Flöte und Klarinette",
+      "ort": "Köln",
+      "typ": "Konservatorien ohne Berufsabschluss"
+    },
+    {
+      "name": "Konservatorium Georg Philipp Telemann",
+      "ort": "Magdeburg",
+      "typ": "Konservatorien ohne Berufsabschluss"
+    },
+    {
+      "name": "Max-Reger-Konservatorium",
+      "ort": "Meiningen",
+      "typ": "Konservatorien ohne Berufsabschluss"
+    },
+    {
+      "name": "Vogtland-Konservatorium Clara Wieck",
+      "ort": "Plauen",
+      "typ": "Konservatorien ohne Berufsabschluss"
+    },
+    {
+      "name": "Robert-Schumann-Konservatorium",
+      "ort": "Zwickau",
+      "typ": "Konservatorien ohne Berufsabschluss"
+    },
+    {
+      "name": "Konservatorium Schwerin „ Johann Wilhelm Hertel “",
+      "ort": "Schwerin",
+      "typ": "Konservatorien ohne Berufsabschluss"
+    }
+  ],
+  "meta": {
+    "title": "Musikhochschulen und Konservatorien in Deutschland - Free Download",
+    "description": "Liste der Musikhochschulen, Hochschulinstitute für Musik und Kirchenmusik, Konservatorien und Berufsfachschulen für Musik in Deutschland mit Ort und Typ. Contains 90 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Musikhochschulen und Konservatorien in Deutschland | ListBase",
+    "seo_description": "Download Musikhochschulen und Konservatorien in Deutschland — 90 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 90 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Musikhochschulen_und_Konservatorien_in_Deutschland"
+    ]
+  }
+}

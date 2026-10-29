@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-29T02:17:46.374Z",
-  "total_datasets": 505,
-  "total_records": 1874185,
+  "generated": "2026-10-29T02:17:48.886Z",
+  "total_datasets": 506,
+  "total_records": 1874275,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -5310,6 +5310,30 @@
         "xlsx": {
           "name": "de-eurovision-teilnahmen_DE.xlsx",
           "size": 13263
+        }
+      }
+    },
+    {
+      "id": "de-musikhochschulen-konservatorien",
+      "name": "Musikhochschulen und Konservatorien in Deutschland",
+      "category": "music",
+      "record_count": 90,
+      "columns": [
+        "name",
+        "ort",
+        "typ"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Musikhochschulen_und_Konservatorien_in_Deutschland",
+      "updated": "2026-10",
+      "size": 17592,
+      "files": {
+        "csv": {
+          "name": "de-musikhochschulen-konservatorien_DE.csv",
+          "size": 10941
+        },
+        "xlsx": {
+          "name": "de-musikhochschulen-konservatorien_DE.xlsx",
+          "size": 10063
         }
       }
     },
