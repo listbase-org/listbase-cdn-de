@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-29T02:17:43.800Z",
-  "total_datasets": 504,
-  "total_records": 1874176,
+  "generated": "2026-10-29T02:17:46.374Z",
+  "total_datasets": 505,
+  "total_records": 1874185,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -11608,6 +11608,32 @@
         "xlsx": {
           "name": "de-bundeslaender-bevoelkerungsentwicklung_DE.xlsx",
           "size": 8220
+        }
+      }
+    },
+    {
+      "id": "de-gewerkschaften",
+      "name": "Gewerkschaften in Deutschland (DGB)",
+      "category": "society",
+      "record_count": 9,
+      "columns": [
+        "name",
+        "gegruendet",
+        "mitglieder",
+        "beschreibung",
+        "website"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_von_Gewerkschaften_in_Deutschland",
+      "updated": "2026-10",
+      "size": 4359,
+      "files": {
+        "csv": {
+          "name": "de-gewerkschaften_DE.csv",
+          "size": 1772
+        },
+        "xlsx": {
+          "name": "de-gewerkschaften_DE.xlsx",
+          "size": 7748
         }
       }
     },

@@ -1,0 +1,114 @@
+{
+  "id": "de-gewerkschaften",
+  "name": "Gewerkschaften in Deutschland (DGB)",
+  "title": "Gewerkschaften in Deutschland (DGB)",
+  "description": "Die Mitgliedsgewerkschaften des Deutschen Gewerkschaftsbundes mit Gründungsjahr, Mitgliederzahl und Beschreibung.",
+  "category": "society",
+  "source": "https://de.wikipedia.org/wiki/Liste_von_Gewerkschaften_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_von_Gewerkschaften_in_Deutschland",
+  "updated": "2026-10",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gegruendet",
+      "label": "Gegruendet",
+      "type": "number"
+    },
+    {
+      "key": "mitglieder",
+      "label": "Mitglieder",
+      "type": "number"
+    },
+    {
+      "key": "beschreibung",
+      "label": "Beschreibung",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "IG Metall",
+      "gegruendet": 1949,
+      "mitglieder": 2262661,
+      "beschreibung": "Sitz in Frankfurt am Main, mit den in ihr aufgegangenen Gewerkschaften, Gewerkschaft Holz und Kunststoff und Gewerkschaft Textil-Bekleidung.",
+      "website": "www.igmetall.de"
+    },
+    {
+      "name": "Vereinte Dienstleistungsgewerkschaft",
+      "gegruendet": 2001,
+      "mitglieder": 1987336,
+      "beschreibung": "Sitz in Berlin, 2001 entstanden aus der Gewerkschaft Handel, Banken und Versicherungen (HBV), Gewerkschaft Öffentliche Dienste, Transport und Verkehr (ÖTV); Deutsche Postgewerkschaft (DPG); Deutsche Angestellten-Gewerkschaft (DAG) – vorher keine DGB-Gewerkschaft – und aus der IG Medien (inkl. Deutsche Journalistinnen- und Journalisten-Union (dju)), die 1989 aus IG Druck und Papier und Gewerkschaft Kunst hervorging.",
+      "website": "www.verdi.de"
+    },
+    {
+      "name": "IG Bergbau, Chemie, Energie",
+      "gegruendet": 1997,
+      "mitglieder": 637623,
+      "beschreibung": "Sitz in Hannover, 1997 entstanden aus IG Bergbau und Energie, IG Chemie, Papier, Keramik und Gewerkschaft Leder.",
+      "website": "www.igbce.de"
+    },
+    {
+      "name": "IG Bauen-Agrar-Umwelt",
+      "gegruendet": 1996,
+      "mitglieder": 254525,
+      "beschreibung": "Sitz in Frankfurt am Main, am 1. Januar 1996 entstanden aus IG Bau-Steine-Erden (IG BSE) und Gewerkschaft Gartenbau, Land- und Forstwirtschaft (GGLF). IGBAU hatte im Jahr 1996 720,000 Mitglieder.",
+      "website": "www.igbau.de"
+    },
+    {
+      "name": "Gewerkschaft Erziehung und Wissenschaft",
+      "gegruendet": 1948,
+      "mitglieder": 278243,
+      "beschreibung": "Sitz in Frankfurt am Main",
+      "website": "www.gew.de"
+    },
+    {
+      "name": "Eisenbahn- und Verkehrsgewerkschaft",
+      "gegruendet": 2010,
+      "mitglieder": 189975,
+      "beschreibung": "EVG entstanden 2010 aus TRANSNET (Gewerkschaft der Eisenbahner Deutschlands) und Verkehrsgewerkschaft GDBA",
+      "website": "www.evg-online.org"
+    },
+    {
+      "name": "Gewerkschaft Nahrung-Genuss-Gaststätten",
+      "gegruendet": 1865,
+      "mitglieder": 199921,
+      "beschreibung": "Sitz in Hamburg",
+      "website": "www.ngg.net"
+    },
+    {
+      "name": "Gewerkschaft der Polizei",
+      "gegruendet": 1950,
+      "mitglieder": 185153,
+      "beschreibung": "Sitz in Berlin mit Geschäftsstelle in Hilden",
+      "website": "www.gdp.de"
+    },
+    {
+      "name": "Deutscher Gewerkschaftsbund",
+      "gegruendet": 1949,
+      "mitglieder": 5995437,
+      "beschreibung": "DGB ist der größte Gewerkschaftsbund in Deutschland.",
+      "website": "www.dgb.de"
+    }
+  ],
+  "meta": {
+    "title": "Gewerkschaften in Deutschland (DGB) - Free Download",
+    "description": "Die Mitgliedsgewerkschaften des Deutschen Gewerkschaftsbundes mit Gründungsjahr, Mitgliederzahl und Beschreibung. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Gewerkschaften in Deutschland (DGB) | ListBase",
+    "seo_description": "Download Gewerkschaften in Deutschland (DGB) — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_von_Gewerkschaften_in_Deutschland"
+    ]
+  }
+}
