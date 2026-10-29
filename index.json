@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-29T02:17:38.363Z",
-  "total_datasets": 502,
-  "total_records": 1874104,
+  "generated": "2026-10-29T02:17:41.312Z",
+  "total_datasets": 503,
+  "total_records": 1874127,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "history",
@@ -4886,6 +4886,34 @@
         "xlsx": {
           "name": "de-akademische-lehrkrankenhaeuser_DE.xlsx",
           "size": 25526
+        }
+      }
+    },
+    {
+      "id": "de-bundesgesundheitsminister",
+      "name": "Bundesminister für Gesundheit",
+      "category": "health",
+      "record_count": 23,
+      "columns": [
+        "nr",
+        "name",
+        "lebensdaten",
+        "partei",
+        "amtszeit_beginn",
+        "amtszeit_ende",
+        "amtsbezeichnung"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Gesundheitsminister",
+      "updated": "2026-10",
+      "size": 8140,
+      "files": {
+        "csv": {
+          "name": "de-bundesgesundheitsminister_DE.csv",
+          "size": 2752
+        },
+        "xlsx": {
+          "name": "de-bundesgesundheitsminister_DE.xlsx",
+          "size": 8199
         }
       }
     },

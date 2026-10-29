@@ -1,0 +1,268 @@
+{
+  "id": "de-bundesgesundheitsminister",
+  "name": "Bundesminister für Gesundheit",
+  "title": "Bundesminister für Gesundheit",
+  "description": "Liste der deutschen Bundesgesundheitsminister seit 1961 mit Lebensdaten, Partei, Amtszeit und jeweiliger Amtsbezeichnung des Ressorts.",
+  "category": "health",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Gesundheitsminister",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Gesundheitsminister",
+  "updated": "2026-10",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "lebensdaten",
+      "label": "Lebensdaten",
+      "type": "string"
+    },
+    {
+      "key": "partei",
+      "label": "Partei",
+      "type": "string"
+    },
+    {
+      "key": "amtszeit_beginn",
+      "label": "Amtszeit Beginn",
+      "type": "string"
+    },
+    {
+      "key": "amtszeit_ende",
+      "label": "Amtszeit Ende",
+      "type": "string"
+    },
+    {
+      "key": "amtsbezeichnung",
+      "label": "Amtsbezeichnung",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nr": "1",
+      "name": "Elisabeth Schwarzhaupt",
+      "lebensdaten": "1901–1986",
+      "partei": "CDU",
+      "amtszeit_beginn": "14. November 1961",
+      "amtszeit_ende": "30. November 1966",
+      "amtsbezeichnung": "Bundesminister für Gesundheitswesen"
+    },
+    {
+      "nr": "2",
+      "name": "Käte Strobel",
+      "lebensdaten": "1907–1996",
+      "partei": "SPD",
+      "amtszeit_beginn": "1. Dezember 1966",
+      "amtszeit_ende": "22. Oktober 1969",
+      "amtsbezeichnung": "Bundesminister für Gesundheitswesen"
+    },
+    {
+      "nr": "2",
+      "name": "Käte Strobel",
+      "lebensdaten": "s. o.",
+      "partei": "SPD",
+      "amtszeit_beginn": "22. Oktober 1969",
+      "amtszeit_ende": "15. Dezember 1972",
+      "amtsbezeichnung": "Bundesminister für Jugend, Familie und Gesundheit"
+    },
+    {
+      "nr": "3",
+      "name": "Katharina Focke",
+      "lebensdaten": "1922–2016",
+      "partei": "SPD",
+      "amtszeit_beginn": "15. Dezember 1972",
+      "amtszeit_ende": "16. Dezember 1976",
+      "amtsbezeichnung": "Bundesminister für Jugend, Familie und Gesundheit"
+    },
+    {
+      "nr": "4",
+      "name": "Antje Huber",
+      "lebensdaten": "1924–2015",
+      "partei": "SPD",
+      "amtszeit_beginn": "16. Dezember 1976",
+      "amtszeit_ende": "28. April 1982",
+      "amtsbezeichnung": "Bundesminister für Jugend, Familie und Gesundheit"
+    },
+    {
+      "nr": "5",
+      "name": "Anke Fuchs",
+      "lebensdaten": "1937–2019",
+      "partei": "SPD",
+      "amtszeit_beginn": "28. April 1982",
+      "amtszeit_ende": "1. Oktober 1982",
+      "amtsbezeichnung": "Bundesminister für Jugend, Familie und Gesundheit"
+    },
+    {
+      "nr": "6",
+      "name": "Heiner Geißler",
+      "lebensdaten": "1930–2017",
+      "partei": "CDU",
+      "amtszeit_beginn": "1. Oktober 1982",
+      "amtszeit_ende": "26. September 1985",
+      "amtsbezeichnung": "Bundesminister für Jugend, Familie und Gesundheit"
+    },
+    {
+      "nr": "7",
+      "name": "Rita Süssmuth",
+      "lebensdaten": "1937–2026",
+      "partei": "CDU",
+      "amtszeit_beginn": "26. September 1985",
+      "amtszeit_ende": "5. Juni 1986",
+      "amtsbezeichnung": "Bundesminister für Jugend, Familie und Gesundheit"
+    },
+    {
+      "nr": "7",
+      "name": "Rita Süssmuth",
+      "lebensdaten": "s. o.",
+      "partei": "CDU",
+      "amtszeit_beginn": "6. Juni 1986",
+      "amtszeit_ende": "9. Dezember 1988",
+      "amtsbezeichnung": "Bundesminister für Jugend, Familie, Frauen und Gesundheit"
+    },
+    {
+      "nr": "8",
+      "name": "Ursula Lehr",
+      "lebensdaten": "1930–2022",
+      "partei": "CDU",
+      "amtszeit_beginn": "9. Dezember 1988",
+      "amtszeit_ende": "18. Januar 1991",
+      "amtsbezeichnung": "Bundesminister für Jugend, Familie, Frauen und Gesundheit"
+    },
+    {
+      "nr": "9",
+      "name": "Gerda Hasselfeldt",
+      "lebensdaten": "* 1950",
+      "partei": "CSU",
+      "amtszeit_beginn": "18. Januar 1991",
+      "amtszeit_ende": "6. Mai 1992",
+      "amtsbezeichnung": "Bundesminister für Gesundheit"
+    },
+    {
+      "nr": "10",
+      "name": "Horst Seehofer",
+      "lebensdaten": "* 1949",
+      "partei": "CSU",
+      "amtszeit_beginn": "6. Mai 1992",
+      "amtszeit_ende": "27. Oktober 1998",
+      "amtsbezeichnung": "Bundesminister für Gesundheit"
+    },
+    {
+      "nr": "11",
+      "name": "Andrea Fischer",
+      "lebensdaten": "* 1960",
+      "partei": "Grüne",
+      "amtszeit_beginn": "27. Oktober 1998",
+      "amtszeit_ende": "12. Januar 2001",
+      "amtsbezeichnung": "Bundesminister für Gesundheit"
+    },
+    {
+      "nr": "12",
+      "name": "Ulla Schmidt",
+      "lebensdaten": "* 1949",
+      "partei": "SPD",
+      "amtszeit_beginn": "12. Januar 2001",
+      "amtszeit_ende": "22. Oktober 2002",
+      "amtsbezeichnung": "Bundesminister für Gesundheit"
+    },
+    {
+      "nr": "12",
+      "name": "Ulla Schmidt",
+      "lebensdaten": "s. o.",
+      "partei": "SPD",
+      "amtszeit_beginn": "22. Oktober 2002",
+      "amtszeit_ende": "22. November 2005",
+      "amtsbezeichnung": "Bundesminister für Gesundheit und Soziale Sicherung"
+    },
+    {
+      "nr": "12",
+      "name": "Ulla Schmidt",
+      "lebensdaten": "s. o.",
+      "partei": "SPD",
+      "amtszeit_beginn": "22. November 2005",
+      "amtszeit_ende": "27. Oktober 2009",
+      "amtsbezeichnung": "Bundesminister für Gesundheit"
+    },
+    {
+      "nr": "13",
+      "name": "Philipp Rösler",
+      "lebensdaten": "* 1973",
+      "partei": "FDP",
+      "amtszeit_beginn": "28. Oktober 2009",
+      "amtszeit_ende": "12. Mai 2011",
+      "amtsbezeichnung": "Bundesminister für Gesundheit"
+    },
+    {
+      "nr": "14",
+      "name": "Daniel Bahr",
+      "lebensdaten": "* 1976",
+      "partei": "FDP",
+      "amtszeit_beginn": "12. Mai 2011",
+      "amtszeit_ende": "17. Dezember 2013",
+      "amtsbezeichnung": "Bundesminister für Gesundheit"
+    },
+    {
+      "nr": "15",
+      "name": "Hermann Gröhe",
+      "lebensdaten": "* 1961",
+      "partei": "CDU",
+      "amtszeit_beginn": "17. Dezember 2013",
+      "amtszeit_ende": "14. März 2018",
+      "amtsbezeichnung": "Bundesminister für Gesundheit"
+    },
+    {
+      "nr": "16",
+      "name": "Jens Spahn",
+      "lebensdaten": "* 1980",
+      "partei": "CDU",
+      "amtszeit_beginn": "14. März 2018",
+      "amtszeit_ende": "8. Dezember 2021",
+      "amtsbezeichnung": "Bundesminister für Gesundheit"
+    },
+    {
+      "nr": "17",
+      "name": "Karl Lauterbach",
+      "lebensdaten": "* 1963",
+      "partei": "SPD",
+      "amtszeit_beginn": "8. Dezember 2021",
+      "amtszeit_ende": "6. Mai 2025",
+      "amtsbezeichnung": "Bundesminister für Gesundheit"
+    },
+    {
+      "nr": "18",
+      "name": "Nina Warken",
+      "lebensdaten": "* 1979",
+      "partei": "CDU",
+      "amtszeit_beginn": "6. Mai 2025",
+      "amtszeit_ende": "29. Juli 2026",
+      "amtsbezeichnung": "Bundesminister für Gesundheit"
+    },
+    {
+      "nr": "19",
+      "name": "Carsten Linnemann",
+      "lebensdaten": "* 1977",
+      "partei": "CDU",
+      "amtszeit_beginn": "29. Juli 2026",
+      "amtszeit_ende": "amtierend",
+      "amtsbezeichnung": "Bundesminister für Gesundheit"
+    }
+  ],
+  "meta": {
+    "title": "Bundesminister für Gesundheit - Free Download",
+    "description": "Liste der deutschen Bundesgesundheitsminister seit 1961 mit Lebensdaten, Partei, Amtszeit und jeweiliger Amtsbezeichnung des Ressorts. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bundesminister für Gesundheit | ListBase",
+    "seo_description": "Download Bundesminister für Gesundheit — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_deutschen_Gesundheitsminister"
+    ]
+  }
+}
