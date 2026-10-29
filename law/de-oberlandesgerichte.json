@@ -1,0 +1,422 @@
+{
+  "id": "de-oberlandesgerichte",
+  "name": "Oberlandesgerichte in Deutschland",
+  "title": "Oberlandesgerichte in Deutschland",
+  "description": "Die 24 deutschen Oberlandesgerichte mit Bundesland, Bevölkerung im Gerichtsbezirk, Zahl der Land- und Amtsgerichte, Richterstellen, Senaten und erledigten Verfahren.",
+  "category": "law",
+  "source": "https://de.wikipedia.org/wiki/Oberlandesgericht",
+  "source_url": "https://de.wikipedia.org/wiki/Oberlandesgericht",
+  "updated": "2026-10",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "olg",
+      "label": "Olg",
+      "type": "string"
+    },
+    {
+      "key": "ecli_code",
+      "label": "Ecli Code",
+      "type": "string"
+    },
+    {
+      "key": "land",
+      "label": "Land",
+      "type": "string"
+    },
+    {
+      "key": "bevoelkerung_tsd_ende_2023",
+      "label": "Bevoelkerung Tsd Ende 2023",
+      "type": "number"
+    },
+    {
+      "key": "landgerichte",
+      "label": "Landgerichte",
+      "type": "number"
+    },
+    {
+      "key": "amtsgerichte",
+      "label": "Amtsgerichte",
+      "type": "number"
+    },
+    {
+      "key": "richterstellen_2024",
+      "label": "Richterstellen 2024",
+      "type": "number"
+    },
+    {
+      "key": "zivilsenate",
+      "label": "Zivilsenate",
+      "type": "number"
+    },
+    {
+      "key": "strafsenate",
+      "label": "Strafsenate",
+      "type": "number"
+    },
+    {
+      "key": "erledigt_2023_berufungen_zivilsachen",
+      "label": "Erledigt 2023 Berufungen Zivilsachen",
+      "type": "number"
+    },
+    {
+      "key": "erledigt_2023_beschwerden_familiensachen",
+      "label": "Erledigt 2023 Beschwerden Familiensachen",
+      "type": "number"
+    },
+    {
+      "key": "erledigt_2023_revisionen_strafsachen",
+      "label": "Erledigt 2023 Revisionen Strafsachen",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "olg": "Karlsruhe",
+      "ecli_code": "OLGKARL",
+      "land": "BW",
+      "bevoelkerung_tsd_ende_2023": 4804,
+      "landgerichte": 9,
+      "amtsgerichte": 52,
+      "richterstellen_2024": 104.5,
+      "zivilsenate": 22,
+      "strafsenate": 4,
+      "erledigt_2023_berufungen_zivilsachen": 2724,
+      "erledigt_2023_beschwerden_familiensachen": 1019,
+      "erledigt_2023_revisionen_strafsachen": "250"
+    },
+    {
+      "olg": "Stuttgart",
+      "ecli_code": "OLGSTUT",
+      "land": "BW",
+      "bevoelkerung_tsd_ende_2023": 6535,
+      "landgerichte": 8,
+      "amtsgerichte": 56,
+      "richterstellen_2024": 94,
+      "zivilsenate": 25,
+      "strafsenate": 7,
+      "erledigt_2023_berufungen_zivilsachen": 4867,
+      "erledigt_2023_beschwerden_familiensachen": 1102,
+      "erledigt_2023_revisionen_strafsachen": "225"
+    },
+    {
+      "olg": "Bamberg",
+      "ecli_code": "OLGBAMB",
+      "land": "BY",
+      "bevoelkerung_tsd_ende_2023": 2416,
+      "landgerichte": 7,
+      "amtsgerichte": 18,
+      "richterstellen_2024": 35,
+      "zivilsenate": 12,
+      "strafsenate": 1,
+      "erledigt_2023_berufungen_zivilsachen": 1533,
+      "erledigt_2023_beschwerden_familiensachen": 458,
+      "erledigt_2023_revisionen_strafsachen": "BayObLG : 764"
+    },
+    {
+      "olg": "München",
+      "ecli_code": "OLGMUEN",
+      "land": "BY",
+      "bevoelkerung_tsd_ende_2023": 7064,
+      "landgerichte": 10,
+      "amtsgerichte": 38,
+      "richterstellen_2024": 186.9,
+      "zivilsenate": 40,
+      "strafsenate": 8,
+      "erledigt_2023_berufungen_zivilsachen": 6268,
+      "erledigt_2023_beschwerden_familiensachen": 1350,
+      "erledigt_2023_revisionen_strafsachen": "BayObLG : 764"
+    },
+    {
+      "olg": "Nürnberg",
+      "ecli_code": "OLGNUER",
+      "land": "BY",
+      "bevoelkerung_tsd_ende_2023": 3956,
+      "landgerichte": 5,
+      "amtsgerichte": 17,
+      "richterstellen_2024": 59.7,
+      "zivilsenate": 17,
+      "strafsenate": 1,
+      "erledigt_2023_berufungen_zivilsachen": 2661,
+      "erledigt_2023_beschwerden_familiensachen": 561,
+      "erledigt_2023_revisionen_strafsachen": "BayObLG : 764"
+    },
+    {
+      "olg": "Berlin",
+      "ecli_code": "KG",
+      "land": "BE",
+      "bevoelkerung_tsd_ende_2023": 3782,
+      "landgerichte": 2,
+      "amtsgerichte": 11,
+      "richterstellen_2024": 141,
+      "zivilsenate": 28,
+      "strafsenate": 6,
+      "erledigt_2023_berufungen_zivilsachen": 2568,
+      "erledigt_2023_beschwerden_familiensachen": 892,
+      "erledigt_2023_revisionen_strafsachen": "365"
+    },
+    {
+      "olg": "Brandenburg",
+      "ecli_code": "OLGBB",
+      "land": "BB",
+      "bevoelkerung_tsd_ende_2023": 2582,
+      "landgerichte": 4,
+      "amtsgerichte": 23,
+      "richterstellen_2024": 59.6,
+      "zivilsenate": 13,
+      "strafsenate": 2,
+      "erledigt_2023_berufungen_zivilsachen": 1649,
+      "erledigt_2023_beschwerden_familiensachen": 613,
+      "erledigt_2023_revisionen_strafsachen": "60"
+    },
+    {
+      "olg": "Bremen",
+      "ecli_code": "OLGHB",
+      "land": "HB",
+      "bevoelkerung_tsd_ende_2023": 692,
+      "landgerichte": 1,
+      "amtsgerichte": 3,
+      "richterstellen_2024": 12.6,
+      "zivilsenate": 5,
+      "strafsenate": 2,
+      "erledigt_2023_berufungen_zivilsachen": 284,
+      "erledigt_2023_beschwerden_familiensachen": 261,
+      "erledigt_2023_revisionen_strafsachen": "27"
+    },
+    {
+      "olg": "Hamburg",
+      "ecli_code": "OLGHH",
+      "land": "HH",
+      "bevoelkerung_tsd_ende_2023": 1910,
+      "landgerichte": 1,
+      "amtsgerichte": 8,
+      "richterstellen_2024": 71.3,
+      "zivilsenate": 17,
+      "strafsenate": 9,
+      "erledigt_2023_berufungen_zivilsachen": 1609,
+      "erledigt_2023_beschwerden_familiensachen": 483,
+      "erledigt_2023_revisionen_strafsachen": "146"
+    },
+    {
+      "olg": "Frankfurt",
+      "ecli_code": "OLGHE",
+      "land": "HE",
+      "bevoelkerung_tsd_ende_2023": 6421,
+      "landgerichte": 9,
+      "amtsgerichte": 41,
+      "richterstellen_2024": 152.5,
+      "zivilsenate": 29,
+      "strafsenate": 6,
+      "erledigt_2023_berufungen_zivilsachen": 5367,
+      "erledigt_2023_beschwerden_familiensachen": 1581,
+      "erledigt_2023_revisionen_strafsachen": "269"
+    },
+    {
+      "olg": "Rostock",
+      "ecli_code": "OLGROST",
+      "land": "MV",
+      "bevoelkerung_tsd_ende_2023": 1629,
+      "landgerichte": 4,
+      "amtsgerichte": 10,
+      "richterstellen_2024": 33,
+      "zivilsenate": 14,
+      "strafsenate": 3,
+      "erledigt_2023_berufungen_zivilsachen": 811,
+      "erledigt_2023_beschwerden_familiensachen": 324,
+      "erledigt_2023_revisionen_strafsachen": "93"
+    },
+    {
+      "olg": "Braunschweig",
+      "ecli_code": "OLGBS",
+      "land": "NI",
+      "bevoelkerung_tsd_ende_2023": 1351,
+      "landgerichte": 2,
+      "amtsgerichte": 16,
+      "richterstellen_2024": 38,
+      "zivilsenate": 12,
+      "strafsenate": 2,
+      "erledigt_2023_berufungen_zivilsachen": 1293,
+      "erledigt_2023_beschwerden_familiensachen": 381,
+      "erledigt_2023_revisionen_strafsachen": "54"
+    },
+    {
+      "olg": "Celle",
+      "ecli_code": "OLGCE",
+      "land": "NI",
+      "bevoelkerung_tsd_ende_2023": 4210,
+      "landgerichte": 6,
+      "amtsgerichte": 41,
+      "richterstellen_2024": 90,
+      "zivilsenate": 23,
+      "strafsenate": 7,
+      "erledigt_2023_berufungen_zivilsachen": 2405,
+      "erledigt_2023_beschwerden_familiensachen": 1208,
+      "erledigt_2023_revisionen_strafsachen": "198"
+    },
+    {
+      "olg": "Oldenburg",
+      "ecli_code": "OLGOL",
+      "land": "NI",
+      "bevoelkerung_tsd_ende_2023": 2601,
+      "landgerichte": 3,
+      "amtsgerichte": 23,
+      "richterstellen_2024": 46.2,
+      "zivilsenate": 15,
+      "strafsenate": 3,
+      "erledigt_2023_berufungen_zivilsachen": 1250,
+      "erledigt_2023_beschwerden_familiensachen": 644,
+      "erledigt_2023_revisionen_strafsachen": "271"
+    },
+    {
+      "olg": "Düsseldorf",
+      "ecli_code": "OLGD",
+      "land": "NW",
+      "bevoelkerung_tsd_ende_2023": 4805,
+      "landgerichte": 6,
+      "amtsgerichte": 29,
+      "richterstellen_2024": 167.5,
+      "zivilsenate": 37,
+      "strafsenate": 7,
+      "erledigt_2023_berufungen_zivilsachen": 3391,
+      "erledigt_2023_beschwerden_familiensachen": 1143,
+      "erledigt_2023_revisionen_strafsachen": "343"
+    },
+    {
+      "olg": "Hamm",
+      "ecli_code": "OLGHAM",
+      "land": "NW",
+      "bevoelkerung_tsd_ende_2023": 8956,
+      "landgerichte": 10,
+      "amtsgerichte": 77,
+      "richterstellen_2024": 174,
+      "zivilsenate": 48,
+      "strafsenate": 6,
+      "erledigt_2023_berufungen_zivilsachen": 4605,
+      "erledigt_2023_beschwerden_familiensachen": 2216,
+      "erledigt_2023_revisionen_strafsachen": "484"
+    },
+    {
+      "olg": "Köln",
+      "ecli_code": "OLGK",
+      "land": "NW",
+      "bevoelkerung_tsd_ende_2023": 4430,
+      "landgerichte": 3,
+      "amtsgerichte": 23,
+      "richterstellen_2024": 114,
+      "zivilsenate": 30,
+      "strafsenate": 3,
+      "erledigt_2023_berufungen_zivilsachen": 3699,
+      "erledigt_2023_beschwerden_familiensachen": 1127,
+      "erledigt_2023_revisionen_strafsachen": "167"
+    },
+    {
+      "olg": "Koblenz",
+      "ecli_code": "OLGKOBL",
+      "land": "RP",
+      "bevoelkerung_tsd_ende_2023": 2732,
+      "landgerichte": 4,
+      "amtsgerichte": 31,
+      "richterstellen_2024": 60.2,
+      "zivilsenate": 16,
+      "strafsenate": 6,
+      "erledigt_2023_berufungen_zivilsachen": 1703,
+      "erledigt_2023_beschwerden_familiensachen": 628,
+      "erledigt_2023_revisionen_strafsachen": "194"
+    },
+    {
+      "olg": "Zweibrücken",
+      "ecli_code": "POLGZWE",
+      "land": "RP",
+      "bevoelkerung_tsd_ende_2023": 1442,
+      "landgerichte": 4,
+      "amtsgerichte": 15,
+      "richterstellen_2024": 36.5,
+      "zivilsenate": 9,
+      "strafsenate": 2,
+      "erledigt_2023_berufungen_zivilsachen": 1157,
+      "erledigt_2023_beschwerden_familiensachen": 313,
+      "erledigt_2023_revisionen_strafsachen": "51"
+    },
+    {
+      "olg": "Saarbrücken",
+      "ecli_code": "OLGSL",
+      "land": "SL",
+      "bevoelkerung_tsd_ende_2023": 994,
+      "landgerichte": 1,
+      "amtsgerichte": 10,
+      "richterstellen_2024": 23.1,
+      "zivilsenate": 7,
+      "strafsenate": 3,
+      "erledigt_2023_berufungen_zivilsachen": 477,
+      "erledigt_2023_beschwerden_familiensachen": 162,
+      "erledigt_2023_revisionen_strafsachen": "30"
+    },
+    {
+      "olg": "Dresden",
+      "ecli_code": "OLGDRES",
+      "land": "SN",
+      "bevoelkerung_tsd_ende_2023": 4089,
+      "landgerichte": 5,
+      "amtsgerichte": 25,
+      "richterstellen_2024": 87,
+      "zivilsenate": 20,
+      "strafsenate": 6,
+      "erledigt_2023_berufungen_zivilsachen": 2611,
+      "erledigt_2023_beschwerden_familiensachen": 885,
+      "erledigt_2023_revisionen_strafsachen": "277"
+    },
+    {
+      "olg": "Naumburg",
+      "ecli_code": "OLGNAUM",
+      "land": "ST",
+      "bevoelkerung_tsd_ende_2023": 2180,
+      "landgerichte": 4,
+      "amtsgerichte": 25,
+      "richterstellen_2024": 29,
+      "zivilsenate": 10,
+      "strafsenate": 3,
+      "erledigt_2023_berufungen_zivilsachen": 1123,
+      "erledigt_2023_beschwerden_familiensachen": 485,
+      "erledigt_2023_revisionen_strafsachen": "198"
+    },
+    {
+      "olg": "Schleswig",
+      "ecli_code": "OLGSH",
+      "land": "SH",
+      "bevoelkerung_tsd_ende_2023": 2966,
+      "landgerichte": 4,
+      "amtsgerichte": 22,
+      "richterstellen_2024": 53.2,
+      "zivilsenate": 20,
+      "strafsenate": 2,
+      "erledigt_2023_berufungen_zivilsachen": 1448,
+      "erledigt_2023_beschwerden_familiensachen": 684,
+      "erledigt_2023_revisionen_strafsachen": "94"
+    },
+    {
+      "olg": "Jena",
+      "ecli_code": "OLGTH",
+      "land": "TH",
+      "bevoelkerung_tsd_ende_2023": 2122,
+      "landgerichte": 4,
+      "amtsgerichte": 23,
+      "richterstellen_2024": 45,
+      "zivilsenate": 10,
+      "strafsenate": 3,
+      "erledigt_2023_berufungen_zivilsachen": 934,
+      "erledigt_2023_beschwerden_familiensachen": 450,
+      "erledigt_2023_revisionen_strafsachen": "104"
+    }
+  ],
+  "meta": {
+    "title": "Oberlandesgerichte in Deutschland - Free Download",
+    "description": "Die 24 deutschen Oberlandesgerichte mit Bundesland, Bevölkerung im Gerichtsbezirk, Zahl der Land- und Amtsgerichte, Richterstellen, Senaten und erledigten Verfahren. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Oberlandesgerichte in Deutschland | ListBase",
+    "seo_description": "Download Oberlandesgerichte in Deutschland — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Oberlandesgericht"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-29T02:17:48.886Z",
-  "total_datasets": 506,
-  "total_records": 1874275,
+  "generated": "2026-10-29T02:17:51.430Z",
+  "total_datasets": 507,
+  "total_records": 1874299,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -5250,6 +5250,39 @@
         "xlsx": {
           "name": "de-bundesminister-der-justiz_DE.xlsx",
           "size": 8692
+        }
+      }
+    },
+    {
+      "id": "de-oberlandesgerichte",
+      "name": "Oberlandesgerichte in Deutschland",
+      "category": "law",
+      "record_count": 24,
+      "columns": [
+        "olg",
+        "ecli_code",
+        "land",
+        "bevoelkerung_tsd_ende_2023",
+        "landgerichte",
+        "amtsgerichte",
+        "richterstellen_2024",
+        "zivilsenate",
+        "strafsenate",
+        "erledigt_2023_berufungen_zivilsachen",
+        "erledigt_2023_beschwerden_familiensachen",
+        "erledigt_2023_revisionen_strafsachen"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Oberlandesgericht",
+      "updated": "2026-10",
+      "size": 12734,
+      "files": {
+        "csv": {
+          "name": "de-oberlandesgerichte_DE.csv",
+          "size": 2081
+        },
+        "xlsx": {
+          "name": "de-oberlandesgerichte_DE.xlsx",
+          "size": 8768
         }
       }
     },
