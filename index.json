@@ -1,12 +1,12 @@
 {
   "lang": "de",
-  "generated": "2026-10-29T02:17:51.430Z",
-  "total_datasets": 507,
-  "total_records": 1874299,
+  "generated": "2026-10-29T02:17:53.925Z",
+  "total_datasets": 508,
+  "total_records": 1874312,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -155,6 +155,31 @@
         "xlsx": {
           "name": "de-kartoffelsorten_DE.xlsx",
           "size": 87453
+        }
+      }
+    },
+    {
+      "id": "de-weinanbaugebiete",
+      "name": "Weinanbaugebiete in Deutschland",
+      "category": "agriculture",
+      "record_count": 13,
+      "columns": [
+        "anbaugebiet",
+        "rebflaeche_ha",
+        "ernte_hl",
+        "ertrag_hl_pro_ha"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Weinbau_in_Deutschland",
+      "updated": "2026-10",
+      "size": 3229,
+      "files": {
+        "csv": {
+          "name": "de-weinanbaugebiete_DE.csv",
+          "size": 487
+        },
+        "xlsx": {
+          "name": "de-weinanbaugebiete_DE.xlsx",
+          "size": 7188
         }
       }
     },

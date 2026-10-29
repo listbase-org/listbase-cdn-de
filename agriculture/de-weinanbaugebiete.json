@@ -1,0 +1,124 @@
+{
+  "id": "de-weinanbaugebiete",
+  "name": "Weinanbaugebiete in Deutschland",
+  "title": "Weinanbaugebiete in Deutschland",
+  "description": "Die 13 deutschen Anbaugebiete für Qualitätswein mit Rebfläche, Erntemenge und Hektarertrag.",
+  "category": "agriculture",
+  "source": "https://de.wikipedia.org/wiki/Weinbau_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Weinbau_in_Deutschland",
+  "updated": "2026-10",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "anbaugebiet",
+      "label": "Anbaugebiet",
+      "type": "string"
+    },
+    {
+      "key": "rebflaeche_ha",
+      "label": "Rebflaeche Ha",
+      "type": "number"
+    },
+    {
+      "key": "ernte_hl",
+      "label": "Ernte Hl",
+      "type": "number"
+    },
+    {
+      "key": "ertrag_hl_pro_ha",
+      "label": "Ertrag Hl Pro Ha",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "anbaugebiet": "Ahr",
+      "rebflaeche_ha": 545,
+      "ernte_hl": 30232,
+      "ertrag_hl_pro_ha": 55
+    },
+    {
+      "anbaugebiet": "Mittelrhein",
+      "rebflaeche_ha": 450,
+      "ernte_hl": 26809,
+      "ertrag_hl_pro_ha": 60
+    },
+    {
+      "anbaugebiet": "Mosel",
+      "rebflaeche_ha": 8594,
+      "ernte_hl": 669125,
+      "ertrag_hl_pro_ha": 78
+    },
+    {
+      "anbaugebiet": "Rheingau",
+      "rebflaeche_ha": 3076,
+      "ernte_hl": 231108,
+      "ertrag_hl_pro_ha": 75
+    },
+    {
+      "anbaugebiet": "Nahe",
+      "rebflaeche_ha": 4063,
+      "ernte_hl": 309715,
+      "ertrag_hl_pro_ha": 76
+    },
+    {
+      "anbaugebiet": "Rheinhessen",
+      "rebflaeche_ha": 26685,
+      "ernte_hl": 2602262,
+      "ertrag_hl_pro_ha": 101
+    },
+    {
+      "anbaugebiet": "Pfalz",
+      "rebflaeche_ha": 22885,
+      "ernte_hl": 2356593,
+      "ertrag_hl_pro_ha": 103
+    },
+    {
+      "anbaugebiet": "Hessische Bergstraße",
+      "rebflaeche_ha": 431,
+      "ernte_hl": 30268,
+      "ertrag_hl_pro_ha": 70
+    },
+    {
+      "anbaugebiet": "Baden",
+      "rebflaeche_ha": 15429,
+      "ernte_hl": 1169209,
+      "ertrag_hl_pro_ha": 76
+    },
+    {
+      "anbaugebiet": "Württemberg",
+      "rebflaeche_ha": 11140,
+      "ernte_hl": 1138973,
+      "ertrag_hl_pro_ha": 102
+    },
+    {
+      "anbaugebiet": "Franken",
+      "rebflaeche_ha": 6040,
+      "ernte_hl": 469943,
+      "ertrag_hl_pro_ha": 78
+    },
+    {
+      "anbaugebiet": "Saale-Unstrut",
+      "rebflaeche_ha": 775,
+      "ernte_hl": 27193,
+      "ertrag_hl_pro_ha": 35
+    },
+    {
+      "anbaugebiet": "Sachsen",
+      "rebflaeche_ha": 456,
+      "ernte_hl": 19615,
+      "ertrag_hl_pro_ha": 43
+    }
+  ],
+  "meta": {
+    "title": "Weinanbaugebiete in Deutschland - Free Download",
+    "description": "Die 13 deutschen Anbaugebiete für Qualitätswein mit Rebfläche, Erntemenge und Hektarertrag. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Weinanbaugebiete in Deutschland | ListBase",
+    "seo_description": "Download Weinanbaugebiete in Deutschland — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Weinbau_in_Deutschland"
+    ]
+  }
+}
