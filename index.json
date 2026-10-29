@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-28T02:27:37.129Z",
-  "total_datasets": 501,
-  "total_records": 1873303,
+  "generated": "2026-10-29T02:17:38.363Z",
+  "total_datasets": 502,
+  "total_records": 1874104,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "history",
@@ -4863,6 +4863,29 @@
         "xlsx": {
           "name": "de-wasserfalle_DE.xlsx",
           "size": 24092
+        }
+      }
+    },
+    {
+      "id": "de-akademische-lehrkrankenhaeuser",
+      "name": "Akademische Lehrkrankenhäuser in Deutschland",
+      "category": "health",
+      "record_count": 801,
+      "columns": [
+        "krankenhaus",
+        "universitaet"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_akademischen_Lehrkrankenhäuser_in_Deutschland",
+      "updated": "2026-10",
+      "size": 106886,
+      "files": {
+        "csv": {
+          "name": "de-akademische-lehrkrankenhaeuser_DE.csv",
+          "size": 59633
+        },
+        "xlsx": {
+          "name": "de-akademische-lehrkrankenhaeuser_DE.xlsx",
+          "size": 25526
         }
       }
     },
