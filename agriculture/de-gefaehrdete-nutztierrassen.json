@@ -1,0 +1,1288 @@
+{
+  "id": "de-gefaehrdete-nutztierrassen",
+  "name": "Gefährdete Nutztierrassen in Deutschland und Österreich",
+  "title": "Gefährdete Nutztierrassen in Deutschland und Österreich",
+  "description": "Gefährdete einheimische Nutztierrassen (Pferde, Rinder, Schafe, Schweine, Ziegen, Geflügel, Kaninchen, Hunde, Bienen) mit Gefährdungseinstufung und Bestandszahlen.",
+  "category": "agriculture",
+  "source": "https://de.wikipedia.org/wiki/Liste_gefährdeter_Nutztierrassen",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_gefährdeter_Nutztierrassen",
+  "updated": "2026-10",
+  "record_count": 207,
+  "columns": [
+    {
+      "key": "rasse",
+      "label": "Rasse",
+      "type": "string"
+    },
+    {
+      "key": "tierart",
+      "label": "Tierart",
+      "type": "string"
+    },
+    {
+      "key": "gefaehrdung",
+      "label": "Gefaehrdung",
+      "type": "string"
+    },
+    {
+      "key": "bestand",
+      "label": "Bestand",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rasse": "Altösterreichisches Warmblut",
+      "tierart": "Pferde",
+      "gefaehrdung": "Österreich ÖNGENE: gefährdet,",
+      "bestand": "A: 4 Hengste / 9 Stuten"
+    },
+    {
+      "rasse": "Arenberg-Nordkirchener Pony",
+      "tierart": "Pferde",
+      "gefaehrdung": "Deutschland GEH: extrem gefährdet",
+      "bestand": "D: 4 Hengste / 18 Stuten (Stand 2007)"
+    },
+    {
+      "rasse": "Deutsche Reitpferde (Rassegruppe der Populationen): Bayerisches Warmblut Deutsches Pferd Deutsches Sportpferd Hannoveraner Holsteiner Mecklenburger Warmblut Oldenburger (incl. Internat. Oldenburger Springpferd) Rheinisches Warmblut Trakehner Westfale Württemberger Warmblut Zweibrücker Warmblut",
+      "tierart": "Pferde",
+      "gefaehrdung": "Deutschland NG (lt. TGRDEU, 2023)",
+      "bestand": "Gesamt: 2.330 Hengste / 50.593 Stuten (2023) Ne=9484 D: 84 Hengste / 2.521 Stuten (2013) D: 208 Hengste / 692 Stuten (2023) D: 440 Hengste / 9.675 Stuten (2023) D: 501 Hengste / 13.771 Stuten (2023) D: 206 Hengste / 5.172 Stuten (2023) D: 45 Hengste / 698 Stuten (2023) D: 440 Hengste / 11.640 Stuten (2023) D: 501 Hengste / 452 Stuten (2023) D: 121 Hengste / 2.284 Stuten (2023) D: 369 Hengste / 6.209 Stuten (2023) D: 77 Hengste / 2.875 Stuten (2013) D: 152 Hengste / 957 Stuten (2013)"
+    },
+    {
+      "rasse": "Deutsches Reitpony",
+      "tierart": "Pferde",
+      "gefaehrdung": "Deutschland NG (lt. TGRDEU, 2023)",
+      "bestand": "D: 757 Hengste / 5.981 Stuten (2023) Ne=2492"
+    },
+    {
+      "rasse": "Dülmener Wildpferd",
+      "tierart": "Pferde",
+      "gefaehrdung": "Deutschland ERH (lt. TGRDEU, 2023) GEH: extrem gefährdet",
+      "bestand": "D: 8 Hengste / 38 Stuten (2023) Ne=45"
+    },
+    {
+      "rasse": "Huzule",
+      "tierart": "Pferde",
+      "gefaehrdung": "Österreich ÖNGENE: gefährdet",
+      "bestand": "D: 2 Hengste / 20 Stuten (2023) A: 4 Hengste / 39 Stuten (Herdbuch 2016)"
+    },
+    {
+      "rasse": "Lehmkuhlener Pony",
+      "tierart": "Pferde",
+      "gefaehrdung": "Deutschland PERH (lt. TGRDEU, 2023) GEH: extrem gefährdet",
+      "bestand": "D: 8 Hengste / 14 Stuten (2023)"
+    },
+    {
+      "rasse": "Leutstettener",
+      "tierart": "Pferde",
+      "gefaehrdung": "Deutschland PERH (lt. TGRDEU, 2023) GEH: extrem gefährdet",
+      "bestand": "D: 1 Hengst / 15 Stuten (2023) Ne=4"
+    },
+    {
+      "rasse": "Lipizzaner",
+      "tierart": "Pferde",
+      "gefaehrdung": "Österreich ÖNGENE: gefährdet",
+      "bestand": "D: 9 Hengste / 26 Stuten (2023) A: ca. 200, weltweit ca. 4000"
+    },
+    {
+      "rasse": "Noriker",
+      "tierart": "Pferde",
+      "gefaehrdung": "Österreich ÖNGENE: gefährdet",
+      "bestand": "D: 8 Hengste / 54 Stuten (2023) A: 188 Hengste / 4565 Stuten (Herdbuch 2016)"
+    },
+    {
+      "rasse": "Pfalz-Ardenner Kaltblut",
+      "tierart": "Pferde",
+      "gefaehrdung": "Deutschland PERH (lt. TGRDEU, 2023)",
+      "bestand": "D: 7 Hengste / 26 Stuten (2023) Ne=13"
+    },
+    {
+      "rasse": "Rheinisch-Deutsches Kaltblut",
+      "tierart": "Pferde",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023) GEH: gefährdet",
+      "bestand": "D: 127 Hengste / 1.010 Stuten (2023) Ne=529"
+    },
+    {
+      "rasse": "Rottaler Pferd",
+      "tierart": "Pferde",
+      "gefaehrdung": "Deutschland PERH (lt. TGRDEU, 2013) GEH: extrem gefährdet",
+      "bestand": "D: 1 Hengst / 32 Stuten (2023) Ne=24"
+    },
+    {
+      "rasse": "Schleswiger Kaltblut",
+      "tierart": "Pferde",
+      "gefaehrdung": "Deutschland ERH (lt. TGRDEU, 2023) GEH: stark gefährdet",
+      "bestand": "D: 17 Hengste / 138 Stuten (2023) Ne=81"
+    },
+    {
+      "rasse": "Schwarzwälder Kaltblut",
+      "tierart": "Pferde",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023) GEH: gefährdet",
+      "bestand": "D: 90 Hengste / 1011 Stuten (2023) Ne=292"
+    },
+    {
+      "rasse": "Schwere Warmblüter (Rassegruppe der Populationen): Alt-Württemberger Ostfriese/Alt-Oldenburger Sächsisch-Thüringisches Schweres Warmblut",
+      "tierart": "Pferde",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023) GEH: extrem gefährdet – gefährdet",
+      "bestand": "Gesamt: 93 Hengste / 1.191 Stuten (2013) Ne=345 D: 11 Hengste / 56 Stuten (2023) D: 34 Hengste / 215 Stuten (2023) D: 57 Hengste / 1.063 Stuten (2023)"
+    },
+    {
+      "rasse": "Senner Pferd",
+      "tierart": "Pferde",
+      "gefaehrdung": "Deutschland PERH (lt. TGRDEU, 2023) GEH: extrem gefährdet",
+      "bestand": "D: 3 Hengste / 26 Stuten (2023) Ne=19,5"
+    },
+    {
+      "rasse": "Shagya-Araber",
+      "tierart": "Pferde",
+      "gefaehrdung": "Österreich ÖNGENE: gefährdet",
+      "bestand": "A: 114 Zuchttiere (Stand 2016)"
+    },
+    {
+      "rasse": "Süddeutsches Kaltblut",
+      "tierart": "Pferde",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023)",
+      "bestand": "D: 155 Hengste / 1.803 Stuten (2023) Ne=484"
+    },
+    {
+      "rasse": "Traber",
+      "tierart": "Pferde",
+      "gefaehrdung": "Deutschland NG (lt. TRGDEU, 2023)",
+      "bestand": "D: 150 Hengste / 271 Stuten (2023) Ne=527"
+    },
+    {
+      "rasse": "Angler Rind alter Zuchtrichtung (Rotvieh alter Angler Zuchtrichtung)",
+      "tierart": "Rinder",
+      "gefaehrdung": "Deutschland ERH (lt. TGRDEU, 2013) GEH: extrem gefährdet",
+      "bestand": "D: 10 Bullen / 125 Kühe (2013) D: 30 Bullen / 325 Kühe (2014) D: 13 Bullen / 340 Kühe (2023)"
+    },
+    {
+      "rasse": "Ansbach-Triesdorfer (Triesdorfer Tiger)",
+      "tierart": "Rinder",
+      "gefaehrdung": "Deutschland PERH (lt. TGRDEU, 2023) GEH: extrem gefährdet",
+      "bestand": "D: 14 Bullen / 281 Kühe (2023)"
+    },
+    {
+      "rasse": "Deutsches Schwarzbuntes Niederungsrind",
+      "tierart": "Rinder",
+      "gefaehrdung": "Deutschland ERH (lt. TGRDEU, 2023) GEH: gefährdet",
+      "bestand": "D: 19 Bullen / 2.802 Kühe (2023)"
+    },
+    {
+      "rasse": "Deutsches Shorthorn",
+      "tierart": "Rinder",
+      "gefaehrdung": "Deutschland ERH (lt. TGRDEU, 2023) GEH: extrem gefährdet",
+      "bestand": "D: 42 Bullen / 404 Kühe (2023)"
+    },
+    {
+      "rasse": "Doppelnutzung Rotbunt",
+      "tierart": "Rinder",
+      "gefaehrdung": "Deutschland ERH (lt. TGRDEU, 2023) GEH: Beobachtung",
+      "bestand": "D: 14 Bullen / 2.864 Kühe (2023)"
+    },
+    {
+      "rasse": "Ennstaler Bergschecke",
+      "tierart": "Rinder",
+      "gefaehrdung": "Österreich ÖNGENE: hochgefährdet",
+      "bestand": "A: 590 Tiere (Herdbuch 2016)"
+    },
+    {
+      "rasse": "Gelbvieh",
+      "tierart": "Rinder",
+      "gefaehrdung": "Deutschland ERH (lt. TGRDEU, 2023) GEH: Beobachtung",
+      "bestand": "D: - Bullen / 1.261 Kühe (2023)"
+    },
+    {
+      "rasse": "Glanrind",
+      "tierart": "Rinder",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023) GEH: extrem gefährdet",
+      "bestand": "D: 62 Bullen / 1027 Kühe (2023)"
+    },
+    {
+      "rasse": "Hinterwälder-Rind",
+      "tierart": "Rinder",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023) GEH: gefährdet",
+      "bestand": "D: 9 Bullen / 313 Kühe (2023)"
+    },
+    {
+      "rasse": "Kärntner Blondvieh",
+      "tierart": "Rinder",
+      "gefaehrdung": "Österreich ÖNGENE: hochgefährdet",
+      "bestand": "A: 1937 Tiere (Herdbuch 2016)"
+    },
+    {
+      "rasse": "Limpurger",
+      "tierart": "Rinder",
+      "gefaehrdung": "Deutschland ERH (lt. TGRDEU, 2023) GEH: extrem gefährdet",
+      "bestand": "D: 31 Bullen / 863 Kühe (2023)"
+    },
+    {
+      "rasse": "Murbodner Rind",
+      "tierart": "Rinder",
+      "gefaehrdung": "Österreich ÖNGENE: gefährdet",
+      "bestand": "A: 6307 Tiere (Herdbuch 2016)"
+    },
+    {
+      "rasse": "Murnau-Werdenfelser",
+      "tierart": "Rinder",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023) GEH: extrem gefährdet",
+      "bestand": "D: 68 Bullen / 340 Kühe (2023) D: 6 Bullen / 185 Kühe (Fleischnutzung, 2023)"
+    },
+    {
+      "rasse": "Original Braunvieh",
+      "tierart": "Rinder",
+      "gefaehrdung": "Deutschland ERH (lt. TGRDEU, 2023) GEH: stark gefährdet Österreich ÖNGENE: hochgefährdet",
+      "bestand": "D: 54 Bullen / 1044 Kühe (2023) A: 2779 Tiere (Herdbuch 2016)"
+    },
+    {
+      "rasse": "Pinzgauer",
+      "tierart": "Rinder",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023) GEH: gefährdet Österreich ÖNGENE: gefährdet",
+      "bestand": "D: 3 Bullen / 1102 Kühe (2023) D: 73 Bullen / 1174 Kühe (Fleischnutzung, 2023) A: 4675 ÖPUL-geförderte Zuchttiere (2015)"
+    },
+    {
+      "rasse": "Pustertaler Sprinzen",
+      "tierart": "Rinder",
+      "gefaehrdung": "Deutschland GEH: extrem gefährdet Österreich ÖNGENE: hochgefährdet",
+      "bestand": "D: 13 Bullen / 201 Kühe (2023) A: 3.500 Tiere (Herdbuch 2025)"
+    },
+    {
+      "rasse": "Rätisches Grauvieh",
+      "tierart": "Rinder",
+      "gefaehrdung": "Schweiz",
+      "bestand": "ohne Angaben"
+    },
+    {
+      "rasse": "Rotes Höhenvieh",
+      "tierart": "Rinder",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023) GEH: gefährdet",
+      "bestand": "D: 150 Bullen / 2.431 Kühe (2023)"
+    },
+    {
+      "rasse": "Tiroler Grauvieh",
+      "tierart": "Rinder",
+      "gefaehrdung": "Österreich ÖNGENE: gefährdet",
+      "bestand": "A: 3839 ÖPUL-geförderte Zuchttiere (2015)"
+    },
+    {
+      "rasse": "Tux-Zillertaler Rind",
+      "tierart": "Rinder",
+      "gefaehrdung": "Österreich ÖNGENE: hochgefährdet",
+      "bestand": "A: 2.200 Tiere (Herdbuch 2025)"
+    },
+    {
+      "rasse": "Uckermärker",
+      "tierart": "Rinder",
+      "gefaehrdung": "Deutschland NG (lt. TGRDEU, 2023)",
+      "bestand": "D: 103 Bullen / 3.273 Kühe (2023)"
+    },
+    {
+      "rasse": "Vorderwälder",
+      "tierart": "Rinder",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023) GEH: Beobachtung",
+      "bestand": "D: 52 Bullen / 4.897 Kühe (2023)"
+    },
+    {
+      "rasse": "Waldviertler Blondvieh",
+      "tierart": "Rinder",
+      "gefaehrdung": "Österreich ÖNGENE: hochgefährdet",
+      "bestand": "A: 1.145 Tiere (Herdbuch 2016)"
+    },
+    {
+      "rasse": "Bentheimer Landschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023) GEH: gefährdet",
+      "bestand": "D: 134 Böcke / 2.901 Auen (2023)"
+    },
+    {
+      "rasse": "Bergschaf Braunes Bergschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland ERH (lt. TGRDEU, 2023) GEH: stark gefährdet Österreich ÖNGENE: hochgefährdet",
+      "bestand": "D: 44 Böcke / 1.017 Auen (2023) A: 7.876 Tiere (Herdbuch 2023)"
+    },
+    {
+      "rasse": "Bergschaf: Geschecktes Bergschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023)",
+      "bestand": "D: 42 Böcke / 492 Auen (2023)"
+    },
+    {
+      "rasse": "Bergschaf: Schwarzes Bergschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland ERH (lt. TGRDEU, 2023)",
+      "bestand": "D: 21 Böcke / 244 Auen (2023)"
+    },
+    {
+      "rasse": "Bergschaf: Weißes Bergschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023) GEH: stark gefährdet",
+      "bestand": "D: 48 Böcke / 1.319 Auen (2023)"
+    },
+    {
+      "rasse": "Coburger Fuchsschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023) GEH: Beobachtung",
+      "bestand": "D: 209 Böcke / 4.311 Auen (2023)"
+    },
+    {
+      "rasse": "Deutsches schwarzköpfiges Fleischschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023)",
+      "bestand": "D: 193 Böcke / 5.981 Auen (2023)"
+    },
+    {
+      "rasse": "Deutsches weißköpfiges Fleischschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023) GEH: gefährdet",
+      "bestand": "D: 73 Böcke / 1.545 Auen (2023)"
+    },
+    {
+      "rasse": "Heidschnucke : Graue gehörnte Heidschnucke",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023)",
+      "bestand": "D: 112 Böcke / 4.210 Auen (2023)"
+    },
+    {
+      "rasse": "Heidschnucke : Weiße gehörnte Heidschnucke",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland ERH (lt. TGRDEU, 2023) GEH: extrem gefährdet",
+      "bestand": "D: 51 Böcke / 976 Auen (2023)"
+    },
+    {
+      "rasse": "Heidschnucke : Weiße hornlose Heidschnucke / Moorschnucke",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023) GEH: gefährdet",
+      "bestand": "D: 68 Böcke / 1.611 Auen (2023)"
+    },
+    {
+      "rasse": "Kärntner Brillenschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland ERH (lt. TGRDEU, 2023) GEH: extrem gefährdet Österreich ÖNGENE: Gefährdete Rasse mit besonderem Generhaltungsprogramm",
+      "bestand": "D: 42 Böcke / 688 Auen (2023) A: 7812 Tiere (Herdbuch 2023)"
+    },
+    {
+      "rasse": "Leineschaf (alten Typs)",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2014) GEH: extrem gefährdet",
+      "bestand": "D: 68 Böcke / 1.370 Auen (2014)"
+    },
+    {
+      "rasse": "Leineschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023)",
+      "bestand": "D: 116 Böcke / 3.882 Auen (2023)"
+    },
+    {
+      "rasse": "Merinofleischschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023) GEH: gefährdet",
+      "bestand": "D: 96 Böcke / 4.735 Auen (2023)"
+    },
+    {
+      "rasse": "Merinolandschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023)",
+      "bestand": "D: 234 Böcke / 11.671 Auen (2023)"
+    },
+    {
+      "rasse": "Merinolangwollschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland ERH (lt. TGRDEU, 2023)",
+      "bestand": "D: 35 Böcke / 3.187 Auen (2023)"
+    },
+    {
+      "rasse": "Ostfriesisches Milchschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023)",
+      "bestand": "D: 156 Böcke / 2.552 Auen (2023)"
+    },
+    {
+      "rasse": "Rauhwolliges Pommersches Landschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023) GEH: gefährdet",
+      "bestand": "D: 202 Böcke / 2.690 Auen (2023)"
+    },
+    {
+      "rasse": "Rhönschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023) GEH: Beobachtung",
+      "bestand": "D: 122 Böcke / 4.643 Auen (2023)"
+    },
+    {
+      "rasse": "Skudde",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023) GEH: gefährdet",
+      "bestand": "D: 192 Böcke / 3.038 Auen (2023)"
+    },
+    {
+      "rasse": "Steinschaf: Alpines Steinschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023) GEH: extrem gefährdet Österreich ÖNGENE: hochgefährdet",
+      "bestand": "D: 55 Böcke / 955 Auen (2023) A: 1.382 Tiere (Herdbuch 2023)"
+    },
+    {
+      "rasse": "Steinschaf: Krainer Steinschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023) GEH Österreich ÖNGENE: hochgefährdet",
+      "bestand": "D: 102 Böcke / 1.236 Auen (2023) A: 7283 Tiere (Herdbuch 2023)"
+    },
+    {
+      "rasse": "Steinschaf: Montafoner Steinschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Österreich ÖNGENE: hochgefährdet",
+      "bestand": "A: 1.298 Tiere (Herdbuch 2023)"
+    },
+    {
+      "rasse": "Steinschaf: Tiroler Steinschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Österreich ÖNGENE: gefährdet",
+      "bestand": "D: 6 Böcke / 26 Auen (2023) A: 4.468 Tiere (Herdbuch 2023)"
+    },
+    {
+      "rasse": "Ungarisches Zackelschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Österreich ÖNGENE: hochgefährdet",
+      "bestand": "D: 22 Böcke / 155 Auen (2023) A: 1.068 Tiere (Herdbuch 2023)"
+    },
+    {
+      "rasse": "Waldschaf",
+      "tierart": "Schafe",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2023) GEH: stark gefährdet Österreich ÖNGENE: hochgefährdet",
+      "bestand": "D: 56 Böcke / 1.026 Auen (2012) A: 3.013 Tiere (Herdbuch 2023)"
+    },
+    {
+      "rasse": "Angler Sattelschwein",
+      "tierart": "Schweine",
+      "gefaehrdung": "Deutschland Beobachtungspopulation",
+      "bestand": "D: 21 Eber / 106 Sauen (2023)"
+    },
+    {
+      "rasse": "Buntes Bentheimer Schwein",
+      "tierart": "Schweine",
+      "gefaehrdung": "Deutschland Beobachtungspopulation GEH: stark gefährdet",
+      "bestand": "D: 127 Eber / 462 Sauen (2023)"
+    },
+    {
+      "rasse": "Deutsche Landrasse",
+      "tierart": "Schweine",
+      "gefaehrdung": "Deutschland Beobachtungspopulation",
+      "bestand": "D: 136 Eber / 7891 Sauen (2023)"
+    },
+    {
+      "rasse": "Deutsches Edelschwein",
+      "tierart": "Schweine",
+      "gefaehrdung": "Deutschland Beobachtungspopulation",
+      "bestand": "D: 112 Eber / 3.835 Sauen (2023)"
+    },
+    {
+      "rasse": "Deutsches Sattelschwein",
+      "tierart": "Schweine",
+      "gefaehrdung": "Deutschland Beobachtungspopulation GEH: extrem gefährdet",
+      "bestand": "D: 34 Eber / 284 Sauen (2023)"
+    },
+    {
+      "rasse": "Leicoma",
+      "tierart": "Schweine",
+      "gefaehrdung": "Deutschland Erhaltungspopulation",
+      "bestand": "D: 16 Eber / 121 Sauen (2023)"
+    },
+    {
+      "rasse": "Mangalitza-Schwein (Wollschwein)",
+      "tierart": "Schweine",
+      "gefaehrdung": "Deutschland GEH: Kategorie „Rassen aus anderen Ländern“ Österreich ÖNGENE: hochgefährdet",
+      "bestand": "D: 17 Eber / 42 Sauen (2018) A: 234 Tiere (Herdbuch 2016)"
+    },
+    {
+      "rasse": "Rotbuntes Husumer Schwein",
+      "tierart": "Schweine",
+      "gefaehrdung": "Deutschland Beobachtungspopulation",
+      "bestand": "D: 35 Eber / 85 Sauen (2023)"
+    },
+    {
+      "rasse": "Schwäbisch-Hällisches Schwein",
+      "tierart": "Schweine",
+      "gefaehrdung": "Deutschland Beobachtungspopulation GEH: stark gefährdet",
+      "bestand": "D: 46 Eber / 453 Sauen (2023)"
+    },
+    {
+      "rasse": "Turopolje-Schwein",
+      "tierart": "Schweine",
+      "gefaehrdung": "Österreich ÖNGENE: hochgefährdet",
+      "bestand": "A: 266 Tiere (Herdbuch 2016)"
+    },
+    {
+      "rasse": "Bunte Deutsche Edelziege (BDE)",
+      "tierart": "Ziegen",
+      "gefaehrdung": "Deutschland Beobachtungspopulation",
+      "bestand": "D: 185 Böcke / 5490 Geißen (2023)"
+    },
+    {
+      "rasse": "Bunte Deutsche Edelziege (BDE) Braune Harzer Ziege seit 2012 im Herdbuch der BDE",
+      "tierart": "Ziegen",
+      "gefaehrdung": "Deutschland BEO (lt. TGRDEU, 2014) GEH",
+      "bestand": "D: 7 Böcke / 175 Geißen (2014)"
+    },
+    {
+      "rasse": "Bunte Deutsche Edelziege (BDE) Erzgebirgsziege seit 2002 im Herdbuch der BDE",
+      "tierart": "Ziegen",
+      "gefaehrdung": "Deutschland GEH",
+      "bestand": "ohne Angaben"
+    },
+    {
+      "rasse": "Bunte Deutsche Edelziege (BDE) Frankenziege seit 1930 im Herdbuch der BDE",
+      "tierart": "Ziegen",
+      "gefaehrdung": "Deutschland GEH",
+      "bestand": "ohne Angaben"
+    },
+    {
+      "rasse": "Bunte Deutsche Edelziege (BDE) Schwarzwaldziege im Herdbuch der BDE",
+      "tierart": "Ziegen",
+      "gefaehrdung": "Deutschland GEH",
+      "bestand": "ohne Angaben"
+    },
+    {
+      "rasse": "Blobe Ziege",
+      "tierart": "Ziegen",
+      "gefaehrdung": "Österreich ÖNGENE: hochgefährdet (2026)",
+      "bestand": "A: 1122 Tiere (2023)"
+    },
+    {
+      "rasse": "Gämsfärbige Gebirgsziege",
+      "tierart": "Ziegen",
+      "gefaehrdung": "Österreich ÖNGENE: gefährdet (2026)",
+      "bestand": "A: 4093 Tiere (2023)"
+    },
+    {
+      "rasse": "Girgentana-Ziege",
+      "tierart": "Ziegen",
+      "gefaehrdung": "Italien Deutschland GEH: hochgefährdet",
+      "bestand": "D: 18 Böcke / 36 Geißen (2014)"
+    },
+    {
+      "rasse": "Kupferhalsziege",
+      "tierart": "Ziegen",
+      "gefaehrdung": "Schweiz hochgefährdet",
+      "bestand": "160 Zuchttiere"
+    },
+    {
+      "rasse": "Pfauenziege",
+      "tierart": "Ziegen",
+      "gefaehrdung": "Österreich ÖNGENE: gefährdet",
+      "bestand": "D: 56 Böcke / 169 Geißen (2014) A: 583 Tiere (2023)"
+    },
+    {
+      "rasse": "Pinzgauer Strahlenziege",
+      "tierart": "Ziegen",
+      "gefaehrdung": "Österreich ÖNGENE: hochgefährdet",
+      "bestand": "A: 418 Tiere (2023)"
+    },
+    {
+      "rasse": "Pinzgauer Ziege",
+      "tierart": "Ziegen",
+      "gefaehrdung": "Österreich ÖNGENE: hochgefährdet",
+      "bestand": "A: 1013 Tiere (2023)"
+    },
+    {
+      "rasse": "Simplonziege",
+      "tierart": "Ziegen",
+      "gefaehrdung": "Schweiz hochgefährdet",
+      "bestand": "ca. 100 Tiere (2017)"
+    },
+    {
+      "rasse": "Steirische Scheckenziege",
+      "tierart": "Ziegen",
+      "gefaehrdung": "Österreich ÖNGENE: hochgefährdet",
+      "bestand": "A: 905 Tiere (2023)"
+    },
+    {
+      "rasse": "Tauernscheckenziege",
+      "tierart": "Ziegen",
+      "gefaehrdung": "Österreich ÖNGENE: hochgefährdet",
+      "bestand": "D: 21 Böcke / 70 Geißen (2014) A: 3772 Tiere (2023)"
+    },
+    {
+      "rasse": "Thüringer Waldziege",
+      "tierart": "Ziegen",
+      "gefaehrdung": "Deutschland Beobachtungspopulation GEH: stark gefährdet",
+      "bestand": "D: 147 Böcke / 1.692 Geißen (2023)"
+    },
+    {
+      "rasse": "Vierhornziege",
+      "tierart": "Ziegen",
+      "gefaehrdung": "Österreich",
+      "bestand": "ohne Angaben"
+    },
+    {
+      "rasse": "Weiße Deutsche Edelziege",
+      "tierart": "Ziegen",
+      "gefaehrdung": "Deutschland Beobachtungspopulation",
+      "bestand": "D: 119 Böcke / 3.374 Geißen (2023)"
+    },
+    {
+      "rasse": "Altsteirer (wildbraun, weiß)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Österreich lt. ÖNGENE , lt. Arche Austria Deutschland Kat. IV (Bestandsbeobachtung)",
+      "bestand": "D: 213/835"
+    },
+    {
+      "rasse": "Andalusier (blau-gesäumt)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. II (stark gefährdet)",
+      "bestand": "D: 74/293"
+    },
+    {
+      "rasse": "Appenzeller Barthuhn",
+      "tierart": "Hühner",
+      "gefaehrdung": "Schweiz lt. ProSpecieRara Schweiz",
+      "bestand": "ohne Angaben"
+    },
+    {
+      "rasse": "Appenzeller Spitzhaubenhuhn",
+      "tierart": "Hühner",
+      "gefaehrdung": "Schweiz lt. ProSpecieRara Schweiz",
+      "bestand": "ohne Angaben"
+    },
+    {
+      "rasse": "Augsburger (schwarz)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. III (gefährdet)",
+      "bestand": "D: 119/480"
+    },
+    {
+      "rasse": "Barnevelder (doppeltgesäumt)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. IV (Bestandsbeobachtung)",
+      "bestand": "D: 290/1316"
+    },
+    {
+      "rasse": "Bergischer Kräher (schwarz-goldbraun gedobbelt )",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. II (stark gefährdet)",
+      "bestand": "D: 62/236"
+    },
+    {
+      "rasse": "Bergischer Schlotterkamm (gesperbert, schwarz, schwarz-gelb gedobbelt , schwarz-weiß gedobbelt )",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. I (extrem gefährdet)",
+      "bestand": "D: 22/88"
+    },
+    {
+      "rasse": "Bielefelder Kennhuhn",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. IV (Bestandsbeobachtung)",
+      "bestand": "720/3063"
+    },
+    {
+      "rasse": "Brabanter",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. I (extrem gefährdet)",
+      "bestand": "22/70"
+    },
+    {
+      "rasse": "Brakel (gold, silber)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. IV (Bestandsbeobachtung)",
+      "bestand": "D: 169/767"
+    },
+    {
+      "rasse": "Breda",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. II (Stark gefährdet)",
+      "bestand": "42/127"
+    },
+    {
+      "rasse": "Deutsches Lachshuhn (lachsfarbig)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. IV (Beobachtung)",
+      "bestand": "D: 309/1326"
+    },
+    {
+      "rasse": "Deutsches Langschan (blau-gesäumt, schwarz, weiß)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. II (stark gefährdet)",
+      "bestand": "D: 71/341"
+    },
+    {
+      "rasse": "Deutsches Reichshuhn (gestreift, rot, weiß, weiß-schwarzcolumbia)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. IV (Bestandsbeobachtung)",
+      "bestand": "D: 231/1027"
+    },
+    {
+      "rasse": "Deutscher Sperber (gesperbert)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. IV (Bestandsbeobachtung)",
+      "bestand": "D: 260/1045"
+    },
+    {
+      "rasse": "Deutsches Zwerghuhn (goldhalsig, orangehalsig, schwarz, silberhalsig, weiß, wildfarbig)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. IV (Beobachtung)",
+      "bestand": "D: 331/1221"
+    },
+    {
+      "rasse": "Deutsche Zwerg-Langschan (blau-gesäumt, rot, schwarz, weiß)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. II (stark gefährdet)",
+      "bestand": "D: 50/202"
+    },
+    {
+      "rasse": "Dominikaner (gesperbert)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. II (stark gefährdet)",
+      "bestand": "D: 37/143"
+    },
+    {
+      "rasse": "Dresdner (braun)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. IV (Bestandsbeobachtung)",
+      "bestand": "D: 416/1879"
+    },
+    {
+      "rasse": "Federfüßiges Zwerghuhn (gelb, gestreift, goldhalsig, gold-porzellanfarbig, isabell-porzellanfarbig, schwarz, schwarz mit weißen Tupfen, silberhalsig, weiß)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. IV (Beobachtung)",
+      "bestand": "D: 818/2841"
+    },
+    {
+      "rasse": "Hamburger Huhn (blau-gesäumt, goldlack, goldsprenkel, schwarz, silberlack, silbersprenkel, weiß)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. III (gefährdet)",
+      "bestand": "D: 359/1.528"
+    },
+    {
+      "rasse": "Italiener (blau, gelb, gestreift, goldbraun-porzellanfarbig, orangehalsig, rebhuhnhalsig, rot, rotgesattelt, schwarz, schwarz-weißgescheckt, weiß)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. IV (Beobachtung)",
+      "bestand": "D: 1.193/6.180"
+    },
+    {
+      "rasse": "Krüper (gesperbert, rebhuhnhalsig, schwarz, schwarz-weißgedoppelt, weiß)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. II (stark gefährdet)",
+      "bestand": "D: 26/93"
+    },
+    {
+      "rasse": "Lakenfelder",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. IV (Beobachtung)",
+      "bestand": "D: 322/1327"
+    },
+    {
+      "rasse": "Mechelner (gesperbert, weiß)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. IV (Beobachtung)",
+      "bestand": "D: 260/1036"
+    },
+    {
+      "rasse": "Minorka (schwarz, weiß)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. II (stark gefährdet)",
+      "bestand": "D: 55/223"
+    },
+    {
+      "rasse": "Nackthalshuhn",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. III (gefährdet)",
+      "bestand": "D: 107/447"
+    },
+    {
+      "rasse": "Orpington (blau-gesäumt, braun-porzellanfarbig, gelb, gestreift, rebhuhnfarbiggebändert, rot, schwarz, schwarz-weißgescheckt, weiß)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. IV (Beobachtung)",
+      "bestand": "D: 276/1035"
+    },
+    {
+      "rasse": "Ostfriesische Möwe (gold-schwarzgeflockt, silber-schwarzgeflockt)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. IV (Bestandsbeobachtung)",
+      "bestand": "D: 213/924"
+    },
+    {
+      "rasse": "Plymouth Rock (gelb, gestreift, schwarz, weiß)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. III (gefährdet)",
+      "bestand": "D: 117/462"
+    },
+    {
+      "rasse": "Ramelsloher (gelb, weiß)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. II (stark gefährdet)",
+      "bestand": "D: 38/160"
+    },
+    {
+      "rasse": "Rheinländer (blau-gesäumt, gesperbert, rebhuhnhalsig, schwarz, silberhalsig, weiß)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. IV (Bestandsbeobachtung)",
+      "bestand": "D: 239/973"
+    },
+    {
+      "rasse": "Sachsenhuhn (gesperbert, schwarz, weiß, gelb)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. III (gefährdet); Kryoreserven für gesperbert, schwarz und weiß werden angelegt",
+      "bestand": "D: 81/374"
+    },
+    {
+      "rasse": "Schweizerhuhn",
+      "tierart": "Hühner",
+      "gefaehrdung": "Schweiz lt. ProSpecieRara Schweiz",
+      "bestand": "ohne Angaben"
+    },
+    {
+      "rasse": "Stoahendl , auch Steinpiperl oder Steinhendl",
+      "tierart": "Hühner",
+      "gefaehrdung": "Österreich lt. alpenrassen.at akut vom Aussterben bedroht",
+      "bestand": "100–200 Tiere (weltweit)"
+    },
+    {
+      "rasse": "Sulmtaler",
+      "tierart": "Hühner",
+      "gefaehrdung": "Österreich lt. ÖNGENE , lt. Arche Austria Deutschland Kat. IV (Bestandsbeobachtung)",
+      "bestand": "D: 286/1211"
+    },
+    {
+      "rasse": "Sundheimer (weiß-schwarzcolumbia)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. IV (Beobachtung)",
+      "bestand": "D: 610/2593"
+    },
+    {
+      "rasse": "Thüringer Barthuhn (blau-gesäumt, chamois-weißgetupft, gelb, gesperbert, gold-schwarzgetupft, rebhuhnhalsig, schwarz, silber-schwarzgetupft, weiß)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. III (gefährdet)",
+      "bestand": "D: 213/837"
+    },
+    {
+      "rasse": "Vorwerkhuhn",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. IV (Beobachtung)",
+      "bestand": "D: 1055/4589"
+    },
+    {
+      "rasse": "Westfälischer Totleger (gold, silber)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. IV (Beobachtung), Kryoreserven wurden angelegt",
+      "bestand": "D: 249/965"
+    },
+    {
+      "rasse": "Wyandotten (blau, gelb, gestreift, gold-blaugesäumt, goldhalsig, gold-schwarzgesäumt, gold-weißgesäumt, rebhuhnfarbiggebändert, rot, schwarz, schwarz-weißgescheckt, silberfarbiggebändert, silberhalsig, silber-schwarzgesäumt, weiß, weiß-schwarzcolumbia)",
+      "tierart": "Hühner",
+      "gefaehrdung": "Deutschland Kat. V (nicht gefährdet)",
+      "bestand": "D: 535/2.148"
+    },
+    {
+      "rasse": "Bayerische Landgans",
+      "tierart": "Gänse",
+      "gefaehrdung": "Deutschland Kat. IV (Bestandsbeobachtung)",
+      "bestand": "D: 219/335"
+    },
+    {
+      "rasse": "Deutsche Legegans (weiß)",
+      "tierart": "Gänse",
+      "gefaehrdung": "Deutschland Kat. II (stark gefährdet)",
+      "bestand": "D: 64/158"
+    },
+    {
+      "rasse": "Diepholzer Gans (weiß)",
+      "tierart": "Gänse",
+      "gefaehrdung": "Deutschland Kat. III (gefährdet) Schweiz lt. ProSpecieRara Schweiz",
+      "bestand": "D: 126/247"
+    },
+    {
+      "rasse": "Emdener Gans (weiß)",
+      "tierart": "Gänse",
+      "gefaehrdung": "Deutschland Kat. III (gefährdet)",
+      "bestand": "D: 167/283"
+    },
+    {
+      "rasse": "Landgans",
+      "tierart": "Gänse",
+      "gefaehrdung": "Österreich lt. ÖNGENE",
+      "bestand": "ohne Angaben"
+    },
+    {
+      "rasse": "Leinegans",
+      "tierart": "Gänse",
+      "gefaehrdung": "Deutschland Kat. III (gefährdet)",
+      "bestand": "D: 85/85"
+    },
+    {
+      "rasse": "Lippegans (weiß)",
+      "tierart": "Gänse",
+      "gefaehrdung": "Deutschland Kat. II (stark gefährdet)",
+      "bestand": "D: 23/43"
+    },
+    {
+      "rasse": "Pommerngans (grau, graugescheckt, weiß)",
+      "tierart": "Gänse",
+      "gefaehrdung": "Deutschland Kat. IV (Bestandsbeobachtung, zurzeit nicht gefährdet)",
+      "bestand": "D: 723/1318"
+    },
+    {
+      "rasse": "Aylesburyente (weiß)",
+      "tierart": "Enten",
+      "gefaehrdung": "Deutschland Kat. II (stark gefährdet)",
+      "bestand": "D: 43/70"
+    },
+    {
+      "rasse": "Deutsche Pekingente (weiß)",
+      "tierart": "Enten",
+      "gefaehrdung": "Deutschland Kat. IV (Bestandsbeobachtung)",
+      "bestand": "D: 183/393"
+    },
+    {
+      "rasse": "Hochbrutflugenten (blau, blau-gelb, schwarz, schwarz mit Latz, weiß, wildfarbig, wildfarbig mit Latz)",
+      "tierart": "Enten",
+      "gefaehrdung": "Deutschland Kat. IV (Beobachtung)",
+      "bestand": "D: 200/379"
+    },
+    {
+      "rasse": "Landente mit und ohne Haube (blau, gelb, schwarz, schwarz-gescheckt, schwarz mit weißem Latz, weiß, wildfarbig, wildfarbig-gescheckt)",
+      "tierart": "Enten",
+      "gefaehrdung": "Deutschland Kat. III (gefährdet)",
+      "bestand": "D: 121/252"
+    },
+    {
+      "rasse": "Laufenten (braun, rehfarbig-weißgescheckt, schwarz, weiß)",
+      "tierart": "Enten",
+      "gefaehrdung": "Deutschland Kat. IV (Beobachtung)",
+      "bestand": "D: 183/330"
+    },
+    {
+      "rasse": "Orpingtonente (gelb)",
+      "tierart": "Enten",
+      "gefaehrdung": "Deutschland Kat. III (gefährdet)",
+      "bestand": "D: 142/316"
+    },
+    {
+      "rasse": "Pommernente (blau, schwarz)",
+      "tierart": "Enten",
+      "gefaehrdung": "Deutschland Kat. III (gefährdet) Österreich lt. Arche Austria Schweiz lt. ProSpecieRara Schweiz",
+      "bestand": "D: 80/162"
+    },
+    {
+      "rasse": "Rouenente (wildfarbig)",
+      "tierart": "Enten",
+      "gefaehrdung": "Deutschland Kat. III (gefährdet)",
+      "bestand": "D: 129/267"
+    },
+    {
+      "rasse": "Warzenente (blau, blau-gescheckt, blau-wildfarbig, braun-gescheckt, braun-wildfarbig, schwarz-gescheckt, weiß, wildfarbig, wildfarbig mit Latz)",
+      "tierart": "Enten",
+      "gefaehrdung": "Deutschland Kat. IV (Bestandsbeobachtung, zur Zeit nicht gefährdet)",
+      "bestand": "D: 1219/2692"
+    },
+    {
+      "rasse": "Deutsche Pute (blau, gelb, kupferfarbig, rot, schwarz, weiß)",
+      "tierart": "Puten",
+      "gefaehrdung": "Deutschland Kat. III (gefährdet)",
+      "bestand": "D: 75/162 (ohne Bronzepute und Cröllwitzer Pute)"
+    },
+    {
+      "rasse": "Bronzepute",
+      "tierart": "Puten",
+      "gefaehrdung": "Deutschland Kat. III (gefährdet) Kat. IV, lt. VHGW",
+      "bestand": "D: 108/225"
+    },
+    {
+      "rasse": "Cröllwitzer Pute",
+      "tierart": "Puten",
+      "gefaehrdung": "Deutschland Kat. IV (Bestandsbeobachtung) Österreich lt. Arche Austria",
+      "bestand": "D: 232/564"
+    },
+    {
+      "rasse": "Coburger Lerchen ursprüngliche Farbenschläge: gelercht silber mit Binden silber ohne Binden",
+      "tierart": "Tauben",
+      "gefaehrdung": "Deutschland 2023: 3.035 Täuber / 3.044 Täubinnen / 511 Züchter Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Luchstauben ursprüngliche Farbenschläge: blau mit weißen Binden blau weißgeschuppt schwarz mit weißen Binden schwarz weißgeschuppt",
+      "tierart": "Tauben",
+      "gefaehrdung": "Deutschland 2023: 2.799 Täuber / 2.823 Täubinnen / 515 Züchter Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Steinheimer Bagdetten ursprüngliche Farbenschläge: blau mit schwarzen Binden blau ohne Binden blaufahl gelercht weiß schwarz rot gelb",
+      "tierart": "Tauben",
+      "gefaehrdung": "Deutschland 2023: 152 Täuber / 150 Täubinnen / 26 Züchter Stark gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Strasser ursprüngliche Farbenschläge: blau mit schwarzen Binden blau ohne Binden blau weißgeschuppt gelb rot schwarz",
+      "tierart": "Tauben",
+      "gefaehrdung": "Deutschland 2023: 4.236 Täuber / 4.288 Täubinnen / 821 Züchter Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Alaska ursprüngliche Farbenschläge: schwarz glänzend",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 1200 Zuchten (2061 Rammler / 3694 Häsinnen) Kat. IV (Vorwarnstufe) 2016: 952 Züchter (1.752 Rammler / 3.049 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 576 Züchter (1.028 Rammler / 1.777 Häsinnen) Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Angorakaninchen ursprüngliche Farbenschläge: farbig, weiß",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 151 Zuchten (233 Rammler / 357 Häsinnen) Kat. II (stark gefährdet, lt. GEH) 2016: 148 Züchter (219 Rammler / 339 Häsinnen) gefährdet 2023: 54 Züchter (86 Rammler / 125 Häsinnen) Kat. I (extrem gefährdet)",
+      "bestand": ""
+    },
+    {
+      "rasse": "Deutsche Großsilber ursprüngliche Farbenschläge: blau, gelb, graubraun, havanna, schwarz",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 178 Zuchten (326 Rammler / 556 Häsinnen) Kat. II (stark gefährdet) 2016: 167 Züchter (290 Rammler / 507 Häsinnen) Gefährdet 2023: 136 Züchter (267 Rammler / 136 Häsinnen) gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Deutsche Riesen ursprüngliche Farbenschläge: blaugrau, chinchillafarbig, dunkelgrau, eisengrau, schwarz, weiß, wildfarben",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 1321 Zuchten (2383 Rammler / 4107 Häsinnen) Kat. IV (Vorwarnstufe) 2016: 984 Züchter (1.854 Rammler / 3.301 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 668 Züchter (1.315 Rammler / 2.225 Häsinnen) Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Deutsche Riesenschecken ursprüngliche Farbenschläge: blau-weiß, schwarz-weiß",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 664 Zuchten (1.310 Rammler / 2.583 Häsinnen) Kat. IV (Vorwarnstufe) 2016: 505 Züchter (996 Rammler / 1.982 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 362 Züchter (872 Rammler / 1.348 Häsinnen) Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Deutsche Widder ursprüngliche Farbenschläge: blau, blau-weiß, chinchillafarbig, dunkelgrau, eisengrau, eisengrau-weiß, hasenfarbig, schwarz, schwarz-weiß, weiß Blauaugen, weiß Rotaugen, wildfarben, wildfarben-weiß",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 935 Zuchten (1635 Rammler / 2782 Häsinnen) Kat. IV (Vorwarnstufe) 2016: 739 Züchter (1.274 Rammler / 2.068 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 441 Züchter (739 Rammler / 1.179 Häsinnen) Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Englische Schecken ursprüngliche Farbenschläge: blau-weiß, schwarz-weiß",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 547 Zuchten (1061 Rammler / 2048 Häsinnen) Kat. III (gefährdet) 2016: 296 Züchter (590 Rammler / 1.105 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 213 Züchter (409 Rammler / 793 Häsinnen) Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Englische Widder (gemäß deutschem Zuchtstandard) ursprüngliche Farbenschläge: blau, blaugrau, dunkelgrau, eisengrau, gelb, schwarz, thüringerfarbig, weiß Rotaugen, wildfarben",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 110 Zuchten (137 Rammler / 196 Häsinnen) Kat. II (stark gefährdet) 2016: 86 Züchter (124 Rammler / 190 Häsinnen) Stark gefährdet 2023: 49 Züchter (69 Rammler / 92 Häsinnen) Extrem gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Fuchskaninchen ursprüngliche Farbenschläge: blau, chinchillafarbig, gelb, havannafarbig, schwarz, weiß Blauaugen, weiß Rotaugen",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2023: 43 Züchter (69 Rammler / 100 Häsinnen) Extrem gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Großchinchilla ursprüngliche Farbenschläge: schiefer-graublau, flockig schwarz schattiert",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2016: 475 Züchter (814 Rammler / 1.484 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 251 Züchter (452 Rammler / 799 Häsinnen) Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Hasenkaninchen ursprüngliche Farbenschläge: rotbraun",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 810 Zuchten (1382 Rammler / 2314 Häsinnen) Kat. IV (Vorwarnstufe) nach GEH 2016: 599 Züchter (1.070 Rammler / 1.686 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 344 Züchter (592 Rammler / 981 Häsinnen) Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Havanna ursprüngliche Farbenschläge: dunkelbraun glänzend",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 711 Zuchten (1174 Rammler / 1998 Häsinnen) Kat. III (gefährdet) nach GEH 2016: 577 Züchter (977 Rammler / 1.644 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 289 Züchter (514 Rammler / 1.137 Häsinnen) Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Helle Großsilber ursprüngliche Farbenschläge: bläulich weiß silberfarbig",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 1.398 Zuchten (2.474 Rammler / 4.338 Häsinnen) Kat. IV (Vorwarnstufe) 2016: 1.179 Züchter (2.128 Rammler / 3.677 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 707 Züchter (1.290 Rammler / 2.240 Häsinnen) Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Hermelin ursprüngliche Farbenschläge: weiß (Rotaugen und Blauaugen) mit gutem Glanz",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 1.023 Zuchten (2.041 Rammler / 3.703 Häsinnen) Kat. IV (Vorwarnstufe) 2016: 835 Züchter (1.684 Rammler / 3.176 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 441 Züchter (910 Rammler / 1.655 Häsinnen) Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Holländer ursprüngliche Farbenschläge: blau-weiß, dunkelgrau-weiß, eisengrau-weiß, gelb-weiß, havannafarbig-weiß, schwarz-weiß, thüringerfarbig-weiß, wildfarben-weiß",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 865 Zuchten (1525 Rammler / 2865 Häsinnen) Kat. IV (Vorwarnstufe) 2016: 551 Züchter (975 Rammler / 1.801 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 424 Züchter (764 Rammler / 424 Häsinnen) Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Japaner ursprüngliche Farbenschläge: schwarz-gelb",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 164 Zuchten (356 Rammler / 692 Häsinnen) Kat. II (stark gefährdet) 2016: 151 Züchter (337 Rammler / 625 Häsinnen) gefährdet 2023: 92 Züchter (205 Rammler / 364 Häsinnen) stark gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Kleinchinchilla ursprüngliche Farbenschläge: bläulich lichtes aschgrau mit kräftiger, flockiger Schattierung",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 747 Zuchten (1219 Rammler / 2113 Häsinnen) Kat. III (gefährdet) 2016: 606 Züchter (1.054 Rammler / 1.831 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 315 Züchter (587 Rammler / 988 Häsinnen) Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Kleinsilber ursprüngliche Farbenschläge: blau, gelb, graubraun, havannafarbig, schwarz",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 2953 Zuchten (5117 Rammler / 8772 Häsinnen) Kat. IV (Vorwarnstufe) 2016: 1.936 Züchter (3.576 Rammler / 6.014 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 990 Züchter (1.900 Rammler / 3.252 Häsinnen) Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Lohkaninchen ursprüngliche Farbenschläge: blau, havannafarbig, schwarz",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 1920 Zuchten (3273 Rammler / 5431 Häsinnen) Kat. IV (Vorwarnstufe) 2016: 1.524 Züchter (2.621 Rammler / 4.351 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 663 Züchter (1.102 Rammler / 1.771 Häsinnen) Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Luxkaninchen ursprüngliche Farbenschläge: lichtes Blau mit silbrigem Glanz und schwach durchscheinender braunroter Tönung",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 100 Zuchten (161 Rammler / 268 Häsinnen) Kat. II (stark gefährdet) 2016: 116 Züchter (208 Rammler / 347 Häsinnen) stark gefährdet 2023: 96 Züchter (154 Rammler / 270 Häsinnen) stark gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Marburger Feh ursprüngliche Farbenschläge: zart abgetöntes, lichtes Blau mit leicht bräunlichem Schleier",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 650 Zuchten (1065 Rammler / 1786 Häsinnen) Kat. III (gefährdet) 2016: 560 Züchter (931 Rammler / 1.518 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 316 Züchter (537 Rammler / 872 Häsinnen) Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Marderkaninchen ursprüngliche Farbenschläge: braun",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 164 Zuchten (315 Rammler / 487 Häsinnen) Kat. II (stark gefährdet) 2016: 57 Züchter (117 Rammler / 213 Häsinnen) Extrem gefährdet 2023: 46 Züchter (90 Rammler / 141 Häsinnen) Extrem gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Meißner Widder ursprüngliche Farbenschläge: blau-silber, gelb-silber, graubraun-silber, havanna-silber, schwarz-silber",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 157 Zuchten (261 Rammler / 413 Häsinnen) Kat. II (stark gefährdet) 2016: 136 Züchter (232 Rammler / 378 Häsinnen) Gefährdet 2023: 91 Züchter (149 Rammler / 227 Häsinnen) Stark gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Perlfeh ursprüngliche Farbenschläge: blau-wildfarbig",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 444 Zuchten (755 Rammler / 1.277 Häsinnen) Kat. III (gefährdet) 2016: 400 Züchter (717 Rammler / 1.163 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 302 Züchter (578 Rammler / 886 Häsinnen) Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Rexkaninchen ursprüngliche Farbenschläge: Blau-Rexe, Castor-Rexe, Chin-Rexe, Feh-Rexe, Havanna-Rexe, Loh-Rexe, Lux-Rexe, Schwarz-Rexe, Weiß-Rexe",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 2561 Zuchten (4309 Rammler / 7346 Häsinnen) Kat. IV (Vorwarnstufe) 2016: 1.714 Züchter (2.733 Rammler / 4.614 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 943 Züchter (1.594 Rammler / 2.605 Häsinnen) Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Rheinische Schecken ursprüngliche Farbenschläge: weiß, schwarz, gelb",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 201 Zuchten (438 Rammler / 864 Häsinnen) Kat. II (stark gefährdet) 2016: 209 Züchter (455 Rammler / 866 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 123 Züchter (266 Rammler / 484 Häsinnen) gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Rote Neuseeländer ursprüngliche Farbenschläge: rot",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 1261 Zuchten (2114 Rammler / 3725 Häsinnen) Kat. IV (Vorwarnstufe) 2016: 1.118 Züchter (1.972 Rammler / 3.369 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 620 Züchter (1.079 Rammler / 1.839 Häsinnen) Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Russen ursprüngliche Farbenschläge: schwarz-weiß",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 541 Zuchten (912 Rammler / 1.518 Häsinnen) Kat. III (gefährdet) 2016: 411 Züchter (706 Rammler / 1.199 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 217 Züchter (383 Rammler / 629 Häsinnen) Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Thüringer ursprüngliche Farbenschläge: gelb-rötlichbraun mit rußartigem Schleier",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 1.060 Zuchten (1.826 Rammler / 3.169 Häsinnen) Kat. IV (Vorwarnstufe) 2016: 874 Züchter (1.577 Rammler / 2.671 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 498 Züchter (873 Rammler / 1.495 Häsinnen) Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Wiener ursprüngliche Farbenschläge: blau, blaugrau, grau, schwarz, weiß",
+      "tierart": "Kaninchen",
+      "gefaehrdung": "Deutschland 2013: 3.698 Zuchten (6.469 Rammler / 1.1604 Häsinnen) Kat. IV (Vorwarnstufe) 2016: 3.084 Züchter (5.512 Rammler / 9.692 Häsinnen) Beobachtung, zurzeit nicht gefährdet 2023: 1788 Züchter (3.384 Rammler / 5.863 Häsinnen) Beobachtung, zurzeit nicht gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Altdeutscher Hütehund : Westerwälder Kuhhund",
+      "tierart": "Hunde",
+      "gefaehrdung": "Deutschland GEH: extrem gefährdet, ca. 2 - 5 Würfe pro Jahr",
+      "bestand": ""
+    },
+    {
+      "rasse": "Altdeutscher Hütehund : Schafpudel /Hütepudel",
+      "tierart": "Hunde",
+      "gefaehrdung": "Deutschland GEH: gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Altdeutscher Hütehund : Gelbbacke",
+      "tierart": "Hunde",
+      "gefaehrdung": "Deutschland GEH: gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Altdeutscher Hütehund : Schwarzer",
+      "tierart": "Hunde",
+      "gefaehrdung": "Deutschland GEH: gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Altdeutscher Hütehund : Fuchs",
+      "tierart": "Hunde",
+      "gefaehrdung": "Deutschland GEH: gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Altdeutscher Hütehund : Tiger",
+      "tierart": "Hunde",
+      "gefaehrdung": "Deutschland GEH: gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Altdeutscher Hütehund : Strobel",
+      "tierart": "Hunde",
+      "gefaehrdung": "Deutschland GEH: gefährdet",
+      "bestand": ""
+    },
+    {
+      "rasse": "Großspitz",
+      "tierart": "Hunde",
+      "gefaehrdung": "Deutschland GEH: extrem gefährdet, ca. 40 - 80 Welpen pro Jahr",
+      "bestand": ""
+    },
+    {
+      "rasse": "Mittelspitz",
+      "tierart": "Hunde",
+      "gefaehrdung": "Deutschland GEH: stark gefährdet, ca. 80 - 120 Welpen pro Jahr",
+      "bestand": ""
+    },
+    {
+      "rasse": "Deutscher Pinscher",
+      "tierart": "Hunde",
+      "gefaehrdung": "Deutschland GEH: gefährdet, ca. 370 - 450 Welpen pro Jahr (GEH 2010 - 2013)",
+      "bestand": ""
+    },
+    {
+      "rasse": "Österreichischer Pinscher",
+      "tierart": "Hunde",
+      "gefaehrdung": "Österreich Arche Austria: ca. 55 - 60 Welpen pro Jahr (KÖP 2010 - 2014)",
+      "bestand": ""
+    },
+    {
+      "rasse": "Dunkle Europäische Biene",
+      "tierart": "Bienen",
+      "gefaehrdung": "Deutschland Kat. I (extrem gefährdet, lt. GEH ); die Ökotypen Heidebiene , Deutsche Braune Biene , Schwarze Alpenländische Biene gelten in Deutschland als ausgerottet Österreich lt. ÖNGENE lt. ARCHE Austria Schweiz lt. ProSpecieRara",
+      "bestand": ""
+    },
+    {
+      "rasse": "Kärntner Biene",
+      "tierart": "Bienen",
+      "gefaehrdung": "Österreich lt. ÖNGENE",
+      "bestand": ""
+    }
+  ],
+  "meta": {
+    "title": "Gefährdete Nutztierrassen in Deutschland und Österreich - Free Download",
+    "description": "Gefährdete einheimische Nutztierrassen (Pferde, Rinder, Schafe, Schweine, Ziegen, Geflügel, Kaninchen, Hunde, Bienen) mit Gefährdungseinstufung und Bestandszahlen. Contains 207 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Gefährdete Nutztierrassen in Deutschland und Österreich | ListBase",
+    "seo_description": "Download Gefährdete Nutztierrassen in Deutschland und Österreich — 207 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 207 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_gefährdeter_Nutztierrassen"
+    ]
+  }
+}

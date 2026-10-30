@@ -1,12 +1,12 @@
 {
   "lang": "de",
-  "generated": "2026-10-29T02:17:53.925Z",
-  "total_datasets": 508,
-  "total_records": 1874312,
+  "generated": "2026-10-30T02:35:27.029Z",
+  "total_datasets": 509,
+  "total_records": 1874519,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -129,6 +129,31 @@
         "xlsx": {
           "name": "de-at-genussregionen_DE.xlsx",
           "size": 18987
+        }
+      }
+    },
+    {
+      "id": "de-gefaehrdete-nutztierrassen",
+      "name": "Gefährdete Nutztierrassen in Deutschland und Österreich",
+      "category": "agriculture",
+      "record_count": 207,
+      "columns": [
+        "rasse",
+        "tierart",
+        "gefaehrdung",
+        "bestand"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_gefährdeter_Nutztierrassen",
+      "updated": "2026-10",
+      "size": 53352,
+      "files": {
+        "csv": {
+          "name": "de-gefaehrdete-nutztierrassen_DE.csv",
+          "size": 33779
+        },
+        "xlsx": {
+          "name": "de-gefaehrdete-nutztierrassen_DE.xlsx",
+          "size": 17910
         }
       }
     },
