@@ -1,0 +1,401 @@
+{
+  "id": "de-groesste-familienunternehmen",
+  "name": "Die größten Familienunternehmen in Deutschland",
+  "title": "Die größten Familienunternehmen in Deutschland",
+  "description": "Die 50 größten Familienunternehmen Deutschlands nach Umsatz (Mio. €) mit Mitarbeiterzahl und Eigentümerfamilie.",
+  "category": "economy",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_größten_Familienunternehmen_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_größten_Familienunternehmen_in_Deutschland",
+  "updated": "2026-10",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "unternehmen",
+      "label": "Unternehmen",
+      "type": "string"
+    },
+    {
+      "key": "umsatz_mio_eur",
+      "label": "Umsatz Mio Eur",
+      "type": "number"
+    },
+    {
+      "key": "mitarbeiter",
+      "label": "Mitarbeiter",
+      "type": "number"
+    },
+    {
+      "key": "familie",
+      "label": "Familie",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rang": 1,
+      "unternehmen": "Volkswagen AG",
+      "umsatz_mio_eur": 322000,
+      "mitarbeiter": 684000,
+      "familie": "Porsche und Piëch"
+    },
+    {
+      "rang": 2,
+      "unternehmen": "Schwarz-Gruppe",
+      "umsatz_mio_eur": 167000,
+      "mitarbeiter": 575000,
+      "familie": "Dieter Schwarz"
+    },
+    {
+      "rang": 3,
+      "unternehmen": "BMW AG",
+      "umsatz_mio_eur": 155000,
+      "mitarbeiter": 155000,
+      "familie": "Quandt /Klatten"
+    },
+    {
+      "rang": 4,
+      "unternehmen": "Aldi Nord/Süd",
+      "umsatz_mio_eur": 113000,
+      "mitarbeiter": 250000,
+      "familie": "Albrecht"
+    },
+    {
+      "rang": 5,
+      "unternehmen": "Continental AG",
+      "umsatz_mio_eur": 41000,
+      "mitarbeiter": 203000,
+      "familie": "Schaeffler"
+    },
+    {
+      "rang": 6,
+      "unternehmen": "Phoenix Pharmahandel",
+      "umsatz_mio_eur": 36000,
+      "mitarbeiter": 48000,
+      "familie": "Merckle"
+    },
+    {
+      "rang": 7,
+      "unternehmen": "Metro AG",
+      "umsatz_mio_eur": 31000,
+      "mitarbeiter": 91000,
+      "familie": "Schmidt-Ruthenbeck /Beisheim"
+    },
+    {
+      "rang": 8,
+      "unternehmen": "Boehringer Ingelheim",
+      "umsatz_mio_eur": 26000,
+      "mitarbeiter": 54000,
+      "familie": "Boehringer/von Baumbach"
+    },
+    {
+      "rang": 9,
+      "unternehmen": "Heraeus",
+      "umsatz_mio_eur": 26000,
+      "mitarbeiter": 16000,
+      "familie": "Heraeus"
+    },
+    {
+      "rang": 10,
+      "unternehmen": "Fresenius",
+      "umsatz_mio_eur": 22000,
+      "mitarbeiter": 194000,
+      "familie": "Else Kröner-Fresenius (Stiftung)"
+    },
+    {
+      "rang": 11,
+      "unternehmen": "Ceconomy",
+      "umsatz_mio_eur": 22000,
+      "mitarbeiter": 41000,
+      "familie": "Haniel"
+    },
+    {
+      "rang": 12,
+      "unternehmen": "Henkel",
+      "umsatz_mio_eur": 22000,
+      "mitarbeiter": 48000,
+      "familie": "Henkel"
+    },
+    {
+      "rang": 13,
+      "unternehmen": "Heidelberg Materials",
+      "umsatz_mio_eur": 21000,
+      "mitarbeiter": 51000,
+      "familie": "Merckle"
+    },
+    {
+      "rang": 14,
+      "unternehmen": "Merck KGaA",
+      "umsatz_mio_eur": 21000,
+      "mitarbeiter": 63000,
+      "familie": "Merck"
+    },
+    {
+      "rang": 15,
+      "unternehmen": "Würth-Gruppe",
+      "umsatz_mio_eur": 20000,
+      "mitarbeiter": 87000,
+      "familie": "Würth"
+    },
+    {
+      "rang": 16,
+      "unternehmen": "Bertelsmann",
+      "umsatz_mio_eur": 20000,
+      "mitarbeiter": 80000,
+      "familie": "Mohn"
+    },
+    {
+      "rang": 17,
+      "unternehmen": "Schaeffler-Gruppe",
+      "umsatz_mio_eur": 16000,
+      "mitarbeiter": 83000,
+      "familie": "Schaeffler"
+    },
+    {
+      "rang": 18,
+      "unternehmen": "Otto Group",
+      "umsatz_mio_eur": 16000,
+      "mitarbeiter": 41000,
+      "familie": "Otto"
+    },
+    {
+      "rang": 19,
+      "unternehmen": "dm-drogerie markt",
+      "umsatz_mio_eur": 16000,
+      "mitarbeiter": 80000,
+      "familie": "Werner"
+    },
+    {
+      "rang": 20,
+      "unternehmen": "Knauf Gruppe",
+      "umsatz_mio_eur": 15000,
+      "mitarbeiter": 40000,
+      "familie": "Knauf"
+    },
+    {
+      "rang": 21,
+      "unternehmen": "Marquard & Bahls",
+      "umsatz_mio_eur": 15000,
+      "mitarbeiter": 8000,
+      "familie": "Weisser"
+    },
+    {
+      "rang": 22,
+      "unternehmen": "Cordes und Graefe",
+      "umsatz_mio_eur": 15000,
+      "mitarbeiter": 32000,
+      "familie": "Hollweg"
+    },
+    {
+      "rang": 23,
+      "unternehmen": "Droege Group",
+      "umsatz_mio_eur": 14000,
+      "mitarbeiter": 10000,
+      "familie": "Droege"
+    },
+    {
+      "rang": 24,
+      "unternehmen": "Rossmann",
+      "umsatz_mio_eur": 14000,
+      "mitarbeiter": 62000,
+      "familie": "Roßmann"
+    },
+    {
+      "rang": 25,
+      "unternehmen": "Mahle",
+      "umsatz_mio_eur": 13000,
+      "mitarbeiter": 72000,
+      "familie": "Mahle (Stiftung)"
+    },
+    {
+      "rang": 26,
+      "unternehmen": "Remondis",
+      "umsatz_mio_eur": 12000,
+      "mitarbeiter": 43000,
+      "familie": "Rethmann"
+    },
+    {
+      "rang": 27,
+      "unternehmen": "Freudenberg",
+      "umsatz_mio_eur": 12000,
+      "mitarbeiter": 52000,
+      "familie": "Freudenberg"
+    },
+    {
+      "rang": 28,
+      "unternehmen": "Carl Zeiss",
+      "umsatz_mio_eur": 10000,
+      "mitarbeiter": 43000,
+      "familie": "Carl-Zeiss-Stiftung"
+    },
+    {
+      "rang": 29,
+      "unternehmen": "Globus Holding",
+      "umsatz_mio_eur": 10000,
+      "mitarbeiter": 47000,
+      "familie": "Bruch"
+    },
+    {
+      "rang": 30,
+      "unternehmen": "MHK Group",
+      "umsatz_mio_eur": 10000,
+      "mitarbeiter": 1000,
+      "familie": "Strothoff"
+    },
+    {
+      "rang": 31,
+      "unternehmen": "Beiersdorf AG",
+      "umsatz_mio_eur": 9000,
+      "mitarbeiter": 22000,
+      "familie": "Herz"
+    },
+    {
+      "rang": 32,
+      "unternehmen": "E/D/E",
+      "umsatz_mio_eur": 9000,
+      "mitarbeiter": 1000,
+      "familie": "Trautwein"
+    },
+    {
+      "rang": 33,
+      "unternehmen": "Wilhelm Hoyer",
+      "umsatz_mio_eur": 9000,
+      "mitarbeiter": 2000,
+      "familie": "Hoyer"
+    },
+    {
+      "rang": 34,
+      "unternehmen": "B. Braun Melsungen",
+      "umsatz_mio_eur": 9000,
+      "mitarbeiter": 63000,
+      "familie": "Braun"
+    },
+    {
+      "rang": 35,
+      "unternehmen": "Tengelmann",
+      "umsatz_mio_eur": 9000,
+      "mitarbeiter": 70000,
+      "familie": "Haub"
+    },
+    {
+      "rang": 36,
+      "unternehmen": "Helm AG",
+      "umsatz_mio_eur": 8000,
+      "mitarbeiter": 2000,
+      "familie": "Schnabel"
+    },
+    {
+      "rang": 37,
+      "unternehmen": "Brose Fahrzeugteile",
+      "umsatz_mio_eur": 8000,
+      "mitarbeiter": 32000,
+      "familie": "Brose"
+    },
+    {
+      "rang": 38,
+      "unternehmen": "Knorr-Bremse",
+      "umsatz_mio_eur": 8000,
+      "mitarbeiter": 33000,
+      "familie": "Thiele"
+    },
+    {
+      "rang": 39,
+      "unternehmen": "Rhenus",
+      "umsatz_mio_eur": 8000,
+      "mitarbeiter": 40000,
+      "familie": "Rethmann"
+    },
+    {
+      "rang": 40,
+      "unternehmen": "Deichmann SE",
+      "umsatz_mio_eur": 7000,
+      "mitarbeiter": 49000,
+      "familie": "Deichmann"
+    },
+    {
+      "rang": 41,
+      "unternehmen": "Dachser",
+      "umsatz_mio_eur": 7000,
+      "mitarbeiter": 34000,
+      "familie": "Rhode-Dachser/Simon"
+    },
+    {
+      "rang": 42,
+      "unternehmen": "Tönnies Holding",
+      "umsatz_mio_eur": 7000,
+      "mitarbeiter": 15000,
+      "familie": "Tönnies"
+    },
+    {
+      "rang": 43,
+      "unternehmen": "Goldbeck",
+      "umsatz_mio_eur": 7000,
+      "mitarbeiter": 11000,
+      "familie": "Goldbeck"
+    },
+    {
+      "rang": 44,
+      "unternehmen": "Diersch & Schröder",
+      "umsatz_mio_eur": 6000,
+      "mitarbeiter": 1000,
+      "familie": "Karstedt"
+    },
+    {
+      "rang": 45,
+      "unternehmen": "Eberspächer Gruppe",
+      "umsatz_mio_eur": 6000,
+      "mitarbeiter": 11000,
+      "familie": "Peters/Baumann"
+    },
+    {
+      "rang": 46,
+      "unternehmen": "Bechtle AG",
+      "umsatz_mio_eur": 6000,
+      "mitarbeiter": 15000,
+      "familie": "Schick"
+    },
+    {
+      "rang": 47,
+      "unternehmen": "Wacker Chemie",
+      "umsatz_mio_eur": 6000,
+      "mitarbeiter": 16000,
+      "familie": "Wacker"
+    },
+    {
+      "rang": 48,
+      "unternehmen": "Wieland Gruppe",
+      "umsatz_mio_eur": 6000,
+      "mitarbeiter": 10000,
+      "familie": "Schleicher"
+    },
+    {
+      "rang": 49,
+      "unternehmen": "Hornbach",
+      "umsatz_mio_eur": 6000,
+      "mitarbeiter": 21000,
+      "familie": "Hornbach"
+    },
+    {
+      "rang": 50,
+      "unternehmen": "United Internet",
+      "umsatz_mio_eur": 6000,
+      "mitarbeiter": 11000,
+      "familie": "Dommermuth"
+    }
+  ],
+  "meta": {
+    "title": "Die größten Familienunternehmen in Deutschland - Free Download",
+    "description": "Die 50 größten Familienunternehmen Deutschlands nach Umsatz (Mio. €) mit Mitarbeiterzahl und Eigentümerfamilie. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Die größten Familienunternehmen in Deutschland | ListBase",
+    "seo_description": "Download Die größten Familienunternehmen in Deutschland — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_größten_Familienunternehmen_in_Deutschland"
+    ]
+  }
+}

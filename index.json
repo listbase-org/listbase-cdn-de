@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-30T02:35:34.842Z",
-  "total_datasets": 510,
-  "total_records": 1874539,
+  "generated": "2026-10-30T02:35:42.483Z",
+  "total_datasets": 511,
+  "total_records": 1874589,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "education",
@@ -766,6 +766,32 @@
         "xlsx": {
           "name": "de-groesste-banken_DE.xlsx",
           "size": 8255
+        }
+      }
+    },
+    {
+      "id": "de-groesste-familienunternehmen",
+      "name": "Die größten Familienunternehmen in Deutschland",
+      "category": "economy",
+      "record_count": 50,
+      "columns": [
+        "rang",
+        "unternehmen",
+        "umsatz_mio_eur",
+        "mitarbeiter",
+        "familie"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_größten_Familienunternehmen_in_Deutschland",
+      "updated": "2026-10",
+      "size": 9639,
+      "files": {
+        "csv": {
+          "name": "de-groesste-familienunternehmen_DE.csv",
+          "size": 2470
+        },
+        "xlsx": {
+          "name": "de-groesste-familienunternehmen_DE.xlsx",
+          "size": 8802
         }
       }
     },
