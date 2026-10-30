@@ -1,0 +1,1600 @@
+{
+  "id": "de-meistverkaufte-singles",
+  "name": "Die meistverkauften Singles in Deutschland",
+  "title": "Die meistverkauften Singles in Deutschland",
+  "description": "Die meistverkauften Singles in Deutschland (Millionenseller und Höchstauszeichnungen) mit Veröffentlichungsdatum, Interpret, Autoren/Produzenten und Verkäufen.",
+  "category": "music",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_meistverkauften_Singles_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_meistverkauften_Singles_in_Deutschland",
+  "updated": "2026-10",
+  "record_count": 193,
+  "columns": [
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "veroeffentlichung",
+      "label": "Veroeffentlichung",
+      "type": "number"
+    },
+    {
+      "key": "titel",
+      "label": "Titel",
+      "type": "string"
+    },
+    {
+      "key": "interpret",
+      "label": "Interpret",
+      "type": "string"
+    },
+    {
+      "key": "autoren_produzenten",
+      "label": "Autoren Produzenten",
+      "type": "string"
+    },
+    {
+      "key": "verkaeufe",
+      "label": "Verkaeufe",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rang": 1,
+      "veroeffentlichung": "09.1997",
+      "titel": "Something About the Way You Look Tonight / Candle in the Wind 1997",
+      "interpret": "Elton John",
+      "autoren_produzenten": "A: Elton John und Bernie Taupin P: Chris Thomas / George Martin",
+      "verkaeufe": "9× Platin (4.500.000+)"
+    },
+    {
+      "rang": 2,
+      "veroeffentlichung": "11.1957",
+      "titel": "March from the River Kwai",
+      "interpret": "Mitch Miller & His Orchestra",
+      "autoren_produzenten": "A: Kenneth J. Alford und Malcolm Arnold P: Mitch Miller",
+      "verkaeufe": "Gold (4.000.000+)"
+    },
+    {
+      "rang": 3,
+      "veroeffentlichung": "11.1996",
+      "titel": "Time to Say Goodbye (Con te partirò)",
+      "interpret": "Andrea Bocelli & Sarah Brightman",
+      "autoren_produzenten": "A: Frank Peterson , Lucio Quarantotto und Francesco Sartori P: Frank Peterson",
+      "verkaeufe": "11× Gold (2.750.000+)"
+    },
+    {
+      "rang": 4,
+      "veroeffentlichung": "11.2013",
+      "titel": "Atemlos durch die Nacht",
+      "interpret": "Helene Fischer",
+      "autoren_produzenten": "A: Kristina Bach P: Erich Ließmann",
+      "verkaeufe": "6× Platin (2.400.000+)"
+    },
+    {
+      "rang": 4,
+      "veroeffentlichung": "01.2017",
+      "titel": "Shape of You",
+      "interpret": "Ed Sheeran",
+      "autoren_produzenten": "A: Kevin Briggs, Kandi Burruss, Tameka Cottle , Steve Mac , Johnny McDaid und Ed Sheeran P: Steve Mac",
+      "verkaeufe": "6× Platin (2.400.000+)"
+    },
+    {
+      "rang": 6,
+      "veroeffentlichung": "11.1984",
+      "titel": "Last Christmas",
+      "interpret": "Wham!",
+      "autoren_produzenten": "A: George Michael P: George Michael",
+      "verkaeufe": "7× Gold (2.100.000+)"
+    },
+    {
+      "rang": 6,
+      "veroeffentlichung": "10.1994",
+      "titel": "All I Want for Christmas Is You",
+      "interpret": "Mariah Carey",
+      "autoren_produzenten": "A: Walter Afanasieff und Mariah Carey P: Walter Afanasieff und Mariah Carey",
+      "verkaeufe": "7× Gold (2.100.000+)"
+    },
+    {
+      "rang": 6,
+      "veroeffentlichung": "09.1998",
+      "titel": "Flugzeuge im Bauch",
+      "interpret": "Oli.P",
+      "autoren_produzenten": "A: Herbert Grönemeyer P: Florian Fackler und Marco Spürgin",
+      "verkaeufe": "7× Gold (2.100.000+)"
+    },
+    {
+      "rang": 6,
+      "veroeffentlichung": "04.1999",
+      "titel": "Mambo No. 5 (A Little Bit of…)",
+      "interpret": "Lou Bega",
+      "autoren_produzenten": "A: Lou Bega , Zippy Davis und Pérez Prado P: Achim Kleist und Wolfgang von Webenau",
+      "verkaeufe": "7× Gold (2.100.000+)"
+    },
+    {
+      "rang": 6,
+      "veroeffentlichung": "11.2019",
+      "titel": "Blinding Lights",
+      "interpret": "The Weeknd",
+      "autoren_produzenten": "A: Ahmad Balshe , Oscar Holter, Karl Sandberg , Jason Quenneville und Abel Tesfaye P: Oscar Holter, Karl Sandberg und Abel Tesfaye",
+      "verkaeufe": "7× Gold (2.100.000+)"
+    },
+    {
+      "rang": 11,
+      "veroeffentlichung": "08.1939",
+      "titel": "Lili Marleen",
+      "interpret": "Lale Andersen",
+      "autoren_produzenten": "A: Hans Leip und Norbert Schultze P: Nils Nobach",
+      "verkaeufe": "Gold (2.000.000+)"
+    },
+    {
+      "rang": 11,
+      "veroeffentlichung": "03.1956",
+      "titel": "Heimweh (Dort, wo die Blumen blüh’n)",
+      "interpret": "Freddy Quinn",
+      "autoren_produzenten": "A: Ernst Bader , Dieter Rasch, Richard Dehr, Terry Gilkyson und Frank Miller P: Lotar Olias",
+      "verkaeufe": "2× Platin (2.000.000+)"
+    },
+    {
+      "rang": 11,
+      "veroeffentlichung": "10.1956",
+      "titel": "Love Me Tender",
+      "interpret": "Elvis Presley",
+      "autoren_produzenten": "A: Ken Darby , Vera Matson, Elvis Presley und George R. Poulton P: Steve Sholes",
+      "verkaeufe": "2× Platin (2.000.000+)"
+    },
+    {
+      "rang": 11,
+      "veroeffentlichung": "10.1957",
+      "titel": "Der lachende Vagabund",
+      "interpret": "Fred Bertelmann",
+      "autoren_produzenten": "A: Jim Lowe und Peter Moesser P: Hans Bertram",
+      "verkaeufe": "Gold (2.000.000+)"
+    },
+    {
+      "rang": 11,
+      "veroeffentlichung": "11.1962",
+      "titel": "Junge, komm bald wieder",
+      "interpret": "Freddy Quinn",
+      "autoren_produzenten": "A: Lotar Olias und Walter Rothenburg P: Lotar Olias",
+      "verkaeufe": "2× Platin (2.000.000+)"
+    },
+    {
+      "rang": 11,
+      "veroeffentlichung": "05.1965",
+      "titel": "Il Silenzio (Abschiedsmelodie)",
+      "interpret": "Nini Rosso",
+      "autoren_produzenten": "A: Willy Guglielmo Brezza und Nini Rosso P: Y. Honda und J. Uchino",
+      "verkaeufe": "Platin (2.000.000+)"
+    },
+    {
+      "rang": 11,
+      "veroeffentlichung": "09.1967",
+      "titel": "Massachusetts",
+      "interpret": "Bee Gees",
+      "autoren_produzenten": "A: Barry Gibb , Maurice Gibb und Robin Gibb P: Barry Gibb, Maurice Gibb, Robin Gibb und Robert Stigwood",
+      "verkaeufe": "2× Platin (2.000.000+)"
+    },
+    {
+      "rang": 11,
+      "veroeffentlichung": "02.1971",
+      "titel": "Butterfly",
+      "interpret": "Danyel Gérard",
+      "autoren_produzenten": "A: Danyel Gérard und Erich Ließmann P: Hervé Roy und Claude Vallois",
+      "verkaeufe": "Gold (2.000.000+)"
+    },
+    {
+      "rang": 11,
+      "veroeffentlichung": "12.1997",
+      "titel": "My Heart Will Go On",
+      "interpret": "Céline Dion",
+      "autoren_produzenten": "A: James Horner und Will Jennings P: Walter Afanasieff und James Horner",
+      "verkaeufe": "4× Platin (2.000.000+)"
+    },
+    {
+      "rang": 20,
+      "veroeffentlichung": "10.1981",
+      "titel": "Don’t Stop Believin’",
+      "interpret": "Journey",
+      "autoren_produzenten": "A: Jonathan Cain , Steve Perry und Neal Schon P: Kevin Elson und Mike Stone",
+      "verkaeufe": "3× Platin (1.800.000+)"
+    },
+    {
+      "rang": 20,
+      "veroeffentlichung": "10.2001",
+      "titel": "In the End",
+      "interpret": "Linkin Park",
+      "autoren_produzenten": "A: Chester Bennington , Rob Bourdon , Brad Delson , Joe Hahn und Mike Shinoda P: Don Gilmore",
+      "verkaeufe": "3× Platin (1.800.000+)"
+    },
+    {
+      "rang": 20,
+      "veroeffentlichung": "05.2002",
+      "titel": "Without Me",
+      "interpret": "Eminem",
+      "autoren_produzenten": "A: Jeffrey Bass , Kevin Bell, Anne Dudley, Trevor Horn, Malcolm McLaren und Marshall Mathers P: Marshall Mathers",
+      "verkaeufe": "3× Platin (1.800.000+)"
+    },
+    {
+      "rang": 20,
+      "veroeffentlichung": "10.2002",
+      "titel": "Lose Yourself",
+      "interpret": "Eminem",
+      "autoren_produzenten": "A: Jeffrey Bass, Luis Resto und Marshall Mathers P: Marshall Mathers",
+      "verkaeufe": "3× Platin (1.800.000+)"
+    },
+    {
+      "rang": 20,
+      "veroeffentlichung": "08.2013",
+      "titel": "All of Me",
+      "interpret": "John Legend",
+      "autoren_produzenten": "A: Toby Gad und John Stephens P: John Stephens und Dave Tozer",
+      "verkaeufe": "3× Platin (1.800.000+)"
+    },
+    {
+      "rang": 20,
+      "veroeffentlichung": "01.2023",
+      "titel": "Komet",
+      "interpret": "Apache 207 & Udo Lindenberg",
+      "autoren_produzenten": "A: Christopher Brenner , Udo Lindenberg , Lennard Oestmann , Aris Pehlivanian , Marco Tscheschlok und Volkan Yaman P: Lennard Oestmann und Aris Pehlivanian",
+      "verkaeufe": "3× Platin (1.800.000+)"
+    },
+    {
+      "rang": 20,
+      "veroeffentlichung": "01.2017",
+      "titel": "Despacito",
+      "interpret": "Luis Fonsi feat. Daddy Yankee",
+      "autoren_produzenten": "A: Ramón Ayala , Erika Ender und Luis Rodríguez P: Mauricio Rengifo und Andrés Torres",
+      "verkaeufe": "9× Gold (1.800.000+)"
+    },
+    {
+      "rang": 20,
+      "veroeffentlichung": "08.2019",
+      "titel": "Roller",
+      "interpret": "Apache 207",
+      "autoren_produzenten": "A: Jennifer Allendörfer , Luís-Florentino Cruz und Volkan Yaman P: Lucry und Suena",
+      "verkaeufe": "9× Gold (1.800.000+)"
+    },
+    {
+      "rang": 28,
+      "veroeffentlichung": "12.2001",
+      "titel": "I Believe",
+      "interpret": "Bro’Sis",
+      "autoren_produzenten": "A: Alex Christensen , J. Ena, Jens Klein und Pete Könemann P: Alex Christensen",
+      "verkaeufe": "7× Gold (1.750.000+)"
+    },
+    {
+      "rang": 29,
+      "veroeffentlichung": "10.2012",
+      "titel": "Another Love",
+      "interpret": "Tom Odell",
+      "autoren_produzenten": "A: Tom Odell P: Dan Grech-Marguerat",
+      "verkaeufe": "11× Gold (1.650.000+)"
+    },
+    {
+      "rang": 29,
+      "veroeffentlichung": "06.2013",
+      "titel": "Wake Me Up",
+      "interpret": "Avicii & Aloe Blacc",
+      "autoren_produzenten": "A: Tim Bergling , Aloe Blacc, Mike Einziger und Aileen Quinn P: Avicii und Ash Pournouri",
+      "verkaeufe": "11× Gold (1.650.000+)"
+    },
+    {
+      "rang": 31,
+      "veroeffentlichung": "05.2014",
+      "titel": "Cheerleader (Felix Jaehn Remix)",
+      "interpret": "Omi / Felix Jaehn",
+      "autoren_produzenten": "A: Mark Bradford, Clifton Dillon, Ryan Dillon, Sly Dunbar und Omar Samuel Pasley P: Clifton Dillon und Omar Samuel Pasley",
+      "verkaeufe": "4× Platin (1.600.000+)"
+    },
+    {
+      "rang": 31,
+      "veroeffentlichung": "09.2016",
+      "titel": "Ohne mein Team",
+      "interpret": "Bonez MC & RAF Camora feat. Maxwell",
+      "autoren_produzenten": "A: John-Lorenz Moser , Maxwell Kwabena Schaden und Raphael Ragucci P: RAF Camora",
+      "verkaeufe": "4× Platin (1.600.000+)"
+    },
+    {
+      "rang": 31,
+      "veroeffentlichung": "09.2017",
+      "titel": "Was du Liebe nennst",
+      "interpret": "Bausa",
+      "autoren_produzenten": "A: The Cratez , Julian Otto , Paul Philipp Spurny und Martin Peter Willumeit P: The Cratez und Jugglerz",
+      "verkaeufe": "4× Platin (1.600.000+)"
+    },
+    {
+      "rang": 34,
+      "veroeffentlichung": "09.1991",
+      "titel": "Smells Like Teen Spirit",
+      "interpret": "Nirvana",
+      "autoren_produzenten": "A: Kurt Cobain , Dave Grohl und Krist Novoselić P: Butch Vig",
+      "verkaeufe": "5× Gold (1.500.000+)"
+    },
+    {
+      "rang": 34,
+      "veroeffentlichung": "10.1992",
+      "titel": "Conquest of Paradise",
+      "interpret": "Vangelis",
+      "autoren_produzenten": "A: Vangelis P: Vangelis",
+      "verkaeufe": "3× Platin (1.500.000+)"
+    },
+    {
+      "rang": 34,
+      "veroeffentlichung": "05.1997",
+      "titel": "I’ll Be Missing You",
+      "interpret": "Puff Daddy feat. Faith Evans & 112",
+      "autoren_produzenten": "A: Faith Evans , Todd Gaither und Sting P: Sean Combs und Stevie J.",
+      "verkaeufe": "3× Platin (1.500.000+)"
+    },
+    {
+      "rang": 34,
+      "veroeffentlichung": "09.2000",
+      "titel": "Last Resort",
+      "interpret": "Papa Roach",
+      "autoren_produzenten": "A: David Buckner , Tobin Esperance , Jerry Horton und Jacoby Shaddix P: Jay Baumgardner",
+      "verkaeufe": "5× Gold (1.500.000+)"
+    },
+    {
+      "rang": 34,
+      "veroeffentlichung": "11.2001",
+      "titel": "Wonderful Dream (Holidays Are Coming)",
+      "interpret": "Melanie Thornton",
+      "autoren_produzenten": "A: Rich Airis, Terry Coffey, Mitchell Lennox, Julien Nairolf, Ben Naftali, Jon Nettlesbey, Scott Temper und Melanie Thornton P: Mitchell Lennox und Julien Nairolf",
+      "verkaeufe": "5× Gold (1.500.000+)"
+    },
+    {
+      "rang": 34,
+      "veroeffentlichung": "01.2004",
+      "titel": "Yeah!",
+      "interpret": "Usher feat. Lil Jon & Ludacris",
+      "autoren_produzenten": "A: Christopher Bridges , Sean Garrett , LaMarquis Jefferson, Robert McDowell, James Phillips, Jonathan Smith und Patrick Smith P: Jonathan Smith",
+      "verkaeufe": "5× Gold (1.500.000+)"
+    },
+    {
+      "rang": 34,
+      "veroeffentlichung": "05.2009",
+      "titel": "I Gotta Feeling",
+      "interpret": "The Black Eyed Peas",
+      "autoren_produzenten": "A: William Adams , Stacy Ferguson , Jaime Gomez , Allan Pineda Lindo , Frédéric Riesterer und David Guetta P: David Guetta",
+      "verkaeufe": "5× Gold (1.500.000+)"
+    },
+    {
+      "rang": 34,
+      "veroeffentlichung": "08.2010",
+      "titel": "Love the Way You Lie",
+      "interpret": "Eminem feat. Rihanna",
+      "autoren_produzenten": "A: Alexander Grant , Holly Hafermann und Marshall Mathers P: Alexander Grant",
+      "verkaeufe": "5× Gold (1.500.000+)"
+    },
+    {
+      "rang": 34,
+      "veroeffentlichung": "06.2015",
+      "titel": "Lush Life",
+      "interpret": "Zara Larsson",
+      "autoren_produzenten": "A: Emanuel Abrahamsson, Iman Hultén, Markus Sepehrmanesh, Linnea Södahl , Christoph Bauss und Fridolin Walcher P: Christoph Bauss und Fridolin Walcher",
+      "verkaeufe": "Diamant (1.500.000+)"
+    },
+    {
+      "rang": 34,
+      "veroeffentlichung": "07.2015",
+      "titel": "Ich will nur dass du weißt",
+      "interpret": "SDP feat. Adel Tawil",
+      "autoren_produzenten": "A: Dag-Alexis Kopplin und Vincent Stein P: Vincent Stein",
+      "verkaeufe": "Diamant (1.500.000+)"
+    },
+    {
+      "rang": 34,
+      "veroeffentlichung": "09.2017",
+      "titel": "Señorita",
+      "interpret": "Kay One feat. Pietro Lombardi",
+      "autoren_produzenten": "A: Boris Fleck , Kenneth Glöckler , Pietro Lombardi und Georg Maier P: Stard Ova",
+      "verkaeufe": "Diamant (1.500.000+)"
+    },
+    {
+      "rang": 34,
+      "veroeffentlichung": "08.2022",
+      "titel": "Wildberry Lillet",
+      "interpret": "Nina Chuba",
+      "autoren_produzenten": "A: Wanja Bierbaum, Justin Fröhlich, Nina Kaiser und Yannick Johannknecht P: Michael Burek und Yannick Johannknecht",
+      "verkaeufe": "Diamant (1.500.000+)"
+    },
+    {
+      "rang": 46,
+      "veroeffentlichung": "11.2015",
+      "titel": "Faded",
+      "interpret": "Alan Walker & Iselin Solheim",
+      "autoren_produzenten": "A: Jesper Borgen, Anders Frøen, Gunnar Greve Pettersen und Alan Walker P: Jesper Borgen, Anders Frøen und Alan Walker",
+      "verkaeufe": "7× Gold (1.400.000+)"
+    },
+    {
+      "rang": 46,
+      "veroeffentlichung": "09.2017",
+      "titel": "Perfect",
+      "interpret": "Ed Sheeran",
+      "autoren_produzenten": "A: Ed Sheeran P: Will Hicks und Ed Sheeran",
+      "verkaeufe": "7× Gold (1.400.000+)"
+    },
+    {
+      "rang": 46,
+      "veroeffentlichung": "06.2018",
+      "titel": "In My Mind",
+      "interpret": "Dynoro & Gigi D’Agostino",
+      "autoren_produzenten": "A: Aden Forte, Ivan Gough , Joshua Soon, Georgina Kingsley , Carlo Montagner, Luigino Di Agostino , Paolo Sandrini und Diego Leoni P: Edvinas Pechovskis und Daumantas Vinkevicius",
+      "verkaeufe": "7× Gold (1.400.000+)"
+    },
+    {
+      "rang": 46,
+      "veroeffentlichung": "05.2019",
+      "titel": "Dance Monkey",
+      "interpret": "Tones and I",
+      "autoren_produzenten": "A: Toni Watson P: Konstantin Kersting",
+      "verkaeufe": "7× Gold (1.400.000+)"
+    },
+    {
+      "rang": 50,
+      "veroeffentlichung": "02.2007",
+      "titel": "Ein Stern (… der deinen Namen trägt)",
+      "interpret": "DJ Ötzi & Nik P.",
+      "autoren_produzenten": "A: Nikolaus Presnik P: Ivo Mohring und Tantris",
+      "verkaeufe": "9× Gold (1.350.000+)"
+    },
+    {
+      "rang": 50,
+      "veroeffentlichung": "09.2007",
+      "titel": "Apologize",
+      "interpret": "Timbaland presents OneRepublic",
+      "autoren_produzenten": "A: Tim Mosley und Ryan Tedder P: Greg Wells und Ryan Tedder",
+      "verkaeufe": "9× Gold (1.350.000+)"
+    },
+    {
+      "rang": 50,
+      "veroeffentlichung": "12.2013",
+      "titel": "Happy",
+      "interpret": "Pharrell Williams",
+      "autoren_produzenten": "A: Pharrell Williams P: Pharrell Williams",
+      "verkaeufe": "9× Gold (1.350.000+)"
+    },
+    {
+      "rang": 53,
+      "veroeffentlichung": "10.1998",
+      "titel": "Believe",
+      "interpret": "Cher",
+      "autoren_produzenten": "A: Paul Barry, Matt Gray, Brian Higgins, Stuart McLennan, Timothy Powell und Steve Torch P: Brian Rawling und Mark Taylor",
+      "verkaeufe": "5× Gold (1.250.000+)"
+    },
+    {
+      "rang": 53,
+      "veroeffentlichung": "06.1999",
+      "titel": "Blue (Da Ba Dee)",
+      "interpret": "Eiffel 65",
+      "autoren_produzenten": "A: Massimo Gabutti, Maurizio Lobina und Gianfranco Randone P: Massimo Gabutti und Luciano Zucchet",
+      "verkaeufe": "5× Gold (1.250.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "10.1975",
+      "titel": "Bohemian Rhapsody",
+      "interpret": "Queen",
+      "autoren_produzenten": "A: Freddie Mercury P: Roy Baker , John Deacon , Brian May , Freddie Mercury und Roger Taylor",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "05.1982",
+      "titel": "Eye of the Tiger",
+      "interpret": "Survivor",
+      "autoren_produzenten": "A: Jim Peterik und Frankie Sullivan P: Jim Peterik und Frankie Sullivan",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "06.1982",
+      "titel": "Africa",
+      "interpret": "Toto",
+      "autoren_produzenten": "A: David Paich und Jeff Porcaro P: James Guthrie, David Hungate , Bobby Kimball , Steve Lukather , David Paich, Jeff Porcaro und Steve Porcaro",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "01.1983",
+      "titel": "Billie Jean",
+      "interpret": "Michael Jackson",
+      "autoren_produzenten": "A: Michael Jackson P: Quincy Jones und Michael Jackson",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "06.1985",
+      "titel": "Summer of ’69",
+      "interpret": "Bryan Adams",
+      "autoren_produzenten": "A: Bryan Adams und Jim Vallance P: Bryan Adams und Bob Clearmountain",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "11.1986",
+      "titel": "Driving Home for Christmas",
+      "interpret": "Chris Rea",
+      "autoren_produzenten": "A: Chris Rea P: Stuart Eales und Chris Rea",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "09.1990",
+      "titel": "Thunderstruck",
+      "interpret": "AC/DC",
+      "autoren_produzenten": "A: Angus Young und Malcolm Young P: Bruce Fairbairn",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "04.1992",
+      "titel": "Nothing Else Matters",
+      "interpret": "Metallica",
+      "autoren_produzenten": "A: James Hetfield und Lars Ulrich P: James Hetfield, Bob Rock und Lars Ulrich",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "10.1995",
+      "titel": "Wonderwall",
+      "interpret": "Oasis",
+      "autoren_produzenten": "A: Noel Gallagher P: Noel Gallagher und Owen Morris",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "08.1998",
+      "titel": "Narcotic",
+      "interpret": "Liquido",
+      "autoren_produzenten": "A: Tim Eiermann und Wolfgang Schrödl P: Tim Eiermann, Wolle Maier , Wolfgang Schrödl, Stefan Schulte-Holthaus und Olaf Wozniak",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "04.1999",
+      "titel": "I Want It That Way",
+      "interpret": "Backstreet Boys",
+      "autoren_produzenten": "A: Andreas Carlsson und Karl Sandberg P: Kristian Lundin und Karl Sandberg",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "07.2000",
+      "titel": "Teenage Dirtbag",
+      "interpret": "Wheatus",
+      "autoren_produzenten": "A: Brendan Brown P: Brendan Brown, Peter Brown, Philip Jimenez und Rich Liegey",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "09.2001",
+      "titel": "How You Remind Me",
+      "interpret": "Nickelback",
+      "autoren_produzenten": "A: Chad Kroeger , Mike Kroeger , Ryan Peake und Ryan Vikedal P: Chad Kroeger, Mike Kroeger, Ryan Peake, Ryan Vikedal und Rick Parashar",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "03.2002",
+      "titel": "Ein Kompliment",
+      "interpret": "Sportfreunde Stiller",
+      "autoren_produzenten": "A: Peter Brugger , Rüdiger Linhof und Florian Weber P: Uwe Hoffmann",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "05.2002",
+      "titel": "’Till I Collapse",
+      "interpret": "Eminem feat. Nate Dogg",
+      "autoren_produzenten": "A: Nathaniel Hale , Luis Resto, Marshall Mathers und Brian May P: Marshall Mathers",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "09.2008",
+      "titel": "Poker Face",
+      "interpret": "Lady Gaga",
+      "autoren_produzenten": "A: Stefani Germanotta und RedOne P: RedOne",
+      "verkaeufe": "4× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "05.2010",
+      "titel": "Waka Waka (This Time for Africa)",
+      "interpret": "Shakira feat. Freshlyground",
+      "autoren_produzenten": "A: Jean Zé Bella, Eugene Doo Belley, Emile Kojidie, John Hill, Simon Attwell, Peter Cohen, Josh Hawks, Zolani Mahola, Julio Sigauque, Kyla-Rose Smith , Seredeal Scheepers und Shakira Mebarak Ripol P: John Hill und Shakira Mebarak Ripol",
+      "verkaeufe": "4× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "02.2011",
+      "titel": "S&M",
+      "interpret": "Rihanna",
+      "autoren_produzenten": "A: Ester Dean , Mikkel Eriksen , Tor Hermansen und Sandy Wilhelm P: Mikkel Eriksen, Tor Hermansen",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "03.2011",
+      "titel": "Give Me Everything",
+      "interpret": "Pitbull feat. Nayer , Ne-Yo & Afrojack",
+      "autoren_produzenten": "A: Armando Pérez , Shaffer Smith und Nick van de Wall P: Nick van de Wall",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "07.2011",
+      "titel": "Somebody That I Used to Know",
+      "interpret": "Gotye feat. Kimbra",
+      "autoren_produzenten": "A: Luiz Bonfá und Wally De Backer P: Wally De Backer",
+      "verkaeufe": "4× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "12.2011",
+      "titel": "Titanium",
+      "interpret": "David Guetta feat. Sia",
+      "autoren_produzenten": "A: Sia Furler, David Guetta, Giorgio Tuinfort und Nick van de Wall P: David Guetta, Giorgio Tuinfort und Nick van de Wall",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "05.2012",
+      "titel": "Sweater Weather",
+      "interpret": "The Neighbourhood",
+      "autoren_produzenten": "A: Zachary Abels , Jeremy Freedman und Jesse Rutherford P: Justyn Pilbrow",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "06.2012",
+      "titel": "One Day / Reckoning Song",
+      "interpret": "Asaf Avidan & the Mojos / Wankelmut",
+      "autoren_produzenten": "A: Asaf Avidan P: Asaf Avidan und Ori Winokur",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "08.2012",
+      "titel": "Hall of Fame",
+      "interpret": "The Script feat. will.i.am",
+      "autoren_produzenten": "A: James Barry, Daniel O’Donoghue und Mark Sheehan P: James Barry, Daniel O’Donoghue und Mark Sheehan",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "09.2012",
+      "titel": "Diamonds",
+      "interpret": "Rihanna",
+      "autoren_produzenten": "A: Mikkel Eriksen, Tor Hermansen, Sia Furler und Benjamin Levine P: Mikkel Eriksen, Tor Hermansen und Benjamin Levine",
+      "verkaeufe": "4× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "09.2012",
+      "titel": "Scream & Shout",
+      "interpret": "will.i.am feat. Britney Spears",
+      "autoren_produzenten": "A: William Adams , Jean-Baptiste Kouame, Tula Contostavlos und Jef Martens P: William Adams und Jef Martens",
+      "verkaeufe": "4× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "03.2013",
+      "titel": "Blurred Lines",
+      "interpret": "Robin Thicke feat. T.I. & Pharrell Williams",
+      "autoren_produzenten": "A: Marvin Gaye , Clifford Harris Jr., Robin Thicke und Pharrell Williams P: Pharrell Williams",
+      "verkaeufe": "4× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "05.2013",
+      "titel": "Radioactive",
+      "interpret": "Imagine Dragons",
+      "autoren_produzenten": "A: Kendrick Lamar , Ben McKee , Josh Mosser, Daniel Platzman , Dan Reynolds , Wayne Sermon und Alexander Grant P: Alexander Grant",
+      "verkaeufe": "4× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "11.2013",
+      "titel": "I See Fire",
+      "interpret": "Ed Sheeran",
+      "autoren_produzenten": "A: Ed Sheeran P: Pete Cobbin und Ed Sheeran",
+      "verkaeufe": "4× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "01.2014",
+      "titel": "Waves (Robin Schulz Remix)",
+      "interpret": "Mr. Probz / Robin Schulz",
+      "autoren_produzenten": "A: Dennis Princewell Stehr P: Mr. Probz",
+      "verkaeufe": "4× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "01.2014",
+      "titel": "Rather Be",
+      "interpret": "Clean Bandit feat. Jess Glynne",
+      "autoren_produzenten": "A: Grace Chatto , Jessica Glynne , Nicole Marshall, James Napier und Jack Patterson P: Grace Chatto und Jack Patterson",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "09.2014",
+      "titel": "Shut Up + Dance",
+      "interpret": "Walk the Moon",
+      "autoren_produzenten": "A: Ben Berger, Eli Maiman, Nicholas Petricca, Kevin Ray und Sean Waugaman P: Tim Pagnotta",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "11.2014",
+      "titel": "Uptown Funk",
+      "interpret": "Mark Ronson feat. Bruno Mars",
+      "autoren_produzenten": "A: Jeff Bhasker, Devon Gallaspy, Peter Hernandez , Philip Lawrence, Lonnie Simmons , Rudolph Taylor, Robert Wilson, Ronnie Wilson, Nicholaus Williams und Mark Ronson P: Jeff Bhasker, Peter Hernandez und Mark Ronson",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "04.2015",
+      "titel": "Photograph",
+      "interpret": "Ed Sheeran",
+      "autoren_produzenten": "A: Martin Harrington, Tom Leonard, Johnny McDaid und Ed Sheeran P: Jeff Bhasker und Emile Haynie",
+      "verkaeufe": "3× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "12.2015",
+      "titel": "Die immer lacht",
+      "interpret": "Stereoact feat. Kerstin Ott",
+      "autoren_produzenten": "A: Kerstin Ott P: Stereoact",
+      "verkaeufe": "3× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "01.2016",
+      "titel": "Hulapalu",
+      "interpret": "Andreas Gabalier",
+      "autoren_produzenten": "A: Andreas Gabalier P: Mathias Roska",
+      "verkaeufe": "3× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "06.2016",
+      "titel": "Starboy",
+      "interpret": "The Weeknd feat. Daft Punk",
+      "autoren_produzenten": "A: Thomas Bangalter , Guy-Manuel de Homem-Christo , Martin McKinney, Abel Tesfaye und Henry Walter P: Thomas Bangalter und Guy-Manuel de Homem-Christo",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "02.2017",
+      "titel": "Something Just Like This",
+      "interpret": "The Chainsmokers & Coldplay",
+      "autoren_produzenten": "A: Andrew Taggart und Coldplay P: The Chainsmokers",
+      "verkaeufe": "3× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "04.2017",
+      "titel": "Thunder",
+      "interpret": "Imagine Dragons",
+      "autoren_produzenten": "A: Ben McKee, Daniel Platzman, Dan Reynolds, Wayne Sermon, Jayson DeZuzio und Alexander Grant P: Alexander Grant und Jayson DeZuzio",
+      "verkaeufe": "3× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "04.2017",
+      "titel": "Unforgettable",
+      "interpret": "French Montana feat. Swae Lee",
+      "autoren_produzenten": "A: Khalif Brown , Karim Kharbouch , Aujla Singh, McCulloch Sutphin, Christopher Washington und Michael Williams P: Jaegan, McCulloch Sutphin, Christopher Washington und Michael Williams",
+      "verkaeufe": "3× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "06.2017",
+      "titel": "Heute mit mir",
+      "interpret": "Nimo",
+      "autoren_produzenten": "A: Phil Ratey und Nima Yaghobi P: Phil Ratey",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "09.2017",
+      "titel": "Rockstar",
+      "interpret": "Post Malone feat. 21 Savage",
+      "autoren_produzenten": "A: 21 Savage , Olufunmibi Awoshiley, Joey Badass , Louis Bell, Post Malone und Miles Ale P: Louis Bell und Tank God",
+      "verkaeufe": "3× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "08.2018",
+      "titel": "500 PS",
+      "interpret": "Bonez MC & RAF Camora",
+      "autoren_produzenten": "A: The Cratez, John-Lorenz Moser und Raphael Ragucci P: The Cratez und RAF Camora",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "09.2018",
+      "titel": "Shallow",
+      "interpret": "Bradley Cooper & Lady Gaga",
+      "autoren_produzenten": "A: Stefani Germanotta, Anthony Rossomando , Andrew Wyatt und Mark Ronson P: Stefani Germanotta und Benjamin Rice",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "06.2020",
+      "titel": "Heat Waves",
+      "interpret": "Glass Animals",
+      "autoren_produzenten": "A: Dave Bayley P: Dave Bayley",
+      "verkaeufe": "3× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "06.2021",
+      "titel": "Sommergewitter",
+      "interpret": "Pashanim",
+      "autoren_produzenten": "A: Can Bayram und Andreas Janetschko P: Andreas Janetschko",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "07.2021",
+      "titel": "Stay",
+      "interpret": "The Kid Laroi feat. Justin Bieber",
+      "autoren_produzenten": "A: Justin Bieber, Charlton Howard , Isaac de Boni, Michael Mulé, Subhaan Rahmaan, Omer Fedi, Magnus Høiberg, Charles Puth und Blake Slatkin P: Omer Fedi, Charlton Howard, Charles Puth und Blake Slatkin",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "08.2022",
+      "titel": "I’m Good (Blue)",
+      "interpret": "David Guetta & Bebe Rexha",
+      "autoren_produzenten": "A: Massimo Gabutti, Maurizio Lobina, Gianfranco Randone , David Guetta, Philip Plested, Camille Purcell und Bleta Rexha P: David Guetta und Timofey Reznikov",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "01.2023",
+      "titel": "Flowers",
+      "interpret": "Miley Cyrus",
+      "autoren_produzenten": "A: Miley Cyrus, Gregory Hein und Michael Pollack P: Thomas Hull und Tyler Johnson",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 55,
+      "veroeffentlichung": "08.2023",
+      "titel": "Prada",
+      "interpret": "Cassö , D-Block Europe & Raye",
+      "autoren_produzenten": "A: Ricky Banton , Obi Ebele, Uche Ebele, Rachel Keen , Adam Williams und Jahmori Simmons P: Cameron Cassels",
+      "verkaeufe": "2× Platin (1.200.000+)"
+    },
+    {
+      "rang": 105,
+      "veroeffentlichung": "04.1963",
+      "titel": "Ich will ’nen Cowboy als Mann",
+      "interpret": "Gitte Hænning",
+      "autoren_produzenten": "A: Rudi Lindt und Peter Ström P: Heinz Gietz",
+      "verkaeufe": "(1.050.000+)"
+    },
+    {
+      "rang": 105,
+      "veroeffentlichung": "09.2003",
+      "titel": "Numb",
+      "interpret": "Linkin Park",
+      "autoren_produzenten": "A: Chester Bennington, Rob Bourdon, Brad Delson, Dave Farrell , Joe Hahn und Mike Shinoda P: Chester Bennington, Rob Bourdon, Brad Delson, Dave Farrell, Don Gilmore, Joe Hahn und Mike Shinoda",
+      "verkaeufe": "7× Gold (1.050.000+)"
+    },
+    {
+      "rang": 105,
+      "veroeffentlichung": "09.2009",
+      "titel": "Alors on danse",
+      "interpret": "Stromae",
+      "autoren_produzenten": "A: Paul van Haver P: Dimitri Borrey und Paul van Haver",
+      "verkaeufe": "7× Gold (1.050.000+)"
+    },
+    {
+      "rang": 105,
+      "veroeffentlichung": "08.2010",
+      "titel": "Danza Kuduro",
+      "interpret": "Don Omar feat. Lucenzo",
+      "autoren_produzenten": "A: Faouze Barkati, Cyril Govic, Alexander Scander, Fabrice Toigo, Ali Moore und Filipe Oliveira P: Faouze Barkati und Fabrice Toigo",
+      "verkaeufe": "7× Gold (1.050.000+)"
+    },
+    {
+      "rang": 105,
+      "veroeffentlichung": "02.2011",
+      "titel": "On the Floor",
+      "interpret": "Jennifer Lopez feat. Pitbull",
+      "autoren_produzenten": "A: AJ Junior, Kinda Hamid, Bilal Hajji, RedOne, Gonzalo Hermosa, Ulises Hermosa , Armando Pérez und Geraldo Sandell P: RedOne",
+      "verkaeufe": "7× Gold (1.050.000+)"
+    },
+    {
+      "rang": 105,
+      "veroeffentlichung": "09.2013",
+      "titel": "Take Me to Church",
+      "interpret": "Hozier",
+      "autoren_produzenten": "A: Andrew Hozier-Byrne P: Andrew Hozier-Byrne und Rob Kirwan",
+      "verkaeufe": "7× Gold (1.050.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "01.1955",
+      "titel": "Rock Around the Clock",
+      "interpret": "Bill Haley & His Comets",
+      "autoren_produzenten": "A: Jimmy DeKnight und Max C. Freedman P: Milt Gabler",
+      "verkaeufe": "Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "02.1957",
+      "titel": "Heimatlos",
+      "interpret": "Freddy Quinn",
+      "autoren_produzenten": "A: Peter Moesser und Lotar Olias P: Sigrid Volkmann",
+      "verkaeufe": "Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "03.1958",
+      "titel": "Sail Along, Silv’ry Moon",
+      "interpret": "Billy Vaughn & His Orchestra",
+      "autoren_produzenten": "A: Harry Tobias und Percy Wenrich P: —",
+      "verkaeufe": "Gold (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "10.1958",
+      "titel": "La Paloma",
+      "interpret": "Billy Vaughn & His Orchestra",
+      "autoren_produzenten": "A: Sebastián de Yradier P: Randy Wood",
+      "verkaeufe": "Gold (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "01.1959",
+      "titel": "Die Gitarre und das Meer",
+      "interpret": "Freddy Quinn",
+      "autoren_produzenten": "A: Lotar Olias und Aldo von Pinelli P: Lotar Olias",
+      "verkaeufe": "Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "03.1959",
+      "titel": "Morgen",
+      "interpret": "Ivo Robić",
+      "autoren_produzenten": "A: Peter Moesser P: Bert Kaempfert",
+      "verkaeufe": "Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "08.1959",
+      "titel": "Banjo Boy",
+      "interpret": "Jan & Kjeld",
+      "autoren_produzenten": "A: Charly Niessen P: —",
+      "verkaeufe": "Gold (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "08.1959",
+      "titel": "Marina",
+      "interpret": "Rocco Granata",
+      "autoren_produzenten": "A: Rocco Granata P: —",
+      "verkaeufe": "Gold (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "08.1959",
+      "titel": "Wunderland bei Nacht",
+      "interpret": "Bert Kaempfert",
+      "autoren_produzenten": "A: Klaus Günter Neumann und Willi Stanke P: Bert Kaempfert",
+      "verkaeufe": "Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "10.1959",
+      "titel": "Unter fremden Sternen (Fährt ein weißes Schiff nach Hongkong)",
+      "interpret": "Freddy Quinn",
+      "autoren_produzenten": "A: Lotar Olias und Aldo von Pinelli P: —",
+      "verkaeufe": "Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "02.1960",
+      "titel": "Seemann (deine Heimat ist das Meer)",
+      "interpret": "Lolita",
+      "autoren_produzenten": "A: Fini Busch und Werner Scharfenberger P: Gerhard Mendelson",
+      "verkaeufe": "Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "02.1960",
+      "titel": "Wir wollen niemals auseinandergehn",
+      "interpret": "Heidi Brühl",
+      "autoren_produzenten": "A: Bruno Balz , Michael Jary und Gloria de Vos P: Michael Jary",
+      "verkaeufe": "Gold (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "07.1960",
+      "titel": "It’s Now or Never",
+      "interpret": "Elvis Presley",
+      "autoren_produzenten": "A: Eduardo Di Capua , Wally Gold und Aaron Schroeder P: Steve Sholes",
+      "verkaeufe": "(1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "10.1960",
+      "titel": "Ramona",
+      "interpret": "Blue Diamonds",
+      "autoren_produzenten": "A: Louis Wolfe Gilbert , Mabel Wayne und Dieter Rasch P: Jack Bulterman",
+      "verkaeufe": "Gold (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "03.1961",
+      "titel": "Wheels",
+      "interpret": "Billy Vaughn & His Orchestra",
+      "autoren_produzenten": "A: Norman Petty P: —",
+      "verkaeufe": "Gold (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "06.1961",
+      "titel": "La Paloma",
+      "interpret": "Freddy Quinn",
+      "autoren_produzenten": "A: Helmut Käutner und Sebastián de Yradier P: Victor Bach, Joe Kirsten, Lotar Olias und Freddy Quinn",
+      "verkaeufe": "Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "05.1964",
+      "titel": "Liebeskummer lohnt sich nicht",
+      "interpret": "Siw Malmkvist",
+      "autoren_produzenten": "A: Christian Bruhn und Georg Buschor P: —",
+      "verkaeufe": "(1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "10.1965",
+      "titel": "Yesterday Man",
+      "interpret": "Chris Andrews",
+      "autoren_produzenten": "A: Chris Andrews P: —",
+      "verkaeufe": "Gold (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "11.1965",
+      "titel": "Ganz in Weiß",
+      "interpret": "Roy Black",
+      "autoren_produzenten": "A: Rolf Arland und Kurt Hertha P: Hans Bertram",
+      "verkaeufe": "Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "02.1966",
+      "titel": "Merci, Chérie",
+      "interpret": "Udo Jürgens",
+      "autoren_produzenten": "A: Thomas Hörbiger und Udo Jürgens P: —",
+      "verkaeufe": "Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "07.1966",
+      "titel": "Super Girl",
+      "interpret": "Graham Bonney",
+      "autoren_produzenten": "A: Graham Bonney und Barry Mason P: Johnny Scott",
+      "verkaeufe": "(1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "11.1967",
+      "titel": "Mama",
+      "interpret": "Heintje",
+      "autoren_produzenten": "A: Bruno Balz, Cesare Andrea Bixio und Bruno Cherubini P: Addy Kleyngeld",
+      "verkaeufe": "Gold (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "04.1968",
+      "titel": "Du sollst nicht weinen",
+      "interpret": "Heintje",
+      "autoren_produzenten": "A: Wolf Hausmann , Johannes Jorge und Albert Schwarzmann P: Addy Kleyngeld",
+      "verkaeufe": "(1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "09.1968",
+      "titel": "Heidschi Bumbeidschi",
+      "interpret": "Heintje",
+      "autoren_produzenten": "A: Johannes Jorge, Wolfgang Roloff und Albert Schwarzmann P: Addy Kleyngeld",
+      "verkaeufe": "Gold (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "06.1969",
+      "titel": "Mendocino",
+      "interpret": "Michael Holm",
+      "autoren_produzenten": "A: Michael Holm und Doug Sahm P: Michael Holm und Giorgio Moroder",
+      "verkaeufe": "Gold (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "11.1969",
+      "titel": "Dein schönstes Geschenk",
+      "interpret": "Roy Black",
+      "autoren_produzenten": "A: Lilibert und Werner Twardy P: Hans Bertram",
+      "verkaeufe": "Gold (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "02.1971",
+      "titel": "Chirpy Chirpy Cheep Cheep",
+      "interpret": "Middle of the Road",
+      "autoren_produzenten": "A: Giuseppe Cassia und Lally Stott P: Italo Greco und Giacomo Tosti",
+      "verkaeufe": "Gold (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "11.1971",
+      "titel": "Komm gib mir deine Hand",
+      "interpret": "Tony Marshall",
+      "autoren_produzenten": "A: Jack White P: Jack White",
+      "verkaeufe": "Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "11.1972",
+      "titel": "Der Junge mit der Mundharmonika",
+      "interpret": "Bernd Clüver",
+      "autoren_produzenten": "A: José Fernando Arbex Miró und Peter Orloff P: Peter Orloff",
+      "verkaeufe": "Gold (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "07.1973",
+      "titel": "Der kleine Prinz (ein Engel, der Sehnsucht heißt)",
+      "interpret": "Bernd Clüver",
+      "autoren_produzenten": "A: Peter Orloff P: Peter Orloff",
+      "verkaeufe": "Gold (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "05.1975",
+      "titel": "Paloma Blanca",
+      "interpret": "George Baker Selection",
+      "autoren_produzenten": "A: Johannes Bouwens P: Johannes Bouwens",
+      "verkaeufe": "(1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "11.1982",
+      "titel": "Major Tom (völlig losgelöst)",
+      "interpret": "Peter Schilling",
+      "autoren_produzenten": "A: Peter Schilling P: Peter Schilling und Armin Sabol",
+      "verkaeufe": "2× Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "08.1989",
+      "titel": "Lambada",
+      "interpret": "Kaoma",
+      "autoren_produzenten": "A: Gonzalo Hermosa und Ulises Hermosa P: Jean-Claude Bonaventure",
+      "verkaeufe": "2× Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "04.1993",
+      "titel": "Mr. Vain",
+      "interpret": "Culture Beat",
+      "autoren_produzenten": "A: Jeff Carmichael, Nosie Katzmann und Steven Levis P: Torsten Fenslau",
+      "verkaeufe": "2× Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "06.1993",
+      "titel": "What’s Up?",
+      "interpret": "4 Non Blondes",
+      "autoren_produzenten": "A: Linda Perry P: David Tickle",
+      "verkaeufe": "2× Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "08.1994",
+      "titel": "Cotton Eye Joe",
+      "interpret": "Rednex",
+      "autoren_produzenten": "A: Janne Ericsson, Örjan Öban Öberg und Pat Reiniz P: Pat Reiniz",
+      "verkaeufe": "2× Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "08.1995",
+      "titel": "Gangsta’s Paradise",
+      "interpret": "Coolio feat. L. V.",
+      "autoren_produzenten": "A: Artis Ivey jr. , Dough Rasheed, Larry Sanders und Stevie Wonder P: Dough Rasheed",
+      "verkaeufe": "2× Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "11.1995",
+      "titel": "Earth Song",
+      "interpret": "Michael Jackson",
+      "autoren_produzenten": "A: Michael Jackson P: David Foster und Michael Jackson",
+      "verkaeufe": "2× Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "05.1996",
+      "titel": "Killing Me Softly",
+      "interpret": "The Fugees",
+      "autoren_produzenten": "A: Charles Fox und Norman Gimbel P: Lauryn Hill und Wyclef Jean",
+      "verkaeufe": "2× Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "11.1996",
+      "titel": "Die längste Single der Welt",
+      "interpret": "Wolfgang Petry",
+      "autoren_produzenten": "A: siehe Klappbox P: Franz Remling und Helmuth Rüßmann Dirk Buro Michael Buschjan Andy Cay Jürgen Dönges Peer Fischer Salvatore Gaetano J. O’Lana Guerrara Ralph Gusovius Björn Håkansson Karin van Haaren Ulrich Hesselkamp Reiner Hömig Dieter Hoff Achim Jaspert Pit Löw Dieter Lünstedt Günter Markert Bernd Meinunger Kim Merz Tim Norell Holger Obenaus Irene Paul Hans-Ulrich Prost Walter Reisch Franz Remling Helmuth Rüßmann Frank Thorsten Mark Weitz Norbert Zucker",
+      "verkaeufe": "2× Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "04.1998",
+      "titel": "Ein Schwein namens Männer",
+      "interpret": "Die Ärzte",
+      "autoren_produzenten": "A: Bela B. , Rod González und Farin Urlaub P: Bela B., Rod González, Uwe Hoffmann und Farin Urlaub",
+      "verkaeufe": "2× Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "12.1999",
+      "titel": "Anton aus Tirol",
+      "interpret": "Anton feat. DJ Ötzi",
+      "autoren_produzenten": "A: Ingrid Evelyn Musenbichler, Manfred Padinger, Walter Schachner und Friedrich Schicho P: Klaus Biedermann, Claus Marcus und Christian Seitz",
+      "verkaeufe": "2× Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "07.2002",
+      "titel": "The Ketchup Song (Aserejé)",
+      "interpret": "Las Ketchup",
+      "autoren_produzenten": "A: Francisco Manuel Ruiz Gomez P: Francisco Manuel Ruiz Gomez",
+      "verkaeufe": "2× Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "11.2002",
+      "titel": "Der Steuersong (Las Kanzlern)",
+      "interpret": "Die Gerd Show",
+      "autoren_produzenten": "A: Elmar Brandt , Peter Burtz , Michael Kernbach und Francisco Manuel Ruiz Gomez P: Elmar Brandt und Peter Burtz",
+      "verkaeufe": "2× Platin (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "09.2012",
+      "titel": "Lila Wolken",
+      "interpret": "Marteria , Yasha & Miss Platnum",
+      "autoren_produzenten": "A: Dirk Berger , David Conen , Yasha Conen , Marten Laciny , Mario Wesser, Vincent von Schlippenbach , José Garcia Soler und Ruth-Maria Renner P: Dirk Berger, David Conen, Philipp Hoppen, Vincent von Schlippenbach und José Garcia Soler",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "05.2013",
+      "titel": "Riptide",
+      "interpret": "Vance Joy",
+      "autoren_produzenten": "A: James Keogh P: John Castle, James Keogh und Edwin White",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "06.2013",
+      "titel": "Counting Stars",
+      "interpret": "OneRepublic",
+      "autoren_produzenten": "A: Ryan Tedder P: Ryan Tedder und Noel Zancanella",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "08.2013",
+      "titel": "Willst du",
+      "interpret": "Alligatoah",
+      "autoren_produzenten": "A: Lukas Strobel P: Lukas Strobel",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "10.2013",
+      "titel": "Timber",
+      "interpret": "Pitbull feat. Kesha",
+      "autoren_produzenten": "A: Aaron Arnold, Steve Arrington, Charles Carter, Greg Errico, Lukasz Gottwald , Priscilla Hamilton, Waung Hankerson, Breyan Isaac, Keri Oskar, Lee Oskar, Roger Parker, Armando Pérez, Jamie Sanderson, Kesha Sebert , Pebe Sebert und Henry Walter P: Lukasz Gottwald und Henry Walter",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "04.2014",
+      "titel": "Auf uns",
+      "interpret": "Andreas Bourani",
+      "autoren_produzenten": "A: Andreas Bourani, Julius Hartog und Tom Olbrich P: Peter “Jem” Seifert",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "05.2014",
+      "titel": "Au revoir",
+      "interpret": "Mark Forster feat. Sido",
+      "autoren_produzenten": "A: Mark Ćwiertnia , Ralf Christian Mayer , Daniel Nitt , Philipp Steinke und Paul Würdig P: Mark Ćwiertnia, Ralf Christian Mayer und Daniel Nitt",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "05.2014",
+      "titel": "Traum",
+      "interpret": "Cro",
+      "autoren_produzenten": "A: Christoph Bauss, Carlo Waibel und Fridolin Walcher P: Christoph Bauss und Fridolin Walcher",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "06.2014",
+      "titel": "Prayer in C",
+      "interpret": "Lilly Wood & the Prick & Robin Schulz",
+      "autoren_produzenten": "A: Benjamin Cotto und Nili Hadida P: Robin Schulz",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "08.2014",
+      "titel": "Are You with Me",
+      "interpret": "Lost Frequencies",
+      "autoren_produzenten": "A: Tommy Lee James, Shane McAnally und Terry McBride P: Felix De Laet",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "01.2015",
+      "titel": "Love Me like You Do",
+      "interpret": "Ellie Goulding",
+      "autoren_produzenten": "A: Savan Kotecha, Tove Nilsson , Karl Sandberg, Ali Payami und Ilya Salmanzadeh P: Ali Payami und Karl Sandberg",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "03.2015",
+      "titel": "See You Again",
+      "interpret": "Wiz Khalifa feat. Charlie Puth",
+      "autoren_produzenten": "A: Andrew Cedar, DJ Frank E, Wiz Khalifa und Charles Puth P: Andrew Cedar, DJ Frank E und Charles Puth",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "04.2015",
+      "titel": "Ain’t Nobody (Loves Me Better)",
+      "interpret": "Felix Jaehn feat. Jasmine Thompson",
+      "autoren_produzenten": "A: Hawk Wolinski P: Felix Jaehn",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "04.2015",
+      "titel": "Stressed Out",
+      "interpret": "Twenty One Pilots",
+      "autoren_produzenten": "A: Tyler Joseph P: Mike Elizondo",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "06.2015",
+      "titel": "So wie du bist",
+      "interpret": "MoTrip feat. Lary",
+      "autoren_produzenten": "A: Beatgees, Lary, MoTrip und Konrad Sommermeyer P: Beatgees",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "07.2015",
+      "titel": "Sugar",
+      "interpret": "Robin Schulz feat. Francesco Yates",
+      "autoren_produzenten": "A: Francisco Bautista, Ronald Bryant , Nathan Perez, Junkx , Robin Schulz und Francesco Yates P: Junkx und Robin Schulz",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "08.2015",
+      "titel": "Astronaut",
+      "interpret": "Sido feat. Andreas Bourani",
+      "autoren_produzenten": "A: Andreas Bourani, Simon Müller-Lerch , Paul Neumann , Marek Pompetzki , Cecil Remmler und Paul Würdig P: Paul Neumann, Marek Pompetzki und Cecil Remmler",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "08.2015",
+      "titel": "Geiles Leben",
+      "interpret": "Glasperlenspiel",
+      "autoren_produzenten": "A: Philipp Albinger , Benjamin Bistram , Daniel Grunenberg , Philipp Klemz, Carolin Niemczyk , Christian Raab und Peter Stanowsky P: Philipp Albinger, Johannes Burger und Kilian Wilke",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "09.2015",
+      "titel": "Don’t Be So Shy (Filatov & Karas Remix)",
+      "interpret": "Imany / Filatov & Karas",
+      "autoren_produzenten": "A: Stéfane Goldman und Nadia Mladjao P: Malik Ndiaye",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "11.2015",
+      "titel": "Love Yourself",
+      "interpret": "Justin Bieber",
+      "autoren_produzenten": "A: Justin Bieber, Benjamin Levine und Ed Sheeran P: Benjamin Levine",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "12.2015",
+      "titel": "The Sound of Silence",
+      "interpret": "Disturbed",
+      "autoren_produzenten": "A: Paul Simon P: Kevin Churko",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "02.2016",
+      "titel": "Don’t Let Me Down",
+      "interpret": "The Chainsmokers feat. Daya",
+      "autoren_produzenten": "A: Scott Harris, Andrew Taggart und Emily Warren P: The Chainsmokers",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "02.2016",
+      "titel": "Cheap Thrills",
+      "interpret": "Sia feat. Sean Paul",
+      "autoren_produzenten": "A: Sia Furler, Greg Kurstin und Sean Paul Henriques P: Greg Kurstin",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "02.2016",
+      "titel": "This Girl",
+      "interpret": "Kungs vs. Cookin’ on 3 Burners",
+      "autoren_produzenten": "A: Lance Ferguson, Ivan Khatchoyan und Jake Mason P: Valentin Brunel",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "05.2016",
+      "titel": "Can’t Stop the Feeling!",
+      "interpret": "Justin Timberlake",
+      "autoren_produzenten": "A: Karl Sandberg, Shellback und Justin Timberlake P: Karl Sandberg, Shellback und Justin Timberlake",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "07.2016",
+      "titel": "Palmen aus Plastik",
+      "interpret": "Bonez MC & RAF Camora",
+      "autoren_produzenten": "A: Beataura, John-Lorenz Moser und Raphael Ragucci P: Beataura und RAF Camora",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "08.2016",
+      "titel": "Let Me Love You",
+      "interpret": "DJ Snake feat. Justin Bieber",
+      "autoren_produzenten": "A: Louis Bell, Lumidee Cedeño , Brian Lee, Teddy Mendez, Austin Roser, Ali Tamposi , Andrew Watt , Justin Bieber, William Grigahcine , Stany Kibulu, Edwin Perez und Steven Marsden P: William Grigahcine",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "02.2017",
+      "titel": "Believer",
+      "interpret": "Imagine Dragons",
+      "autoren_produzenten": "A: Robin Fredriksson, Mattias Larsson, Ben McKee, Daniel Platzman, Dan Reynolds, Wayne Sermon und Justin Tranter P: Robin Fredriksson und Mattias Larsson",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "03.2017",
+      "titel": "Galway Girl",
+      "interpret": "Ed Sheeran",
+      "autoren_produzenten": "A: Liam Bradley, Niamh Dunne, Seán Graham, Damian McKee, Eamon Murray , Johnny McDaid, Ed Sheeran, Foy Vance und Amy Wadge P: Mike Elizondo",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "05.2017",
+      "titel": "More Than You Know",
+      "interpret": "Axwell Λ Ingrosso",
+      "autoren_produzenten": "A: Sebastian Ingrosso , Salem Al Fakir , Axel Hedfors , Vincent Pontare und Richard Zastenker P: Sebastian Ingrosso, Axel Hedfors, Richard Zastenker und Salvatore Ganacci",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "08.2017",
+      "titel": "Havana",
+      "interpret": "Camila Cabello feat. Young Thug",
+      "autoren_produzenten": "A: Camila Cabello , Louis Bell, Brittany Hazzard, Ali Tamposi, Andrew Watt, Jeffery Williams , Pharrell Williams, Frank Dukes, Kaan Gunesberk und Brian Lee P: Matt Beckley und Frank Dukes",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "08.2018",
+      "titel": "Sweet but Psycho",
+      "interpret": "Ava Max",
+      "autoren_produzenten": "A: Andreas Haukeland , Amanda Koci , William Lobban-Bean, Madison Love und Henry Walter P: Henry Walter",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "11.2018",
+      "titel": "Someone You Loved",
+      "interpret": "Lewis Capaldi",
+      "autoren_produzenten": "A: Thomas Barnes, Lewis Capaldi, Peter Kelleher, Benjamin Kohn und Samuel Romans P: TMS",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "12.2018",
+      "titel": "Old Town Road",
+      "interpret": "Lil Nas X",
+      "autoren_produzenten": "A: Lil Nas X, Trent Reznor , Atticus Ross und YoungKio P: Trent Reznor, Atticus Ross und YoungKio",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "03.2019",
+      "titel": "Bad Guy",
+      "interpret": "Billie Eilish",
+      "autoren_produzenten": "A: Billie Eilish und Finneas O’Connell P: Finneas O’Connell",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "05.2019",
+      "titel": "Roses (Imanbek Remix)",
+      "interpret": "Saint Jhn / Imanbek",
+      "autoren_produzenten": "A: Carlos Phillips und Lee Stanshenko P: Imanbek Seikenow",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "05.2019",
+      "titel": "Vermissen",
+      "interpret": "Juju feat. Henning May",
+      "autoren_produzenten": "A: Claus Capek, Guy Gross , Juju, Krutsch und Henning May P: Krutsch",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "01.2021",
+      "titel": "Wellerman",
+      "interpret": "Nathan Evans",
+      "autoren_produzenten": "A: Samuel Brannan, Nathan Evans, William Graydon, Tom Hollings, Alex Oriet und David Phelan P: Alex Oriet und David Phelan",
+      "verkaeufe": "Diamant (1.000.000+)"
+    },
+    {
+      "rang": 111,
+      "veroeffentlichung": "06.2021",
+      "titel": "Bad Habits",
+      "interpret": "Ed Sheeran",
+      "autoren_produzenten": "A: Fred Gibson , Johnny McDaid und Ed Sheeran P: Fred Gibson, Johnny McDaid und Ed Sheeran",
+      "verkaeufe": "Diamant (1.000.000+)"
+    }
+  ],
+  "meta": {
+    "title": "Die meistverkauften Singles in Deutschland - Free Download",
+    "description": "Die meistverkauften Singles in Deutschland (Millionenseller und Höchstauszeichnungen) mit Veröffentlichungsdatum, Interpret, Autoren/Produzenten und Verkäufen. Contains 193 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Die meistverkauften Singles in Deutschland | ListBase",
+    "seo_description": "Download Die meistverkauften Singles in Deutschland — 193 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 193 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_meistverkauften_Singles_in_Deutschland"
+    ]
+  }
+}

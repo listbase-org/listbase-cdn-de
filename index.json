@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-30T02:35:42.483Z",
-  "total_datasets": 511,
-  "total_records": 1874589,
+  "generated": "2026-10-30T02:35:50.477Z",
+  "total_datasets": 512,
+  "total_records": 1874782,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -5449,6 +5449,33 @@
         "xlsx": {
           "name": "de-eurovision-teilnahmen_DE.xlsx",
           "size": 13263
+        }
+      }
+    },
+    {
+      "id": "de-meistverkaufte-singles",
+      "name": "Die meistverkauften Singles in Deutschland",
+      "category": "music",
+      "record_count": 193,
+      "columns": [
+        "rang",
+        "veroeffentlichung",
+        "titel",
+        "interpret",
+        "autoren_produzenten",
+        "verkaeufe"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_meistverkauften_Singles_in_Deutschland",
+      "updated": "2026-10",
+      "size": 60948,
+      "files": {
+        "csv": {
+          "name": "de-meistverkaufte-singles_DE.csv",
+          "size": 32227
+        },
+        "xlsx": {
+          "name": "de-meistverkaufte-singles_DE.xlsx",
+          "size": 23900
         }
       }
     },
