@@ -1,0 +1,291 @@
+{
+  "id": "de-groesste-banken",
+  "name": "Die größten Banken in Deutschland (2024)",
+  "title": "Die größten Banken in Deutschland (2024)",
+  "description": "Die 20 größten Banken Deutschlands nach Bilanzsumme 2024 (Mrd. €, IFRS) mit Rechtsform, Haupteigentümer, Sitz, Beschäftigten und Geschäftsstellen.",
+  "category": "economy",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_größten_Banken_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_größten_Banken_in_Deutschland",
+  "updated": "2026-10",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "rechtsform",
+      "label": "Rechtsform",
+      "type": "string"
+    },
+    {
+      "key": "haupteigentuemer",
+      "label": "Haupteigentuemer",
+      "type": "string"
+    },
+    {
+      "key": "hauptsitz",
+      "label": "Hauptsitz",
+      "type": "string"
+    },
+    {
+      "key": "bilanzsumme_mrd_eur_2024",
+      "label": "Bilanzsumme Mrd Eur 2024",
+      "type": "number"
+    },
+    {
+      "key": "bilanzsumme_mrd_eur_2023",
+      "label": "Bilanzsumme Mrd Eur 2023",
+      "type": "number"
+    },
+    {
+      "key": "beschaeftigte",
+      "label": "Beschaeftigte",
+      "type": "number"
+    },
+    {
+      "key": "geschaeftsstellen",
+      "label": "Geschaeftsstellen",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rang": 1,
+      "name": "Deutsche Bank",
+      "rechtsform": "Aktiengesellschaft",
+      "haupteigentuemer": "Streubesitz",
+      "hauptsitz": "Frankfurt am Main",
+      "bilanzsumme_mrd_eur_2024": 1387,
+      "bilanzsumme_mrd_eur_2023": 1312,
+      "beschaeftigte": 89753,
+      "geschaeftsstellen": 1307
+    },
+    {
+      "rang": 2,
+      "name": "DZ Bank",
+      "rechtsform": "Aktiengesellschaft",
+      "haupteigentuemer": "Genossenschaftsbanken",
+      "hauptsitz": "Frankfurt am Main",
+      "bilanzsumme_mrd_eur_2024": 660,
+      "bilanzsumme_mrd_eur_2023": 645,
+      "beschaeftigte": 33837,
+      "geschaeftsstellen": 18
+    },
+    {
+      "rang": 3,
+      "name": "Commerzbank",
+      "rechtsform": "Aktiengesellschaft",
+      "haupteigentuemer": "Streubesitz",
+      "hauptsitz": "Frankfurt am Main",
+      "bilanzsumme_mrd_eur_2024": 555,
+      "bilanzsumme_mrd_eur_2023": 517,
+      "beschaeftigte": 39040,
+      "geschaeftsstellen": 804
+    },
+    {
+      "rang": 4,
+      "name": "KfW",
+      "rechtsform": "Anstalt des öffentlichen Rechts",
+      "haupteigentuemer": "Bundesrepublik Deutschland",
+      "hauptsitz": "Frankfurt am Main",
+      "bilanzsumme_mrd_eur_2024": 545,
+      "bilanzsumme_mrd_eur_2023": 561,
+      "beschaeftigte": 8493,
+      "geschaeftsstellen": 3
+    },
+    {
+      "rang": 5,
+      "name": "J.P. Morgan",
+      "rechtsform": "Societas Europaea",
+      "haupteigentuemer": "JPMorgan Chase",
+      "hauptsitz": "Frankfurt am Main",
+      "bilanzsumme_mrd_eur_2024": 449,
+      "bilanzsumme_mrd_eur_2023": 421,
+      "beschaeftigte": 5190,
+      "geschaeftsstellen": "??"
+    },
+    {
+      "rang": 6,
+      "name": "Landesbank Baden-Württemberg",
+      "rechtsform": "Anstalt des öffentlichen Rechts",
+      "haupteigentuemer": "Sparkassenverband Baden-Württemberg",
+      "hauptsitz": "Stuttgart",
+      "bilanzsumme_mrd_eur_2024": 356,
+      "bilanzsumme_mrd_eur_2023": 333,
+      "beschaeftigte": 10777,
+      "geschaeftsstellen": "??"
+    },
+    {
+      "rang": 7,
+      "name": "Unicredit Bank",
+      "rechtsform": "GmbH",
+      "haupteigentuemer": "Unicredit",
+      "hauptsitz": "München",
+      "bilanzsumme_mrd_eur_2024": 290,
+      "bilanzsumme_mrd_eur_2023": 283,
+      "beschaeftigte": 10157,
+      "geschaeftsstellen": 403
+    },
+    {
+      "rang": 8,
+      "name": "Bayerische Landesbank",
+      "rechtsform": "Anstalt des öffentlichen Rechts",
+      "haupteigentuemer": "Freistaat Bayern",
+      "hauptsitz": "München",
+      "bilanzsumme_mrd_eur_2024": 268,
+      "bilanzsumme_mrd_eur_2023": 273,
+      "beschaeftigte": 7592,
+      "geschaeftsstellen": "??"
+    },
+    {
+      "rang": 9,
+      "name": "Landesbank Hessen-Thüringen",
+      "rechtsform": "Anstalt des öffentlichen Rechts",
+      "haupteigentuemer": "Sparkassen- und Giroverband Hessen-Thüringen",
+      "hauptsitz": "Frankfurt am Main",
+      "bilanzsumme_mrd_eur_2024": 201,
+      "bilanzsumme_mrd_eur_2023": 202,
+      "beschaeftigte": 6592,
+      "geschaeftsstellen": "??"
+    },
+    {
+      "rang": 10,
+      "name": "ING",
+      "rechtsform": "Aktiengesellschaft",
+      "haupteigentuemer": "ING Groep",
+      "hauptsitz": "Frankfurt am Main",
+      "bilanzsumme_mrd_eur_2024": 200,
+      "bilanzsumme_mrd_eur_2023": 195,
+      "beschaeftigte": 5836,
+      "geschaeftsstellen": "??"
+    },
+    {
+      "rang": 11,
+      "name": "NRW.Bank",
+      "rechtsform": "Anstalt des öffentlichen Rechts",
+      "haupteigentuemer": "Land Nordrhein-Westfalen",
+      "hauptsitz": "Düsseldorf , Münster",
+      "bilanzsumme_mrd_eur_2024": "162 (HGB)",
+      "bilanzsumme_mrd_eur_2023": "161 (HGB)",
+      "beschaeftigte": 1619,
+      "geschaeftsstellen": 5
+    },
+    {
+      "rang": 12,
+      "name": "Volkswagen Bank",
+      "rechtsform": "GmbH",
+      "haupteigentuemer": "Volkswagen AG",
+      "hauptsitz": "Braunschweig",
+      "bilanzsumme_mrd_eur_2024": 141,
+      "bilanzsumme_mrd_eur_2023": 72,
+      "beschaeftigte": 4640,
+      "geschaeftsstellen": "??"
+    },
+    {
+      "rang": 13,
+      "name": "Deutsche Kredit Bank AG",
+      "rechtsform": "Aktiengesellschaft",
+      "haupteigentuemer": "Bayrische Landesbank",
+      "hauptsitz": "Berlin",
+      "bilanzsumme_mrd_eur_2024": 131,
+      "bilanzsumme_mrd_eur_2023": 134,
+      "beschaeftigte": 4182,
+      "geschaeftsstellen": "??"
+    },
+    {
+      "rang": 14,
+      "name": "Norddeutsche Landesbank",
+      "rechtsform": "Anstalt des öffentlichen Rechts",
+      "haupteigentuemer": "Land Niedersachsen",
+      "hauptsitz": "Hannover",
+      "bilanzsumme_mrd_eur_2024": 114,
+      "bilanzsumme_mrd_eur_2023": 112,
+      "beschaeftigte": 3902,
+      "geschaeftsstellen": 28
+    },
+    {
+      "rang": 15,
+      "name": "Goldman Sachs Bank Europe",
+      "rechtsform": "Societas Europaea",
+      "haupteigentuemer": "Goldman Sachs, Inc.",
+      "hauptsitz": "Frankfurt am Main",
+      "bilanzsumme_mrd_eur_2024": 107,
+      "bilanzsumme_mrd_eur_2023": 85,
+      "beschaeftigte": 1182,
+      "geschaeftsstellen": 12
+    },
+    {
+      "rang": 16,
+      "name": "Morgan Stanley Europe",
+      "rechtsform": "Societas Europaea",
+      "haupteigentuemer": "Morgan Stanley",
+      "hauptsitz": "Frankfurt am Main",
+      "bilanzsumme_mrd_eur_2024": 97,
+      "bilanzsumme_mrd_eur_2023": 99,
+      "beschaeftigte": 781,
+      "geschaeftsstellen": "??"
+    },
+    {
+      "rang": 17,
+      "name": "Landwirtschaftliche Rentenbank",
+      "rechtsform": "Anstalt des öffentlichen Rechts",
+      "haupteigentuemer": "Bundesrepublik Deutschland",
+      "hauptsitz": "Frankfurt am Main",
+      "bilanzsumme_mrd_eur_2024": "95(HGB)",
+      "bilanzsumme_mrd_eur_2023": "98(HGB)",
+      "beschaeftigte": 459,
+      "geschaeftsstellen": 0
+    },
+    {
+      "rang": 18,
+      "name": "DekaBank Deutsche Girozentrale",
+      "rechtsform": "Anstalt des öffentlichen Rechts",
+      "haupteigentuemer": "Deutscher Sparkassen- und Giroverband",
+      "hauptsitz": "Frankfurt am Main",
+      "bilanzsumme_mrd_eur_2024": 93,
+      "bilanzsumme_mrd_eur_2023": 85,
+      "beschaeftigte": 5727,
+      "geschaeftsstellen": "??"
+    },
+    {
+      "rang": 19,
+      "name": "L-Bank",
+      "rechtsform": "Anstalt des öffentlichen Rechts",
+      "haupteigentuemer": "Land Baden-Württemberg",
+      "hauptsitz": "Karlsruhe",
+      "bilanzsumme_mrd_eur_2024": "92(HGB)",
+      "bilanzsumme_mrd_eur_2023": "95(HGB)",
+      "beschaeftigte": 1642,
+      "geschaeftsstellen": 0
+    },
+    {
+      "rang": 20,
+      "name": "UBS Europe",
+      "rechtsform": "Societas Europaea",
+      "haupteigentuemer": "UBS",
+      "hauptsitz": "Frankfurt am Main",
+      "bilanzsumme_mrd_eur_2024": 66,
+      "bilanzsumme_mrd_eur_2023": 54,
+      "beschaeftigte": 2625,
+      "geschaeftsstellen": "??"
+    }
+  ],
+  "meta": {
+    "title": "Die größten Banken in Deutschland (2024) - Free Download",
+    "description": "Die 20 größten Banken Deutschlands nach Bilanzsumme 2024 (Mrd. €, IFRS) mit Rechtsform, Haupteigentümer, Sitz, Beschäftigten und Geschäftsstellen. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Die größten Banken in Deutschland (2024) | ListBase",
+    "seo_description": "Download Die größten Banken in Deutschland (2024) — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_größten_Banken_in_Deutschland"
+    ]
+  }
+}

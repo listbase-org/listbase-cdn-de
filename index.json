@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-30T02:35:27.029Z",
-  "total_datasets": 509,
-  "total_records": 1874519,
+  "generated": "2026-10-30T02:35:34.842Z",
+  "total_datasets": 510,
+  "total_records": 1874539,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -736,6 +736,36 @@
         "xlsx": {
           "name": "de-bundeslaender-steuereinnahmen_DE.xlsx",
           "size": 7599
+        }
+      }
+    },
+    {
+      "id": "de-groesste-banken",
+      "name": "Die größten Banken in Deutschland (2024)",
+      "category": "economy",
+      "record_count": 20,
+      "columns": [
+        "rang",
+        "name",
+        "rechtsform",
+        "haupteigentuemer",
+        "hauptsitz",
+        "bilanzsumme_mrd_eur_2024",
+        "bilanzsumme_mrd_eur_2023",
+        "beschaeftigte",
+        "geschaeftsstellen"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_größten_Banken_in_Deutschland",
+      "updated": "2026-10",
+      "size": 9035,
+      "files": {
+        "csv": {
+          "name": "de-groesste-banken_DE.csv",
+          "size": 2452
+        },
+        "xlsx": {
+          "name": "de-groesste-banken_DE.xlsx",
+          "size": 8255
         }
       }
     },
