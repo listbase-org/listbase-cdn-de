@@ -1,0 +1,672 @@
+{
+  "id": "de-mitgliederstaerkste-sportvereine",
+  "name": "Mitgliederstärkste Sportvereine in Deutschland",
+  "title": "Mitgliederstärkste Sportvereine in Deutschland",
+  "description": "Rangliste der deutschen Sportvereine mit den meisten Mitgliedern (u. a. FC Bayern München, Borussia Dortmund, DAV-Sektionen) mit Stadt, Bundesland, Mitgliederzahl und Stand.",
+  "category": "sports",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_mitgliederstärksten_Sportvereine",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_mitgliederstärksten_Sportvereine",
+  "updated": "2026-11",
+  "record_count": 77,
+  "columns": [
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "verein",
+      "label": "Verein",
+      "type": "string"
+    },
+    {
+      "key": "stadt",
+      "label": "Stadt",
+      "type": "string"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "mitglieder",
+      "label": "Mitglieder",
+      "type": "number"
+    },
+    {
+      "key": "stand",
+      "label": "Stand",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rang": 1,
+      "verein": "FC Bayern München e. V.",
+      "stadt": "München",
+      "bundesland": "BY",
+      "mitglieder": 432500,
+      "stand": "2. November 2025"
+    },
+    {
+      "rang": 2,
+      "verein": "BV Borussia 09 e. V. Dortmund",
+      "stadt": "Dortmund",
+      "bundesland": "NW",
+      "mitglieder": 245000,
+      "stand": "13. Juli 2026"
+    },
+    {
+      "rang": 3,
+      "verein": "FC Gelsenkirchen-Schalke 04 e. V.",
+      "stadt": "Gelsenkirchen",
+      "bundesland": "NW",
+      "mitglieder": 220000,
+      "stand": "1. Juli 2026"
+    },
+    {
+      "rang": 4,
+      "verein": "Sektion München des DAV e. V.",
+      "stadt": "München",
+      "bundesland": "BY",
+      "mitglieder": 180667,
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 4,
+      "verein": "Sektion Oberland des DAV e. V.",
+      "stadt": "München",
+      "bundesland": "BY",
+      "mitglieder": 180667,
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 6,
+      "verein": "1. FC Köln 01/07 e. V.",
+      "stadt": "Köln",
+      "bundesland": "NW",
+      "mitglieder": 170000,
+      "stand": "1. Juli 2026"
+    },
+    {
+      "rang": 7,
+      "verein": "Eintracht Frankfurt e. V.",
+      "stadt": "Frankfurt",
+      "bundesland": "HE",
+      "mitglieder": 160000,
+      "stand": "1. Juli 2026"
+    },
+    {
+      "rang": 8,
+      "verein": "Hamburger Sport-Verein e. V.",
+      "stadt": "Hamburg",
+      "bundesland": "HH",
+      "mitglieder": 150000,
+      "stand": "28. Mai 2026"
+    },
+    {
+      "rang": 9,
+      "verein": "VfB Stuttgart 1893 e. V.",
+      "stadt": "Stuttgart",
+      "bundesland": "BW",
+      "mitglieder": 135000,
+      "stand": "26. Juli 2026"
+    },
+    {
+      "rang": 10,
+      "verein": "Borussia VfL 1900 e. V.",
+      "stadt": "Mönchengladbach",
+      "bundesland": "NW",
+      "mitglieder": 111250,
+      "stand": "1. Juli 2026"
+    },
+    {
+      "rang": 11,
+      "verein": "SC Freiburg e. V.",
+      "stadt": "Freiburg",
+      "bundesland": "BW",
+      "mitglieder": "0 85.000",
+      "stand": "Oktober 2026"
+    },
+    {
+      "rang": 12,
+      "verein": "1. FC Union Berlin e. V.",
+      "stadt": "Berlin",
+      "bundesland": "BE",
+      "mitglieder": "0 71.958",
+      "stand": "30. September 2026"
+    },
+    {
+      "rang": 13,
+      "verein": "Sport-Verein „Werder“ v. 1899 e. V.",
+      "stadt": "Bremen",
+      "bundesland": "HB",
+      "mitglieder": "0 68.000",
+      "stand": "1. Juli 2026"
+    },
+    {
+      "rang": 14,
+      "verein": "Hertha, Berliner Sport-Club 1892 e. V.",
+      "stadt": "Berlin",
+      "bundesland": "BE",
+      "mitglieder": "0 60.493",
+      "stand": "26. April 2026"
+    },
+    {
+      "rang": 15,
+      "verein": "FC St. Pauli von 1910 e. V.",
+      "stadt": "Hamburg",
+      "bundesland": "HH",
+      "mitglieder": "0 55.340",
+      "stand": "1. Februar 2026"
+    },
+    {
+      "rang": 16,
+      "verein": "Sektion Schwaben des DAV e. V.",
+      "stadt": "Stuttgart",
+      "bundesland": "BW",
+      "mitglieder": "0 44.269",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 17,
+      "verein": "1. FC Nürnberg VfL e. V.",
+      "stadt": "Nürnberg",
+      "bundesland": "BY",
+      "mitglieder": "0 42.650",
+      "stand": "20. Oktober 2026"
+    },
+    {
+      "rang": 18,
+      "verein": "SG Dynamo Dresden e. V.",
+      "stadt": "Dresden",
+      "bundesland": "SN",
+      "mitglieder": "0 39.634",
+      "stand": "30. September 2026"
+    },
+    {
+      "rang": 19,
+      "verein": "1. FC Kaiserslautern e. V.",
+      "stadt": "Kaiserslautern",
+      "bundesland": "RP",
+      "mitglieder": "0 39.000",
+      "stand": "1. Juli 2026"
+    },
+    {
+      "rang": 20,
+      "verein": "Turngemeinde Bornheim 1860 e. V.",
+      "stadt": "Frankfurt",
+      "bundesland": "HE",
+      "mitglieder": "0 38.522",
+      "stand": "7. Februar 2026"
+    },
+    {
+      "rang": 21,
+      "verein": "Düsseldorfer Turn- und Sportverein Fortuna 1895 e. V.",
+      "stadt": "Düsseldorf",
+      "bundesland": "NW",
+      "mitglieder": "0 38.000",
+      "stand": "27. Juli 2025"
+    },
+    {
+      "rang": 22,
+      "verein": "VfL Bochum 1848 Fußballgemeinschaft e. V.",
+      "stadt": "Bochum",
+      "bundesland": "NW",
+      "mitglieder": "0 33.500",
+      "stand": "1. Juli 2026"
+    },
+    {
+      "rang": 23,
+      "verein": "Vereinigung clubfreier Golfspieler im DGV e. V.",
+      "stadt": "Wiesbaden",
+      "bundesland": "HE",
+      "mitglieder": "0 32.698",
+      "stand": "30. September 2025"
+    },
+    {
+      "rang": 24,
+      "verein": "Sektion Stuttgart des DAV e. V.",
+      "stadt": "Stuttgart",
+      "bundesland": "BW",
+      "mitglieder": "0 32.238",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 25,
+      "verein": "F.C. Hansa Rostock e. V.",
+      "stadt": "Rostock",
+      "bundesland": "MV",
+      "mitglieder": "0 31.734",
+      "stand": "Oktober 2026"
+    },
+    {
+      "rang": 26,
+      "verein": "FC Augsburg 1907 e. V.",
+      "stadt": "Augsburg",
+      "bundesland": "BY",
+      "mitglieder": "0 31.343",
+      "stand": "5. Oktober 2026"
+    },
+    {
+      "rang": 27,
+      "verein": "DSC Arminia Bielefeld e. V.",
+      "stadt": "Bielefeld",
+      "bundesland": "NW",
+      "mitglieder": "0 30.883",
+      "stand": "1. Juli 2026"
+    },
+    {
+      "rang": 28,
+      "verein": "1. FSV Mainz 05 e. V.",
+      "stadt": "Mainz",
+      "bundesland": "RP",
+      "mitglieder": "0 30.000",
+      "stand": "30. März 2026"
+    },
+    {
+      "rang": 28,
+      "verein": "TSV München von 1860 e. V.",
+      "stadt": "München",
+      "bundesland": "BY",
+      "mitglieder": "0 30.000",
+      "stand": "September 2026"
+    },
+    {
+      "rang": 30,
+      "verein": "Sektion Berlin des DAV e. V.",
+      "stadt": "Berlin",
+      "bundesland": "BE",
+      "mitglieder": "0 29.617",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 31,
+      "verein": "Sektion Allgäu-Kempten des DAV e. V.",
+      "stadt": "Kempten",
+      "bundesland": "BY",
+      "mitglieder": "0 27.216",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 32,
+      "verein": "Sektion Rheinland-Köln des DAV e. V.",
+      "stadt": "Köln",
+      "bundesland": "NW",
+      "mitglieder": "0 26.519",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 33,
+      "verein": "SG Stern Deutschland e. V.",
+      "stadt": "Stuttgart",
+      "bundesland": "BW",
+      "mitglieder": "0 25.596",
+      "stand": "Mai 2026"
+    },
+    {
+      "rang": 34,
+      "verein": "Hannoverscher Sportverein von 1896 e. V.",
+      "stadt": "Hannover",
+      "bundesland": "NI",
+      "mitglieder": "0 25.000",
+      "stand": "12. Juni 2026"
+    },
+    {
+      "rang": 35,
+      "verein": "Sektion Hamburg und Niederelbe des DAV e. V.",
+      "stadt": "Hamburg",
+      "bundesland": "HH",
+      "mitglieder": "0 24.783",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 36,
+      "verein": "Sektion Allgäu-Immenstadt des DAV e. V.",
+      "stadt": "Immenstadt",
+      "bundesland": "BY",
+      "mitglieder": "0 22.108",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 37,
+      "verein": "Karlsruher Sport-Club Mühlburg-Phönix e. V.",
+      "stadt": "Karlsruhe",
+      "bundesland": "BW",
+      "mitglieder": "0 21.800",
+      "stand": "1. Juli 2026"
+    },
+    {
+      "rang": 38,
+      "verein": "Sektion Regensburg des DAV e. V.",
+      "stadt": "Regensburg",
+      "bundesland": "BY",
+      "mitglieder": "0 21.474",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 39,
+      "verein": "Sektion Freiburg-Breisgau des DAV e. V.",
+      "stadt": "Freiburg",
+      "bundesland": "BW",
+      "mitglieder": "0 21.066",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 40,
+      "verein": "Eimsbütteler TV e. V.",
+      "stadt": "Hamburg",
+      "bundesland": "HH",
+      "mitglieder": "0 20.511",
+      "stand": "31. Dezember 2024"
+    },
+    {
+      "rang": 41,
+      "verein": "Sektion Augsburg des DAV e. V.",
+      "stadt": "Augsburg",
+      "bundesland": "BY",
+      "mitglieder": "0 20.480",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 42,
+      "verein": "Sektion Heilbronn des DAV e. V.",
+      "stadt": "Heilbronn",
+      "bundesland": "BW",
+      "mitglieder": "0 19.692",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 43,
+      "verein": "Sektion Sächsischer Bergsteigerbund des DAV e. V.",
+      "stadt": "Dresden",
+      "bundesland": "SN",
+      "mitglieder": "0 19.658",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 44,
+      "verein": "sportspaß e. V.",
+      "stadt": "Hamburg",
+      "bundesland": "HH",
+      "mitglieder": "0 19.000",
+      "stand": "Ende April 2026"
+    },
+    {
+      "rang": 45,
+      "verein": "Rot-Weiss Essen e. V.",
+      "stadt": "Essen",
+      "bundesland": "NW",
+      "mitglieder": "0 16.100",
+      "stand": "29. September 2026"
+    },
+    {
+      "rang": 46,
+      "verein": "Post-Sportverein Nürnberg e. V.",
+      "stadt": "Nürnberg",
+      "bundesland": "BY",
+      "mitglieder": "0 16.000",
+      "stand": "2023"
+    },
+    {
+      "rang": 46,
+      "verein": "1. FC Magdeburg e. V.",
+      "stadt": "Magdeburg",
+      "bundesland": "ST",
+      "mitglieder": "0 16.000",
+      "stand": "20. Januar 2026"
+    },
+    {
+      "rang": 46,
+      "verein": "SV Darmstadt 98 e. V.",
+      "stadt": "Darmstadt",
+      "bundesland": "HE",
+      "mitglieder": "0 16.000",
+      "stand": "1. Juli 2026"
+    },
+    {
+      "rang": 49,
+      "verein": "Sektion Tübingen des DAV e. V.",
+      "stadt": "Tübingen",
+      "bundesland": "BW",
+      "mitglieder": "0 15.168",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 50,
+      "verein": "Sportclub Preußen 06 e. V. Münster",
+      "stadt": "Münster",
+      "bundesland": "NW",
+      "mitglieder": "0 15.000",
+      "stand": "23. Februar 2026"
+    },
+    {
+      "rang": 51,
+      "verein": "Sektion Darmstadt-Starkenburg des DAV e. V.",
+      "stadt": "Darmstadt",
+      "bundesland": "HE",
+      "mitglieder": "0 14.645",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 52,
+      "verein": "Sportvereinigung 07 Elversberg e. V.",
+      "stadt": "Spiesen-Elversberg",
+      "bundesland": "SL",
+      "mitglieder": "0 14.221",
+      "stand": "4. Juni 2026"
+    },
+    {
+      "rang": 53,
+      "verein": "Sektion Berchtesgaden des DAV e. V.",
+      "stadt": "Berchtesgaden",
+      "bundesland": "BY",
+      "mitglieder": "0 14.212",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 54,
+      "verein": "1. Fußball-Club Saarbrücken e. V.",
+      "stadt": "Saarbrücken",
+      "bundesland": "SL",
+      "mitglieder": "0 14.122",
+      "stand": "9. April 2026"
+    },
+    {
+      "rang": 55,
+      "verein": "Sektion Rosenheim des DAV e. V.",
+      "stadt": "Rosenheim",
+      "bundesland": "BY",
+      "mitglieder": "0 13.902",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 56,
+      "verein": "Sektion Nürnberg des DAV e. V.",
+      "stadt": "Nürnberg",
+      "bundesland": "BY",
+      "mitglieder": "0 13.804",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 57,
+      "verein": "Meidericher Spielverein 02 e. V. Duisburg",
+      "stadt": "Duisburg",
+      "bundesland": "NW",
+      "mitglieder": "0 13.403",
+      "stand": "28. September 2026"
+    },
+    {
+      "rang": 58,
+      "verein": "Sektion Frankfurt am Main des DAV e. V.",
+      "stadt": "Frankfurt",
+      "bundesland": "HE",
+      "mitglieder": "0 13.380",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 59,
+      "verein": "1. Fußballclub Heidenheim 1846 e. V.",
+      "stadt": "Heidenheim",
+      "bundesland": "BW",
+      "mitglieder": "0 13.000",
+      "stand": "4. November 2025"
+    },
+    {
+      "rang": 59,
+      "verein": "TSG 1899 Hoffenheim e. V.",
+      "stadt": "Sinsheim",
+      "bundesland": "BW",
+      "mitglieder": "0 13.000",
+      "stand": "1. Juli 2026"
+    },
+    {
+      "rang": 61,
+      "verein": "Schwimm- und Sportverein Ulm 1846 e. V.",
+      "stadt": "Ulm",
+      "bundesland": "BW",
+      "mitglieder": "0 12.917",
+      "stand": "26. Januar 2026"
+    },
+    {
+      "rang": 62,
+      "verein": "Sektion Erlangen des DAV e. V.",
+      "stadt": "Erlangen",
+      "bundesland": "BY",
+      "mitglieder": "0 12.707",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 63,
+      "verein": "Sektion Konstanz des DAV e. V.",
+      "stadt": "Konstanz",
+      "bundesland": "BW",
+      "mitglieder": "0 12.623",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 64,
+      "verein": "Sektion Karlsruhe des DAV e. V.",
+      "stadt": "Karlsruhe",
+      "bundesland": "BW",
+      "mitglieder": "0 12.175",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 65,
+      "verein": "ASC Göttingen von 1846 e. V.",
+      "stadt": "Göttingen",
+      "bundesland": "NI",
+      "mitglieder": "0 12.000",
+      "stand": "2025"
+    },
+    {
+      "rang": 65,
+      "verein": "Kieler Sportvereinigung Holstein von 1900 e. V.",
+      "stadt": "Kiel",
+      "bundesland": "SH",
+      "mitglieder": "0 12.000",
+      "stand": "31. März 2026"
+    },
+    {
+      "rang": 67,
+      "verein": "Sektion Reutlingen des DAV e. V.",
+      "stadt": "Reutlingen",
+      "bundesland": "BW",
+      "mitglieder": "0 11.771",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 68,
+      "verein": "Alemannia Aachen e. V.",
+      "stadt": "Aachen",
+      "bundesland": "NW",
+      "mitglieder": "0 11.350",
+      "stand": "12. März 2026"
+    },
+    {
+      "rang": 69,
+      "verein": "SC Paderborn 07 e. V.",
+      "stadt": "Paderborn",
+      "bundesland": "NW",
+      "mitglieder": "0 11.300",
+      "stand": "1. Juli 2026"
+    },
+    {
+      "rang": 70,
+      "verein": "TV Jahn-Rheine 1885 e. V.",
+      "stadt": "Rheine",
+      "bundesland": "NW",
+      "mitglieder": "0 11.040",
+      "stand": "1. Januar 2026"
+    },
+    {
+      "rang": 71,
+      "verein": "Uerdinger SV 08 e. V.",
+      "stadt": "Krefeld",
+      "bundesland": "NW",
+      "mitglieder": "0 11.000",
+      "stand": "1. Oktober 2024"
+    },
+    {
+      "rang": 72,
+      "verein": "Sektion Aschaffenburg des DAV e. V.",
+      "stadt": "Aschaffenburg",
+      "bundesland": "BY",
+      "mitglieder": "0 10.904",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 73,
+      "verein": "Sektion Würzburg des DAV e. V.",
+      "stadt": "Würzburg",
+      "bundesland": "BY",
+      "mitglieder": "0 10.596",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 74,
+      "verein": "Sektion Heidelberg des DAV e. V.",
+      "stadt": "Heidelberg",
+      "bundesland": "BW",
+      "mitglieder": "0 10.545",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 75,
+      "verein": "Turn- und Sportgemeinschaft Bergedorf von 1860 e. V.",
+      "stadt": "Hamburg",
+      "bundesland": "HH",
+      "mitglieder": "0 10.500",
+      "stand": "Juli 2025"
+    },
+    {
+      "rang": 76,
+      "verein": "Sektion Ravensburg des DAV e. V.",
+      "stadt": "Ravensburg",
+      "bundesland": "BW",
+      "mitglieder": "0 10.428",
+      "stand": "31. Dezember 2025"
+    },
+    {
+      "rang": 77,
+      "verein": "Verein für Leibesübungen von 1899 e. V. Osnabrück",
+      "stadt": "Osnabrück",
+      "bundesland": "NI",
+      "mitglieder": "0 10.024",
+      "stand": "1. Juli 2026"
+    }
+  ],
+  "meta": {
+    "title": "Mitgliederstärkste Sportvereine in Deutschland - Free Download",
+    "description": "Rangliste der deutschen Sportvereine mit den meisten Mitgliedern (u. a. FC Bayern München, Borussia Dortmund, DAV-Sektionen) mit Stadt, Bundesland, Mitgliederzahl und Stand. Contains 77 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mitgliederstärkste Sportvereine in Deutschland | ListBase",
+    "seo_description": "Download Mitgliederstärkste Sportvereine in Deutschland — 77 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 77 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_mitgliederstärksten_Sportvereine"
+    ]
+  }
+}

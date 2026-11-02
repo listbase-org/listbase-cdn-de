@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-02T02:31:56.406Z",
-  "total_datasets": 513,
-  "total_records": 1874880,
+  "generated": "2026-11-02T02:32:04.543Z",
+  "total_datasets": 514,
+  "total_records": 1874957,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 32
+      "dataset_count": 33
     },
     {
       "id": "tech",
@@ -13051,6 +13051,33 @@
         "xlsx": {
           "name": "de-bundesliga-spiele_DE.xlsx",
           "size": 291292
+        }
+      }
+    },
+    {
+      "id": "de-mitgliederstaerkste-sportvereine",
+      "name": "Mitgliederstärkste Sportvereine in Deutschland",
+      "category": "sports",
+      "record_count": 77,
+      "columns": [
+        "rang",
+        "verein",
+        "stadt",
+        "bundesland",
+        "mitglieder",
+        "stand"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_mitgliederstärksten_Sportvereine",
+      "updated": "2026-11",
+      "size": 17387,
+      "files": {
+        "csv": {
+          "name": "de-mitgliederstaerkste-sportvereine_DE.csv",
+          "size": 6563
+        },
+        "xlsx": {
+          "name": "de-mitgliederstaerkste-sportvereine_DE.xlsx",
+          "size": 10879
         }
       }
     },
