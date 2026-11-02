@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-02T02:32:11.346Z",
-  "total_datasets": 515,
-  "total_records": 1875002,
+  "generated": "2026-11-02T02:32:18.590Z",
+  "total_datasets": 516,
+  "total_records": 1875404,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -11901,6 +11901,35 @@
         "xlsx": {
           "name": "de-regionalzeitungen_DE.xlsx",
           "size": 13637
+        }
+      }
+    },
+    {
+      "id": "de-terroranschlaege-seit-1945",
+      "name": "Terroranschläge in Deutschland seit 1945",
+      "category": "society",
+      "record_count": 402,
+      "columns": [
+        "datum",
+        "ort",
+        "taeter",
+        "politische_ausrichtung",
+        "mittel",
+        "ziel",
+        "tote",
+        "verletzte"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_von_Terroranschlägen_in_Deutschland_seit_1945",
+      "updated": "2026-11",
+      "size": 122312,
+      "files": {
+        "csv": {
+          "name": "de-terroranschlaege-seit-1945_DE.csv",
+          "size": 57925
+        },
+        "xlsx": {
+          "name": "de-terroranschlaege-seit-1945_DE.xlsx",
+          "size": 34156
         }
       }
     },
