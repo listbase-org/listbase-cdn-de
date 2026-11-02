@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-10-30T02:35:50.477Z",
-  "total_datasets": 512,
-  "total_records": 1874782,
+  "generated": "2026-11-02T02:31:56.406Z",
+  "total_datasets": 513,
+  "total_records": 1874880,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "history",
@@ -5020,6 +5020,33 @@
         "xlsx": {
           "name": "de-bundesgesundheitsminister_DE.xlsx",
           "size": 8199
+        }
+      }
+    },
+    {
+      "id": "de-gesetzliche-krankenkassen",
+      "name": "Gesetzliche Krankenkassen in Deutschland",
+      "category": "health",
+      "record_count": 98,
+      "columns": [
+        "name",
+        "versicherte",
+        "mitarbeiter",
+        "haushaltsvolumen_mio_euro",
+        "beitragssatz_2026_arbeitnehmeranteil",
+        "eingegliederte_kassen_fruehere_namen"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_gesetzlichen_Krankenkassen_in_Deutschland",
+      "updated": "2026-11",
+      "size": 34082,
+      "files": {
+        "csv": {
+          "name": "de-gesetzliche-krankenkassen_DE.csv",
+          "size": 12715
+        },
+        "xlsx": {
+          "name": "de-gesetzliche-krankenkassen_DE.xlsx",
+          "size": 13619
         }
       }
     },

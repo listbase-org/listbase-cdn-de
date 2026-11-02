@@ -1,0 +1,840 @@
+{
+  "id": "de-gesetzliche-krankenkassen",
+  "name": "Gesetzliche Krankenkassen in Deutschland",
+  "title": "Gesetzliche Krankenkassen in Deutschland",
+  "description": "Liste der gesetzlichen Krankenkassen in Deutschland (AOK, Ersatzkassen, BKK, IKK u. a.) mit Versichertenzahl, Mitarbeitern, Haushaltsvolumen, Beitragssatz 2026 und früheren bzw. eingegliederten Kassen.",
+  "category": "health",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_gesetzlichen_Krankenkassen_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_gesetzlichen_Krankenkassen_in_Deutschland",
+  "updated": "2026-11",
+  "record_count": 98,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "versicherte",
+      "label": "Versicherte",
+      "type": "number"
+    },
+    {
+      "key": "mitarbeiter",
+      "label": "Mitarbeiter",
+      "type": "number"
+    },
+    {
+      "key": "haushaltsvolumen_mio_euro",
+      "label": "Haushaltsvolumen Mio Euro",
+      "type": "number"
+    },
+    {
+      "key": "beitragssatz_2026_arbeitnehmeranteil",
+      "label": "Beitragssatz 2026 Arbeitnehmeranteil",
+      "type": "string"
+    },
+    {
+      "key": "eingegliederte_kassen_fruehere_namen",
+      "label": "Eingegliederte Kassen Fruehere Namen",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Allgemeine Ortskrankenkassen (AOK) gesamt",
+      "versicherte": 27410885,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "AOK Baden-Württemberg",
+      "versicherte": 4600000,
+      "mitarbeiter": 10287,
+      "haushaltsvolumen_mio_euro": 26000,
+      "beitragssatz_2026_arbeitnehmeranteil": "17,59 % (8,795 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "AOK Bayern",
+      "versicherte": 4520877,
+      "mitarbeiter": 10000,
+      "haushaltsvolumen_mio_euro": 17500,
+      "beitragssatz_2026_arbeitnehmeranteil": "17,29 % (8,645 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "AOK Bremen/Bremerhaven",
+      "versicherte": 280000,
+      "mitarbeiter": 700,
+      "haushaltsvolumen_mio_euro": 999,
+      "beitragssatz_2026_arbeitnehmeranteil": "17,89 % (8,945 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "AOK Hessen",
+      "versicherte": 1700000,
+      "mitarbeiter": 4200,
+      "haushaltsvolumen_mio_euro": 7400,
+      "beitragssatz_2026_arbeitnehmeranteil": "17,58 % (8,79 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "AOK Niedersachsen",
+      "versicherte": 3100000,
+      "mitarbeiter": 7200,
+      "haushaltsvolumen_mio_euro": 17500,
+      "beitragssatz_2026_arbeitnehmeranteil": "17,58 % (8,79 %)",
+      "eingegliederte_kassen_fruehere_namen": "Innungskrankenkasse Niedersachsen (2010)"
+    },
+    {
+      "name": "AOK Nordost",
+      "versicherte": 1700000,
+      "mitarbeiter": 5072,
+      "haushaltsvolumen_mio_euro": 7600,
+      "beitragssatz_2026_arbeitnehmeranteil": "18,10 % (9,05 %)",
+      "eingegliederte_kassen_fruehere_namen": "AOK Berlin-Brandenburg (2011), AOK Mecklenburg-Vorpommern (2011)"
+    },
+    {
+      "name": "AOK Nordwest",
+      "versicherte": 2970000,
+      "mitarbeiter": 6700,
+      "haushaltsvolumen_mio_euro": 15200,
+      "beitragssatz_2026_arbeitnehmeranteil": "17,59 % (8,795 %)",
+      "eingegliederte_kassen_fruehere_namen": "AOK Schleswig-Holstein (2010), AOK Westfalen-Lippe (2010)"
+    },
+    {
+      "name": "AOK Plus",
+      "versicherte": 3500000,
+      "mitarbeiter": 6738,
+      "haushaltsvolumen_mio_euro": 17500,
+      "beitragssatz_2026_arbeitnehmeranteil": "17,70 % (8,85 %)",
+      "eingegliederte_kassen_fruehere_namen": "AOK Sachsen (2008), AOK Thüringen (2008)"
+    },
+    {
+      "name": "AOK Rheinland/Hamburg",
+      "versicherte": 2871836,
+      "mitarbeiter": 7842,
+      "haushaltsvolumen_mio_euro": 9800,
+      "beitragssatz_2026_arbeitnehmeranteil": "17,89 % (8,945 %)",
+      "eingegliederte_kassen_fruehere_namen": "AOK Rheinland (2006), AOK Hamburg (2006)"
+    },
+    {
+      "name": "AOK Rheinland-Pfalz/Saarland",
+      "versicherte": 1249758,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": 2600,
+      "beitragssatz_2026_arbeitnehmeranteil": "17,07 % (8,535 %)",
+      "eingegliederte_kassen_fruehere_namen": "AOK Saarland (2012), AOK Rheinland-Pfalz (2012)"
+    },
+    {
+      "name": "AOK Sachsen-Anhalt",
+      "versicherte": 786000,
+      "mitarbeiter": 1940,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,49 % (8,745 %)",
+      "eingegliederte_kassen_fruehere_namen": "BKK Sachsen-Anhalt (2009)"
+    },
+    {
+      "name": "Ersatzkassen (EK) gesamt",
+      "versicherte": 29082553,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Barmer Ersatzkasse",
+      "versicherte": 8300000,
+      "mitarbeiter": 13670,
+      "haushaltsvolumen_mio_euro": 45000,
+      "beitragssatz_2026_arbeitnehmeranteil": "17,89 % (8,945 %)",
+      "eingegliederte_kassen_fruehere_namen": "Deutsche BKK (2017), Gmünder Ersatzkasse (2010) Frühere Namen: Barmer GEK (2010–2016)"
+    },
+    {
+      "name": "DAK-Gesundheit",
+      "versicherte": 5400000,
+      "mitarbeiter": 10700,
+      "haushaltsvolumen_mio_euro": 29000,
+      "beitragssatz_2026_arbeitnehmeranteil": "17,80 % (8,9 %)",
+      "eingegliederte_kassen_fruehere_namen": "BKK Beiersdorf AG (2016), Shell BKK/Life (2015), Saint-Gobain Betriebskrankenkasse (2013), BKK Axel Springer (2012), BKK Gesundheit (2012), Hamburg Münchener Krankenkasse (2010), Braunschweiger Kasse (1997), Lichterfelder Ersatzkasse (1951) Frühere Namen: Deutsche Angestellten-Krankenkasse (Ersatzkasse) (bis 2012)"
+    },
+    {
+      "name": "Handelskrankenkasse",
+      "versicherte": 1000000,
+      "mitarbeiter": 1600,
+      "haushaltsvolumen_mio_euro": 5000,
+      "beitragssatz_2026_arbeitnehmeranteil": "17,19 % (8,595 %)",
+      "eingegliederte_kassen_fruehere_namen": "Innungskrankenkasse Weser-Ems (2008) Frühere Namen: hkk (2008–2014)"
+    },
+    {
+      "name": "HEK – Hanseatische Krankenkasse",
+      "versicherte": 594486,
+      "mitarbeiter": 900,
+      "haushaltsvolumen_mio_euro": 2800,
+      "beitragssatz_2026_arbeitnehmeranteil": "17,49 % (8,745 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Kaufmännische Krankenkasse",
+      "versicherte": 1476318,
+      "mitarbeiter": 4000,
+      "haushaltsvolumen_mio_euro": 7500,
+      "beitragssatz_2026_arbeitnehmeranteil": "18,38 % (9,19 %)",
+      "eingegliederte_kassen_fruehere_namen": "Metro AG Kaufhof BKK (2009), Betriebskrankenkasse der Allianz Gesellschaften (2009) Frühere Namen: KKH-Allianz (2009–2012)"
+    },
+    {
+      "name": "Techniker Krankenkasse",
+      "versicherte": 12400000,
+      "mitarbeiter": 15670,
+      "haushaltsvolumen_mio_euro": 69200,
+      "beitragssatz_2026_arbeitnehmeranteil": "17,29 % (8,645 %)",
+      "eingegliederte_kassen_fruehere_namen": "IKK-Direkt (2009), Gärtner-Krankenkasse (2000), Berufskrankenkasse der Werkmeister (Ersatzkasse) (1965)"
+    },
+    {
+      "name": "Innungskrankenkassen (IKK) gesamt",
+      "versicherte": 4798744,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Bundesinnungskrankenkasse Gesundheit",
+      "versicherte": 480000,
+      "mitarbeiter": 950,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,29 % (9,145 %)",
+      "eingegliederte_kassen_fruehere_namen": "Actimonda BKK (2021), Betriebskrankenkasse der Victoria und D.A.S. Versicherungs-Gesellschaften (2015)"
+    },
+    {
+      "name": "IKK classic",
+      "versicherte": 2860000,
+      "mitarbeiter": 6868,
+      "haushaltsvolumen_mio_euro": 15700,
+      "beitragssatz_2026_arbeitnehmeranteil": "18,45 % (9,225 %)",
+      "eingegliederte_kassen_fruehere_namen": "Vereinigte IKK (2011), IKK Baden-Württemberg und Hessen (2010), IKK Hamburg (2010), IKK Sachsen (2010), IKK Thüringen (2010)"
+    },
+    {
+      "name": "IKK gesund plus",
+      "versicherte": 620000,
+      "mitarbeiter": 1250,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,99 % (8,995 %)",
+      "eingegliederte_kassen_fruehere_namen": "Innungskrankenkasse Brandenburg und Berlin (2026)"
+    },
+    {
+      "name": "IKK Südwest",
+      "versicherte": 641252,
+      "mitarbeiter": 1500,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,47 % (9,235 %)",
+      "eingegliederte_kassen_fruehere_namen": "IKK Südwest-Direkt (2009), IKK Südwest-Plus (2009)"
+    },
+    {
+      "name": "IKK – Die Innovationskasse",
+      "versicherte": 262290,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,90 % (9,45 %)",
+      "eingegliederte_kassen_fruehere_namen": "IKK Mecklenburg-Vorpommern (2006), IKK Schleswig-Holstein (2006) Frühere Namen: Innungskrankenkasse Nord (2006–2021)"
+    },
+    {
+      "name": "Betriebskrankenkassen (BKK) gesamt",
+      "versicherte": 11549955,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Audi BKK",
+      "versicherte": 810000,
+      "mitarbeiter": 814,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,20 % (8,6 %)",
+      "eingegliederte_kassen_fruehere_namen": "BKK Stadt Augsburg (2023), BKK MAN und MTU München (2012), BKK FTE (2010), BKK Alcan Singen (2006), BKK Eberle (2004), BKK Hosokawa Alpine (2003) Frühere Namen: Audi Betriebskrankenkasse (bis 2010)"
+    },
+    {
+      "name": "Bahn-BKK",
+      "versicherte": 575500,
+      "mitarbeiter": 1157,
+      "haushaltsvolumen_mio_euro": 2168,
+      "beitragssatz_2026_arbeitnehmeranteil": "18,25 % (9,125 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Bergische Krankenkasse",
+      "versicherte": 76000,
+      "mitarbeiter": 125,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,39 % (9,195 %)",
+      "eingegliederte_kassen_fruehere_namen": "BKK Grillo-Werke AG (2022)"
+    },
+    {
+      "name": "Bertelsmann BKK",
+      "versicherte": 48066,
+      "mitarbeiter": 98,
+      "haushaltsvolumen_mio_euro": 166.8,
+      "beitragssatz_2026_arbeitnehmeranteil": "17,80 % (8,9 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Betriebskrankenkasse der BMW AG – betriebsbezogen",
+      "versicherte": 178800,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,50 % (9,25 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Betriebskrankenkasse der G. M. Pfaff AG",
+      "versicherte": 45000,
+      "mitarbeiter": 92,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,38 % (8,69 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Betriebskrankenkasse Firmus",
+      "versicherte": 1200000,
+      "mitarbeiter": 950,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "16,78 % (8,39 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Betriebskrankenkasse Groz-Beckert – betriebsbezogen",
+      "versicherte": 7128,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,0 % (9,0 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Betriebskrankenkasse Miele – betriebsbezogen",
+      "versicherte": 32600,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,80 % (8,9 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Betriebskrankenkasse Mobil",
+      "versicherte": 858000,
+      "mitarbeiter": 1700,
+      "haushaltsvolumen_mio_euro": 1.9,
+      "beitragssatz_2026_arbeitnehmeranteil": "18,49 % (9,245 %)",
+      "eingegliederte_kassen_fruehere_namen": "Hypovereinsbank Betriebskrankenkasse (2014), KEH Ersatzkasse (2008)"
+    },
+    {
+      "name": "Betriebskrankenkasse Schwarzwald-Baar-Heuberg",
+      "versicherte": 20767,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,39 % (8,695 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Betriebskrankenkasse Vereinigte Deutsche Nickel-Werke",
+      "versicherte": 33600,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,79 % (8,895 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Betriebskrankenkasse WMF Württembergische Metallwarenfabrik AG",
+      "versicherte": 22345,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,45 % (8,725 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "BKK24",
+      "versicherte": 106914,
+      "mitarbeiter": 275,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,99 % (9,495 %)",
+      "eingegliederte_kassen_fruehere_namen": "BKK advita (2017), Nürnberger BKK (2003), BKK Nienburger Glas (2002), BKK Heye (1999), BKK Svedala (1999)"
+    },
+    {
+      "name": "BKK B. Braun Aesculap – betriebsbezogen",
+      "versicherte": 29000,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "20 (veraltet)",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,25 % (9,125 %)",
+      "eingegliederte_kassen_fruehere_namen": "Betriebskrankenkasse B. Braun Melsungen AG (2020)"
+    },
+    {
+      "name": "BKK Akzo Nobel Bayern",
+      "versicherte": 40131,
+      "mitarbeiter": 53,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,99 % (8,995 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "BKK Deutsche Bank AG – betriebsbezogen",
+      "versicherte": 80998,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": 242,
+      "beitragssatz_2026_arbeitnehmeranteil": "18,0 % (9,0 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "BKK Diakonie",
+      "versicherte": 25883,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": 57.62,
+      "beitragssatz_2026_arbeitnehmeranteil": "18,40 % (9,2 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "BKK Dürkopp Adler",
+      "versicherte": 22242,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,48 % (9,24 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "BKK Euregio",
+      "versicherte": 91000,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,99 % (8,995 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "BKK evm – betriebsbezogen",
+      "versicherte": 2000,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,10 % (8,55 %)",
+      "eingegliederte_kassen_fruehere_namen": "Frühere Namen: BKK Kevag Koblenz (bis 2014)"
+    },
+    {
+      "name": "BKK EWE – betriebsbezogen",
+      "versicherte": 13532,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,79 % (8,895 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "BKK exklusiv",
+      "versicherte": 26500,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,09 % (9,045 %)",
+      "eingegliederte_kassen_fruehere_namen": "BKK Brauerei Beck & Co. (2004)"
+    },
+    {
+      "name": "BKK Faber-Castell & Partner",
+      "versicherte": 67000,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,08 % (8,54 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "BKK Freudenberg",
+      "versicherte": 23789,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,59 % (8,795 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "BKK Gildemeister Seidensticker",
+      "versicherte": 188783,
+      "mitarbeiter": 442,
+      "haushaltsvolumen_mio_euro": 874.6,
+      "beitragssatz_2026_arbeitnehmeranteil": "18,0 % (9,0 %)",
+      "eingegliederte_kassen_fruehere_namen": "BKK BJB (2015)"
+    },
+    {
+      "name": "BKK Herkules",
+      "versicherte": 32134,
+      "mitarbeiter": 65,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,98 % (9,49 %)",
+      "eingegliederte_kassen_fruehere_namen": "Frühere Namen: BKK Wegmann (bis 1999)"
+    },
+    {
+      "name": "BKK Linde",
+      "versicherte": 89540,
+      "mitarbeiter": 122,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,59 % (8,795 %)",
+      "eingegliederte_kassen_fruehere_namen": "HEAG BKK (2016)"
+    },
+    {
+      "name": "BKK Melitta HMR",
+      "versicherte": 76000,
+      "mitarbeiter": 56,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,50 % (9,25 %)",
+      "eingegliederte_kassen_fruehere_namen": "Betriebskrankenkasse BPW Bergische Achsen KG (2024), Betriebskrankenkasse Herford Minden Ravensberg (2022), BKK Melitta Plus (2022)"
+    },
+    {
+      "name": "BKK mkk",
+      "versicherte": 520000,
+      "mitarbeiter": 1150,
+      "haushaltsvolumen_mio_euro": 1.04,
+      "beitragssatz_2026_arbeitnehmeranteil": "18,10 % (9,05 %)",
+      "eingegliederte_kassen_fruehere_namen": "Brandenburgische BKK (2020), TBK (2020), Vereinigte BKK (2017), BKK Basell (2016), BKK Demag Krauss-Maffei (2016), BKK Schleswig-Holstein (2016), BKK Medicus (2015), BKK futur (2012), Mitteldeutsche BKK (2009), BKK Dresdner Druck und Verlagshaus (2001), BKK Heitkamp (2000), BKK Buna (1997), BKK IMO Merseburg (1997), BKK Isolierungen Leipzig (1997), BKK LVZ (1997) Frühere Namen: BKK VBU (2021–2023), BKK Verkehrsbau Union (1993–2021)"
+    },
+    {
+      "name": "BKK MTU – betriebsbezogen",
+      "versicherte": 16500,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,40 % (8,7 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "BKK Pfalz",
+      "versicherte": 140000,
+      "mitarbeiter": 380,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,50 % (9,25 %)",
+      "eingegliederte_kassen_fruehere_namen": "BKK Vital (2018), G+H BKK (2009)"
+    },
+    {
+      "name": "BKK Provita",
+      "versicherte": 121312,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,39 % (9,195 %)",
+      "eingegliederte_kassen_fruehere_namen": "BKK family (2016), Betriebskrankenkasse der Schwesternschaft München vom Bayerischen Roten Kreuz (2013), BKK Schott-Rohrglas (2012), Persönliche BKK (PBK) (2009), enercity | BKK Stadtwerke Hannover AG (2009) Frühere Namen: BKK A.T.U (bis 2014)"
+    },
+    {
+      "name": "BKK Public",
+      "versicherte": 4448,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,10 % (8,55 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Betriebskrankenkasse Pricewaterhousecoopers – betriebsbezogen",
+      "versicherte": 19001,
+      "mitarbeiter": 30,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,40 % (8,7 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "BKK Rieker Ricosta Weisser – betriebsbezogen",
+      "versicherte": 3134,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,80 % (9,4 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "BKK Salzgitter – betriebsbezogen",
+      "versicherte": 65561,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,10 % (9,05 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "BKK Scheufelen",
+      "versicherte": 65000,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,59 % (9,295 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "BKK Technoform",
+      "versicherte": 14504,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,09 % (9,045 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "BKK Verbundplus",
+      "versicherte": 144255,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,49 % (9,245 %)",
+      "eingegliederte_kassen_fruehere_namen": "Gemeinsame Betriebskrankenkasse der Wieland-Werke AG (2022), BKK Kassana (2015)"
+    },
+    {
+      "name": "BKK Werra-Meissner",
+      "versicherte": 40000,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,95 % (9,475 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "BKK Wirtschaft & Finanzen",
+      "versicherte": 33000,
+      "mitarbeiter": 76,
+      "haushaltsvolumen_mio_euro": 33,
+      "beitragssatz_2026_arbeitnehmeranteil": "18,59 % (9,295 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "BKK Würth – betriebsbezogen",
+      "versicherte": 12500,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,0 % (9,0 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Bosch BKK",
+      "versicherte": 230974,
+      "mitarbeiter": 300,
+      "haushaltsvolumen_mio_euro": 403,
+      "beitragssatz_2026_arbeitnehmeranteil": "17,78 % (8,89 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Continentale Betriebskrankenkasse",
+      "versicherte": 91065,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": 2400,
+      "beitragssatz_2026_arbeitnehmeranteil": "17,93 % (8,965 %)",
+      "eingegliederte_kassen_fruehere_namen": "BKK Henschel Plus (2020), Logistik BKK (2009), BKK Sauerland (2009), BKK Philips (2009)"
+    },
+    {
+      "name": "Debeka BKK",
+      "versicherte": 183411,
+      "mitarbeiter": 385,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,85 % (8,925 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Energie-Betriebskrankenkasse",
+      "versicherte": 131971,
+      "mitarbeiter": 154,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,58 % (9,29 %)",
+      "eingegliederte_kassen_fruehere_namen": "Betriebskrankenkasse RWE (2022), E.ON Betriebskrankenkasse (2016), BKK Bayernwerk (2001), BKK Hamburgische Electricitäts-Werke (2000), BKK Elektromark (1998), BKK der EAN (1998), BKK VKR (1997), Betriebskrankenkasse Hastra (1996), BKK Paderborner Elektrizitätswerke und Straßenbahn AG (1996), Betriebskrankenkass Preussenelektra (1996) und BKK der Schleswig-Holsteinische Stromversorgungs-Aktiengesellschaft (1996)"
+    },
+    {
+      "name": "EY Betriebskrankenkasse – betriebsbezogen",
+      "versicherte": 10124,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,35 % (8,675 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Heimat Krankenkasse",
+      "versicherte": 112694,
+      "mitarbeiter": 176,
+      "haushaltsvolumen_mio_euro": 318,
+      "beitragssatz_2026_arbeitnehmeranteil": "18,50 % (9,25 %)",
+      "eingegliederte_kassen_fruehere_namen": "BKK Dr. Aug. Oetker Nahrungsmittel KG (1997), BKK Chemische Fabrik Budenheim, R.A. Oetker KG (1997), BKK C.A. Delius & Söhne (1997) Frühere Namen: BKK Dr. Oetker (bis 2012), BKK Oetker (bis 2000)"
+    },
+    {
+      "name": "Karl Mayer Betriebskrankenkasse – betriebsbezogen",
+      "versicherte": 3700,
+      "mitarbeiter": 10,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,59 % (8,795 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Koenig & Bauer BKK – betriebsbezogen",
+      "versicherte": 12329,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,78 % (8,89 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Krones Betriebskrankenkasse – betriebsbezogen",
+      "versicherte": 20000,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "16,80 % (8,4 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Mahle Betriebskrankenkasse – betriebsbezogen",
+      "versicherte": 12300,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,80 % (9,4 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Mercedes-Benz Betriebskrankenkasse – betriebsbezogen",
+      "versicherte": 310000,
+      "mitarbeiter": 230,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,80 % (8,9 %)",
+      "eingegliederte_kassen_fruehere_namen": "BKK Evobus (2001), BKK Mercedes-Benz (2001), BKK Karl Kässbohrer, BKK Hanomag-Henschel Frühere Namen: Daimlerchrysler BKK (bis 2007), Daimler-Benz BKK (bis 2001), Daimler Betriebskrankenkasse (bis 2022)"
+    },
+    {
+      "name": "Merck BKK – betriebsbezogen",
+      "versicherte": 28000,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,57 % (9,285 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "MHplus Betriebskrankenkasse",
+      "versicherte": 498340,
+      "mitarbeiter": 970,
+      "haushaltsvolumen_mio_euro": 1200,
+      "beitragssatz_2026_arbeitnehmeranteil": "18,46 % (9,23 %)",
+      "eingegliederte_kassen_fruehere_namen": "BKK Textilgruppe Hof (2025), Metzinger Betriebskrankenkasse (2019), GBK Köln (2011), BKK der Hansestadt Lübeck (2008), BKK Hochrhein-Wiesental (2007), BKK Conzelmann (2006), BKK TE KA DE-FGF (2006), BKK PWA (2003) Frühere Namen: BKK Mann+Hummel (1952 – 2001)"
+    },
+    {
+      "name": "Novitas BKK",
+      "versicherte": 398000,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,20 % (9,1 %)",
+      "eingegliederte_kassen_fruehere_namen": "Betriebskrankenkasse der Siemag (2022), ESSO Betriebskrankenkasse (2015), Betriebskrankenkasse Phoenix (2014), ktpBKK (2010)"
+    },
+    {
+      "name": "Pronova BKK",
+      "versicherte": 615158,
+      "mitarbeiter": 1500,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,30 % (9,15 %)",
+      "eingegliederte_kassen_fruehere_namen": "Betriebskrankenkasse Braun-Gillette (2017), Vaillant BKK (2015), BKK der Partner (2010), BKK Ford & Rheinland (2010), BKK Goetze & Partner (2010), Bayer BKK (2007), FORTISNOVA BKK gesund & aktiv (2007)"
+    },
+    {
+      "name": "R+V Betriebskrankenkasse",
+      "versicherte": 172037,
+      "mitarbeiter": 400,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,09 % (9,045 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Salus BKK",
+      "versicherte": 170000,
+      "mitarbeiter": 300,
+      "haushaltsvolumen_mio_euro": 17.4,
+      "beitragssatz_2026_arbeitnehmeranteil": "17,89 % (8,945 %)",
+      "eingegliederte_kassen_fruehere_namen": "BKK der Philipp Holzmann AG (2002)"
+    },
+    {
+      "name": "Securvita BKK",
+      "versicherte": 144800,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": 385.6,
+      "beitragssatz_2026_arbeitnehmeranteil": "18,50 % (9,25 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Siemens-Betriebskrankenkasse",
+      "versicherte": 1091929,
+      "mitarbeiter": 1554,
+      "haushaltsvolumen_mio_euro": 2799,
+      "beitragssatz_2026_arbeitnehmeranteil": "18,40 % (9,2 %)",
+      "eingegliederte_kassen_fruehere_namen": "BKK Voralb Heller Index Leuze – betriebsbezogen (2026), Neue BKK (2010), UPM BKK (2009), BKK Rhein-Neckar (2009), Kaiser’s BKK (2008), BKK Junghans und Partner (2004), BKK Iveco Magirus (2004), Voith & Partner BKK (2004), Benteler BKK (2001)"
+    },
+    {
+      "name": "SKD BKK",
+      "versicherte": 64556,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,58 % (8,79 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Südzucker BKK – betriebsbezogen",
+      "versicherte": 9300,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,50 % (8,75 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "TUI BKK",
+      "versicherte": 17450,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "17,10 % (8,55 %)",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Viactiv BKK",
+      "versicherte": 690699,
+      "mitarbeiter": 1500,
+      "haushaltsvolumen_mio_euro": 2300,
+      "beitragssatz_2026_arbeitnehmeranteil": "18,79 % (9,395 %)",
+      "eingegliederte_kassen_fruehere_namen": "BKK 2000 (2003), BKK Achenbach Buschhütten (2021), Betriebskrankenkasse Hoesch (2012), Dräger & Hanse BKK (2011), BKK Deutsche BP AG (2010), BKK Westfalen-Lippe (2010), BKK N-Ergie (2010), BKK Aktiv (2009), BKK Ruhrgebiet (2009), BKK Mannesmann (2008), BKK Krups-Zwilling (2007), Degussa BKK (2005), BKK Thyssen Draht (1998), BKK Schalker Eisenhütte (1998), BKK Deutsche Babcock AG (1997), BKK Küppersbusch (1997), BKK F. A. Kümpers (1996), BKK Kock (1996) Frühere Namen: BKK vor Ort (–2015)"
+    },
+    {
+      "name": "Vivida BKK",
+      "versicherte": 317472,
+      "mitarbeiter": 850,
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,39 % (9,195 %)",
+      "eingegliederte_kassen_fruehere_namen": "Atlas BKK Ahlmann (2021), BKK Ost-Hessen (2010), BKK BVM (2009), BKK J. Schlenker-Grusen (1997) Frühere Namen: Schwenninger BKK (bis 2020), BKK Kienzle Uhren Fabriken GmbH (bis 1996)"
+    },
+    {
+      "name": "ZF BKK",
+      "versicherte": 91085,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "18,0 % (9,0 %)",
+      "eingegliederte_kassen_fruehere_namen": "BKK ZF Getriebe GmbH (2009), BKK Rhein-Lahn (2008), ZF BKK (2004), BKK der F.H. Werke Laucherthal (2004), BKK Müller Weingarten AG (2004)"
+    },
+    {
+      "name": "Deutsche Rentenversicherung Knappschaft-Bahn-See (KBS) gesamt",
+      "versicherte": 1122550,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Knappschaft",
+      "versicherte": 1122550,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": 6700,
+      "beitragssatz_2026_arbeitnehmeranteil": "18,90 % (9,45 %)",
+      "eingegliederte_kassen_fruehere_namen": "See-Krankenkasse (2008), Bundesknappschaft (2005)"
+    },
+    {
+      "name": "Sozialversicherung für Landwirtschaft, Forsten und Gartenbau (SVLFG) gesamt",
+      "versicherte": 461239,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "",
+      "eingegliederte_kassen_fruehere_namen": ""
+    },
+    {
+      "name": "Landwirtschaftliche Krankenkasse",
+      "versicherte": 461239,
+      "mitarbeiter": "",
+      "haushaltsvolumen_mio_euro": "",
+      "beitragssatz_2026_arbeitnehmeranteil": "abhängig vom Standardeinkommenswert",
+      "eingegliederte_kassen_fruehere_namen": "Krankenkasse für den Gartenbau (2013), LKK Baden-Württemberg (2013), LKK Franken und Oberbayern (2013), LKK Hessen, Rheinland-Pfalz und Saarland (2013), LKK Mittel- und Ostdeutschland (2013), LKK Niederbayern/Oberpfalz und Schwaben (2013), LKK Niedersachsen-Bremen (2013), LKK Nordrhein-Westfalen (2013), LKK Schleswig-Holstein und Hamburg (2013)"
+    }
+  ],
+  "meta": {
+    "title": "Gesetzliche Krankenkassen in Deutschland - Free Download",
+    "description": "Liste der gesetzlichen Krankenkassen in Deutschland (AOK, Ersatzkassen, BKK, IKK u. a.) mit Versichertenzahl, Mitarbeitern, Haushaltsvolumen, Beitragssatz 2026 und früheren bzw. eingegliederten Kassen. Contains 98 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Gesetzliche Krankenkassen in Deutschland | ListBase",
+    "seo_description": "Download Gesetzliche Krankenkassen in Deutschland — 98 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 98 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_gesetzlichen_Krankenkassen_in_Deutschland"
+    ]
+  }
+}
