@@ -1,0 +1,466 @@
+{
+  "id": "de-reichskanzler",
+  "name": "Reichskanzler des Deutschen Reiches",
+  "title": "Reichskanzler des Deutschen Reiches",
+  "description": "Liste der Regierungschefs des Norddeutschen Bundes und des Deutschen Reiches (1867–1945) mit Amtszeit, Partei, Kabinett und Ursache für das Ende der Amtszeit.",
+  "category": "history",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Regierungschefs_des_Norddeutschen_Bundes_und_des_Deutschen_Reiches",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Regierungschefs_des_Norddeutschen_Bundes_und_des_Deutschen_Reiches",
+  "updated": "2026-11",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "epoche",
+      "label": "Epoche",
+      "type": "string"
+    },
+    {
+      "key": "amtsantritt",
+      "label": "Amtsantritt",
+      "type": "string"
+    },
+    {
+      "key": "amtsende",
+      "label": "Amtsende",
+      "type": "string"
+    },
+    {
+      "key": "partei",
+      "label": "Partei",
+      "type": "string"
+    },
+    {
+      "key": "kabinett",
+      "label": "Kabinett",
+      "type": "string"
+    },
+    {
+      "key": "ursache_amtsende",
+      "label": "Ursache Amtsende",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Otto Graf von Bismarck (1815–1898)",
+      "epoche": "Norddeutscher Bund",
+      "amtsantritt": "1. Juli 1867",
+      "amtsende": "3. Mai 1871",
+      "partei": "parteilos (konservativ)",
+      "kabinett": "–",
+      "ursache_amtsende": "kein Amtsende und keine Neuernennung, sondern nur Änderung des Titels wegen der neuen Reichsverfassung vom April/Mai 1871"
+    },
+    {
+      "name": "Otto Fürst von Bismarck (1815–1898)",
+      "epoche": "Deutsches Kaiserreich",
+      "amtsantritt": "4. Mai 1871",
+      "amtsende": "20. März 1890",
+      "partei": "parteilos (konservativ)",
+      "kabinett": "I.",
+      "ursache_amtsende": "Rücktritt"
+    },
+    {
+      "name": "Leo Graf von Caprivi (1831–1899)",
+      "epoche": "Deutsches Kaiserreich",
+      "amtsantritt": "20. März 1890",
+      "amtsende": "26. Oktober 1894",
+      "partei": "parteilos",
+      "kabinett": "I.",
+      "ursache_amtsende": "Vom Kaiser entlassen"
+    },
+    {
+      "name": "Chlodwig Fürst zu Hohenlohe-Schillingsfürst (1819–1901)",
+      "epoche": "Deutsches Kaiserreich",
+      "amtsantritt": "29. Oktober 1894",
+      "amtsende": "17. Oktober 1900",
+      "partei": "parteilos",
+      "kabinett": "I.",
+      "ursache_amtsende": "Rücktritt"
+    },
+    {
+      "name": "Bernhard Fürst von Bülow (1849–1929)",
+      "epoche": "Deutsches Kaiserreich",
+      "amtsantritt": "17. Oktober 1900",
+      "amtsende": "14. Juli 1909",
+      "partei": "parteilos",
+      "kabinett": "I.",
+      "ursache_amtsende": "Rücktritt"
+    },
+    {
+      "name": "Theobald von Bethmann Hollweg (1856–1921)",
+      "epoche": "Deutsches Kaiserreich",
+      "amtsantritt": "14. Juli 1909",
+      "amtsende": "13. Juli 1917",
+      "partei": "parteilos (ordoliberal)",
+      "kabinett": "I.",
+      "ursache_amtsende": "Rücktritt"
+    },
+    {
+      "name": "Georg Michaelis (1857–1936)",
+      "epoche": "Deutsches Kaiserreich",
+      "amtsantritt": "14. Juli 1917",
+      "amtsende": "1. November 1917",
+      "partei": "parteilos",
+      "kabinett": "I.",
+      "ursache_amtsende": "Rücktritt"
+    },
+    {
+      "name": "Georg Graf von Hertling (1843–1919)",
+      "epoche": "Deutsches Kaiserreich",
+      "amtsantritt": "1. November 1917",
+      "amtsende": "30. September 1918",
+      "partei": "Zentrum",
+      "kabinett": "I.",
+      "ursache_amtsende": "Vom Kaiser entlassen"
+    },
+    {
+      "name": "Max Prinz von Baden (1867–1929)",
+      "epoche": "Deutsches Kaiserreich",
+      "amtsantritt": "3. Oktober 1918",
+      "amtsende": "9. November 1918",
+      "partei": "parteilos (liberal)",
+      "kabinett": "I.",
+      "ursache_amtsende": "Übergabe der Kanzlerschaft an Friedrich Ebert"
+    },
+    {
+      "name": "Friedrich Ebert (1871–1925)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "9. November 1918",
+      "amtsende": "11. Februar 1919",
+      "partei": "SPD",
+      "kabinett": "I.",
+      "ursache_amtsende": "Wahl zum Reichspräsidenten"
+    },
+    {
+      "name": "Vorsitzende des Rates der Volksbeauftragten",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "Vorsitzende des Rates der Volksbeauftragten",
+      "amtsende": "Vorsitzende des Rates der Volksbeauftragten",
+      "partei": "Vorsitzende des Rates der Volksbeauftragten",
+      "kabinett": "Vorsitzende des Rates der Volksbeauftragten",
+      "ursache_amtsende": "Vorsitzende des Rates der Volksbeauftragten"
+    },
+    {
+      "name": "Friedrich Ebert (1871–1925)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "10. November 1918",
+      "amtsende": "11. Februar 1919",
+      "partei": "SPD",
+      "kabinett": "I.",
+      "ursache_amtsende": "Wahl zum Reichspräsidenten"
+    },
+    {
+      "name": "Hugo Haase (1863–1919)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "10. November 1918",
+      "amtsende": "29. Dezember 1918",
+      "partei": "USPD",
+      "kabinett": "I.",
+      "ursache_amtsende": "Rücktritt"
+    },
+    {
+      "name": "Philipp Scheidemann (1865–1939)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "29. Dezember 1918",
+      "amtsende": "7. Februar 1919",
+      "partei": "SPD",
+      "kabinett": "I.",
+      "ursache_amtsende": "–"
+    },
+    {
+      "name": "Reichsministerpräsident",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "Reichsministerpräsident",
+      "amtsende": "Reichsministerpräsident",
+      "partei": "Reichsministerpräsident",
+      "kabinett": "Reichsministerpräsident",
+      "ursache_amtsende": "Reichsministerpräsident"
+    },
+    {
+      "name": "Philipp Scheidemann (1865–1939)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "13. Februar 1919",
+      "amtsende": "20. Juni 1919",
+      "partei": "SPD",
+      "kabinett": "I.",
+      "ursache_amtsende": "Rücktritt wegen Uneinigkeit über den Versailler Vertrag"
+    },
+    {
+      "name": "Gustav Bauer (1870–1944)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "21. Juni 1919",
+      "amtsende": "14. August 1919",
+      "partei": "SPD",
+      "kabinett": "I.",
+      "ursache_amtsende": "–"
+    },
+    {
+      "name": "Reichskanzler",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "Reichskanzler",
+      "amtsende": "Reichskanzler",
+      "partei": "Reichskanzler",
+      "kabinett": "Reichskanzler",
+      "ursache_amtsende": "Reichskanzler"
+    },
+    {
+      "name": "Gustav Bauer (1870–1944)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "14. August 1919",
+      "amtsende": "26. März 1920",
+      "partei": "SPD",
+      "kabinett": "I.",
+      "ursache_amtsende": "Vertrauensverlust nach dem Kapp-Putsch"
+    },
+    {
+      "name": "Hermann Müller (1876–1931)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "27. März 1920",
+      "amtsende": "8. Juni 1920",
+      "partei": "SPD",
+      "kabinett": "I.",
+      "ursache_amtsende": "Zentrumspartei übernahm Mehrheit nach Unterzeichnung des Versailler Vertrages durch Müller"
+    },
+    {
+      "name": "Constantin Fehrenbach (1852–1926)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "25. Juni 1920",
+      "amtsende": "4. Mai 1921",
+      "partei": "Zentrum",
+      "kabinett": "I.",
+      "ursache_amtsende": "Uneinigkeit der Parteien im Streit um die Annahme des Londoner Ultimatums für Reparationszahlungen"
+    },
+    {
+      "name": "Joseph Wirth (1879–1956)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "10. Mai 1921",
+      "amtsende": "22. Oktober 1921",
+      "partei": "Zentrum",
+      "kabinett": "I.",
+      "ursache_amtsende": "Neue Regierungsbildung als Protest gegen die Zwangsabtrennung Oberschlesiens an Polen"
+    },
+    {
+      "name": "Joseph Wirth (1879–1956)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "26. Oktober 1921",
+      "amtsende": "14. November 1922",
+      "partei": "Zentrum",
+      "kabinett": "II.",
+      "ursache_amtsende": "Ermordung Walther Rathenaus durch Rechte und Scheitern einer Koalition der demokratischen Kräfte dagegen"
+    },
+    {
+      "name": "Wilhelm Cuno (1876–1933)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "22. November 1922",
+      "amtsende": "12. August 1923",
+      "partei": "parteilos (konservativ)",
+      "kabinett": "I.",
+      "ursache_amtsende": "Der Streikaufruf Cunos gegen die Reparationszahlungen trieb Deutschland in den Ruin, Streikwelle gegen Cuno, die SPD stellte ein Misstrauensvotum."
+    },
+    {
+      "name": "Gustav Stresemann (1878–1929)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "13. August 1923",
+      "amtsende": "3. Oktober 1923",
+      "partei": "DVP",
+      "kabinett": "I.",
+      "ursache_amtsende": "Ende des ersten Stresemann-Kabinetts nach Umsturzversuchen deutscher Kommunisten, die von Sachsen und Thüringen aus operierten: „ Deutscher Oktober “"
+    },
+    {
+      "name": "Gustav Stresemann (1878–1929)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "6. Oktober 1923",
+      "amtsende": "23. November 1923",
+      "partei": "DVP",
+      "kabinett": "II.",
+      "ursache_amtsende": "Umsturzversuche rechter Kräfte im Hitlerputsch (9. November 1923) und Kabinettskrise danach"
+    },
+    {
+      "name": "Wilhelm Marx (1863–1946)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "30. November 1923",
+      "amtsende": "26. Mai 1924",
+      "partei": "Zentrum",
+      "kabinett": "I.",
+      "ursache_amtsende": "Ende Kabinett Marx I"
+    },
+    {
+      "name": "Wilhelm Marx (1863–1946)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "3. Juni 1924",
+      "amtsende": "15. Januar 1925",
+      "partei": "Zentrum",
+      "kabinett": "II.",
+      "ursache_amtsende": "Ende Kabinett Marx II"
+    },
+    {
+      "name": "Hans Luther (1879–1962)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "15. Januar 1925",
+      "amtsende": "5. Dezember 1925",
+      "partei": "parteilos (nationalliberal)",
+      "kabinett": "I.",
+      "ursache_amtsende": "Auseinanderbrechen der Koalition nach Anerkennung der im Versailler Vertrag festgelegten Westgrenze im Locarno-Pakt"
+    },
+    {
+      "name": "Hans Luther (1879–1962)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "20. Januar 1926",
+      "amtsende": "12. Mai 1926",
+      "partei": "parteilos (nationalliberal)",
+      "kabinett": "II.",
+      "ursache_amtsende": "Rücktritt des zweiten Kabinetts Luther nach einem Misstrauensvotum des Reichstags wegen der Einführung einer modifizierten kaiserlichen Flagge"
+    },
+    {
+      "name": "Otto Geßler (1875–1955) kommissarisch",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "12. Mai 1926",
+      "amtsende": "17. Mai 1926",
+      "partei": "DDP",
+      "kabinett": "–",
+      "ursache_amtsende": "Vorwurf der Nähe zu rechtsgerichteten Kreisen und Großindustrie, Aufdeckung eines frühen geheimen Aufrüstprogramms gegen den Versailler Vertrag in der Lohmann-Affäre"
+    },
+    {
+      "name": "Wilhelm Marx (1863–1946)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "17. Mai 1926",
+      "amtsende": "17. Dezember 1926",
+      "partei": "Zentrum",
+      "kabinett": "III.",
+      "ursache_amtsende": "Ende Kabinett Marx III"
+    },
+    {
+      "name": "Wilhelm Marx (1863–1946)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "19. Januar 1927",
+      "amtsende": "12. Juni 1928",
+      "partei": "Zentrum",
+      "kabinett": "IV.",
+      "ursache_amtsende": "Ende Kabinett Marx IV"
+    },
+    {
+      "name": "Hermann Müller (1876–1931)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "28. Juni 1928",
+      "amtsende": "27. März 1930",
+      "partei": "SPD",
+      "kabinett": "II.",
+      "ursache_amtsende": "Scheitern der Koalition an Reformwünschen der arbeitgeberfreundlichen DVP zur 1927 eingeführten Arbeitslosenversicherung. Weigerung der SPD, auf eine viertelprozentige Erhöhung der Beiträge zur Versicherung zu verzichten."
+    },
+    {
+      "name": "Heinrich Brüning (1885–1970)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "30. März 1930",
+      "amtsende": "7. Oktober 1931",
+      "partei": "Zentrum",
+      "kabinett": "I.",
+      "ursache_amtsende": "Bekämpfung der Wirtschaftskrise durch Deflationspolitik (Politik des Sparens)"
+    },
+    {
+      "name": "Heinrich Brüning (1885–1970)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "9. Oktober 1931",
+      "amtsende": "30. Mai 1932",
+      "partei": "Zentrum",
+      "kabinett": "II.",
+      "ursache_amtsende": "Verschlimmerung der wirtschaftlichen und innenpolitischen Situation trotz Hoover-Moratorium und erfolgreichen Verhandlungen bei der Konferenz von Lausanne"
+    },
+    {
+      "name": "Franz von Papen (1879–1969)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "1. Juni 1932",
+      "amtsende": "17. November 1932",
+      "partei": "Zentrum (ab 3. Juni 1932 parteilos)",
+      "kabinett": "I.",
+      "ursache_amtsende": "„ Kabinett der Barone “. Durchführung des Preußenschlags (Absetzung der SPD-geführten Regierung in Preußen). Versuchter Staatsstreich scheiterte am Widerstand der Reichswehr unter Schleicher."
+    },
+    {
+      "name": "Kurt von Schleicher (1882–1934)",
+      "epoche": "Weimarer Republik",
+      "amtsantritt": "3. Dezember 1932",
+      "amtsende": "28. Januar 1933",
+      "partei": "parteilos",
+      "kabinett": "I.",
+      "ursache_amtsende": "Schleicher versuchte als „sozialer General“ eine Annäherung an die gemäßigten Kräfte (Soziales Bündnis) und die Spaltung der NSDAP. Das Vorhaben misslang, Unterstützer wandten sich ab, Hindenburg ernannte unter Druck Hitler zum Reichskanzler."
+    },
+    {
+      "name": "Adolf Hitler (1889–1945)",
+      "epoche": "Zeit des Nationalsozialismus",
+      "amtsantritt": "30. Januar 1933",
+      "amtsende": "2. August 1934",
+      "partei": "NSDAP",
+      "kabinett": "I.",
+      "ursache_amtsende": "Tod Hindenburgs und Zusammenlegung der Ämter des Reichskanzlers und des Reichspräsidenten"
+    },
+    {
+      "name": "Führer und Reichskanzler",
+      "epoche": "Zeit des Nationalsozialismus",
+      "amtsantritt": "Führer und Reichskanzler",
+      "amtsende": "Führer und Reichskanzler",
+      "partei": "Führer und Reichskanzler",
+      "kabinett": "Führer und Reichskanzler",
+      "ursache_amtsende": "Führer und Reichskanzler"
+    },
+    {
+      "name": "Adolf Hitler (1889–1945)",
+      "epoche": "Zeit des Nationalsozialismus",
+      "amtsantritt": "2. August 1934",
+      "amtsende": "30. April 1945",
+      "partei": "NSDAP",
+      "kabinett": "I.",
+      "ursache_amtsende": "Suizid"
+    },
+    {
+      "name": "Reichskanzler",
+      "epoche": "Zeit des Nationalsozialismus",
+      "amtsantritt": "Reichskanzler",
+      "amtsende": "Reichskanzler",
+      "partei": "Reichskanzler",
+      "kabinett": "Reichskanzler",
+      "ursache_amtsende": "Reichskanzler"
+    },
+    {
+      "name": "Joseph Goebbels (1897–1945)",
+      "epoche": "Zeit des Nationalsozialismus",
+      "amtsantritt": "30. April 1945",
+      "amtsende": "1. Mai 1945",
+      "partei": "NSDAP",
+      "kabinett": "I.",
+      "ursache_amtsende": "Suizid"
+    },
+    {
+      "name": "Leitender Minister der Geschäftsführenden Reichsregierung",
+      "epoche": "Zeit des Nationalsozialismus",
+      "amtsantritt": "Leitender Minister der Geschäftsführenden Reichsregierung",
+      "amtsende": "Leitender Minister der Geschäftsführenden Reichsregierung",
+      "partei": "Leitender Minister der Geschäftsführenden Reichsregierung",
+      "kabinett": "Leitender Minister der Geschäftsführenden Reichsregierung",
+      "ursache_amtsende": "Leitender Minister der Geschäftsführenden Reichsregierung"
+    },
+    {
+      "name": "Johann Ludwig Graf Schwerin von Krosigk (1887–1977)",
+      "epoche": "Zeit des Nationalsozialismus",
+      "amtsantritt": "2. Mai 1945",
+      "amtsende": "23. Mai 1945",
+      "partei": "NSDAP",
+      "kabinett": "I.",
+      "ursache_amtsende": "Von den Hauptsiegermächten abgesetzt"
+    }
+  ],
+  "meta": {
+    "title": "Reichskanzler des Deutschen Reiches - Free Download",
+    "description": "Liste der Regierungschefs des Norddeutschen Bundes und des Deutschen Reiches (1867–1945) mit Amtszeit, Partei, Kabinett und Ursache für das Ende der Amtszeit. Contains 45 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Reichskanzler des Deutschen Reiches | ListBase",
+    "seo_description": "Download Reichskanzler des Deutschen Reiches — 45 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 45 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Regierungschefs_des_Norddeutschen_Bundes_und_des_Deutschen_Reiches"
+    ]
+  }
+}
