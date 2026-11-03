@@ -1,0 +1,178 @@
+{
+  "id": "de-praesidenten-bundesgerichtshof",
+  "name": "Präsidenten und Vizepräsidenten des Bundesgerichtshofs",
+  "title": "Präsidenten und Vizepräsidenten des Bundesgerichtshofs",
+  "description": "Präsidenten und Vizepräsidenten des Bundesgerichtshofs (BGH) in Karlsruhe seit 1950 mit Beginn und Ende der Amtszeit.",
+  "category": "law",
+  "source": "https://de.wikipedia.org/wiki/Bundesgerichtshof",
+  "source_url": "https://de.wikipedia.org/wiki/Bundesgerichtshof",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "amt",
+      "label": "Amt",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "amtsbeginn",
+      "label": "Amtsbeginn",
+      "type": "string"
+    },
+    {
+      "key": "amtsende",
+      "label": "Amtsende",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "amt": "Präsident",
+      "name": "Hermann Weinkauff (1894–1981)",
+      "amtsbeginn": "1. Oktober 1950",
+      "amtsende": "31. März 1960"
+    },
+    {
+      "amt": "Präsident",
+      "name": "Bruno Heusinger (1900–1987)",
+      "amtsbeginn": "1. April 1960",
+      "amtsende": "31. März 1968"
+    },
+    {
+      "amt": "Präsident",
+      "name": "Robert Fischer (1911–1983)",
+      "amtsbeginn": "1. April 1968",
+      "amtsende": "30. September 1977"
+    },
+    {
+      "amt": "Präsident",
+      "name": "Gerd Pfeiffer (1919–2007)",
+      "amtsbeginn": "1. Oktober 1977",
+      "amtsende": "31. Dezember 1987"
+    },
+    {
+      "amt": "Präsident",
+      "name": "Walter Odersky (1931–2026)",
+      "amtsbeginn": "1. Januar 1988",
+      "amtsende": "31. Juli 1996"
+    },
+    {
+      "amt": "Präsident",
+      "name": "Karlmann Geiß (1935–2025)",
+      "amtsbeginn": "1. August 1996",
+      "amtsende": "31. Mai 2000"
+    },
+    {
+      "amt": "Präsident",
+      "name": "Günter Hirsch (* 1943)",
+      "amtsbeginn": "15. Juli 2000",
+      "amtsende": "31. Januar 2008"
+    },
+    {
+      "amt": "Präsident",
+      "name": "Klaus Tolksdorf (* 1948)",
+      "amtsbeginn": "1. Februar 2008",
+      "amtsende": "31. Januar 2014"
+    },
+    {
+      "amt": "Präsident",
+      "name": "Bettina Limperg (* 1960)",
+      "amtsbeginn": "1. Juli 2014",
+      "amtsende": "31. August 2026"
+    },
+    {
+      "amt": "Präsident",
+      "name": "Karin Angerer (* 1964)",
+      "amtsbeginn": "1. September 2026",
+      "amtsende": ""
+    },
+    {
+      "amt": "Vizepräsident",
+      "name": "Roderich Glanzmann (1904–1988)",
+      "amtsbeginn": "1968",
+      "amtsende": "30. April 1972"
+    },
+    {
+      "amt": "Vizepräsident",
+      "name": "Fritz Hauß (1908–2003)",
+      "amtsbeginn": "23. Mai 1972",
+      "amtsende": "31. Oktober 1976"
+    },
+    {
+      "amt": "Vizepräsident",
+      "name": "Gerd Pfeiffer (1919–2007)",
+      "amtsbeginn": "3. November 1976",
+      "amtsende": "30. September 1977"
+    },
+    {
+      "amt": "Vizepräsident",
+      "name": "Walter Stimpel (1917–2008)",
+      "amtsbeginn": "1. Oktober 1977",
+      "amtsende": "30. November 1985"
+    },
+    {
+      "amt": "Vizepräsident",
+      "name": "Ludwig Thumm (1920–2011)",
+      "amtsbeginn": "2. Dezember 1985",
+      "amtsende": "30. April 1988"
+    },
+    {
+      "amt": "Vizepräsident",
+      "name": "Hannskarl Salger (1929–2010)",
+      "amtsbeginn": "1. Mai 1988",
+      "amtsende": "30. November 1994"
+    },
+    {
+      "amt": "Vizepräsident",
+      "name": "Horst Hagen (1934–2019)",
+      "amtsbeginn": "1. Dezember 1994",
+      "amtsende": "28. Februar 1999"
+    },
+    {
+      "amt": "Vizepräsident",
+      "name": "Burkhard Jähnke (* 1937)",
+      "amtsbeginn": "1. März 1999",
+      "amtsende": "31. Mai 2002"
+    },
+    {
+      "amt": "Vizepräsident",
+      "name": "Joachim Wenzel (1940–2009)",
+      "amtsbeginn": "1. April 2002",
+      "amtsende": "30. Juni 2005"
+    },
+    {
+      "amt": "Vizepräsident",
+      "name": "Gerda Müller (* 1944)",
+      "amtsbeginn": "1. Juli 2005",
+      "amtsende": "30. Juni 2009"
+    },
+    {
+      "amt": "Vizepräsident",
+      "name": "Wolfgang Schlick (* 1950)",
+      "amtsbeginn": "1. Juli 2009",
+      "amtsende": "31. Juli 2015"
+    },
+    {
+      "amt": "Vizepräsident",
+      "name": "Jürgen Ellenberger (* 1960)",
+      "amtsbeginn": "2. Dezember 2016",
+      "amtsende": "31. August 2026"
+    }
+  ],
+  "meta": {
+    "title": "Präsidenten und Vizepräsidenten des Bundesgerichtshofs - Free Download",
+    "description": "Präsidenten und Vizepräsidenten des Bundesgerichtshofs (BGH) in Karlsruhe seit 1950 mit Beginn und Ende der Amtszeit. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Präsidenten und Vizepräsidenten des Bundesgerichtshofs | ListBase",
+    "seo_description": "Download Präsidenten und Vizepräsidenten des Bundesgerichtshofs — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Bundesgerichtshof"
+    ]
+  }
+}
