@@ -1,0 +1,1339 @@
+{
+  "id": "de-brauereien-baden-wuerttemberg",
+  "name": "Aktive Brauereien in Baden-Württemberg",
+  "title": "Aktive Brauereien in Baden-Württemberg",
+  "description": "Aktive Brauereien in Baden-Württemberg nach Regierungsbezirk mit Standort, Gründungsjahr und Anmerkungen.",
+  "category": "food",
+  "source": "https://de.wikipedia.org/wiki/Liste_aktiver_Brauereien_in_Baden-Württemberg",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_aktiver_Brauereien_in_Baden-Württemberg",
+  "updated": "2026-11",
+  "record_count": 184,
+  "columns": [
+    {
+      "key": "brauerei",
+      "label": "Brauerei",
+      "type": "string"
+    },
+    {
+      "key": "standort",
+      "label": "Standort",
+      "type": "string"
+    },
+    {
+      "key": "gruendung",
+      "label": "Gruendung",
+      "type": "number"
+    },
+    {
+      "key": "anmerkungen",
+      "label": "Anmerkungen",
+      "type": "string"
+    },
+    {
+      "key": "regierungsbezirk",
+      "label": "Regierungsbezirk",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "brauerei": "Löwenbrauerei Friedrich Kalb",
+      "standort": "Bräunlingen",
+      "gruendung": 1803,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Fürstlich Fürstenbergische Brauerei",
+      "standort": "Donaueschingen",
+      "gruendung": 1283,
+      "anmerkungen": "zu Paulaner Brauerei Gruppe.",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Löwenbrauerei Otto Dold",
+      "standort": "Elzach",
+      "gruendung": 1856,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Hausbrauerei Ostel",
+      "standort": "Endingen am Kaiserstuhl",
+      "gruendung": 2011,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Microbrauerei A. Grüner",
+      "standort": "Endingen am Kaiserstuhl",
+      "gruendung": 2018,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Hausbrauerei Feierling",
+      "standort": "Freiburg im Breisgau",
+      "gruendung": "1877 / 1989",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Brauerei Ganter",
+      "standort": "Freiburg im Breisgau",
+      "gruendung": 1865,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Martin's Bräu",
+      "standort": "Freiburg im Breisgau",
+      "gruendung": 1989,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Badische Staatsbrauerei Rothaus",
+      "standort": "Grafenhausen",
+      "gruendung": 1791,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Brauerei M. Ketterer",
+      "standort": "Hornberg",
+      "gruendung": 1877,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Markgräfler Brauwerk",
+      "standort": "Kandern",
+      "gruendung": 2017,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Schloßbrauerei Stöckle",
+      "standort": "Kippenheim -Schmieheim",
+      "gruendung": 1843,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Brauhaus Johannes Albrecht",
+      "standort": "Konstanz",
+      "gruendung": 1992,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Ruppaner-Brauerei Gebrüder Ruppaner",
+      "standort": "Konstanz",
+      "gruendung": 1795,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Landhotel Dammenmühle",
+      "standort": "Lahr/Schwarzwald",
+      "gruendung": 2012,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Privatbrauerei Rogg",
+      "standort": "Lenzkirch",
+      "gruendung": 1846,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Brauerei Lasser",
+      "standort": "Lörrach",
+      "gruendung": 1850,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Hausbrauerei Mülhaupt",
+      "standort": "Lörrach",
+      "gruendung": 1999,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Brauerei Hirtler",
+      "standort": "March",
+      "gruendung": 2015,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Brauwerk Baden",
+      "standort": "Offenburg",
+      "gruendung": "1847 / 2017",
+      "anmerkungen": "ehemals Kronenbrauerei Offenburg",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Friedrich Bier",
+      "standort": "Offenburg",
+      "gruendung": 2017,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Schnitzerbräu",
+      "standort": "Offenburg",
+      "gruendung": 2007,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Reichenauer Inselbier",
+      "standort": "Reichenau",
+      "gruendung": 2018,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Familienbrauerei Bauhöfer",
+      "standort": "Renchen",
+      "gruendung": 1852,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Römerbräu Riegel",
+      "standort": "Riegel am Kaiserstuhl",
+      "gruendung": 2006,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Brauerei Löwen",
+      "standort": "Sasbach",
+      "gruendung": 2013,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Bürgerstüble",
+      "standort": "Sulz am Neckar",
+      "gruendung": 2010,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Köndringer Dorfbrauerei",
+      "standort": "Teningen",
+      "gruendung": 2006,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Krokodil",
+      "standort": "Trossingen",
+      "gruendung": 2014,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "HopfiX",
+      "standort": "Tuttlingen",
+      "gruendung": 2016,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Hader Karle",
+      "standort": "Villingen-Schwenningen",
+      "gruendung": 2018,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Enkendörfler Hausbräu",
+      "standort": "Wehr",
+      "gruendung": 2005,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Brauhaus Meier",
+      "standort": "Wehr",
+      "gruendung": 2014,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Privatbrauerei Waldhaus",
+      "standort": "Weilheim (Baden) / Waldhaus",
+      "gruendung": 1833,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Hirsch-Brauerei Honer",
+      "standort": "Wurmlingen",
+      "gruendung": 1782,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Gasthaus und Brauerei Krone",
+      "standort": "Zell im Wiesental",
+      "gruendung": 2023,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Hirschbrauerei Flözlingen, Rolf Schittenhelm",
+      "standort": "Zimmern ob Rottweil",
+      "gruendung": 1793,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Freiburg"
+    },
+    {
+      "brauerei": "Alpirsbacher Klosterbräu Glauner",
+      "standort": "Alpirsbach",
+      "gruendung": 1877,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Brauhaus Wallhall",
+      "standort": "Bruchsal",
+      "gruendung": 1995,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Andreasbräu",
+      "standort": "Eggenstein-Leopoldshafen",
+      "gruendung": 1996,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Turm-Bräu",
+      "standort": "Freudenstadt",
+      "gruendung": 1999,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Christoph-Bräu",
+      "standort": "Gaggenau",
+      "gruendung": 1995,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Brauerei zum Klosterhof",
+      "standort": "Heidelberg",
+      "gruendung": 2007,
+      "anmerkungen": "bei Benediktinerabtei Stift Neuburg",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Heidelberger Brauerei",
+      "standort": "Heidelberg",
+      "gruendung": 1753,
+      "anmerkungen": "zu Weldebräu",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Kulturbrauerei",
+      "standort": "Heidelberg",
+      "gruendung": 2000,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Vetters Alt Heidelberger Brauhaus",
+      "standort": "Heidelberg",
+      "gruendung": 1987,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Brauhaus Kühler Krug",
+      "standort": "Karlsruhe",
+      "gruendung": 2002,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Badisches Brauhaus",
+      "standort": "Karlsruhe",
+      "gruendung": 1999,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Brauhaus 2.0",
+      "standort": "Karlsruhe",
+      "gruendung": "",
+      "anmerkungen": "seit 2024 geschl. Weiterbetrieb vorgesehen",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Hatz-Moninger Brauhaus",
+      "standort": "Karlsruhe",
+      "gruendung": 1856,
+      "anmerkungen": "zu Familie Scheidtweiler",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Neureuter Braumanufaktur",
+      "standort": "Karlsruhe",
+      "gruendung": 2016,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Privatbrauerei Hoepfner",
+      "standort": "Karlsruhe",
+      "gruendung": 1798,
+      "anmerkungen": "zu Paulaner Gruppe",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Vogelbräu",
+      "standort": "Karlsruhe",
+      "gruendung": 2000,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Vogelbräu",
+      "standort": "Karlsruhe-Durlach Ettlingen",
+      "gruendung": 2004,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Lobdengau-Brauerei Kiefer & Müller",
+      "standort": "Ladenburg",
+      "gruendung": 2007,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Alter Bahnhof",
+      "standort": "Malsch",
+      "gruendung": 2002,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Schumis Meckserbräu",
+      "standort": "Meckesheim",
+      "gruendung": 2021,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Mosbacher Brauhaus",
+      "standort": "Mosbach",
+      "gruendung": 1996,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Hochdorfer Kronenbrauerei Otto Haizmann",
+      "standort": "Nagold",
+      "gruendung": 1654,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Brauhaus Rößle",
+      "standort": "Neubulach",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Brauhaus Pforzheim",
+      "standort": "Pforzheim",
+      "gruendung": 1889,
+      "anmerkungen": "zu Familie Scheidtweiler",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Platzhirsch",
+      "standort": "Pforzheim",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Privatbrauerei Wilhelm Ketterer",
+      "standort": "Pforzheim",
+      "gruendung": 1888,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "BIERkulturGUT",
+      "standort": "Philippsburg",
+      "gruendung": 2018,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Weldebräu",
+      "standort": "Plankstadt",
+      "gruendung": 1752,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Brauerei C. Franz",
+      "standort": "Rastatt",
+      "gruendung": 1842,
+      "anmerkungen": "zu Familie Scheidtweiler",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Hausbrauerei Engel",
+      "standort": "Rastatt",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Hopfenschlingel",
+      "standort": "Rastatt",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Brauerei Jürgen Spall",
+      "standort": "Ballenberg (Ravenstein)",
+      "gruendung": 1883,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Brauereigasthof Egolf",
+      "standort": "Schefflenz",
+      "gruendung": 1987,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Brauhaus zum Ritter",
+      "standort": "Schwetzingen",
+      "gruendung": 1998,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Hausbrauerei Mönchwasen",
+      "standort": "Simmozheim",
+      "gruendung": 1999,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Prestelbräu",
+      "standort": "Ubstadt-Weiher",
+      "gruendung": 2018,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Hausbrauerei Rega",
+      "standort": "Waibstadt",
+      "gruendung": 2009,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Lindenbräu",
+      "standort": "Waldbronn",
+      "gruendung": 2000,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Woinemer Hausbrauerei Hardt&Andreas",
+      "standort": "Weinheim",
+      "gruendung": 1986,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Adler-Bräu Volk",
+      "standort": "Wiernsheim",
+      "gruendung": 1865,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Dachsenfranz Biermanufaktur",
+      "standort": "Zuzenhausen",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Karlsruhe"
+    },
+    {
+      "brauerei": "Aalener Löwenbräu Gebr. Barth",
+      "standort": "Aalen",
+      "gruendung": 1668,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Löwenbrauerei Wasseralfingen",
+      "standort": "Aalen",
+      "gruendung": 1864,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Wielands Bierbrauerei",
+      "standort": "Abtsgmünd",
+      "gruendung": 2010,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Lammbrauerei Untergröningen",
+      "standort": "Abtsgmünd",
+      "gruendung": 1830,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Brauerei Dörzbacher",
+      "standort": "Ahorn",
+      "gruendung": 1760,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Herbsthäuser Brauerei Wunderlich",
+      "standort": "Bad Mergentheim",
+      "gruendung": 1581,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Häffner Bräu",
+      "standort": "Bad Rappenau",
+      "gruendung": 1908,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Beurener Fels Brauerei",
+      "standort": "Beuren",
+      "gruendung": 2017,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Hausbrauerei Wichtel",
+      "standort": "Böblingen",
+      "gruendung": 1989,
+      "anmerkungen": "auch in Ditzingen und Stuttgart",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Schönbuch Braumanufaktur",
+      "standort": "Böblingen",
+      "gruendung": 1823,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Quellmalz",
+      "standort": "Böblingen",
+      "gruendung": 2022,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Biermanufaktur Engel",
+      "standort": "Crailsheim",
+      "gruendung": 1738,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Hausbrauerei Wichtel",
+      "standort": "Ditzingen",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Härtsfelder Familienbrauerei Hald",
+      "standort": "Dischingen",
+      "gruendung": 1664,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Rotochsenbrauerei Hermann Veit",
+      "standort": "Ellwangen",
+      "gruendung": 1680,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Palmbräu",
+      "standort": "Eppingen",
+      "gruendung": 1835,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Brauhaus Zum Schwanen",
+      "standort": "Esslingen am Neckar",
+      "gruendung": 1987,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Schwanen-Bräu Bernhausen",
+      "standort": "Filderstadt",
+      "gruendung": 1988,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Hausbrauerei Reiner Rosine Flein",
+      "standort": "Flein",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Brauerei Georg Häberlen",
+      "standort": "Gaildorf",
+      "gruendung": 1875,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Kaiser Brauerei",
+      "standort": "Geislingen (Steige)",
+      "gruendung": 1881,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Schlüsselbräu Privatbrauerei Helmut Bosch",
+      "standort": "Giengen an der Brenz",
+      "gruendung": 1838,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Barfüßer Hausbrauerei",
+      "standort": "Göppingen",
+      "gruendung": "",
+      "anmerkungen": "auch in Pfullendorf, Reutlingen und Ulm",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Lammbrauerei Hilsenbeck",
+      "standort": "Gruibingen",
+      "gruendung": 1728,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Königsbräu Majer",
+      "standort": "Heidenheim an der Brenz",
+      "gruendung": 1827,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Hirschbrauerei Heubach",
+      "standort": "Heubach",
+      "gruendung": 1725,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "derr HOF",
+      "standort": "Holzbronn (Igersheim)",
+      "gruendung": 2023,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Stiftsscheuer Kirchheim-Teck",
+      "standort": "Kirchheim unter Teck",
+      "gruendung": 2006,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Echterdinger Brauhaus",
+      "standort": "Leinfelden-Echterdingen",
+      "gruendung": 2011,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Hey Brow.",
+      "standort": "Leonberg",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Weilermer Lamm Brauhaus",
+      "standort": "Leutenbach (Württemberg)",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Brauerei zum Rossknecht",
+      "standort": "Ludwigsburg",
+      "gruendung": 1989,
+      "anmerkungen": "auch in Stuttgart",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Suspicious Monkey Brewing",
+      "standort": "Ludwigsburg",
+      "gruendung": 2024,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Hausbrauerei Salzscheuer Bräu",
+      "standort": "Marbach am Neckar",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Hey Joe Brewing",
+      "standort": "Murrhardt",
+      "gruendung": 2002,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Privatbrauerei Schlumberger",
+      "standort": "Nattheim",
+      "gruendung": 1847,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Neckarsulmer Brauhaus",
+      "standort": "Neckarsulm",
+      "gruendung": 2001,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Neuenstädter Biermanufaktur",
+      "standort": "Neuenstadt am Kocher",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Brauerei Ladenburger",
+      "standort": "Neuler",
+      "gruendung": 1789,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Schlachthof Bräu",
+      "standort": "Nürtingen",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Braustüble Michel Bräu",
+      "standort": "Sachsenheim",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Kesselhaus",
+      "standort": "Schorndorf",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Frankenbräu Krauß",
+      "standort": "Schrozberg",
+      "gruendung": 1807,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Gold Ochsen Brauerei",
+      "standort": "Schrozberg",
+      "gruendung": 1668,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Löwenbrauerei Hall",
+      "standort": "Schwäbisch Hall",
+      "gruendung": 1724,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Sudhaus an der Kunsthalle Würth",
+      "standort": "Schwäbisch Hall",
+      "gruendung": 2004,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Felsenbergbräu",
+      "standort": "Schwieberdingen",
+      "gruendung": 2020,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Hirschbrauerei Söhnstetten",
+      "standort": "Steinheim am Albuch",
+      "gruendung": 1896,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Birkenwäldle",
+      "standort": "Stuttgart",
+      "gruendung": 2025,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Brauerei zum Rossknecht",
+      "standort": "Stuttgart",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Cannstatter Keller",
+      "standort": "Stuttgart",
+      "gruendung": 2020,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Dinkelacker-Schwaben Bräu",
+      "standort": "Stuttgart",
+      "gruendung": "1878/1888",
+      "anmerkungen": "1878 Gründung Schwaben-Bräu, 1888 Gründung Dinkelacker",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Hausbrauerei Wichtel",
+      "standort": "Stuttgart",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Stuttgarter Hofbräu",
+      "standort": "Stuttgart",
+      "gruendung": 1872,
+      "anmerkungen": "zu Radeberger Gruppe",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Sophie's Brauhaus",
+      "standort": "Stuttgart",
+      "gruendung": 1993,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Brauhaus am Schlößle",
+      "standort": "Sulzbach an der Murr",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Distelhäuser Brauerei Ernst Bauer",
+      "standort": "Tauberbischofsheim",
+      "gruendung": 1811,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Gerber Bräu",
+      "standort": "Uhingen",
+      "gruendung": 2003,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Adlerbrauerei",
+      "standort": "Wallhausen",
+      "gruendung": 1716,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Singhbräu",
+      "standort": "Weilheim an der Teck",
+      "gruendung": 2018,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Stuttgart"
+    },
+    {
+      "brauerei": "Brauhaus Zollernalb",
+      "standort": "Albstadt",
+      "gruendung": 2011,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Schlossbrauerei Aulendorf",
+      "standort": "Aulendorf",
+      "gruendung": 2008,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Steinacher Hausbräu, Inh.: Armin Sauter",
+      "standort": "Bad Waldsee",
+      "gruendung": 2004,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Schussenrieder Brauerei Ott",
+      "standort": "Bad Schussenried",
+      "gruendung": 1906,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Café Weichhardt",
+      "standort": "Biberach an der Riß",
+      "gruendung": 2012,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Braustüble Pumator",
+      "standort": "Blaubeuren",
+      "gruendung": 2010,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Berg Brauerei Ulrich Zimmermann",
+      "standort": "Ehingen",
+      "gruendung": 1466,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Rösslebrauerei",
+      "standort": "Ehingen",
+      "gruendung": 1663,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Schwanenbrauerei",
+      "standort": "Ehingen",
+      "gruendung": 1697,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Schwertbrauerei",
+      "standort": "Ehingen",
+      "gruendung": 1675,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Adlerbrauerei",
+      "standort": "Erbach",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Adlerbrauerei",
+      "standort": "Herbertingen",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Speidel's Brauerei (Gasthof Lamm)",
+      "standort": "Hohenstein",
+      "gruendung": 1993,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Pflugbrauerei Hörvelsingen",
+      "standort": "Langenau- Hörvelsingen",
+      "gruendung": 1681,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Brauerei Stolz",
+      "standort": "Isny",
+      "gruendung": 1919,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Edelweißbrauerei Farny",
+      "standort": "Kißlegg",
+      "gruendung": 1833,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Kißlegger Kellerbräu",
+      "standort": "Kißlegg",
+      "gruendung": 2014,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Königsegger WalderBräu",
+      "standort": "Königseggwald",
+      "gruendung": 1822,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Max & Moritz",
+      "standort": "Kressbronn am Bodensee",
+      "gruendung": 1994,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Kronenbrauerei Laupheim",
+      "standort": "Laupheim",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Kulturbrauerei",
+      "standort": "Leutkirch im Allgäu",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Brauerei Clemens Härle",
+      "standort": "Leutkirch im Allgäu",
+      "gruendung": 1897,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Café Mundart",
+      "standort": "Meßstetten",
+      "gruendung": 2010,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Fischer’s Brauhaus Mössingen",
+      "standort": "Mössingen",
+      "gruendung": 1938,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Kronenbrauerei Alfred Schimpf",
+      "standort": "Neustetten",
+      "gruendung": 1870,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Adlerbrauerei Moosbeuren",
+      "standort": "Oberstadion- Moosbeuren",
+      "gruendung": 2014,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Barfüßer Hausbrauerei",
+      "standort": "Pfullendorf",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Brauerei Max Leibinger",
+      "standort": "Ravensburg",
+      "gruendung": 1894,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Barfüßer Hausbrauerei",
+      "standort": "Reutlingen",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Brauhaus Zollernalb; Lehner Bräu Rosenfeld",
+      "standort": "Rosenfeld",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Baisinger BierManufaktur",
+      "standort": "Rottenburg am Neckar",
+      "gruendung": 1775,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Doc's Bier",
+      "standort": "Rottenburg am Neckar",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Brauerei Zoller-Hof Graf-Fleischhut",
+      "standort": "Sigmaringen",
+      "gruendung": 1845,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Heuberger Biermanufaktur",
+      "standort": "Stetten am kalten Markt",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Hopfengut No20",
+      "standort": "Tettnang",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Brauerei und Gasthof zur Krone",
+      "standort": "Tettnang",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Brauereigasthof Schöre",
+      "standort": "Tettnang",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Albquell Bräuhaus",
+      "standort": "Trochtelfingen",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Barfüßer Hausbrauerei",
+      "standort": "Ulm",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Brauerei Gold Ochsen",
+      "standort": "Ulm",
+      "gruendung": 1597,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Kronenbrauerei Russ",
+      "standort": "Ulm",
+      "gruendung": 1887,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Bräuhaus Ummendorf",
+      "standort": "Ummendorf",
+      "gruendung": "",
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Neckarmüller",
+      "standort": "Tübingen",
+      "gruendung": 1992,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Altdorfer Klosterbrauerei",
+      "standort": "Weingarten (Württemberg)",
+      "gruendung": 2017,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Zwiefalter Klosterbräu",
+      "standort": "Zwiefalten",
+      "gruendung": 1521,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    },
+    {
+      "brauerei": "Brauerei Blank",
+      "standort": "Zwiefaltendorf",
+      "gruendung": 1878,
+      "anmerkungen": "",
+      "regierungsbezirk": "Regierungsbezirk Tübingen"
+    }
+  ],
+  "meta": {
+    "title": "Aktive Brauereien in Baden-Württemberg - Free Download",
+    "description": "Aktive Brauereien in Baden-Württemberg nach Regierungsbezirk mit Standort, Gründungsjahr und Anmerkungen. Contains 184 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Aktive Brauereien in Baden-Württemberg | ListBase",
+    "seo_description": "Download Aktive Brauereien in Baden-Württemberg — 184 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 184 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_aktiver_Brauereien_in_Baden-Württemberg"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-02T02:32:43.582Z",
-  "total_datasets": 516,
-  "total_records": 1875404,
+  "generated": "2026-11-03T02:22:25.274Z",
+  "total_datasets": 517,
+  "total_records": 1875588,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "geography",
@@ -3170,6 +3170,32 @@
         "xlsx": {
           "name": "de-at-traditionelle-lebensmittel_DE.xlsx",
           "size": 23112
+        }
+      }
+    },
+    {
+      "id": "de-brauereien-baden-wuerttemberg",
+      "name": "Aktive Brauereien in Baden-Württemberg",
+      "category": "food",
+      "record_count": 184,
+      "columns": [
+        "brauerei",
+        "standort",
+        "gruendung",
+        "anmerkungen",
+        "regierungsbezirk"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_aktiver_Brauereien_in_Baden-Württemberg",
+      "updated": "2026-11",
+      "size": 37914,
+      "files": {
+        "csv": {
+          "name": "de-brauereien-baden-wuerttemberg_DE.csv",
+          "size": 14623
+        },
+        "xlsx": {
+          "name": "de-brauereien-baden-wuerttemberg_DE.xlsx",
+          "size": 14282
         }
       }
     },
