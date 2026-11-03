@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-03T02:22:39.414Z",
-  "total_datasets": 519,
-  "total_records": 1875910,
+  "generated": "2026-11-03T02:22:45.435Z",
+  "total_datasets": 520,
+  "total_records": 1876003,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "society",
@@ -11874,6 +11874,36 @@
         "xlsx": {
           "name": "de-nobelpreistraeger_DE.xlsx",
           "size": 13958
+        }
+      }
+    },
+    {
+      "id": "de-planetarien",
+      "name": "Planetarien in Deutschland",
+      "category": "science",
+      "record_count": 93,
+      "columns": [
+        "standort",
+        "bundesland",
+        "einrichtung",
+        "eroeffnung",
+        "projektor",
+        "kuppel",
+        "sitze",
+        "anordnung",
+        "besucher"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Planetarien_in_Deutschland",
+      "updated": "2026-11",
+      "size": 30965,
+      "files": {
+        "csv": {
+          "name": "de-planetarien_DE.csv",
+          "size": 11791
+        },
+        "xlsx": {
+          "name": "de-planetarien_DE.xlsx",
+          "size": 13690
         }
       }
     },
