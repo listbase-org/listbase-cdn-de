@@ -1,0 +1,3552 @@
+{
+  "id": "de-weihnachtslieder",
+  "name": "Deutschsprachige Weihnachtslieder",
+  "title": "Deutschsprachige Weihnachtslieder",
+  "description": "Deutschsprachige Weihnachtslieder mit Herkunft und Datierung von Text und Melodie sowie Anmerkungen zu Kontrafakturen und Interpreten.",
+  "category": "music",
+  "source": "https://de.wikipedia.org/wiki/Liste_deutschsprachiger_Weihnachtslieder",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_deutschsprachiger_Weihnachtslieder",
+  "updated": "2026-11",
+  "record_count": 437,
+  "columns": [
+    {
+      "key": "titel",
+      "label": "Titel",
+      "type": "string"
+    },
+    {
+      "key": "text_ursprung",
+      "label": "Text Ursprung",
+      "type": "string"
+    },
+    {
+      "key": "melodie_ursprung",
+      "label": "Melodie Ursprung",
+      "type": "string"
+    },
+    {
+      "key": "text_datierung",
+      "label": "Text Datierung",
+      "type": "number"
+    },
+    {
+      "key": "melodie_datierung",
+      "label": "Melodie Datierung",
+      "type": "number"
+    },
+    {
+      "key": "kontrafaktur_anmerkungen",
+      "label": "Kontrafaktur Anmerkungen",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "titel": "100.000 Friedenslichter",
+      "text_ursprung": "Kristina Bach",
+      "melodie_ursprung": "(basiert auf) Felix Mendelssohn Bartholdy",
+      "text_datierung": "2009",
+      "melodie_datierung": "1840",
+      "kontrafaktur_anmerkungen": "Interpreten: Florian Silbereisen, Andrea Berg u. a."
+    },
+    {
+      "titel": "24 lüttje Dör'n",
+      "text_ursprung": "Rolf Zuckowski",
+      "melodie_ursprung": "Rolf Zuckowski",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "A, a, a! Das Kindlein lieget da",
+      "text_ursprung": "aus Oberbayern",
+      "melodie_ursprung": "aus Oberbayern",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "A bärige Weihnacht",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Hansi Hinterseer"
+    },
+    {
+      "titel": "Ach lieber Herre Jesu Christ",
+      "text_ursprung": "Heinrich Laufenberg",
+      "melodie_ursprung": "",
+      "text_datierung": "um 1400",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Advent, Advent, ein Lichtlein brennt",
+      "text_ursprung": "mündlich überliefert",
+      "melodie_ursprung": "verschiedene Melodien",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Advent, Advent, ein Lichtlein brennt",
+      "text_ursprung": "Hans Poser",
+      "melodie_ursprung": "Hans Poser",
+      "text_datierung": "1982",
+      "melodie_datierung": "1982",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Alle Jahre wieder",
+      "text_ursprung": "Wilhelm Hey",
+      "melodie_ursprung": "Friedrich Silcher",
+      "text_datierung": "1837",
+      "melodie_datierung": "1842",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Alle Jahre wieder",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Frank Wesemann"
+    },
+    {
+      "titel": "Alle Welt springe und lobsinge",
+      "text_ursprung": "nach Omnis mundus jocundetur",
+      "melodie_ursprung": "Hs. Hohenfurt (CZ-VB, 28)",
+      "text_datierung": "",
+      "melodie_datierung": "Mitte 15. Jh.",
+      "kontrafaktur_anmerkungen": "Omnis mundus jocundetur"
+    },
+    {
+      "titel": "Alles ändert sich",
+      "text_ursprung": "Till Lindemann",
+      "melodie_ursprung": "Nicolas Ludwig, Clemens Wijers",
+      "text_datierung": "2025",
+      "melodie_datierung": "2025",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Als die Welt verloren",
+      "text_ursprung": "Gustav Kucz, nach „Gdy się Chrystus rodzi“",
+      "melodie_ursprung": "aus Polen",
+      "text_datierung": "1954",
+      "melodie_datierung": "vor 1883",
+      "kontrafaktur_anmerkungen": "Gdy się Chrystus rodzi"
+    },
+    {
+      "titel": "Als du kamst zur Erde nieder",
+      "text_ursprung": "aus Donauschwaben und Tirol",
+      "melodie_ursprung": "aus Donauschwaben und Tirol",
+      "text_datierung": "Mitte des 19. Jahrhunderts",
+      "melodie_datierung": "Mitte des 19. Jahrhunderts",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Als ein behutsam Licht (Anbetung des Kindes)",
+      "text_ursprung": "Josef Weinheber",
+      "melodie_ursprung": "Ernst-Lothar von Knorr, Deutschland, Otto Strobl, Wien, Heinz Martin Lonquich, 20. Jahrhundert Sebastian H. Unterberger, Salzburg",
+      "text_datierung": "1. Hälfte des 20. Jahrhunderts",
+      "melodie_datierung": "Knorr, 20. Jahrhundert Strobl, 20. Jahrhundert Heinz Martin Lonquich, 20. Jahrhundert Unterberger, 2017",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Als ich bei meinen Schafen wacht’",
+      "text_ursprung": "Friedrich Spee von Langenfeld",
+      "melodie_ursprung": "Gesangbuch des Peter von Brachel, Köln",
+      "text_datierung": "1623",
+      "melodie_datierung": "1623",
+      "kontrafaktur_anmerkungen": "in England als Echo Hymn bekannt"
+    },
+    {
+      "titel": "Als Jesus auf die Erde kam",
+      "text_ursprung": "Martin Gotthard Schneider",
+      "melodie_ursprung": "Martin Gotthard Schneider",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Als Jesus Christ geboren ward",
+      "text_ursprung": "",
+      "melodie_ursprung": "aus Augsburg",
+      "text_datierung": "16. Jahrhundert",
+      "melodie_datierung": "1590",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Als Kaiser Augustus",
+      "text_ursprung": "aus Sachrang (Oberbayern)",
+      "melodie_ursprung": "aus Sachrang (Oberbayern)",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Also hat Gott die Welt geliebt",
+      "text_ursprung": "Joh 3,16 EU",
+      "melodie_ursprung": "Volker Ochs",
+      "text_datierung": "",
+      "melodie_datierung": "um 1980",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Also liebt Gott die arge Welt",
+      "text_ursprung": "Kurt Müller-Osten nach",
+      "melodie_ursprung": "Gerhard Schwarz",
+      "text_datierung": "1939/1950",
+      "melodie_datierung": "1939",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Am Weihnachtsbaum die Lichter brennen",
+      "text_ursprung": "Hermann Kletke",
+      "melodie_ursprung": "",
+      "text_datierung": "1841",
+      "melodie_datierung": "19. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Auf dem Berge, da wehet der Wind (Auf dem Berge, da gehet der Wind)",
+      "text_ursprung": "aus Schlesien",
+      "melodie_ursprung": "aus Schlesien",
+      "text_datierung": "18. Jahrhundert",
+      "melodie_datierung": "um 1840",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Auf die Straßen fällt ein Schnee",
+      "text_ursprung": "Hans Möskenthin",
+      "melodie_ursprung": "Rolf Lukowsky",
+      "text_datierung": "20. Jahrhundert",
+      "melodie_datierung": "20. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Auf einmal (Weihnachtsschlager)",
+      "text_ursprung": "Hubert Molander, Emanuel Treu",
+      "melodie_ursprung": "Hubert Molander, Emanuel Treu",
+      "text_datierung": "2017",
+      "melodie_datierung": "2017",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Auf, auf, ihr Buben",
+      "text_ursprung": "aus Kärnten",
+      "melodie_ursprung": "aus Kärnten",
+      "text_datierung": "18. Jahrhundert",
+      "melodie_datierung": "18. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Auf, auf, ihr Hirten, euch nicht verweilet",
+      "text_ursprung": "aus Schlesien",
+      "melodie_ursprung": "aus Schlesien",
+      "text_datierung": "1842",
+      "melodie_datierung": "1842",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Auf, auf, ihr Hirten in dem Feld",
+      "text_ursprung": "aus Kärnten",
+      "melodie_ursprung": "aus Kärnten",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Auf, auf, ihr Hirten, nicht schlaft mir so lang",
+      "text_ursprung": "aus Niederösterreich",
+      "melodie_ursprung": "aus Niederösterreich",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Auf, auf, ihr Reichsgenossen",
+      "text_ursprung": "Johann Rist",
+      "melodie_ursprung": "Thomas Selle",
+      "text_datierung": "1651",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Auf, Christen, singt festliche Lieder",
+      "text_ursprung": "Augustinus Erthel",
+      "melodie_ursprung": "aus Fulda",
+      "text_datierung": "",
+      "melodie_datierung": "1778",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Auf, ihr Hirten, von dem Schlaf",
+      "text_ursprung": "aus dem Wallis",
+      "melodie_ursprung": "aus dem Wallis",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Auf, ihr Hirtensleut",
+      "text_ursprung": "Eisenärzt (Oberbayern)",
+      "melodie_ursprung": "Eisenärzt (Oberbayern)",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Augustus, Cyrenius, die römischen Herren",
+      "text_ursprung": "Kurt Rommel",
+      "melodie_ursprung": "Kurt Rommel",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Aus hartem Weh die Menschheit klagt (Aus hartem Weh klagt menschliches G’schlecht)",
+      "text_ursprung": "Gesangbuch des Michael Vehe, Leipzig",
+      "melodie_ursprung": "",
+      "text_datierung": "1537",
+      "melodie_datierung": "um 1525",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Aus tausend Traurigkeiten",
+      "text_ursprung": "Friedrich von Bodelschwingh",
+      "melodie_ursprung": "Hans Georg Bertram",
+      "text_datierung": "1945",
+      "melodie_datierung": "1975",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Ave Maria zart",
+      "text_ursprung": "Johann Georg Franz Braun",
+      "melodie_ursprung": "Johann Georg Franz Braun",
+      "text_datierung": "1675",
+      "melodie_datierung": "1675",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "A Weihnacht wie’s früher war",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Äppel, Nöß un Marzipan",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpreten: Bläck Fööss"
+    },
+    {
+      "titel": "Backen für den Weihnachtsmann",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Peter Maffay"
+    },
+    {
+      "titel": "Bald ist es soweit",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Gaby Albrecht"
+    },
+    {
+      "titel": "Bald kommt die Weihnacht",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Linda Feller"
+    },
+    {
+      "titel": "Bald nun ist Weihnachtszeit",
+      "text_ursprung": "Karola Wilke",
+      "melodie_ursprung": "Wolfgang Stumme",
+      "text_datierung": "um 1940",
+      "melodie_datierung": "um 1940",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Besonders, wenn Weihnachten ist",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretinnen: Cora"
+    },
+    {
+      "titel": "Brich an, du schönes Morgenlicht",
+      "text_ursprung": "Johann Rist",
+      "melodie_ursprung": "Johann Schop",
+      "text_datierung": "1641",
+      "melodie_datierung": "1641",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Brich an, du schönes Morgenlicht",
+      "text_ursprung": "Maximilian von Schenkendorf",
+      "melodie_ursprung": "Johannes Dieckmann",
+      "text_datierung": "",
+      "melodie_datierung": "16. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Bruder, ich geh’ auch mit dir",
+      "text_ursprung": "Fritz Dietrich",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Christkindelein",
+      "text_ursprung": "im Elsass",
+      "melodie_ursprung": "im Elsass",
+      "text_datierung": "um 1850",
+      "melodie_datierung": "um 1850",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Christkindlmarkt, Christkindlmarkt",
+      "text_ursprung": "Philipp Simon Goletz",
+      "melodie_ursprung": "Philipp Simon Goletz",
+      "text_datierung": "1989",
+      "melodie_datierung": "1989",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Christum wir sollen loben schon",
+      "text_ursprung": "Martin Luther",
+      "melodie_ursprung": "nach Caelius Sedulius",
+      "text_datierung": "1524",
+      "melodie_datierung": "um 430, Bearbeitung 1524",
+      "kontrafaktur_anmerkungen": "A solis ortus cardine (Caelius Sedulius)"
+    },
+    {
+      "titel": "Dann fehlst du mir so sehr",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Andreas Fulterer"
+    },
+    {
+      "titel": "Dann ist wieder Weihnachtszeit",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Mary Roos"
+    },
+    {
+      "titel": "Das Christkind ist geboren",
+      "text_ursprung": "Rolf Zuckowski",
+      "melodie_ursprung": "Rolf Zuckowski",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Das Gefühl der Weihnachtszeit",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Misha Kovar"
+    },
+    {
+      "titel": "Das ist Weihnachten",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Das Lichtermeer auf dem Weihnachtsmarkt",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Nicole"
+    },
+    {
+      "titel": "Das Licht in Kinderherzen",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Astrid Harzbecker"
+    },
+    {
+      "titel": "Das Rackedickeducke-Lied",
+      "text_ursprung": "Fredrik Vahle",
+      "melodie_ursprung": "Fredrik Vahle",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Das Volk, das noch im Finstern wandelt",
+      "text_ursprung": "Jürgen Henkys nach „Het volk dat wandelt in het duister“",
+      "melodie_ursprung": "Frits Mehrtens",
+      "text_datierung": "1981",
+      "melodie_datierung": "1959",
+      "kontrafaktur_anmerkungen": "Het volk dat wandelt in het duister"
+    },
+    {
+      "titel": "Das Weihnachts-ABC",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Pe Werner"
+    },
+    {
+      "titel": "Das Wunder der Weihnacht",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Matthias Lenz"
+    },
+    {
+      "titel": "Dat Joahr geiht to Ind",
+      "text_ursprung": "Rolf Zuckowski",
+      "melodie_ursprung": "Rolf Zuckowski",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Dein König kommt in niedern Hüllen",
+      "text_ursprung": "Friedrich Rückert",
+      "melodie_ursprung": "Johannes Christoph Andreas Zahn",
+      "text_datierung": "1834",
+      "melodie_datierung": "1853",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Dein Reich, o Herr, wird kommen",
+      "text_ursprung": "Georg Thurmair",
+      "melodie_ursprung": "Adolf Lohmann",
+      "text_datierung": "1959",
+      "melodie_datierung": "1961",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Dein Tag, Herr Christ, wirft seinen Schein in unsre Welt schon hell herein",
+      "text_ursprung": "Eugen Walter",
+      "melodie_ursprung": "",
+      "text_datierung": "1951",
+      "melodie_datierung": "1938",
+      "kontrafaktur_anmerkungen": "Macht weit die Pforten"
+    },
+    {
+      "titel": "Dem der Hirten Lieder klangen",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "15. Jahrhundert",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Quem pastores laudavere"
+    },
+    {
+      "titel": "Den die Hirten lobeten sehre; sekundär mit Heut sein die lieben Engelein und Gottes Sohn ist Mensch geborn zu einem Lied verbunden",
+      "text_ursprung": "Matthäus Ludecus nach Quem pastores laudavere",
+      "melodie_ursprung": "Hs. Hohenfurt (CZ-VB, 28) Mitte 15. Jahrhundert / Erstdruck Prag 1541 / bei Valentin Triller",
+      "text_datierung": "1584",
+      "melodie_datierung": "Mitte 15. Jahrhundert (/1541/1555)",
+      "kontrafaktur_anmerkungen": "Quem pastores laudavere; tschechischer Text bei Jan Roh = Johann Horn 1541; Preis sei Gott im Himmelsthrone (Valentin Triller 1555)"
+    },
+    {
+      "titel": "Den geboren hat ein’ Magd",
+      "text_ursprung": "aus dem Andernacher Gesangbuch",
+      "melodie_ursprung": "",
+      "text_datierung": "1608",
+      "melodie_datierung": "14. Jahrhundert",
+      "kontrafaktur_anmerkungen": "Quem nunc virgo peperit"
+    },
+    {
+      "titel": "Denn es ist Weihnacht",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Patrick Lindner"
+    },
+    {
+      "titel": "Denn es ist Weihnachtszeit",
+      "text_ursprung": "Heinz Korn",
+      "melodie_ursprung": "Jester Joseph Hairston",
+      "text_datierung": "1958",
+      "melodie_datierung": "1956",
+      "kontrafaktur_anmerkungen": "Interpretin: Margot Eskens"
+    },
+    {
+      "titel": "Der Christbaum",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Rainhard Fendrich"
+    },
+    {
+      "titel": "Der Christbaum ist der schönste Baum",
+      "text_ursprung": "Johannes Carl",
+      "melodie_ursprung": "Georg Eisenbach",
+      "text_datierung": "1842",
+      "melodie_datierung": "1842",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Der du die Welt geschaffen hast",
+      "text_ursprung": "Rudolf Alexander Schröder",
+      "melodie_ursprung": "Hans Friedrich Micheelsen",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Der grüne Zweig in unserer Hand",
+      "text_ursprung": "Wilhelm Willms",
+      "melodie_ursprung": "Peter Janssens",
+      "text_datierung": "1980",
+      "melodie_datierung": "1980",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Der Heiland ist geboren",
+      "text_ursprung": "aus Innsbruck",
+      "melodie_ursprung": "aus Innsbruck",
+      "text_datierung": "",
+      "melodie_datierung": "1881/1883",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Der heilge Christ ist kommen",
+      "text_ursprung": "Ernst Moritz Arndt",
+      "melodie_ursprung": "Johannes Eccard",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Der Himmel freue sich",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Der Morgenstern ist aufgedrungen",
+      "text_ursprung": "Daniel Rumpius / Wilhelm Witzke und Otto Riethmüller (Strophen 2–4)",
+      "melodie_ursprung": "Michael Praetorius",
+      "text_datierung": "1587 / 1932",
+      "melodie_datierung": "1609",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Der Sunnwendmann",
+      "text_ursprung": "Martin Greif",
+      "melodie_ursprung": "Ilse Lang",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Der Tag, der ist so freudenreich",
+      "text_ursprung": "14./15. Jahrhundert anonym; um 1525 mehrfach neue Strophen hinzugedichtet",
+      "melodie_ursprung": "Handschrift Kloster Medingen;",
+      "text_datierung": "14./15. Jahrhundert",
+      "melodie_datierung": "ca. 1320",
+      "kontrafaktur_anmerkungen": "Dies est laetitiae in ortu regali"
+    },
+    {
+      "titel": "Der verlassene Tannenbaum",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Patrick Lindner"
+    },
+    {
+      "titel": "Der Weihnachtsmann hat lange blonde Haare",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Oliver Thomas"
+    },
+    {
+      "titel": "Der Weihnachtsmann kommt heute in die Stadt",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpreten: Truck Stop"
+    },
+    {
+      "titel": "Der Weihnachtsmann sah aus wie Papa",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpreten: Truck Stop"
+    },
+    {
+      "titel": "Der Wind weht kalt",
+      "text_ursprung": "Rudolf Otto Wiemer",
+      "melodie_ursprung": "Gerd Watkinson",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Der Winter ist ein rechter Mann",
+      "text_ursprung": "Matthias Claudius",
+      "melodie_ursprung": "Johann Friedrich Reichardt",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Dezember Nacht",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Andrea Berg"
+    },
+    {
+      "titel": "Dezemberträume",
+      "text_ursprung": "Rolf Zuckowski",
+      "melodie_ursprung": "Rolf Zuckowski",
+      "text_datierung": "1993",
+      "melodie_datierung": "1993",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Die ganze Welt",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Isabel Varell"
+    },
+    {
+      "titel": "Die heil’gen drei König’",
+      "text_ursprung": "aus Oberbayern",
+      "melodie_ursprung": "aus Oberbayern",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Die Hirten hielten auf dem Feld",
+      "text_ursprung": "Maria Luise Thurmair",
+      "melodie_ursprung": "Heinrich Rohr",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Die Nacht ist vorgedrungen",
+      "text_ursprung": "Jochen Klepper",
+      "melodie_ursprung": "Johannes Petzold",
+      "text_datierung": "1938",
+      "melodie_datierung": "1939",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Die Weisen führet Gottes Hand",
+      "text_ursprung": "Mainzer Gesangbuch",
+      "melodie_ursprung": "Mainzer Gesangbuch",
+      "text_datierung": "1605",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Uns ist geboren ein Kindelein"
+    },
+    {
+      "titel": "Dies ist der Tag den Gott gemacht",
+      "text_ursprung": "Christian Fürchtegott Gellert",
+      "melodie_ursprung": "Martin Luther",
+      "text_datierung": "1757",
+      "melodie_datierung": "1539",
+      "kontrafaktur_anmerkungen": "Es kam ein Engel hell und klar; Wir singen Dir, Immanuel; Vom Himmel kam der Engel Schar; Vom Himmel hoch, da komm ich her;"
+    },
+    {
+      "titel": "Dies ist die Nacht der Engel",
+      "text_ursprung": "Kurt Rose",
+      "melodie_ursprung": "Joachim Schwarz",
+      "text_datierung": "1987",
+      "melodie_datierung": "1987",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Dies ist die Nacht, da mir erschienen",
+      "text_ursprung": "Kaspar Friedrich Nachtenhöfer",
+      "melodie_ursprung": "1. Chorbuch des Johann Balthasar König 2. Langenöls /bei Johann Balthasar Reimann",
+      "text_datierung": "1684",
+      "melodie_datierung": "1. 1738 2. 1742/1747",
+      "kontrafaktur_anmerkungen": "O dass ich tausend Zungen hätte (Johann Mentzer); Ich bin getauft auf deinen Namen; Ich habe nun den Grund gefunden (Johann Andreas Rothe)"
+    },
+    {
+      "titel": "Diholter, dipolter",
+      "text_ursprung": "Edith Bergner",
+      "melodie_ursprung": "Carl-Ernst Teichmann",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Dir schenk ich mein Herz zur Weihnachtszeit",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Eva Kaufmann"
+    },
+    {
+      "titel": "Dort oben vom Berge",
+      "text_ursprung": "aus dem Böhmerwald",
+      "melodie_ursprung": "aus dem Böhmerwald",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Drei Kön’ge wandern aus Morgenland",
+      "text_ursprung": "Peter Cornelius",
+      "melodie_ursprung": "Peter Cornelius",
+      "text_datierung": "1856",
+      "melodie_datierung": "1856",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Drei Wünsche vom Glück – Weihnachtslied",
+      "text_ursprung": "Michael Hansen",
+      "melodie_ursprung": "Heiko Reissig",
+      "text_datierung": "2006",
+      "melodie_datierung": "2006",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Du bist mein Weihnachtsstern",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: G. G. Anderson"
+    },
+    {
+      "titel": "Du bist nicht allein",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Ines Adler"
+    },
+    {
+      "titel": "Du Kind, zu dieser heilgen Zeit",
+      "text_ursprung": "Jochen Klepper",
+      "melodie_ursprung": "Volker Gwinner",
+      "text_datierung": "1938",
+      "melodie_datierung": "1970",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Du lieber, heilger, frommer Christ",
+      "text_ursprung": "Ernst Moritz Arndt",
+      "melodie_ursprung": "Gottlob Siegert",
+      "text_datierung": "1818",
+      "melodie_datierung": "1822",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Du lieber Weihnachtsmann",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Mireille Mathieu"
+    },
+    {
+      "titel": "Du Spiegel der Dreifaltigkeit",
+      "text_ursprung": "Quentelsches Gesangbuch, Köln",
+      "melodie_ursprung": "Quentelsches Gesangbuch, Köln",
+      "text_datierung": "1599",
+      "melodie_datierung": "1599",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Du wesentliches Wort",
+      "text_ursprung": "Lorenz Lorenzen",
+      "melodie_ursprung": "Johann Heermann",
+      "text_datierung": "1700",
+      "melodie_datierung": "1648",
+      "kontrafaktur_anmerkungen": "O Gott, du frommer Gott"
+    },
+    {
+      "titel": "Durch den klaren Winterwald",
+      "text_ursprung": "Egon Günther",
+      "melodie_ursprung": "Gerhard Wohlgemuth",
+      "text_datierung": "20. Jahrhundert",
+      "melodie_datierung": "20. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Eenmol in't Joahr",
+      "text_ursprung": "Rolf Zuckowski",
+      "melodie_ursprung": "Rolf Zuckowski",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Ehre sei Gott in der Höhe",
+      "text_ursprung": "nach Lk 2,14 EU",
+      "melodie_ursprung": "Ludwig Ernst Gebhardi",
+      "text_datierung": "",
+      "melodie_datierung": "um 1830",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Einer schaute immer durch das Schlüsselloch",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Frans Bauer"
+    },
+    {
+      "titel": "Eine Weihnachtsparty",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Ella Endlich"
+    },
+    {
+      "titel": "Ein Engel in der Weihnachtszeit",
+      "text_ursprung": "Olaf Bossi, Felix Gauder, Alexandra Kuhn",
+      "melodie_ursprung": "Olaf Bossi, Felix Gauder, Alexandra Kuhn",
+      "text_datierung": "2015",
+      "melodie_datierung": "2015",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Ein Kind geborn zu Bethlehem",
+      "text_ursprung": "nach Puer natus in Bethlehem",
+      "melodie_ursprung": "Klugs Gesangbuch",
+      "text_datierung": "15. und 16. Jahrhundert",
+      "melodie_datierung": "um 1330",
+      "kontrafaktur_anmerkungen": "Puer natus in Bethlehem"
+    },
+    {
+      "titel": "Ein Kind ist uns geboren heut",
+      "text_ursprung": "nach Natus est nobis hodie",
+      "melodie_ursprung": "Michael Weiße",
+      "text_datierung": "1971",
+      "melodie_datierung": "1531",
+      "kontrafaktur_anmerkungen": "Natus est nobis hodie"
+    },
+    {
+      "titel": "Ein Kindelein so löbelich (2. Strophe von Der Tag, der ist so freudenreich)",
+      "text_ursprung": "Unbekannt",
+      "melodie_ursprung": "Handschrift Kloster Medingen",
+      "text_datierung": "15. Jahrhundert",
+      "melodie_datierung": "ca. 1320",
+      "kontrafaktur_anmerkungen": "Dies est laetitiae in ortu regali"
+    },
+    {
+      "titel": "Ein Kindlein liegt in dem armen Stall",
+      "text_ursprung": "Martin Gotthard Schneider",
+      "melodie_ursprung": "Martin Gotthard Schneider",
+      "text_datierung": "1964",
+      "melodie_datierung": "1964",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Ein Licht in den dunklen Zeiten",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Wencke Myhre"
+    },
+    {
+      "titel": "Eine freudige Nachricht breitet sich aus",
+      "text_ursprung": "Martin Gotthard Schneider",
+      "melodie_ursprung": "Martin Gotthard Schneider",
+      "text_datierung": "1975",
+      "melodie_datierung": "1975",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Eine Muh, eine Mäh (Der Weihnachtsmann kommt/Wenn der Weihnachtsbaum uns lacht)",
+      "text_ursprung": "Waldemar Alfredo",
+      "melodie_ursprung": "Wilhelm Lindemann",
+      "text_datierung": "1912",
+      "melodie_datierung": "1912",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Eine Streu aus Stroh",
+      "text_ursprung": "Erich Fried",
+      "melodie_ursprung": "Winfrid Heurich",
+      "text_datierung": "1958",
+      "melodie_datierung": "1993",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Ein Stern, der für dich scheint",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Simone"
+    },
+    {
+      "titel": "Ein Stern zur Weihnachtszeit",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Susan Ebrahimi"
+    },
+    {
+      "titel": "Ein Weihnachtslied aus fernen Kindertagen",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Freddy Breck"
+    },
+    {
+      "titel": "Ein weißes Schloss das in den Bergen steht",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpreten: Fantasy"
+    },
+    {
+      "titel": "Endlich Weihnacht",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Frank Schöbel"
+    },
+    {
+      "titel": "Endlich Weihnachtszeit",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Ute Freudenberg"
+    },
+    {
+      "titel": "Engel auf den Feldern singen",
+      "text_ursprung": "Maria Luise Thurmair",
+      "melodie_ursprung": "aus Frankreich; 2. Hälfte bei Thoinot Arbeau",
+      "text_datierung": "1954",
+      "melodie_datierung": "18. Jahrhundert, 2. Hälfte 1589",
+      "kontrafaktur_anmerkungen": "Les Anges dans nos campagnes; Hört der Engel helle Lieder (Otto Abel); 2. Hälfte nach Instrumentaltanz Branle de l’Official"
+    },
+    {
+      "titel": "Erfreue dich, Himmel",
+      "text_ursprung": "aus einem Straßburger Gesangbuch",
+      "melodie_ursprung": "aus Straßburg",
+      "text_datierung": "1697",
+      "melodie_datierung": "1697",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Ermuntre dich, mein schwacher Geist",
+      "text_ursprung": "Johann Rist",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Er ist die rechte Freudensonn",
+      "text_ursprung": "Georg Weissel",
+      "melodie_ursprung": "Paul Ernst Ruppel nach Macht hoch die Tür",
+      "text_datierung": "",
+      "melodie_datierung": "1955",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Es ist die Zeit",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Andreas Gabalier"
+    },
+    {
+      "titel": "Es ist Weihnachtstag",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Reinhard Mey"
+    },
+    {
+      "titel": "Es blüh’n drei Rosen",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "1840",
+      "melodie_datierung": "1840",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Es blühen die Maien",
+      "text_ursprung": "aus Oberbayern",
+      "melodie_ursprung": "aus Oberbayern",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Es blüht eine Rose zur Weihnachtszeit (Christrosenlied)",
+      "text_ursprung": "Kurt Hertha",
+      "melodie_ursprung": "Robert Stolz",
+      "text_datierung": "1967",
+      "melodie_datierung": "1967",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Es flog ein Täublein weiße",
+      "text_ursprung": "Beuttners Gesangbuch",
+      "melodie_ursprung": "Beuttners Gesangbuch",
+      "text_datierung": "1602",
+      "melodie_datierung": "1602",
+      "kontrafaktur_anmerkungen": "Bis willekomen, herro Krist, Und unser liebe Fraue vom kalten Bronnen (Georg Forster 1539)"
+    },
+    {
+      "titel": "Es führt drei König Gottes Hand",
+      "text_ursprung": "aus Köln, Friedrich Spee zugeschrieben",
+      "melodie_ursprung": "aus Köln",
+      "text_datierung": "1621",
+      "melodie_datierung": "1621",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Es hat sich halt eröffnet",
+      "text_ursprung": "aus Tirol",
+      "melodie_ursprung": "aus Tirol",
+      "text_datierung": "vor 1898",
+      "melodie_datierung": "vor 1898",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Es ist die Zeit",
+      "text_ursprung": "Andreas Gabalier",
+      "melodie_ursprung": "Andreas Gabalier",
+      "text_datierung": "2009",
+      "melodie_datierung": "2009",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Es ist ein Ros entsprungen (Es ist ein Reis entsprungen)",
+      "text_ursprung": "nach Jes 11,1 EU (spätere Varianten von Michael Praetorius und Friedrich Layriz)",
+      "melodie_ursprung": "aus Speyer",
+      "text_datierung": "1. und 2. Strophe 1609, 3. und 4. Strophe 1844",
+      "melodie_datierung": "1599",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Es ist für uns eine Zeit angekommen",
+      "text_ursprung": "aus dem Wiggertal (Strophe 1); Maria Wolters (Strophen 2–9) / Paul Hermann",
+      "melodie_ursprung": "Sterndreherweise aus dem Wiggertal",
+      "text_datierung": "1957",
+      "melodie_datierung": "19. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Es ist Weihnacht",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Stephanie"
+    },
+    {
+      "titel": "Es ist Weihnachtszeit",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Xandra"
+    },
+    {
+      "titel": "Es kam die gnadenvolle Nacht",
+      "text_ursprung": "Johann Caspar Lavater",
+      "melodie_ursprung": "aus dem Kanton Luzern",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Es kam ein Engel hell und klar",
+      "text_ursprung": "Valentin Triller (Strophe 1), Rest Martin Luther",
+      "melodie_ursprung": "Martin Luther",
+      "text_datierung": "1555",
+      "melodie_datierung": "1539",
+      "kontrafaktur_anmerkungen": "Dies ist der Tag, den Gott gemacht; Wir singen Dir, Immanuel; Vom Himmel kam der Engel Schar; Vom Himmel hoch, da komm ich her;"
+    },
+    {
+      "titel": "Es kommt ein Schiff, geladen",
+      "text_ursprung": "Daniel Sudermann",
+      "melodie_ursprung": "aus Köln",
+      "text_datierung": "1626",
+      "melodie_datierung": "1608",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Es schneit",
+      "text_ursprung": "Rolf Zuckowski",
+      "melodie_ursprung": "Rolf Zuckowski",
+      "text_datierung": "1987",
+      "melodie_datierung": "1987",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Es schneit (Winterfreuden)",
+      "text_ursprung": "Wolfgang Brandenstein",
+      "melodie_ursprung": "Hans Sandig",
+      "text_datierung": "20. Jahrhundert",
+      "melodie_datierung": "20. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Es wird scho glei dumpa",
+      "text_ursprung": "Anton Reidinger",
+      "melodie_ursprung": "Anton Reidinger nach älteren Vorbildern",
+      "text_datierung": "vor 1884",
+      "melodie_datierung": "18. Jahrhundert",
+      "kontrafaktur_anmerkungen": "Melodie nach dem Lied Maria zu lieben, ist allzeit mein Sinn aus dem Paderborner Gesangbuch 1765"
+    },
+    {
+      "titel": "Freu dich, Erd und Sternenzelt",
+      "text_ursprung": "Leitmeritzer Gesangbuch (Strophen 1–2 und 5) / Johannes Pröger (Strophen 3–4)",
+      "melodie_ursprung": "aus Böhmen",
+      "text_datierung": "1844 / um 1950",
+      "melodie_datierung": "15. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Freuet euch, ihr Christen alle",
+      "text_ursprung": "Christian Keimann",
+      "melodie_ursprung": "Andreas Hammerschmidt",
+      "text_datierung": "1646",
+      "melodie_datierung": "1646",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Freut euch im Herrn, denn er ist nah",
+      "text_ursprung": "Friedrich Dörr",
+      "melodie_ursprung": "aus Paderborn",
+      "text_datierung": "1969",
+      "melodie_datierung": "1616",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Freut euch, ihr lieben Christen",
+      "text_ursprung": "aus Magdeburg",
+      "melodie_ursprung": "Leonhart Schröter",
+      "text_datierung": "1540",
+      "melodie_datierung": "1587",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Freut euch, ihr lieben Christen all",
+      "text_ursprung": "aus Prag",
+      "melodie_ursprung": "Bartholomeus Gesius",
+      "text_datierung": "1612",
+      "melodie_datierung": "1605",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Frieden für an Moment",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Wolfgang Ambros"
+    },
+    {
+      "titel": "Frohe Weihnacht",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Reinhard Mey"
+    },
+    {
+      "titel": "Frohe Weihnacht mein Engel",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Andreas Fulterer"
+    },
+    {
+      "titel": "Fröhliche, fröhliche Weihnachtszeit",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Chris Roberts"
+    },
+    {
+      "titel": "Fröhlich soll mein Herze springen",
+      "text_ursprung": "Paul Gerhardt",
+      "melodie_ursprung": "Johann Crüger",
+      "text_datierung": "1653",
+      "melodie_datierung": "1653",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Fröhliche Weihnacht",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Nik P."
+    },
+    {
+      "titel": "Fröhliche Weihnacht (Macht Euch bereit)",
+      "text_ursprung": "Rolf Zuckowski",
+      "melodie_ursprung": "Rolf Zuckowski",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Fröhliche Weihnacht überall",
+      "text_ursprung": "",
+      "melodie_ursprung": "unsicher: aus England",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Geborn ist uns ein Kindelein",
+      "text_ursprung": "aus Mainz",
+      "melodie_ursprung": "aus Mainz",
+      "text_datierung": "1605",
+      "melodie_datierung": "1605",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Geh Hansl, pack dei Binggal zamm",
+      "text_ursprung": "Hermann Delacher",
+      "melodie_ursprung": "Hermann Delacher",
+      "text_datierung": "20. Jahrhundert",
+      "melodie_datierung": "20. Jahrhundert",
+      "kontrafaktur_anmerkungen": "als Hansl, pack dei Binggerl zamm von den Zillertaler Schürzenjägern"
+    },
+    {
+      "titel": "Gelobet seist du, Jesu Christ",
+      "text_ursprung": "Guido Dreves",
+      "melodie_ursprung": "Josef Venantius von Wöss",
+      "text_datierung": "1886",
+      "melodie_datierung": "1928",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Gelobet seist du, Jesu Christ",
+      "text_ursprung": "Handschrift Kloster Medingen (Strophe 1) / Martin Luther (Strophe 2–7)",
+      "melodie_ursprung": "Handschrift Kloster Medingen",
+      "text_datierung": "1380 / 1524",
+      "melodie_datierung": "um 1460",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Giebel Glänzen Tief Verschneit",
+      "text_ursprung": "Annelies Paul",
+      "melodie_ursprung": "Günter Fredrich",
+      "text_datierung": "20. Jahrhundert",
+      "melodie_datierung": "20. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Gott hat das erste Wort",
+      "text_ursprung": "Markus Jenny nach Jan Wits „God heeft het eerste woord“ (1957)",
+      "melodie_ursprung": "Gerardus Marinus Kremer",
+      "text_datierung": "1970",
+      "melodie_datierung": "1957",
+      "kontrafaktur_anmerkungen": "God heeft het eerste woord"
+    },
+    {
+      "titel": "Gott, heilger Schöpfer aller Stern",
+      "text_ursprung": "Thomas Müntzer nach „Conditor alme siderum“",
+      "melodie_ursprung": "Kemptener Hymnar",
+      "text_datierung": "1523",
+      "melodie_datierung": "um 1000",
+      "kontrafaktur_anmerkungen": "Conditor alme siderum"
+    },
+    {
+      "titel": "Gott sei Dank durch alle Welt",
+      "text_ursprung": "Heinrich Held",
+      "melodie_ursprung": "aus Frankfurt am Main",
+      "text_datierung": "1658",
+      "melodie_datierung": "1659",
+      "kontrafaktur_anmerkungen": "auch nach der Melodie Nun komm, der Heiden Heiland"
+    },
+    {
+      "titel": "Gottes Sohn ist kommen",
+      "text_ursprung": "Michael Weiße oder Johann Horn (= Jan Roh) zugeschrieben",
+      "melodie_ursprung": "Hs. Hohenfurt (CZ-VB, 42)",
+      "text_datierung": "1544",
+      "melodie_datierung": "2. Hälfte 14. Jahrhundert (niedergeschrieben 1410)",
+      "kontrafaktur_anmerkungen": "Ave hierarchia, Menschenskind, merk eben (überarb. v. Michael Weiße)"
+    },
+    {
+      "titel": "Grünet Felder, grünet Wiesen",
+      "text_ursprung": "aus Oberösterreich",
+      "melodie_ursprung": "aus Oberösterreich",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Grüß euch Gott, Hirtenleut’",
+      "text_ursprung": "aus Österreich",
+      "melodie_ursprung": "aus Österreich",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Guten Abend, schön Abend, es weihnachtet schon",
+      "text_ursprung": "Fritz Hugo Hoffmann nach einem Kärntner Weihnachtslied (Strophen 1–2); Ilse Naumilkat (Strophe 3)",
+      "melodie_ursprung": "aus der Steiermark",
+      "text_datierung": "1931 (Strophen 1–2); 1947–50 (Strophe 3)",
+      "melodie_datierung": "1798",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Guten Tag, ich bin der Nikolaus",
+      "text_ursprung": "Rolf Zuckowski",
+      "melodie_ursprung": "Rolf Zuckowski",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Heil’ge Nacht, ich grüße dich",
+      "text_ursprung": "Karl Wilhelm Osterwald",
+      "melodie_ursprung": "Johann Wolfgang Franck",
+      "text_datierung": "",
+      "melodie_datierung": "1681",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Heiligobndlied",
+      "text_ursprung": "Johanne Amalie von Elterlein",
+      "melodie_ursprung": "Johanne Amalie von Elterlein",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Heiligste Nacht",
+      "text_ursprung": "Salzburg",
+      "melodie_ursprung": "bei Christian Paul Müller, Landshut",
+      "text_datierung": "1783",
+      "melodie_datierung": "1793",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Herbei, o ihr Gläub’gen",
+      "text_ursprung": "Friedrich Heinrich Ranke nach „Adeste fideles“",
+      "melodie_ursprung": "John Francis Wade",
+      "text_datierung": "um 1823",
+      "melodie_datierung": "1751",
+      "kontrafaktur_anmerkungen": "Adeste fideles; Nun freut euch, ihr Christen"
+    },
+    {
+      "titel": "Herr, send herab uns deinen Sohn (Gott, send herab uns deinen Sohn)",
+      "text_ursprung": "Heinrich Bone",
+      "melodie_ursprung": "Andermacher Gesangbuch",
+      "text_datierung": "1847",
+      "melodie_datierung": "1608",
+      "kontrafaktur_anmerkungen": "Veni, veni, Emmanuel"
+    },
+    {
+      "titel": "Heut ist Tanz unterm Weihnachtsbaum",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Chris Doerk"
+    },
+    {
+      "titel": "Heut sein die lieben Engelein (sekundär als 2. Teil des Quempas verwendet, so bei Michael Praetorius 1607)",
+      "text_ursprung": "Nikolaus Herman nach Nunc Angelorum Gloria",
+      "melodie_ursprung": "Hohenfurt?",
+      "text_datierung": "1560 (Erstdruck)",
+      "melodie_datierung": "1410?",
+      "kontrafaktur_anmerkungen": "Nunc angelorum gloria"
+    },
+    {
+      "titel": "Hohe Nacht der klaren Sterne",
+      "text_ursprung": "Hans Baumann",
+      "melodie_ursprung": "Hans Baumann",
+      "text_datierung": "1936",
+      "melodie_datierung": "1936",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Höchste Zeit",
+      "text_ursprung": "Rolf Zuckowski",
+      "melodie_ursprung": "Rolf Zuckowski",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Hört, der Engel helle Lieder",
+      "text_ursprung": "Otto Abel nach Les Anges dans nos campagnes",
+      "melodie_ursprung": "aus Frankreich; 2. Hälfte nach Thoinot Arbeau",
+      "text_datierung": "1954",
+      "melodie_datierung": "18. Jahrhundert; 2. Hälfte 1589",
+      "kontrafaktur_anmerkungen": "Les Anges dans nos campagnes; Engel auf den Feldern singen (Maria Luise Thurmair)"
+    },
+    {
+      "titel": "Hört, es klingt vom Himmelszelt",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Hein Simons"
+    },
+    {
+      "titel": "Hört, es singt und klingt mit Schalle",
+      "text_ursprung": "Markus Jenny nach Quem pastores laudavere",
+      "melodie_ursprung": "Hs. Hohenfurt (CZ-VB, 28)",
+      "text_datierung": "1971",
+      "melodie_datierung": "Mitte 15. Jh.",
+      "kontrafaktur_anmerkungen": "Quem pastores laudavere"
+    },
+    {
+      "titel": "Ich denk an Weihnachten",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Michael Wendler"
+    },
+    {
+      "titel": "Ich fuhr Weihnachten nach Hause",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Eloy de Jong"
+    },
+    {
+      "titel": "Ich glaube noch immer an den Weihnachtsmann",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "2006",
+      "melodie_datierung": "2006",
+      "kontrafaktur_anmerkungen": "Interpretin: Nicole"
+    },
+    {
+      "titel": "Ich lag und schlief",
+      "text_ursprung": "August Heinrich Hoffmann von Fallersleben",
+      "melodie_ursprung": "Johann Friedrich Reichardt",
+      "text_datierung": "",
+      "melodie_datierung": "1781",
+      "kontrafaktur_anmerkungen": "Melodie von „Der Frühling hat sich eingestellt“"
+    },
+    {
+      "titel": "Ich steh an deiner Krippen hier",
+      "text_ursprung": "Paul Gerhardt",
+      "melodie_ursprung": "1. Melodie wahrscheinlich Martin Luther; 2. Melodie Johann Sebastian Bach (Schemellisches Gesangbuch)",
+      "text_datierung": "1653",
+      "melodie_datierung": "1529 bzw. 1736",
+      "kontrafaktur_anmerkungen": "1. Melodie Nun freut Euch, lieben Christen gmein III (Martin Luther); Es ist gewisslich an der Zeit (Bartholomäus Ringwaldt)"
+    },
+    {
+      "titel": "Ich will dem Knäblein schenken",
+      "text_ursprung": "aus Des Knaben Wunderhorn",
+      "melodie_ursprung": "Karl Marx",
+      "text_datierung": "",
+      "melodie_datierung": "1897",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Ich wünsch mir einen Traum",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Frans Bauer"
+    },
+    {
+      "titel": "Ich wünsche mir zum heiligen Christ",
+      "text_ursprung": "Erica Wildgrube-Ulrici",
+      "melodie_ursprung": "Rolf Zuckowski",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Ihr Hirten, erwacht!",
+      "text_ursprung": "",
+      "melodie_ursprung": "Albert Gereon Stein",
+      "text_datierung": "1852 (Text: um 1800?)",
+      "melodie_datierung": "1852 (Melodie: aus Franken, 18. Jahrhundert?)",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Ihr Kinderlein, kommet",
+      "text_ursprung": "Christoph von Schmid",
+      "melodie_ursprung": "Johann Abraham Peter Schulz",
+      "text_datierung": "1798 / 1811",
+      "melodie_datierung": "1794",
+      "kontrafaktur_anmerkungen": "Wie reizend, wie wonnig ist alles umher (Johann Heinrich Voß)"
+    },
+    {
+      "titel": "Ihr lieben Christen, freut euch nun",
+      "text_ursprung": "Erasmus Alberus",
+      "melodie_ursprung": "nach „Steht auf ihr lieben Kinderlein“",
+      "text_datierung": "1546",
+      "melodie_datierung": "15. Jahrhundert",
+      "kontrafaktur_anmerkungen": "Steht auf ihr lieben Kinderlein"
+    },
+    {
+      "titel": "Im Weihnachtsland",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpreten: Godewind"
+    },
+    {
+      "titel": "In der Weihnachtsbäckerei",
+      "text_ursprung": "Rolf Zuckowski",
+      "melodie_ursprung": "Rolf Zuckowski",
+      "text_datierung": "1987",
+      "melodie_datierung": "1987",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "In dieser Nacht",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Karel Gott"
+    },
+    {
+      "titel": "In dulci jubilo",
+      "text_ursprung": "vmtl. Heinrich Seuse",
+      "melodie_ursprung": "erste Aufzeichnung bei Martin Luther, Klugsches Gesangbuch (1. Auflage verloren, 2., identische Auflage erhalten)",
+      "text_datierung": "vor 1358",
+      "melodie_datierung": "wohl 14. Jahrhundert; erste Aufzeichnung = Erstdruck erst 1529 bzw. 1535",
+      "kontrafaktur_anmerkungen": "Der Liedtext wechselt zwischen Deutsch und Latein"
+    },
+    {
+      "titel": "In einer Höhle in Bethlehem",
+      "text_ursprung": "Klaus Berg",
+      "melodie_ursprung": "Oskar Gottlieb Blarr",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Inmitten der Nacht",
+      "text_ursprung": "aus dem Kinzigtal",
+      "melodie_ursprung": "aus dem Kinzigtal",
+      "text_datierung": "18. Jahrhundert",
+      "melodie_datierung": "18. Jahrhundert",
+      "kontrafaktur_anmerkungen": "im Elsass als Volkstanz Le Branle des Bergers bekannt"
+    },
+    {
+      "titel": "In uns’rer Stadt ist Weihnachtsmarkt",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Jonny Hill"
+    },
+    {
+      "titel": "It’s Christmas",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "2017",
+      "melodie_datierung": "2017",
+      "kontrafaktur_anmerkungen": "Englischsprachiger Titel. Deutschsprachiger Liedtext. Interpreten: Feuerherz"
+    },
+    {
+      "titel": "Itzund, weil ein jeder schläft",
+      "text_ursprung": "aus „Heilge Christhandlung des Görlitzer Gymnasiums“",
+      "melodie_ursprung": "aus „Heilge Christhandlung des Görlitzer Gymnasiums“",
+      "text_datierung": "1668",
+      "melodie_datierung": "1668",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Jauchzet, ihr Himmel, frohlocket, ihr Engel",
+      "text_ursprung": "Gerhard Tersteegen",
+      "melodie_ursprung": "Stralsund",
+      "text_datierung": "1731",
+      "melodie_datierung": "ca. 1638",
+      "kontrafaktur_anmerkungen": "Hast du denn Jesu dein Angesicht gänzlich verborgen, Lobe den Herren"
+    },
+    {
+      "titel": "Jedes Jahr, wenn Weihnachten ist",
+      "text_ursprung": "Rolf Zuckowski",
+      "melodie_ursprung": "Rolf Zuckowski",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Joseph, lieber Joseph mein",
+      "text_ursprung": "Mönch von Salzburg zugeschrieben",
+      "melodie_ursprung": "nach Resonet in laudibus",
+      "text_datierung": "14. Jahrhundert",
+      "melodie_datierung": "14. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Kalenderlied",
+      "text_ursprung": "Willy Dehmel",
+      "melodie_ursprung": "Franz Grothe",
+      "text_datierung": "20. Jahrhundert",
+      "melodie_datierung": "20. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Kindelein zart",
+      "text_ursprung": "Unbekannt, bei Michael Praetorius",
+      "melodie_ursprung": "nach Tielman Susato, bei Michael Praetorius",
+      "text_datierung": "(vor) 1609",
+      "melodie_datierung": "1551 / 1609",
+      "kontrafaktur_anmerkungen": "Volksweise nach Instrumentaltanz Den iersten Galliarden"
+    },
+    {
+      "titel": "Kindlein mein",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Kleenes Kindla, gruußer Goot",
+      "text_ursprung": "Grafschaft Glatz/Schlesien",
+      "melodie_ursprung": "Grafschaft Glatz/Schlesien",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Hochdeutsch auch als: Kleiner Knabe, großer Gott"
+    },
+    {
+      "titel": "Kleine Kinder, große Kinder (Das Adventskalenderlied)",
+      "text_ursprung": "Rolf Zuckowski",
+      "melodie_ursprung": "Rolf Zuckowski",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Kling, Glöckchen, klingelingeling",
+      "text_ursprung": "Karl Enslin",
+      "melodie_ursprung": "",
+      "text_datierung": "1854",
+      "melodie_datierung": "vor 1873",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Komm, du Heiland aller Welt",
+      "text_ursprung": "Markus Jenny (nach Ambrosius von Mailand)",
+      "melodie_ursprung": "aus Einsiedeln",
+      "text_datierung": "1971",
+      "melodie_datierung": "12. Jahrhundert",
+      "kontrafaktur_anmerkungen": "Veni redemptor gentium; Nun komm, der Heiden Heiland"
+    },
+    {
+      "titel": "Komm eina mein Freund",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpreten: Gilbert & Harfonie"
+    },
+    {
+      "titel": "Komm in meine Weihnachtsträume",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpreten: Nockalm Quintett"
+    },
+    {
+      "titel": "Komm ins Winterland",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Wencke Myhre"
+    },
+    {
+      "titel": "Komm, wir geh’n nach Bethlehem",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "Anfang des 19. Jahrhunderts",
+      "melodie_datierung": "Anfang des 19. Jahrhunderts",
+      "kontrafaktur_anmerkungen": "Pujdem daly do Betlema"
+    },
+    {
+      "titel": "Komm wir geh′n noch runter in die Stadt",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Howard Carpendale"
+    },
+    {
+      "titel": "Kommet, ihr Hirten",
+      "text_ursprung": "Karl Riedel, nach einem Weihnachtslied aus Böhmen",
+      "melodie_ursprung": "aus Böhmen",
+      "text_datierung": "1870",
+      "melodie_datierung": "1847",
+      "kontrafaktur_anmerkungen": "Nesem vám noviny"
+    },
+    {
+      "titel": "Kommst du, kommst du, Licht der Heiden?",
+      "text_ursprung": "Ernst Christoph Homburg",
+      "melodie_ursprung": "unbekannt",
+      "text_datierung": "17. Jahrhundert",
+      "melodie_datierung": "1653, Altdorf",
+      "kontrafaktur_anmerkungen": "Melodie zu \"Ach was soll ich Sünder machen?\""
+    },
+    {
+      "titel": "Kommt all herzu ihr Engelein",
+      "text_ursprung": "Köln",
+      "melodie_ursprung": "Augsburg",
+      "text_datierung": "1635",
+      "melodie_datierung": "1666",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Kommt her, ihr Kinder, singet fein",
+      "text_ursprung": "Andernacher Gesangbuch",
+      "melodie_ursprung": "Andernacher Gesangbuch",
+      "text_datierung": "1608",
+      "melodie_datierung": "1608",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Kommt und laßt uns Christum ehren",
+      "text_ursprung": "Paul Gerhardt",
+      "melodie_ursprung": "Hs. Hohenfurt (CZ-VB, 28)",
+      "text_datierung": "1666",
+      "melodie_datierung": "Mitte 15. Jh.",
+      "kontrafaktur_anmerkungen": "Quem pastores laudavere; Den die Hirten lobeten sehre; Dem der Hirten Lieder klangen"
+    },
+    {
+      "titel": "Kündet allen in der Not",
+      "text_ursprung": "Friedrich Dörr",
+      "melodie_ursprung": "von „Morgenglanz der Ewigkeit“",
+      "text_datierung": "1972",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Morgenglanz der Ewigkeit"
+    },
+    {
+      "titel": "Lass es schnei’n",
+      "text_ursprung": "Lukas Hilbert",
+      "melodie_ursprung": "Gregor Rottschalk",
+      "text_datierung": "2007",
+      "melodie_datierung": "2007",
+      "kontrafaktur_anmerkungen": "Interpret Peter Maffay (aus dem Album Frohe Weihnachten mit Tabaluga)"
+    },
+    {
+      "titel": "Lasst das Licht in eure Herzen",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Patrick Lindner"
+    },
+    {
+      "titel": "Lasst uns das Kindlein wiegen",
+      "text_ursprung": "Arnold Quentel",
+      "melodie_ursprung": "Arnold Quentel",
+      "text_datierung": "1619",
+      "melodie_datierung": "1604 (München)",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Lasst uns froh und munter sein (Nikolauslied)",
+      "text_ursprung": "Josef Annegarn zugeschrieben",
+      "melodie_ursprung": "aus dem Hunsrück und dem Rheinland",
+      "text_datierung": "19. Jahrhundert",
+      "melodie_datierung": "19. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Leise rieselt der Schnee",
+      "text_ursprung": "Eduard Ebel",
+      "melodie_ursprung": "Volksweise",
+      "text_datierung": "1895",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Letztes Jahr an Weihnachten (Last Christmas)",
+      "text_ursprung": "Last Christmas",
+      "melodie_ursprung": "Wham",
+      "text_datierung": "2013 und 2019 (Cover)",
+      "melodie_datierung": "2013 und 2019 (Cover)",
+      "kontrafaktur_anmerkungen": "Interpret: AggroHürth aka. Wise Guys orientiert am Original"
+    },
+    {
+      "titel": "Licht, das uns erschienen",
+      "text_ursprung": "Maria Luise Thurmair",
+      "melodie_ursprung": "Heinrich Rohr",
+      "text_datierung": "1952",
+      "melodie_datierung": "1952",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Lieber guter Weihnachtsmann",
+      "text_ursprung": "Rolf Zuckowski",
+      "melodie_ursprung": "Trad./ Bearb.: Michael Reinecke / Rolf Zuckowski",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Lieb Nachtigall, wach auf! (Wach, Nachtigall, wach auf)",
+      "text_ursprung": "aus dem Bamberger Gesangbuch",
+      "melodie_ursprung": "aus dem Bamberger Gesangbuch",
+      "text_datierung": "1670",
+      "melodie_datierung": "1670",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Lied vom Weihnachtsmann",
+      "text_ursprung": "Fredrik Vahle",
+      "melodie_ursprung": "Fredrik Vahle",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Lobt Gott, ihr Christen alle gleich",
+      "text_ursprung": "Nikolaus Herman",
+      "melodie_ursprung": "Nikolaus Herman",
+      "text_datierung": "1560",
+      "melodie_datierung": "1554",
+      "kontrafaktur_anmerkungen": "Kommt her, Ihr lieben Schwesterlein (ebenfalls Nikolaus Herman) / gregorianischer Introitus Puer natus est"
+    },
+    {
+      "titel": "Macht hoch die Tür, die Tor macht weit",
+      "text_ursprung": "Georg Weissel (nach Ps 24,7-10 EU)",
+      "melodie_ursprung": "bei Johann Athanasius Freylinghausen, Hallesches Gesangbuch",
+      "text_datierung": "1623 / 1642",
+      "melodie_datierung": "1704",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Macht weit die Pforten in der Welt",
+      "text_ursprung": "Albert Knapp",
+      "melodie_ursprung": "Adolf Lohmann",
+      "text_datierung": "vor 1864",
+      "melodie_datierung": "1938",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Manchmal denk’ ich, es gibt keine Weihnacht",
+      "text_ursprung": "Martin Gotthard Schneider",
+      "melodie_ursprung": "Martin Gotthard Schneider",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Maranatha – Herr komm doch wieder",
+      "text_ursprung": "aus der DDR",
+      "melodie_ursprung": "",
+      "text_datierung": "1973",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Maria durch ein Dornwald ging",
+      "text_ursprung": "Nach A. von Harthausen, Geistliche Volkslieder",
+      "melodie_ursprung": "aus dem Eichsfeld",
+      "text_datierung": "vor 1850",
+      "melodie_datierung": "vor 1850",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Mein Herz will ich dir schenken",
+      "text_ursprung": "Clausener Gesangbuch",
+      "melodie_ursprung": "Clausener Gesangbuch",
+      "text_datierung": "1653",
+      "melodie_datierung": "1653",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Mein Weihnachtstraum",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Meine Frau der Hund und ich",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Nik P."
+    },
+    {
+      "titel": "Menschen, die ihr wart verloren",
+      "text_ursprung": "Christoph Bernhard Verspoell",
+      "melodie_ursprung": "Christoph Bernhard Verspoell",
+      "text_datierung": "1810",
+      "melodie_datierung": "1810",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Merry Christmas allerseits",
+      "text_ursprung": "Udo Jürgens",
+      "melodie_ursprung": "Udo Jürgens",
+      "text_datierung": "2003",
+      "melodie_datierung": "2003",
+      "kontrafaktur_anmerkungen": "Interpret: Udo Jürgens"
+    },
+    {
+      "titel": "Merry Christmas, mein Schatz",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpreten: Silke & Dirk Spielberg"
+    },
+    {
+      "titel": "Merry Xmas",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Christin Stark"
+    },
+    {
+      "titel": "Mit deinen Augen",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Achim Weinzen"
+    },
+    {
+      "titel": "Mit Ernst, o Menschenkinder",
+      "text_ursprung": "Valentin Thilo",
+      "melodie_ursprung": "aus Lyon (Jehan Chardavoine?)",
+      "text_datierung": "1642",
+      "melodie_datierung": "1557",
+      "kontrafaktur_anmerkungen": "Une jeune fillette; Von Gott will ich nicht lassen (Ludwig Helmbold); Helft mir, Gotts Güte preisen (Paul Eber)"
+    },
+    {
+      "titel": "Mit Nichts von Nichts hast du begonnen",
+      "text_ursprung": "Cornelis Kok nach Huub Oosterhuis ’ Lied van de schepping",
+      "melodie_ursprung": "",
+      "text_datierung": "1999",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Mitten im Dezember",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Nino de Angelo"
+    },
+    {
+      "titel": "Mitten in der Nacht",
+      "text_ursprung": "Rolf Zuckowski",
+      "melodie_ursprung": "Rolf Zuckowski",
+      "text_datierung": "1993",
+      "melodie_datierung": "1993",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Morgen, Kinder, wird’s was geben",
+      "text_ursprung": "Karl Friedrich Splittegarb",
+      "melodie_ursprung": "Verschiedene Melodiefassungen: Carl Gottlieb Hering Volksweise aus Berlin",
+      "text_datierung": "1795",
+      "melodie_datierung": "1809 1811",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Morgen kommt der Nikolaus",
+      "text_ursprung": "Rolf Zuckowski",
+      "melodie_ursprung": "Rolf Zuckowski",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Morgen kommt der Weihnachtsmann",
+      "text_ursprung": "August Heinrich Hoffmann von Fallersleben",
+      "melodie_ursprung": "französisches Salonlied Ah! vous dirai-je, maman",
+      "text_datierung": "1835",
+      "melodie_datierung": "1761",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Morgenstern der finstern Nacht",
+      "text_ursprung": "Angelus Silesius",
+      "melodie_ursprung": "aus Breslau",
+      "text_datierung": "",
+      "melodie_datierung": "1657",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Nachdem dein Stern in Bethlehem erschienen",
+      "text_ursprung": "Georg Schmid",
+      "melodie_ursprung": "Maria Loohuss",
+      "text_datierung": "1976",
+      "melodie_datierung": "1976",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Nichts ist so schön wie Weihnachten",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Jonny Hill"
+    },
+    {
+      "titel": "Nun es nahen sich die Stunden",
+      "text_ursprung": "Sarntal, Südtirol",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Nun freut euch, ihr Christen",
+      "text_ursprung": "Joseph Hermann Mohr",
+      "melodie_ursprung": "John Francis Wade",
+      "text_datierung": "1873",
+      "melodie_datierung": "1751",
+      "kontrafaktur_anmerkungen": "Adeste fideles, Herbei, o ihr Gläubigen"
+    },
+    {
+      "titel": "Nun jauchzet, all ihr Frommen",
+      "text_ursprung": "Michael Schirmer",
+      "melodie_ursprung": "Johann Crüger",
+      "text_datierung": "1640",
+      "melodie_datierung": "1640",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Nun komm, der Heiden Heiland",
+      "text_ursprung": "Martin Luther (nach Ambrosius von Mailand)",
+      "melodie_ursprung": "aus Einsiedeln",
+      "text_datierung": "1524 (386)",
+      "melodie_datierung": "12. Jahrhundert",
+      "kontrafaktur_anmerkungen": "Veni redemptor gentium"
+    },
+    {
+      "titel": "Nun komm, Du Fest der Kerzen",
+      "text_ursprung": "Wolfgang Richter",
+      "melodie_ursprung": "Walter Krumbach",
+      "text_datierung": "20. Jahrhundert",
+      "melodie_datierung": "20. Jahrhundert",
+      "kontrafaktur_anmerkungen": "Gleich kommt der Sandmann"
+    },
+    {
+      "titel": "Nun singet und seid froh",
+      "text_ursprung": "Hannoversches Gesangbuch",
+      "melodie_ursprung": "Klugs Gesangbuch",
+      "text_datierung": "1646",
+      "melodie_datierung": "1545",
+      "kontrafaktur_anmerkungen": "In dulci jubilo"
+    },
+    {
+      "titel": "Nürnberger Christkindlesmarkt-Walzer",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Udo Jürgens"
+    },
+    {
+      "titel": "O Bethlehem, du kleine Stadt",
+      "text_ursprung": "Helmut Barbe nach „O Little Town of Bethlehem“",
+      "melodie_ursprung": "aus England",
+      "text_datierung": "1954",
+      "melodie_datierung": "16. Jahrhundert",
+      "kontrafaktur_anmerkungen": "O Little Town of Bethlehem"
+    },
+    {
+      "titel": "O du fröhliche",
+      "text_ursprung": "Johannes Daniel Falk / Heinrich Holzschuher (Strophen 2–3)",
+      "melodie_ursprung": "aus Sizilien",
+      "text_datierung": "1816 / 1829",
+      "melodie_datierung": "vor 1788",
+      "kontrafaktur_anmerkungen": "O sanctissima"
+    },
+    {
+      "titel": "O du liebes Jesuskind",
+      "text_ursprung": "Augsburg",
+      "melodie_ursprung": "Grafschaft Glatz",
+      "text_datierung": "1859",
+      "melodie_datierung": "1894",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "O du mein Trost und süßes Hoffen",
+      "text_ursprung": "Karl Wilhelm Osterwald",
+      "melodie_ursprung": "Johann Wolfgang Franck",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "O du schöne Weihnachtszeit",
+      "text_ursprung": "Fredrik Vahle",
+      "melodie_ursprung": "Fredrik Vahle",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "O du stille Zeit",
+      "text_ursprung": "Joseph von Eichendorff",
+      "melodie_ursprung": "Cesar Bresgen",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "O Freude über Freude",
+      "text_ursprung": "aus Schlesien",
+      "melodie_ursprung": "aus Schlesien",
+      "text_datierung": "um 1840",
+      "melodie_datierung": "um 1840",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "O freudenreicher Tag",
+      "text_ursprung": "aus Franken",
+      "melodie_ursprung": "aus Franken",
+      "text_datierung": "19. Jahrhundert",
+      "melodie_datierung": "19. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "O Heiland, reiß die Himmel auf",
+      "text_ursprung": "Friedrich Spee von Langenfeld",
+      "melodie_ursprung": "Rheinfelsisches Gesangbuch, Augsburg",
+      "text_datierung": "1622",
+      "melodie_datierung": "1638",
+      "kontrafaktur_anmerkungen": "Gregorianischer Introitus Rorate caeli."
+    },
+    {
+      "titel": "O heilig Kind",
+      "text_ursprung": "",
+      "melodie_ursprung": "Brüdergemeine",
+      "text_datierung": "1800",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Oh, es riecht gut",
+      "text_ursprung": "Christel Ulbrich",
+      "melodie_ursprung": "Christel Ulbrich",
+      "text_datierung": "um 1949",
+      "melodie_datierung": "um 1949",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "O Jesulein süß",
+      "text_ursprung": "Valentin Thilo",
+      "melodie_ursprung": "Johann Degen, Bearbeitung Samuel Scheidt",
+      "text_datierung": "1650",
+      "melodie_datierung": "1628, bearbeitet 1650 (Görlitzer Tabulatur)",
+      "kontrafaktur_anmerkungen": "Ist das der Leib, Herr Jesu Christ (Friedrich Spee von Langenfeld)"
+    },
+    {
+      "titel": "O Jesulein zart",
+      "text_ursprung": "Friedrich Spee von Langenfeld",
+      "melodie_ursprung": "Gesangbuch des Peter von Brachel, Köln",
+      "text_datierung": "1623",
+      "melodie_datierung": "1623",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "O Jubel, o Freud",
+      "text_ursprung": "",
+      "melodie_ursprung": "aus Kärnten",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "O komm, o komm, du Morgenstern",
+      "text_ursprung": "Otmar Schulz (nach dem englischen O Come, O Come Emmanuel)",
+      "melodie_ursprung": "aus Frankreich",
+      "text_datierung": "1975",
+      "melodie_datierung": "15. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "O komm, o komm, Emmanuel (O komm, o komm, Immanuel)",
+      "text_ursprung": "verschiedene Textfassungen, darunter Christoph Bernhard Verspoell, Heinrich Bone",
+      "melodie_ursprung": "Kölner Gesangbuch",
+      "text_datierung": "1722",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Veni, veni, Emmanuel"
+    },
+    {
+      "titel": "O laufet, ihr Hirten",
+      "text_ursprung": "aus Schlesien",
+      "melodie_ursprung": "Volkslied aus Schlesien",
+      "text_datierung": "1842",
+      "melodie_datierung": "1842",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "O selicha Weihnachtszeit",
+      "text_ursprung": "Anton Günther",
+      "melodie_ursprung": "Anton Günther",
+      "text_datierung": "1907",
+      "melodie_datierung": "1907",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "O selige Nacht",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "1677",
+      "melodie_datierung": "1677",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "O Tannenbaum",
+      "text_ursprung": "August Zarnack / Ernst Anschütz",
+      "melodie_ursprung": "",
+      "text_datierung": "1819/1824",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "O Tannenbaum, du trägst ein’ grünen Zweig",
+      "text_ursprung": "Münster",
+      "melodie_ursprung": "aus dem Paderbornschen",
+      "text_datierung": "1550",
+      "melodie_datierung": "1812",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "O Weihnacht, du friedvolle Zeit",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "O Weihnachtszeit",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "O Wunder groß",
+      "text_ursprung": "nach David Gregor Corner, Neufassung (2. Strophe): Irmgard Laubscher",
+      "melodie_ursprung": "David Gregor Corner",
+      "text_datierung": "1631/1971",
+      "melodie_datierung": "1631",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Peace, Frieden, Schalom, Salam",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpreten: Höhner"
+    },
+    {
+      "titel": "Pulverschnee und Zärtlichkeit",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: G. G. Anderson"
+    },
+    {
+      "titel": "Sankt Niklas war ein Seemann",
+      "text_ursprung": "Georg Buschor",
+      "melodie_ursprung": "Freddy Quinn",
+      "text_datierung": "1972",
+      "melodie_datierung": "1972",
+      "kontrafaktur_anmerkungen": "Interpret: Freddy Quinn"
+    },
+    {
+      "titel": "Schau es schneit",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Rüdiger Wolff"
+    },
+    {
+      "titel": "Schenk mir dein Herz zum Weihnachtsfest",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Allessa"
+    },
+    {
+      "titel": "Schlaf wohl, du Himmelsknabe du",
+      "text_ursprung": "Friedrich Daniel Schubart",
+      "melodie_ursprung": "mehrere Fassungen, darunter von Franz Joseph Fehr, Carl Neuner, Johann Kaspar Aiblinger, Heinrich Reimann",
+      "text_datierung": "1786",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Schlaf, mein Kindelein",
+      "text_ursprung": "aus Straßburg",
+      "melodie_ursprung": "aus Straßburg",
+      "text_datierung": "1697",
+      "melodie_datierung": "1697",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Schlittenfahrt",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "20. Jahrhundert",
+      "melodie_datierung": "20. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Schnee, Schnee, Schnee, liebes Windchen weh",
+      "text_ursprung": "Suse Hecht-Wieber",
+      "melodie_ursprung": "Suse Hecht-Wieber",
+      "text_datierung": "20. Jahrhundert",
+      "melodie_datierung": "20. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Schneeflöckchen, Weißröckchen",
+      "text_ursprung": "Hedwig Haberkern",
+      "melodie_ursprung": "Unbekannt",
+      "text_datierung": "1869",
+      "melodie_datierung": "vor 1915",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Schneemann",
+      "text_ursprung": "Sia Furler, Greg Kurstin",
+      "melodie_ursprung": "Sia Furler, Greg Kurstin",
+      "text_datierung": "2024",
+      "melodie_datierung": "2017",
+      "kontrafaktur_anmerkungen": "Interpretin: Vanessa Mai"
+    },
+    {
+      "titel": "Schöne Winterszeit",
+      "text_ursprung": "Bernhard Bohlke",
+      "melodie_ursprung": "Herbert Schlier",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Schönstes Kindlein",
+      "text_ursprung": "aus Regensburg",
+      "melodie_ursprung": "aus Regensburg",
+      "text_datierung": "1861",
+      "melodie_datierung": "1861",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Seht, die gute Zeit ist nah",
+      "text_ursprung": "Friedrich Walz (nach einem Weihnachtslied aus Mähren)",
+      "melodie_ursprung": "Weihnachtslied aus Mähren",
+      "text_datierung": "1972",
+      "melodie_datierung": "traditionell",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Seht, unser König kommt",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Sei uns mit Jubelschalle",
+      "text_ursprung": "",
+      "melodie_ursprung": "Wolfgang Amadeus Mozart zugeschrieben",
+      "text_datierung": "um 1780",
+      "melodie_datierung": "vor 1791",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Sei uns willkommen, Herre Christ",
+      "text_ursprung": "11. Jahrhundert; Neuvertonung Walter Rein",
+      "melodie_ursprung": "aus Aachen",
+      "text_datierung": "11. Jahrhundert; Neuvertonung 1934",
+      "melodie_datierung": "13./14. Jahrhundert",
+      "kontrafaktur_anmerkungen": "Bis willekommen, Herre Christ; Nun sei uns willkommen, Herre Christ"
+    },
+    {
+      "titel": "Sieh, dein Licht will kommen",
+      "text_ursprung": "Maria Luise Thurmair",
+      "melodie_ursprung": "Markus Jenny",
+      "text_datierung": "1971",
+      "melodie_datierung": "1971",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Sieh, es wird der Herr sich nah’n",
+      "text_ursprung": "Leitmeritzer Choralbuch",
+      "melodie_ursprung": "Leitmeritzer Choralbuch",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Sind die Lichter angezündet",
+      "text_ursprung": "Erika Engel-Wojahn",
+      "melodie_ursprung": "Hans Sandig",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Singen wir mit Fröhlichkeit",
+      "text_ursprung": "Str. 1 nach Kirchenlied; Str. 2–4 nach Resonet in laudibus",
+      "melodie_ursprung": "Seckau und Moosburger Graduale",
+      "text_datierung": "Str. 1: 1938; Str. 2–4: 1973 nach 14. Jahrhundert",
+      "melodie_datierung": "1345 und 1360",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Singet frisch und wohlgemut",
+      "text_ursprung": "Böhmische Brüder",
+      "melodie_ursprung": "Klugs Gesangbuch",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Single-Bells",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "1999",
+      "melodie_datierung": "1999",
+      "kontrafaktur_anmerkungen": "Co-Komponistin, Produzentin und Interpretin Kristina Bach"
+    },
+    {
+      "titel": "Singt nun alle, singt mit uns",
+      "text_ursprung": "Friedrich Walz",
+      "melodie_ursprung": "aus der Ukraine",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "’s Kerzel brennt",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpreten: Aschberger Saitenmusi"
+    },
+    {
+      "titel": "So kommt nun, ihr Hirten",
+      "text_ursprung": "Cesar Bresgen",
+      "melodie_ursprung": "Cesar Bresgen",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Solang noch Wunder möglich sind",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Claudia Jung"
+    },
+    {
+      "titel": "So viel Heimlichkeit in der Weihnachtszeit",
+      "text_ursprung": "Lotte Schuffenhauer",
+      "melodie_ursprung": "Lotte Schuffenhauer",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "’s Raachermannel",
+      "text_ursprung": "Erich Lang",
+      "melodie_ursprung": "Erich Lang",
+      "text_datierung": "1937",
+      "melodie_datierung": "1937",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Steht auf, ihr lieben Kinderlein",
+      "text_ursprung": "Erasmus Alberus",
+      "melodie_ursprung": "Nikolaus Herman",
+      "text_datierung": "vor 1553",
+      "melodie_datierung": "15. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Steht auf und erhebt die Häupter",
+      "text_ursprung": "Lk 21,28 EU",
+      "melodie_ursprung": "Volker Ochs",
+      "text_datierung": "",
+      "melodie_datierung": "um 1980",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Stern über Bethlehem",
+      "text_ursprung": "Alfred Hans Zoller",
+      "melodie_ursprung": "Alfred Hans Zoller",
+      "text_datierung": "1963",
+      "melodie_datierung": "1963",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Sterne der heiligen Nacht",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Sterne über stillen Straßen",
+      "text_ursprung": "Gerhard Wohlgemuth",
+      "melodie_ursprung": "Gerhard Wohlgemuth & Hans Naumilkat",
+      "text_datierung": "20. Jahrhundert",
+      "melodie_datierung": "20. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Still senkt sich die Nacht hernieder",
+      "text_ursprung": "Hermann Heinz Wille",
+      "melodie_ursprung": "Gerhard Wohlgemuth",
+      "text_datierung": "1953",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Still, still, still (weil’s Kindlein schlafen will)",
+      "text_ursprung": "aus Salzburg",
+      "melodie_ursprung": "aus Salzburg",
+      "text_datierung": "1819",
+      "melodie_datierung": "1819",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Stille Nacht, heilige Nacht",
+      "text_ursprung": "Joseph Mohr",
+      "melodie_ursprung": "Franz Xaver Gruber",
+      "text_datierung": "1816",
+      "melodie_datierung": "1818",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Stille, stille, kein Geräusch gemacht",
+      "text_ursprung": "aus Thüringen",
+      "melodie_ursprung": "aus Thüringen",
+      "text_datierung": "vor 1830",
+      "melodie_datierung": "vor 1830",
+      "kontrafaktur_anmerkungen": "Wiegenlied, in manchen Textfassungen auch als Weihnachtslied, Melodie auch als Trinklied Bier her, Bier her, oder ich fall um."
+    },
+    {
+      "titel": "Süßer die Glocken nie klingen",
+      "text_ursprung": "Friedrich Wilhelm Kritzinger",
+      "melodie_ursprung": "aus Thüringen",
+      "text_datierung": "",
+      "melodie_datierung": "1826",
+      "kontrafaktur_anmerkungen": "Seht, wie die Sonne dort sinket"
+    },
+    {
+      "titel": "Süß singt der Engel Chor Weihnacht",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Costa Cordalis"
+    },
+    {
+      "titel": "Tag an Glanz und Freuden groß",
+      "text_ursprung": "Maria Luise Thurmair nach „Dies est laetitiae“",
+      "melodie_ursprung": "aus Medingen",
+      "text_datierung": "1969",
+      "melodie_datierung": "um 1320",
+      "kontrafaktur_anmerkungen": "Dies est laetitiae"
+    },
+    {
+      "titel": "Tau aus Himmelshöhn",
+      "text_ursprung": "Maria Luise Thurmair",
+      "melodie_ursprung": "Heinrich Rohr",
+      "text_datierung": "1952",
+      "melodie_datierung": "1952",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Tauet Himmel aus den Höhn",
+      "text_ursprung": "Johannes Schlick",
+      "melodie_ursprung": "Johann Spangenberg",
+      "text_datierung": "1970",
+      "melodie_datierung": "1544",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Tauet, Himmel, den Gerechten",
+      "text_ursprung": "Michael Denis (nach Jes 45,8 EU)",
+      "melodie_ursprung": "Norbert Hauner",
+      "text_datierung": "1774",
+      "melodie_datierung": "1777",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Tausend gold'ne Weihnachtssterne",
+      "text_ursprung": "Elke Martens",
+      "melodie_ursprung": "Wilfried Peetz",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Tausend kleine Winterfeuer",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Kristina Bach"
+    },
+    {
+      "titel": "Tausend Sterne sind ein Dom",
+      "text_ursprung": "Siegfried Köhler",
+      "melodie_ursprung": "Siegfried Köhler",
+      "text_datierung": "1946",
+      "melodie_datierung": "1946",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Tief im kalten Winter",
+      "text_ursprung": "",
+      "melodie_ursprung": "Aus dem Weihnachtsalbum von Otto Fröhlich",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Tochter Zion, freue dich",
+      "text_ursprung": "Friedrich Heinrich Ranke",
+      "melodie_ursprung": "Georg Friedrich Händel",
+      "text_datierung": "um 1826",
+      "melodie_datierung": "1747",
+      "kontrafaktur_anmerkungen": "See the conqu’ring hero comes"
+    },
+    {
+      "titel": "Tragt in die Welt nun ein Licht",
+      "text_ursprung": "Wolfgang Longardt",
+      "melodie_ursprung": "Wolfgang Longardt",
+      "text_datierung": "1972",
+      "melodie_datierung": "1972",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Traum von Bethlehem",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Ella Endlich"
+    },
+    {
+      "titel": "Traum von Weihnachten",
+      "text_ursprung": "Peter Heppner",
+      "melodie_ursprung": "Lothar Mannteuffel, Dirk Riegner",
+      "text_datierung": "2012",
+      "melodie_datierung": "2012",
+      "kontrafaktur_anmerkungen": "Dream of Christmas"
+    },
+    {
+      "titel": "Tröstet, tröstet, spricht der Herr",
+      "text_ursprung": "Waldemar Rode (nach Jes 40,1-10 EU)",
+      "melodie_ursprung": "Hans Friedrich Micheelsen",
+      "text_datierung": "1938",
+      "melodie_datierung": "1938",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Trucker-Weihnacht",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Sally Carter"
+    },
+    {
+      "titel": "Turaluraluralu – Ich mach BuBu was machst du",
+      "text_ursprung": "Kralle Krawinkel und Stephan Remmler",
+      "melodie_ursprung": "Kralle Krawinkel und Stephan Remmler",
+      "text_datierung": "1982",
+      "melodie_datierung": "1982",
+      "kontrafaktur_anmerkungen": "Interpreten: Trio"
+    },
+    {
+      "titel": "Überall ist Bethlehem",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "1992",
+      "melodie_datierung": "1992",
+      "kontrafaktur_anmerkungen": "Interpretin: Hanne Haller"
+    },
+    {
+      "titel": "Übers Gebirg Maria geht",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "… und Frieden für die Welt",
+      "text_ursprung": "Original: Jester Hairston, Deutsch: Rolf Zuckowski",
+      "melodie_ursprung": "Jester Hairston",
+      "text_datierung": "",
+      "melodie_datierung": "1956",
+      "kontrafaktur_anmerkungen": "Originaltext: Mary’s Boy Child"
+    },
+    {
+      "titel": "Und wir zünden Lichter an",
+      "text_ursprung": "Günter Deicke",
+      "melodie_ursprung": "Joachim Werzlau",
+      "text_datierung": "20. Jahrhundert",
+      "melodie_datierung": "20. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Uns ist ein Kindlein heut geborn",
+      "text_ursprung": "nach Parvulus nobis nascitur",
+      "melodie_ursprung": "Bartholomeus Gesius",
+      "text_datierung": "1560",
+      "melodie_datierung": "1601",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Uns ist geboren ein Kindelein",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "17. Jahrhundert",
+      "melodie_datierung": "14. Jahrhundert",
+      "kontrafaktur_anmerkungen": "Die Weisen führet Gottes Hand"
+    },
+    {
+      "titel": "Uns wird erzählt von Jesus Christ",
+      "text_ursprung": "Kurt Rommel",
+      "melodie_ursprung": "Kurt Rommel",
+      "text_datierung": "1967",
+      "melodie_datierung": "1967",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Unser lieben Frauen Traum (Und unser lieben Frauen)",
+      "text_ursprung": "Beuttners Gesangbuch",
+      "melodie_ursprung": "Beuttners Gesangbuch",
+      "text_datierung": "vor 1602",
+      "melodie_datierung": "vor 1602",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Unser Weihnachtsbaum",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Dirk Busch"
+    },
+    {
+      "titel": "Verzauberte Nacht",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Gaby Albrecht"
+    },
+    {
+      "titel": "Viele bunte Päckchen",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Udo Jürgens"
+    },
+    {
+      "titel": "Vom Himmel hoch, da komm ich her",
+      "text_ursprung": "Martin Luther nach Lk 2,9-16 EU",
+      "melodie_ursprung": "Martin Luther",
+      "text_datierung": "1535",
+      "melodie_datierung": "1539",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Vom Himmel hoch, o Engel, kommt",
+      "text_ursprung": "Friedrich Spee von Langenfeld zugeschrieben",
+      "melodie_ursprung": "Paderborn",
+      "text_datierung": "1622",
+      "melodie_datierung": "1616",
+      "kontrafaktur_anmerkungen": "Älteste Textversion Vom Himmel kompt, o Engel kompt"
+    },
+    {
+      "titel": "Vom Himmel kam der Engel Schar",
+      "text_ursprung": "Martin Luther",
+      "melodie_ursprung": "Martin Luther",
+      "text_datierung": "1543",
+      "melodie_datierung": "1539",
+      "kontrafaktur_anmerkungen": "Dies ist der Tag, den Gott gemacht; Es kam ein Engel hell und klar; Wir singen Dir, Immanuel; Vom Himmel hoch, da komm ich her;"
+    },
+    {
+      "titel": "Von Gott kommt diese Kunde",
+      "text_ursprung": "Peter Spangenberg",
+      "melodie_ursprung": "Johann Crüger",
+      "text_datierung": "",
+      "melodie_datierung": "1647",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Vorfreude, schönste Freude (Freude im Advent)",
+      "text_ursprung": "Erika Engel-Wojahn",
+      "melodie_ursprung": "Hans Naumilkat",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Wachet auf, ruft uns die Stimme",
+      "text_ursprung": "Philipp Nicolai",
+      "melodie_ursprung": "Philipp Nicolai",
+      "text_datierung": "1599",
+      "melodie_datierung": "1599",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Wärst du, Kindchen, im Kaschubenlande",
+      "text_ursprung": "Werner Bergengruen",
+      "melodie_ursprung": "",
+      "text_datierung": "1927",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Wär’ uns der Himmel schon immer so nah",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Mary Roos"
+    },
+    {
+      "titel": "Was bringt der Dezember?",
+      "text_ursprung": "Orig. Text: Beat Jäggi, Deutscher Text: Rolf Zuckowski",
+      "melodie_ursprung": "Peter Reber",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Was bringt der Weihnachtsmann",
+      "text_ursprung": "August Heinrich Hoffmann von Fallersleben",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "1842",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Was ist das nur heut",
+      "text_ursprung": "Cesar Bresgen",
+      "melodie_ursprung": "Cesar Bresgen",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Was ist vor neue Freud",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Was soll das bedeuten",
+      "text_ursprung": "aus Österreich, Schlesien u. a.",
+      "melodie_ursprung": "aus Schlesien",
+      "text_datierung": "vor 1656",
+      "melodie_datierung": "vor 1842",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Weihnachten auf hoher See",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "1963",
+      "melodie_datierung": "1963",
+      "kontrafaktur_anmerkungen": "Interpret: Freddy Quinn"
+    },
+    {
+      "titel": "Weihnacht daheim",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Rainhard Fendrich"
+    },
+    {
+      "titel": "Weihnacht ist, und jeder Raum glänzt im Kerzenschimmer (Weihnachtsabend)",
+      "text_ursprung": "Willi Layh",
+      "melodie_ursprung": "Ernst Meyerolbersleben",
+      "text_datierung": "20. Jahrhundert",
+      "melodie_datierung": "20. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Weihnacht zuhause",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Nicole"
+    },
+    {
+      "titel": "Weihnachten bin ich zu Haus",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "1968",
+      "melodie_datierung": "1968",
+      "kontrafaktur_anmerkungen": "Interpret: Roy Black"
+    },
+    {
+      "titel": "Weihnachten in den Dolomiten",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpreten: Kastelruther Spatzen"
+    },
+    {
+      "titel": "Weihnachten in der Silberstadt",
+      "text_ursprung": "Matthias Reich",
+      "melodie_ursprung": "Matthias Reich",
+      "text_datierung": "2009",
+      "melodie_datierung": "2009",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Weihnachten in Tirol",
+      "text_ursprung": "Dietmar Ganshofer, Willibald Ganster",
+      "melodie_ursprung": "Helmuth Karl Gruber",
+      "text_datierung": "2008",
+      "melodie_datierung": "2008",
+      "kontrafaktur_anmerkungen": "Hansi Hinterseer"
+    },
+    {
+      "titel": "Weihnachten ist erst, wenn du bei mir bist",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Florian Silbereisen"
+    },
+    {
+      "titel": "Weihnachten lebt",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Simone"
+    },
+    {
+      "titel": "Weihnachten ist das Fest der Liebe",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Angela Wiedl"
+    },
+    {
+      "titel": "Weihnachten ist Party für Jesus",
+      "text_ursprung": "Daniel Kallauch",
+      "melodie_ursprung": "Daniel Kallauch, Cornelius Schock",
+      "text_datierung": "1996",
+      "melodie_datierung": "1996, 2005",
+      "kontrafaktur_anmerkungen": "Daniel Kallauch uam|"
+    },
+    {
+      "titel": "Weihnachten steht vor unserer Tür",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Weihnachten tief in meinem Herz",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Gilbert"
+    },
+    {
+      "titel": "Weihnachten wie immer",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "2001",
+      "melodie_datierung": "2001",
+      "kontrafaktur_anmerkungen": "Interpret: Wolfgang Ambros"
+    },
+    {
+      "titel": "Weihnachten wie’s früher war",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Weihnachten wirst du bei mir sein",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Claudia Jung"
+    },
+    {
+      "titel": "Weihnacht im Schnee",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "1973",
+      "melodie_datierung": "1973",
+      "kontrafaktur_anmerkungen": "Interpret: Rex Gildo"
+    },
+    {
+      "titel": "Weihnacht im Wunderland",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "1999",
+      "melodie_datierung": "1999",
+      "kontrafaktur_anmerkungen": "Interpret: Peter Sebastian"
+    },
+    {
+      "titel": "Weihnacht ist immer und überall",
+      "text_ursprung": "Philipp Simon Goletz",
+      "melodie_ursprung": "Fabian P/Philipp Simon Goletz",
+      "text_datierung": "1993",
+      "melodie_datierung": "1993",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Weihnacht oh Weihnacht",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Tina Rainford"
+    },
+    {
+      "titel": "Weihnacht wie es früher einmal war",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Tommy Steiner"
+    },
+    {
+      "titel": "Weihnachtsabend in der City",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Howard Carpendale"
+    },
+    {
+      "titel": "Weihnachtsbaum",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Eli Melinda"
+    },
+    {
+      "titel": "Weihnachtsfrieden",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Weihnachtsgruaß",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpreten: Die Seer"
+    },
+    {
+      "titel": "Weihnachtskuchen",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Peter Alexander"
+    },
+    {
+      "titel": "Weihnachtslieder",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpreten: Kathrin und Peter"
+    },
+    {
+      "titel": "Weihnachtsmarkt am alten Dom",
+      "text_ursprung": "Ben Brocker",
+      "melodie_ursprung": "Leo Garsson",
+      "text_datierung": "20. Jahrhundert",
+      "melodie_datierung": "20. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Weihnachtsmärchen",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Weihnachtsmärchenland",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Peter Sebastian"
+    },
+    {
+      "titel": "Weihnachtssong",
+      "text_ursprung": "Sido",
+      "melodie_ursprung": "Beathoavenz",
+      "text_datierung": "2003",
+      "melodie_datierung": "2003",
+      "kontrafaktur_anmerkungen": "Interpret: Sido"
+    },
+    {
+      "titel": "Weihnachtsstern",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Angelina"
+    },
+    {
+      "titel": "Weihnachtsträume",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpreten: Cagey Strings"
+    },
+    {
+      "titel": "Weihnachtszeit",
+      "text_ursprung": "Johannes Stankowski",
+      "melodie_ursprung": "Johannes Stankowski",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Weihnachtszeit-Kinderzeit",
+      "text_ursprung": "Udo Jürgens",
+      "melodie_ursprung": "Udo Jürgens",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Weihnachtszeit-Schöne Zeit",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Tommy Steiner"
+    },
+    {
+      "titel": "Weihnacht, was bist du?",
+      "text_ursprung": "Rolf Zuckowski",
+      "melodie_ursprung": "Rolf Zuckowski",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Weihnacht zu Haus",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpretin: Kristina Bach"
+    },
+    {
+      "titel": "Weil Gott in tiefster Nacht erschienen",
+      "text_ursprung": "Dieter Trautwein",
+      "melodie_ursprung": "Dieter Trautwein",
+      "text_datierung": "1963",
+      "melodie_datierung": "1963",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Weiße Weihnacht",
+      "text_ursprung": "Oliver Lukas, Mihael Hercog, Saša Lendero, Jörgen Andersson, Thorsten Brötzmann",
+      "melodie_ursprung": "Oliver Lukas, Mihael Hercog, Saša Lendero, Jörgen Andersson, Thorsten Brötzmann",
+      "text_datierung": "2017",
+      "melodie_datierung": "2017",
+      "kontrafaktur_anmerkungen": "Interpret: Semino Rossi"
+    },
+    {
+      "titel": "Wenn es kalt wird auf der Welt",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Bernhard Brink"
+    },
+    {
+      "titel": "Wenn Weihnachten ist",
+      "text_ursprung": "",
+      "melodie_ursprung": "Aus dem Weihnachtsalbum von Otto Fröhlich",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Wer klopfet an?",
+      "text_ursprung": "aus Oberbayern",
+      "melodie_ursprung": "aus Oberbayern",
+      "text_datierung": "um 1880",
+      "melodie_datierung": "um 1880",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Wieder mal ist Weihnachtszeit",
+      "text_ursprung": "Heiko Fieber",
+      "melodie_ursprung": "Andreas Schenker",
+      "text_datierung": "2011",
+      "melodie_datierung": "2011",
+      "kontrafaktur_anmerkungen": "Interpret: Benno Weger"
+    },
+    {
+      "titel": "Wie schön leuchtet der Morgenstern",
+      "text_ursprung": "Philipp Nicolai",
+      "melodie_ursprung": "Philipp Nicolai",
+      "text_datierung": "1598",
+      "melodie_datierung": "1598",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Wie soll ich dich empfangen",
+      "text_ursprung": "Paul Gerhardt",
+      "melodie_ursprung": "Johann Crüger",
+      "text_datierung": "1653",
+      "melodie_datierung": "1653",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Winterrosen",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Cora"
+    },
+    {
+      "titel": "Winterzeit, Weihnachtszeit",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Rolf Zuckowski"
+    },
+    {
+      "titel": "Wir bitten dich, o Jesulein",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "18. Jahrhundert",
+      "melodie_datierung": "18. Jahrhundert",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Wir Christenleut’ han jetzund Freud’",
+      "text_ursprung": "Kaspar Füger",
+      "melodie_ursprung": "Johann Crüger",
+      "text_datierung": "vor 1593",
+      "melodie_datierung": "1640",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Wir sagen euch an den lieben Advent",
+      "text_ursprung": "Maria Ferschl",
+      "melodie_ursprung": "Heinrich Rohr",
+      "text_datierung": "1954",
+      "melodie_datierung": "1954",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Wir singen dir, Immanuel",
+      "text_ursprung": "Paul Gerhardt",
+      "melodie_ursprung": "Martin Luther",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Dies ist der Tag, den Gott gemacht; Es kam ein Engel hell und klar; Vom Himmel kam der Engel Schar; Vom Himmel hoch, da komm ich her;"
+    },
+    {
+      "titel": "Wir wollen ein Liedelein singen",
+      "text_ursprung": "aus dem Sudetenland",
+      "melodie_ursprung": "aus dem Sudetenland",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Wir wünschen euch ein frohes Fest",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpreten: Truck Stop"
+    },
+    {
+      "titel": "Wisst ihr noch, wie es geschehen",
+      "text_ursprung": "Hermann Claudius",
+      "melodie_ursprung": "Christian Lahusen",
+      "text_datierung": "1939",
+      "melodie_datierung": "1939",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Wo wohnt wohl der Weihnachtsmann?",
+      "text_ursprung": "Fredrik Vahle",
+      "melodie_ursprung": "Fredrik Vahle",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": ""
+    },
+    {
+      "titel": "Wunderbarer Gnadenthron",
+      "text_ursprung": "Johannes Olearius",
+      "melodie_ursprung": "",
+      "text_datierung": "1665",
+      "melodie_datierung": "15. Jahrhundert",
+      "kontrafaktur_anmerkungen": "In natali domini"
+    },
+    {
+      "titel": "Zimetschtern han i gern",
+      "text_ursprung": "Andrew Bond",
+      "melodie_ursprung": "James Lord Pierpont",
+      "text_datierung": "1998",
+      "melodie_datierung": "um 1850",
+      "kontrafaktur_anmerkungen": "Jingle Bells"
+    },
+    {
+      "titel": "Zu Bethlehem geboren",
+      "text_ursprung": "Friedrich Spee von Langenfeld",
+      "melodie_ursprung": "aus Paris",
+      "text_datierung": "1637",
+      "melodie_datierung": "1599",
+      "kontrafaktur_anmerkungen": "Une petite feste"
+    },
+    {
+      "titel": "Zucker fällt vom Himmel",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Rex Gildo"
+    },
+    {
+      "titel": "Zumba, zumba, welch ein Singen",
+      "text_ursprung": "deutsch von Lieselotte Holzmeister",
+      "melodie_ursprung": "aus León (Spanien)",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Zumba, zúmbale al pandero"
+    },
+    {
+      "titel": "Zum Weihnachtsfest seh’n wir uns wieder",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Roland Kaiser"
+    },
+    {
+      "titel": "Zu Weihnachten wünsch ich mir dich",
+      "text_ursprung": "",
+      "melodie_ursprung": "",
+      "text_datierung": "",
+      "melodie_datierung": "",
+      "kontrafaktur_anmerkungen": "Interpret: Allessa"
+    }
+  ],
+  "meta": {
+    "title": "Deutschsprachige Weihnachtslieder - Free Download",
+    "description": "Deutschsprachige Weihnachtslieder mit Herkunft und Datierung von Text und Melodie sowie Anmerkungen zu Kontrafakturen und Interpreten. Contains 437 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Deutschsprachige Weihnachtslieder | ListBase",
+    "seo_description": "Download Deutschsprachige Weihnachtslieder — 437 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 437 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_deutschsprachiger_Weihnachtslieder"
+    ]
+  }
+}

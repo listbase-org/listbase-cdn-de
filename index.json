@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-03T02:22:51.834Z",
-  "total_datasets": 521,
-  "total_records": 1876025,
+  "generated": "2026-11-03T02:22:58.879Z",
+  "total_datasets": 522,
+  "total_records": 1876462,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -5660,6 +5660,33 @@
         "xlsx": {
           "name": "de-oeffentlich-gefoerderte-orchester_DE.xlsx",
           "size": 13388
+        }
+      }
+    },
+    {
+      "id": "de-weihnachtslieder",
+      "name": "Deutschsprachige Weihnachtslieder",
+      "category": "music",
+      "record_count": 437,
+      "columns": [
+        "titel",
+        "text_ursprung",
+        "melodie_ursprung",
+        "text_datierung",
+        "melodie_datierung",
+        "kontrafaktur_anmerkungen"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_deutschsprachiger_Weihnachtslieder",
+      "updated": "2026-11",
+      "size": 118517,
+      "files": {
+        "csv": {
+          "name": "de-weihnachtslieder_DE.csv",
+          "size": 43749
+        },
+        "xlsx": {
+          "name": "de-weihnachtslieder_DE.xlsx",
+          "size": 32593
         }
       }
     },
