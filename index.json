@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-03T02:22:31.850Z",
-  "total_datasets": 518,
-  "total_records": 1875779,
+  "generated": "2026-11-03T02:22:39.414Z",
+  "total_datasets": 519,
+  "total_records": 1875910,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -5608,6 +5608,33 @@
         "xlsx": {
           "name": "de-nummer-eins-alben-deutschland-2015-2025_DE.xlsx",
           "size": 49265
+        }
+      }
+    },
+    {
+      "id": "de-oeffentlich-gefoerderte-orchester",
+      "name": "Öffentlich geförderte Orchester in Deutschland",
+      "category": "music",
+      "record_count": 131,
+      "columns": [
+        "stadt",
+        "orchester",
+        "spielstaette_traeger",
+        "tarifvertrag",
+        "planstellen",
+        "orchestertyp"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_öffentlich_geförderter_Orchester_in_Deutschland",
+      "updated": "2026-11",
+      "size": 39767,
+      "files": {
+        "csv": {
+          "name": "de-oeffentlich-gefoerderte-orchester_DE.csv",
+          "size": 18748
+        },
+        "xlsx": {
+          "name": "de-oeffentlich-gefoerderte-orchester_DE.xlsx",
+          "size": 13388
         }
       }
     },

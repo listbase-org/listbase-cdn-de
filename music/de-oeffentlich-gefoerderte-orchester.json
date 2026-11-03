@@ -1,0 +1,1104 @@
+{
+  "id": "de-oeffentlich-gefoerderte-orchester",
+  "name": "Öffentlich geförderte Orchester in Deutschland",
+  "title": "Öffentlich geförderte Orchester in Deutschland",
+  "description": "Staatliche, städtische und öffentlich finanzierte Orchester in Deutschland (Theater-, Konzert-, Kammer- und Rundfunkorchester) mit Stadt, Spielstätte/Träger, Tarifvertrag und Planstellen.",
+  "category": "music",
+  "source": "https://de.wikipedia.org/wiki/Liste_öffentlich_geförderter_Orchester_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_öffentlich_geförderter_Orchester_in_Deutschland",
+  "updated": "2026-11",
+  "record_count": 131,
+  "columns": [
+    {
+      "key": "stadt",
+      "label": "Stadt",
+      "type": "string"
+    },
+    {
+      "key": "orchester",
+      "label": "Orchester",
+      "type": "string"
+    },
+    {
+      "key": "spielstaette_traeger",
+      "label": "Spielstaette Traeger",
+      "type": "string"
+    },
+    {
+      "key": "tarifvertrag",
+      "label": "Tarifvertrag",
+      "type": "string"
+    },
+    {
+      "key": "planstellen",
+      "label": "Planstellen",
+      "type": "number"
+    },
+    {
+      "key": "orchestertyp",
+      "label": "Orchestertyp",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stadt": "Aachen",
+      "orchester": "Sinfonieorchester Aachen",
+      "spielstaette_traeger": "Theater Aachen",
+      "tarifvertrag": "TVK B",
+      "planstellen": 66,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Altenburg / Gera",
+      "orchester": "Philharmonisches Orchester Altenburg Gera",
+      "spielstaette_traeger": "Theater Altenburg Gera",
+      "tarifvertrag": "TVK B/F",
+      "planstellen": 70,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Annaberg / Aue",
+      "orchester": "Erzgebirgische Philharmonie Aue",
+      "spielstaette_traeger": "Eduard-von-Winterstein-Theater",
+      "tarifvertrag": "TVK D (HTV)",
+      "planstellen": 50,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Augsburg",
+      "orchester": "Augsburger Philharmoniker",
+      "spielstaette_traeger": "Staatstheater Augsburg",
+      "tarifvertrag": "TVK B",
+      "planstellen": 71,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Bad Lausick",
+      "orchester": "Sächsische Bläserphilharmonie",
+      "spielstaette_traeger": "Deutsche Bläserakademie",
+      "tarifvertrag": "TVK (ca. A, HTV)",
+      "planstellen": 37,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Bad Reichenhall",
+      "orchester": "Bad Reichenhaller Philharmoniker",
+      "spielstaette_traeger": "",
+      "tarifvertrag": "HTV C",
+      "planstellen": 39,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Baden-Baden",
+      "orchester": "Philharmonie Baden-Baden",
+      "spielstaette_traeger": "",
+      "tarifvertrag": "TVK B",
+      "planstellen": 38,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Bamberg",
+      "orchester": "Bamberger Symphoniker – Bayerische Staatsphilharmonie",
+      "spielstaette_traeger": "Konzert- und Kongresshalle Bamberg",
+      "tarifvertrag": "TV Bamberger Symphoniker",
+      "planstellen": 111,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Bautzen",
+      "orchester": "Sorbisches Kammerorchester",
+      "spielstaette_traeger": "Sorbisches National-Ensemble",
+      "tarifvertrag": "TVK C/D",
+      "planstellen": 22,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Berlin",
+      "orchester": "Staatskapelle Berlin",
+      "spielstaette_traeger": "Staatsoper Unter den Linden",
+      "tarifvertrag": "TV Staatskapelle Berlin",
+      "planstellen": 136,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Berlin",
+      "orchester": "Konzerthausorchester Berlin",
+      "spielstaette_traeger": "Schauspielhaus",
+      "tarifvertrag": "TV Konzerthausorchester",
+      "planstellen": 112,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Berlin",
+      "orchester": "Orchester der Komischen Oper Berlin",
+      "spielstaette_traeger": "Komische Oper Berlin",
+      "tarifvertrag": "TVK A/F1",
+      "planstellen": 112,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Berlin",
+      "orchester": "Berliner Philharmoniker",
+      "spielstaette_traeger": "Berliner Philharmonie",
+      "tarifvertrag": "TV Berliner Philharmoniker",
+      "planstellen": 130,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Berlin",
+      "orchester": "Deutsches Symphonie-Orchester Berlin",
+      "spielstaette_traeger": "Berliner Philharmonie",
+      "tarifvertrag": "TV DSO Berlin",
+      "planstellen": 114,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Berlin",
+      "orchester": "Orchester der Deutschen Oper Berlin",
+      "spielstaette_traeger": "Deutsche Oper Berlin",
+      "tarifvertrag": "TV Deutsche Oper Berlin",
+      "planstellen": 131,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Bielefeld",
+      "orchester": "Bielefelder Philharmoniker",
+      "spielstaette_traeger": "Theater Bielefeld",
+      "tarifvertrag": "TVK B",
+      "planstellen": 67.5,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Bochum",
+      "orchester": "Bochumer Symphoniker",
+      "spielstaette_traeger": "",
+      "tarifvertrag": "TVK A",
+      "planstellen": 85,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Böhlen",
+      "orchester": "Leipziger Symphonieorchester",
+      "spielstaette_traeger": "Kulturhaus Böhlen",
+      "tarifvertrag": "TVK D (HTV)",
+      "planstellen": 39,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Bonn",
+      "orchester": "Beethoven Orchester Bonn",
+      "spielstaette_traeger": "Theater Bonn",
+      "tarifvertrag": "TVK A/F1",
+      "planstellen": 103.5,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Brandenburg an der Havel",
+      "orchester": "Brandenburger Symphoniker",
+      "spielstaette_traeger": "Brandenburger Theater",
+      "tarifvertrag": "TVK C (HTV)",
+      "planstellen": 51,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Braunschweig",
+      "orchester": "Staatsorchester Braunschweig",
+      "spielstaette_traeger": "Staatstheater Braunschweig",
+      "tarifvertrag": "TVK A",
+      "planstellen": 85,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Bremen",
+      "orchester": "Bremer Philharmoniker",
+      "spielstaette_traeger": "Theater Bremen",
+      "tarifvertrag": "TVK A",
+      "planstellen": 84,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Bremerhaven",
+      "orchester": "Philharmonisches Orchester Bremerhaven /",
+      "spielstaette_traeger": "Stadttheater Bremerhaven",
+      "tarifvertrag": "TVK C",
+      "planstellen": 52.5,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Chemnitz",
+      "orchester": "Robert-Schumann-Philharmonie",
+      "spielstaette_traeger": "Theater Chemnitz",
+      "tarifvertrag": "TVK A",
+      "planstellen": 99,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Coburg",
+      "orchester": "Philharmonisches Orchester Landestheater Coburg",
+      "spielstaette_traeger": "Landestheater Coburg",
+      "tarifvertrag": "TVK B",
+      "planstellen": 56,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Cottbus",
+      "orchester": "Philharmonisches Orchester des Staatstheaters Cottbus",
+      "spielstaette_traeger": "Staatstheater Cottbus",
+      "tarifvertrag": "TVK B/F",
+      "planstellen": 74,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Darmstadt",
+      "orchester": "Staatsorchester Darmstadt",
+      "spielstaette_traeger": "Staatstheater Darmstadt",
+      "tarifvertrag": "TVK A (HTV)",
+      "planstellen": 78,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Dessau",
+      "orchester": "Anhaltische Philharmonie",
+      "spielstaette_traeger": "Anhaltisches Theater",
+      "tarifvertrag": "TVK (ca. B/F)",
+      "planstellen": 78.5,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Detmold",
+      "orchester": "Symphonisches Orchester des Landestheaters Detmold",
+      "spielstaette_traeger": "Landestheater Detmold",
+      "tarifvertrag": "TVK B (HTV)",
+      "planstellen": 66,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Dortmund",
+      "orchester": "Dortmunder Philharmoniker",
+      "spielstaette_traeger": "Theater Dortmund",
+      "tarifvertrag": "TVK A",
+      "planstellen": 102.5,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Dresden",
+      "orchester": "Sächsische Staatskapelle Dresden",
+      "spielstaette_traeger": "Semperoper",
+      "tarifvertrag": "TV Staatskapelle Dresden",
+      "planstellen": 159,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Dresden",
+      "orchester": "Dresdner Philharmonie",
+      "spielstaette_traeger": "Kulturpalast",
+      "tarifvertrag": "TV Dresdner Philharmonie",
+      "planstellen": 116,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Dresden",
+      "orchester": "Orchester der Staatsoperette Dresden",
+      "spielstaette_traeger": "Staatsoperette Dresden",
+      "tarifvertrag": "TVK B",
+      "planstellen": 57.25,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Duisburg",
+      "orchester": "Duisburger Philharmoniker",
+      "spielstaette_traeger": "Deutsche Oper am Rhein",
+      "tarifvertrag": "TVK A/F2",
+      "planstellen": 93,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Düsseldorf",
+      "orchester": "Düsseldorfer Symphoniker",
+      "spielstaette_traeger": "Deutsche Oper am Rhein",
+      "tarifvertrag": "TV Düsseldorfer Symphoniker",
+      "planstellen": 130,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Erfurt",
+      "orchester": "Philharmonisches Orchester Erfurt",
+      "spielstaette_traeger": "Theater Erfurt",
+      "tarifvertrag": "TVK B/F",
+      "planstellen": 78,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Essen",
+      "orchester": "Essener Philharmoniker",
+      "spielstaette_traeger": "Aalto-Theater, Saalbau Essen",
+      "tarifvertrag": "TVK A/F2 + Zulage",
+      "planstellen": 101.5,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Flensburg",
+      "orchester": "Schleswig Holsteinisches Sinfonieorchester",
+      "spielstaette_traeger": "Schleswig-Holsteinisches Landestheater",
+      "tarifvertrag": "TVK B",
+      "planstellen": 66,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Frankfurt am Main",
+      "orchester": "Frankfurter Opern- und Museumsorchester",
+      "spielstaette_traeger": "Oper Frankfurt",
+      "tarifvertrag": "TVK A/F1 + Zulage (HTV)",
+      "planstellen": 115,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Frankfurt (Oder)",
+      "orchester": "Brandenburgisches Staatsorchester",
+      "spielstaette_traeger": "Carl Philipp Emanuel Bach Konzerthalle",
+      "tarifvertrag": "TVK A",
+      "planstellen": 86,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Freiberg",
+      "orchester": "Mittelsächsische Philharmonie",
+      "spielstaette_traeger": "Mittelsächsisches Theater",
+      "tarifvertrag": "TVK C",
+      "planstellen": 45,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Freiburg im Breisgau",
+      "orchester": "Philharmonisches Orchester Freiburg",
+      "spielstaette_traeger": "Theater Freiburg, Konzerthaus Freiburg",
+      "tarifvertrag": "TVK B",
+      "planstellen": 70,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Gießen",
+      "orchester": "Philharmonisches Orchester Gießen",
+      "spielstaette_traeger": "Stadttheater Gießen",
+      "tarifvertrag": "TVK D",
+      "planstellen": 40,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Görlitz",
+      "orchester": "Neue Lausitzer Philharmonie",
+      "spielstaette_traeger": "Gerhart-Hauptmann-Theater Görlitz-Zittau",
+      "tarifvertrag": "TVK C",
+      "planstellen": 54.5,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Göttingen",
+      "orchester": "Göttinger Symphonieorchester",
+      "spielstaette_traeger": "",
+      "tarifvertrag": "HTV B",
+      "planstellen": 51,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Gotha / Eisenach",
+      "orchester": "Thüringen Philharmonie Gotha-Eisenach",
+      "spielstaette_traeger": "Landestheater Eisenach",
+      "tarifvertrag": "TVK B (HTV) Bezahlung unter D",
+      "planstellen": 59,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Greifswald / Stralsund",
+      "orchester": "Philharmonisches Orchester Vorpommern",
+      "spielstaette_traeger": "Theater Vorpommern",
+      "tarifvertrag": "TVK B/F (HTV)",
+      "planstellen": 68,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Greiz / Reichenbach im Vogtland",
+      "orchester": "Vogtland Philharmonie Greiz Reichenbach",
+      "spielstaette_traeger": "",
+      "tarifvertrag": "HTV (ca. C)",
+      "planstellen": 61.9,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Hagen",
+      "orchester": "Philharmonisches Orchester Hagen",
+      "spielstaette_traeger": "Theater Hagen",
+      "tarifvertrag": "TVK B",
+      "planstellen": 58.5,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Halberstadt",
+      "orchester": "Harzer Sinfoniker",
+      "spielstaette_traeger": "Harztheater",
+      "tarifvertrag": "TVK D",
+      "planstellen": 35,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Halle (Saale)",
+      "orchester": "Staatskapelle Halle",
+      "spielstaette_traeger": "Opernhaus Halle",
+      "tarifvertrag": "TVK A",
+      "planstellen": 115,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Hamburg",
+      "orchester": "Philharmonisches Staatsorchester Hamburg",
+      "spielstaette_traeger": "Hamburgische Staatsoper",
+      "tarifvertrag": "TVK A/F1 mit Zulage",
+      "planstellen": 140,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Hamburg",
+      "orchester": "Symphoniker Hamburg",
+      "spielstaette_traeger": "Laeiszhalle",
+      "tarifvertrag": "HTV (ca. A)",
+      "planstellen": 67,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Hannover",
+      "orchester": "Niedersächsisches Staatsorchester Hannover",
+      "spielstaette_traeger": "Niedersächsische Staatstheater Hannover",
+      "tarifvertrag": "TVK A/F2",
+      "planstellen": 106,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Heidelberg",
+      "orchester": "Philharmonisches Orchester der Stadt Heidelberg",
+      "spielstaette_traeger": "Theater und Orchester Heidelberg",
+      "tarifvertrag": "TVK B",
+      "planstellen": 62,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Herford",
+      "orchester": "Nordwestdeutsche Philharmonie",
+      "spielstaette_traeger": "Stadtpark Schützenhof",
+      "tarifvertrag": "TVK B/F",
+      "planstellen": 78,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Hildesheim",
+      "orchester": "TfN-Philharmonie Hildesheim",
+      "spielstaette_traeger": "Theater für Niedersachsen",
+      "tarifvertrag": "TVK D",
+      "planstellen": 30,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Hof (Saale)",
+      "orchester": "Hofer Symphoniker",
+      "spielstaette_traeger": "",
+      "tarifvertrag": "HTV (ca. B)",
+      "planstellen": 64,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Jena",
+      "orchester": "Jenaer Philharmonie",
+      "spielstaette_traeger": "Volkshaus Jena",
+      "tarifvertrag": "TVK B/F (HTV)",
+      "planstellen": 85,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Kaiserslautern",
+      "orchester": "Pfalzphilharmonie",
+      "spielstaette_traeger": "Pfalztheater",
+      "tarifvertrag": "TVK B",
+      "planstellen": 66,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Karlsruhe",
+      "orchester": "Badische Staatskapelle Karlsruhe",
+      "spielstaette_traeger": "Badisches Staatstheater Karlsruhe",
+      "tarifvertrag": "TVK A/F2",
+      "planstellen": 99,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Kassel",
+      "orchester": "Staatsorchester Kassel",
+      "spielstaette_traeger": "Staatstheater Kassel",
+      "tarifvertrag": "TVK A (HTV)",
+      "planstellen": 78,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Kiel",
+      "orchester": "Philharmonisches Orchester Kiel",
+      "spielstaette_traeger": "Theater Kiel",
+      "tarifvertrag": "TVK B (HTV)",
+      "planstellen": 80,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Koblenz",
+      "orchester": "Staatsorchester Rheinische Philharmonie",
+      "spielstaette_traeger": "Theater Koblenz",
+      "tarifvertrag": "TVK B/F",
+      "planstellen": 71,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Köln",
+      "orchester": "Gürzenich-Orchester",
+      "spielstaette_traeger": "Kölner Philharmonie",
+      "tarifvertrag": "TV Gürzenich-Orchester",
+      "planstellen": 145.5,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Konstanz",
+      "orchester": "Bodensee Philharmonie",
+      "spielstaette_traeger": "",
+      "tarifvertrag": "TVK B",
+      "planstellen": 62.75,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Krefeld / Mönchengladbach",
+      "orchester": "Niederrheinische Sinfoniker",
+      "spielstaette_traeger": "Theater Krefeld und Mönchengladbach",
+      "tarifvertrag": "TVK B/F",
+      "planstellen": 78.5,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Leipzig",
+      "orchester": "Gewandhausorchester",
+      "spielstaette_traeger": "Gewandhaus, Oper Leipzig",
+      "tarifvertrag": "TV Gewandhausorchester",
+      "planstellen": 185,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Leipzig",
+      "orchester": "Orchester der Musikalischen Komödie",
+      "spielstaette_traeger": "Musikalische Komödie",
+      "tarifvertrag": "TVK B",
+      "planstellen": 47.5,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Lübeck",
+      "orchester": "Philharmonisches Orchester der Hansestadt Lübeck",
+      "spielstaette_traeger": "Theater Lübeck",
+      "tarifvertrag": "TVK B",
+      "planstellen": 66,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Ludwigshafen am Rhein",
+      "orchester": "Deutsche Staatsphilharmonie Rheinland-Pfalz",
+      "spielstaette_traeger": "",
+      "tarifvertrag": "TVK A/F2",
+      "planstellen": 86,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Lüneburg",
+      "orchester": "Lüneburger Symphoniker",
+      "spielstaette_traeger": "Theater Lüneburg",
+      "tarifvertrag": "TVK D (HTV)",
+      "planstellen": 29,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Magdeburg",
+      "orchester": "Magdeburgische Philharmonie",
+      "spielstaette_traeger": "Theater Magdeburg",
+      "tarifvertrag": "TVK B/F",
+      "planstellen": 82.25,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Mainz",
+      "orchester": "Philharmonisches Staatsorchester Mainz",
+      "spielstaette_traeger": "Staatstheater Mainz",
+      "tarifvertrag": "TVK B/F",
+      "planstellen": 71.5,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Mannheim",
+      "orchester": "Nationaltheaterorchester Mannheim",
+      "spielstaette_traeger": "Nationaltheater Mannheim",
+      "tarifvertrag": "TVK A",
+      "planstellen": 103,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Meiningen",
+      "orchester": "Meininger Hofkapelle",
+      "spielstaette_traeger": "Staatstheater Meiningen",
+      "tarifvertrag": "TVK B",
+      "planstellen": 61,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "München",
+      "orchester": "Münchner Philharmoniker",
+      "spielstaette_traeger": "",
+      "tarifvertrag": "TV Münchner Philharmoniker",
+      "planstellen": 126,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "München",
+      "orchester": "Bayerisches Staatsorchester",
+      "spielstaette_traeger": "Bayerische Staatsoper",
+      "tarifvertrag": "TV Bayerisches Staatsorchester",
+      "planstellen": 143,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "München",
+      "orchester": "Orchester des Staatstheaters am Gärtnerplatz",
+      "spielstaette_traeger": "Staatstheater am Gärtnerplatz",
+      "tarifvertrag": "TVK A/F2",
+      "planstellen": 77,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "München",
+      "orchester": "Münchner Symphoniker",
+      "spielstaette_traeger": "",
+      "tarifvertrag": "ohne TV (ca. D)",
+      "planstellen": 60,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Münster",
+      "orchester": "Sinfonieorchester Münster",
+      "spielstaette_traeger": "Theater Münster",
+      "tarifvertrag": "TVK B",
+      "planstellen": 66,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Neubrandenburg / Neustrelitz",
+      "orchester": "Neubrandenburger Philharmonie",
+      "spielstaette_traeger": "Landestheater Neustrelitz",
+      "tarifvertrag": "TVK B",
+      "planstellen": 68,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Nordhausen / Sondershausen",
+      "orchester": "Loh-Orchester Sondershausen",
+      "spielstaette_traeger": "Theater Nordhausen",
+      "tarifvertrag": "TVK B",
+      "planstellen": 53,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Nürnberg",
+      "orchester": "Staatsphilharmonie Nürnberg",
+      "spielstaette_traeger": "Staatstheater Nürnberg",
+      "tarifvertrag": "TVK A",
+      "planstellen": 93,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Nürnberg",
+      "orchester": "Nürnberger Symphoniker",
+      "spielstaette_traeger": "Kongresshalle",
+      "tarifvertrag": "TVK B",
+      "planstellen": 60.5,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Oldenburg (Oldb)",
+      "orchester": "Oldenburgisches Staatsorchester",
+      "spielstaette_traeger": "Oldenburgisches Staatstheater",
+      "tarifvertrag": "TVK B",
+      "planstellen": 69.5,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Osnabrück",
+      "orchester": "Osnabrücker Symphonieorchester",
+      "spielstaette_traeger": "Theater Osnabrück",
+      "tarifvertrag": "TVK B",
+      "planstellen": 59,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Passau",
+      "orchester": "Niederbayerische Philharmonie",
+      "spielstaette_traeger": "Landestheater Niederbayern",
+      "tarifvertrag": "TVK D",
+      "planstellen": 42.5,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Pforzheim",
+      "orchester": "Badische Philharmonie Pforzheim",
+      "spielstaette_traeger": "Stadttheater Pforzheim",
+      "tarifvertrag": "TVK D",
+      "planstellen": 42,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Potsdam",
+      "orchester": "Deutsches Filmorchester Babelsberg",
+      "spielstaette_traeger": "Studio Babelsberg",
+      "tarifvertrag": "HTV (unter D)",
+      "planstellen": 45,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Recklinghausen / Gelsenkirchen",
+      "orchester": "Neue Philharmonie Westfalen",
+      "spielstaette_traeger": "",
+      "tarifvertrag": "TVK B/F (HTV)",
+      "planstellen": 124,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Regensburg",
+      "orchester": "Philharmonisches Orchester Regensburg",
+      "spielstaette_traeger": "Staatstheater Regensburg",
+      "tarifvertrag": "TVK B",
+      "planstellen": 66,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Reutlingen",
+      "orchester": "Württembergische Philharmonie Reutlingen",
+      "spielstaette_traeger": "",
+      "tarifvertrag": "TVK B",
+      "planstellen": 70,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Riesa / Radebeul",
+      "orchester": "Elbland Philharmonie Sachsen",
+      "spielstaette_traeger": "Landesbühnen Sachsen",
+      "tarifvertrag": "TVK C (HTV)",
+      "planstellen": 80,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Rostock",
+      "orchester": "Norddeutsche Philharmonie Rostock",
+      "spielstaette_traeger": "Volkstheater Rostock",
+      "tarifvertrag": "HTV A",
+      "planstellen": 60,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Saalfeld / Rudolstadt",
+      "orchester": "Thüringer Symphoniker",
+      "spielstaette_traeger": "Theater Rudolstadt",
+      "tarifvertrag": "TVK C (HTV)",
+      "planstellen": 42,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Saarbrücken",
+      "orchester": "Saarländisches Staatsorchester",
+      "spielstaette_traeger": "Saarländisches Staatstheater",
+      "tarifvertrag": "TVK A",
+      "planstellen": 81,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Schönebeck",
+      "orchester": "Mitteldeutsche Kammerphilharmonie",
+      "spielstaette_traeger": "",
+      "tarifvertrag": "TVK D (HTV)",
+      "planstellen": 23,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Schwerin",
+      "orchester": "Mecklenburgische Staatskapelle Schwerin",
+      "spielstaette_traeger": "Mecklenburgisches Staatstheater Schwerin",
+      "tarifvertrag": "TVK A (HTV)",
+      "planstellen": 58,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Siegen",
+      "orchester": "Philharmonie Südwestfalen",
+      "spielstaette_traeger": "",
+      "tarifvertrag": "TVK B",
+      "planstellen": 66,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Solingen",
+      "orchester": "Bergische Symphoniker",
+      "spielstaette_traeger": "Teo Otto Theater, Theater und Konzerthaus Solingen",
+      "tarifvertrag": "TVK B (HTV)",
+      "planstellen": 66,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Stuttgart",
+      "orchester": "Staatsorchester Stuttgart",
+      "spielstaette_traeger": "Württembergische Staatstheater Stuttgart",
+      "tarifvertrag": "TVK A/F1",
+      "planstellen": 132,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Stuttgart",
+      "orchester": "Stuttgarter Philharmoniker",
+      "spielstaette_traeger": "Gustav-Siegle-Haus",
+      "tarifvertrag": "TVK A",
+      "planstellen": 86,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Trier",
+      "orchester": "Philharmonisches Orchester der Stadt Trier",
+      "spielstaette_traeger": "Theater Trier",
+      "tarifvertrag": "TVK C",
+      "planstellen": 56,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Ulm",
+      "orchester": "Philharmonisches Orchester der Stadt Ulm",
+      "spielstaette_traeger": "Theater Ulm",
+      "tarifvertrag": "TVK B",
+      "planstellen": 66,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Weimar",
+      "orchester": "Staatskapelle Weimar",
+      "spielstaette_traeger": "Deutsches Nationaltheater",
+      "tarifvertrag": "TVK A/F2",
+      "planstellen": 100,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Wiesbaden",
+      "orchester": "Hessisches Staatsorchester Wiesbaden",
+      "spielstaette_traeger": "Hessisches Staatstheater Wiesbaden",
+      "tarifvertrag": "TVK A (HTV)",
+      "planstellen": 78,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Würzburg",
+      "orchester": "Philharmonisches Orchester Würzburg",
+      "spielstaette_traeger": "Mainfranken Theater Würzburg",
+      "tarifvertrag": "TVK B",
+      "planstellen": 66,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Wuppertal",
+      "orchester": "Sinfonieorchester Wuppertal",
+      "spielstaette_traeger": "Wuppertaler Bühnen",
+      "tarifvertrag": "TVK A",
+      "planstellen": 88,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Zwickau",
+      "orchester": "Clara-Schumann-Philharmoniker",
+      "spielstaette_traeger": "Theater Plauen-Zwickau",
+      "tarifvertrag": "TVK B",
+      "planstellen": 66,
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Stadt/Städte",
+      "orchester": "Name des Orchesters",
+      "spielstaette_traeger": "Hauptspielstätte",
+      "tarifvertrag": "Tarifvertrag",
+      "planstellen": "Planstellen",
+      "orchestertyp": "Staatliche, städtische, öffentlich finanzierte Orchester"
+    },
+    {
+      "stadt": "Heilbronn",
+      "orchester": "Württembergisches Kammerorchester Heilbronn",
+      "spielstaette_traeger": "Konzert- und Kongresszentrum Harmonie (Heilbronn)",
+      "tarifvertrag": "ohne TV (ca. A)",
+      "planstellen": 20,
+      "orchestertyp": "Kammerorchester"
+    },
+    {
+      "stadt": "Ingolstadt",
+      "orchester": "Georgisches Kammerorchester Ingolstadt",
+      "spielstaette_traeger": "Stadttheater Ingolstadt",
+      "tarifvertrag": "HTV (ca. D)",
+      "planstellen": 16,
+      "orchestertyp": "Kammerorchester"
+    },
+    {
+      "stadt": "Mannheim",
+      "orchester": "Kurpfälzisches Kammerorchester",
+      "spielstaette_traeger": "Schloss Mannheim",
+      "tarifvertrag": "HTV (ca. D)",
+      "planstellen": 14,
+      "orchestertyp": "Kammerorchester"
+    },
+    {
+      "stadt": "München",
+      "orchester": "Münchener Kammerorchester",
+      "spielstaette_traeger": "Prinzregententheater",
+      "tarifvertrag": "ohne TV (ca. A)",
+      "planstellen": 28,
+      "orchestertyp": "Kammerorchester"
+    },
+    {
+      "stadt": "Pforzheim",
+      "orchester": "Südwestdeutsches Kammerorchester Pforzheim",
+      "spielstaette_traeger": "CongressCenter Pforzheim",
+      "tarifvertrag": "ohne TV (ca. A)",
+      "planstellen": 14,
+      "orchestertyp": "Kammerorchester"
+    },
+    {
+      "stadt": "Prenzlau",
+      "orchester": "Preußisches Kammerorchester",
+      "spielstaette_traeger": "",
+      "tarifvertrag": "ohne TV (unter D)",
+      "planstellen": 12,
+      "orchestertyp": "Kammerorchester"
+    },
+    {
+      "stadt": "Stuttgart",
+      "orchester": "Stuttgarter Kammerorchester",
+      "spielstaette_traeger": "Kultur- und Kongresszentrum Liederhalle",
+      "tarifvertrag": "ohne TV (ca. A)",
+      "planstellen": 17,
+      "orchestertyp": "Kammerorchester"
+    },
+    {
+      "stadt": "Wernigerode",
+      "orchester": "Philharmonisches Kammerorchester Wernigerode",
+      "spielstaette_traeger": "Konzerthaus Liebfrauen",
+      "tarifvertrag": "TVK D (HTV)",
+      "planstellen": 20,
+      "orchestertyp": "Kammerorchester"
+    },
+    {
+      "stadt": "Stadt/Städte",
+      "orchester": "Name des Orchesters",
+      "spielstaette_traeger": "Name der Sendeanstalt",
+      "tarifvertrag": "Tarifvertrag",
+      "planstellen": "Planstellen",
+      "orchestertyp": "Kammerorchester"
+    },
+    {
+      "stadt": "Berlin",
+      "orchester": "Rundfunk-Sinfonieorchester Berlin",
+      "spielstaette_traeger": "Deutschlandradio",
+      "tarifvertrag": "eigener TV",
+      "planstellen": 114,
+      "orchestertyp": "Rundfunkorchester"
+    },
+    {
+      "stadt": "Frankfurt am Main",
+      "orchester": "hr-Sinfonieorchester",
+      "spielstaette_traeger": "Hessischer Rundfunk",
+      "tarifvertrag": "eigener TV",
+      "planstellen": 108,
+      "orchestertyp": "Rundfunkorchester"
+    },
+    {
+      "stadt": "Hamburg",
+      "orchester": "NDR Elbphilharmonie Orchester",
+      "spielstaette_traeger": "Norddeutscher Rundfunk",
+      "tarifvertrag": "eigener TV",
+      "planstellen": 113,
+      "orchestertyp": "Rundfunkorchester"
+    },
+    {
+      "stadt": "Hannover",
+      "orchester": "NDR Radiophilharmonie",
+      "spielstaette_traeger": "Norddeutscher Rundfunk",
+      "tarifvertrag": "eigener TV",
+      "planstellen": 86,
+      "orchestertyp": "Rundfunkorchester"
+    },
+    {
+      "stadt": "Köln",
+      "orchester": "WDR Sinfonieorchester",
+      "spielstaette_traeger": "Westdeutscher Rundfunk Köln",
+      "tarifvertrag": "eigener TV",
+      "planstellen": 107,
+      "orchestertyp": "Rundfunkorchester"
+    },
+    {
+      "stadt": "Köln",
+      "orchester": "WDR Funkhausorchester",
+      "spielstaette_traeger": "Westdeutscher Rundfunk Köln",
+      "tarifvertrag": "eigener TV",
+      "planstellen": 51,
+      "orchestertyp": "Rundfunkorchester"
+    },
+    {
+      "stadt": "Leipzig",
+      "orchester": "MDR-Sinfonieorchester",
+      "spielstaette_traeger": "Mitteldeutscher Rundfunk",
+      "tarifvertrag": "eigener TV",
+      "planstellen": 115,
+      "orchestertyp": "Rundfunkorchester"
+    },
+    {
+      "stadt": "München",
+      "orchester": "Symphonieorchester des Bayerischen Rundfunks",
+      "spielstaette_traeger": "Bayerischer Rundfunk",
+      "tarifvertrag": "eigener TV",
+      "planstellen": 115,
+      "orchestertyp": "Rundfunkorchester"
+    },
+    {
+      "stadt": "München",
+      "orchester": "Münchner Rundfunkorchester",
+      "spielstaette_traeger": "Bayerischer Rundfunk",
+      "tarifvertrag": "eigener TV",
+      "planstellen": 55,
+      "orchestertyp": "Rundfunkorchester"
+    },
+    {
+      "stadt": "Saarbrücken / Kaiserslautern",
+      "orchester": "Deutsche Radio Philharmonie Saarbrücken-Kaiserslautern",
+      "spielstaette_traeger": "Südwestrundfunk",
+      "tarifvertrag": "eigener TV",
+      "planstellen": 87,
+      "orchestertyp": "Rundfunkorchester"
+    },
+    {
+      "stadt": "Stuttgart",
+      "orchester": "SWR Symphonieorchester",
+      "spielstaette_traeger": "Südwestrundfunk",
+      "tarifvertrag": "eigener TV",
+      "planstellen": 119,
+      "orchestertyp": "Rundfunkorchester"
+    }
+  ],
+  "meta": {
+    "title": "Öffentlich geförderte Orchester in Deutschland - Free Download",
+    "description": "Staatliche, städtische und öffentlich finanzierte Orchester in Deutschland (Theater-, Konzert-, Kammer- und Rundfunkorchester) mit Stadt, Spielstätte/Träger, Tarifvertrag und Planstellen. Contains 131 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Öffentlich geförderte Orchester in Deutschland | ListBase",
+    "seo_description": "Download Öffentlich geförderte Orchester in Deutschland — 131 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 131 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_öffentlich_geförderter_Orchester_in_Deutschland"
+    ]
+  }
+}
