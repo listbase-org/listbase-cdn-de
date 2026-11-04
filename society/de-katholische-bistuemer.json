@@ -1,0 +1,368 @@
+{
+  "id": "de-katholische-bistuemer",
+  "name": "Römisch-katholische Bistümer in Deutschland",
+  "title": "Römisch-katholische Bistümer in Deutschland",
+  "description": "Die 27 (Erz-)Bistümer der katholischen Kirche in Deutschland mit Kirchenprovinz, Bistumspatronen, Bischof, Fläche, Einwohnern und Katholikenanteil (2022).",
+  "category": "society",
+  "source": "https://de.wikipedia.org/wiki/Diözesen_der_römisch-katholischen_Kirche_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Diözesen_der_römisch-katholischen_Kirche_in_Deutschland",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "bistum",
+      "label": "Bistum",
+      "type": "string"
+    },
+    {
+      "key": "kirchenprovinz",
+      "label": "Kirchenprovinz",
+      "type": "string"
+    },
+    {
+      "key": "bistumspatrone",
+      "label": "Bistumspatrone",
+      "type": "string"
+    },
+    {
+      "key": "dioezesanbischof",
+      "label": "Dioezesanbischof",
+      "type": "string"
+    },
+    {
+      "key": "bundeslaender",
+      "label": "Bundeslaender",
+      "type": "string"
+    },
+    {
+      "key": "flaeche_km2",
+      "label": "Flaeche Km2",
+      "type": "number"
+    },
+    {
+      "key": "einwohner_tsd_2022",
+      "label": "Einwohner Tsd 2022",
+      "type": "number"
+    },
+    {
+      "key": "katholiken_tsd_2022",
+      "label": "Katholiken Tsd 2022",
+      "type": "number"
+    },
+    {
+      "key": "katholikenanteil_prozent",
+      "label": "Katholikenanteil Prozent",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "bistum": "Bamberg",
+      "kirchenprovinz": "Bamberg",
+      "bistumspatrone": "Heinrich II. Kunigunde von Luxemburg Otto von Bamberg",
+      "dioezesanbischof": "Herwig Gössl",
+      "bundeslaender": "BY",
+      "flaeche_km2": 10122,
+      "einwohner_tsd_2022": 2117,
+      "katholiken_tsd_2022": 607,
+      "katholikenanteil_prozent": 29
+    },
+    {
+      "bistum": "Eichstätt",
+      "kirchenprovinz": "Bamberg",
+      "bistumspatrone": "Walburga Willibald von Eichstätt",
+      "dioezesanbischof": "Christian Würtz",
+      "bundeslaender": "BY",
+      "flaeche_km2": 6025,
+      "einwohner_tsd_2022": 1000,
+      "katholiken_tsd_2022": 360,
+      "katholikenanteil_prozent": 36
+    },
+    {
+      "bistum": "Speyer",
+      "kirchenprovinz": "Bamberg",
+      "bistumspatrone": "Mariä Aufnahme in den Himmel",
+      "dioezesanbischof": "vakant",
+      "bundeslaender": "R P, SL",
+      "flaeche_km2": 6210,
+      "einwohner_tsd_2022": 1572,
+      "katholiken_tsd_2022": 466,
+      "katholikenanteil_prozent": 30
+    },
+    {
+      "bistum": "Würzburg",
+      "kirchenprovinz": "Bamberg",
+      "bistumspatrone": "Kilian Kolonat Totnan",
+      "dioezesanbischof": "Franz Jung",
+      "bundeslaender": "BY",
+      "flaeche_km2": 8532,
+      "einwohner_tsd_2022": 1335,
+      "katholiken_tsd_2022": 666,
+      "katholikenanteil_prozent": 50
+    },
+    {
+      "bistum": "Berlin",
+      "kirchenprovinz": "Berlin",
+      "bistumspatrone": "Petrus Otto von Bamberg",
+      "dioezesanbischof": "Heiner Koch",
+      "bundeslaender": "BE, BB, M V, ST",
+      "flaeche_km2": 28962,
+      "einwohner_tsd_2022": 6098,
+      "katholiken_tsd_2022": 373,
+      "katholikenanteil_prozent": 6
+    },
+    {
+      "bistum": "Dresden-Meißen",
+      "kirchenprovinz": "Berlin",
+      "bistumspatrone": "Benno von Meißen",
+      "dioezesanbischof": "vakant",
+      "bundeslaender": "SN, TH",
+      "flaeche_km2": 17379,
+      "einwohner_tsd_2022": 4054,
+      "katholiken_tsd_2022": 134,
+      "katholikenanteil_prozent": 3
+    },
+    {
+      "bistum": "Görlitz",
+      "kirchenprovinz": "Berlin",
+      "bistumspatrone": "Hedwig von Andechs",
+      "dioezesanbischof": "Wolfgang Ipolt",
+      "bundeslaender": "BB, SN",
+      "flaeche_km2": 9284,
+      "einwohner_tsd_2022": 672,
+      "katholiken_tsd_2022": 29,
+      "katholikenanteil_prozent": 4
+    },
+    {
+      "bistum": "Freiburg",
+      "kirchenprovinz": "Freiburg",
+      "bistumspatrone": "Jungfrau Maria Konrad von Konstanz",
+      "dioezesanbischof": "Stephan Burger",
+      "bundeslaender": "B W",
+      "flaeche_km2": 16229,
+      "einwohner_tsd_2022": 4848,
+      "katholiken_tsd_2022": 1652,
+      "katholikenanteil_prozent": 34
+    },
+    {
+      "bistum": "Mainz",
+      "kirchenprovinz": "Freiburg",
+      "bistumspatrone": "Martin von Tours",
+      "dioezesanbischof": "Peter Kohlgraf",
+      "bundeslaender": "R P, HE, BW",
+      "flaeche_km2": 7692,
+      "einwohner_tsd_2022": 3021,
+      "katholiken_tsd_2022": 642,
+      "katholikenanteil_prozent": 21
+    },
+    {
+      "bistum": "Rottenburg-Stuttgart",
+      "kirchenprovinz": "Freiburg",
+      "bistumspatrone": "Martin von Tours",
+      "dioezesanbischof": "Klaus Krämer",
+      "bundeslaender": "B W",
+      "flaeche_km2": 19500,
+      "einwohner_tsd_2022": 6262,
+      "katholiken_tsd_2022": 1662,
+      "katholikenanteil_prozent": 26
+    },
+    {
+      "bistum": "Hamburg",
+      "kirchenprovinz": "Hamburg",
+      "bistumspatrone": "Ansgar von Bremen",
+      "dioezesanbischof": "Stefan Heße",
+      "bundeslaender": "SH, HH, M V",
+      "flaeche_km2": 32520,
+      "einwohner_tsd_2022": 5929,
+      "katholiken_tsd_2022": 364,
+      "katholikenanteil_prozent": 6
+    },
+    {
+      "bistum": "Hildesheim",
+      "kirchenprovinz": "Hamburg",
+      "bistumspatrone": "Godehard von Hildesheim",
+      "dioezesanbischof": "vakant",
+      "bundeslaender": "NI, HB",
+      "flaeche_km2": 29021,
+      "einwohner_tsd_2022": 5383,
+      "katholiken_tsd_2022": 538,
+      "katholikenanteil_prozent": 10
+    },
+    {
+      "bistum": "Osnabrück",
+      "kirchenprovinz": "Hamburg",
+      "bistumspatrone": "Josef von Nazaret Crispinus und Crispinianus",
+      "dioezesanbischof": "Dominicus Meier OSB",
+      "bundeslaender": "NI, HB",
+      "flaeche_km2": 12580,
+      "einwohner_tsd_2022": 2217,
+      "katholiken_tsd_2022": 520,
+      "katholikenanteil_prozent": 23
+    },
+    {
+      "bistum": "Köln",
+      "kirchenprovinz": "Köln",
+      "bistumspatrone": "Maria Josef von Nazaret",
+      "dioezesanbischof": "Rainer Maria Kardinal Woelki",
+      "bundeslaender": "NW, RP",
+      "flaeche_km2": 6181,
+      "einwohner_tsd_2022": 5522,
+      "katholiken_tsd_2022": 1738,
+      "katholikenanteil_prozent": 32
+    },
+    {
+      "bistum": "Aachen",
+      "kirchenprovinz": "Köln",
+      "bistumspatrone": "Maria",
+      "dioezesanbischof": "Helmut Dieser",
+      "bundeslaender": "NW",
+      "flaeche_km2": 4020,
+      "einwohner_tsd_2022": 2034,
+      "katholiken_tsd_2022": 935,
+      "katholikenanteil_prozent": 46
+    },
+    {
+      "bistum": "Essen",
+      "kirchenprovinz": "Köln",
+      "bistumspatrone": "Maria",
+      "dioezesanbischof": "Franz-Josef Overbeck",
+      "bundeslaender": "NW",
+      "flaeche_km2": 1890,
+      "einwohner_tsd_2022": 2547,
+      "katholiken_tsd_2022": 679,
+      "katholikenanteil_prozent": 27
+    },
+    {
+      "bistum": "Limburg",
+      "kirchenprovinz": "Köln",
+      "bistumspatrone": "Georg",
+      "dioezesanbischof": "Georg Bätzing",
+      "bundeslaender": "HE, R P",
+      "flaeche_km2": 6184,
+      "einwohner_tsd_2022": 2513,
+      "katholiken_tsd_2022": 539,
+      "katholikenanteil_prozent": 21
+    },
+    {
+      "bistum": "Münster",
+      "kirchenprovinz": "Köln",
+      "bistumspatrone": "Paulus von Tarsus",
+      "dioezesanbischof": "Heiner Wilmer SCJ",
+      "bundeslaender": "NW, NI",
+      "flaeche_km2": 15268,
+      "einwohner_tsd_2022": 4354,
+      "katholiken_tsd_2022": 1713,
+      "katholikenanteil_prozent": 39
+    },
+    {
+      "bistum": "Trier",
+      "kirchenprovinz": "Köln",
+      "bistumspatrone": "Matthias",
+      "dioezesanbischof": "Stephan Ackermann",
+      "bundeslaender": "R P, SL",
+      "flaeche_km2": 12870,
+      "einwohner_tsd_2022": 2475,
+      "katholiken_tsd_2022": 1212,
+      "katholikenanteil_prozent": 49
+    },
+    {
+      "bistum": "München und Freising",
+      "kirchenprovinz": "München und Freising",
+      "bistumspatrone": "Korbinian",
+      "dioezesanbischof": "Reinhard Kardinal Marx",
+      "bundeslaender": "BY",
+      "flaeche_km2": 12082,
+      "einwohner_tsd_2022": 3855,
+      "katholiken_tsd_2022": 1499,
+      "katholikenanteil_prozent": 39
+    },
+    {
+      "bistum": "Augsburg",
+      "kirchenprovinz": "München und Freising",
+      "bistumspatrone": "Ulrich von Augsburg Afra von Augsburg Simbert",
+      "dioezesanbischof": "Bertram Meier",
+      "bundeslaender": "BY",
+      "flaeche_km2": 13520,
+      "einwohner_tsd_2022": 2475,
+      "katholiken_tsd_2022": 1183,
+      "katholikenanteil_prozent": 48
+    },
+    {
+      "bistum": "Regensburg",
+      "kirchenprovinz": "München und Freising",
+      "bistumspatrone": "Wolfgang von Regensburg Emmeram von Regensburg Erhard von Regensburg",
+      "dioezesanbischof": "Rudolf Voderholzer",
+      "bundeslaender": "BY",
+      "flaeche_km2": 14665,
+      "einwohner_tsd_2022": 1781,
+      "katholiken_tsd_2022": 1072,
+      "katholikenanteil_prozent": 60
+    },
+    {
+      "bistum": "Passau",
+      "kirchenprovinz": "München und Freising",
+      "bistumspatrone": "Valentin von Rätien Maximilian vom Pongau Konrad von Parzham",
+      "dioezesanbischof": "Stefan Oster SDB",
+      "bundeslaender": "BY",
+      "flaeche_km2": 5442,
+      "einwohner_tsd_2022": 634,
+      "katholiken_tsd_2022": 432,
+      "katholikenanteil_prozent": 68
+    },
+    {
+      "bistum": "Paderborn",
+      "kirchenprovinz": "Paderborn",
+      "bistumspatrone": "Liborius Kilian",
+      "dioezesanbischof": "Udo Markus Bentz",
+      "bundeslaender": "NW, HE, NI",
+      "flaeche_km2": 14750,
+      "einwohner_tsd_2022": 4820,
+      "katholiken_tsd_2022": 1365,
+      "katholikenanteil_prozent": 28
+    },
+    {
+      "bistum": "Fulda",
+      "kirchenprovinz": "Paderborn",
+      "bistumspatrone": "Bonifatius Elisabeth von Thüringen",
+      "dioezesanbischof": "Michael Gerber",
+      "bundeslaender": "HE, TH, BY",
+      "flaeche_km2": 10318,
+      "einwohner_tsd_2022": 1731,
+      "katholiken_tsd_2022": 348,
+      "katholikenanteil_prozent": 20
+    },
+    {
+      "bistum": "Erfurt",
+      "kirchenprovinz": "Paderborn",
+      "bistumspatrone": "Elisabeth von Thüringen Bonifatius Kilian",
+      "dioezesanbischof": "Ulrich Neymeyr",
+      "bundeslaender": "TH",
+      "flaeche_km2": 13100,
+      "einwohner_tsd_2022": 1718,
+      "katholiken_tsd_2022": 137,
+      "katholikenanteil_prozent": 8
+    },
+    {
+      "bistum": "Magdeburg",
+      "kirchenprovinz": "Paderborn",
+      "bistumspatrone": "Norbert von Xanten Katharina von Alexandrien Mauritius Gertrud von Helfta",
+      "dioezesanbischof": "Gerhard Feige",
+      "bundeslaender": "ST, BB, SN",
+      "flaeche_km2": 24141,
+      "einwohner_tsd_2022": 2415,
+      "katholiken_tsd_2022": 74,
+      "katholikenanteil_prozent": 3
+    }
+  ],
+  "meta": {
+    "title": "Römisch-katholische Bistümer in Deutschland - Free Download",
+    "description": "Die 27 (Erz-)Bistümer der katholischen Kirche in Deutschland mit Kirchenprovinz, Bistumspatronen, Bischof, Fläche, Einwohnern und Katholikenanteil (2022). Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Römisch-katholische Bistümer in Deutschland | ListBase",
+    "seo_description": "Download Römisch-katholische Bistümer in Deutschland — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Diözesen_der_römisch-katholischen_Kirche_in_Deutschland"
+    ]
+  }
+}

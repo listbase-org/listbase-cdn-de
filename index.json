@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-04T02:18:32.058Z",
-  "total_datasets": 525,
-  "total_records": 1876689,
+  "generated": "2026-11-04T02:18:38.428Z",
+  "total_datasets": 526,
+  "total_records": 1876716,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -12092,6 +12092,36 @@
         "xlsx": {
           "name": "de-gewerkschaften_DE.xlsx",
           "size": 7748
+        }
+      }
+    },
+    {
+      "id": "de-katholische-bistuemer",
+      "name": "Römisch-katholische Bistümer in Deutschland",
+      "category": "society",
+      "record_count": 27,
+      "columns": [
+        "bistum",
+        "kirchenprovinz",
+        "bistumspatrone",
+        "dioezesanbischof",
+        "bundeslaender",
+        "flaeche_km2",
+        "einwohner_tsd_2022",
+        "katholiken_tsd_2022",
+        "katholikenanteil_prozent"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Diözesen_der_römisch-katholischen_Kirche_in_Deutschland",
+      "updated": "2026-11",
+      "size": 11652,
+      "files": {
+        "csv": {
+          "name": "de-katholische-bistuemer_DE.csv",
+          "size": 3026
+        },
+        "xlsx": {
+          "name": "de-katholische-bistuemer_DE.xlsx",
+          "size": 9045
         }
       }
     },
