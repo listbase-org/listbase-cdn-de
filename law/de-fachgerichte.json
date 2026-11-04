@@ -1,0 +1,418 @@
+{
+  "id": "de-fachgerichte",
+  "name": "Fachgerichte in Deutschland nach Bundesland",
+  "title": "Fachgerichte in Deutschland nach Bundesland",
+  "description": "Arbeits-, Finanz-, Sozial- und Verwaltungsgerichte der Länder: Landesarbeits-, Landessozial-, Oberverwaltungs- und Finanzgerichte mit den Gerichten erster Instanz.",
+  "category": "law",
+  "source": "https://de.wikipedia.org/wiki/Liste_deutscher_Gerichte",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_deutscher_Gerichte",
+  "updated": "2026-11",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "gerichtsbarkeit",
+      "label": "Gerichtsbarkeit",
+      "type": "string"
+    },
+    {
+      "key": "land",
+      "label": "Land",
+      "type": "string"
+    },
+    {
+      "key": "obergericht",
+      "label": "Obergericht",
+      "type": "string"
+    },
+    {
+      "key": "gerichte_erster_instanz",
+      "label": "Gerichte Erster Instanz",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "gerichtsbarkeit": "Arbeitsgerichtsbarkeit",
+      "land": "Baden-Württemberg",
+      "obergericht": "Landesarbeitsgericht Baden-Württemberg (in Stuttgart)",
+      "gerichte_erster_instanz": "Freiburg, Heilbronn, Karlsruhe, Mannheim, Pforzheim, Reutlingen, Stuttgart, Ulm, Villingen-Schwenningen"
+    },
+    {
+      "gerichtsbarkeit": "Arbeitsgerichtsbarkeit",
+      "land": "Bayern",
+      "obergericht": "Landesarbeitsgericht München",
+      "gerichte_erster_instanz": "Augsburg, Kempten, München, Passau, Regensburg, Rosenheim"
+    },
+    {
+      "gerichtsbarkeit": "Arbeitsgerichtsbarkeit",
+      "land": "Bayern",
+      "obergericht": "Landesarbeitsgericht Nürnberg",
+      "gerichte_erster_instanz": "Bamberg, Bayreuth, Nürnberg, Weiden in der Oberpfalz, Würzburg"
+    },
+    {
+      "gerichtsbarkeit": "Arbeitsgerichtsbarkeit",
+      "land": "Berlin und Brandenburg",
+      "obergericht": "Landesarbeitsgericht Berlin-Brandenburg (in Berlin)",
+      "gerichte_erster_instanz": "Berlin, Brandenburg an der Havel, Cottbus, Frankfurt (Oder), Neuruppin"
+    },
+    {
+      "gerichtsbarkeit": "Arbeitsgerichtsbarkeit",
+      "land": "Bremen",
+      "obergericht": "Landesarbeitsgericht Bremen",
+      "gerichte_erster_instanz": "Arbeitsgericht Bremen-Bremerhaven (in Bremen)"
+    },
+    {
+      "gerichtsbarkeit": "Arbeitsgerichtsbarkeit",
+      "land": "Hamburg",
+      "obergericht": "Landesarbeitsgericht Hamburg",
+      "gerichte_erster_instanz": "Arbeitsgericht Hamburg"
+    },
+    {
+      "gerichtsbarkeit": "Arbeitsgerichtsbarkeit",
+      "land": "Hessen",
+      "obergericht": "Hessisches Landesarbeitsgericht (in Frankfurt am Main)",
+      "gerichte_erster_instanz": "Darmstadt, Frankfurt am Main, Fulda, Gießen, Kassel, Offenbach am Main, Wiesbaden"
+    },
+    {
+      "gerichtsbarkeit": "Arbeitsgerichtsbarkeit",
+      "land": "Mecklenburg-Vorpommern",
+      "obergericht": "Landesarbeitsgericht Mecklenburg-Vorpommern (in Rostock)",
+      "gerichte_erster_instanz": "Rostock, Schwerin, Stralsund mit auswärtiger Kammer Neubrandenburg"
+    },
+    {
+      "gerichtsbarkeit": "Arbeitsgerichtsbarkeit",
+      "land": "Niedersachsen",
+      "obergericht": "Landesarbeitsgericht Niedersachsen (in Hannover)",
+      "gerichte_erster_instanz": "Braunschweig, Celle, Emden, Göttingen, Hameln, Hannover, Hildesheim, Lingen, Lüneburg, Nienburg, Oldenburg, Osnabrück, Stade, Verden, Wilhelmshaven"
+    },
+    {
+      "gerichtsbarkeit": "Arbeitsgerichtsbarkeit",
+      "land": "Nordrhein-Westfalen",
+      "obergericht": "Landesarbeitsgericht Düsseldorf",
+      "gerichte_erster_instanz": "Duisburg, Düsseldorf, Essen, Krefeld, Mönchengladbach, Oberhausen, Solingen, Wesel, Wuppertal"
+    },
+    {
+      "gerichtsbarkeit": "Arbeitsgerichtsbarkeit",
+      "land": "Nordrhein-Westfalen",
+      "obergericht": "Landesarbeitsgericht Hamm",
+      "gerichte_erster_instanz": "Arnsberg, Bielefeld, Bocholt, Bochum, Detmold, Dortmund, Gelsenkirchen, Hagen, Hamm, Herford, Herne, Iserlohn, Minden, Münster, Paderborn, Rheine, Siegen"
+    },
+    {
+      "gerichtsbarkeit": "Arbeitsgerichtsbarkeit",
+      "land": "Nordrhein-Westfalen",
+      "obergericht": "Landesarbeitsgericht Köln",
+      "gerichte_erster_instanz": "Aachen, Bonn, Köln, Siegburg"
+    },
+    {
+      "gerichtsbarkeit": "Arbeitsgerichtsbarkeit",
+      "land": "Rheinland-Pfalz",
+      "obergericht": "Landesarbeitsgericht Rheinland-Pfalz (in Mainz)",
+      "gerichte_erster_instanz": "Kaiserslautern, Koblenz, Ludwigshafen am Rhein, Mainz, Trier"
+    },
+    {
+      "gerichtsbarkeit": "Arbeitsgerichtsbarkeit",
+      "land": "Saarland",
+      "obergericht": "Landesarbeitsgericht Saarland (in Saarbrücken)",
+      "gerichte_erster_instanz": "Arbeitsgericht Saarland (in Saarbrücken)"
+    },
+    {
+      "gerichtsbarkeit": "Arbeitsgerichtsbarkeit",
+      "land": "Sachsen",
+      "obergericht": "Sächsisches Landesarbeitsgericht (in Chemnitz)",
+      "gerichte_erster_instanz": "Bautzen, Chemnitz, Dresden, Leipzig, Zwickau"
+    },
+    {
+      "gerichtsbarkeit": "Arbeitsgerichtsbarkeit",
+      "land": "Sachsen-Anhalt",
+      "obergericht": "Landesarbeitsgericht Sachsen-Anhalt (in Halle (Saale))",
+      "gerichte_erster_instanz": "Dessau-Roßlau, Halle, Magdeburg, Stendal"
+    },
+    {
+      "gerichtsbarkeit": "Arbeitsgerichtsbarkeit",
+      "land": "Schleswig-Holstein",
+      "obergericht": "Landesarbeitsgericht Schleswig-Holstein (in Kiel)",
+      "gerichte_erster_instanz": "Elmshorn, Flensburg, Kiel, Lübeck, Neumünster"
+    },
+    {
+      "gerichtsbarkeit": "Arbeitsgerichtsbarkeit",
+      "land": "Thüringen",
+      "obergericht": "Thüringer Landesarbeitsgericht (in Erfurt)",
+      "gerichte_erster_instanz": "Erfurt, Gera, Nordhausen, Suhl"
+    },
+    {
+      "gerichtsbarkeit": "Finanzgerichtsbarkeit",
+      "land": "Baden-Württemberg",
+      "obergericht": "Finanzgericht Baden-Württemberg (in Stuttgart, Außenstelle in Freiburg)",
+      "gerichte_erster_instanz": ""
+    },
+    {
+      "gerichtsbarkeit": "Finanzgerichtsbarkeit",
+      "land": "Bayern",
+      "obergericht": "Finanzgericht München (Außensenate in Augsburg), Nürnberg",
+      "gerichte_erster_instanz": ""
+    },
+    {
+      "gerichtsbarkeit": "Finanzgerichtsbarkeit",
+      "land": "Berlin und Brandenburg",
+      "obergericht": "Finanzgericht Berlin-Brandenburg (in Cottbus)",
+      "gerichte_erster_instanz": ""
+    },
+    {
+      "gerichtsbarkeit": "Finanzgerichtsbarkeit",
+      "land": "Bremen",
+      "obergericht": "Finanzgericht Bremen",
+      "gerichte_erster_instanz": ""
+    },
+    {
+      "gerichtsbarkeit": "Finanzgerichtsbarkeit",
+      "land": "Hamburg",
+      "obergericht": "Finanzgericht Hamburg",
+      "gerichte_erster_instanz": ""
+    },
+    {
+      "gerichtsbarkeit": "Finanzgerichtsbarkeit",
+      "land": "Hessen",
+      "obergericht": "Hessisches Finanzgericht (in Kassel)",
+      "gerichte_erster_instanz": ""
+    },
+    {
+      "gerichtsbarkeit": "Finanzgerichtsbarkeit",
+      "land": "Mecklenburg-Vorpommern",
+      "obergericht": "Finanzgericht Mecklenburg-Vorpommern (in Greifswald)",
+      "gerichte_erster_instanz": ""
+    },
+    {
+      "gerichtsbarkeit": "Finanzgerichtsbarkeit",
+      "land": "Niedersachsen",
+      "obergericht": "Niedersächsisches Finanzgericht (in Hannover)",
+      "gerichte_erster_instanz": ""
+    },
+    {
+      "gerichtsbarkeit": "Finanzgerichtsbarkeit",
+      "land": "Nordrhein-Westfalen",
+      "obergericht": "Finanzgericht Düsseldorf, Köln, Münster",
+      "gerichte_erster_instanz": ""
+    },
+    {
+      "gerichtsbarkeit": "Finanzgerichtsbarkeit",
+      "land": "Rheinland-Pfalz",
+      "obergericht": "Finanzgericht Rheinland-Pfalz (in Neustadt an der Weinstraße)",
+      "gerichte_erster_instanz": ""
+    },
+    {
+      "gerichtsbarkeit": "Finanzgerichtsbarkeit",
+      "land": "Saarland",
+      "obergericht": "Finanzgericht des Saarlandes (in Saarbrücken)",
+      "gerichte_erster_instanz": ""
+    },
+    {
+      "gerichtsbarkeit": "Finanzgerichtsbarkeit",
+      "land": "Sachsen",
+      "obergericht": "Sächsisches Finanzgericht (in Leipzig)",
+      "gerichte_erster_instanz": ""
+    },
+    {
+      "gerichtsbarkeit": "Finanzgerichtsbarkeit",
+      "land": "Sachsen-Anhalt",
+      "obergericht": "Finanzgericht des Landes Sachsen-Anhalt (in Dessau-Roßlau)",
+      "gerichte_erster_instanz": ""
+    },
+    {
+      "gerichtsbarkeit": "Finanzgerichtsbarkeit",
+      "land": "Schleswig-Holstein",
+      "obergericht": "Schleswig-Holsteinisches Finanzgericht (in Kiel)",
+      "gerichte_erster_instanz": ""
+    },
+    {
+      "gerichtsbarkeit": "Finanzgerichtsbarkeit",
+      "land": "Thüringen",
+      "obergericht": "Thüringer Finanzgericht (in Gotha)",
+      "gerichte_erster_instanz": ""
+    },
+    {
+      "gerichtsbarkeit": "Sozialgerichtsbarkeit",
+      "land": "Baden-Württemberg",
+      "obergericht": "Landessozialgericht Baden-Württemberg (in Stuttgart)",
+      "gerichte_erster_instanz": "Freiburg, Heilbronn, Karlsruhe, Konstanz, Mannheim, Reutlingen, Stuttgart, Ulm"
+    },
+    {
+      "gerichtsbarkeit": "Sozialgerichtsbarkeit",
+      "land": "Bayern",
+      "obergericht": "Bayerisches Landessozialgericht (in München, Zweigstelle in Schweinfurt)",
+      "gerichte_erster_instanz": "Augsburg, Bayreuth, Landshut, München, Nürnberg, Regensburg, Würzburg"
+    },
+    {
+      "gerichtsbarkeit": "Sozialgerichtsbarkeit",
+      "land": "Berlin und Brandenburg",
+      "obergericht": "Landessozialgericht Berlin-Brandenburg (in Potsdam)",
+      "gerichte_erster_instanz": "Berlin, Cottbus, Frankfurt (Oder), Neuruppin, Potsdam"
+    },
+    {
+      "gerichtsbarkeit": "Sozialgerichtsbarkeit",
+      "land": "Bremen und Niedersachsen",
+      "obergericht": "Landessozialgericht Niedersachsen-Bremen (in Celle, Zweigstelle in Bremen)",
+      "gerichte_erster_instanz": "Aurich, Braunschweig, Bremen, Hannover, Hildesheim, Lüneburg, Oldenburg, Osnabrück, Stade"
+    },
+    {
+      "gerichtsbarkeit": "Sozialgerichtsbarkeit",
+      "land": "Hamburg",
+      "obergericht": "Landessozialgericht Hamburg",
+      "gerichte_erster_instanz": "Sozialgericht Hamburg"
+    },
+    {
+      "gerichtsbarkeit": "Sozialgerichtsbarkeit",
+      "land": "Hessen",
+      "obergericht": "Hessisches Landessozialgericht (in Darmstadt)",
+      "gerichte_erster_instanz": "Darmstadt, Frankfurt am Main, Fulda, Gießen, Kassel, Marburg, Wiesbaden"
+    },
+    {
+      "gerichtsbarkeit": "Sozialgerichtsbarkeit",
+      "land": "Mecklenburg-Vorpommern",
+      "obergericht": "Landessozialgericht Mecklenburg-Vorpommern (in Neustrelitz)",
+      "gerichte_erster_instanz": "Neubrandenburg, Rostock, Schwerin, Stralsund"
+    },
+    {
+      "gerichtsbarkeit": "Sozialgerichtsbarkeit",
+      "land": "Nordrhein-Westfalen",
+      "obergericht": "Landessozialgericht Nordrhein-Westfalen (in Essen)",
+      "gerichte_erster_instanz": "Aachen, Detmold, Dortmund, Düsseldorf, Duisburg, Gelsenkirchen, Köln, Münster"
+    },
+    {
+      "gerichtsbarkeit": "Sozialgerichtsbarkeit",
+      "land": "Rheinland-Pfalz",
+      "obergericht": "Landessozialgericht Rheinland-Pfalz (in Mainz)",
+      "gerichte_erster_instanz": "Koblenz, Mainz, Speyer, Trier"
+    },
+    {
+      "gerichtsbarkeit": "Sozialgerichtsbarkeit",
+      "land": "Saarland",
+      "obergericht": "Landessozialgericht für das Saarland (in Saarbrücken)",
+      "gerichte_erster_instanz": "Sozialgericht Saarbrücken"
+    },
+    {
+      "gerichtsbarkeit": "Sozialgerichtsbarkeit",
+      "land": "Sachsen",
+      "obergericht": "Sächsisches Landessozialgericht (in Chemnitz)",
+      "gerichte_erster_instanz": "Chemnitz, Dresden, Leipzig"
+    },
+    {
+      "gerichtsbarkeit": "Sozialgerichtsbarkeit",
+      "land": "Sachsen-Anhalt",
+      "obergericht": "Landessozialgericht Sachsen-Anhalt (in Halle (Saale))",
+      "gerichte_erster_instanz": "Dessau-Roßlau, Halle, Magdeburg"
+    },
+    {
+      "gerichtsbarkeit": "Sozialgerichtsbarkeit",
+      "land": "Schleswig-Holstein",
+      "obergericht": "Schleswig-Holsteinisches Landessozialgericht (in Schleswig)",
+      "gerichte_erster_instanz": "Itzehoe, Kiel, Lübeck, Schleswig"
+    },
+    {
+      "gerichtsbarkeit": "Sozialgerichtsbarkeit",
+      "land": "Thüringen",
+      "obergericht": "Thüringer Landessozialgericht (in Erfurt)",
+      "gerichte_erster_instanz": "Altenburg, Gotha, Meiningen, Nordhausen"
+    },
+    {
+      "gerichtsbarkeit": "Verwaltungsgerichtsbarkeit",
+      "land": "Baden-Württemberg",
+      "obergericht": "Verwaltungsgerichtshof Baden-Württemberg (in Mannheim)",
+      "gerichte_erster_instanz": "Freiburg, Karlsruhe, Sigmaringen, Stuttgart"
+    },
+    {
+      "gerichtsbarkeit": "Verwaltungsgerichtsbarkeit",
+      "land": "Bayern",
+      "obergericht": "Bayerischer Verwaltungsgerichtshof (in München)",
+      "gerichte_erster_instanz": "Ansbach, Augsburg, Bayreuth, München, Regensburg, Würzburg"
+    },
+    {
+      "gerichtsbarkeit": "Verwaltungsgerichtsbarkeit",
+      "land": "Berlin und Brandenburg",
+      "obergericht": "Oberverwaltungsgericht Berlin-Brandenburg (in Berlin)",
+      "gerichte_erster_instanz": "Berlin, Cottbus, Frankfurt (Oder), Potsdam"
+    },
+    {
+      "gerichtsbarkeit": "Verwaltungsgerichtsbarkeit",
+      "land": "Bremen",
+      "obergericht": "Oberverwaltungsgericht der Freien Hansestadt Bremen (in Bremen)",
+      "gerichte_erster_instanz": "Verwaltungsgericht der Freien Hansestadt Bremen (in Bremen)"
+    },
+    {
+      "gerichtsbarkeit": "Verwaltungsgerichtsbarkeit",
+      "land": "Hamburg",
+      "obergericht": "Hamburgisches Oberverwaltungsgericht",
+      "gerichte_erster_instanz": "Verwaltungsgericht Hamburg"
+    },
+    {
+      "gerichtsbarkeit": "Verwaltungsgerichtsbarkeit",
+      "land": "Hessen",
+      "obergericht": "Hessischer Verwaltungsgerichtshof (in Kassel)",
+      "gerichte_erster_instanz": "Darmstadt, Frankfurt am Main, Gießen, Kassel, Wiesbaden"
+    },
+    {
+      "gerichtsbarkeit": "Verwaltungsgerichtsbarkeit",
+      "land": "Mecklenburg-Vorpommern",
+      "obergericht": "Oberverwaltungsgericht Mecklenburg-Vorpommern (in Greifswald)",
+      "gerichte_erster_instanz": "Schwerin, Greifswald"
+    },
+    {
+      "gerichtsbarkeit": "Verwaltungsgerichtsbarkeit",
+      "land": "Niedersachsen",
+      "obergericht": "Niedersächsisches Oberverwaltungsgericht (in Lüneburg)",
+      "gerichte_erster_instanz": "Braunschweig, Göttingen, Hannover, Lüneburg, Oldenburg, Osnabrück, Stade"
+    },
+    {
+      "gerichtsbarkeit": "Verwaltungsgerichtsbarkeit",
+      "land": "Nordrhein-Westfalen",
+      "obergericht": "Oberverwaltungsgericht für das Land Nordrhein-Westfalen (in Münster)",
+      "gerichte_erster_instanz": "Aachen, Arnsberg, Düsseldorf, Gelsenkirchen, Köln, Minden, Münster"
+    },
+    {
+      "gerichtsbarkeit": "Verwaltungsgerichtsbarkeit",
+      "land": "Rheinland-Pfalz",
+      "obergericht": "Oberverwaltungsgericht Rheinland-Pfalz (in Koblenz)",
+      "gerichte_erster_instanz": "Koblenz, Mainz, Neustadt an der Weinstraße, Trier"
+    },
+    {
+      "gerichtsbarkeit": "Verwaltungsgerichtsbarkeit",
+      "land": "Saarland",
+      "obergericht": "Oberverwaltungsgericht des Saarlandes (in Saarlouis)",
+      "gerichte_erster_instanz": "Verwaltungsgericht des Saarlandes (in Saarlouis)"
+    },
+    {
+      "gerichtsbarkeit": "Verwaltungsgerichtsbarkeit",
+      "land": "Sachsen",
+      "obergericht": "Sächsisches Oberverwaltungsgericht (in Bautzen)",
+      "gerichte_erster_instanz": "Chemnitz, Dresden, Leipzig"
+    },
+    {
+      "gerichtsbarkeit": "Verwaltungsgerichtsbarkeit",
+      "land": "Sachsen-Anhalt",
+      "obergericht": "Oberverwaltungsgericht des Landes Sachsen-Anhalt (in Magdeburg)",
+      "gerichte_erster_instanz": "Halle, Magdeburg"
+    },
+    {
+      "gerichtsbarkeit": "Verwaltungsgerichtsbarkeit",
+      "land": "Schleswig-Holstein",
+      "obergericht": "Schleswig-Holsteinisches Oberverwaltungsgericht (in Schleswig)",
+      "gerichte_erster_instanz": "Schleswig-Holsteinisches Verwaltungsgericht (in Schleswig)"
+    },
+    {
+      "gerichtsbarkeit": "Verwaltungsgerichtsbarkeit",
+      "land": "Thüringen",
+      "obergericht": "Thüringer Oberverwaltungsgericht (in Weimar)",
+      "gerichte_erster_instanz": "Gera, Meiningen, Weimar"
+    }
+  ],
+  "meta": {
+    "title": "Fachgerichte in Deutschland nach Bundesland - Free Download",
+    "description": "Arbeits-, Finanz-, Sozial- und Verwaltungsgerichte der Länder: Landesarbeits-, Landessozial-, Oberverwaltungs- und Finanzgerichte mit den Gerichten erster Instanz. Contains 62 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Fachgerichte in Deutschland nach Bundesland | ListBase",
+    "seo_description": "Download Fachgerichte in Deutschland nach Bundesland — 62 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 62 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_deutscher_Gerichte"
+    ]
+  }
+}
