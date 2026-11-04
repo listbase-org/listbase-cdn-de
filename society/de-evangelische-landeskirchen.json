@@ -1,0 +1,266 @@
+{
+  "id": "de-evangelische-landeskirchen",
+  "name": "Evangelische Landeskirchen in Deutschland (EKD)",
+  "title": "Evangelische Landeskirchen in Deutschland (EKD)",
+  "description": "Die Gliedkirchen der EKD mit leitendem Geistlichen, Bekenntnis, Mitgliederzahl, Gemeinden, Kirchenkreisen und Verwaltungssitz (Stand 31.12.2025).",
+  "category": "society",
+  "source": "https://de.wikipedia.org/wiki/Evangelische_Kirche_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Evangelische_Kirche_in_Deutschland",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "landeskirche",
+      "label": "Landeskirche",
+      "type": "string"
+    },
+    {
+      "key": "leitender_geistlicher",
+      "label": "Leitender Geistlicher",
+      "type": "string"
+    },
+    {
+      "key": "bekenntnis",
+      "label": "Bekenntnis",
+      "type": "string"
+    },
+    {
+      "key": "weitere_mitgliedschaften",
+      "label": "Weitere Mitgliedschaften",
+      "type": "string"
+    },
+    {
+      "key": "mitglieder_2025",
+      "label": "Mitglieder 2025",
+      "type": "number"
+    },
+    {
+      "key": "gemeinden_2025",
+      "label": "Gemeinden 2025",
+      "type": "number"
+    },
+    {
+      "key": "kirchenkreise",
+      "label": "Kirchenkreise",
+      "type": "number"
+    },
+    {
+      "key": "verwaltungssitz",
+      "label": "Verwaltungssitz",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "landeskirche": "Evang. Landeskirche Anhalts",
+      "leitender_geistlicher": "Kirchenpräsident Karsten Wolkenhauer",
+      "bekenntnis": "uniert",
+      "weitere_mitgliedschaften": "UEK",
+      "mitglieder_2025": 23156,
+      "gemeinden_2025": 123,
+      "kirchenkreise": 5,
+      "verwaltungssitz": "Dessau-Roßlau"
+    },
+    {
+      "landeskirche": "Evang. Landeskirche in Baden",
+      "leitender_geistlicher": "Landesbischöfin Heike Springhart",
+      "bekenntnis": "uniert",
+      "weitere_mitgliedschaften": "UEK",
+      "mitglieder_2025": 945054,
+      "gemeinden_2025": 458,
+      "kirchenkreise": 29,
+      "verwaltungssitz": "Karlsruhe"
+    },
+    {
+      "landeskirche": "Evang.-Luth. Kirche in Bayern",
+      "leitender_geistlicher": "Landesbischof Christian Kopp",
+      "bekenntnis": "lutherisch",
+      "weitere_mitgliedschaften": "VELKD, Lutherischer Weltbund",
+      "mitglieder_2025": 1968531,
+      "gemeinden_2025": 1524,
+      "kirchenkreise": 68,
+      "verwaltungssitz": "München"
+    },
+    {
+      "landeskirche": "Evang. Kirche in Berlin-Brandenburg-schlesische Oberlausitz",
+      "leitender_geistlicher": "Bischof Christian Stäblein",
+      "bekenntnis": "uniert",
+      "weitere_mitgliedschaften": "UEK",
+      "mitglieder_2025": 745679,
+      "gemeinden_2025": 520,
+      "kirchenkreise": 35,
+      "verwaltungssitz": "Berlin"
+    },
+    {
+      "landeskirche": "Evang.-Luth. Landeskirche in Braunschweig",
+      "leitender_geistlicher": "Landesbischöfin Christina-Maria Bammel",
+      "bekenntnis": "lutherisch",
+      "weitere_mitgliedschaften": "Konf.ev.Ki.Nds, VELKD, Lutherischer Weltbund",
+      "mitglieder_2025": 264300,
+      "gemeinden_2025": 263,
+      "kirchenkreise": 13,
+      "verwaltungssitz": "Wolfenbüttel"
+    },
+    {
+      "landeskirche": "Bremische Evangelische Kirche",
+      "leitender_geistlicher": "Schriftführer: Bernd Kuschnerus",
+      "bekenntnis": "uniert",
+      "weitere_mitgliedschaften": "UEK",
+      "mitglieder_2025": 147745,
+      "gemeinden_2025": 52,
+      "kirchenkreise": 0,
+      "verwaltungssitz": "Bremen"
+    },
+    {
+      "landeskirche": "Evang.-luth. Landeskirche Hannovers",
+      "leitender_geistlicher": "Landesbischof Ralf Meister",
+      "bekenntnis": "lutherisch",
+      "weitere_mitgliedschaften": "Konf.ev.Ki.Nds, VELKD, Lutherischer Weltbund",
+      "mitglieder_2025": 2096179,
+      "gemeinden_2025": 1321,
+      "kirchenkreise": 57,
+      "verwaltungssitz": "Hannover"
+    },
+    {
+      "landeskirche": "Evang. Kirche in Hessen und Nassau",
+      "leitender_geistlicher": "Kirchenpräsidentin Christiane Tietz",
+      "bekenntnis": "uniert",
+      "weitere_mitgliedschaften": "UEK",
+      "mitglieder_2025": 1219179,
+      "gemeinden_2025": 1018,
+      "kirchenkreise": 47,
+      "verwaltungssitz": "Darmstadt"
+    },
+    {
+      "landeskirche": "Evang. Kirche von Kurhessen-Waldeck",
+      "leitender_geistlicher": "Bischöfin Beate Hofmann",
+      "bekenntnis": "uniert",
+      "weitere_mitgliedschaften": "UEK",
+      "mitglieder_2025": 666489,
+      "gemeinden_2025": 619,
+      "kirchenkreise": 26,
+      "verwaltungssitz": "Kassel"
+    },
+    {
+      "landeskirche": "Lippische Landeskirche",
+      "leitender_geistlicher": "(zurzeit vakant)",
+      "bekenntnis": "überwiegend reformiert, mit lutherischer Minderheit",
+      "weitere_mitgliedschaften": "UEK, Reformierter Bund, Lutherischer Weltbund (Lutherische Klasse)",
+      "mitglieder_2025": 126071,
+      "gemeinden_2025": 65,
+      "kirchenkreise": 5,
+      "verwaltungssitz": "Detmold"
+    },
+    {
+      "landeskirche": "Evang. Kirche in Mitteldeutschland",
+      "leitender_geistlicher": "Landesbischof Friedrich Kramer",
+      "bekenntnis": "uniert",
+      "weitere_mitgliedschaften": "UEK, VELKD, Lutherischer Weltbund",
+      "mitglieder_2025": 552320,
+      "gemeinden_2025": 1715,
+      "kirchenkreise": 38,
+      "verwaltungssitz": "Magdeburg, Erfurt"
+    },
+    {
+      "landeskirche": "Evang.-Luth. Kirche in Norddeutschland (Nordkirche)",
+      "leitender_geistlicher": "Landesbischöfin Kristina Kühnbaum-Schmidt",
+      "bekenntnis": "lutherisch",
+      "weitere_mitgliedschaften": "VELKD, Lutherischer Weltbund",
+      "mitglieder_2025": 1583785,
+      "gemeinden_2025": 850,
+      "kirchenkreise": 14,
+      "verwaltungssitz": "Kiel, Schwerin"
+    },
+    {
+      "landeskirche": "Evang.-Luth. Kirche in Oldenburg",
+      "leitender_geistlicher": "Bischof Thomas Adomeit",
+      "bekenntnis": "lutherisch",
+      "weitere_mitgliedschaften": "Konf.ev.Ki.Nds, Lutherischer Weltbund, Gaststatus in VELKD und UEK",
+      "mitglieder_2025": 337863,
+      "gemeinden_2025": 107,
+      "kirchenkreise": 6,
+      "verwaltungssitz": "Oldenburg"
+    },
+    {
+      "landeskirche": "Evang. Kirche der Pfalz",
+      "leitender_geistlicher": "Kirchenpräsidentin Dorothee Wüst",
+      "bekenntnis": "uniert",
+      "weitere_mitgliedschaften": "UEK",
+      "mitglieder_2025": 415536,
+      "gemeinden_2025": 374,
+      "kirchenkreise": 20,
+      "verwaltungssitz": "Speyer"
+    },
+    {
+      "landeskirche": "Evangelisch-reformierte Kirche",
+      "leitender_geistlicher": "Kirchenpräsidentin Susanne Bei der Wieden",
+      "bekenntnis": "reformiert",
+      "weitere_mitgliedschaften": "UEK, Reformierter Bund",
+      "mitglieder_2025": 146848,
+      "gemeinden_2025": 136,
+      "kirchenkreise": 11,
+      "verwaltungssitz": "Leer (Ostfriesland)"
+    },
+    {
+      "landeskirche": "Evangelische Kirche im Rheinland",
+      "leitender_geistlicher": "Präses Thorsten Latzel",
+      "bekenntnis": "uniert",
+      "weitere_mitgliedschaften": "UEK",
+      "mitglieder_2025": 2054811,
+      "gemeinden_2025": 576,
+      "kirchenkreise": 38,
+      "verwaltungssitz": "Düsseldorf"
+    },
+    {
+      "landeskirche": "Evang.-Luth. Landeskirche Sachsens",
+      "leitender_geistlicher": "Landesbischof Tobias Bilz",
+      "bekenntnis": "lutherisch",
+      "weitere_mitgliedschaften": "VELKD, Lutherischer Weltbund",
+      "mitglieder_2025": 557793,
+      "gemeinden_2025": 289,
+      "kirchenkreise": 25,
+      "verwaltungssitz": "Dresden"
+    },
+    {
+      "landeskirche": "Evang.-Luth. Landeskirche Schaumburg-Lippe",
+      "leitender_geistlicher": "Landesbischof Oliver Schuegraf",
+      "bekenntnis": "lutherisch",
+      "weitere_mitgliedschaften": "Konf.ev.Ki.Nds, VELKD, Lutherischer Weltbund",
+      "mitglieder_2025": 41946,
+      "gemeinden_2025": 22,
+      "kirchenkreise": 2,
+      "verwaltungssitz": "Bückeburg"
+    },
+    {
+      "landeskirche": "Evangelische Kirche von Westfalen",
+      "leitender_geistlicher": "Präses Adelheid Ruck-Schröder",
+      "bekenntnis": "uniert",
+      "weitere_mitgliedschaften": "UEK",
+      "mitglieder_2025": 1825128,
+      "gemeinden_2025": 422,
+      "kirchenkreise": 31,
+      "verwaltungssitz": "Bielefeld"
+    },
+    {
+      "landeskirche": "Evang. Landeskirche in Württemberg",
+      "leitender_geistlicher": "Landesbischof Ernst-Wilhelm Gohl",
+      "bekenntnis": "lutherisch",
+      "weitere_mitgliedschaften": "Lutherischer Weltbund, Gaststatus in VELKD und UEK",
+      "mitglieder_2025": 1673041,
+      "gemeinden_2025": 982,
+      "kirchenkreise": 48,
+      "verwaltungssitz": "Stuttgart"
+    }
+  ],
+  "meta": {
+    "title": "Evangelische Landeskirchen in Deutschland (EKD) - Free Download",
+    "description": "Die Gliedkirchen der EKD mit leitendem Geistlichen, Bekenntnis, Mitgliederzahl, Gemeinden, Kirchenkreisen und Verwaltungssitz (Stand 31.12.2025). Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Evangelische Landeskirchen in Deutschland (EKD) | ListBase",
+    "seo_description": "Download Evangelische Landeskirchen in Deutschland (EKD) — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Evangelische_Kirche_in_Deutschland"
+    ]
+  }
+}

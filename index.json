@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-04T02:18:38.428Z",
-  "total_datasets": 526,
-  "total_records": 1876716,
+  "generated": "2026-11-04T02:18:45.559Z",
+  "total_datasets": 527,
+  "total_records": 1876736,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -12066,6 +12066,35 @@
         "xlsx": {
           "name": "de-bundeslaender-bevoelkerungsentwicklung_DE.xlsx",
           "size": 8220
+        }
+      }
+    },
+    {
+      "id": "de-evangelische-landeskirchen",
+      "name": "Evangelische Landeskirchen in Deutschland (EKD)",
+      "category": "society",
+      "record_count": 20,
+      "columns": [
+        "landeskirche",
+        "leitender_geistlicher",
+        "bekenntnis",
+        "weitere_mitgliedschaften",
+        "mitglieder_2025",
+        "gemeinden_2025",
+        "kirchenkreise",
+        "verwaltungssitz"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Evangelische_Kirche_in_Deutschland",
+      "updated": "2026-11",
+      "size": 9429,
+      "files": {
+        "csv": {
+          "name": "de-evangelische-landeskirchen_DE.csv",
+          "size": 3025
+        },
+        "xlsx": {
+          "name": "de-evangelische-landeskirchen_DE.xlsx",
+          "size": 8570
         }
       }
     },
