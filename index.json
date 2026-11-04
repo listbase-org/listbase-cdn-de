@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-03T02:22:58.879Z",
-  "total_datasets": 522,
-  "total_records": 1876462,
+  "generated": "2026-11-04T02:18:19.281Z",
+  "total_datasets": 523,
+  "total_records": 1876577,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "music",
@@ -5437,6 +5437,32 @@
         "xlsx": {
           "name": "de-bundesminister-der-justiz_DE.xlsx",
           "size": 8692
+        }
+      }
+    },
+    {
+      "id": "de-landgerichte-amtsgerichte",
+      "name": "Landgerichte und Amtsgerichte in Deutschland",
+      "category": "law",
+      "record_count": 115,
+      "columns": [
+        "land",
+        "oberlandesgericht",
+        "landgericht",
+        "amtsgerichte",
+        "anzahl_amtsgerichte"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_deutscher_Gerichte",
+      "updated": "2026-11",
+      "size": 36826,
+      "files": {
+        "csv": {
+          "name": "de-landgerichte-amtsgerichte_DE.csv",
+          "size": 20370
+        },
+        "xlsx": {
+          "name": "de-landgerichte-amtsgerichte_DE.xlsx",
+          "size": 14191
         }
       }
     },

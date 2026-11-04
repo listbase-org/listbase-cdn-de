@@ -1,0 +1,856 @@
+{
+  "id": "de-landgerichte-amtsgerichte",
+  "name": "Landgerichte und Amtsgerichte in Deutschland",
+  "title": "Landgerichte und Amtsgerichte in Deutschland",
+  "description": "Alle Landgerichte der ordentlichen Gerichtsbarkeit in Deutschland mit zuständigem Oberlandesgericht, Bundesland und den zugehörigen Amtsgerichten.",
+  "category": "law",
+  "source": "https://de.wikipedia.org/wiki/Liste_deutscher_Gerichte",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_deutscher_Gerichte",
+  "updated": "2026-11",
+  "record_count": 115,
+  "columns": [
+    {
+      "key": "land",
+      "label": "Land",
+      "type": "string"
+    },
+    {
+      "key": "oberlandesgericht",
+      "label": "Oberlandesgericht",
+      "type": "string"
+    },
+    {
+      "key": "landgericht",
+      "label": "Landgericht",
+      "type": "string"
+    },
+    {
+      "key": "amtsgerichte",
+      "label": "Amtsgerichte",
+      "type": "string"
+    },
+    {
+      "key": "anzahl_amtsgerichte",
+      "label": "Anzahl Amtsgerichte",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "land": "Baden-Württemberg",
+      "oberlandesgericht": "Oberlandesgericht Karlsruhe (mit Außenstelle in Freiburg im Breisgau)",
+      "landgericht": "Landgericht Baden-Baden",
+      "amtsgerichte": "Achern, Baden-Baden, Bühl, Gernsbach, Rastatt",
+      "anzahl_amtsgerichte": 5
+    },
+    {
+      "land": "Baden-Württemberg",
+      "oberlandesgericht": "Oberlandesgericht Karlsruhe (mit Außenstelle in Freiburg im Breisgau)",
+      "landgericht": "Landgericht Freiburg",
+      "amtsgerichte": "Breisach, Emmendingen, Ettenheim, Freiburg im Breisgau, Kenzingen, Lörrach, Müllheim (Baden), Staufen im Breisgau, Titisee-Neustadt, Waldkirch",
+      "anzahl_amtsgerichte": 10
+    },
+    {
+      "land": "Baden-Württemberg",
+      "oberlandesgericht": "Oberlandesgericht Karlsruhe (mit Außenstelle in Freiburg im Breisgau)",
+      "landgericht": "Landgericht Heidelberg",
+      "amtsgerichte": "Heidelberg, Sinsheim, Wiesloch",
+      "anzahl_amtsgerichte": 3
+    },
+    {
+      "land": "Baden-Württemberg",
+      "oberlandesgericht": "Oberlandesgericht Karlsruhe (mit Außenstelle in Freiburg im Breisgau)",
+      "landgericht": "Landgericht Karlsruhe",
+      "amtsgerichte": "Bretten, Bruchsal, Ettlingen, Karlsruhe, Karlsruhe-Durlach, Maulbronn, Pforzheim, Philippsburg",
+      "anzahl_amtsgerichte": 8
+    },
+    {
+      "land": "Baden-Württemberg",
+      "oberlandesgericht": "Oberlandesgericht Karlsruhe (mit Außenstelle in Freiburg im Breisgau)",
+      "landgericht": "Landgericht Konstanz",
+      "amtsgerichte": "Donaueschingen, Konstanz, Radolfzell, Singen (Hohentwiel), Stockach, Überlingen, Villingen-Schwenningen",
+      "anzahl_amtsgerichte": 7
+    },
+    {
+      "land": "Baden-Württemberg",
+      "oberlandesgericht": "Oberlandesgericht Karlsruhe (mit Außenstelle in Freiburg im Breisgau)",
+      "landgericht": "Landgericht Mannheim",
+      "amtsgerichte": "Mannheim, Schwetzingen, Weinheim",
+      "anzahl_amtsgerichte": 3
+    },
+    {
+      "land": "Baden-Württemberg",
+      "oberlandesgericht": "Oberlandesgericht Karlsruhe (mit Außenstelle in Freiburg im Breisgau)",
+      "landgericht": "Landgericht Mosbach",
+      "amtsgerichte": "Adelsheim, Buchen (Odenwald), Mosbach, Tauberbischofsheim, Wertheim",
+      "anzahl_amtsgerichte": 5
+    },
+    {
+      "land": "Baden-Württemberg",
+      "oberlandesgericht": "Oberlandesgericht Karlsruhe (mit Außenstelle in Freiburg im Breisgau)",
+      "landgericht": "Landgericht Offenburg",
+      "amtsgerichte": "Gengenbach, Kehl, Lahr, Oberkirch, Offenburg, Wolfach",
+      "anzahl_amtsgerichte": 6
+    },
+    {
+      "land": "Baden-Württemberg",
+      "oberlandesgericht": "Oberlandesgericht Karlsruhe (mit Außenstelle in Freiburg im Breisgau)",
+      "landgericht": "Landgericht Waldshut-Tiengen",
+      "amtsgerichte": "Bad Säckingen, St. Blasien, Schönau, Schopfheim, Waldshut-Tiengen",
+      "anzahl_amtsgerichte": 5
+    },
+    {
+      "land": "Baden-Württemberg",
+      "oberlandesgericht": "Oberlandesgericht Stuttgart",
+      "landgericht": "Landgericht Ellwangen/Jagst",
+      "amtsgerichte": "Aalen, Bad Mergentheim, Crailsheim, Ellwangen, Heidenheim an der Brenz, Langenburg, Neresheim, Schwäbisch Gmünd",
+      "anzahl_amtsgerichte": 8
+    },
+    {
+      "land": "Baden-Württemberg",
+      "oberlandesgericht": "Oberlandesgericht Stuttgart",
+      "landgericht": "Landgericht Hechingen",
+      "amtsgerichte": "Albstadt, Balingen, Hechingen, Sigmaringen",
+      "anzahl_amtsgerichte": 4
+    },
+    {
+      "land": "Baden-Württemberg",
+      "oberlandesgericht": "Oberlandesgericht Stuttgart",
+      "landgericht": "Landgericht Heilbronn",
+      "amtsgerichte": "Besigheim, Brackenheim, Heilbronn, Künzelsau, Marbach am Neckar, Öhringen, Schwäbisch Hall, Vaihingen an der Enz",
+      "anzahl_amtsgerichte": 8
+    },
+    {
+      "land": "Baden-Württemberg",
+      "oberlandesgericht": "Oberlandesgericht Stuttgart",
+      "landgericht": "Landgericht Ravensburg",
+      "amtsgerichte": "Bad Saulgau, Bad Waldsee, Biberach an der Riß, Leutkirch im Allgäu, Ravensburg, Riedlingen, Tettnang, Wangen im Allgäu",
+      "anzahl_amtsgerichte": 8
+    },
+    {
+      "land": "Baden-Württemberg",
+      "oberlandesgericht": "Oberlandesgericht Stuttgart",
+      "landgericht": "Landgericht Rottweil",
+      "amtsgerichte": "Freudenstadt, Horb am Neckar, Oberndorf am Neckar, Rottweil, Spaichingen, Tuttlingen",
+      "anzahl_amtsgerichte": 6
+    },
+    {
+      "land": "Baden-Württemberg",
+      "oberlandesgericht": "Oberlandesgericht Stuttgart",
+      "landgericht": "Landgericht Stuttgart",
+      "amtsgerichte": "Backnang, Böblingen, Esslingen am Neckar, Kirchheim unter Teck, Leonberg, Ludwigsburg, Nürtingen, Schorndorf, Stuttgart, Stuttgart-Bad Cannstatt, Waiblingen",
+      "anzahl_amtsgerichte": 11
+    },
+    {
+      "land": "Baden-Württemberg",
+      "oberlandesgericht": "Oberlandesgericht Stuttgart",
+      "landgericht": "Landgericht Tübingen",
+      "amtsgerichte": "Bad Urach, Calw, Münsingen, Nagold, Reutlingen, Rottenburg am Neckar, Tübingen",
+      "anzahl_amtsgerichte": 7
+    },
+    {
+      "land": "Baden-Württemberg",
+      "oberlandesgericht": "Oberlandesgericht Stuttgart",
+      "landgericht": "Landgericht Ulm",
+      "amtsgerichte": "Ehingen (Donau), Geislingen an der Steige, Göppingen, Ulm",
+      "anzahl_amtsgerichte": 4
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht Bamberg",
+      "landgericht": "Landgericht Aschaffenburg",
+      "amtsgerichte": "Aschaffenburg mit Zweigstelle Alzenau i. UFr., Obernburg am Main mit Zweigstelle Miltenberg",
+      "anzahl_amtsgerichte": 2
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht Bamberg",
+      "landgericht": "Landgericht Bamberg",
+      "amtsgerichte": "Bamberg, Forchheim, Haßfurt",
+      "anzahl_amtsgerichte": 3
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht Bamberg",
+      "landgericht": "Landgericht Bayreuth",
+      "amtsgerichte": "Bayreuth, Kulmbach",
+      "anzahl_amtsgerichte": 2
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht Bamberg",
+      "landgericht": "Landgericht Coburg",
+      "amtsgerichte": "Coburg, Kronach, Lichtenfels",
+      "anzahl_amtsgerichte": 3
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht Bamberg",
+      "landgericht": "Landgericht Hof/Saale",
+      "amtsgerichte": "Hof (Saale), Wunsiedel",
+      "anzahl_amtsgerichte": 2
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht Bamberg",
+      "landgericht": "Landgericht Schweinfurt",
+      "amtsgerichte": "Bad Neustadt an der Saale, Bad Kissingen, Schweinfurt",
+      "anzahl_amtsgerichte": 3
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht Bamberg",
+      "landgericht": "Landgericht Würzburg",
+      "amtsgerichte": "Gemünden am Main, Kitzingen, Würzburg",
+      "anzahl_amtsgerichte": 3
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht München (mit Außenstelle in Augsburg)",
+      "landgericht": "Landgericht Augsburg",
+      "amtsgerichte": "Aichach, Augsburg, Dillingen an der Donau, Landsberg am Lech, Nördlingen",
+      "anzahl_amtsgerichte": 5
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht München (mit Außenstelle in Augsburg)",
+      "landgericht": "Landgericht Deggendorf",
+      "amtsgerichte": "Deggendorf, Viechtach",
+      "anzahl_amtsgerichte": 2
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht München (mit Außenstelle in Augsburg)",
+      "landgericht": "Landgericht Ingolstadt",
+      "amtsgerichte": "Ingolstadt, Neuburg an der Donau, Pfaffenhofen an der Ilm",
+      "anzahl_amtsgerichte": 3
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht München (mit Außenstelle in Augsburg)",
+      "landgericht": "Landgericht Kempten",
+      "amtsgerichte": "Kaufbeuren, Kempten, Lindau (Bodensee), Sonthofen",
+      "anzahl_amtsgerichte": 4
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht München (mit Außenstelle in Augsburg)",
+      "landgericht": "Landgericht Landshut",
+      "amtsgerichte": "Eggenfelden, Erding, Freising, Landau an der Isar, Landshut",
+      "anzahl_amtsgerichte": 5
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht München (mit Außenstelle in Augsburg)",
+      "landgericht": "Landgericht Memmingen",
+      "amtsgerichte": "Günzburg, Memmingen, Neu-Ulm",
+      "anzahl_amtsgerichte": 3
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht München (mit Außenstelle in Augsburg)",
+      "landgericht": "Landgericht München I",
+      "amtsgerichte": "München",
+      "anzahl_amtsgerichte": 1
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht München (mit Außenstelle in Augsburg)",
+      "landgericht": "Landgericht München II",
+      "amtsgerichte": "Dachau, Ebersberg, Fürstenfeldbruck, Garmisch-Partenkirchen, Miesbach, Starnberg, Weilheim in Oberbayern, Wolfratshausen",
+      "anzahl_amtsgerichte": 8
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht München (mit Außenstelle in Augsburg)",
+      "landgericht": "Landgericht Passau",
+      "amtsgerichte": "Freyung, Passau",
+      "anzahl_amtsgerichte": 2
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht München (mit Außenstelle in Augsburg)",
+      "landgericht": "Landgericht Traunstein",
+      "amtsgerichte": "Altötting, Laufen, Mühldorf am Inn, Rosenheim, Traunstein",
+      "anzahl_amtsgerichte": 5
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht Nürnberg",
+      "landgericht": "Landgericht Amberg",
+      "amtsgerichte": "Amberg, Schwandorf",
+      "anzahl_amtsgerichte": 2
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht Nürnberg",
+      "landgericht": "Landgericht Ansbach",
+      "amtsgerichte": "Ansbach, Weißenburg i. Bay.",
+      "anzahl_amtsgerichte": 2
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht Nürnberg",
+      "landgericht": "Landgericht Nürnberg-Fürth",
+      "amtsgerichte": "Erlangen, Fürth, Hersbruck, Neumarkt in der Oberpfalz, Neustadt an der Aisch, Nürnberg, Schwabach",
+      "anzahl_amtsgerichte": 7
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht Nürnberg",
+      "landgericht": "Landgericht Regensburg",
+      "amtsgerichte": "Cham, Kelheim, Regensburg, Straubing",
+      "anzahl_amtsgerichte": 4
+    },
+    {
+      "land": "Bayern besitzt als einziges Bundesland ein oberstes Landesgericht",
+      "oberlandesgericht": "Oberlandesgericht Nürnberg",
+      "landgericht": "Landgericht Weiden in der Oberpfalz",
+      "amtsgerichte": "Tirschenreuth, Weiden in der Oberpfalz",
+      "anzahl_amtsgerichte": 2
+    },
+    {
+      "land": "Berlin",
+      "oberlandesgericht": "Kammergericht in Berlin",
+      "landgericht": "Landgericht Berlin I (Strafsachen)",
+      "amtsgerichte": "Landgericht Berlin II (Zivilsachen), Charlottenburg, Köpenick, Kreuzberg, Lichtenberg, Mitte, Neukölln, Pankow, Schöneberg, Spandau, Tiergarten, Wedding",
+      "anzahl_amtsgerichte": 12
+    },
+    {
+      "land": "Brandenburg",
+      "oberlandesgericht": "Brandenburgisches Oberlandesgericht (in Brandenburg an der Havel)",
+      "landgericht": "Landgericht Cottbus",
+      "amtsgerichte": "Bad Liebenwerda, Cottbus mit Zweigstelle Guben, Königs Wusterhausen, Lübben (Spreewald), Senftenberg",
+      "anzahl_amtsgerichte": 5
+    },
+    {
+      "land": "Brandenburg",
+      "oberlandesgericht": "Brandenburgisches Oberlandesgericht (in Brandenburg an der Havel)",
+      "landgericht": "Landgericht Frankfurt (Oder)",
+      "amtsgerichte": "Bad Freienwalde (Oder), Bernau bei Berlin, Eberswalde, Frankfurt (Oder) mit Zweigstelle Eisenhüttenstadt, Fürstenwalde/Spree, Strausberg",
+      "anzahl_amtsgerichte": 6
+    },
+    {
+      "land": "Brandenburg",
+      "oberlandesgericht": "Brandenburgisches Oberlandesgericht (in Brandenburg an der Havel)",
+      "landgericht": "Landgericht Neuruppin",
+      "amtsgerichte": "Neuruppin, Oranienburg, Perleberg, Prenzlau, Schwedt/Oder, Zehdenick",
+      "anzahl_amtsgerichte": 6
+    },
+    {
+      "land": "Brandenburg",
+      "oberlandesgericht": "Brandenburgisches Oberlandesgericht (in Brandenburg an der Havel)",
+      "landgericht": "Landgericht Potsdam",
+      "amtsgerichte": "Brandenburg an der Havel, Luckenwalde, Nauen, Potsdam, Rathenow, Zossen",
+      "anzahl_amtsgerichte": 6
+    },
+    {
+      "land": "Bremen",
+      "oberlandesgericht": "Hanseatisches Oberlandesgericht Bremen",
+      "landgericht": "Landgericht Bremen",
+      "amtsgerichte": "Bremen, Bremen-Blumenthal, Bremerhaven",
+      "anzahl_amtsgerichte": 3
+    },
+    {
+      "land": "Hamburg",
+      "oberlandesgericht": "Hanseatisches Oberlandesgericht (in Hamburg)",
+      "landgericht": "Landgericht Hamburg",
+      "amtsgerichte": "Hamburg, Hamburg-Altona, Hamburg-Barmbek, Hamburg-Bergedorf, Hamburg-Blankenese, Hamburg-Harburg, Hamburg-St. Georg, Hamburg-Wandsbek",
+      "anzahl_amtsgerichte": 8
+    },
+    {
+      "land": "Hessen",
+      "oberlandesgericht": "Oberlandesgericht Frankfurt am Main (mit Außenstellen in Kassel und Darmstadt)",
+      "landgericht": "Landgericht Darmstadt",
+      "amtsgerichte": "Bensheim, Darmstadt, Dieburg, Fürth, Groß-Gerau, Lampertheim, Langen, Michelstadt, Offenbach am Main, Rüsselsheim, Seligenstadt",
+      "anzahl_amtsgerichte": 11
+    },
+    {
+      "land": "Hessen",
+      "oberlandesgericht": "Oberlandesgericht Frankfurt am Main (mit Außenstellen in Kassel und Darmstadt)",
+      "landgericht": "Landgericht Frankfurt am Main",
+      "amtsgerichte": "Frankfurt am Main, Bad Homburg v. d. Höhe, Königstein im Taunus",
+      "anzahl_amtsgerichte": 3
+    },
+    {
+      "land": "Hessen",
+      "oberlandesgericht": "Oberlandesgericht Frankfurt am Main (mit Außenstellen in Kassel und Darmstadt)",
+      "landgericht": "Landgericht Fulda",
+      "amtsgerichte": "Bad Hersfeld, Fulda, Hünfeld",
+      "anzahl_amtsgerichte": 3
+    },
+    {
+      "land": "Hessen",
+      "oberlandesgericht": "Oberlandesgericht Frankfurt am Main (mit Außenstellen in Kassel und Darmstadt)",
+      "landgericht": "Landgericht Gießen",
+      "amtsgerichte": "Alsfeld, Büdingen, Friedberg (Hessen), Gießen",
+      "anzahl_amtsgerichte": 4
+    },
+    {
+      "land": "Hessen",
+      "oberlandesgericht": "Oberlandesgericht Frankfurt am Main (mit Außenstellen in Kassel und Darmstadt)",
+      "landgericht": "Landgericht Hanau",
+      "amtsgerichte": "Gelnhausen, Hanau",
+      "anzahl_amtsgerichte": 2
+    },
+    {
+      "land": "Hessen",
+      "oberlandesgericht": "Oberlandesgericht Frankfurt am Main (mit Außenstellen in Kassel und Darmstadt)",
+      "landgericht": "Landgericht Kassel",
+      "amtsgerichte": "Eschwege, Fritzlar, Kassel mit Zweigstelle Hofgeismar, Korbach, Melsungen",
+      "anzahl_amtsgerichte": 5
+    },
+    {
+      "land": "Hessen",
+      "oberlandesgericht": "Oberlandesgericht Frankfurt am Main (mit Außenstellen in Kassel und Darmstadt)",
+      "landgericht": "Landgericht Limburg a. d. Lahn",
+      "amtsgerichte": "Dillenburg mit Zweigstelle Herborn, Limburg a. d. Lahn mit Zweigstelle Hadamar, Weilburg, Wetzlar",
+      "anzahl_amtsgerichte": 4
+    },
+    {
+      "land": "Hessen",
+      "oberlandesgericht": "Oberlandesgericht Frankfurt am Main (mit Außenstellen in Kassel und Darmstadt)",
+      "landgericht": "Landgericht Marburg",
+      "amtsgerichte": "Biedenkopf, Frankenberg (Eder), Kirchhain, Marburg, Schwalmstadt",
+      "anzahl_amtsgerichte": 5
+    },
+    {
+      "land": "Hessen",
+      "oberlandesgericht": "Oberlandesgericht Frankfurt am Main (mit Außenstellen in Kassel und Darmstadt)",
+      "landgericht": "Landgericht Wiesbaden",
+      "amtsgerichte": "Bad Schwalbach, Rüdesheim am Rhein, Idstein, Wiesbaden",
+      "anzahl_amtsgerichte": 4
+    },
+    {
+      "land": "Mecklenburg-Vorpommern",
+      "oberlandesgericht": "Oberlandesgericht Rostock",
+      "landgericht": "Landgericht Neubrandenburg",
+      "amtsgerichte": "Neubrandenburg mit Zweigstelle Demmin, Pasewalk mit Zweigstelle Anklam, Waren (Müritz) mit Zweigstelle Neustrelitz",
+      "anzahl_amtsgerichte": 3
+    },
+    {
+      "land": "Mecklenburg-Vorpommern",
+      "oberlandesgericht": "Oberlandesgericht Rostock",
+      "landgericht": "Landgericht Rostock",
+      "amtsgerichte": "Güstrow, Rostock",
+      "anzahl_amtsgerichte": 2
+    },
+    {
+      "land": "Mecklenburg-Vorpommern",
+      "oberlandesgericht": "Oberlandesgericht Rostock",
+      "landgericht": "Landgericht Schwerin",
+      "amtsgerichte": "Ludwigslust mit Zweigstelle Parchim, Schwerin, Wismar mit Zweigstelle Grevesmühlen",
+      "anzahl_amtsgerichte": 3
+    },
+    {
+      "land": "Mecklenburg-Vorpommern",
+      "oberlandesgericht": "Oberlandesgericht Rostock",
+      "landgericht": "Landgericht Stralsund",
+      "amtsgerichte": "Greifswald, Stralsund mit Zweigstelle Bergen auf Rügen",
+      "anzahl_amtsgerichte": 2
+    },
+    {
+      "land": "Niedersachsen",
+      "oberlandesgericht": "Oberlandesgericht Braunschweig",
+      "landgericht": "Landgericht Braunschweig",
+      "amtsgerichte": "Bad Gandersheim, Braunschweig, Clausthal-Zellerfeld, Goslar, Helmstedt, Salzgitter, Seesen, Wolfenbüttel, Wolfsburg",
+      "anzahl_amtsgerichte": 9
+    },
+    {
+      "land": "Niedersachsen",
+      "oberlandesgericht": "Oberlandesgericht Braunschweig",
+      "landgericht": "Landgericht Göttingen",
+      "amtsgerichte": "Duderstadt, Einbeck, Göttingen, Hann. Münden, Herzberg am Harz, Northeim, Osterode am Harz",
+      "anzahl_amtsgerichte": 7
+    },
+    {
+      "land": "Niedersachsen",
+      "oberlandesgericht": "Oberlandesgericht Celle",
+      "landgericht": "Landgericht Bückeburg",
+      "amtsgerichte": "Bückeburg, Rinteln, Stadthagen",
+      "anzahl_amtsgerichte": 3
+    },
+    {
+      "land": "Niedersachsen",
+      "oberlandesgericht": "Oberlandesgericht Celle",
+      "landgericht": "Landgericht Hannover",
+      "amtsgerichte": "Burgwedel, Hameln, Hannover, Neustadt am Rübenberge, Springe, Wennigsen (Deister)",
+      "anzahl_amtsgerichte": 6
+    },
+    {
+      "land": "Niedersachsen",
+      "oberlandesgericht": "Oberlandesgericht Celle",
+      "landgericht": "Landgericht Hildesheim",
+      "amtsgerichte": "Alfeld (Leine), Burgdorf, Elze, Gifhorn, Hildesheim, Holzminden, Lehrte, Peine",
+      "anzahl_amtsgerichte": 8
+    },
+    {
+      "land": "Niedersachsen",
+      "oberlandesgericht": "Oberlandesgericht Celle",
+      "landgericht": "Landgericht Lüneburg",
+      "amtsgerichte": "Celle, Dannenberg (Elbe), Lüneburg, Soltau, Uelzen, Winsen",
+      "anzahl_amtsgerichte": 6
+    },
+    {
+      "land": "Niedersachsen",
+      "oberlandesgericht": "Oberlandesgericht Celle",
+      "landgericht": "Landgericht Stade",
+      "amtsgerichte": "Bremervörde, Buxtehude, Cuxhaven, Geestland, Otterndorf, Stade, Tostedt, Zeven",
+      "anzahl_amtsgerichte": 8
+    },
+    {
+      "land": "Niedersachsen",
+      "oberlandesgericht": "Oberlandesgericht Celle",
+      "landgericht": "Landgericht Verden",
+      "amtsgerichte": "Achim, Diepholz, Nienburg, Osterholz-Scharmbeck, Rotenburg (Wümme), Stolzenau, Sulingen, Syke, Verden, Walsrode",
+      "anzahl_amtsgerichte": 10
+    },
+    {
+      "land": "Niedersachsen",
+      "oberlandesgericht": "Oberlandesgericht Oldenburg",
+      "landgericht": "Landgericht Aurich",
+      "amtsgerichte": "Aurich, Emden, Leer, Norden, Wittmund",
+      "anzahl_amtsgerichte": 5
+    },
+    {
+      "land": "Niedersachsen",
+      "oberlandesgericht": "Oberlandesgericht Oldenburg",
+      "landgericht": "Landgericht Oldenburg",
+      "amtsgerichte": "Brake, Cloppenburg, Delmenhorst, Jever, Nordenham, Oldenburg, Varel, Vechta, Westerstede, Wildeshausen, Wilhelmshaven",
+      "anzahl_amtsgerichte": 11
+    },
+    {
+      "land": "Niedersachsen",
+      "oberlandesgericht": "Oberlandesgericht Oldenburg",
+      "landgericht": "Landgericht Osnabrück",
+      "amtsgerichte": "Bad Iburg, Bersenbrück, Lingen, Meppen, Nordhorn, Osnabrück, Papenburg",
+      "anzahl_amtsgerichte": 7
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "oberlandesgericht": "Oberlandesgericht Düsseldorf",
+      "landgericht": "Landgericht Duisburg",
+      "amtsgerichte": "Dinslaken, Duisburg, Duisburg-Hamborn, Duisburg-Ruhrort, Mülheim an der Ruhr, Oberhausen, Wesel",
+      "anzahl_amtsgerichte": 7
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "oberlandesgericht": "Oberlandesgericht Düsseldorf",
+      "landgericht": "Landgericht Düsseldorf",
+      "amtsgerichte": "Düsseldorf, Langenfeld (Rheinland), Neuss, Ratingen",
+      "anzahl_amtsgerichte": 4
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "oberlandesgericht": "Oberlandesgericht Düsseldorf",
+      "landgericht": "Landgericht Kleve",
+      "amtsgerichte": "Emmerich, Kleve, Geldern, Moers, Rheinberg",
+      "anzahl_amtsgerichte": 5
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "oberlandesgericht": "Oberlandesgericht Düsseldorf",
+      "landgericht": "Landgericht Krefeld",
+      "amtsgerichte": "Kempen, Krefeld, Nettetal",
+      "anzahl_amtsgerichte": 3
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "oberlandesgericht": "Oberlandesgericht Düsseldorf",
+      "landgericht": "Landgericht Mönchengladbach",
+      "amtsgerichte": "Erkelenz, Grevenbroich, Mönchengladbach, Mönchengladbach-Rheydt, Viersen",
+      "anzahl_amtsgerichte": 5
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "oberlandesgericht": "Oberlandesgericht Düsseldorf",
+      "landgericht": "Landgericht Wuppertal",
+      "amtsgerichte": "Mettmann, Remscheid, Solingen, Velbert, Wuppertal",
+      "anzahl_amtsgerichte": 5
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "oberlandesgericht": "Oberlandesgericht Hamm",
+      "landgericht": "Landgericht Arnsberg",
+      "amtsgerichte": "Arnsberg, Brilon, Marsberg, Medebach, Menden, Meschede, Schmallenberg, Soest, Warstein, Werl",
+      "anzahl_amtsgerichte": 10
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "oberlandesgericht": "Oberlandesgericht Hamm",
+      "landgericht": "Landgericht Bielefeld",
+      "amtsgerichte": "Bielefeld, Bünde, Gütersloh, Halle (Westfalen), Herford, Lübbecke, Minden, Bad Oeynhausen, Rahden, Rheda-Wiedenbrück",
+      "anzahl_amtsgerichte": 10
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "oberlandesgericht": "Oberlandesgericht Hamm",
+      "landgericht": "Landgericht Bochum",
+      "amtsgerichte": "Bochum, Herne, Recklinghausen, Herne-Wanne, Witten",
+      "anzahl_amtsgerichte": 5
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "oberlandesgericht": "Oberlandesgericht Hamm",
+      "landgericht": "Landgericht Detmold",
+      "amtsgerichte": "Blomberg, Detmold, Lemgo",
+      "anzahl_amtsgerichte": 3
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "oberlandesgericht": "Oberlandesgericht Hamm",
+      "landgericht": "Landgericht Dortmund",
+      "amtsgerichte": "Castrop-Rauxel, Dortmund, Hamm, Kamen, Lünen, Unna",
+      "anzahl_amtsgerichte": 6
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "oberlandesgericht": "Oberlandesgericht Hamm",
+      "landgericht": "Landgericht Essen",
+      "amtsgerichte": "Bottrop, Dorsten, Essen, Essen-Borbeck, Essen-Steele, Gelsenkirchen, Gladbeck, Hattingen, Marl",
+      "anzahl_amtsgerichte": 9
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "oberlandesgericht": "Oberlandesgericht Hamm",
+      "landgericht": "Landgericht Hagen",
+      "amtsgerichte": "Altena, Hagen, Iserlohn, Lüdenscheid, Meinerzhagen, Plettenberg, Schwelm, Schwerte, Wetter (Ruhr)",
+      "anzahl_amtsgerichte": 9
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "oberlandesgericht": "Oberlandesgericht Hamm",
+      "landgericht": "Landgericht Münster",
+      "amtsgerichte": "Ahaus, Ahlen, Beckum, Bocholt, Borken, Coesfeld, Dülmen, Gronau (Westf.), Ibbenbüren, Lüdinghausen, Münster (Westfalen), Rheine, Steinfurt, Tecklenburg, Warendorf",
+      "anzahl_amtsgerichte": 15
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "oberlandesgericht": "Oberlandesgericht Hamm",
+      "landgericht": "Landgericht Paderborn",
+      "amtsgerichte": "Brakel, Delbrück, Höxter, Lippstadt, Paderborn, Warburg",
+      "anzahl_amtsgerichte": 6
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "oberlandesgericht": "Oberlandesgericht Hamm",
+      "landgericht": "Landgericht Siegen",
+      "amtsgerichte": "Bad Berleburg, Lennestadt, Olpe, Siegen",
+      "anzahl_amtsgerichte": 4
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "oberlandesgericht": "Oberlandesgericht Köln",
+      "landgericht": "Landgericht Aachen",
+      "amtsgerichte": "Aachen, Düren, Eschweiler, Geilenkirchen, Heinsberg, Jülich, Monschau, Schleiden",
+      "anzahl_amtsgerichte": 8
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "oberlandesgericht": "Oberlandesgericht Köln",
+      "landgericht": "Landgericht Bonn",
+      "amtsgerichte": "Bonn, Euskirchen, Königswinter, Rheinbach, Siegburg, Waldbröl",
+      "anzahl_amtsgerichte": 6
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "oberlandesgericht": "Oberlandesgericht Köln",
+      "landgericht": "Landgericht Köln",
+      "amtsgerichte": "Bergheim, Bergisch Gladbach, Brühl, Gummersbach, Kerpen, Köln, Leverkusen, Wermelskirchen, Wipperfürth",
+      "anzahl_amtsgerichte": 9
+    },
+    {
+      "land": "Rheinland-Pfalz",
+      "oberlandesgericht": "Pfälzisches Oberlandesgericht Zweibrücken",
+      "landgericht": "Landgericht Frankenthal (Pfalz)",
+      "amtsgerichte": "Bad Dürkheim, Frankenthal (Pfalz), Grünstadt, Ludwigshafen, Neustadt an der Weinstraße, Speyer",
+      "anzahl_amtsgerichte": 6
+    },
+    {
+      "land": "Rheinland-Pfalz",
+      "oberlandesgericht": "Pfälzisches Oberlandesgericht Zweibrücken",
+      "landgericht": "Landgericht Kaiserslautern",
+      "amtsgerichte": "Kaiserslautern, Kusel, Rockenhausen",
+      "anzahl_amtsgerichte": 3
+    },
+    {
+      "land": "Rheinland-Pfalz",
+      "oberlandesgericht": "Pfälzisches Oberlandesgericht Zweibrücken",
+      "landgericht": "Landgericht Landau i. d. Pfalz",
+      "amtsgerichte": "Germersheim, Kandel, Landau in der Pfalz",
+      "anzahl_amtsgerichte": 3
+    },
+    {
+      "land": "Rheinland-Pfalz",
+      "oberlandesgericht": "Pfälzisches Oberlandesgericht Zweibrücken",
+      "landgericht": "Landgericht Zweibrücken",
+      "amtsgerichte": "Landstuhl, Pirmasens, Zweibrücken",
+      "anzahl_amtsgerichte": 3
+    },
+    {
+      "land": "Rheinland-Pfalz",
+      "oberlandesgericht": "Oberlandesgericht Koblenz",
+      "landgericht": "Landgericht Bad Kreuznach",
+      "amtsgerichte": "Bad Kreuznach, Bad Sobernheim, Idar-Oberstein, Simmern/Hunsrück",
+      "anzahl_amtsgerichte": 4
+    },
+    {
+      "land": "Rheinland-Pfalz",
+      "oberlandesgericht": "Oberlandesgericht Koblenz",
+      "landgericht": "Landgericht Koblenz",
+      "amtsgerichte": "Altenkirchen, Andernach, Bad Neuenahr-Ahrweiler, Betzdorf, Cochem, Diez, Koblenz, Lahnstein, Linz am Rhein, Mayen, Montabaur, Neuwied, Sankt Goar, Sinzig, Westerburg",
+      "anzahl_amtsgerichte": 15
+    },
+    {
+      "land": "Rheinland-Pfalz",
+      "oberlandesgericht": "Oberlandesgericht Koblenz",
+      "landgericht": "Landgericht Mainz",
+      "amtsgerichte": "Alzey, Bingen am Rhein, Mainz, Worms",
+      "anzahl_amtsgerichte": 4
+    },
+    {
+      "land": "Rheinland-Pfalz",
+      "oberlandesgericht": "Oberlandesgericht Koblenz",
+      "landgericht": "Landgericht Trier",
+      "amtsgerichte": "Bernkastel-Kues, Bitburg, Daun, Hermeskeil, Prüm, Saarburg, Trier, Wittlich",
+      "anzahl_amtsgerichte": 8
+    },
+    {
+      "land": "Saarland",
+      "oberlandesgericht": "Saarländisches Oberlandesgericht (in Saarbrücken)",
+      "landgericht": "Landgericht Saarbrücken",
+      "amtsgerichte": "Homburg, Lebach, Merzig, Neunkirchen, Ottweiler, Saarbrücken, Saarlouis, St. Ingbert, St. Wendel, Völklingen",
+      "anzahl_amtsgerichte": 10
+    },
+    {
+      "land": "Sachsen",
+      "oberlandesgericht": "Oberlandesgericht Dresden",
+      "landgericht": "Landgericht Chemnitz",
+      "amtsgerichte": "Aue-Bad Schlema, Chemnitz, Döbeln, Freiberg, Marienberg",
+      "anzahl_amtsgerichte": 5
+    },
+    {
+      "land": "Sachsen",
+      "oberlandesgericht": "Oberlandesgericht Dresden",
+      "landgericht": "Landgericht Dresden",
+      "amtsgerichte": "Dippoldiswalde, Dresden, Meißen, Pirna, Riesa",
+      "anzahl_amtsgerichte": 5
+    },
+    {
+      "land": "Sachsen",
+      "oberlandesgericht": "Oberlandesgericht Dresden",
+      "landgericht": "Landgericht Görlitz",
+      "amtsgerichte": "Bautzen, Görlitz, Hoyerswerda, Kamenz, Weißwasser, Zittau",
+      "anzahl_amtsgerichte": 6
+    },
+    {
+      "land": "Sachsen",
+      "oberlandesgericht": "Oberlandesgericht Dresden",
+      "landgericht": "Landgericht Leipzig",
+      "amtsgerichte": "Borna, Eilenburg, Grimma, Leipzig, Torgau",
+      "anzahl_amtsgerichte": 5
+    },
+    {
+      "land": "Sachsen",
+      "oberlandesgericht": "Oberlandesgericht Dresden",
+      "landgericht": "Landgericht Zwickau",
+      "amtsgerichte": "Auerbach, Hohenstein-Ernstthal, Plauen, Zwickau",
+      "anzahl_amtsgerichte": 4
+    },
+    {
+      "land": "Sachsen-Anhalt",
+      "oberlandesgericht": "Oberlandesgericht Naumburg",
+      "landgericht": "Landgericht Dessau-Roßlau",
+      "amtsgerichte": "Bitterfeld-Wolfen, Dessau-Roßlau, Köthen, Wittenberg, Zerbst",
+      "anzahl_amtsgerichte": 5
+    },
+    {
+      "land": "Sachsen-Anhalt",
+      "oberlandesgericht": "Oberlandesgericht Naumburg",
+      "landgericht": "Landgericht Halle",
+      "amtsgerichte": "Eisleben, Halle (Saale), Merseburg, Naumburg, Sangerhausen, Weißenfels, Zeitz",
+      "anzahl_amtsgerichte": 7
+    },
+    {
+      "land": "Sachsen-Anhalt",
+      "oberlandesgericht": "Oberlandesgericht Naumburg",
+      "landgericht": "Landgericht Magdeburg",
+      "amtsgerichte": "Aschersleben, Bernburg, Halberstadt, Haldensleben, Magdeburg, Oschersleben, Quedlinburg, Schönebeck, Wernigerode",
+      "anzahl_amtsgerichte": 9
+    },
+    {
+      "land": "Sachsen-Anhalt",
+      "oberlandesgericht": "Oberlandesgericht Naumburg",
+      "landgericht": "Landgericht Stendal",
+      "amtsgerichte": "Burg, Gardelegen, Salzwedel, Stendal",
+      "anzahl_amtsgerichte": 4
+    },
+    {
+      "land": "Schleswig-Holstein",
+      "oberlandesgericht": "Schleswig-Holsteinisches Oberlandesgericht in Schleswig",
+      "landgericht": "Landgericht Flensburg",
+      "amtsgerichte": "Flensburg, Husum, Niebüll, Schleswig",
+      "anzahl_amtsgerichte": 4
+    },
+    {
+      "land": "Schleswig-Holstein",
+      "oberlandesgericht": "Schleswig-Holsteinisches Oberlandesgericht in Schleswig",
+      "landgericht": "Landgericht Itzehoe",
+      "amtsgerichte": "Elmshorn, Itzehoe, Meldorf, Pinneberg",
+      "anzahl_amtsgerichte": 4
+    },
+    {
+      "land": "Schleswig-Holstein",
+      "oberlandesgericht": "Schleswig-Holsteinisches Oberlandesgericht in Schleswig",
+      "landgericht": "Landgericht Kiel",
+      "amtsgerichte": "Bad Segeberg, Eckernförde, Kiel, Neumünster, Norderstedt, Plön, Rendsburg",
+      "anzahl_amtsgerichte": 7
+    },
+    {
+      "land": "Schleswig-Holstein",
+      "oberlandesgericht": "Schleswig-Holsteinisches Oberlandesgericht in Schleswig",
+      "landgericht": "Landgericht Lübeck",
+      "amtsgerichte": "Ahrensburg, Eutin, Lübeck, Oldenburg in Holstein, Ratzeburg, Reinbek, Schwarzenbek",
+      "anzahl_amtsgerichte": 7
+    },
+    {
+      "land": "Thüringen (Stand: 1. März 2012. Die Zweigstellen werden nach einer Übergangszeit, in der der komplette Umzug von der Zweigstelle zum zuständigen Amtsgericht erfolgt, aufgelöst.)",
+      "oberlandesgericht": "Thüringer Oberlandesgericht (in Jena)",
+      "landgericht": "Landgericht Erfurt",
+      "amtsgerichte": "Apolda, Arnstadt mit Zweigstelle Ilmenau, Erfurt, Gotha, Sömmerda, Weimar",
+      "anzahl_amtsgerichte": 6
+    },
+    {
+      "land": "Thüringen (Stand: 1. März 2012. Die Zweigstellen werden nach einer Übergangszeit, in der der komplette Umzug von der Zweigstelle zum zuständigen Amtsgericht erfolgt, aufgelöst.)",
+      "oberlandesgericht": "Thüringer Oberlandesgericht (in Jena)",
+      "landgericht": "Landgericht Gera",
+      "amtsgerichte": "Altenburg, Gera, Greiz, Jena, Pößneck mit Zweigstelle Bad Lobenstein, Rudolstadt mit Zweigstelle Saalfeld/Saale, Stadtroda",
+      "anzahl_amtsgerichte": 7
+    },
+    {
+      "land": "Thüringen (Stand: 1. März 2012. Die Zweigstellen werden nach einer Übergangszeit, in der der komplette Umzug von der Zweigstelle zum zuständigen Amtsgericht erfolgt, aufgelöst.)",
+      "oberlandesgericht": "Thüringer Oberlandesgericht (in Jena)",
+      "landgericht": "Landgericht Meiningen",
+      "amtsgerichte": "Bad Salzungen, Eisenach, Hildburghausen, Meiningen, Sonneberg, Suhl",
+      "anzahl_amtsgerichte": 6
+    },
+    {
+      "land": "Thüringen (Stand: 1. März 2012. Die Zweigstellen werden nach einer Übergangszeit, in der der komplette Umzug von der Zweigstelle zum zuständigen Amtsgericht erfolgt, aufgelöst.)",
+      "oberlandesgericht": "Thüringer Oberlandesgericht (in Jena)",
+      "landgericht": "Landgericht Mühlhausen",
+      "amtsgerichte": "Heilbad Heiligenstadt, Mühlhausen mit Zweigstelle Bad Langensalza, Nordhausen, Sondershausen",
+      "anzahl_amtsgerichte": 4
+    }
+  ],
+  "meta": {
+    "title": "Landgerichte und Amtsgerichte in Deutschland - Free Download",
+    "description": "Alle Landgerichte der ordentlichen Gerichtsbarkeit in Deutschland mit zuständigem Oberlandesgericht, Bundesland und den zugehörigen Amtsgerichten. Contains 115 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Landgerichte und Amtsgerichte in Deutschland | ListBase",
+    "seo_description": "Download Landgerichte und Amtsgerichte in Deutschland — 115 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 115 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_deutscher_Gerichte"
+    ]
+  }
+}
