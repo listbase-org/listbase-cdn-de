@@ -1,12 +1,12 @@
 {
   "lang": "de",
-  "generated": "2026-11-04T02:18:25.831Z",
-  "total_datasets": 524,
-  "total_records": 1876639,
+  "generated": "2026-11-04T02:18:32.058Z",
+  "total_datasets": 525,
+  "total_records": 1876689,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -180,6 +180,33 @@
         "xlsx": {
           "name": "de-kartoffelsorten_DE.xlsx",
           "size": 87453
+        }
+      }
+    },
+    {
+      "id": "de-pferderassen-dach",
+      "name": "Pferderassen aus Deutschland, Österreich und der Schweiz",
+      "category": "agriculture",
+      "record_count": 50,
+      "columns": [
+        "rasse",
+        "ursprung",
+        "zuchtgebiet",
+        "stockmass",
+        "farben",
+        "einsatzgebiet"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_von_Pferderassen",
+      "updated": "2026-11",
+      "size": 15389,
+      "files": {
+        "csv": {
+          "name": "de-pferderassen-dach_DE.csv",
+          "size": 7080
+        },
+        "xlsx": {
+          "name": "de-pferderassen-dach_DE.xlsx",
+          "size": 10312
         }
       }
     },

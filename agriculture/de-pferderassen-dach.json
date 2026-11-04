@@ -1,0 +1,456 @@
+{
+  "id": "de-pferderassen-dach",
+  "name": "Pferderassen aus Deutschland, Österreich und der Schweiz",
+  "title": "Pferderassen aus Deutschland, Österreich und der Schweiz",
+  "description": "Pferderassen mit Ursprung oder Zuchtgebiet in Deutschland, Österreich oder der Schweiz mit Stockmaß, Farben und Einsatzgebiet.",
+  "category": "agriculture",
+  "source": "https://de.wikipedia.org/wiki/Liste_von_Pferderassen",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_von_Pferderassen",
+  "updated": "2026-11",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "rasse",
+      "label": "Rasse",
+      "type": "string"
+    },
+    {
+      "key": "ursprung",
+      "label": "Ursprung",
+      "type": "string"
+    },
+    {
+      "key": "zuchtgebiet",
+      "label": "Zuchtgebiet",
+      "type": "string"
+    },
+    {
+      "key": "stockmass",
+      "label": "Stockmass",
+      "type": "string"
+    },
+    {
+      "key": "farben",
+      "label": "Farben",
+      "type": "string"
+    },
+    {
+      "key": "einsatzgebiet",
+      "label": "Einsatzgebiet",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rasse": "Aegidienberger",
+      "ursprung": "Aegidienberg, 1981",
+      "zuchtgebiet": "Deutschland, NRW",
+      "stockmass": "143–152 cm",
+      "farben": "alle Farben",
+      "einsatzgebiet": "Reitpferd"
+    },
+    {
+      "rasse": "Araber-Haflinger (auch: AH)",
+      "ursprung": "Österreich",
+      "zuchtgebiet": "Österreich",
+      "stockmass": "142–152 cm",
+      "farben": "Lichtfüchse und andere Farben",
+      "einsatzgebiet": "Reit- und Fahrpferd"
+    },
+    {
+      "rasse": "Bayerisches Warmblut",
+      "ursprung": "Rottal Bayern",
+      "zuchtgebiet": "Bayern, England",
+      "stockmass": "162–175 cm",
+      "farben": "Braune, Füchse, seltener Rappen und Schimmel",
+      "einsatzgebiet": "Reitpferd"
+    },
+    {
+      "rasse": "Berber",
+      "ursprung": "Algerien, Marokko, Tunesien",
+      "zuchtgebiet": "Nordafrika, Frankreich, Deutschland",
+      "stockmass": "145–157 cm",
+      "farben": "Schimmel, Füchse, selten Braune und Rappen",
+      "einsatzgebiet": "Reit- und Distanzpferd"
+    },
+    {
+      "rasse": "Bosniak (auch: Bosnisches Gebirgspferd)",
+      "ursprung": "Bosnien",
+      "zuchtgebiet": "ehemaliges Jugoslawien, Deutschland",
+      "stockmass": "132–147 cm",
+      "farben": "Grundfarben, Schimmel und Falben",
+      "einsatzgebiet": "Reit-, Pack- und Arbeitspferd"
+    },
+    {
+      "rasse": "Davertnickel",
+      "ursprung": "Deutschland",
+      "zuchtgebiet": "Davert",
+      "stockmass": "bis 152 cm",
+      "farben": "",
+      "einsatzgebiet": "Arbeitspferd"
+    },
+    {
+      "rasse": "Deutsches Classic-Pony",
+      "ursprung": "Deutschland",
+      "zuchtgebiet": "Deutschland",
+      "stockmass": "bis ca. 112 cm",
+      "farben": "alle, meist Füchse mit hellem Langhaar",
+      "einsatzgebiet": "Reitpony für kleine Kinder, Fahrpony"
+    },
+    {
+      "rasse": "Deutsches Partbred-Shetlandpony",
+      "ursprung": "Shetlandinseln/Deutschland",
+      "zuchtgebiet": "Deutschland",
+      "stockmass": "bis 112 cm",
+      "farben": "alle",
+      "einsatzgebiet": "Kinder- und Fahrpony"
+    },
+    {
+      "rasse": "Deutsches Reitpony",
+      "ursprung": "Deutschland, 20. Jahrhundert",
+      "zuchtgebiet": "Deutschland",
+      "stockmass": "138–148 cm",
+      "farben": "alle Pferdefarben",
+      "einsatzgebiet": "Reitpony"
+    },
+    {
+      "rasse": "Deutsches Sportpferd",
+      "ursprung": "Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",
+      "zuchtgebiet": "Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",
+      "stockmass": "um 165 cm",
+      "farben": "alle Farben",
+      "einsatzgebiet": "Reitpferd"
+    },
+    {
+      "rasse": "Dülmener Wildpferd",
+      "ursprung": "Deutschland",
+      "zuchtgebiet": "Deutschland",
+      "stockmass": "125–135 cm",
+      "farben": "meist Falben, keine Abzeichen",
+      "einsatzgebiet": "Reit- und Fahrpferd"
+    },
+    {
+      "rasse": "Edelbluthaflinger",
+      "ursprung": "Deutschland",
+      "zuchtgebiet": "Deutschland",
+      "stockmass": "142–152 cm",
+      "farben": "Lichtfüchse, weiße Abzeichen am Kopf erlaubt",
+      "einsatzgebiet": "Reit- und Fahrpferd"
+    },
+    {
+      "rasse": "Emscherbrücher (auch Emscherbrücher Dickkopp)",
+      "ursprung": "Deutschland",
+      "zuchtgebiet": "Emscherbruch, Bruch entlang der Emscher zwischen Waltrop und Bottrop",
+      "stockmass": "bis 135 cm",
+      "farben": "",
+      "einsatzgebiet": ""
+    },
+    {
+      "rasse": "Englisches Vollblut",
+      "ursprung": "Großbritannien",
+      "zuchtgebiet": "weltweit, besonders England, Irland, Frankreich, Deutschland und USA",
+      "stockmass": "152–173 cm",
+      "farben": "meist Braune und Füchse, seltener Schimmel und Rappen",
+      "einsatzgebiet": "Reit- und Rennpferd"
+    },
+    {
+      "rasse": "Freiberger",
+      "ursprung": "Franches-Montagnes (Jura), 15. Jahrhundert",
+      "zuchtgebiet": "Schweiz",
+      "stockmass": "150–160 cm",
+      "farben": "Braune, Füchse, selten Rappen, wenig Abzeichen",
+      "einsatzgebiet": "Reit-, Pack- und Fahrpferd"
+    },
+    {
+      "rasse": "Haflinger",
+      "ursprung": "Südtirol",
+      "zuchtgebiet": "Bayern, Österreich, Südtirol (Italien)",
+      "stockmass": "138 cm – 150 cm",
+      "farben": "Immer fuchsfarben, helle Mähne und heller Schweif.",
+      "einsatzgebiet": "Reit-, Pack- und Fahrpferd"
+    },
+    {
+      "rasse": "Hannoveraner",
+      "ursprung": "Deutschland, 15. Jahrhundert",
+      "zuchtgebiet": "Niedersachsen",
+      "stockmass": "148–180 cm",
+      "farben": "Grundfarben und Schimmel",
+      "einsatzgebiet": "Reitpferd"
+    },
+    {
+      "rasse": "Heckpferd",
+      "ursprung": "Deutschland, 20. Jahrhundert",
+      "zuchtgebiet": "Deutschland",
+      "stockmass": "140 cm",
+      "farben": "meist helle Mausfalben",
+      "einsatzgebiet": "Beweidung"
+    },
+    {
+      "rasse": "Holsteiner",
+      "ursprung": "Deutschland",
+      "zuchtgebiet": "Schleswig-Holstein",
+      "stockmass": "165–175 cm",
+      "farben": "alle außer Schecken",
+      "einsatzgebiet": "Reit- und Fahrpferd"
+    },
+    {
+      "rasse": "Isländer (auch Islandpferd oder Islandpony)",
+      "ursprung": "Island",
+      "zuchtgebiet": "Island, Deutschland",
+      "stockmass": "130–145 cm",
+      "farben": "alle Farben, außer Tigerschecke",
+      "einsatzgebiet": "Reitpferd"
+    },
+    {
+      "rasse": "Knabstrupper",
+      "ursprung": "Dänemark",
+      "zuchtgebiet": "Deutschland/Dänemark",
+      "stockmass": "153–157 cm",
+      "farben": "Tigerschecken",
+      "einsatzgebiet": "Reit- und Fahrpferd"
+    },
+    {
+      "rasse": "Leonharder",
+      "ursprung": "Deutschland, Bayern",
+      "zuchtgebiet": "Bayern",
+      "stockmass": "ca. 140–162 cm",
+      "farben": "Grundfarben: Rappe, Brauner, Fuchs",
+      "einsatzgebiet": "Reitpferd, Milch"
+    },
+    {
+      "rasse": "Leutstettener",
+      "ursprung": "Sárvár",
+      "zuchtgebiet": "Bayern und Ungarn",
+      "stockmass": "155–165 cm",
+      "farben": "Braune, wenig Abzeichen",
+      "einsatzgebiet": "Reit- und Fahrpferd"
+    },
+    {
+      "rasse": "Lewitzer",
+      "ursprung": "Mecklenburg-Vorpommern",
+      "zuchtgebiet": "Mecklenburg-Vorpommern",
+      "stockmass": "130–148 cm",
+      "farben": "meist Plattenschecken, Grundfarben",
+      "einsatzgebiet": "Reitpony"
+    },
+    {
+      "rasse": "Liebenthaler Pferd (auch: Liebenthaler, Liebenthaler Wildling, Liebenthaler Wildpferd)",
+      "ursprung": "Bayern, Brandenburg",
+      "zuchtgebiet": "Brandenburg",
+      "stockmass": "130–145 cm",
+      "farben": "Falben",
+      "einsatzgebiet": "Beweidung, Reitpferd"
+    },
+    {
+      "rasse": "Lipizzaner (auch: Karster, slowenisch Lipicanec)",
+      "ursprung": "Lipica",
+      "zuchtgebiet": "Österreich-Ungarn",
+      "stockmass": "155–165 cm",
+      "farben": "Schimmel, selten Braune, Rappen, Füchse und Falben",
+      "einsatzgebiet": "Reit- und Fahrpferd"
+    },
+    {
+      "rasse": "Mecklenburger Warmblut",
+      "ursprung": "Deutschland",
+      "zuchtgebiet": "Landgestüt Redefin",
+      "stockmass": "150–170 cm",
+      "farben": "Grundfarben: Rappe, Brauner, Fuchs",
+      "einsatzgebiet": "Reitpferd"
+    },
+    {
+      "rasse": "Međimurec (auch: Međimurje-Pferd, veraltet Murinsulaner)",
+      "ursprung": "Kroatien",
+      "zuchtgebiet": "Kroatien, Slowenien, Ungarn, Österreich",
+      "stockmass": "155–165 cm",
+      "farben": "Brauner oder Rappe; andere Farben selten",
+      "einsatzgebiet": "Arbeitspferd"
+    },
+    {
+      "rasse": "Noriker (auch: Abtenauer, Pinzgauer)",
+      "ursprung": "Österreich",
+      "zuchtgebiet": "Österreich und Bayern",
+      "stockmass": "155–165 cm",
+      "farben": "Grundfarben, Stichelschimmel, Tigerschecken",
+      "einsatzgebiet": "Reit- und Fahrpferd"
+    },
+    {
+      "rasse": "Österreichisches Warmblut",
+      "ursprung": "Österreich",
+      "zuchtgebiet": "Österreich",
+      "stockmass": "ab 160 cm",
+      "farben": "alle",
+      "einsatzgebiet": "Reitpferd"
+    },
+    {
+      "rasse": "Oldenburger",
+      "ursprung": "Deutschland, 17. Jahrhundert",
+      "zuchtgebiet": "Oldenburg",
+      "stockmass": "165–179 cm",
+      "farben": "Grundfarben und Schimmel",
+      "einsatzgebiet": "Reit- und Fahrpferd"
+    },
+    {
+      "rasse": "Rheinisch-Deutsches Kaltblut (auch: Rheinisch-Westfälisches Kaltblut)",
+      "ursprung": "Nordrhein-Westfalen",
+      "zuchtgebiet": "Westfalen",
+      "stockmass": "158–170 cm",
+      "farben": "Grundfarben und Schimmel",
+      "einsatzgebiet": "Arbeitspferd"
+    },
+    {
+      "rasse": "Rheinisches Warmblut",
+      "ursprung": "Nordrhein-Westfalen",
+      "zuchtgebiet": "Rheinland",
+      "stockmass": "160–170 cm",
+      "farben": "Grundfarben: Rappe, Brauner, Fuchs",
+      "einsatzgebiet": "Reitpferd"
+    },
+    {
+      "rasse": "Sächsisch-Thüringisches Kaltblut",
+      "ursprung": "Sachsen und Thüringen",
+      "zuchtgebiet": "Sachsen",
+      "stockmass": "158–165 cm",
+      "farben": "meist Rappen, Füchse und Braune",
+      "einsatzgebiet": "Arbeitspferd"
+    },
+    {
+      "rasse": "Sächsisch-Thüringisches Schweres Warmblut",
+      "ursprung": "Sachsen und Thüringen",
+      "zuchtgebiet": "Sachsen",
+      "stockmass": "157–165 cm",
+      "farben": "meist Rappen und Braune",
+      "einsatzgebiet": "Fahrpferd"
+    },
+    {
+      "rasse": "Schleswiger Kaltblut",
+      "ursprung": "Schleswig-Holstein, Dänemark",
+      "zuchtgebiet": "Schleswig-Holstein",
+      "stockmass": "156–162 cm",
+      "farben": "Füchse, seltener Rappen, Schimmel, Braune",
+      "einsatzgebiet": "Fahr- und Arbeitspferd"
+    },
+    {
+      "rasse": "Schwarzwälder Fuchs (auch: Schwarzwälder, Schwarzwälder Kaltblut, St. Märgener Fuchs, Wälderpferd)",
+      "ursprung": "Deutschland",
+      "zuchtgebiet": "Schwarzwald",
+      "stockmass": "148–160 cm",
+      "farben": "Füchse",
+      "einsatzgebiet": "Reit- und Arbeitspferd"
+    },
+    {
+      "rasse": "Schweizer Warmblut (auch: Cavallo della Madonna, CH-Warmblut, Einsiedler, moderner Einsiedler)",
+      "ursprung": "",
+      "zuchtgebiet": "Schweiz",
+      "stockmass": "bis 168 cm",
+      "farben": "",
+      "einsatzgebiet": "Reitpferd"
+    },
+    {
+      "rasse": "Senner Pferd",
+      "ursprung": "Deutschland",
+      "zuchtgebiet": "Senne",
+      "stockmass": "159–165 cm",
+      "farben": "alle Farben, meist Braune",
+      "einsatzgebiet": ""
+    },
+    {
+      "rasse": "Shagya-Araber",
+      "ursprung": "Ländern der K.u.k.-Monarchie, insbesondere im heutigen Ungarn, Rumänien und der Tschechoslowakei",
+      "zuchtgebiet": "Ungarn, Deutschland",
+      "stockmass": "150–160 cm",
+      "farben": "Schimmel, selten Rappen, Füchse und Braune",
+      "einsatzgebiet": "Reitpferd"
+    },
+    {
+      "rasse": "Shire Horse",
+      "ursprung": "Großbritannien, 18. Jahrhundert",
+      "zuchtgebiet": "England, Deutschland",
+      "stockmass": "Hengste mind. 168 cm, Stuten mind. 163 cm",
+      "farben": "Rappen, Braune, Schimmel",
+      "einsatzgebiet": "Arbeits-, Fahr- und Schaupferd"
+    },
+    {
+      "rasse": "Traber",
+      "ursprung": "Amerika, Frankreich, Deutschland, England",
+      "zuchtgebiet": "weltweit",
+      "stockmass": "145–175 cm",
+      "farben": "Grundfarben, selten Schimmel",
+      "einsatzgebiet": "Trabrennpferd"
+    },
+    {
+      "rasse": "Trakehner",
+      "ursprung": "Hauptgestüt Trakehnen, 13. Jahrhundert",
+      "zuchtgebiet": "Deutschland, Russland, Polen",
+      "stockmass": "160–170 cm",
+      "farben": "Grundfarben und Schimmel",
+      "einsatzgebiet": "Reitpferd, Veredler"
+    },
+    {
+      "rasse": "Urfreiberger",
+      "ursprung": "Schweiz (Jura)",
+      "zuchtgebiet": "Schweiz",
+      "stockmass": "150–160 cm",
+      "farben": "Braune und Füchse",
+      "einsatzgebiet": "Arbeits-, Reit- und Fahrpferd"
+    },
+    {
+      "rasse": "Vollblutaraber (auch Arabisches Vollblut)",
+      "ursprung": "Arabische Halbinsel",
+      "zuchtgebiet": "Orient, USA, Großbritannien, Ungarn, Polen, Deutschland, Russland",
+      "stockmass": "140–156 cm",
+      "farben": "Schimmel, seltener Füchse, Braune, sehr selten Rappen",
+      "einsatzgebiet": "Reit-, Distanz- und Schaupferd, Veredler"
+    },
+    {
+      "rasse": "Warlander",
+      "ursprung": "Australien",
+      "zuchtgebiet": "Australien, Deutschland",
+      "stockmass": "150 bis 165 cm",
+      "farben": "Grundfarben: Rappe, Brauner, Fuchs",
+      "einsatzgebiet": "Reit- und Fahrpferd"
+    },
+    {
+      "rasse": "Westfale",
+      "ursprung": "Westfalen",
+      "zuchtgebiet": "Westfalen",
+      "stockmass": "165–172 cm",
+      "farben": "Braune und Füchse, selten Rappen und Schimmel",
+      "einsatzgebiet": "Reitpferd"
+    },
+    {
+      "rasse": "Württemberger Warmblut (auch: Baden-Württemberger)",
+      "ursprung": "Haupt- und Landgestüt Marbach",
+      "zuchtgebiet": "Baden-Württemberg",
+      "stockmass": "160–175 cm",
+      "farben": "Füchse, Braune, Rappen",
+      "einsatzgebiet": "Reit-, Fahrpferd"
+    },
+    {
+      "rasse": "Zangersheider Pferd",
+      "ursprung": "Deutschland, 18. Jahrhundert",
+      "zuchtgebiet": "Herzogtum Pfalz",
+      "stockmass": "160–170 cm",
+      "farben": "Grundfarben und Schimmel",
+      "einsatzgebiet": "Reitpferd"
+    },
+    {
+      "rasse": "Zweibrücker Warmblut",
+      "ursprung": "Deutschland, 18. Jahrhundert",
+      "zuchtgebiet": "Herzogtum Pfalz",
+      "stockmass": "160–170 cm",
+      "farben": "Grundfarben und Schimmel",
+      "einsatzgebiet": "Reitpferd"
+    }
+  ],
+  "meta": {
+    "title": "Pferderassen aus Deutschland, Österreich und der Schweiz - Free Download",
+    "description": "Pferderassen mit Ursprung oder Zuchtgebiet in Deutschland, Österreich oder der Schweiz mit Stockmaß, Farben und Einsatzgebiet. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Pferderassen aus Deutschland, Österreich und der Schweiz | ListBase",
+    "seo_description": "Download Pferderassen aus Deutschland, Österreich und der Schweiz — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_von_Pferderassen"
+    ]
+  }
+}
