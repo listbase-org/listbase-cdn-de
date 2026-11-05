@@ -1,0 +1,500 @@
+{
+  "id": "de-universitaetsklinika",
+  "name": "Universitätsklinika in Deutschland",
+  "title": "Universitätsklinika in Deutschland",
+  "description": "Liste der Universitätsklinika in Deutschland mit Bundesland, Zahl der Mitarbeiter und Betten, ambulanten und stationären Fällen pro Jahr, Drittmitteln, Professuren und Website.",
+  "category": "health",
+  "source": "https://de.wikipedia.org/wiki/Universitätsklinikum",
+  "source_url": "https://de.wikipedia.org/wiki/Universitätsklinikum",
+  "updated": "2026-11",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "universitaetsklinikum",
+      "label": "Universitaetsklinikum",
+      "type": "string"
+    },
+    {
+      "key": "land",
+      "label": "Land",
+      "type": "string"
+    },
+    {
+      "key": "mitarbeiter",
+      "label": "Mitarbeiter",
+      "type": "number"
+    },
+    {
+      "key": "betten",
+      "label": "Betten",
+      "type": "number"
+    },
+    {
+      "key": "ambulante_faelle_pro_jahr",
+      "label": "Ambulante Faelle Pro Jahr",
+      "type": "number"
+    },
+    {
+      "key": "stationaere_faelle_pro_jahr",
+      "label": "Stationaere Faelle Pro Jahr",
+      "type": "number"
+    },
+    {
+      "key": "drittmittel_mio_eur",
+      "label": "Drittmittel Mio Eur",
+      "type": "number"
+    },
+    {
+      "key": "professuren",
+      "label": "Professuren",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "universitaetsklinikum": "Universitätsklinikum Aachen",
+      "land": "NW",
+      "mitarbeiter": 9000,
+      "betten": 1400,
+      "ambulante_faelle_pro_jahr": 200000,
+      "stationaere_faelle_pro_jahr": 50000,
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "https://www.ukaachen.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Augsburg",
+      "land": "BY",
+      "mitarbeiter": 7300,
+      "betten": 1699,
+      "ambulante_faelle_pro_jahr": 201261,
+      "stationaere_faelle_pro_jahr": 70612,
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "https://www.uk-augsburg.de/"
+    },
+    {
+      "universitaetsklinikum": "Charité – Universitätsmedizin Berlin: Campus Benjamin Franklin (CBF) in Lichterfelde Campus Berlin-Buch (CBB) in Buch Campus Charité Mitte (CCM) in Mitte Campus Virchow-Klinikum (CVK) im Wedding",
+      "land": "BE",
+      "mitarbeiter": 23479,
+      "betten": 3293,
+      "ambulante_faelle_pro_jahr": 787757,
+      "stationaere_faelle_pro_jahr": 137825,
+      "drittmittel_mio_eur": 295,
+      "professuren": 321,
+      "website": "https://www.charite.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum der Ruhr-Universität Bochum: Nichtlandeseigene Universitätskliniken: Berufsgenossenschaftliches Universitätsklinikum Bergmannsheil Bochum (Träger: Bergbau-Berufsgenossenschaft und HVBG) Institut für Prävention und Arbeitsmedizin der Deutschen Gesetzlichen Unfallversicherung (Träger: Deutsche Gesetzliche Unfallversicherung) Klinik für Psychosomatische Medizin und Psychotherapie des LWL-Universitätsklinikums der Ruhr-Universität Bochum Knappschaftskrankenhaus Bochum-Langendreer (Träger: Bundesknappschaft) LWL-Universitätsklinik Bochum (Psychiatrie – Psychotherapie – Psychosomatik – Präventivmedizin, Träger: Landschaftsverband Westfalen-Lippe) LWL-Universitätsklinik Hamm (Kinder- und Jugendpsychiatrie – Psychotherapie – Psychosomatik, Träger: Landschaftsverband Westfalen-Lippe) Marienhospital Herne (Träger: Stiftung Katholisches Krankenhaus) St. Josef-Hospital Bochum (Träger: St. Elisabeth-Stiftung) Landeseigene Universitätsklinik: Herz- und Diabeteszentrum Nordrhein-Westfalen (in Bad Oeynhausen) Kommunale Kliniken: Mühlenkreiskliniken (Träger Mühlenkreiskliniken AöR) Johannes Wesling Klinikum Minden Krankenhaus Lübbecke-Rahden Auguste-Viktoria-Klinik Bad Oeynhausen Klinikum Herford (Träger Klinikum Herford, AöR)",
+      "land": "NW",
+      "mitarbeiter": 15387,
+      "betten": 5645,
+      "ambulante_faelle_pro_jahr": 565454,
+      "stationaere_faelle_pro_jahr": 190266,
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "http://www.uk.rub.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Bonn",
+      "land": "NW",
+      "mitarbeiter": 9200,
+      "betten": 1341,
+      "ambulante_faelle_pro_jahr": 462043,
+      "stationaere_faelle_pro_jahr": 55317,
+      "drittmittel_mio_eur": 89.899,
+      "professuren": "",
+      "website": "https://www.ukbonn.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Brandenburg an der Havel",
+      "land": "BB",
+      "mitarbeiter": 2000,
+      "betten": 492,
+      "ambulante_faelle_pro_jahr": 48000,
+      "stationaere_faelle_pro_jahr": 26000,
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "https://www.klinikum-brandenburg.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Carl Gustav Carus Dresden",
+      "land": "SN",
+      "mitarbeiter": 7384,
+      "betten": 1410,
+      "ambulante_faelle_pro_jahr": 166409,
+      "stationaere_faelle_pro_jahr": 55281,
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "https://www.uniklinikum-dresden.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Düsseldorf",
+      "land": "NW",
+      "mitarbeiter": 6537,
+      "betten": 1003,
+      "ambulante_faelle_pro_jahr": 310854,
+      "stationaere_faelle_pro_jahr": 45692,
+      "drittmittel_mio_eur": 47.8,
+      "professuren": 120,
+      "website": "https://www.uniklinik-duesseldorf.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Erlangen",
+      "land": "BY",
+      "mitarbeiter": 8000,
+      "betten": 1394,
+      "ambulante_faelle_pro_jahr": 572299,
+      "stationaere_faelle_pro_jahr": 58134,
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "https://www.uk-erlangen.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Essen Standort Essen Ruhrlandklinik, Westdeutsches Lungenzentrum St. Josef Krankenhaus Werden Herzchirurgie Huttrop Westdeutsches Protonentherapiezentrum Essen",
+      "land": "NW",
+      "mitarbeiter": 8500,
+      "betten": 1770,
+      "ambulante_faelle_pro_jahr": 300000,
+      "stationaere_faelle_pro_jahr": 74000,
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "https://www.uniklinikum-essen.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Frankfurt am Main",
+      "land": "HE",
+      "mitarbeiter": 8500,
+      "betten": 1270,
+      "ambulante_faelle_pro_jahr": 480000,
+      "stationaere_faelle_pro_jahr": 46000,
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "https://www.unimedizin-ffm.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Freiburg Campus Freiburg Campus Bad Krozingen (Herzzentrum)",
+      "land": "BW",
+      "mitarbeiter": 15731,
+      "betten": 2210,
+      "ambulante_faelle_pro_jahr": 1061892,
+      "stationaere_faelle_pro_jahr": 90683,
+      "drittmittel_mio_eur": 112.4,
+      "professuren": 109,
+      "website": "https://www.uniklinik-freiburg.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Gießen und Marburg Standort Gießen Standort Marburg",
+      "land": "HE",
+      "mitarbeiter": 10500,
+      "betten": 2230,
+      "ambulante_faelle_pro_jahr": 400000,
+      "stationaere_faelle_pro_jahr": 100000,
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "https://www.ukgm.de/home.html"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Göttingen",
+      "land": "NI",
+      "mitarbeiter": 7900,
+      "betten": 1450,
+      "ambulante_faelle_pro_jahr": 225000,
+      "stationaere_faelle_pro_jahr": 65000,
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "http://www.med.uni-goettingen.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Greifswald",
+      "land": "MV",
+      "mitarbeiter": 4368,
+      "betten": 919,
+      "ambulante_faelle_pro_jahr": 150000,
+      "stationaere_faelle_pro_jahr": 36000,
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "https://www.medizin.uni-greifswald.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Halle (Saale) (UKH)",
+      "land": "ST",
+      "mitarbeiter": 4450,
+      "betten": 1148,
+      "ambulante_faelle_pro_jahr": 212000,
+      "stationaere_faelle_pro_jahr": 34700,
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "https://www.medizin.uni-halle.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Hamburg-Eppendorf (UKE)",
+      "land": "HH",
+      "mitarbeiter": 15300,
+      "betten": 1738,
+      "ambulante_faelle_pro_jahr": 454747,
+      "stationaere_faelle_pro_jahr": 95077,
+      "drittmittel_mio_eur": "",
+      "professuren": 141,
+      "website": "https://www.uke.de/"
+    },
+    {
+      "universitaetsklinikum": "Klinikum der Medizinischen Hochschule Hannover (MHH)",
+      "land": "NI",
+      "mitarbeiter": 8459,
+      "betten": 1520,
+      "ambulante_faelle_pro_jahr": 279108,
+      "stationaere_faelle_pro_jahr": 55106,
+      "drittmittel_mio_eur": 101.4,
+      "professuren": 146,
+      "website": "https://www.mhh.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Heidelberg (UKHD) Universitätsklinikum Thoraxklinik Heidelberg Kreiskrankenhaus Bergstraße",
+      "land": "BW",
+      "mitarbeiter": 14057,
+      "betten": 2599,
+      "ambulante_faelle_pro_jahr": 1244103,
+      "stationaere_faelle_pro_jahr": 88557,
+      "drittmittel_mio_eur": 166,
+      "professuren": "",
+      "website": "https://www.klinikum.uni-heidelberg.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Jena",
+      "land": "TH",
+      "mitarbeiter": 6800,
+      "betten": 1411,
+      "ambulante_faelle_pro_jahr": 475000,
+      "stationaere_faelle_pro_jahr": 53600,
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "https://www.uniklinikum-jena.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Köln",
+      "land": "NW",
+      "mitarbeiter": 12561,
+      "betten": 1500,
+      "ambulante_faelle_pro_jahr": 428089,
+      "stationaere_faelle_pro_jahr": 61595,
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "https://www.uk-koeln.de/"
+    },
+    {
+      "universitaetsklinikum": "Medizinische Universität Lausitz – Carl Thiem",
+      "land": "BB",
+      "mitarbeiter": "",
+      "betten": "",
+      "ambulante_faelle_pro_jahr": "",
+      "stationaere_faelle_pro_jahr": "",
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "https://mul-ct.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Leipzig Herzzentrum Leipzig (Träger: Helios-Klinikum)",
+      "land": "SN",
+      "mitarbeiter": 5981,
+      "betten": 1451,
+      "ambulante_faelle_pro_jahr": 322008,
+      "stationaere_faelle_pro_jahr": 59281,
+      "drittmittel_mio_eur": 63.8,
+      "professuren": "",
+      "website": "https://www.uniklinikum-leipzig.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Magdeburg",
+      "land": "ST",
+      "mitarbeiter": 4843,
+      "betten": 1059,
+      "ambulante_faelle_pro_jahr": 300000,
+      "stationaere_faelle_pro_jahr": 40000,
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "https://www.med.uni-magdeburg.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsmedizin der Johannes Gutenberg-Universität Mainz",
+      "land": "RP",
+      "mitarbeiter": 8726,
+      "betten": 1665,
+      "ambulante_faelle_pro_jahr": 276163,
+      "stationaere_faelle_pro_jahr": 61358,
+      "drittmittel_mio_eur": 67.9,
+      "professuren": "",
+      "website": "https://www.unimedizin-mainz.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Mannheim",
+      "land": "BW",
+      "mitarbeiter": 4481,
+      "betten": 1352,
+      "ambulante_faelle_pro_jahr": 168816,
+      "stationaere_faelle_pro_jahr": 44686,
+      "drittmittel_mio_eur": 56.2,
+      "professuren": "",
+      "website": "https://www.umm.de/"
+    },
+    {
+      "universitaetsklinikum": "Klinikum der Universität München (Fusion der Klinika Innenstadt und Großhadern zu einem Klinikum 1999): Standort Großhadern Standort Innenstadt",
+      "land": "BY",
+      "mitarbeiter": 11683,
+      "betten": 1816,
+      "ambulante_faelle_pro_jahr": 420641,
+      "stationaere_faelle_pro_jahr": 73976,
+      "drittmittel_mio_eur": 134.7,
+      "professuren": 204,
+      "website": "https://www.lmu-klinikum.de/"
+    },
+    {
+      "universitaetsklinikum": "Klinikum rechts der Isar (Klinikum der TU München)",
+      "land": "BY",
+      "mitarbeiter": 6600,
+      "betten": 1161,
+      "ambulante_faelle_pro_jahr": 250000,
+      "stationaere_faelle_pro_jahr": 56000,
+      "drittmittel_mio_eur": "",
+      "professuren": 84,
+      "website": "https://www.mri.tum.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Münster",
+      "land": "NW",
+      "mitarbeiter": 11856,
+      "betten": 1513,
+      "ambulante_faelle_pro_jahr": 515570,
+      "stationaere_faelle_pro_jahr": 51116,
+      "drittmittel_mio_eur": 59.2,
+      "professuren": "",
+      "website": "https://www.ukm.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsmedizin Oldenburg der Universität Oldenburg Evangelisches Krankenhaus Oldenburg 3 Universitätsmedizinische Kliniken Karl-Jaspers-Klinik Bad Zwischenahn 1 Universitätsmedizinische Klinik Klinikum Oldenburg 13 Universitätsmedizinische Kliniken und 4 Universitätsinstitute Pius-Hospital Oldenburg 6 Universitätsmedizinische Kliniken",
+      "land": "NI",
+      "mitarbeiter": 7000,
+      "betten": 1340,
+      "ambulante_faelle_pro_jahr": 130000,
+      "stationaere_faelle_pro_jahr": 50000,
+      "drittmittel_mio_eur": "",
+      "professuren": 70,
+      "website": "https://universitaetsmedizin-oldenburg.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum OWL Universität Bielefeld Evangelisches Klinikum Bethel und Krankenhaus Mara Allgemein- und Viszeralchirurgie Anästhesiologie, Intensiv-, Notfallmedizin, Transfusionsmedizin und Schmerztherapie Epileptologie Innere Medizin, Pneumologie und Internistische Intensivmedizin Kinder- und Jugendmedizin Kinder- und Jugendpsychiatrie und Psychotherapie Medizin für Menschen mit Behinderung, Schwerpunkt psychische Gesundheit Neurochirurgie Neurologie Psychiatrie und Psychotherapie Unfallchirurgie Klinikum Bielefeld Klinik für Hals-, Nasen- und Ohrenheilkunde Klinik für Rheumatologie Klinikum Lippe in Detmold und Lemgo Klinik für Allgemein- und Viszeralchirurgie Klinik für Frauenheilkunde und Geburtshilfe Klinik für Kardiologie, Angiologie und Internistische Intensivmedizin Klinik für Neurologie und Neurogeriatrie Klinik für Urologie",
+      "land": "NW",
+      "mitarbeiter": "",
+      "betten": "",
+      "ambulante_faelle_pro_jahr": "",
+      "stationaere_faelle_pro_jahr": "",
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "https://www.uni-bielefeld.de/fakultaeten/medizin/universitaetsklinikum/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Regensburg",
+      "land": "BY",
+      "mitarbeiter": 4900,
+      "betten": 839,
+      "ambulante_faelle_pro_jahr": 159771,
+      "stationaere_faelle_pro_jahr": 37338,
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "https://www.ukr.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsmedizin Rostock",
+      "land": "MV",
+      "mitarbeiter": 4803,
+      "betten": 1100,
+      "ambulante_faelle_pro_jahr": 211146,
+      "stationaere_faelle_pro_jahr": 40482,
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "https://www.med.uni-rostock.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum des Saarlandes, Homburg (UKS)",
+      "land": "SL",
+      "mitarbeiter": 6073,
+      "betten": 1445,
+      "ambulante_faelle_pro_jahr": 230259,
+      "stationaere_faelle_pro_jahr": 50863,
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "http://www.uniklinik-saarland.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Schleswig-Holstein (UKSH) Standort Kiel Standort Lübeck",
+      "land": "SH",
+      "mitarbeiter": 16618,
+      "betten": 2589,
+      "ambulante_faelle_pro_jahr": 373230,
+      "stationaere_faelle_pro_jahr": 103554,
+      "drittmittel_mio_eur": 111.3,
+      "professuren": 212,
+      "website": "https://www.uksh.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Tübingen Standort Kliniken Berg Standort Kliniken Tal",
+      "land": "BW",
+      "mitarbeiter": 10686,
+      "betten": 1637,
+      "ambulante_faelle_pro_jahr": 397198,
+      "stationaere_faelle_pro_jahr": 68762,
+      "drittmittel_mio_eur": 158.9,
+      "professuren": "",
+      "website": "https://www.medizin.uni-tuebingen.de/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Ulm Standort Oberer Eselsberg Standort Michelsberg Standort Safranberg",
+      "land": "BW",
+      "mitarbeiter": 6423,
+      "betten": 1274,
+      "ambulante_faelle_pro_jahr": 233644,
+      "stationaere_faelle_pro_jahr": 45746,
+      "drittmittel_mio_eur": 69.5,
+      "professuren": "",
+      "website": "https://www.uniklinik-ulm.de/"
+    },
+    {
+      "universitaetsklinikum": "Helios Universitätsklinikum Wuppertal",
+      "land": "NW",
+      "mitarbeiter": 2500,
+      "betten": 1000,
+      "ambulante_faelle_pro_jahr": 100000,
+      "stationaere_faelle_pro_jahr": 50000,
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "https://www.helios-gesundheit.de/kliniken/wuppertal/"
+    },
+    {
+      "universitaetsklinikum": "Universitätsklinikum Würzburg",
+      "land": "BY",
+      "mitarbeiter": 7646,
+      "betten": 1438,
+      "ambulante_faelle_pro_jahr": 281167,
+      "stationaere_faelle_pro_jahr": 72772,
+      "drittmittel_mio_eur": "",
+      "professuren": "",
+      "website": "https://www.ukw.de/"
+    }
+  ],
+  "meta": {
+    "title": "Universitätsklinika in Deutschland - Free Download",
+    "description": "Liste der Universitätsklinika in Deutschland mit Bundesland, Zahl der Mitarbeiter und Betten, ambulanten und stationären Fällen pro Jahr, Drittmitteln, Professuren und Website. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Universitätsklinika in Deutschland | ListBase",
+    "seo_description": "Download Universitätsklinika in Deutschland — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Universitätsklinikum"
+    ]
+  }
+}
