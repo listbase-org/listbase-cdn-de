@@ -1,0 +1,248 @@
+{
+  "id": "de-at-unesco-welterbe",
+  "name": "UNESCO-Welterbe in Österreich",
+  "title": "UNESCO-Welterbe in Österreich",
+  "description": "Welterbestätten in Österreich sowie aktuelle und ehemalige Kandidaten der Tentativliste mit Jahr der Eintragung, Typ (Kultur/Natur), Referenznummer und Kurzbeschreibung.",
+  "category": "tourism",
+  "source": "https://de.wikipedia.org/wiki/Welterbe_in_Österreich",
+  "source_url": "https://de.wikipedia.org/wiki/Welterbe_in_Österreich",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "bezeichnung",
+      "label": "Bezeichnung",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "jahr",
+      "label": "Jahr",
+      "type": "number"
+    },
+    {
+      "key": "typ",
+      "label": "Typ",
+      "type": "string"
+    },
+    {
+      "key": "ref",
+      "label": "Ref",
+      "type": "number"
+    },
+    {
+      "key": "beschreibung",
+      "label": "Beschreibung",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bezeichnung": "Historisches Zentrum der Stadt Salzburg",
+      "status": "Welterbestätte",
+      "jahr": "1996",
+      "typ": "K",
+      "ref": "784",
+      "beschreibung": "Salzburg, die Residenzstadt des Fürsterzbistums gleichen Namens und Heimat Wolfgang Amadeus Mozarts hat nach wie vor ein weltweit bedeutendes Kulturleben (Salzburger Festspiele). Geschlossenes Ensemble vom Mittelalter bis in die Neuzeit mit der Festung Hohensalzburg und den Prunkbauten sowie zahlreiche Plätze des italienischen Barock als Leitbauten."
+    },
+    {
+      "bezeichnung": "Schloss und Park von Schönbrunn",
+      "status": "Welterbestätte",
+      "jahr": "1996",
+      "typ": "K",
+      "ref": "786",
+      "beschreibung": "Sommerresidenz der Habsburger seit dem 18. Jahrhundert. Eine der kulturhistorisch und künstlerisch bedeutendsten spätbarocken Anlagen Europas, mit dem weltweit ersten Zoo (1752) ein Musterbeispiel eines Gesamtkunstwerks der Repräsentationsarchitektur. Die Schlossanlage mit Park in ihrer heutigen Form wurde ab 1743 unter Maria Theresia ausgebaut und war bis Mitte des 19. Jahrhunderts Sommerresidenz der römisch-deutschen und später österreichischen Kaiser. Die Schlossanlage ist die größte in Österreich. Der zugehörige Park umfasst 160 ha."
+    },
+    {
+      "bezeichnung": "Kulturlandschaft Hallstatt–Dachstein/Salzkammergut",
+      "status": "Welterbestätte",
+      "jahr": "1997",
+      "typ": "K",
+      "ref": "806",
+      "beschreibung": "Seit der Vorgeschichte historische Kulturlandschaft im Salzkammergut. Der Hallstätter Salzberg ist Hauptfundort der Hallstattkultur. Das Salzkammergut war bis in das 19. Jahrhundert als wirtschaftliche Kernressource der Habsburgermonarchie Staatsdomäne. Geprägt ist der Kern der Region, das Innere Salzkammergut, von pittoresken Bergstöcken und alpinen Seen. Der Ort Hallstatt weist durch die Platznot am Hallstättersee eine einzigartige Architektur auf. Das Dachsteinmassiv, eine von alters her bewirtschaftete Almenregion, bildet auch eine der Pionierregionen des modernen Alpinismus."
+    },
+    {
+      "bezeichnung": "Semmeringbahn",
+      "status": "Welterbestätte",
+      "jahr": "1998",
+      "typ": "K",
+      "ref": "785",
+      "beschreibung": "Hochalpine, 41 km lange Trasse der Eisenbahn von Wien an die Adria, 1848–1854 als technische Pionierleistung erbaut. Der Sommerfrischeort Semmering war ab 1841 der höchste auf Schienen erreichbare Punkt der Welt. Die Strecke mit ihren zahlreichen Viadukten, Tunnels und Nebenbauten ist bis heute großteils original erhalten und in Vollbetrieb."
+    },
+    {
+      "bezeichnung": "Stadt Graz – Historisches Zentrum und Schloss Eggenberg",
+      "status": "Welterbestätte",
+      "jahr": "1999",
+      "typ": "K",
+      "ref": "931",
+      "beschreibung": "Graz, die alte Residenzstadt der Herzöge Innerösterreichs, hat ein Stadtbild, das seit dem Mittelalter die wichtigsten Architekturstile abbildet. Besonders bedeutend sind der Grazer Schloßberg und die geschlossene Dachlandschaft. Im Jahr 2010 um das Schloss Eggenberg (Lage), eine fürstliche Residenz vor den Toren der alten Stadt, erweitert."
+    },
+    {
+      "bezeichnung": "Kulturlandschaft Wachau",
+      "status": "Welterbestätte",
+      "jahr": "2000",
+      "typ": "K",
+      "ref": "970",
+      "beschreibung": "Das Donau tal zwischen Melk und Krems ist seit der Altsteinzeit kultiviert (Venus von Willendorf) und weist eine besonders pittoreske, vom Weinbau geprägte vielfältige Landschaftsstruktur mit bedeutenden Kulturdenkmälern auf, insbesondere mittelalterlichen Ruinen und den Klöstern Melk und Göttweig. Der Erhalt der charakteristischen Landschaft und Lebensart ist zentrales Anliegen der 13 Wachaugemeinden."
+    },
+    {
+      "bezeichnung": "Kulturlandschaft Fertő/Neusiedler See",
+      "status": "Welterbestätte",
+      "jahr": "2001",
+      "typ": "K",
+      "ref": "772",
+      "beschreibung": "Das Kulterbe umfasst Mitteleuropas größten Steppensee, mit zahlreichen Nebenseen. Die Region ist seit der Vorgeschichte Schnittpunkt verschiedener Kulturen und zeichnet sich durch ihre Vielfalt an bedeutenden Naturräumen, landwirtschaftlichen Gebieten mit Weinbau, alten Siedlungsstätten, darunter die Kleinstadt Rust mit ihrem geschlossenen Stadtbild, und Landpalästen des 18. und 19. Jahrhunderts aus."
+    },
+    {
+      "bezeichnung": "Historisches Zentrum von Wien",
+      "status": "Welterbestätte",
+      "jahr": "2001",
+      "typ": "K",
+      "ref": "1033",
+      "beschreibung": "Die alte Residenzstadt der Kaiser des Heiligen Römischen Reiches und der Habsburgermonarchie, heute Hauptstadt Österreichs, ist ein Zentrum europäischen Geistes- und Kulturlebens. Die Innenstadt ist eines der geschlossensten Stadtdenkmäler Europas, reich an sakralen, politischen und kulturellen Repräsentationsbauten. Geprägt ist sie vom historistischen Ringstraßenstil des 19. Jahrhunderts. Wegen eines Hochhausprojekts auf dem Heumarkt stand die Stätte 2017–2026 auf der Liste des gefährdeten Welterbes."
+    },
+    {
+      "bezeichnung": "Prähistorische Pfahlbauten um die Alpen",
+      "status": "Welterbestätte",
+      "jahr": "2011",
+      "typ": "K",
+      "ref": "1363",
+      "beschreibung": "Zahlreiche Pfahlbau siedlungen an Seen, Flüssen und Feuchtgebieten im Alpenraum zwischen 5000 und 500 vor Christus bilden einen wichtigen Aspekt der Kulturbildung und Kultivierung Europas im Neolithikum und der Bronzezeit. Grenzüberschreitendes Welterbe mit insgesamt 111 Pfahlbaufundstellen, 5 davon in Österreich, die Leitbauten der Mondseekultur am Mondsee und Attersee im Salzkammergut sowie am Keutschacher See in Kärnten"
+    },
+    {
+      "bezeichnung": "Alte Buchenwälder und Buchenurwälder der Karpaten und anderer Regionen Europas",
+      "status": "Welterbestätte",
+      "jahr": "2017",
+      "typ": "N",
+      "ref": "1133",
+      "beschreibung": "Reste der nacheiszeitlichen Primärurwälder Europas mit der Rotbuche als Dominanzpflanze. In Österreich: Wildnisgebiet Dürrenstein, Österreichs einziges Ia-Schutzgebiet (strengstes Reservat), und Kernbereiche im Nationalpark Kalkalpen"
+    },
+    {
+      "bezeichnung": "Grenzen des Römischen Reichs – Donaulimes (westliches Segment)",
+      "status": "Welterbestätte",
+      "jahr": "2021",
+      "typ": "K",
+      "ref": "1608",
+      "beschreibung": "Zum 1. Februar 2018 wurde ein gemeinsamer Antrag Deutschlands, Österreichs, der Slowakei und Ungarns eingereicht, das Welterbe Grenzen des römischen Reichs um den Donaulimes zu erweitern. Dieser bildet jedoch nun eine eigene Welterbestätte."
+    },
+    {
+      "bezeichnung": "Bedeutende Kurstädte Europas",
+      "status": "Welterbestätte",
+      "jahr": "2021",
+      "typ": "K",
+      "ref": "1613",
+      "beschreibung": "Vertreter der großbürgerlichen Bade- und Kur -Kultur des 19. Jahrhunderts als Wurzel des Tourismus als weltweites Phänomen wie auch moderner Gesundheitsvorsorge und dem Urlaub als Konzept. Die transnationale Welterbestätte gemeinsam mit Belgien, Deutschland, Frankreich, Italien, Tschechien und dem Vereinigten Königreich enthält aus Österreich Baden bei Wien, den mondänen Vorort der Hauptstadt des Kaiserreichs."
+    },
+    {
+      "bezeichnung": "Die Eisenstraße mit dem Erzberg und der Altstadt von Steyr",
+      "status": "aktueller Kandidat",
+      "jahr": "2002",
+      "typ": "K/N",
+      "ref": "20",
+      "beschreibung": "Der seit der Frühen Neuzeit bestehende Eisenbergbau und die Kleineisenindustrie der Umgebung war die „Waffenkammer der Habsburger“. Sie zieht sich von der Industriestadt Leoben über den Erzberg und Hieflau bis zur historischen Industrie- und Handelsstadt Steyr, der ersten „Hauptstadt“ der Steiermark im Mittelalter, mit ihrer mittelalterlich bis barocken Kern- und Brückenstadt. Die Eisenstraße ist eine der wichtigen Industrielandschaften Europas, geprägt durch die inneralpine Lage. Stätte ist für 2029 nominiert."
+    },
+    {
+      "bezeichnung": "Großglockner-Hochalpenstraße",
+      "status": "aktueller Kandidat",
+      "jahr": "2016",
+      "typ": "K",
+      "ref": "6074",
+      "beschreibung": "Herausragendes Beispiel einer schon mit Hinblick auf den Tourismus erbauten Hochgebirgsstraße, 1935 fertiggestellt. Zentrales Element ist die Kaiser-Franz-Josefs-Höhe mit Blick auf den Großglockner, Österreichs höchstem Berg. Die Kombination der landschaftlich sanften Trassierung wie auch der intensiven Nutzung von 1 Million Besucher jährlich mit dem umgebenden Nationalpark Hohe Tauern (Tentativliste Nr. 1645) ist weltweit einzigartig. Der Bau der Straße gilt auch als Meilenstein der jungen österreichischen Republik. Stätte erhielt 2019 ein „defer“ von der ICOMOS."
+    },
+    {
+      "bezeichnung": "Altstadt von Hall in Tirol",
+      "status": "ehemaliger Kandidat",
+      "jahr": "1994–2013",
+      "typ": "K",
+      "ref": "21",
+      "beschreibung": "Hall in Tirol wurde 1303 zur Stadt erhoben und verdankte seine wirtschaftliche Bedeutung vor allem der Salzgewinnung. 1477 wurde die landesfürstliche Münzstätte Tirols nach Hall verlegt. Die Altstadt ist als kleine gotische Stadt erhalten. Seit 2013 steht nur noch die Münze Hall auf der Tentativliste (Ref. 5801)."
+    },
+    {
+      "bezeichnung": "Bedeutende Kurorte Europas",
+      "status": "ehemaliger Kandidat",
+      "jahr": "2014–2016",
+      "typ": "K",
+      "ref": "5930",
+      "beschreibung": "Transnationaler Vorschlag enthält seit 2016 nicht mehr Bad Ischl, die „Kaiserstadt“ als Sommerfrische."
+    },
+    {
+      "bezeichnung": "Bregenzerwald",
+      "status": "ehemaliger Kandidat",
+      "jahr": "1994–2025",
+      "typ": "K",
+      "ref": "27",
+      "beschreibung": "Traditionelles alpines Bauernland mit bis heute erhaltener Siedlungsstruktur und eigenständiger Lebensart, mit dem Bregenzerwälderhaus als charakteristische Bauform."
+    },
+    {
+      "bezeichnung": "Stift Kremsmünster",
+      "status": "ehemaliger Kandidat",
+      "jahr": "1994–2025",
+      "typ": "K",
+      "ref": "28",
+      "beschreibung": "Charakteristisches Beispiel benediktischer Spiritualität. Im 8. Jahrhundert gegründet, Anlage des 17. und 18. Jahrhunderts im Sinne des aufgeklärten Barock, mit bedeutender Kunstsammlung."
+    },
+    {
+      "bezeichnung": "Stift Heiligenkreuz",
+      "status": "ehemaliger Kandidat",
+      "jahr": "1994–2025",
+      "typ": "K",
+      "ref": "30",
+      "beschreibung": "Das Zisterzienser kloster hat als eines von wenigen Klöstern in Europa eine seit dem 12. Jahrhundert geschlossene Tradition und gilt als Musterbeispiel der Traditionspflege. Grablege der frühen Markgrafen und Herzöge von Österreich, der Babenberger, heute theologische Hochschule. Die Anlage vereint Romanik, Gotik und Barock."
+    },
+    {
+      "bezeichnung": "Burg Hochosterwitz",
+      "status": "ehemaliger Kandidat",
+      "jahr": "1994–2025",
+      "typ": "K",
+      "ref": "31",
+      "beschreibung": "Prachtvollste mittelalterliche Burganlage Österreichs. Seit 1571 in Besitz einer Familie, und auch Zeugnis der Reformation in Österreich."
+    },
+    {
+      "bezeichnung": "Dom zu Gurk",
+      "status": "ehemaliger Kandidat",
+      "jahr": "1994–2025",
+      "typ": "K",
+      "ref": "32",
+      "beschreibung": "Bedeutsamste erhaltene romanische Kirchenanlage Österreich. Gegründet im 11. Jahrhundert, in den Türkenkriegen zur Wehranlage umgebaut. Reicher romanischer und barocker Schmuck."
+    },
+    {
+      "bezeichnung": "Kulturlandschaft Innsbruck–Nordkette/Karwendel",
+      "status": "ehemaliger Kandidat",
+      "jahr": "2002–2025",
+      "typ": "K/N",
+      "ref": "19",
+      "beschreibung": "Innsbruck, eine Herzogsstadt der Renaissance, ist eine der wenigen großen Alpenstädte. Besonderheit ist die enge Verbindung von urbaner Kultur und hochalpinem Raum, wozu die Inntalkette des Karwendelgebirges (wegen ihrer Lage nördlich von Innsbruck „Nordkette“ genannt) gehört. Der Alpenpark Karwendel gehört zu den wichtigsten Großschutzgebieten der Alpen."
+    },
+    {
+      "bezeichnung": "Nationalpark Hohe Tauern",
+      "status": "ehemaliger Kandidat",
+      "jahr": "2003–2025",
+      "typ": "N",
+      "ref": "1645",
+      "beschreibung": "Eines der bedeutendsten Großschutzgebiete des alpinen Hochgebirgsraumes, mit bäuerlichem Kultur- und Almenland bis hin zu hochalpiner Urlandschaft. Durch die Kernzone zieht sich eine bedeutende Panoramastraße, die Großglockner-Hochalpenstraße (Tentativliste Nr. 6074)."
+    },
+    {
+      "bezeichnung": "Hall in Tirol – Die Münze",
+      "status": "ehemaliger Kandidat",
+      "jahr": "2013–2025",
+      "typ": "K",
+      "ref": "5801",
+      "beschreibung": "Hall in Tirol hat seit 1477 eine Münzstätte, in der 1486 die Prägung der ersten Silbermünze erfolgte, des Guldiners Sigismunds des Münzreichen. 1567 wurde die Münzstätte in die Burg Hasegg verlegt, wo das erste Mal eine maschinelle Münzprägung durch Walzenprägung vorgenommen wurde. 1809 wurde die Münzprägung eingestellt. 1975 wurde die Münze Hall als Museum „Alte Münze“ wiedereröffnet."
+    }
+  ],
+  "meta": {
+    "title": "UNESCO-Welterbe in Österreich - Free Download",
+    "description": "Welterbestätten in Österreich sowie aktuelle und ehemalige Kandidaten der Tentativliste mit Jahr der Eintragung, Typ (Kultur/Natur), Referenznummer und Kurzbeschreibung. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "UNESCO-Welterbe in Österreich | ListBase",
+    "seo_description": "Download UNESCO-Welterbe in Österreich — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Welterbe_in_Österreich"
+    ]
+  }
+}
