@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-05T02:21:12.940Z",
-  "total_datasets": 528,
-  "total_records": 1876760,
+  "generated": "2026-11-05T02:21:21.735Z",
+  "total_datasets": 529,
+  "total_records": 1876830,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -5153,6 +5153,34 @@
         "xlsx": {
           "name": "de-kurorte_DE.xlsx",
           "size": 19527
+        }
+      }
+    },
+    {
+      "id": "de-aussenminister-1848-heute",
+      "name": "Deutsche Außenminister seit 1848",
+      "category": "history",
+      "record_count": 70,
+      "columns": [
+        "staat_amt",
+        "name",
+        "lebensdaten",
+        "amtszeitstart",
+        "amtszeitende",
+        "partei",
+        "anmerkungen"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Außenminister",
+      "updated": "2026-11",
+      "size": 23941,
+      "files": {
+        "csv": {
+          "name": "de-aussenminister-1848-heute_DE.csv",
+          "size": 11089
+        },
+        "xlsx": {
+          "name": "de-aussenminister-1848-heute_DE.xlsx",
+          "size": 10554
         }
       }
     },
