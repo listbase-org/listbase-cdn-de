@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-05T02:21:39.543Z",
-  "total_datasets": 531,
-  "total_records": 1876867,
+  "generated": "2026-11-05T02:21:49.781Z",
+  "total_datasets": 532,
+  "total_records": 1876883,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "transport",
@@ -15054,6 +15054,32 @@
         "xlsx": {
           "name": "de-freizeitparks_DE.xlsx",
           "size": 8750
+        }
+      }
+    },
+    {
+      "id": "de-nationalparks",
+      "name": "Nationalparks in Deutschland",
+      "category": "tourism",
+      "record_count": 16,
+      "columns": [
+        "name",
+        "land",
+        "gruendung",
+        "groesse_ha",
+        "bemerkung"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Nationalparks_in_Deutschland",
+      "updated": "2026-11",
+      "size": 4243,
+      "files": {
+        "csv": {
+          "name": "de-nationalparks_DE.csv",
+          "size": 1092
+        },
+        "xlsx": {
+          "name": "de-nationalparks_DE.xlsx",
+          "size": 7544
         }
       }
     },

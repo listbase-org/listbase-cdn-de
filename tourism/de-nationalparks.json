@@ -1,0 +1,163 @@
+{
+  "id": "de-nationalparks",
+  "name": "Nationalparks in Deutschland",
+  "title": "Nationalparks in Deutschland",
+  "description": "Alle Nationalparks in Deutschland mit Bundesland, Gründungsdatum, Fläche in Hektar und Bemerkungen.",
+  "category": "tourism",
+  "source": "https://de.wikipedia.org/wiki/Nationalparks_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Nationalparks_in_Deutschland",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "land",
+      "label": "Land",
+      "type": "string"
+    },
+    {
+      "key": "gruendung",
+      "label": "Gruendung",
+      "type": "string"
+    },
+    {
+      "key": "groesse_ha",
+      "label": "Groesse Ha",
+      "type": "number"
+    },
+    {
+      "key": "bemerkung",
+      "label": "Bemerkung",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Nationalpark Bayerischer Wald",
+      "land": "BY",
+      "gruendung": "07.10.1970",
+      "groesse_ha": 24850,
+      "bemerkung": "vor 1997: 13.042 ha vor 2020: 24.217 ha"
+    },
+    {
+      "name": "Nationalpark Berchtesgaden",
+      "land": "BY",
+      "gruendung": "01.08.1978",
+      "groesse_ha": 20804,
+      "bemerkung": ""
+    },
+    {
+      "name": "Nationalpark Schleswig-Holsteinisches Wattenmeer",
+      "land": "SH",
+      "gruendung": "01.10.1985",
+      "groesse_ha": 441500,
+      "bemerkung": ""
+    },
+    {
+      "name": "Nationalpark Niedersächsisches Wattenmeer",
+      "land": "NI",
+      "gruendung": "01.01.1986",
+      "groesse_ha": 345000,
+      "bemerkung": ""
+    },
+    {
+      "name": "Nationalpark Hamburgisches Wattenmeer",
+      "land": "HH",
+      "gruendung": "09.04.1990",
+      "groesse_ha": 13750,
+      "bemerkung": ""
+    },
+    {
+      "name": "Nationalpark Jasmund",
+      "land": "MV",
+      "gruendung": "01.10.1990",
+      "groesse_ha": 3070,
+      "bemerkung": ""
+    },
+    {
+      "name": "Nationalpark Harz",
+      "land": "NI ST",
+      "gruendung": "01.01.2006",
+      "groesse_ha": 24732,
+      "bemerkung": "Vorgänger 1990/94"
+    },
+    {
+      "name": "Nationalpark Sächsische Schweiz",
+      "land": "SN",
+      "gruendung": "01.10.1990",
+      "groesse_ha": 9350,
+      "bemerkung": ""
+    },
+    {
+      "name": "Müritz-Nationalpark",
+      "land": "MV",
+      "gruendung": "01.10.1990",
+      "groesse_ha": 32200,
+      "bemerkung": ""
+    },
+    {
+      "name": "Nationalpark Vorpommersche Boddenlandschaft",
+      "land": "MV",
+      "gruendung": "01.10.1990",
+      "groesse_ha": 78600,
+      "bemerkung": ""
+    },
+    {
+      "name": "Nationalpark Unteres Odertal",
+      "land": "BB",
+      "gruendung": "28.06.1995",
+      "groesse_ha": 10323,
+      "bemerkung": ""
+    },
+    {
+      "name": "Nationalpark Hainich",
+      "land": "TH",
+      "gruendung": "31.12.1997",
+      "groesse_ha": 7513,
+      "bemerkung": ""
+    },
+    {
+      "name": "Nationalpark Eifel",
+      "land": "NW",
+      "gruendung": "01.01.2004",
+      "groesse_ha": 10770,
+      "bemerkung": ""
+    },
+    {
+      "name": "Nationalpark Kellerwald-Edersee",
+      "land": "HE",
+      "gruendung": "01.01.2004",
+      "groesse_ha": 7688,
+      "bemerkung": ""
+    },
+    {
+      "name": "Nationalpark Schwarzwald",
+      "land": "BW",
+      "gruendung": "01.01.2014",
+      "groesse_ha": 11267,
+      "bemerkung": ""
+    },
+    {
+      "name": "Nationalpark Hunsrück-Hochwald",
+      "land": "RP SL",
+      "gruendung": "01.03.2015",
+      "groesse_ha": 10230,
+      "bemerkung": ""
+    }
+  ],
+  "meta": {
+    "title": "Nationalparks in Deutschland - Free Download",
+    "description": "Alle Nationalparks in Deutschland mit Bundesland, Gründungsdatum, Fläche in Hektar und Bemerkungen. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Nationalparks in Deutschland | ListBase",
+    "seo_description": "Download Nationalparks in Deutschland — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Nationalparks_in_Deutschland"
+    ]
+  }
+}
