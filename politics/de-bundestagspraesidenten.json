@@ -1,0 +1,400 @@
+{
+  "id": "de-bundestagspraesidenten",
+  "name": "Präsidenten des Deutschen Bundestages",
+  "title": "Präsidenten des Deutschen Bundestages",
+  "description": "Liste aller Präsidentinnen und Präsidenten des Deutschen Bundestages seit 1949 mit Lebensdaten, Fraktion, Amtszeit, Wahlkreis und Wahlergebnis.",
+  "category": "politics",
+  "source": "https://de.wikipedia.org/wiki/Präsident_des_Deutschen_Bundestages",
+  "source_url": "https://de.wikipedia.org/wiki/Präsident_des_Deutschen_Bundestages",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "praesident",
+      "label": "Praesident",
+      "type": "string"
+    },
+    {
+      "key": "lebensdaten",
+      "label": "Lebensdaten",
+      "type": "string"
+    },
+    {
+      "key": "fraktion_partei",
+      "label": "Fraktion Partei",
+      "type": "string"
+    },
+    {
+      "key": "beginn_amtszeit",
+      "label": "Beginn Amtszeit",
+      "type": "string"
+    },
+    {
+      "key": "ende_amtszeit",
+      "label": "Ende Amtszeit",
+      "type": "string"
+    },
+    {
+      "key": "laenge_amtszeit",
+      "label": "Laenge Amtszeit",
+      "type": "string"
+    },
+    {
+      "key": "wahlkreis",
+      "label": "Wahlkreis",
+      "type": "string"
+    },
+    {
+      "key": "wahlergebnis",
+      "label": "Wahlergebnis",
+      "type": "string"
+    },
+    {
+      "key": "wahlergebnis_prozent",
+      "label": "Wahlergebnis Prozent",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nr": 1,
+      "praesident": "Erich Köhler",
+      "lebensdaten": "1892–1958",
+      "fraktion_partei": "CDU/CSU (CDU)",
+      "beginn_amtszeit": "7. September 1949",
+      "ende_amtszeit": "18. Oktober 1950",
+      "laenge_amtszeit": "1 Jahr und 41 Tage",
+      "wahlkreis": "über die Landesliste Hessen",
+      "wahlergebnis": "346 der 402 abgegebenen Stimmen",
+      "wahlergebnis_prozent": "86,07 %"
+    },
+    {
+      "nr": 2,
+      "praesident": "Hermann Ehlers",
+      "lebensdaten": "1904–1954",
+      "fraktion_partei": "CDU/CSU (CDU)",
+      "beginn_amtszeit": "19. Oktober 1950",
+      "ende_amtszeit": "29. Oktober 1954 (†)",
+      "laenge_amtszeit": "4 Jahre und 10 Tage",
+      "wahlkreis": "über die Landesliste Nordrhein-Westfalen",
+      "wahlergebnis": "201 von 325 abgegebenen Stimmen",
+      "wahlergebnis_prozent": "61,84 % (1950)"
+    },
+    {
+      "nr": 2,
+      "praesident": "Hermann Ehlers",
+      "lebensdaten": "1904–1954",
+      "fraktion_partei": "CDU/CSU (CDU)",
+      "beginn_amtszeit": "19. Oktober 1950",
+      "ende_amtszeit": "29. Oktober 1954 (†)",
+      "laenge_amtszeit": "4 Jahre und 10 Tage",
+      "wahlkreis": "Delmenhorst-Wesermarsch",
+      "wahlergebnis": "466 der 500 abgegebenen Stimmen",
+      "wahlergebnis_prozent": "93,2 % (1953)"
+    },
+    {
+      "nr": 3,
+      "praesident": "Eugen Gerstenmaier",
+      "lebensdaten": "1906–1986",
+      "fraktion_partei": "CDU/CSU (CDU)",
+      "beginn_amtszeit": "16. November 1954",
+      "ende_amtszeit": "31. Januar 1969",
+      "laenge_amtszeit": "14 Jahre und 76 Tage",
+      "wahlkreis": "Backnang",
+      "wahlergebnis": "204 der 409 abgegebenen Stimmen, 190 Gegenstimmen, 15 Enthaltungen",
+      "wahlergebnis_prozent": "49,88 % (1954)"
+    },
+    {
+      "nr": 3,
+      "praesident": "Eugen Gerstenmaier",
+      "lebensdaten": "1906–1986",
+      "fraktion_partei": "CDU/CSU (CDU)",
+      "beginn_amtszeit": "16. November 1954",
+      "ende_amtszeit": "31. Januar 1969",
+      "laenge_amtszeit": "14 Jahre und 76 Tage",
+      "wahlkreis": "Backnang",
+      "wahlergebnis": "437 der 494 abgegebenen Stimmen",
+      "wahlergebnis_prozent": "88,46 % (1957)"
+    },
+    {
+      "nr": 3,
+      "praesident": "Eugen Gerstenmaier",
+      "lebensdaten": "1906–1986",
+      "fraktion_partei": "CDU/CSU (CDU)",
+      "beginn_amtszeit": "16. November 1954",
+      "ende_amtszeit": "31. Januar 1969",
+      "laenge_amtszeit": "14 Jahre und 76 Tage",
+      "wahlkreis": "Backnang",
+      "wahlergebnis": "463 der 504 abgegebenen Stimmen",
+      "wahlergebnis_prozent": "91,87 (1961)"
+    },
+    {
+      "nr": 3,
+      "praesident": "Eugen Gerstenmaier",
+      "lebensdaten": "1906–1986",
+      "fraktion_partei": "CDU/CSU (CDU)",
+      "beginn_amtszeit": "16. November 1954",
+      "ende_amtszeit": "31. Januar 1969",
+      "laenge_amtszeit": "14 Jahre und 76 Tage",
+      "wahlkreis": "Schwäbisch Gmünd – Backnang",
+      "wahlergebnis": "384 der 507 abgegebenen Stimmen",
+      "wahlergebnis_prozent": "75,73 % (1965)"
+    },
+    {
+      "nr": 4,
+      "praesident": "Kai-Uwe von Hassel",
+      "lebensdaten": "1913–1997",
+      "fraktion_partei": "CDU/CSU (CDU)",
+      "beginn_amtszeit": "5. Februar 1969",
+      "ende_amtszeit": "13. Dezember 1972",
+      "laenge_amtszeit": "3 Jahre und 312 Tage",
+      "wahlkreis": "Steinburg – Dithmarschen-Süd",
+      "wahlergebnis": "262 von 457 abgegebenen Stimmen, 123 Gegenstimmen, 29 Enthaltungen, 43 ungültige Stimmen",
+      "wahlergebnis_prozent": "57,3 % (1969)"
+    },
+    {
+      "nr": 4,
+      "praesident": "Kai-Uwe von Hassel",
+      "lebensdaten": "1913–1997",
+      "fraktion_partei": "CDU/CSU (CDU)",
+      "beginn_amtszeit": "5. Februar 1969",
+      "ende_amtszeit": "13. Dezember 1972",
+      "laenge_amtszeit": "3 Jahre und 312 Tage",
+      "wahlkreis": "Steinburg – Süderdithmarschen",
+      "wahlergebnis": "411 der 517 abgegebenen Stimmen",
+      "wahlergebnis_prozent": "79,50 % (1969)"
+    },
+    {
+      "nr": 5,
+      "praesident": "Annemarie Renger",
+      "lebensdaten": "1919–2008",
+      "fraktion_partei": "SPD",
+      "beginn_amtszeit": "13. Dezember 1972",
+      "ende_amtszeit": "14. Dezember 1976",
+      "laenge_amtszeit": "4 Jahre und 1 Tag",
+      "wahlkreis": "über die Landesliste Nordrhein-Westfalen",
+      "wahlergebnis": "438 der 516 abgegebenen Stimmen",
+      "wahlergebnis_prozent": "84,88 %"
+    },
+    {
+      "nr": 6,
+      "praesident": "Karl Carstens",
+      "lebensdaten": "1914–1992",
+      "fraktion_partei": "CDU/CSU (CDU)",
+      "beginn_amtszeit": "14. Dezember 1976",
+      "ende_amtszeit": "31. Mai 1979",
+      "laenge_amtszeit": "2 Jahre und 168 Tage",
+      "wahlkreis": "über die Landesliste Schleswig-Holstein",
+      "wahlergebnis": "346 der 516 abgegebenen Stimmen",
+      "wahlergebnis_prozent": "67,05 %"
+    },
+    {
+      "nr": 7,
+      "praesident": "Richard Stücklen",
+      "lebensdaten": "1916–2002",
+      "fraktion_partei": "CDU/CSU (CSU)",
+      "beginn_amtszeit": "31. Mai 1979",
+      "ende_amtszeit": "29. März 1983",
+      "laenge_amtszeit": "3 Jahre und 302 Tage",
+      "wahlkreis": "Roth",
+      "wahlergebnis": "410 von 469 abgegebenen Stimmen",
+      "wahlergebnis_prozent": "87,42 % (1979)"
+    },
+    {
+      "nr": 7,
+      "praesident": "Richard Stücklen",
+      "lebensdaten": "1916–2002",
+      "fraktion_partei": "CDU/CSU (CSU)",
+      "beginn_amtszeit": "31. Mai 1979",
+      "ende_amtszeit": "29. März 1983",
+      "laenge_amtszeit": "3 Jahre und 302 Tage",
+      "wahlkreis": "Roth",
+      "wahlergebnis": "463 der 515 abgegebenen Stimmen",
+      "wahlergebnis_prozent": "89,90 % (1980)"
+    },
+    {
+      "nr": 8,
+      "praesident": "Rainer Barzel",
+      "lebensdaten": "1924–2006",
+      "fraktion_partei": "CDU/CSU (CDU)",
+      "beginn_amtszeit": "29. März 1983",
+      "ende_amtszeit": "25. Oktober 1984",
+      "laenge_amtszeit": "1 Jahr und 210 Tage",
+      "wahlkreis": "über die Landesliste Nordrhein-Westfalen",
+      "wahlergebnis": "407 der 509 abgegebenen Stimmen",
+      "wahlergebnis_prozent": "79,96 %"
+    },
+    {
+      "nr": 9,
+      "praesident": "Philipp Jenninger",
+      "lebensdaten": "1932–2018",
+      "fraktion_partei": "CDU/CSU (CDU)",
+      "beginn_amtszeit": "5. November 1984",
+      "ende_amtszeit": "11. November 1988",
+      "laenge_amtszeit": "4 Jahre und 6 Tage",
+      "wahlkreis": "Schwäbisch Hall",
+      "wahlergebnis": "340 von 471 Stimmen",
+      "wahlergebnis_prozent": "72,19 % (1984)"
+    },
+    {
+      "nr": 9,
+      "praesident": "Philipp Jenninger",
+      "lebensdaten": "1932–2018",
+      "fraktion_partei": "CDU/CSU (CDU)",
+      "beginn_amtszeit": "5. November 1984",
+      "ende_amtszeit": "11. November 1988",
+      "laenge_amtszeit": "4 Jahre und 6 Tage",
+      "wahlkreis": "Schwäbisch Hall",
+      "wahlergebnis": "393 der 514 abgegebenen Stimmen",
+      "wahlergebnis_prozent": "76,46 % (1988)"
+    },
+    {
+      "nr": 10,
+      "praesident": "Rita Süssmuth",
+      "lebensdaten": "1937–2026",
+      "fraktion_partei": "CDU/CSU (CDU)",
+      "beginn_amtszeit": "25. November 1988",
+      "ende_amtszeit": "26. Oktober 1998",
+      "laenge_amtszeit": "9 Jahre und 335 Tage",
+      "wahlkreis": "Göttingen",
+      "wahlergebnis": "380 von 475 Stimmen",
+      "wahlergebnis_prozent": "80 % (1988)"
+    },
+    {
+      "nr": 10,
+      "praesident": "Rita Süssmuth",
+      "lebensdaten": "1937–2026",
+      "fraktion_partei": "CDU/CSU (CDU)",
+      "beginn_amtszeit": "25. November 1988",
+      "ende_amtszeit": "26. Oktober 1998",
+      "laenge_amtszeit": "9 Jahre und 335 Tage",
+      "wahlkreis": "Göttingen",
+      "wahlergebnis": "525 von 650 Stimmen; 81 Gegenstimmen; 44 Enthaltungen (1990)",
+      "wahlergebnis_prozent": "80,8 % (1990)"
+    },
+    {
+      "nr": 10,
+      "praesident": "Rita Süssmuth",
+      "lebensdaten": "1937–2026",
+      "fraktion_partei": "CDU/CSU (CDU)",
+      "beginn_amtszeit": "25. November 1988",
+      "ende_amtszeit": "26. Oktober 1998",
+      "laenge_amtszeit": "9 Jahre und 335 Tage",
+      "wahlkreis": "Göttingen",
+      "wahlergebnis": "555 von 669 Stimmen; 81 Gegenstimmen, 32 Enthaltungen, 1 ungültige Stimme (1994)",
+      "wahlergebnis_prozent": "83,0 % (1994)"
+    },
+    {
+      "nr": 11,
+      "praesident": "Wolfgang Thierse",
+      "lebensdaten": "* 1943",
+      "fraktion_partei": "SPD",
+      "beginn_amtszeit": "26. Oktober 1998",
+      "ende_amtszeit": "18. Oktober 2005",
+      "laenge_amtszeit": "6 Jahre und 357 Tage",
+      "wahlkreis": "über die Landesliste Berlin",
+      "wahlergebnis": "512 von 666 Stimmen; 109 Gegenstimmen; 45 Enthaltungen (1998)",
+      "wahlergebnis_prozent": "76,9 % (1998)"
+    },
+    {
+      "nr": 11,
+      "praesident": "Wolfgang Thierse",
+      "lebensdaten": "* 1943",
+      "fraktion_partei": "SPD",
+      "beginn_amtszeit": "26. Oktober 1998",
+      "ende_amtszeit": "18. Oktober 2005",
+      "laenge_amtszeit": "6 Jahre und 357 Tage",
+      "wahlkreis": "Berlin-Pankow",
+      "wahlergebnis": "357 von 596 Stimmen, 219 Gegenstimmen, 20 Enthaltungen (2002)",
+      "wahlergebnis_prozent": "59,9 % (2002)"
+    },
+    {
+      "nr": 12,
+      "praesident": "Norbert Lammert",
+      "lebensdaten": "* 1948",
+      "fraktion_partei": "CDU/CSU (CDU)",
+      "beginn_amtszeit": "18. Oktober 2005",
+      "ende_amtszeit": "24. Oktober 2017",
+      "laenge_amtszeit": "12 Jahre und 6 Tage",
+      "wahlkreis": "über die Landesliste Nordrhein-Westfalen",
+      "wahlergebnis": "564 von 607 Stimmen, 25 Gegenstimmen, 17 Enthaltungen, 1 ungültige Stimme (2005)",
+      "wahlergebnis_prozent": "92,9 % (2005)"
+    },
+    {
+      "nr": 12,
+      "praesident": "Norbert Lammert",
+      "lebensdaten": "* 1948",
+      "fraktion_partei": "CDU/CSU (CDU)",
+      "beginn_amtszeit": "18. Oktober 2005",
+      "ende_amtszeit": "24. Oktober 2017",
+      "laenge_amtszeit": "12 Jahre und 6 Tage",
+      "wahlkreis": "über die Landesliste Nordrhein-Westfalen",
+      "wahlergebnis": "522 von 617 Stimmen, 66 Gegenstimmen, 29 Enthaltungen (2009)",
+      "wahlergebnis_prozent": "84,6 % (2009)"
+    },
+    {
+      "nr": 12,
+      "praesident": "Norbert Lammert",
+      "lebensdaten": "* 1948",
+      "fraktion_partei": "CDU/CSU (CDU)",
+      "beginn_amtszeit": "18. Oktober 2005",
+      "ende_amtszeit": "24. Oktober 2017",
+      "laenge_amtszeit": "12 Jahre und 6 Tage",
+      "wahlkreis": "über die Landesliste Nordrhein-Westfalen",
+      "wahlergebnis": "591 von 625 Stimmen, 26 Gegenstimmen, 8 Enthaltungen (2013)",
+      "wahlergebnis_prozent": "94,6 % (2013)"
+    },
+    {
+      "nr": 13,
+      "praesident": "Wolfgang Schäuble",
+      "lebensdaten": "1942–2023",
+      "fraktion_partei": "CDU/CSU (CDU)",
+      "beginn_amtszeit": "24. Oktober 2017",
+      "ende_amtszeit": "26. Oktober 2021",
+      "laenge_amtszeit": "4 Jahre und 2 Tage",
+      "wahlkreis": "Offenburg",
+      "wahlergebnis": "501 von 705 Stimmen; 173 Gegenstimmen, 30 Enthaltungen, 1 ungültige Stimme",
+      "wahlergebnis_prozent": "71,1 %"
+    },
+    {
+      "nr": 14,
+      "praesident": "Bärbel Bas",
+      "lebensdaten": "* 1968",
+      "fraktion_partei": "SPD",
+      "beginn_amtszeit": "26. Oktober 2021",
+      "ende_amtszeit": "25. März 2025",
+      "laenge_amtszeit": "3 Jahre und 150 Tage",
+      "wahlkreis": "Duisburg I",
+      "wahlergebnis": "576 von 724 Stimmen; 90 Gegenstimmen, 58 Enthaltungen",
+      "wahlergebnis_prozent": "79,6 %"
+    },
+    {
+      "nr": 15,
+      "praesident": "Julia Klöckner",
+      "lebensdaten": "* 1972",
+      "fraktion_partei": "CDU/CSU (CDU)",
+      "beginn_amtszeit": "25. März 2025",
+      "ende_amtszeit": "amtierend",
+      "laenge_amtszeit": "1 Jahr und 225 Tage",
+      "wahlkreis": "Kreuznach",
+      "wahlergebnis": "382 von 630 Stimmen; 204 Gegenstimmen, 31 Enthaltungen",
+      "wahlergebnis_prozent": "60,6 %"
+    }
+  ],
+  "meta": {
+    "title": "Präsidenten des Deutschen Bundestages - Free Download",
+    "description": "Liste aller Präsidentinnen und Präsidenten des Deutschen Bundestages seit 1949 mit Lebensdaten, Fraktion, Amtszeit, Wahlkreis und Wahlergebnis. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Präsidenten des Deutschen Bundestages | ListBase",
+    "seo_description": "Download Präsidenten des Deutschen Bundestages — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Präsident_des_Deutschen_Bundestages"
+    ]
+  }
+}

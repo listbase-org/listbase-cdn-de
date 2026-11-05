@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-05T02:21:30.511Z",
-  "total_datasets": 530,
-  "total_records": 1876840,
+  "generated": "2026-11-05T02:21:39.543Z",
+  "total_datasets": 531,
+  "total_records": 1876867,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "reference",
@@ -5884,6 +5884,37 @@
         "xlsx": {
           "name": "de-bundespraesidenten_DE.xlsx",
           "size": 7736
+        }
+      }
+    },
+    {
+      "id": "de-bundestagspraesidenten",
+      "name": "Präsidenten des Deutschen Bundestages",
+      "category": "politics",
+      "record_count": 27,
+      "columns": [
+        "nr",
+        "praesident",
+        "lebensdaten",
+        "fraktion_partei",
+        "beginn_amtszeit",
+        "ende_amtszeit",
+        "laenge_amtszeit",
+        "wahlkreis",
+        "wahlergebnis",
+        "wahlergebnis_prozent"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Präsident_des_Deutschen_Bundestages",
+      "updated": "2026-11",
+      "size": 14195,
+      "files": {
+        "csv": {
+          "name": "de-bundestagspraesidenten_DE.csv",
+          "size": 5522
+        },
+        "xlsx": {
+          "name": "de-bundestagspraesidenten_DE.xlsx",
+          "size": 9308
         }
       }
     },
