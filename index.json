@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-05T02:21:21.735Z",
-  "total_datasets": 529,
-  "total_records": 1876830,
+  "generated": "2026-11-05T02:21:30.511Z",
+  "total_datasets": 530,
+  "total_records": 1876840,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "geography",
@@ -3197,6 +3197,39 @@
         "xlsx": {
           "name": "de-at-traditionelle-lebensmittel_DE.xlsx",
           "size": 23112
+        }
+      }
+    },
+    {
+      "id": "de-biermarken-absatz",
+      "name": "Meistverkaufte Biermarken in Deutschland nach Absatz",
+      "category": "food",
+      "record_count": 10,
+      "columns": [
+        "marke",
+        "absatz_mio_hl_2009",
+        "absatz_mio_hl_2010",
+        "absatz_mio_hl_2011",
+        "absatz_mio_hl_2012",
+        "absatz_mio_hl_2013",
+        "absatz_mio_hl_2014",
+        "absatz_mio_hl_2015",
+        "absatz_mio_hl_2016",
+        "absatz_mio_hl_2017",
+        "absatz_mio_hl_2023",
+        "absatz_mio_hl_2024"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Bier_in_Deutschland",
+      "updated": "2026-11",
+      "size": 6743,
+      "files": {
+        "csv": {
+          "name": "de-biermarken-absatz_DE.csv",
+          "size": 1081
+        },
+        "xlsx": {
+          "name": "de-biermarken-absatz_DE.xlsx",
+          "size": 7456
         }
       }
     },

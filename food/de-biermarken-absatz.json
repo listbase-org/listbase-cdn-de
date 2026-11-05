@@ -1,0 +1,226 @@
+{
+  "id": "de-biermarken-absatz",
+  "name": "Meistverkaufte Biermarken in Deutschland nach Absatz",
+  "title": "Meistverkaufte Biermarken in Deutschland nach Absatz",
+  "description": "Die zehn Biermarken mit dem höchsten Absatz in Deutschland mit dem jährlichen Bierabsatz in Millionen Hektoliter für die Jahre 2009–2017, 2023 und 2024.",
+  "category": "food",
+  "source": "https://de.wikipedia.org/wiki/Bier_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Bier_in_Deutschland",
+  "updated": "2026-11",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "marke",
+      "label": "Marke",
+      "type": "string"
+    },
+    {
+      "key": "absatz_mio_hl_2009",
+      "label": "Absatz Mio Hl 2009",
+      "type": "number"
+    },
+    {
+      "key": "absatz_mio_hl_2010",
+      "label": "Absatz Mio Hl 2010",
+      "type": "number"
+    },
+    {
+      "key": "absatz_mio_hl_2011",
+      "label": "Absatz Mio Hl 2011",
+      "type": "number"
+    },
+    {
+      "key": "absatz_mio_hl_2012",
+      "label": "Absatz Mio Hl 2012",
+      "type": "number"
+    },
+    {
+      "key": "absatz_mio_hl_2013",
+      "label": "Absatz Mio Hl 2013",
+      "type": "number"
+    },
+    {
+      "key": "absatz_mio_hl_2014",
+      "label": "Absatz Mio Hl 2014",
+      "type": "number"
+    },
+    {
+      "key": "absatz_mio_hl_2015",
+      "label": "Absatz Mio Hl 2015",
+      "type": "number"
+    },
+    {
+      "key": "absatz_mio_hl_2016",
+      "label": "Absatz Mio Hl 2016",
+      "type": "number"
+    },
+    {
+      "key": "absatz_mio_hl_2017",
+      "label": "Absatz Mio Hl 2017",
+      "type": "number"
+    },
+    {
+      "key": "absatz_mio_hl_2023",
+      "label": "Absatz Mio Hl 2023",
+      "type": "number"
+    },
+    {
+      "key": "absatz_mio_hl_2024",
+      "label": "Absatz Mio Hl 2024",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "marke": "Krombacher",
+      "absatz_mio_hl_2009": 5.38,
+      "absatz_mio_hl_2010": 5.41,
+      "absatz_mio_hl_2011": 5.39,
+      "absatz_mio_hl_2012": 5.46,
+      "absatz_mio_hl_2013": 5.55,
+      "absatz_mio_hl_2014": 5.47,
+      "absatz_mio_hl_2015": 5.49,
+      "absatz_mio_hl_2016": 5.66,
+      "absatz_mio_hl_2017": 5.77,
+      "absatz_mio_hl_2023": 6.02,
+      "absatz_mio_hl_2024": 5.04
+    },
+    {
+      "marke": "Oettinger",
+      "absatz_mio_hl_2009": 6.59,
+      "absatz_mio_hl_2010": 6.34,
+      "absatz_mio_hl_2011": 6.21,
+      "absatz_mio_hl_2012": 5.89,
+      "absatz_mio_hl_2013": 5.78,
+      "absatz_mio_hl_2014": 5.62,
+      "absatz_mio_hl_2015": 5.39,
+      "absatz_mio_hl_2016": 5.25,
+      "absatz_mio_hl_2017": 4.94,
+      "absatz_mio_hl_2023": 7.5,
+      "absatz_mio_hl_2024": 6.6
+    },
+    {
+      "marke": "Bitburger",
+      "absatz_mio_hl_2009": 3.85,
+      "absatz_mio_hl_2010": 3.92,
+      "absatz_mio_hl_2011": 4.03,
+      "absatz_mio_hl_2012": 4.07,
+      "absatz_mio_hl_2013": 4.03,
+      "absatz_mio_hl_2014": 3.94,
+      "absatz_mio_hl_2015": 3.84,
+      "absatz_mio_hl_2016": 3.81,
+      "absatz_mio_hl_2017": 3.8,
+      "absatz_mio_hl_2023": 5.69,
+      "absatz_mio_hl_2024": 5.78
+    },
+    {
+      "marke": "Veltins",
+      "absatz_mio_hl_2009": 2.47,
+      "absatz_mio_hl_2010": 2.58,
+      "absatz_mio_hl_2011": 2.69,
+      "absatz_mio_hl_2012": 2.72,
+      "absatz_mio_hl_2013": 2.7,
+      "absatz_mio_hl_2014": 2.77,
+      "absatz_mio_hl_2015": 2.79,
+      "absatz_mio_hl_2016": 2.85,
+      "absatz_mio_hl_2017": 2.87,
+      "absatz_mio_hl_2023": "",
+      "absatz_mio_hl_2024": ""
+    },
+    {
+      "marke": "Beck’s",
+      "absatz_mio_hl_2009": 2.83,
+      "absatz_mio_hl_2010": 2.57,
+      "absatz_mio_hl_2011": 2.75,
+      "absatz_mio_hl_2012": 2.78,
+      "absatz_mio_hl_2013": 2.5,
+      "absatz_mio_hl_2014": 2.53,
+      "absatz_mio_hl_2015": 2.56,
+      "absatz_mio_hl_2016": 2.65,
+      "absatz_mio_hl_2017": 2.51,
+      "absatz_mio_hl_2023": "",
+      "absatz_mio_hl_2024": ""
+    },
+    {
+      "marke": "Paulaner",
+      "absatz_mio_hl_2009": 2.16,
+      "absatz_mio_hl_2010": 2.23,
+      "absatz_mio_hl_2011": 2.23,
+      "absatz_mio_hl_2012": 2.3,
+      "absatz_mio_hl_2013": 2.34,
+      "absatz_mio_hl_2014": 2.45,
+      "absatz_mio_hl_2015": 2.42,
+      "absatz_mio_hl_2016": 2.32,
+      "absatz_mio_hl_2017": 2.39,
+      "absatz_mio_hl_2023": 6.34,
+      "absatz_mio_hl_2024": 6.3
+    },
+    {
+      "marke": "Warsteiner",
+      "absatz_mio_hl_2009": 2.84,
+      "absatz_mio_hl_2010": 2.8,
+      "absatz_mio_hl_2011": 2.72,
+      "absatz_mio_hl_2012": 2.77,
+      "absatz_mio_hl_2013": 2.76,
+      "absatz_mio_hl_2014": 2.53,
+      "absatz_mio_hl_2015": 2.34,
+      "absatz_mio_hl_2016": 2.25,
+      "absatz_mio_hl_2017": 2.15,
+      "absatz_mio_hl_2023": "",
+      "absatz_mio_hl_2024": ""
+    },
+    {
+      "marke": "Hasseröder",
+      "absatz_mio_hl_2009": 2.74,
+      "absatz_mio_hl_2010": 2.45,
+      "absatz_mio_hl_2011": 2.71,
+      "absatz_mio_hl_2012": 2.75,
+      "absatz_mio_hl_2013": 2.42,
+      "absatz_mio_hl_2014": 2.25,
+      "absatz_mio_hl_2015": 2.25,
+      "absatz_mio_hl_2016": 1.9,
+      "absatz_mio_hl_2017": 1.89,
+      "absatz_mio_hl_2023": "",
+      "absatz_mio_hl_2024": ""
+    },
+    {
+      "marke": "Radeberger",
+      "absatz_mio_hl_2009": 1.81,
+      "absatz_mio_hl_2010": 1.84,
+      "absatz_mio_hl_2011": 1.96,
+      "absatz_mio_hl_2012": 1.91,
+      "absatz_mio_hl_2013": 1.96,
+      "absatz_mio_hl_2014": 1.87,
+      "absatz_mio_hl_2015": 1.9,
+      "absatz_mio_hl_2016": 1.85,
+      "absatz_mio_hl_2017": 1.84,
+      "absatz_mio_hl_2023": 10.55,
+      "absatz_mio_hl_2024": 10.4
+    },
+    {
+      "marke": "Erdinger",
+      "absatz_mio_hl_2009": 1.59,
+      "absatz_mio_hl_2010": 1.65,
+      "absatz_mio_hl_2011": 1.72,
+      "absatz_mio_hl_2012": 1.72,
+      "absatz_mio_hl_2013": 1.76,
+      "absatz_mio_hl_2014": 1.82,
+      "absatz_mio_hl_2015": 1.8,
+      "absatz_mio_hl_2016": 1.78,
+      "absatz_mio_hl_2017": 1.76,
+      "absatz_mio_hl_2023": "",
+      "absatz_mio_hl_2024": ""
+    }
+  ],
+  "meta": {
+    "title": "Meistverkaufte Biermarken in Deutschland nach Absatz - Free Download",
+    "description": "Die zehn Biermarken mit dem höchsten Absatz in Deutschland mit dem jährlichen Bierabsatz in Millionen Hektoliter für die Jahre 2009–2017, 2023 und 2024. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Meistverkaufte Biermarken in Deutschland nach Absatz | ListBase",
+    "seo_description": "Download Meistverkaufte Biermarken in Deutschland nach Absatz — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Bier_in_Deutschland"
+    ]
+  }
+}
