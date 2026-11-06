@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-06T02:36:58.852Z",
-  "total_datasets": 539,
-  "total_records": 1877432,
+  "generated": "2026-11-06T02:37:16.218Z",
+  "total_datasets": 540,
+  "total_records": 1877463,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 48
+      "dataset_count": 49
     },
     {
       "id": "health",
@@ -3988,6 +3988,38 @@
         "xlsx": {
           "name": "de-europa-staaten_DE.xlsx",
           "size": 12434
+        }
+      }
+    },
+    {
+      "id": "de-fluesse",
+      "name": "Flüsse in Deutschland",
+      "category": "geography",
+      "record_count": 31,
+      "columns": [
+        "fluss",
+        "laenge_name_km",
+        "laenge_max_km",
+        "laenge_in_d_km",
+        "mittlerer_abfluss_m3s",
+        "einzugsgebiet_gesamt_km2",
+        "einzugsgebiet_in_d_km2",
+        "quelle",
+        "muendung",
+        "bundeslaender",
+        "nebenfluesse"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_von_Flüssen_in_Deutschland",
+      "updated": "2026-11",
+      "size": 15256,
+      "files": {
+        "csv": {
+          "name": "de-fluesse_DE.csv",
+          "size": 4724
+        },
+        "xlsx": {
+          "name": "de-fluesse_DE.xlsx",
+          "size": 10226
         }
       }
     },
