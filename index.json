@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-06T02:36:49.174Z",
-  "total_datasets": 538,
-  "total_records": 1877416,
+  "generated": "2026-11-06T02:36:58.852Z",
+  "total_datasets": 539,
+  "total_records": 1877432,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 19
+      "dataset_count": 20
     },
     {
       "id": "entertainment",
@@ -1119,6 +1119,33 @@
         "xlsx": {
           "name": "de-hochschulen_DE.xlsx",
           "size": 26314
+        }
+      }
+    },
+    {
+      "id": "de-landeskultusminister",
+      "name": "Amtierende deutsche Landeskultusminister",
+      "category": "education",
+      "record_count": 16,
+      "columns": [
+        "land",
+        "behoerde",
+        "name",
+        "amtsantritt",
+        "regierung",
+        "partei"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_amtierenden_deutschen_Landeskultusminister",
+      "updated": "2026-11",
+      "size": 5644,
+      "files": {
+        "csv": {
+          "name": "de-landeskultusminister_DE.csv",
+          "size": 1919
+        },
+        "xlsx": {
+          "name": "de-landeskultusminister_DE.xlsx",
+          "size": 8023
         }
       }
     },

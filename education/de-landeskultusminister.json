@@ -1,0 +1,184 @@
+{
+  "id": "de-landeskultusminister",
+  "name": "Amtierende deutsche Landeskultusminister",
+  "title": "Amtierende deutsche Landeskultusminister",
+  "description": "Liste der amtierenden Kultus- bzw. Bildungsminister der deutschen Bundesländer mit Behörde, Amtsantritt, Regierung und Partei.",
+  "category": "education",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_amtierenden_deutschen_Landeskultusminister",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_amtierenden_deutschen_Landeskultusminister",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "land",
+      "label": "Land",
+      "type": "string"
+    },
+    {
+      "key": "behoerde",
+      "label": "Behoerde",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "amtsantritt",
+      "label": "Amtsantritt",
+      "type": "string"
+    },
+    {
+      "key": "regierung",
+      "label": "Regierung",
+      "type": "string"
+    },
+    {
+      "key": "partei",
+      "label": "Partei",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "land": "Baden-Württemberg",
+      "behoerde": "Ministerium für Kultus",
+      "name": "Andreas Jung",
+      "amtsantritt": "13. Mai 2026",
+      "regierung": "Özdemir",
+      "partei": "CDU"
+    },
+    {
+      "land": "Bayern",
+      "behoerde": "Staatsministerium für Unterricht und Kultus",
+      "name": "Anna Stolz",
+      "amtsantritt": "8. November 2023",
+      "regierung": "Söder III",
+      "partei": "FW"
+    },
+    {
+      "land": "Berlin",
+      "behoerde": "Senatsverwaltung für Bildung, Jugend und Familie",
+      "name": "Katharina Günther-Wünsch",
+      "amtsantritt": "27. April 2023",
+      "regierung": "Wegner",
+      "partei": "CDU"
+    },
+    {
+      "land": "Brandenburg",
+      "behoerde": "Ministerium für Bildung, Jugend und Sport",
+      "name": "Gordon Hoffmann",
+      "amtsantritt": "18. März 2026",
+      "regierung": "Woidke V",
+      "partei": "CDU"
+    },
+    {
+      "land": "Bremen",
+      "behoerde": "Senator für Kinder und Bildung",
+      "name": "Mark Rackles",
+      "amtsantritt": "8. Oktober 2025",
+      "regierung": "Bovenschulte II",
+      "partei": "SPD"
+    },
+    {
+      "land": "Hamburg",
+      "behoerde": "Behörde für Schule, Familie und Berufsbildung",
+      "name": "Ksenija Bekeris",
+      "amtsantritt": "17. Januar 2024",
+      "regierung": "Tschentscher II Tschentscher III",
+      "partei": "SPD"
+    },
+    {
+      "land": "Hessen",
+      "behoerde": "Hessisches Ministerium für Kultus, Bildung und Chancen",
+      "name": "Armin Schwarz",
+      "amtsantritt": "18. Januar 2024",
+      "regierung": "Rhein II",
+      "partei": "CDU"
+    },
+    {
+      "land": "Mecklenburg-Vorpommern",
+      "behoerde": "Ministerium für Bildung und Kindertagesförderung",
+      "name": "Simone Oldenburg",
+      "amtsantritt": "15. November 2021",
+      "regierung": "Schwesig II",
+      "partei": "Linke"
+    },
+    {
+      "land": "Niedersachsen",
+      "behoerde": "Niedersächsisches Kultusministerium",
+      "name": "Julia Hamburg",
+      "amtsantritt": "8. November 2022",
+      "regierung": "Weil III Lies",
+      "partei": "Grüne"
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "behoerde": "Ministerium für Schule und Bildung",
+      "name": "Dorothee Feller",
+      "amtsantritt": "29. Juni 2022",
+      "regierung": "Wüst II",
+      "partei": "CDU"
+    },
+    {
+      "land": "Rheinland-Pfalz",
+      "behoerde": "Ministerium für Bildung",
+      "name": "Ute Eiling-Hütig",
+      "amtsantritt": "18. Mai 2026",
+      "regierung": "Schnieder",
+      "partei": "CDU"
+    },
+    {
+      "land": "Saarland",
+      "behoerde": "Ministerium für Bildung und Kultur",
+      "name": "Christine Streichert-Clivot",
+      "amtsantritt": "18. September 2019",
+      "regierung": "Hans Rehlinger",
+      "partei": "SPD"
+    },
+    {
+      "land": "Sachsen",
+      "behoerde": "Staatsministerium für Kultus",
+      "name": "Conrad Clemens",
+      "amtsantritt": "19. Dezember 2024",
+      "regierung": "Kretschmer III",
+      "partei": "CDU"
+    },
+    {
+      "land": "Sachsen-Anhalt",
+      "behoerde": "Ministerium für Bildung",
+      "name": "Jan Riedel",
+      "amtsantritt": "29. Juni 2025",
+      "regierung": "Haseloff III Schulze",
+      "partei": "CDU"
+    },
+    {
+      "land": "Schleswig-Holstein",
+      "behoerde": "Ministerium für Allgemeine und Berufliche Bildung, Wissenschaft, Forschung und Kultur",
+      "name": "Dorit Stenke",
+      "amtsantritt": "7. Mai 2025",
+      "regierung": "Günther II",
+      "partei": "CDU"
+    },
+    {
+      "land": "Thüringen",
+      "behoerde": "Ministerium für Bildung, Wissenschaft und Kultur",
+      "name": "Christian Tischner",
+      "amtsantritt": "13. Dezember 2024",
+      "regierung": "Voigt",
+      "partei": "CDU"
+    }
+  ],
+  "meta": {
+    "title": "Amtierende deutsche Landeskultusminister - Free Download",
+    "description": "Liste der amtierenden Kultus- bzw. Bildungsminister der deutschen Bundesländer mit Behörde, Amtsantritt, Regierung und Partei. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Amtierende deutsche Landeskultusminister | ListBase",
+    "seo_description": "Download Amtierende deutsche Landeskultusminister — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_amtierenden_deutschen_Landeskultusminister"
+    ]
+  }
+}
