@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-06T02:36:31.772Z",
-  "total_datasets": 536,
-  "total_records": 1877378,
+  "generated": "2026-11-06T02:36:40.218Z",
+  "total_datasets": 537,
+  "total_records": 1877397,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "finance",
@@ -2471,6 +2471,33 @@
         "xlsx": {
           "name": "de-talsperren_DE.xlsx",
           "size": 30762
+        }
+      }
+    },
+    {
+      "id": "de-umweltminister",
+      "name": "Deutsche Umweltminister",
+      "category": "environment",
+      "record_count": 19,
+      "columns": [
+        "name",
+        "amtsbeginn",
+        "amtsende",
+        "partei",
+        "amt",
+        "nr"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Umweltminister",
+      "updated": "2026-11",
+      "size": 7188,
+      "files": {
+        "csv": {
+          "name": "de-umweltminister_DE.csv",
+          "size": 3498
+        },
+        "xlsx": {
+          "name": "de-umweltminister_DE.xlsx",
+          "size": 7800
         }
       }
     },
