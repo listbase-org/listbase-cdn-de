@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-05T02:21:59.418Z",
-  "total_datasets": 533,
-  "total_records": 1876922,
+  "generated": "2026-11-06T02:36:14.456Z",
+  "total_datasets": 534,
+  "total_records": 1877301,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "finance",
@@ -2415,6 +2415,36 @@
         "xlsx": {
           "name": "de-solaranlagen_DE.xlsx",
           "size": 6655546
+        }
+      }
+    },
+    {
+      "id": "de-talsperren",
+      "name": "Talsperren in Deutschland",
+      "category": "environment",
+      "record_count": 379,
+      "columns": [
+        "name",
+        "fliessgewaesser",
+        "laender",
+        "bauzeit",
+        "kronenhoehe_m",
+        "kronenlaenge_m",
+        "stausee_flaeche_km2",
+        "stausee_volumen_mio_m3",
+        "nutzungsart"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_von_Talsperren_in_Deutschland",
+      "updated": "2026-11",
+      "size": 117137,
+      "files": {
+        "csv": {
+          "name": "de-talsperren_DE.csv",
+          "size": 33508
+        },
+        "xlsx": {
+          "name": "de-talsperren_DE.xlsx",
+          "size": 30762
         }
       }
     },
