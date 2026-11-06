@@ -1,0 +1,232 @@
+{
+  "id": "de-biosphaerenreservate",
+  "name": "Biosphärenreservate in Deutschland",
+  "title": "Biosphärenreservate in Deutschland",
+  "description": "Liste der Biosphärenreservate in Deutschland mit Bundesland, Zonenflächen und UNESCO-Anerkennung.",
+  "category": "environment",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Biosphärenreservate_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Biosphärenreservate_in_Deutschland",
+  "updated": "2026-11",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "gesamtgroesse_ha",
+      "label": "Gesamtgroesse Ha",
+      "type": "number"
+    },
+    {
+      "key": "kernzone_ha",
+      "label": "Kernzone Ha",
+      "type": "number"
+    },
+    {
+      "key": "pflegezone_ha",
+      "label": "Pflegezone Ha",
+      "type": "number"
+    },
+    {
+      "key": "entwicklungszone_ha",
+      "label": "Entwicklungszone Ha",
+      "type": "number"
+    },
+    {
+      "key": "unesco",
+      "label": "Unesco",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Berchtesgadener Land",
+      "bundesland": "Bayern",
+      "gesamtgroesse_ha": 84000,
+      "kernzone_ha": 13896,
+      "pflegezone_ha": 9537,
+      "entwicklungszone_ha": 60551,
+      "unesco": "1990"
+    },
+    {
+      "name": "Bliesgau",
+      "bundesland": "Saarland",
+      "gesamtgroesse_ha": 36152,
+      "kernzone_ha": 1103,
+      "pflegezone_ha": 7051,
+      "entwicklungszone_ha": 27998,
+      "unesco": "2009"
+    },
+    {
+      "name": "Drömling",
+      "bundesland": "Sachsen-Anhalt, Niedersachsen",
+      "gesamtgroesse_ha": 34070,
+      "kernzone_ha": 840,
+      "pflegezone_ha": 10680,
+      "entwicklungszone_ha": 22550,
+      "unesco": "2023"
+    },
+    {
+      "name": "Flusslandschaft Elbe (Teilgebiete Mittelelbe, Steckby-Lödderitzer Forst, Fluss­landschaft Elbe-Brandenburg, Fluss­landschaft Elbe-Mecklenburg-Vorpommern, Niedersächsische Elbtalaue)",
+      "bundesland": "Sachsen-Anhalt, Branden­burg, Mecklenburg-Vorpommern, Nieder­sachsen, Schleswig-Holstein",
+      "gesamtgroesse_ha": 275893,
+      "kernzone_ha": 3570,
+      "pflegezone_ha": 55523,
+      "entwicklungszone_ha": 216800,
+      "unesco": "1979, 1997"
+    },
+    {
+      "name": "Hamburgisches Wattenmeer",
+      "bundesland": "Hamburg",
+      "gesamtgroesse_ha": 11700,
+      "kernzone_ha": 10530,
+      "pflegezone_ha": 1170,
+      "entwicklungszone_ha": "–",
+      "unesco": "1992"
+    },
+    {
+      "name": "Niedersächsisches Wattenmeer",
+      "bundesland": "Niedersachsen",
+      "gesamtgroesse_ha": 240000,
+      "kernzone_ha": 130000,
+      "pflegezone_ha": 108000,
+      "entwicklungszone_ha": 2000,
+      "unesco": "1992"
+    },
+    {
+      "name": "Oberlausitzer Heide- und Teichlandschaft",
+      "bundesland": "Sachsen",
+      "gesamtgroesse_ha": 32335,
+      "kernzone_ha": 1788,
+      "pflegezone_ha": 13857,
+      "entwicklungszone_ha": 16690,
+      "unesco": "1996"
+    },
+    {
+      "name": "Pfälzerwald-Nordvogesen",
+      "bundesland": "Rheinland-Pfalz",
+      "gesamtgroesse_ha": 177842,
+      "kernzone_ha": 3939,
+      "pflegezone_ha": 49261,
+      "entwicklungszone_ha": 124642,
+      "unesco": "1992"
+    },
+    {
+      "name": "Rhön",
+      "bundesland": "Bayern, Hessen, Thüringen",
+      "gesamtgroesse_ha": 243323,
+      "kernzone_ha": 7438,
+      "pflegezone_ha": 53897,
+      "entwicklungszone_ha": 181988,
+      "unesco": "1991"
+    },
+    {
+      "name": "Schaalsee",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "gesamtgroesse_ha": 30900,
+      "kernzone_ha": 1916,
+      "pflegezone_ha": 8930,
+      "entwicklungszone_ha": 20054,
+      "unesco": "2000"
+    },
+    {
+      "name": "Schleswig-Holsteinisches Wattenmeer und Halligen",
+      "bundesland": "Schleswig-Holstein",
+      "gesamtgroesse_ha": 443100,
+      "kernzone_ha": 157000,
+      "pflegezone_ha": 284000,
+      "entwicklungszone_ha": 2100,
+      "unesco": "1990"
+    },
+    {
+      "name": "Schorfheide-Chorin",
+      "bundesland": "Brandenburg",
+      "gesamtgroesse_ha": 129160,
+      "kernzone_ha": 3901,
+      "pflegezone_ha": 24440,
+      "entwicklungszone_ha": 100819,
+      "unesco": "1990"
+    },
+    {
+      "name": "Schwäbische Alb",
+      "bundesland": "Baden-Württemberg",
+      "gesamtgroesse_ha": 85269,
+      "kernzone_ha": 2645,
+      "pflegezone_ha": 35410,
+      "entwicklungszone_ha": 47214,
+      "unesco": "2009"
+    },
+    {
+      "name": "Schwarzwald",
+      "bundesland": "Baden-Württemberg",
+      "gesamtgroesse_ha": 63236,
+      "kernzone_ha": 1905,
+      "pflegezone_ha": 18523,
+      "entwicklungszone_ha": 42808,
+      "unesco": "2017"
+    },
+    {
+      "name": "Spreewald",
+      "bundesland": "Brandenburg",
+      "gesamtgroesse_ha": 47509,
+      "kernzone_ha": 1423,
+      "pflegezone_ha": 8885,
+      "entwicklungszone_ha": 37201,
+      "unesco": "1991"
+    },
+    {
+      "name": "Südost-Rügen",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "gesamtgroesse_ha": 22900,
+      "kernzone_ha": 349,
+      "pflegezone_ha": 3204,
+      "entwicklungszone_ha": 19347,
+      "unesco": "1991"
+    },
+    {
+      "name": "Thüringer Wald",
+      "bundesland": "Thüringen",
+      "gesamtgroesse_ha": 17081,
+      "kernzone_ha": 562,
+      "pflegezone_ha": 1949,
+      "entwicklungszone_ha": 14570,
+      "unesco": "1979"
+    },
+    {
+      "name": "Karstlandschaft Südharz",
+      "bundesland": "Sachsen-Anhalt",
+      "gesamtgroesse_ha": 30034,
+      "kernzone_ha": 918,
+      "pflegezone_ha": 9760,
+      "entwicklungszone_ha": 19356,
+      "unesco": "steht aus"
+    },
+    {
+      "name": "Bayerischer Wald",
+      "bundesland": "Bayern",
+      "gesamtgroesse_ha": "",
+      "kernzone_ha": "",
+      "pflegezone_ha": "",
+      "entwicklungszone_ha": "",
+      "unesco": "1981 bis 2007"
+    }
+  ],
+  "meta": {
+    "title": "Biosphärenreservate in Deutschland - Free Download",
+    "description": "Liste der Biosphärenreservate in Deutschland mit Bundesland, Zonenflächen und UNESCO-Anerkennung. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Biosphärenreservate in Deutschland | ListBase",
+    "seo_description": "Download Biosphärenreservate in Deutschland — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Biosphärenreservate_in_Deutschland"
+    ]
+  }
+}

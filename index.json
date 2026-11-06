@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-06T02:36:40.218Z",
-  "total_datasets": 537,
-  "total_records": 1877397,
+  "generated": "2026-11-06T02:36:49.174Z",
+  "total_datasets": 538,
+  "total_records": 1877416,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "finance",
@@ -2192,6 +2192,34 @@
         "xlsx": {
           "name": "de-biogasanlagen_DE.xlsx",
           "size": 1579473
+        }
+      }
+    },
+    {
+      "id": "de-biosphaerenreservate",
+      "name": "Biosphärenreservate in Deutschland",
+      "category": "environment",
+      "record_count": 19,
+      "columns": [
+        "name",
+        "bundesland",
+        "gesamtgroesse_ha",
+        "kernzone_ha",
+        "pflegezone_ha",
+        "entwicklungszone_ha",
+        "unesco"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Biosphärenreservate_in_Deutschland",
+      "updated": "2026-11",
+      "size": 6675,
+      "files": {
+        "csv": {
+          "name": "de-biosphaerenreservate_DE.csv",
+          "size": 1816
+        },
+        "xlsx": {
+          "name": "de-biosphaerenreservate_DE.xlsx",
+          "size": 8093
         }
       }
     },
