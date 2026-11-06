@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-06T02:36:23.407Z",
-  "total_datasets": 535,
-  "total_records": 1877328,
+  "generated": "2026-11-06T02:36:31.772Z",
+  "total_datasets": 536,
+  "total_records": 1877378,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 18
+      "dataset_count": 19
     },
     {
       "id": "entertainment",
@@ -924,6 +924,32 @@
         "xlsx": {
           "name": "de-berlin-universitaeten_DE.xlsx",
           "size": 10672
+        }
+      }
+    },
+    {
+      "id": "de-bildungsminister",
+      "name": "Deutsche Minister für Bildung und Forschung",
+      "category": "education",
+      "record_count": 50,
+      "columns": [
+        "name",
+        "amtsbeginn",
+        "amtsende",
+        "partei",
+        "amt"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Minister_für_Bildung_und_Forschung",
+      "updated": "2026-11",
+      "size": 12252,
+      "files": {
+        "csv": {
+          "name": "de-bildungsminister_DE.csv",
+          "size": 5634
+        },
+        "xlsx": {
+          "name": "de-bildungsminister_DE.xlsx",
+          "size": 9168
         }
       }
     },

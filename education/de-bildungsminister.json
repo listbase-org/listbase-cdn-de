@@ -1,0 +1,401 @@
+{
+  "id": "de-bildungsminister",
+  "name": "Deutsche Minister für Bildung und Forschung",
+  "title": "Deutsche Minister für Bildung und Forschung",
+  "description": "Liste der deutschen Minister für Bildung und Forschung (Reich, DDR und Bundesrepublik) mit Amtszeit und Partei.",
+  "category": "education",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Minister_für_Bildung_und_Forschung",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Minister_für_Bildung_und_Forschung",
+  "updated": "2026-11",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "amtsbeginn",
+      "label": "Amtsbeginn",
+      "type": "string"
+    },
+    {
+      "key": "amtsende",
+      "label": "Amtsende",
+      "type": "string"
+    },
+    {
+      "key": "partei",
+      "label": "Partei",
+      "type": "string"
+    },
+    {
+      "key": "amt",
+      "label": "Amt",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bernhard Rust",
+      "amtsbeginn": "1. Mai 1934",
+      "amtsende": "30. Apr. 1945",
+      "partei": "NSDAP",
+      "amt": "Reichsminister für Wissenschaft, Erziehung und Volksbildung des Dritten Reiches (1933–1945)"
+    },
+    {
+      "name": "Gustav Adolf Scheel",
+      "amtsbeginn": "30. Apr. 1945",
+      "amtsende": "3. Mai 1945",
+      "partei": "NSDAP",
+      "amt": "Reichsminister für Wissenschaft, Erziehung und Volksbildung des Dritten Reiches (1933–1945)"
+    },
+    {
+      "name": "Wilhelm Stuckart",
+      "amtsbeginn": "3. Mai 1945",
+      "amtsende": "23. Mai 1945",
+      "partei": "NSDAP",
+      "amt": "Reichsminister für Wissenschaft, Erziehung und Volksbildung des Dritten Reiches (1933–1945)"
+    },
+    {
+      "name": "Paul Wandel",
+      "amtsbeginn": "7. Okt. 1949",
+      "amtsende": "5. Jul. 1952",
+      "partei": "SED",
+      "amt": "Minister für Volksbildung"
+    },
+    {
+      "name": "Elisabeth Zaisser",
+      "amtsbeginn": "1. Okt. 1952",
+      "amtsende": "5. Nov. 1953",
+      "partei": "SED",
+      "amt": "Minister für Volksbildung"
+    },
+    {
+      "name": "Hans-Joachim Laabs",
+      "amtsbeginn": "5. Nov. 1953",
+      "amtsende": "18. Nov. 1954",
+      "partei": "SED",
+      "amt": "Minister für Volksbildung"
+    },
+    {
+      "name": "Fritz Lange",
+      "amtsbeginn": "19. Nov. 1954",
+      "amtsende": "7. Dez. 1958",
+      "partei": "SED",
+      "amt": "Minister für Volksbildung"
+    },
+    {
+      "name": "Alfred Lemmnitz",
+      "amtsbeginn": "8. Dez. 1958",
+      "amtsende": "13. Nov. 1963",
+      "partei": "SED",
+      "amt": "Minister für Volksbildung"
+    },
+    {
+      "name": "Margot Honecker",
+      "amtsbeginn": "14. Nov. 1963",
+      "amtsende": "2. Nov. 1989",
+      "partei": "SED",
+      "amt": "Minister für Volksbildung"
+    },
+    {
+      "name": "Günther Fuchs",
+      "amtsbeginn": "2. Nov. 1989",
+      "amtsende": "18. Nov. 1989",
+      "partei": "SED",
+      "amt": "Minister für Volksbildung"
+    },
+    {
+      "name": "Hans-Heinz Emons",
+      "amtsbeginn": "18. Nov. 1989",
+      "amtsende": "12. Apr. 1990",
+      "partei": "SED",
+      "amt": "Minister für Volksbildung"
+    },
+    {
+      "name": "Hans Joachim Meyer",
+      "amtsbeginn": "12. Apr. 1990",
+      "amtsende": "2. Okt. 1990",
+      "partei": "CDU",
+      "amt": "Minister für Volksbildung"
+    },
+    {
+      "name": "Günter Prey",
+      "amtsbeginn": "14. Jul. 1964",
+      "amtsende": "14. Feb. 1974",
+      "partei": "SED",
+      "amt": "Minister für Wissenschaft und Technik"
+    },
+    {
+      "name": "Herbert Weiz",
+      "amtsbeginn": "14. Feb. 1974",
+      "amtsende": "7. Nov. 1989",
+      "partei": "SED",
+      "amt": "Minister für Wissenschaft und Technik"
+    },
+    {
+      "name": "Peter-Klaus Budig",
+      "amtsbeginn": "18. Nov. 1989",
+      "amtsende": "12. Apr. 1990",
+      "partei": "LDPD",
+      "amt": "Minister für Wissenschaft und Technik"
+    },
+    {
+      "name": "Frank Terpe",
+      "amtsbeginn": "12. Apr. 1990",
+      "amtsende": "22. Aug. 1990",
+      "partei": "SPD",
+      "amt": "Minister für Wissenschaft und Technik"
+    },
+    {
+      "name": "Hans Joachim Meyer",
+      "amtsbeginn": "22. Aug. 1990",
+      "amtsende": "2. Okt. 1990",
+      "partei": "CDU",
+      "amt": "Minister für Wissenschaft und Technik"
+    },
+    {
+      "name": "Ernst-Joachim Gießmann",
+      "amtsbeginn": "14. Jul. 1967",
+      "amtsende": "16. Dez. 1970",
+      "partei": "SED",
+      "amt": "Minister für Hoch- und Fachhochschulwesen"
+    },
+    {
+      "name": "Hans-Joachim Böhme",
+      "amtsbeginn": "16. Dez. 1970",
+      "amtsende": "7. Nov. 1989",
+      "partei": "SED",
+      "amt": "Minister für Hoch- und Fachhochschulwesen"
+    },
+    {
+      "name": "Franz Josef Strauß",
+      "amtsbeginn": "21. Okt. 1955",
+      "amtsende": "16. Okt. 1956",
+      "partei": "CSU",
+      "amt": "Bundesminister für Atomfragen (1955–1957)"
+    },
+    {
+      "name": "Siegfried Balke",
+      "amtsbeginn": "16. Okt. 1956",
+      "amtsende": "29. Okt. 1957",
+      "partei": "CSU",
+      "amt": "Bundesminister für Atomfragen (1955–1957)"
+    },
+    {
+      "name": "Siegfried Balke",
+      "amtsbeginn": "29. Okt. 1957",
+      "amtsende": "14. Nov. 1961",
+      "partei": "CSU",
+      "amt": "Bundesminister für Atomkernenergie und Wasserwirtschaft (1957–1961)"
+    },
+    {
+      "name": "Siegfried Balke",
+      "amtsbeginn": "14. Nov. 1961",
+      "amtsende": "13. Dez. 1962",
+      "partei": "CSU",
+      "amt": "Bundesminister für Atomkernenergie (1961–1962)"
+    },
+    {
+      "name": "Hans Lenz",
+      "amtsbeginn": "14. Dez. 1962",
+      "amtsende": "26. Okt. 1965",
+      "partei": "FDP",
+      "amt": "Bundesminister für wissenschaftliche Forschung (1962–1969)"
+    },
+    {
+      "name": "Gerhard Stoltenberg",
+      "amtsbeginn": "26. Okt. 1965",
+      "amtsende": "21. Okt. 1969",
+      "partei": "CDU",
+      "amt": "Bundesminister für wissenschaftliche Forschung (1962–1969)"
+    },
+    {
+      "name": "Horst Ehmke",
+      "amtsbeginn": "15. Dez. 1972",
+      "amtsende": "16. Mai 1974",
+      "partei": "SPD",
+      "amt": "Bundesminister für Forschung und Technologie und für das Post- und Fernmeldewesen (1972–1974)"
+    },
+    {
+      "name": "Hans Matthöfer",
+      "amtsbeginn": "16. Mai 1974",
+      "amtsende": "16. Feb. 1978",
+      "partei": "SPD",
+      "amt": "Bundesminister für Forschung und Technologie (1974–1994)"
+    },
+    {
+      "name": "Volker Hauff",
+      "amtsbeginn": "16. Feb. 1978",
+      "amtsende": "4. Nov. 1980",
+      "partei": "SPD",
+      "amt": "Bundesminister für Forschung und Technologie (1974–1994)"
+    },
+    {
+      "name": "Andreas von Bülow",
+      "amtsbeginn": "6. Nov. 1980",
+      "amtsende": "1. Okt. 1982",
+      "partei": "SPD",
+      "amt": "Bundesminister für Forschung und Technologie (1974–1994)"
+    },
+    {
+      "name": "Heinz Riesenhuber",
+      "amtsbeginn": "4. Okt. 1982",
+      "amtsende": "21. Jan. 1993",
+      "partei": "CDU",
+      "amt": "Bundesminister für Forschung und Technologie (1974–1994)"
+    },
+    {
+      "name": "Matthias Wissmann",
+      "amtsbeginn": "21. Jan. 1993",
+      "amtsende": "13. Mai 1993",
+      "partei": "CDU",
+      "amt": "Bundesminister für Forschung und Technologie (1974–1994)"
+    },
+    {
+      "name": "Paul Krüger",
+      "amtsbeginn": "13. Mai 1993",
+      "amtsende": "17. Nov. 1994",
+      "partei": "CDU",
+      "amt": "Bundesminister für Forschung und Technologie (1974–1994)"
+    },
+    {
+      "name": "Hans Leussink",
+      "amtsbeginn": "22. Okt. 1969",
+      "amtsende": "15. Mär. 1972",
+      "partei": "parteilos",
+      "amt": "Bundesminister für Bildung und Wissenschaft (1969–1994)"
+    },
+    {
+      "name": "Klaus von Dohnanyi",
+      "amtsbeginn": "15. Mär. 1972",
+      "amtsende": "16. Mai 1974",
+      "partei": "SPD",
+      "amt": "Bundesminister für Bildung und Wissenschaft (1969–1994)"
+    },
+    {
+      "name": "Helmut Rohde",
+      "amtsbeginn": "16. Mai 1974",
+      "amtsende": "16. Feb. 1978",
+      "partei": "SPD",
+      "amt": "Bundesminister für Bildung und Wissenschaft (1969–1994)"
+    },
+    {
+      "name": "Jürgen Schmude",
+      "amtsbeginn": "16. Feb. 1978",
+      "amtsende": "28. Jan. 1981",
+      "partei": "SPD",
+      "amt": "Bundesminister für Bildung und Wissenschaft (1969–1994)"
+    },
+    {
+      "name": "Björn Engholm",
+      "amtsbeginn": "28. Jan. 1981",
+      "amtsende": "1. Okt. 1982",
+      "partei": "SPD",
+      "amt": "Bundesminister für Bildung und Wissenschaft (1969–1994)"
+    },
+    {
+      "name": "Dorothee Wilms",
+      "amtsbeginn": "4. Okt. 1982",
+      "amtsende": "12. Mär. 1987",
+      "partei": "CDU",
+      "amt": "Bundesminister für Bildung und Wissenschaft (1969–1994)"
+    },
+    {
+      "name": "Jürgen W. Möllemann",
+      "amtsbeginn": "12. Mär. 1987",
+      "amtsende": "18. Jan. 1991",
+      "partei": "FDP",
+      "amt": "Bundesminister für Bildung und Wissenschaft (1969–1994)"
+    },
+    {
+      "name": "Rainer Ortleb",
+      "amtsbeginn": "18. Jan. 1991",
+      "amtsende": "3. Feb. 1994",
+      "partei": "FDP",
+      "amt": "Bundesminister für Bildung und Wissenschaft (1969–1994)"
+    },
+    {
+      "name": "Karl-Hans Laermann",
+      "amtsbeginn": "4. Feb. 1994",
+      "amtsende": "17. Nov. 1994",
+      "partei": "FDP",
+      "amt": "Bundesminister für Bildung und Wissenschaft (1969–1994)"
+    },
+    {
+      "name": "Jürgen Rüttgers",
+      "amtsbeginn": "17. Nov. 1994",
+      "amtsende": "26. Okt. 1998",
+      "partei": "CDU",
+      "amt": "Bundesminister für Bildung, Wissenschaft, Forschung und Technologie (1994–1998)"
+    },
+    {
+      "name": "Edelgard Bulmahn",
+      "amtsbeginn": "26. Okt. 1998",
+      "amtsende": "22. Nov. 2005",
+      "partei": "SPD",
+      "amt": "Bundesminister für Bildung und Forschung (1998–2025)"
+    },
+    {
+      "name": "Annette Schavan",
+      "amtsbeginn": "22. Nov. 2005",
+      "amtsende": "14. Feb. 2013",
+      "partei": "CDU",
+      "amt": "Bundesminister für Bildung und Forschung (1998–2025)"
+    },
+    {
+      "name": "Johanna Wanka",
+      "amtsbeginn": "14. Feb. 2013",
+      "amtsende": "14. Mär. 2018",
+      "partei": "CDU",
+      "amt": "Bundesminister für Bildung und Forschung (1998–2025)"
+    },
+    {
+      "name": "Anja Karliczek",
+      "amtsbeginn": "14. Mär. 2018",
+      "amtsende": "8. Dez. 2021",
+      "partei": "CDU",
+      "amt": "Bundesminister für Bildung und Forschung (1998–2025)"
+    },
+    {
+      "name": "Bettina Stark-Watzinger",
+      "amtsbeginn": "8. Dez. 2021",
+      "amtsende": "7. Nov. 2024",
+      "partei": "FDP",
+      "amt": "Bundesminister für Bildung und Forschung (1998–2025)"
+    },
+    {
+      "name": "Cem Özdemir",
+      "amtsbeginn": "7. Nov. 2024",
+      "amtsende": "6. Mai 2025",
+      "partei": "Grüne",
+      "amt": "Bundesminister für Bildung und Forschung (1998–2025)"
+    },
+    {
+      "name": "Dorothee Bär",
+      "amtsbeginn": "6. Mai 2025",
+      "amtsende": "amtierend",
+      "partei": "CSU",
+      "amt": "Bundesministerium für Forschung, Technologie und Raumfahrt (seit 2025)"
+    },
+    {
+      "name": "Karin Prien",
+      "amtsbeginn": "6. Mai 2025",
+      "amtsende": "amtierend",
+      "partei": "CDU",
+      "amt": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (seit 2025)"
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Minister für Bildung und Forschung - Free Download",
+    "description": "Liste der deutschen Minister für Bildung und Forschung (Reich, DDR und Bundesrepublik) mit Amtszeit und Partei. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Deutsche Minister für Bildung und Forschung | ListBase",
+    "seo_description": "Download Deutsche Minister für Bildung und Forschung — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_deutschen_Minister_für_Bildung_und_Forschung"
+    ]
+  }
+}
