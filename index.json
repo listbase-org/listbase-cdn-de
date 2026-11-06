@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-06T02:36:14.456Z",
-  "total_datasets": 534,
-  "total_records": 1877301,
+  "generated": "2026-11-06T02:36:23.407Z",
+  "total_datasets": 535,
+  "total_records": 1877328,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -5431,6 +5431,30 @@
         "xlsx": {
           "name": "de-austriazismen_DE.xlsx",
           "size": 35920
+        }
+      }
+    },
+    {
+      "id": "de-buchstabenhaeufigkeit",
+      "name": "Buchstabenhäufigkeit im Deutschen",
+      "category": "language",
+      "record_count": 27,
+      "columns": [
+        "platz",
+        "buchstabe",
+        "relative_haeufigkeit_prozent"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Buchstabenhäufigkeit",
+      "updated": "2026-11",
+      "size": 4111,
+      "files": {
+        "csv": {
+          "name": "de-buchstabenhaeufigkeit_DE.csv",
+          "size": 475
+        },
+        "xlsx": {
+          "name": "de-buchstabenhaeufigkeit_DE.xlsx",
+          "size": 7293
         }
       }
     },

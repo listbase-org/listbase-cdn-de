@@ -1,0 +1,176 @@
+{
+  "id": "de-buchstabenhaeufigkeit",
+  "name": "Buchstabenhäufigkeit im Deutschen",
+  "title": "Buchstabenhäufigkeit im Deutschen",
+  "description": "Relative Häufigkeit der Buchstaben in deutschen Texten (Platzierung und Prozentanteil).",
+  "category": "language",
+  "source": "https://de.wikipedia.org/wiki/Buchstabenhäufigkeit",
+  "source_url": "https://de.wikipedia.org/wiki/Buchstabenhäufigkeit",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "platz",
+      "label": "Platz",
+      "type": "number"
+    },
+    {
+      "key": "buchstabe",
+      "label": "Buchstabe",
+      "type": "string"
+    },
+    {
+      "key": "relative_haeufigkeit_prozent",
+      "label": "Relative Haeufigkeit Prozent",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "platz": 1,
+      "buchstabe": "E",
+      "relative_haeufigkeit_prozent": 17.4
+    },
+    {
+      "platz": 2,
+      "buchstabe": "N",
+      "relative_haeufigkeit_prozent": 9.78
+    },
+    {
+      "platz": 3,
+      "buchstabe": "I",
+      "relative_haeufigkeit_prozent": 7.55
+    },
+    {
+      "platz": 4,
+      "buchstabe": "S",
+      "relative_haeufigkeit_prozent": 7.27
+    },
+    {
+      "platz": 5,
+      "buchstabe": "R",
+      "relative_haeufigkeit_prozent": 7
+    },
+    {
+      "platz": 6,
+      "buchstabe": "A",
+      "relative_haeufigkeit_prozent": 6.51
+    },
+    {
+      "platz": 7,
+      "buchstabe": "T",
+      "relative_haeufigkeit_prozent": 6.15
+    },
+    {
+      "platz": 8,
+      "buchstabe": "D",
+      "relative_haeufigkeit_prozent": 5.08
+    },
+    {
+      "platz": 9,
+      "buchstabe": "H",
+      "relative_haeufigkeit_prozent": 4.76
+    },
+    {
+      "platz": 10,
+      "buchstabe": "U",
+      "relative_haeufigkeit_prozent": 4.35
+    },
+    {
+      "platz": 11,
+      "buchstabe": "L",
+      "relative_haeufigkeit_prozent": 3.44
+    },
+    {
+      "platz": 12,
+      "buchstabe": "C",
+      "relative_haeufigkeit_prozent": 3.06
+    },
+    {
+      "platz": 13,
+      "buchstabe": "G",
+      "relative_haeufigkeit_prozent": 3.01
+    },
+    {
+      "platz": 14,
+      "buchstabe": "M",
+      "relative_haeufigkeit_prozent": 2.53
+    },
+    {
+      "platz": 15,
+      "buchstabe": "O",
+      "relative_haeufigkeit_prozent": 2.51
+    },
+    {
+      "platz": 16,
+      "buchstabe": "B",
+      "relative_haeufigkeit_prozent": 1.89
+    },
+    {
+      "platz": 17,
+      "buchstabe": "W",
+      "relative_haeufigkeit_prozent": 1.89
+    },
+    {
+      "platz": 18,
+      "buchstabe": "F",
+      "relative_haeufigkeit_prozent": 1.66
+    },
+    {
+      "platz": 19,
+      "buchstabe": "K",
+      "relative_haeufigkeit_prozent": 1.21
+    },
+    {
+      "platz": 20,
+      "buchstabe": "Z",
+      "relative_haeufigkeit_prozent": 1.13
+    },
+    {
+      "platz": 21,
+      "buchstabe": "P",
+      "relative_haeufigkeit_prozent": 0.79
+    },
+    {
+      "platz": 22,
+      "buchstabe": "V",
+      "relative_haeufigkeit_prozent": 0.67
+    },
+    {
+      "platz": 23,
+      "buchstabe": "ẞ",
+      "relative_haeufigkeit_prozent": 0.31
+    },
+    {
+      "platz": 24,
+      "buchstabe": "J",
+      "relative_haeufigkeit_prozent": 0.27
+    },
+    {
+      "platz": 25,
+      "buchstabe": "Y",
+      "relative_haeufigkeit_prozent": 0.04
+    },
+    {
+      "platz": 26,
+      "buchstabe": "X",
+      "relative_haeufigkeit_prozent": 0.03
+    },
+    {
+      "platz": 27,
+      "buchstabe": "Q",
+      "relative_haeufigkeit_prozent": 0.02
+    }
+  ],
+  "meta": {
+    "title": "Buchstabenhäufigkeit im Deutschen - Free Download",
+    "description": "Relative Häufigkeit der Buchstaben in deutschen Texten (Platzierung und Prozentanteil). Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Buchstabenhäufigkeit im Deutschen | ListBase",
+    "seo_description": "Download Buchstabenhäufigkeit im Deutschen — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Buchstabenhäufigkeit"
+    ]
+  }
+}
