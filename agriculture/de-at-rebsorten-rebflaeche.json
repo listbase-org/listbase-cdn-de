@@ -1,0 +1,352 @@
+{
+  "id": "de-at-rebsorten-rebflaeche",
+  "name": "Rebsorten in Österreich nach Rebfläche",
+  "title": "Rebsorten in Österreich nach Rebfläche",
+  "description": "Weiß- und Rotweinsorten in Österreich mit Anbaufläche in Hektar und Anteil an der gesamten Rebfläche.",
+  "category": "agriculture",
+  "source": "https://de.wikipedia.org/wiki/Weinbau_in_Österreich",
+  "source_url": "https://de.wikipedia.org/wiki/Weinbau_in_Österreich",
+  "updated": "2026-11",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "rebsorte",
+      "label": "Rebsorte",
+      "type": "string"
+    },
+    {
+      "key": "farbe",
+      "label": "Farbe",
+      "type": "string"
+    },
+    {
+      "key": "rebflaeche_ha",
+      "label": "Rebflaeche Ha",
+      "type": "number"
+    },
+    {
+      "key": "anteil",
+      "label": "Anteil",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rebsorte": "Blütenmuskateller",
+      "farbe": "weiß",
+      "rebflaeche_ha": 123.72,
+      "anteil": "0,3 %"
+    },
+    {
+      "rebsorte": "Bouvier",
+      "farbe": "weiß",
+      "rebflaeche_ha": 201.35,
+      "anteil": "0,5 %"
+    },
+    {
+      "rebsorte": "Chardonnay (Morillon)",
+      "farbe": "weiß",
+      "rebflaeche_ha": 1926.66,
+      "anteil": "4,4 %"
+    },
+    {
+      "rebsorte": "Donauriesling",
+      "farbe": "weiß",
+      "rebflaeche_ha": 80.8,
+      "anteil": "0,2 %"
+    },
+    {
+      "rebsorte": "Donauveltliner",
+      "farbe": "weiß",
+      "rebflaeche_ha": 62.35,
+      "anteil": "0,1 %"
+    },
+    {
+      "rebsorte": "Frühroter Veltliner (Malvasier)",
+      "farbe": "weiß",
+      "rebflaeche_ha": 226.69,
+      "anteil": "0,5 %"
+    },
+    {
+      "rebsorte": "Furmint",
+      "farbe": "weiß",
+      "rebflaeche_ha": 35.13,
+      "anteil": "0,1 %"
+    },
+    {
+      "rebsorte": "Goldburger",
+      "farbe": "weiß",
+      "rebflaeche_ha": 28.78,
+      "anteil": "0,1 %"
+    },
+    {
+      "rebsorte": "Goldmuskateller",
+      "farbe": "weiß",
+      "rebflaeche_ha": 50.44,
+      "anteil": "0,1 %"
+    },
+    {
+      "rebsorte": "Grauer Burgunder (Pinot Gris)",
+      "farbe": "weiß",
+      "rebflaeche_ha": 322.75,
+      "anteil": "0,7 %"
+    },
+    {
+      "rebsorte": "Grüner Veltliner",
+      "farbe": "weiß",
+      "rebflaeche_ha": 14296.41,
+      "anteil": "32,3 %"
+    },
+    {
+      "rebsorte": "Jubiläumsrebe",
+      "farbe": "weiß",
+      "rebflaeche_ha": 2.24,
+      "anteil": "0,0 %"
+    },
+    {
+      "rebsorte": "Müller-Thurgau (Rivaner)",
+      "farbe": "weiß",
+      "rebflaeche_ha": 1195.26,
+      "anteil": "2,7 %"
+    },
+    {
+      "rebsorte": "Muscaris",
+      "farbe": "weiß",
+      "rebflaeche_ha": 96.88,
+      "anteil": "0,2 %"
+    },
+    {
+      "rebsorte": "Muskat Ottonel",
+      "farbe": "weiß",
+      "rebflaeche_ha": 312.96,
+      "anteil": "0,7 %"
+    },
+    {
+      "rebsorte": "Muskateller",
+      "farbe": "weiß",
+      "rebflaeche_ha": 1543.43,
+      "anteil": "3,5 %"
+    },
+    {
+      "rebsorte": "Neuburger",
+      "farbe": "weiß",
+      "rebflaeche_ha": 235.26,
+      "anteil": "0,5 %"
+    },
+    {
+      "rebsorte": "Riesling",
+      "farbe": "weiß",
+      "rebflaeche_ha": 2025.05,
+      "anteil": "4,6 %"
+    },
+    {
+      "rebsorte": "Roter Veltliner",
+      "farbe": "weiß",
+      "rebflaeche_ha": 202.6,
+      "anteil": "0,5 %"
+    },
+    {
+      "rebsorte": "Rotgipfler",
+      "farbe": "weiß",
+      "rebflaeche_ha": 110.95,
+      "anteil": "0,3 %"
+    },
+    {
+      "rebsorte": "Sauvignon Blanc",
+      "farbe": "weiß",
+      "rebflaeche_ha": 1739.69,
+      "anteil": "3,9 %"
+    },
+    {
+      "rebsorte": "Scheurebe (Sämling 88)",
+      "farbe": "weiß",
+      "rebflaeche_ha": 293.36,
+      "anteil": "0,7 %"
+    },
+    {
+      "rebsorte": "Souvignier Gris",
+      "farbe": "weiß",
+      "rebflaeche_ha": 75.62,
+      "anteil": "0,2 %"
+    },
+    {
+      "rebsorte": "Sylvaner",
+      "farbe": "weiß",
+      "rebflaeche_ha": 23.06,
+      "anteil": "0,1 %"
+    },
+    {
+      "rebsorte": "Traminer",
+      "farbe": "weiß",
+      "rebflaeche_ha": 262.8,
+      "anteil": "0,6 %"
+    },
+    {
+      "rebsorte": "Weißer Burgunder (Pinot Blanc)",
+      "farbe": "weiß",
+      "rebflaeche_ha": 1847.63,
+      "anteil": "4,2 %"
+    },
+    {
+      "rebsorte": "Welschriesling",
+      "farbe": "weiß",
+      "rebflaeche_ha": 2774.27,
+      "anteil": "6,3 %"
+    },
+    {
+      "rebsorte": "Wiener Gemischter Satz",
+      "farbe": "weiß",
+      "rebflaeche_ha": 239.22,
+      "anteil": "0,5 %"
+    },
+    {
+      "rebsorte": "Zierfandler (Spätrot)",
+      "farbe": "weiß",
+      "rebflaeche_ha": 61.63,
+      "anteil": "0,1 %"
+    },
+    {
+      "rebsorte": "Bronner",
+      "farbe": "weiß",
+      "rebflaeche_ha": 16.75,
+      "anteil": "0,04 %"
+    },
+    {
+      "rebsorte": "Cabernet Blanc",
+      "farbe": "weiß",
+      "rebflaeche_ha": 24.33,
+      "anteil": "0,06 %"
+    },
+    {
+      "rebsorte": "Johanniter",
+      "farbe": "weiß",
+      "rebflaeche_ha": 9.35,
+      "anteil": "0,02 %"
+    },
+    {
+      "rebsorte": "Orangetraube",
+      "farbe": "weiß",
+      "rebflaeche_ha": 0.71,
+      "anteil": "0,002 %"
+    },
+    {
+      "rebsorte": "Solaris",
+      "farbe": "weiß",
+      "rebflaeche_ha": 11.53,
+      "anteil": "0,03 %"
+    },
+    {
+      "rebsorte": "Blauburger",
+      "farbe": "rot",
+      "rebflaeche_ha": 417.92,
+      "anteil": "0,9 %"
+    },
+    {
+      "rebsorte": "Blauer Burgunder (Pinot Noir)",
+      "farbe": "rot",
+      "rebflaeche_ha": 602.74,
+      "anteil": "1,4 %"
+    },
+    {
+      "rebsorte": "Blauer Portugieser",
+      "farbe": "rot",
+      "rebflaeche_ha": 424.79,
+      "anteil": "1,0 %"
+    },
+    {
+      "rebsorte": "Blauer Wildbacher",
+      "farbe": "rot",
+      "rebflaeche_ha": 520.1,
+      "anteil": "1,2 %"
+    },
+    {
+      "rebsorte": "Blaufränkisch",
+      "farbe": "rot",
+      "rebflaeche_ha": 2550.08,
+      "anteil": "5,8 %"
+    },
+    {
+      "rebsorte": "Cabernet Franc",
+      "farbe": "rot",
+      "rebflaeche_ha": 110.63,
+      "anteil": "0,3 %"
+    },
+    {
+      "rebsorte": "Cabernet Sauvignon",
+      "farbe": "rot",
+      "rebflaeche_ha": 568.66,
+      "anteil": "1,3 %"
+    },
+    {
+      "rebsorte": "Merlot",
+      "farbe": "rot",
+      "rebflaeche_ha": 816.15,
+      "anteil": "1,8 %"
+    },
+    {
+      "rebsorte": "Rathay",
+      "farbe": "rot",
+      "rebflaeche_ha": 54.57,
+      "anteil": "0,1 %"
+    },
+    {
+      "rebsorte": "Roesler",
+      "farbe": "rot",
+      "rebflaeche_ha": 283.78,
+      "anteil": "0,6 %"
+    },
+    {
+      "rebsorte": "Rosenmuskateller",
+      "farbe": "rot",
+      "rebflaeche_ha": 8.46,
+      "anteil": "0,0 %"
+    },
+    {
+      "rebsorte": "St. Laurent",
+      "farbe": "rot",
+      "rebflaeche_ha": 587.75,
+      "anteil": "1,3 %"
+    },
+    {
+      "rebsorte": "Syrah",
+      "farbe": "rot",
+      "rebflaeche_ha": 149.97,
+      "anteil": "0,3 %"
+    },
+    {
+      "rebsorte": "Zweigelt",
+      "farbe": "rot",
+      "rebflaeche_ha": 5940.28,
+      "anteil": "13,4 %"
+    },
+    {
+      "rebsorte": "Cabernet Jura",
+      "farbe": "rot",
+      "rebflaeche_ha": 17.84,
+      "anteil": "0,04 %"
+    },
+    {
+      "rebsorte": "Pinot Nova",
+      "farbe": "rot",
+      "rebflaeche_ha": 17.6,
+      "anteil": "0,04 %"
+    },
+    {
+      "rebsorte": "Regent",
+      "farbe": "rot",
+      "rebflaeche_ha": 7.92,
+      "anteil": "0,02 %"
+    }
+  ],
+  "meta": {
+    "title": "Rebsorten in Österreich nach Rebfläche - Free Download",
+    "description": "Weiß- und Rotweinsorten in Österreich mit Anbaufläche in Hektar und Anteil an der gesamten Rebfläche. Contains 51 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Rebsorten in Österreich nach Rebfläche | ListBase",
+    "seo_description": "Download Rebsorten in Österreich nach Rebfläche — 51 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 51 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Weinbau_in_Österreich"
+    ]
+  }
+}
