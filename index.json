@@ -1,12 +1,12 @@
 {
   "lang": "de",
-  "generated": "2026-11-09T02:50:24.858Z",
-  "total_datasets": 541,
-  "total_records": 1877514,
+  "generated": "2026-11-09T02:50:34.539Z",
+  "total_datasets": 542,
+  "total_records": 1877650,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -154,6 +154,33 @@
         "xlsx": {
           "name": "de-at-rebsorten-rebflaeche_DE.xlsx",
           "size": 8500
+        }
+      }
+    },
+    {
+      "id": "de-at-weinbaugebiete-hauptrebsorten",
+      "name": "Hauptrebsorten der österreichischen Weinbaugebiete",
+      "category": "agriculture",
+      "record_count": 136,
+      "columns": [
+        "weinbaugebiet",
+        "farbe",
+        "rang",
+        "rebsorte",
+        "rebflaeche_ha",
+        "anteil"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Weinbau_in_Österreich",
+      "updated": "2026-11",
+      "size": 26836,
+      "files": {
+        "csv": {
+          "name": "de-at-weinbaugebiete-hauptrebsorten_DE.csv",
+          "size": 8259
+        },
+        "xlsx": {
+          "name": "de-at-weinbaugebiete-hauptrebsorten_DE.xlsx",
+          "size": 11303
         }
       }
     },

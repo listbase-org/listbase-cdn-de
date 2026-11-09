@@ -1,0 +1,1144 @@
+{
+  "id": "de-at-weinbaugebiete-hauptrebsorten",
+  "name": "Hauptrebsorten der österreichischen Weinbaugebiete",
+  "title": "Hauptrebsorten der österreichischen Weinbaugebiete",
+  "description": "Die wichtigsten Weiß- und Rotweinsorten je österreichischem Weinbaugebiet (DAC-Gebiet) mit Rebfläche in Hektar und Anteil an der Rebfläche des Gebiets.",
+  "category": "agriculture",
+  "source": "https://de.wikipedia.org/wiki/Weinbau_in_Österreich",
+  "source_url": "https://de.wikipedia.org/wiki/Weinbau_in_Österreich",
+  "updated": "2026-11",
+  "record_count": 136,
+  "columns": [
+    {
+      "key": "weinbaugebiet",
+      "label": "Weinbaugebiet",
+      "type": "string"
+    },
+    {
+      "key": "farbe",
+      "label": "Farbe",
+      "type": "string"
+    },
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "rebsorte",
+      "label": "Rebsorte",
+      "type": "string"
+    },
+    {
+      "key": "rebflaeche_ha",
+      "label": "Rebflaeche Ha",
+      "type": "number"
+    },
+    {
+      "key": "anteil",
+      "label": "Anteil",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "weinbaugebiet": "Wachau",
+      "farbe": "weiß",
+      "rang": 1,
+      "rebsorte": "Grüner Veltliner",
+      "rebflaeche_ha": 828.28,
+      "anteil": "64,5 %"
+    },
+    {
+      "weinbaugebiet": "Wachau",
+      "farbe": "weiß",
+      "rang": 2,
+      "rebsorte": "Riesling",
+      "rebflaeche_ha": 236.57,
+      "anteil": "18,4 %"
+    },
+    {
+      "weinbaugebiet": "Wachau",
+      "farbe": "weiß",
+      "rang": 3,
+      "rebsorte": "Muskateller",
+      "rebflaeche_ha": 33.14,
+      "anteil": "2,6 %"
+    },
+    {
+      "weinbaugebiet": "Wachau",
+      "farbe": "weiß",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten weiß",
+      "rebflaeche_ha": 112.22,
+      "anteil": "8,7 %"
+    },
+    {
+      "weinbaugebiet": "Wachau",
+      "farbe": "rot",
+      "rang": 1,
+      "rebsorte": "Zweigelt",
+      "rebflaeche_ha": 54.78,
+      "anteil": "4,3 %"
+    },
+    {
+      "weinbaugebiet": "Wachau",
+      "farbe": "rot",
+      "rang": 2,
+      "rebsorte": "Blauer Burgunder (Pinot Noir)",
+      "rebflaeche_ha": 6.49,
+      "anteil": "0,5 %"
+    },
+    {
+      "weinbaugebiet": "Wachau",
+      "farbe": "rot",
+      "rang": 3,
+      "rebsorte": "Blauburger",
+      "rebflaeche_ha": 2.96,
+      "anteil": "0,2 %"
+    },
+    {
+      "weinbaugebiet": "Wachau",
+      "farbe": "rot",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten rot",
+      "rebflaeche_ha": 10.37,
+      "anteil": "0,8 %"
+    },
+    {
+      "weinbaugebiet": "Kremstal",
+      "farbe": "weiß",
+      "rang": 1,
+      "rebsorte": "Grüner Veltliner",
+      "rebflaeche_ha": 1322.94,
+      "anteil": "59,0 %"
+    },
+    {
+      "weinbaugebiet": "Kremstal",
+      "farbe": "weiß",
+      "rang": 2,
+      "rebsorte": "Riesling",
+      "rebflaeche_ha": 248.42,
+      "anteil": "11,1 %"
+    },
+    {
+      "weinbaugebiet": "Kremstal",
+      "farbe": "weiß",
+      "rang": 3,
+      "rebsorte": "Müller-Thurgau (Rivaner)",
+      "rebflaeche_ha": 78.32,
+      "anteil": "3,5 %"
+    },
+    {
+      "weinbaugebiet": "Kremstal",
+      "farbe": "weiß",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten weiß",
+      "rebflaeche_ha": 266.67,
+      "anteil": "11,9 %"
+    },
+    {
+      "weinbaugebiet": "Kremstal",
+      "farbe": "rot",
+      "rang": 1,
+      "rebsorte": "Zweigelt",
+      "rebflaeche_ha": 249.7,
+      "anteil": "11,1 %"
+    },
+    {
+      "weinbaugebiet": "Kremstal",
+      "farbe": "rot",
+      "rang": 2,
+      "rebsorte": "Blauer Burgunder (Pinot Noir)",
+      "rebflaeche_ha": 19.9,
+      "anteil": "0,9 %"
+    },
+    {
+      "weinbaugebiet": "Kremstal",
+      "farbe": "rot",
+      "rang": 3,
+      "rebsorte": "Cabernet Sauvignon",
+      "rebflaeche_ha": 12.33,
+      "anteil": "0,5 %"
+    },
+    {
+      "weinbaugebiet": "Kremstal",
+      "farbe": "rot",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten rot",
+      "rebflaeche_ha": 43.9,
+      "anteil": "2,0 %"
+    },
+    {
+      "weinbaugebiet": "Kamptal",
+      "farbe": "weiß",
+      "rang": 1,
+      "rebsorte": "Grüner Veltliner",
+      "rebflaeche_ha": 1958.04,
+      "anteil": "54,9 %"
+    },
+    {
+      "weinbaugebiet": "Kamptal",
+      "farbe": "weiß",
+      "rang": 2,
+      "rebsorte": "Riesling",
+      "rebflaeche_ha": 363.75,
+      "anteil": "10,2 %"
+    },
+    {
+      "weinbaugebiet": "Kamptal",
+      "farbe": "weiß",
+      "rang": 3,
+      "rebsorte": "Müller-Thurgau (Rivaner)",
+      "rebflaeche_ha": 140.8,
+      "anteil": "3,9 %"
+    },
+    {
+      "weinbaugebiet": "Kamptal",
+      "farbe": "weiß",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten weiß",
+      "rebflaeche_ha": 467.9,
+      "anteil": "13,1 %"
+    },
+    {
+      "weinbaugebiet": "Kamptal",
+      "farbe": "rot",
+      "rang": 1,
+      "rebsorte": "Zweigelt",
+      "rebflaeche_ha": 448.12,
+      "anteil": "12,6 %"
+    },
+    {
+      "weinbaugebiet": "Kamptal",
+      "farbe": "rot",
+      "rang": 2,
+      "rebsorte": "Blauer Burgunder (Pinot Noir)",
+      "rebflaeche_ha": 44.64,
+      "anteil": "1,3 %"
+    },
+    {
+      "weinbaugebiet": "Kamptal",
+      "farbe": "rot",
+      "rang": 3,
+      "rebsorte": "Blauburger",
+      "rebflaeche_ha": 30.17,
+      "anteil": "0,8 %"
+    },
+    {
+      "weinbaugebiet": "Kamptal",
+      "farbe": "rot",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten rot",
+      "rebflaeche_ha": 113.34,
+      "anteil": "3,2 %"
+    },
+    {
+      "weinbaugebiet": "Traisental",
+      "farbe": "weiß",
+      "rang": 1,
+      "rebsorte": "Grüner Veltliner",
+      "rebflaeche_ha": 535.8,
+      "anteil": "62,3 %"
+    },
+    {
+      "weinbaugebiet": "Traisental",
+      "farbe": "weiß",
+      "rang": 2,
+      "rebsorte": "Riesling",
+      "rebflaeche_ha": 55.19,
+      "anteil": "6,4 %"
+    },
+    {
+      "weinbaugebiet": "Traisental",
+      "farbe": "weiß",
+      "rang": 3,
+      "rebsorte": "Muskateller",
+      "rebflaeche_ha": 30.84,
+      "anteil": "3,6 %"
+    },
+    {
+      "weinbaugebiet": "Traisental",
+      "farbe": "weiß",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten weiß",
+      "rebflaeche_ha": 123.68,
+      "anteil": "14,4 %"
+    },
+    {
+      "weinbaugebiet": "Traisental",
+      "farbe": "rot",
+      "rang": 1,
+      "rebsorte": "Zweigelt",
+      "rebflaeche_ha": 71.42,
+      "anteil": "8,3 %"
+    },
+    {
+      "weinbaugebiet": "Traisental",
+      "farbe": "rot",
+      "rang": 2,
+      "rebsorte": "Blauer Portugieser",
+      "rebflaeche_ha": 12.77,
+      "anteil": "1,5 %"
+    },
+    {
+      "weinbaugebiet": "Traisental",
+      "farbe": "rot",
+      "rang": 3,
+      "rebsorte": "Blauburger",
+      "rebflaeche_ha": 6.79,
+      "anteil": "0,8 %"
+    },
+    {
+      "weinbaugebiet": "Traisental",
+      "farbe": "rot",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten rot",
+      "rebflaeche_ha": 24.17,
+      "anteil": "2,8 %"
+    },
+    {
+      "weinbaugebiet": "Wagram",
+      "farbe": "weiß",
+      "rang": 1,
+      "rebsorte": "Grüner Veltliner",
+      "rebflaeche_ha": 1301.81,
+      "anteil": "54,0 %"
+    },
+    {
+      "weinbaugebiet": "Wagram",
+      "farbe": "weiß",
+      "rang": 2,
+      "rebsorte": "Riesling",
+      "rebflaeche_ha": 133.68,
+      "anteil": "5,5 %"
+    },
+    {
+      "weinbaugebiet": "Wagram",
+      "farbe": "weiß",
+      "rang": 3,
+      "rebsorte": "Roter Veltliner",
+      "rebflaeche_ha": 115.2,
+      "anteil": "4,8 %"
+    },
+    {
+      "weinbaugebiet": "Wagram",
+      "farbe": "weiß",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten weiß",
+      "rebflaeche_ha": 439.62,
+      "anteil": "18,2 %"
+    },
+    {
+      "weinbaugebiet": "Wagram",
+      "farbe": "rot",
+      "rang": 1,
+      "rebsorte": "Zweigelt",
+      "rebflaeche_ha": 289.77,
+      "anteil": "12,0 %"
+    },
+    {
+      "weinbaugebiet": "Wagram",
+      "farbe": "rot",
+      "rang": 2,
+      "rebsorte": "Blauburger",
+      "rebflaeche_ha": 27.4,
+      "anteil": "1,1 %"
+    },
+    {
+      "weinbaugebiet": "Wagram",
+      "farbe": "rot",
+      "rang": 3,
+      "rebsorte": "Blauer Burgunder (Pinot Noir)",
+      "rebflaeche_ha": 23,
+      "anteil": "1,0 %"
+    },
+    {
+      "weinbaugebiet": "Wagram",
+      "farbe": "rot",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten rot",
+      "rebflaeche_ha": 80.56,
+      "anteil": "3,3 %"
+    },
+    {
+      "weinbaugebiet": "Weinviertel",
+      "farbe": "weiß",
+      "rang": 1,
+      "rebsorte": "Grüner Veltliner",
+      "rebflaeche_ha": 6828.76,
+      "anteil": "49,7 %"
+    },
+    {
+      "weinbaugebiet": "Weinviertel",
+      "farbe": "weiß",
+      "rang": 2,
+      "rebsorte": "Welschriesling",
+      "rebflaeche_ha": 894.12,
+      "anteil": "6,5 %"
+    },
+    {
+      "weinbaugebiet": "Weinviertel",
+      "farbe": "weiß",
+      "rang": 3,
+      "rebsorte": "Riesling",
+      "rebflaeche_ha": 693.78,
+      "anteil": "5,1 %"
+    },
+    {
+      "weinbaugebiet": "Weinviertel",
+      "farbe": "weiß",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten weiß",
+      "rebflaeche_ha": 2469.6,
+      "anteil": "18,0 %"
+    },
+    {
+      "weinbaugebiet": "Weinviertel",
+      "farbe": "rot",
+      "rang": 1,
+      "rebsorte": "Zweigelt",
+      "rebflaeche_ha": 1804.63,
+      "anteil": "13,1 %"
+    },
+    {
+      "weinbaugebiet": "Weinviertel",
+      "farbe": "rot",
+      "rang": 2,
+      "rebsorte": "Blauer Portugieser",
+      "rebflaeche_ha": 275.84,
+      "anteil": "2,0 %"
+    },
+    {
+      "weinbaugebiet": "Weinviertel",
+      "farbe": "rot",
+      "rang": 3,
+      "rebsorte": "Blauburger",
+      "rebflaeche_ha": 220.74,
+      "anteil": "1,6 %"
+    },
+    {
+      "weinbaugebiet": "Weinviertel",
+      "farbe": "rot",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten rot",
+      "rebflaeche_ha": 542.87,
+      "anteil": "4,0 %"
+    },
+    {
+      "weinbaugebiet": "Carnuntum",
+      "farbe": "weiß",
+      "rang": 1,
+      "rebsorte": "Grüner Veltliner",
+      "rebflaeche_ha": 157.92,
+      "anteil": "19,4 %"
+    },
+    {
+      "weinbaugebiet": "Carnuntum",
+      "farbe": "weiß",
+      "rang": 2,
+      "rebsorte": "Chardonnay (Morillon)",
+      "rebflaeche_ha": 52.43,
+      "anteil": "6,5 %"
+    },
+    {
+      "weinbaugebiet": "Carnuntum",
+      "farbe": "weiß",
+      "rang": 3,
+      "rebsorte": "Welschriesling",
+      "rebflaeche_ha": 40.02,
+      "anteil": "4,9 %"
+    },
+    {
+      "weinbaugebiet": "Carnuntum",
+      "farbe": "weiß",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten weiß",
+      "rebflaeche_ha": 114.1,
+      "anteil": "14,0 %"
+    },
+    {
+      "weinbaugebiet": "Carnuntum",
+      "farbe": "rot",
+      "rang": 1,
+      "rebsorte": "Zweigelt",
+      "rebflaeche_ha": 222.89,
+      "anteil": "27,4 %"
+    },
+    {
+      "weinbaugebiet": "Carnuntum",
+      "farbe": "rot",
+      "rang": 2,
+      "rebsorte": "Blaufränkisch",
+      "rebflaeche_ha": 97.39,
+      "anteil": "12,0 %"
+    },
+    {
+      "weinbaugebiet": "Carnuntum",
+      "farbe": "rot",
+      "rang": 3,
+      "rebsorte": "Merlot",
+      "rebflaeche_ha": 48.83,
+      "anteil": "6,0 %"
+    },
+    {
+      "weinbaugebiet": "Carnuntum",
+      "farbe": "rot",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten rot",
+      "rebflaeche_ha": 78.69,
+      "anteil": "9,7 %"
+    },
+    {
+      "weinbaugebiet": "Thermenregion",
+      "farbe": "weiß",
+      "rang": 1,
+      "rebsorte": "Grüner Veltliner",
+      "rebflaeche_ha": 176.54,
+      "anteil": "9,7 %"
+    },
+    {
+      "weinbaugebiet": "Thermenregion",
+      "farbe": "weiß",
+      "rang": 2,
+      "rebsorte": "Rotgipfler",
+      "rebflaeche_ha": 106.95,
+      "anteil": "5,9 %"
+    },
+    {
+      "weinbaugebiet": "Thermenregion",
+      "farbe": "weiß",
+      "rang": 3,
+      "rebsorte": "Chardonnay (Morillon)",
+      "rebflaeche_ha": 103.67,
+      "anteil": "5,7 %"
+    },
+    {
+      "weinbaugebiet": "Thermenregion",
+      "farbe": "weiß",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten weiß",
+      "rebflaeche_ha": 650.04,
+      "anteil": "35,7 %"
+    },
+    {
+      "weinbaugebiet": "Thermenregion",
+      "farbe": "rot",
+      "rang": 1,
+      "rebsorte": "Zweigelt",
+      "rebflaeche_ha": 256.14,
+      "anteil": "14,1 %"
+    },
+    {
+      "weinbaugebiet": "Thermenregion",
+      "farbe": "rot",
+      "rang": 2,
+      "rebsorte": "St. Laurent",
+      "rebflaeche_ha": 126.41,
+      "anteil": "6,9 %"
+    },
+    {
+      "weinbaugebiet": "Thermenregion",
+      "farbe": "rot",
+      "rang": 3,
+      "rebsorte": "Blauer Burgunder (Pinot Noir)",
+      "rebflaeche_ha": 113.28,
+      "anteil": "6,2 %"
+    },
+    {
+      "weinbaugebiet": "Thermenregion",
+      "farbe": "rot",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten rot",
+      "rebflaeche_ha": 288.43,
+      "anteil": "15,8 %"
+    },
+    {
+      "weinbaugebiet": "Neusiedlersee",
+      "farbe": "weiß",
+      "rang": 1,
+      "rebsorte": "Grüner Veltliner",
+      "rebflaeche_ha": 592.28,
+      "anteil": "9,9 %"
+    },
+    {
+      "weinbaugebiet": "Neusiedlersee",
+      "farbe": "weiß",
+      "rang": 2,
+      "rebsorte": "Welschriesling",
+      "rebflaeche_ha": 578.66,
+      "anteil": "9,7 %"
+    },
+    {
+      "weinbaugebiet": "Neusiedlersee",
+      "farbe": "weiß",
+      "rang": 3,
+      "rebsorte": "Chardonnay (Morillon)",
+      "rebflaeche_ha": 439.12,
+      "anteil": "7,4 %"
+    },
+    {
+      "weinbaugebiet": "Neusiedlersee",
+      "farbe": "weiß",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten weiß",
+      "rebflaeche_ha": 1415.61,
+      "anteil": "23,8 %"
+    },
+    {
+      "weinbaugebiet": "Neusiedlersee",
+      "farbe": "rot",
+      "rang": 1,
+      "rebsorte": "Zweigelt",
+      "rebflaeche_ha": 1397.77,
+      "anteil": "23,5 %"
+    },
+    {
+      "weinbaugebiet": "Neusiedlersee",
+      "farbe": "rot",
+      "rang": 2,
+      "rebsorte": "Blaufränkisch",
+      "rebflaeche_ha": 515.61,
+      "anteil": "8,7 %"
+    },
+    {
+      "weinbaugebiet": "Neusiedlersee",
+      "farbe": "rot",
+      "rang": 3,
+      "rebsorte": "Merlot",
+      "rebflaeche_ha": 228.06,
+      "anteil": "3,8 %"
+    },
+    {
+      "weinbaugebiet": "Neusiedlersee",
+      "farbe": "rot",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten rot",
+      "rebflaeche_ha": 792.28,
+      "anteil": "13,3 %"
+    },
+    {
+      "weinbaugebiet": "Leithaberg",
+      "farbe": "weiß",
+      "rang": 1,
+      "rebsorte": "Grüner Veltliner",
+      "rebflaeche_ha": 398.37,
+      "anteil": "13,5 %"
+    },
+    {
+      "weinbaugebiet": "Leithaberg",
+      "farbe": "weiß",
+      "rang": 2,
+      "rebsorte": "Welschriesling",
+      "rebflaeche_ha": 293.96,
+      "anteil": "9,9 %"
+    },
+    {
+      "weinbaugebiet": "Leithaberg",
+      "farbe": "weiß",
+      "rang": 3,
+      "rebsorte": "Chardonnay (Morillon)",
+      "rebflaeche_ha": 229.47,
+      "anteil": "7,8 %"
+    },
+    {
+      "weinbaugebiet": "Leithaberg",
+      "farbe": "weiß",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten weiß",
+      "rebflaeche_ha": 661.19,
+      "anteil": "22,4 %"
+    },
+    {
+      "weinbaugebiet": "Leithaberg",
+      "farbe": "rot",
+      "rang": 1,
+      "rebsorte": "Blaufränkisch",
+      "rebflaeche_ha": 597.93,
+      "anteil": "20,2 %"
+    },
+    {
+      "weinbaugebiet": "Leithaberg",
+      "farbe": "rot",
+      "rang": 2,
+      "rebsorte": "Zweigelt",
+      "rebflaeche_ha": 324.74,
+      "anteil": "11,0 %"
+    },
+    {
+      "weinbaugebiet": "Leithaberg",
+      "farbe": "rot",
+      "rang": 3,
+      "rebsorte": "Merlot",
+      "rebflaeche_ha": 115.73,
+      "anteil": "3,9 %"
+    },
+    {
+      "weinbaugebiet": "Leithaberg",
+      "farbe": "rot",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten rot",
+      "rebflaeche_ha": 333.83,
+      "anteil": "11,3 %"
+    },
+    {
+      "weinbaugebiet": "Rosalia",
+      "farbe": "weiß",
+      "rang": 1,
+      "rebsorte": "Grüner Veltliner",
+      "rebflaeche_ha": 17.53,
+      "anteil": "7,7 %"
+    },
+    {
+      "weinbaugebiet": "Rosalia",
+      "farbe": "weiß",
+      "rang": 2,
+      "rebsorte": "Chardonnay (Morillon)",
+      "rebflaeche_ha": 6.1,
+      "anteil": "2,7 %"
+    },
+    {
+      "weinbaugebiet": "Rosalia",
+      "farbe": "weiß",
+      "rang": 3,
+      "rebsorte": "Sauvignon Blanc",
+      "rebflaeche_ha": 4.83,
+      "anteil": "2,1 %"
+    },
+    {
+      "weinbaugebiet": "Rosalia",
+      "farbe": "weiß",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten weiß",
+      "rebflaeche_ha": 24.61,
+      "anteil": "10,8 %"
+    },
+    {
+      "weinbaugebiet": "Rosalia",
+      "farbe": "rot",
+      "rang": 1,
+      "rebsorte": "Blaufränkisch",
+      "rebflaeche_ha": 106.51,
+      "anteil": "46,8 %"
+    },
+    {
+      "weinbaugebiet": "Rosalia",
+      "farbe": "rot",
+      "rang": 2,
+      "rebsorte": "Zweigelt",
+      "rebflaeche_ha": 41,
+      "anteil": "18,0 %"
+    },
+    {
+      "weinbaugebiet": "Rosalia",
+      "farbe": "rot",
+      "rang": 3,
+      "rebsorte": "Merlot",
+      "rebflaeche_ha": 8.62,
+      "anteil": "3,8 %"
+    },
+    {
+      "weinbaugebiet": "Rosalia",
+      "farbe": "rot",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten rot",
+      "rebflaeche_ha": 18.44,
+      "anteil": "8,1 %"
+    },
+    {
+      "weinbaugebiet": "Mittelburgenland",
+      "farbe": "weiß",
+      "rang": 1,
+      "rebsorte": "Grüner Veltliner",
+      "rebflaeche_ha": 72.11,
+      "anteil": "3,6 %"
+    },
+    {
+      "weinbaugebiet": "Mittelburgenland",
+      "farbe": "weiß",
+      "rang": 2,
+      "rebsorte": "Chardonnay (Morillon)",
+      "rebflaeche_ha": 23.94,
+      "anteil": "1,2 %"
+    },
+    {
+      "weinbaugebiet": "Mittelburgenland",
+      "farbe": "weiß",
+      "rang": 3,
+      "rebsorte": "Welschriesling",
+      "rebflaeche_ha": 17.75,
+      "anteil": "0,9 %"
+    },
+    {
+      "weinbaugebiet": "Mittelburgenland",
+      "farbe": "weiß",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten weiß",
+      "rebflaeche_ha": 50.71,
+      "anteil": "2,5 %"
+    },
+    {
+      "weinbaugebiet": "Mittelburgenland",
+      "farbe": "rot",
+      "rang": 1,
+      "rebsorte": "Blaufränkisch",
+      "rebflaeche_ha": 1040.91,
+      "anteil": "51,4 %"
+    },
+    {
+      "weinbaugebiet": "Mittelburgenland",
+      "farbe": "rot",
+      "rang": 2,
+      "rebsorte": "Zweigelt",
+      "rebflaeche_ha": 480.25,
+      "anteil": "23,7 %"
+    },
+    {
+      "weinbaugebiet": "Mittelburgenland",
+      "farbe": "rot",
+      "rang": 3,
+      "rebsorte": "Merlot",
+      "rebflaeche_ha": 127.89,
+      "anteil": "6,3 %"
+    },
+    {
+      "weinbaugebiet": "Mittelburgenland",
+      "farbe": "rot",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten rot",
+      "rebflaeche_ha": 212.51,
+      "anteil": "10,5 %"
+    },
+    {
+      "weinbaugebiet": "Eisenberg",
+      "farbe": "weiß",
+      "rang": 1,
+      "rebsorte": "Welschriesling",
+      "rebflaeche_ha": 74.85,
+      "anteil": "14,3 %"
+    },
+    {
+      "weinbaugebiet": "Eisenberg",
+      "farbe": "weiß",
+      "rang": 2,
+      "rebsorte": "Chardonnay (Morillon)",
+      "rebflaeche_ha": 12.63,
+      "anteil": "2,4 %"
+    },
+    {
+      "weinbaugebiet": "Eisenberg",
+      "farbe": "weiß",
+      "rang": 3,
+      "rebsorte": "Sauvignon Blanc",
+      "rebflaeche_ha": 11.01,
+      "anteil": "2,1 %"
+    },
+    {
+      "weinbaugebiet": "Eisenberg",
+      "farbe": "weiß",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten weiß",
+      "rebflaeche_ha": 68.94,
+      "anteil": "13,1 %"
+    },
+    {
+      "weinbaugebiet": "Eisenberg",
+      "farbe": "rot",
+      "rang": 1,
+      "rebsorte": "Blaufränkisch",
+      "rebflaeche_ha": 154.93,
+      "anteil": "29,5 %"
+    },
+    {
+      "weinbaugebiet": "Eisenberg",
+      "farbe": "rot",
+      "rang": 2,
+      "rebsorte": "Zweigelt",
+      "rebflaeche_ha": 21.67,
+      "anteil": "4,1 %"
+    },
+    {
+      "weinbaugebiet": "Eisenberg",
+      "farbe": "rot",
+      "rang": 3,
+      "rebsorte": "Merlot",
+      "rebflaeche_ha": 21.12,
+      "anteil": "4,0 %"
+    },
+    {
+      "weinbaugebiet": "Eisenberg",
+      "farbe": "rot",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten rot",
+      "rebflaeche_ha": 160.01,
+      "anteil": "30,5 %"
+    },
+    {
+      "weinbaugebiet": "Wien",
+      "farbe": "weiß",
+      "rang": 1,
+      "rebsorte": "Anbau als Wiener Gemischter Satz",
+      "rebflaeche_ha": 239.21,
+      "anteil": "40,7 %"
+    },
+    {
+      "weinbaugebiet": "Wien",
+      "farbe": "weiß",
+      "rang": 2,
+      "rebsorte": "Grüner Veltliner",
+      "rebflaeche_ha": 92.84,
+      "anteil": "15,8 %"
+    },
+    {
+      "weinbaugebiet": "Wien",
+      "farbe": "weiß",
+      "rang": 3,
+      "rebsorte": "Riesling",
+      "rebflaeche_ha": 45.94,
+      "anteil": "7,8 %"
+    },
+    {
+      "weinbaugebiet": "Wien",
+      "farbe": "weiß",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten weiß",
+      "rebflaeche_ha": 114.64,
+      "anteil": "19,5 %"
+    },
+    {
+      "weinbaugebiet": "Wien",
+      "farbe": "rot",
+      "rang": 1,
+      "rebsorte": "Zweigelt",
+      "rebflaeche_ha": 32.63,
+      "anteil": "5,5 %"
+    },
+    {
+      "weinbaugebiet": "Wien",
+      "farbe": "rot",
+      "rang": 2,
+      "rebsorte": "Blauer Burgunder (Pinot Noir)",
+      "rebflaeche_ha": 19.46,
+      "anteil": "3,3 %"
+    },
+    {
+      "weinbaugebiet": "Wien",
+      "farbe": "rot",
+      "rang": 3,
+      "rebsorte": "Merlot",
+      "rebflaeche_ha": 10.04,
+      "anteil": "1,7 %"
+    },
+    {
+      "weinbaugebiet": "Wien",
+      "farbe": "rot",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten rot",
+      "rebflaeche_ha": 33.48,
+      "anteil": "5,7 %"
+    },
+    {
+      "weinbaugebiet": "Vulkanland Steiermark",
+      "farbe": "weiß",
+      "rang": 1,
+      "rebsorte": "Welschriesling",
+      "rebflaeche_ha": 305.47,
+      "anteil": "18,4 %"
+    },
+    {
+      "weinbaugebiet": "Vulkanland Steiermark",
+      "farbe": "weiß",
+      "rang": 2,
+      "rebsorte": "Weißer Burgunder (Pinot Blanc)",
+      "rebflaeche_ha": 291.55,
+      "anteil": "17,6 %"
+    },
+    {
+      "weinbaugebiet": "Vulkanland Steiermark",
+      "farbe": "weiß",
+      "rang": 3,
+      "rebsorte": "Sauvignon Blanc",
+      "rebflaeche_ha": 187.8,
+      "anteil": "11,3 %"
+    },
+    {
+      "weinbaugebiet": "Vulkanland Steiermark",
+      "farbe": "weiß",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten weiß",
+      "rebflaeche_ha": 613.28,
+      "anteil": "37,0 %"
+    },
+    {
+      "weinbaugebiet": "Vulkanland Steiermark",
+      "farbe": "rot",
+      "rang": 1,
+      "rebsorte": "Zweigelt",
+      "rebflaeche_ha": 141.19,
+      "anteil": "8,5 %"
+    },
+    {
+      "weinbaugebiet": "Vulkanland Steiermark",
+      "farbe": "rot",
+      "rang": 2,
+      "rebsorte": "Blauer Wildbacher",
+      "rebflaeche_ha": 24.42,
+      "anteil": "1,5 %"
+    },
+    {
+      "weinbaugebiet": "Vulkanland Steiermark",
+      "farbe": "rot",
+      "rang": 3,
+      "rebsorte": "Merlot",
+      "rebflaeche_ha": 13.26,
+      "anteil": "0,8 %"
+    },
+    {
+      "weinbaugebiet": "Vulkanland Steiermark",
+      "farbe": "rot",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten rot",
+      "rebflaeche_ha": 79.54,
+      "anteil": "4,8 %"
+    },
+    {
+      "weinbaugebiet": "Südsteiermark",
+      "farbe": "weiß",
+      "rang": 1,
+      "rebsorte": "Sauvignon Blanc",
+      "rebflaeche_ha": 721.22,
+      "anteil": "25,8 %"
+    },
+    {
+      "weinbaugebiet": "Südsteiermark",
+      "farbe": "weiß",
+      "rang": 2,
+      "rebsorte": "Welschriesling",
+      "rebflaeche_ha": 412.3,
+      "anteil": "14,7 %"
+    },
+    {
+      "weinbaugebiet": "Südsteiermark",
+      "farbe": "weiß",
+      "rang": 3,
+      "rebsorte": "Muskateller",
+      "rebflaeche_ha": 404.29,
+      "anteil": "14,5 %"
+    },
+    {
+      "weinbaugebiet": "Südsteiermark",
+      "farbe": "weiß",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten weiß",
+      "rebflaeche_ha": 1013,
+      "anteil": "36,2 %"
+    },
+    {
+      "weinbaugebiet": "Südsteiermark",
+      "farbe": "rot",
+      "rang": 1,
+      "rebsorte": "Zweigelt",
+      "rebflaeche_ha": 107.53,
+      "anteil": "3,8 %"
+    },
+    {
+      "weinbaugebiet": "Südsteiermark",
+      "farbe": "rot",
+      "rang": 2,
+      "rebsorte": "Blauer Wildbacher",
+      "rebflaeche_ha": 88.2,
+      "anteil": "3,2 %"
+    },
+    {
+      "weinbaugebiet": "Südsteiermark",
+      "farbe": "rot",
+      "rang": 3,
+      "rebsorte": "Blauer Burgunder (Pinot Noir)",
+      "rebflaeche_ha": 12.66,
+      "anteil": "0,5 %"
+    },
+    {
+      "weinbaugebiet": "Südsteiermark",
+      "farbe": "rot",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten rot",
+      "rebflaeche_ha": 38.62,
+      "anteil": "1,4 %"
+    },
+    {
+      "weinbaugebiet": "Weststeiermark",
+      "farbe": "weiß",
+      "rang": 1,
+      "rebsorte": "Sauvignon Blanc",
+      "rebflaeche_ha": 55.49,
+      "anteil": "8,5 %"
+    },
+    {
+      "weinbaugebiet": "Weststeiermark",
+      "farbe": "weiß",
+      "rang": 2,
+      "rebsorte": "Weißer Burgunder (Pinot Blanc)",
+      "rebflaeche_ha": 53.2,
+      "anteil": "8,1 %"
+    },
+    {
+      "weinbaugebiet": "Weststeiermark",
+      "farbe": "weiß",
+      "rang": 3,
+      "rebsorte": "Muskateller",
+      "rebflaeche_ha": 32.16,
+      "anteil": "4,9 %"
+    },
+    {
+      "weinbaugebiet": "Weststeiermark",
+      "farbe": "weiß",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten weiß",
+      "rebflaeche_ha": 88.86,
+      "anteil": "13,6 %"
+    },
+    {
+      "weinbaugebiet": "Weststeiermark",
+      "farbe": "rot",
+      "rang": 1,
+      "rebsorte": "Blauer Wildbacher",
+      "rebflaeche_ha": 405.67,
+      "anteil": "61,9 %"
+    },
+    {
+      "weinbaugebiet": "Weststeiermark",
+      "farbe": "rot",
+      "rang": 2,
+      "rebsorte": "Zweigelt",
+      "rebflaeche_ha": 8.66,
+      "anteil": "1,3 %"
+    },
+    {
+      "weinbaugebiet": "Weststeiermark",
+      "farbe": "rot",
+      "rang": 3,
+      "rebsorte": "Blauer Burgunder (Pinot Noir)",
+      "rebflaeche_ha": 1.61,
+      "anteil": "0,2 %"
+    },
+    {
+      "weinbaugebiet": "Weststeiermark",
+      "farbe": "rot",
+      "rang": 4,
+      "rebsorte": "sonstige Sorten rot",
+      "rebflaeche_ha": 9.47,
+      "anteil": "1,4 %"
+    }
+  ],
+  "meta": {
+    "title": "Hauptrebsorten der österreichischen Weinbaugebiete - Free Download",
+    "description": "Die wichtigsten Weiß- und Rotweinsorten je österreichischem Weinbaugebiet (DAC-Gebiet) mit Rebfläche in Hektar und Anteil an der Rebfläche des Gebiets. Contains 136 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hauptrebsorten der österreichischen Weinbaugebiete | ListBase",
+    "seo_description": "Download Hauptrebsorten der österreichischen Weinbaugebiete — 136 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 136 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Weinbau_in_Österreich"
+    ]
+  }
+}
