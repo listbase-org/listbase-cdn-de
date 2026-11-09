@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-09T02:50:43.821Z",
-  "total_datasets": 543,
-  "total_records": 1877679,
+  "generated": "2026-11-09T02:50:52.224Z",
+  "total_datasets": 544,
+  "total_records": 1877775,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -12320,6 +12320,31 @@
         "xlsx": {
           "name": "de-fraunhofer-institute_DE.xlsx",
           "size": 10330
+        }
+      }
+    },
+    {
+      "id": "de-leibniz-institute",
+      "name": "Institute der Leibniz-Gemeinschaft",
+      "category": "science",
+      "record_count": 96,
+      "columns": [
+        "name",
+        "ort",
+        "abkuerzung",
+        "sektion"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Leibniz-Gemeinschaft",
+      "updated": "2026-11",
+      "size": 22333,
+      "files": {
+        "csv": {
+          "name": "de-leibniz-institute_DE.csv",
+          "size": 13127
+        },
+        "xlsx": {
+          "name": "de-leibniz-institute_DE.xlsx",
+          "size": 11315
         }
       }
     },

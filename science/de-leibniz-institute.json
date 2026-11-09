@@ -1,0 +1,622 @@
+{
+  "id": "de-leibniz-institute",
+  "name": "Institute der Leibniz-Gemeinschaft",
+  "title": "Institute der Leibniz-Gemeinschaft",
+  "description": "Forschungsinstitute und Forschungsmuseen der Leibniz-Gemeinschaft in Deutschland mit Ort, Abkürzung und wissenschaftlicher Sektion.",
+  "category": "science",
+  "source": "https://de.wikipedia.org/wiki/Leibniz-Gemeinschaft",
+  "source_url": "https://de.wikipedia.org/wiki/Leibniz-Gemeinschaft",
+  "updated": "2026-11",
+  "record_count": 96,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "abkuerzung",
+      "label": "Abkuerzung",
+      "type": "string"
+    },
+    {
+      "key": "sektion",
+      "label": "Sektion",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen",
+      "ort": "Bochum",
+      "abkuerzung": "DBM",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Leibniz-Institut für jüdische Geschichte und Kultur – Simon Dubnow",
+      "ort": "Leipzig",
+      "abkuerzung": "DI",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Deutsches Institut für Erwachsenenbildung – Leibniz-Zentrum für Lebenslanges Lernen",
+      "ort": "Bonn",
+      "abkuerzung": "DIE",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Leibniz-Institut für Bildungsforschung und Bildungsinformation (ehem. Deutsches Institut für Internationale Pädagogische Forschung)",
+      "ort": "Frankfurt am Main – Berlin",
+      "abkuerzung": "DIPF",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Deutsches Museum",
+      "ort": "München",
+      "abkuerzung": "DM",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Deutsches Schifffahrtsmuseum – Leibniz-Institut für Maritime Geschichte",
+      "ort": "Bremerhaven",
+      "abkuerzung": "DSM",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Leibniz-Institut für Bildungsmedien – Georg-Eckert-Institut",
+      "ort": "Braunschweig",
+      "abkuerzung": "GEI",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Germanisches Nationalmuseum – Leibniz-Forschungsmuseum für Kulturgeschichte",
+      "ort": "Nürnberg",
+      "abkuerzung": "GNM",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Leibniz-Institut für Geschichte und Kultur des östlichen Europa",
+      "ort": "Leipzig",
+      "abkuerzung": "GWZO",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Herder-Institut für historische Ostmitteleuropaforschung",
+      "ort": "Marburg",
+      "abkuerzung": "HI",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Leibniz-Institut für Deutsche Sprache",
+      "ort": "Mannheim",
+      "abkuerzung": "IDS",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Leibniz-Institut für Europäische Geschichte",
+      "ort": "Mainz",
+      "abkuerzung": "IEG",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Institut für Zeitgeschichte",
+      "ort": "München – Berlin",
+      "abkuerzung": "IfZ",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Leibniz-Institut für Ost- und Südosteuropaforschung",
+      "ort": "Regensburg",
+      "abkuerzung": "IOS",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik an der Universität Kiel",
+      "ort": "Kiel",
+      "abkuerzung": "IPN",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Leibniz-Institut für Wissensmedien",
+      "ort": "Tübingen",
+      "abkuerzung": "IWM",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Leibniz-Zentrum für Archäologie (vormals bis Ende 2022 Römisch-Germanisches Zentralmuseum – Leibniz-Forschungsinstitut für Archäologie)",
+      "ort": "Mainz",
+      "abkuerzung": "LEIZA",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Leibniz-Institut für Bildungsverläufe",
+      "ort": "Bamberg",
+      "abkuerzung": "LIfBi",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Leibniz-Zentrum Allgemeine Sprachwissenschaft",
+      "ort": "Berlin",
+      "abkuerzung": "ZAS",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Leibniz-Zentrum für Literatur- und Kulturforschung",
+      "ort": "Berlin",
+      "abkuerzung": "ZfL",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Leibniz-Zentrum Moderner Orient",
+      "ort": "Berlin",
+      "abkuerzung": "ZMO",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Leibniz-Institut für Psychologie",
+      "ort": "Trier",
+      "abkuerzung": "ZPID",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "Leibniz-Zentrum für Zeithistorische Forschung Potsdam e. V.",
+      "ort": "Potsdam",
+      "abkuerzung": "ZZF",
+      "sektion": "Sektion A – Geisteswissenschaften und Bildungsforschung"
+    },
+    {
+      "name": "ARL – Akademie für Raumentwicklung in der Leibniz-Gemeinschaft",
+      "ort": "Hannover",
+      "abkuerzung": "ARL",
+      "sektion": "Sektion B – Wirtschafts- und Sozialwissenschaften, Raumwissenschaften"
+    },
+    {
+      "name": "Deutsches Institut für Wirtschaftsforschung mit Sozio-oekonomisches Panel (SOEP)",
+      "ort": "Berlin",
+      "abkuerzung": "DIW",
+      "sektion": "Sektion B – Wirtschafts- und Sozialwissenschaften, Raumwissenschaften"
+    },
+    {
+      "name": "GESIS – Leibniz-Institut für Sozialwissenschaften",
+      "ort": "Mannheim, Köln",
+      "abkuerzung": "GESIS",
+      "sektion": "Sektion B – Wirtschafts- und Sozialwissenschaften, Raumwissenschaften"
+    },
+    {
+      "name": "German Institute for Global and Area Studies (GIGA), Leibniz-Institut für Globale und Regional Studien (bis 2005 Deutsches Übersee-Institut, DÜI)",
+      "ort": "Hamburg",
+      "abkuerzung": "GIGA",
+      "sektion": "Sektion B – Wirtschafts- und Sozialwissenschaften, Raumwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Medienforschung – Hans-Bredow-Institut",
+      "ort": "Hamburg",
+      "abkuerzung": "HBI",
+      "sektion": "Sektion B – Wirtschafts- und Sozialwissenschaften, Raumwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Agrarentwicklung in Transformationsökonomien",
+      "ort": "Halle",
+      "abkuerzung": "IAMO",
+      "sektion": "Sektion B – Wirtschafts- und Sozialwissenschaften, Raumwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Länderkunde",
+      "ort": "Leipzig",
+      "abkuerzung": "IfL",
+      "sektion": "Sektion B – Wirtschafts- und Sozialwissenschaften, Raumwissenschaften"
+    },
+    {
+      "name": "ifo Institut – Leibniz-Institut für Wirtschaftsforschung an der Universität München e. V.",
+      "ort": "München",
+      "abkuerzung": "ifo",
+      "sektion": "Sektion B – Wirtschafts- und Sozialwissenschaften, Raumwissenschaften"
+    },
+    {
+      "name": "Kiel Institut für Weltwirtschaft",
+      "ort": "Kiel",
+      "abkuerzung": "IfW",
+      "sektion": "Sektion B – Wirtschafts- und Sozialwissenschaften, Raumwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für ökologische Raumentwicklung",
+      "ort": "Dresden",
+      "abkuerzung": "IÖR",
+      "sektion": "Sektion B – Wirtschafts- und Sozialwissenschaften, Raumwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Raumbezogene Sozialforschung",
+      "ort": "Erkner",
+      "abkuerzung": "IRS",
+      "sektion": "Sektion B – Wirtschafts- und Sozialwissenschaften, Raumwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Wirtschaftsforschung Halle",
+      "ort": "Halle",
+      "abkuerzung": "IWH",
+      "sektion": "Sektion B – Wirtschafts- und Sozialwissenschaften, Raumwissenschaften"
+    },
+    {
+      "name": "Peace Research Institute Frankfurt – Leibniz-Institut für Friedens- und Konfliktforschung",
+      "ort": "Frankfurt am Main",
+      "abkuerzung": "PRIF",
+      "sektion": "Sektion B – Wirtschafts- und Sozialwissenschaften, Raumwissenschaften"
+    },
+    {
+      "name": "RWI – Leibniz-Institut für Wirtschaftsforschung",
+      "ort": "Essen",
+      "abkuerzung": "RWI",
+      "sektion": "Sektion B – Wirtschafts- und Sozialwissenschaften, Raumwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Finanzmarktforschung SAFE",
+      "ort": "Frankfurt am Main",
+      "abkuerzung": "SAFE",
+      "sektion": "Sektion B – Wirtschafts- und Sozialwissenschaften, Raumwissenschaften"
+    },
+    {
+      "name": "Wissenschaftszentrum Berlin für Sozialforschung",
+      "ort": "Berlin",
+      "abkuerzung": "WZB",
+      "sektion": "Sektion B – Wirtschafts- und Sozialwissenschaften, Raumwissenschaften"
+    },
+    {
+      "name": "Leibniz-Zentrum für Europäische Wirtschaftsforschung",
+      "ort": "Mannheim",
+      "abkuerzung": "ZEW",
+      "sektion": "Sektion B – Wirtschafts- und Sozialwissenschaften, Raumwissenschaften"
+    },
+    {
+      "name": "ZBW – Leibniz-Informationszentrum Wirtschaft",
+      "ort": "Hamburg-Kiel",
+      "abkuerzung": "ZBW",
+      "sektion": "Sektion B – Wirtschafts- und Sozialwissenschaften, Raumwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Präventionsforschung und Epidemiologie",
+      "ort": "Bremen",
+      "abkuerzung": "BIPS",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Bernhard-Nocht-Institut für Tropenmedizin",
+      "ort": "Hamburg",
+      "abkuerzung": "BNITM",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Deutsches Diabetes-Zentrum Leibniz-Zentrum für Diabetes-Forschung",
+      "ort": "Düsseldorf",
+      "abkuerzung": "DDZ",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Deutsches Institut für Ernährungsforschung",
+      "ort": "Nuthetal",
+      "abkuerzung": "DIfE",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Deutsches Primatenzentrum Leibniz-Institut für Primatenforschung",
+      "ort": "Göttingen",
+      "abkuerzung": "DPZ",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Deutsches Rheuma-Forschungszentrum Berlin",
+      "ort": "Berlin",
+      "abkuerzung": "DRFZ",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut DSMZ – Deutsche Sammlung von Mikroorganismen und Zellkulturen",
+      "ort": "Braunschweig",
+      "abkuerzung": "DSMZ",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Alternsforschung Fritz-Lipmann-Institut",
+      "ort": "Jena",
+      "abkuerzung": "FLI",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Leibniz-Forschungsinstitut für Molekulare Pharmakologie",
+      "ort": "Berlin",
+      "abkuerzung": "FMP",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Forschungszentrum Borstel – Leibniz Lungenzentrum",
+      "ort": "Borstel",
+      "abkuerzung": "FZB",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie Hans-Knöll-Institut",
+      "ort": "Jena",
+      "abkuerzung": "HKI",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Arbeitsforschung an der TU Dortmund",
+      "ort": "Dortmund",
+      "abkuerzung": "IfADo",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Pflanzenbiochemie",
+      "ort": "Halle",
+      "abkuerzung": "IPB",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung",
+      "ort": "Gatersleben",
+      "abkuerzung": "IPK",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für umweltmedizinische Forschung",
+      "ort": "Düsseldorf",
+      "abkuerzung": "IUF",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Zoo- und Wildtierforschung",
+      "ort": "Berlin",
+      "abkuerzung": "IZW",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut zur Analyse des Biodiversitätswandels (entstanden aus dem Zusammenschluss des Zoologischen Forschungsmuseums Alexander Koenig – Leibniz-Institut für terrestrische Biodiversitätsforschung in Bonn und des Centrums für Naturkunde (CeNak) in Hamburg)",
+      "ort": "Bonn & Hamburg",
+      "abkuerzung": "LIB",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Neurobiologie Zentrum für Lern- und Gedächtnisforschung",
+      "ort": "Magdeburg",
+      "abkuerzung": "LIN",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Resilienzforschung",
+      "ort": "Mainz",
+      "abkuerzung": "LIR",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Immuntherapie",
+      "ort": "Regensburg",
+      "abkuerzung": "LIT",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Virologie",
+      "ort": "Hamburg",
+      "abkuerzung": "LIV",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Lebensmittel-Systembiologie an der Technischen Universität München",
+      "ort": "Freising",
+      "abkuerzung": "LSB",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Museum für Naturkunde Berlin Leibniz-Institut für Evolutions- und Biodiversitätsforschung",
+      "ort": "Berlin",
+      "abkuerzung": "MfN",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Senckenberg Gesellschaft für Naturforschung",
+      "ort": "Frankfurt am Main",
+      "abkuerzung": "SGN",
+      "sektion": "Sektion C – Lebenswissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Astrophysik Potsdam",
+      "ort": "Potsdam",
+      "abkuerzung": "AIP",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "DWI – Leibniz-Institut für Interaktive Materialien",
+      "ort": "Aachen",
+      "abkuerzung": "DWI",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "Ferdinand-Braun-Institut, Leibniz-Institut für Höchstfrequenztechnik",
+      "ort": "Berlin",
+      "abkuerzung": "FBH",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "FIZ Karlsruhe – Leibniz-Institut für Informationsinfrastruktur",
+      "ort": "Karlsruhe",
+      "abkuerzung": "FIZ KA",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Atmosphärenphysik an der Universität Rostock",
+      "ort": "Kühlungsborn",
+      "abkuerzung": "IAP",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Festkörper- und Werkstoffforschung",
+      "ort": "Dresden",
+      "abkuerzung": "IFW",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "Innovations for High Performance Microelectronics / Leibniz-Institut für innovative Mikroelektronik",
+      "ort": "Frankfurt (Oder)",
+      "abkuerzung": "IHP",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Kristallzüchtung",
+      "ort": "Berlin",
+      "abkuerzung": "IKZ",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Neue Materialien",
+      "ort": "Saarbrücken",
+      "abkuerzung": "INM",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Plasmaforschung und Technologie",
+      "ort": "Greifswald",
+      "abkuerzung": "INP",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Oberflächenmodifizierung",
+      "ort": "Leipzig",
+      "abkuerzung": "IOM",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Polymerforschung",
+      "ort": "Dresden",
+      "abkuerzung": "IPF",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Photonische Technologien",
+      "ort": "Jena",
+      "abkuerzung": "IPHT",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Analytische Wissenschaften",
+      "ort": "Dortmund",
+      "abkuerzung": "ISAS",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Verbundwerkstoffe",
+      "ort": "Kaiserslautern",
+      "abkuerzung": "IVW",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Werkstofforientierte Technologien",
+      "ort": "Bremen",
+      "abkuerzung": "IWT",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Katalyse",
+      "ort": "Rostock",
+      "abkuerzung": "LIKAT",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "Schloss Dagstuhl – Leibniz-Zentrum für Informatik",
+      "ort": "Wadern",
+      "abkuerzung": "LZI",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "Max-Born-Institut für Nichtlineare Optik und Kurzzeitspektroskopie",
+      "ort": "Berlin",
+      "abkuerzung": "MBI",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "Mathematisches Forschungsinstitut Oberwolfach",
+      "ort": "Oberwolfach",
+      "abkuerzung": "MFO",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "Paul-Drude-Institut für Festkörperelektronik",
+      "ort": "Berlin",
+      "abkuerzung": "PDI",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "TIB – Leibniz-Informationszentrum Technik und Naturwissenschaften und Universitätsbibliothek",
+      "ort": "Hannover",
+      "abkuerzung": "TIB",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "Weierstraß-Institut für Angewandte Analysis und Stochastik",
+      "ort": "Berlin",
+      "abkuerzung": "WIAS",
+      "sektion": "Sektion D – Mathematik, Natur- und Ingenieurwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Agrartechnik und Bioökonomie",
+      "ort": "Potsdam",
+      "abkuerzung": "ATB",
+      "sektion": "Sektion E – Umweltwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Gewässerökologie und Binnenfischerei",
+      "ort": "Berlin",
+      "abkuerzung": "IGB",
+      "sektion": "Sektion E – Umweltwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Gartenbauwissenschaften",
+      "ort": "Großbeeren",
+      "abkuerzung": "IGZ",
+      "sektion": "Sektion E – Umweltwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Ostseeforschung",
+      "ort": "Rostock-Warnemünde",
+      "abkuerzung": "IOW",
+      "sektion": "Sektion E – Umweltwissenschaften"
+    },
+    {
+      "name": "Potsdam-Institut für Klimafolgenforschung",
+      "ort": "Potsdam",
+      "abkuerzung": "PIK",
+      "sektion": "Sektion E – Umweltwissenschaften"
+    },
+    {
+      "name": "Leibniz-Institut für Troposphärenforschung",
+      "ort": "Leipzig",
+      "abkuerzung": "TROPOS",
+      "sektion": "Sektion E – Umweltwissenschaften"
+    },
+    {
+      "name": "Leibniz-Zentrum für Agrarlandschaftsforschung",
+      "ort": "Müncheberg",
+      "abkuerzung": "ZALF",
+      "sektion": "Sektion E – Umweltwissenschaften"
+    },
+    {
+      "name": "Leibniz-Zentrum für Marine Tropenforschung",
+      "ort": "Bremen",
+      "abkuerzung": "ZMT",
+      "sektion": "Sektion E – Umweltwissenschaften"
+    }
+  ],
+  "meta": {
+    "title": "Institute der Leibniz-Gemeinschaft - Free Download",
+    "description": "Forschungsinstitute und Forschungsmuseen der Leibniz-Gemeinschaft in Deutschland mit Ort, Abkürzung und wissenschaftlicher Sektion. Contains 96 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Institute der Leibniz-Gemeinschaft | ListBase",
+    "seo_description": "Download Institute der Leibniz-Gemeinschaft — 96 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 96 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Leibniz-Gemeinschaft"
+    ]
+  }
+}
