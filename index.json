@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-09T02:50:34.539Z",
-  "total_datasets": 542,
-  "total_records": 1877650,
+  "generated": "2026-11-09T02:50:43.821Z",
+  "total_datasets": 543,
+  "total_records": 1877679,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "society",
@@ -12271,6 +12271,30 @@
         "xlsx": {
           "name": "li-communes_DE.xlsx",
           "size": 7088
+        }
+      }
+    },
+    {
+      "id": "de-deutscher-zukunftspreis-preistraeger",
+      "name": "Preisträger des Deutschen Zukunftspreises",
+      "category": "science",
+      "record_count": 29,
+      "columns": [
+        "jahr",
+        "forschergruppe",
+        "projekt"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Deutscher_Zukunftspreis",
+      "updated": "2026-11",
+      "size": 9943,
+      "files": {
+        "csv": {
+          "name": "de-deutscher-zukunftspreis-preistraeger_DE.csv",
+          "size": 6387
+        },
+        "xlsx": {
+          "name": "de-deutscher-zukunftspreis-preistraeger_DE.xlsx",
+          "size": 10216
         }
       }
     },
