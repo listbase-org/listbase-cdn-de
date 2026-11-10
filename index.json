@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-10T02:43:32.288Z",
-  "total_datasets": 550,
-  "total_records": 1878575,
+  "generated": "2026-11-10T02:57:28.968Z",
+  "total_datasets": 551,
+  "total_records": 1878779,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "reference",
@@ -6389,6 +6389,30 @@
         "xlsx": {
           "name": "de-ch-bundesraete_DE.xlsx",
           "size": 13036
+        }
+      }
+    },
+    {
+      "id": "de-ch-nationalratspraesidenten",
+      "name": "Präsidenten des Schweizer Nationalrats seit 1848",
+      "category": "politics",
+      "record_count": 204,
+      "columns": [
+        "amtsjahr",
+        "name",
+        "kanton"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Präsidenten_des_Nationalrats_(Schweiz)",
+      "updated": "2026-11",
+      "size": 22140,
+      "files": {
+        "csv": {
+          "name": "de-ch-nationalratspraesidenten_DE.csv",
+          "size": 7722
+        },
+        "xlsx": {
+          "name": "de-ch-nationalratspraesidenten_DE.xlsx",
+          "size": 12896
         }
       }
     },
