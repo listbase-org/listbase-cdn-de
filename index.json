@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-10T02:29:36.339Z",
-  "total_datasets": 545,
-  "total_records": 1877795,
+  "generated": "2026-11-10T02:29:45.177Z",
+  "total_datasets": 546,
+  "total_records": 1877842,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -736,6 +736,33 @@
         "xlsx": {
           "name": "de-at-bundeslaender-bip_DE.xlsx",
           "size": 7143
+        }
+      }
+    },
+    {
+      "id": "de-at-finanzminister",
+      "name": "Österreichische Finanzminister seit 1918",
+      "category": "economy",
+      "record_count": 47,
+      "columns": [
+        "nr",
+        "bundesminister",
+        "amtsantritt",
+        "partei",
+        "anmerkungen",
+        "periode"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_österreichischen_Finanzminister",
+      "updated": "2026-11",
+      "size": 12920,
+      "files": {
+        "csv": {
+          "name": "de-at-finanzminister_DE.csv",
+          "size": 5187
+        },
+        "xlsx": {
+          "name": "de-at-finanzminister_DE.xlsx",
+          "size": 9420
         }
       }
     },

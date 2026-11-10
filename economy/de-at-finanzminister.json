@@ -1,0 +1,432 @@
+{
+  "id": "de-at-finanzminister",
+  "name": "Österreichische Finanzminister seit 1918",
+  "title": "Österreichische Finanzminister seit 1918",
+  "description": "Liste der Finanzminister der Republik Österreich (Erste und Zweite Republik) mit Amtsantritt, Partei und Anmerkungen.",
+  "category": "economy",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_österreichischen_Finanzminister",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_österreichischen_Finanzminister",
+  "updated": "2026-11",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "bundesminister",
+      "label": "Bundesminister",
+      "type": "string"
+    },
+    {
+      "key": "amtsantritt",
+      "label": "Amtsantritt",
+      "type": "string"
+    },
+    {
+      "key": "partei",
+      "label": "Partei",
+      "type": "string"
+    },
+    {
+      "key": "anmerkungen",
+      "label": "Anmerkungen",
+      "type": "string"
+    },
+    {
+      "key": "periode",
+      "label": "Periode",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nr": 1,
+      "bundesminister": "Otto Steinwender",
+      "amtsantritt": "30. Okt. 1918",
+      "partei": "Deutschnationale Partei",
+      "anmerkungen": "ab 12. Nov. 1918 bis 1920 ist Paul Kuh-Chrobak Leiter des Liquidierenden gemeinsamen Finanzministeriums",
+      "periode": "Erste Republik und Ständestaat (1918–1938)"
+    },
+    {
+      "nr": 2,
+      "bundesminister": "Josef Schumpeter",
+      "amtsantritt": "15. März 1919",
+      "partei": "Beamter",
+      "anmerkungen": "",
+      "periode": "Erste Republik und Ständestaat (1918–1938)"
+    },
+    {
+      "nr": 3,
+      "bundesminister": "Richard Reisch",
+      "amtsantritt": "17. Okt. 1919",
+      "partei": "Beamter",
+      "anmerkungen": "",
+      "periode": "Erste Republik und Ständestaat (1918–1938)"
+    },
+    {
+      "nr": 4,
+      "bundesminister": "Ferdinand Grimm",
+      "amtsantritt": "20. Nov. 1920",
+      "partei": "Beamter",
+      "anmerkungen": "",
+      "periode": "Erste Republik und Ständestaat (1918–1938)"
+    },
+    {
+      "nr": 5,
+      "bundesminister": "Alfred Gürtler",
+      "amtsantritt": "7. Okt. 1921",
+      "partei": "CS",
+      "anmerkungen": "",
+      "periode": "Erste Republik und Ständestaat (1918–1938)"
+    },
+    {
+      "nr": 6,
+      "bundesminister": "Johann Schober",
+      "amtsantritt": "10. Mai 1922",
+      "partei": "Beamter",
+      "anmerkungen": "gleichzeitig Bundeskanzler",
+      "periode": "Erste Republik und Ständestaat (1918–1938)"
+    },
+    {
+      "nr": 7,
+      "bundesminister": "August Ségur",
+      "amtsantritt": "31. Mai 1922",
+      "partei": "CS",
+      "anmerkungen": "",
+      "periode": "Erste Republik und Ständestaat (1918–1938)"
+    },
+    {
+      "nr": 8,
+      "bundesminister": "Viktor Kienböck",
+      "amtsantritt": "14. Nov. 1922",
+      "partei": "CS",
+      "anmerkungen": "",
+      "periode": "Erste Republik und Ständestaat (1918–1938)"
+    },
+    {
+      "nr": 9,
+      "bundesminister": "Jakob Ahrer",
+      "amtsantritt": "20. Nov. 1924",
+      "partei": "CS",
+      "anmerkungen": "",
+      "periode": "Erste Republik und Ständestaat (1918–1938)"
+    },
+    {
+      "nr": 10,
+      "bundesminister": "Josef Kollmann",
+      "amtsantritt": "15. Jan. 1926",
+      "partei": "CS",
+      "anmerkungen": "",
+      "periode": "Erste Republik und Ständestaat (1918–1938)"
+    },
+    {
+      "nr": 11,
+      "bundesminister": "Viktor Kienböck",
+      "amtsantritt": "20. Okt. 1926",
+      "partei": "CS",
+      "anmerkungen": "",
+      "periode": "Erste Republik und Ständestaat (1918–1938)"
+    },
+    {
+      "nr": 12,
+      "bundesminister": "Johann Josef Mittelberger",
+      "amtsantritt": "4. Mai 1929",
+      "partei": "CS",
+      "anmerkungen": "",
+      "periode": "Erste Republik und Ständestaat (1918–1938)"
+    },
+    {
+      "nr": 13,
+      "bundesminister": "Johann Schober",
+      "amtsantritt": "26. Sep. 1929",
+      "partei": "Beamter",
+      "anmerkungen": "",
+      "periode": "Erste Republik und Ständestaat (1918–1938)"
+    },
+    {
+      "nr": 14,
+      "bundesminister": "Otto Juch",
+      "amtsantritt": "16. Okt. 1929",
+      "partei": "Beamter",
+      "anmerkungen": "",
+      "periode": "Erste Republik und Ständestaat (1918–1938)"
+    },
+    {
+      "nr": 15,
+      "bundesminister": "Josef Redlich",
+      "amtsantritt": "20. Juni 1931",
+      "partei": "parteilos",
+      "anmerkungen": "",
+      "periode": "Erste Republik und Ständestaat (1918–1938)"
+    },
+    {
+      "nr": 16,
+      "bundesminister": "Karl Buresch",
+      "amtsantritt": "5. Okt. 1931",
+      "partei": "CS",
+      "anmerkungen": "gleichzeitig Bundeskanzler",
+      "periode": "Erste Republik und Ständestaat (1918–1938)"
+    },
+    {
+      "nr": 17,
+      "bundesminister": "Emanuel Weidenhoffer",
+      "amtsantritt": "16. Okt. 1931",
+      "partei": "CS",
+      "anmerkungen": "",
+      "periode": "Erste Republik und Ständestaat (1918–1938)"
+    },
+    {
+      "nr": 18,
+      "bundesminister": "Karl Buresch",
+      "amtsantritt": "16. Mai 1933",
+      "partei": "CS, VF",
+      "anmerkungen": "gleichzeitig Bundeskanzler",
+      "periode": "Erste Republik und Ständestaat (1918–1938)"
+    },
+    {
+      "nr": 19,
+      "bundesminister": "Ludwig Draxler",
+      "amtsantritt": "17. Okt. 1935",
+      "partei": "VF",
+      "anmerkungen": "",
+      "periode": "Erste Republik und Ständestaat (1918–1938)"
+    },
+    {
+      "nr": 20,
+      "bundesminister": "Rudolf Neumayer",
+      "amtsantritt": "3. Nov. 1936",
+      "partei": "VF, NSDAP",
+      "anmerkungen": "",
+      "periode": "Erste Republik und Ständestaat (1918–1938)"
+    },
+    {
+      "nr": 1,
+      "bundesminister": "Georg Zimmermann",
+      "amtsantritt": "27. Apr. 1945",
+      "partei": "Beamter",
+      "anmerkungen": "Unterstaatssekretär Hans Rizzi",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 2,
+      "bundesminister": "Eugen Margarétha",
+      "amtsantritt": "8. Nov. 1949",
+      "partei": "ÖVP",
+      "anmerkungen": "",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 3,
+      "bundesminister": "Reinhard Kamitz",
+      "amtsantritt": "23. Jan. 1952",
+      "partei": "parteilos",
+      "anmerkungen": "Staatssekretäre Fritz Bock und Hermann Withalm",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 4,
+      "bundesminister": "Eduard Heilingsetzer",
+      "amtsantritt": "17. Juni 1960",
+      "partei": "ÖVP",
+      "anmerkungen": "",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 5,
+      "bundesminister": "Josef Klaus",
+      "amtsantritt": "11. Apr. 1961",
+      "partei": "ÖVP",
+      "anmerkungen": "",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 6,
+      "bundesminister": "Franz Korinek",
+      "amtsantritt": "27. März 1963",
+      "partei": "ÖVP",
+      "anmerkungen": "",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 7,
+      "bundesminister": "Wolfgang Schmitz",
+      "amtsantritt": "2. Apr. 1964",
+      "partei": "ÖVP",
+      "anmerkungen": "",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 8,
+      "bundesminister": "Stephan Koren",
+      "amtsantritt": "19. Jan. 1968",
+      "partei": "ÖVP",
+      "anmerkungen": "",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 9,
+      "bundesminister": "Hannes Androsch",
+      "amtsantritt": "21. Apr. 1970",
+      "partei": "SPÖ",
+      "anmerkungen": "gleichzeitig Vizekanzler (1976 bis 1981); Staatssekretärin Elfriede Karl",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 10,
+      "bundesminister": "Herbert Salcher",
+      "amtsantritt": "20. Jan. 1981",
+      "partei": "SPÖ",
+      "anmerkungen": "Staatssekretär Hans Seidel",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 11,
+      "bundesminister": "Franz Vranitzky",
+      "amtsantritt": "10. Sep. 1984",
+      "partei": "SPÖ",
+      "anmerkungen": "Staatssekretäre: Holger Bauer, Johannes Ditz und Günter Stummvoll",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 12,
+      "bundesminister": "Ferdinand Lacina",
+      "amtsantritt": "16. Juni 1986",
+      "partei": "SPÖ",
+      "anmerkungen": "Staatssekretär Holger Bauer",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 13,
+      "bundesminister": "Andreas Staribacher",
+      "amtsantritt": "6. Apr. 1995",
+      "partei": "SPÖ",
+      "anmerkungen": "",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 14,
+      "bundesminister": "Viktor Klima",
+      "amtsantritt": "3. Jan. 1996",
+      "partei": "SPÖ",
+      "anmerkungen": "Staatssekretär Wolfgang Ruttenstorfer",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 15,
+      "bundesminister": "Rudolf Edlinger",
+      "amtsantritt": "28. Jan. 1997",
+      "partei": "SPÖ",
+      "anmerkungen": "",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 16,
+      "bundesminister": "Karl-Heinz Grasser",
+      "amtsantritt": "4. Feb. 2000",
+      "partei": "FPÖ, ab 2003 Unabh.",
+      "anmerkungen": "Staatssekretär Alfred Finz",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 17,
+      "bundesminister": "Wilhelm Molterer",
+      "amtsantritt": "11. Jan. 2007",
+      "partei": "ÖVP",
+      "anmerkungen": "gleichzeitig Vizekanzler; Staatssekretär Christoph Matznetter",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 18,
+      "bundesminister": "Josef Pröll",
+      "amtsantritt": "2. Dez. 2008",
+      "partei": "ÖVP",
+      "anmerkungen": "gleichzeitig Vizekanzler; Staatssekretäre Reinhold Lopatka und Andreas Schieder",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 19,
+      "bundesminister": "Maria Fekter",
+      "amtsantritt": "21. Apr. 2011",
+      "partei": "ÖVP",
+      "anmerkungen": "Staatssekretär Andreas Schieder",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 20,
+      "bundesminister": "Michael Spindelegger",
+      "amtsantritt": "16. Dez. 2013",
+      "partei": "ÖVP",
+      "anmerkungen": "gleichzeitig Vizekanzler; Staatssekretäre Sonja Steßl und Jochen Danninger",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 21,
+      "bundesminister": "Hans Jörg Schelling",
+      "amtsantritt": "1. Sep. 2014",
+      "partei": "ÖVP",
+      "anmerkungen": "",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 22,
+      "bundesminister": "Hartwig Löger",
+      "amtsantritt": "18. Dez. 2017",
+      "partei": "ÖVP",
+      "anmerkungen": "ab 22. Mai 2019 gleichzeitig Vizekanzler; Staatssekretär Hubert Fuchs (bis 22. Mai 2019)",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 23,
+      "bundesminister": "Eduard Müller",
+      "amtsantritt": "3. Juni 2019",
+      "partei": "Unabh.",
+      "anmerkungen": "gleichzeitig mit der Leitung des Bundesministeriums für öffentlichen Dienst und Sport betraut",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 24,
+      "bundesminister": "Gernot Blümel",
+      "amtsantritt": "7. Jan. 2020",
+      "partei": "ÖVP",
+      "anmerkungen": "",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 25,
+      "bundesminister": "Magnus Brunner",
+      "amtsantritt": "6. Dez. 2021",
+      "partei": "ÖVP",
+      "anmerkungen": "",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 26,
+      "bundesminister": "Gunter Mayr",
+      "amtsantritt": "20. Nov. 2024",
+      "partei": "parteilos",
+      "anmerkungen": "",
+      "periode": "Zweite Republik (seit 1945)"
+    },
+    {
+      "nr": 27,
+      "bundesminister": "Markus Marterbauer",
+      "amtsantritt": "3. März 2025",
+      "partei": "SPÖ",
+      "anmerkungen": "von der SPÖ nominiert; Staatssekretärin Barbara Eibinger-Miedl",
+      "periode": "Zweite Republik (seit 1945)"
+    }
+  ],
+  "meta": {
+    "title": "Österreichische Finanzminister seit 1918 - Free Download",
+    "description": "Liste der Finanzminister der Republik Österreich (Erste und Zweite Republik) mit Amtsantritt, Partei und Anmerkungen. Contains 47 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Österreichische Finanzminister seit 1918 | ListBase",
+    "seo_description": "Download Österreichische Finanzminister seit 1918 — 47 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 47 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_österreichischen_Finanzminister"
+    ]
+  }
+}
