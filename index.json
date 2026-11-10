@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-09T02:50:52.224Z",
-  "total_datasets": 544,
-  "total_records": 1877775,
+  "generated": "2026-11-10T02:29:36.339Z",
+  "total_datasets": 545,
+  "total_records": 1877795,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "reference",
@@ -6102,6 +6102,37 @@
         "xlsx": {
           "name": "de-weihnachtslieder_DE.xlsx",
           "size": 32593
+        }
+      }
+    },
+    {
+      "id": "de-at-bundespraesidenten",
+      "name": "Bundespräsidenten der Republik Österreich",
+      "category": "politics",
+      "record_count": 20,
+      "columns": [
+        "nr",
+        "bundespraesident",
+        "geboren",
+        "gestorben",
+        "partei",
+        "periode",
+        "amtszeit",
+        "stimmenanteil",
+        "wahlgang",
+        "im_amt_verstorben"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Bundespräsidenten_der_Republik_Österreich",
+      "updated": "2026-11",
+      "size": 9444,
+      "files": {
+        "csv": {
+          "name": "de-at-bundespraesidenten_DE.csv",
+          "size": 3045
+        },
+        "xlsx": {
+          "name": "de-at-bundespraesidenten_DE.xlsx",
+          "size": 8476
         }
       }
     },

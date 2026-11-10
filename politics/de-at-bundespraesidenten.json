@@ -1,0 +1,316 @@
+{
+  "id": "de-at-bundespraesidenten",
+  "name": "Bundespräsidenten der Republik Österreich",
+  "title": "Bundespräsidenten der Republik Österreich",
+  "description": "Alle Bundespräsidenten Österreichs seit 1919 mit Lebensdaten, Partei, Amtsperiode, Amtszeit, Stimmenanteil und Wahlgang.",
+  "category": "politics",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Bundespräsidenten_der_Republik_Österreich",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Bundespräsidenten_der_Republik_Österreich",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "bundespraesident",
+      "label": "Bundespraesident",
+      "type": "string"
+    },
+    {
+      "key": "geboren",
+      "label": "Geboren",
+      "type": "string"
+    },
+    {
+      "key": "gestorben",
+      "label": "Gestorben",
+      "type": "string"
+    },
+    {
+      "key": "partei",
+      "label": "Partei",
+      "type": "string"
+    },
+    {
+      "key": "periode",
+      "label": "Periode",
+      "type": "string"
+    },
+    {
+      "key": "amtszeit",
+      "label": "Amtszeit",
+      "type": "string"
+    },
+    {
+      "key": "stimmenanteil",
+      "label": "Stimmenanteil",
+      "type": "string"
+    },
+    {
+      "key": "wahlgang",
+      "label": "Wahlgang",
+      "type": "string"
+    },
+    {
+      "key": "im_amt_verstorben",
+      "label": "Im Amt Verstorben",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nr": 1,
+      "bundespraesident": "Karl Seitz",
+      "geboren": "4. September 1869 in Wien",
+      "gestorben": "3. Februar 1950 in Wien",
+      "partei": "SDAPDÖ",
+      "periode": "1.",
+      "amtszeit": "15. März 1919 – 9. Dezember 1920",
+      "stimmenanteil": "",
+      "wahlgang": "",
+      "im_amt_verstorben": "Nein"
+    },
+    {
+      "nr": 2,
+      "bundespraesident": "Michael Hainisch",
+      "geboren": "15. August 1858 in Aue bei Schottwien",
+      "gestorben": "26. Februar 1940 in Wien",
+      "partei": "parteilos",
+      "periode": "1.",
+      "amtszeit": "9. Dezember 1920 – 9. Dezember 1924",
+      "stimmenanteil": "",
+      "wahlgang": "",
+      "im_amt_verstorben": "Nein"
+    },
+    {
+      "nr": 2,
+      "bundespraesident": "Michael Hainisch",
+      "geboren": "15. August 1858 in Aue bei Schottwien",
+      "gestorben": "26. Februar 1940 in Wien",
+      "partei": "parteilos",
+      "periode": "2.",
+      "amtszeit": "9. Dezember 1924 – 10. Dezember 1928",
+      "stimmenanteil": "",
+      "wahlgang": "",
+      "im_amt_verstorben": "Nein"
+    },
+    {
+      "nr": 3,
+      "bundespraesident": "Wilhelm Miklas",
+      "geboren": "15. Oktober 1872 in Krems",
+      "gestorben": "20. März 1956 in Wien",
+      "partei": "CS / VF",
+      "periode": "1.",
+      "amtszeit": "10. Dezember 1928 – 9. Oktober 1931",
+      "stimmenanteil": "",
+      "wahlgang": "",
+      "im_amt_verstorben": "Nein"
+    },
+    {
+      "nr": 3,
+      "bundespraesident": "Wilhelm Miklas",
+      "geboren": "15. Oktober 1872 in Krems",
+      "gestorben": "20. März 1956 in Wien",
+      "partei": "CS / VF",
+      "periode": "2.",
+      "amtszeit": "9. Oktober 1931 – 13. März 1938",
+      "stimmenanteil": "",
+      "wahlgang": "",
+      "im_amt_verstorben": "Nein"
+    },
+    {
+      "nr": 4,
+      "bundespraesident": "Karl Renner",
+      "geboren": "14. Dezember 1870 in Unter-Tannowitz, Mähren",
+      "gestorben": "31. Dezember 1950 in Wien",
+      "partei": "SPÖ",
+      "periode": "1.",
+      "amtszeit": "20. Dezember 1945 – 31. Dezember 1950",
+      "stimmenanteil": "",
+      "wahlgang": "",
+      "im_amt_verstorben": "Ja ↓"
+    },
+    {
+      "nr": 5,
+      "bundespraesident": "Theodor Körner",
+      "geboren": "24. April 1873 in Új Szőny, Komorn",
+      "gestorben": "4. Jänner 1957 in Wien",
+      "partei": "SPÖ",
+      "periode": "1.",
+      "amtszeit": "21. Juni 1951 – 4. Jänner 1957",
+      "stimmenanteil": "52,1 % 39,2 %",
+      "wahlgang": "2 1",
+      "im_amt_verstorben": "Ja ↓"
+    },
+    {
+      "nr": 6,
+      "bundespraesident": "Adolf Schärf",
+      "geboren": "20. April 1890 in Nikolsburg, Südmähren",
+      "gestorben": "28. Februar 1965 in Wien",
+      "partei": "SPÖ",
+      "periode": "1.",
+      "amtszeit": "22. Mai 1957 – 22. Mai 1963",
+      "stimmenanteil": "51,1 %",
+      "wahlgang": "1",
+      "im_amt_verstorben": "Ja ↓"
+    },
+    {
+      "nr": 6,
+      "bundespraesident": "Adolf Schärf",
+      "geboren": "20. April 1890 in Nikolsburg, Südmähren",
+      "gestorben": "28. Februar 1965 in Wien",
+      "partei": "SPÖ",
+      "periode": "2.",
+      "amtszeit": "22. Mai 1963 – 28. Februar 1965",
+      "stimmenanteil": "55,4 %",
+      "wahlgang": "1",
+      "im_amt_verstorben": "Ja ↓"
+    },
+    {
+      "nr": 7,
+      "bundespraesident": "Franz Jonas",
+      "geboren": "4. Oktober 1899 in Wien",
+      "gestorben": "24. April 1974 in Wien",
+      "partei": "SPÖ",
+      "periode": "1.",
+      "amtszeit": "9. Juni 1965 – 9. Juni 1971",
+      "stimmenanteil": "50,7 %",
+      "wahlgang": "1",
+      "im_amt_verstorben": "Ja ↓"
+    },
+    {
+      "nr": 7,
+      "bundespraesident": "Franz Jonas",
+      "geboren": "4. Oktober 1899 in Wien",
+      "gestorben": "24. April 1974 in Wien",
+      "partei": "SPÖ",
+      "periode": "2.",
+      "amtszeit": "9. Juni 1971 – 24. April 1974",
+      "stimmenanteil": "52,8 %",
+      "wahlgang": "1",
+      "im_amt_verstorben": "Ja ↓"
+    },
+    {
+      "nr": 8,
+      "bundespraesident": "Rudolf Kirchschläger",
+      "geboren": "20. März 1915 in Niederkappel",
+      "gestorben": "30. März 2000 in Wien",
+      "partei": "parteilos",
+      "periode": "1.",
+      "amtszeit": "8. Juli 1974 – 8. Juli 1980",
+      "stimmenanteil": "51,7 %",
+      "wahlgang": "1",
+      "im_amt_verstorben": "Nein"
+    },
+    {
+      "nr": 8,
+      "bundespraesident": "Rudolf Kirchschläger",
+      "geboren": "20. März 1915 in Niederkappel",
+      "gestorben": "30. März 2000 in Wien",
+      "partei": "parteilos",
+      "periode": "2.",
+      "amtszeit": "8. Juli 1980 – 8. Juli 1986",
+      "stimmenanteil": "79,9 %",
+      "wahlgang": "1",
+      "im_amt_verstorben": "Nein"
+    },
+    {
+      "nr": 9,
+      "bundespraesident": "Kurt Waldheim",
+      "geboren": "21. Dezember 1918 in St. Andrä-Wördern",
+      "gestorben": "14. Juni 2007 in Wien",
+      "partei": "parteilos",
+      "periode": "1.",
+      "amtszeit": "8. Juli 1986 – 8. Juli 1992",
+      "stimmenanteil": "53,9 % 49,6 %",
+      "wahlgang": "2 1",
+      "im_amt_verstorben": "Nein"
+    },
+    {
+      "nr": 10,
+      "bundespraesident": "Thomas Klestil",
+      "geboren": "4. November 1932 in Wien",
+      "gestorben": "6. Juli 2004 in Wien",
+      "partei": "ÖVP",
+      "periode": "1.",
+      "amtszeit": "8. Juli 1992 – 8. Juli 1998",
+      "stimmenanteil": "56,9 % 37,2 %",
+      "wahlgang": "2 1",
+      "im_amt_verstorben": "Ja ↓"
+    },
+    {
+      "nr": 10,
+      "bundespraesident": "Thomas Klestil",
+      "geboren": "4. November 1932 in Wien",
+      "gestorben": "6. Juli 2004 in Wien",
+      "partei": "ÖVP",
+      "periode": "2.",
+      "amtszeit": "8. Juli 1998 – 6. Juli 2004",
+      "stimmenanteil": "63,4 %",
+      "wahlgang": "1",
+      "im_amt_verstorben": "Ja ↓"
+    },
+    {
+      "nr": 11,
+      "bundespraesident": "Heinz Fischer",
+      "geboren": "9. Oktober 1938 in Graz",
+      "gestorben": "",
+      "partei": "SPÖ",
+      "periode": "1.",
+      "amtszeit": "8. Juli 2004 – 8. Juli 2010",
+      "stimmenanteil": "52,39 %",
+      "wahlgang": "1",
+      "im_amt_verstorben": "Nein ↓"
+    },
+    {
+      "nr": 11,
+      "bundespraesident": "Heinz Fischer",
+      "geboren": "9. Oktober 1938 in Graz",
+      "gestorben": "",
+      "partei": "SPÖ",
+      "periode": "2.",
+      "amtszeit": "8. Juli 2010 – 8. Juli 2016",
+      "stimmenanteil": "79,33 %",
+      "wahlgang": "1",
+      "im_amt_verstorben": "Nein ↓"
+    },
+    {
+      "nr": 12,
+      "bundespraesident": "Alexander Van der Bellen",
+      "geboren": "18. Jänner 1944 in Wien",
+      "gestorben": "",
+      "partei": "Grüne",
+      "periode": "1.",
+      "amtszeit": "26. Jänner 2017 – 26. Jänner 2023",
+      "stimmenanteil": "53,8 % 21,3 %",
+      "wahlgang": "2 1",
+      "im_amt_verstorben": "Nein"
+    },
+    {
+      "nr": 12,
+      "bundespraesident": "Alexander Van der Bellen",
+      "geboren": "18. Jänner 1944 in Wien",
+      "gestorben": "",
+      "partei": "Grüne",
+      "periode": "2.",
+      "amtszeit": "26. Jänner 2023 –",
+      "stimmenanteil": "56,7 %",
+      "wahlgang": "1",
+      "im_amt_verstorben": "Nein"
+    }
+  ],
+  "meta": {
+    "title": "Bundespräsidenten der Republik Österreich - Free Download",
+    "description": "Alle Bundespräsidenten Österreichs seit 1919 mit Lebensdaten, Partei, Amtsperiode, Amtszeit, Stimmenanteil und Wahlgang. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bundespräsidenten der Republik Österreich | ListBase",
+    "seo_description": "Download Bundespräsidenten der Republik Österreich — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Bundespräsidenten_der_Republik_Österreich"
+    ]
+  }
+}
