@@ -1,0 +1,286 @@
+{
+  "id": "de-at-groesste-unternehmen",
+  "name": "Die größten Unternehmen in Österreich (2023)",
+  "title": "Die größten Unternehmen in Österreich (2023)",
+  "description": "Die umsatzstärksten Unternehmen Österreichs 2023 mit Rang, Umsatz, EBIT-Marge, Mitarbeiterzahl und Branche.",
+  "category": "economy",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_größten_Unternehmen_in_Österreich",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_größten_Unternehmen_in_Österreich",
+  "updated": "2026-11",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "rang_2023",
+      "label": "Rang 2023",
+      "type": "number"
+    },
+    {
+      "key": "rang_2022",
+      "label": "Rang 2022",
+      "type": "number"
+    },
+    {
+      "key": "unternehmen",
+      "label": "Unternehmen",
+      "type": "string"
+    },
+    {
+      "key": "umsatz_mio_eur",
+      "label": "Umsatz Mio Eur",
+      "type": "number"
+    },
+    {
+      "key": "ebit_prozent_umsatz",
+      "label": "Ebit Prozent Umsatz",
+      "type": "number"
+    },
+    {
+      "key": "mitarbeiter",
+      "label": "Mitarbeiter",
+      "type": "number"
+    },
+    {
+      "key": "branche",
+      "label": "Branche",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rang_2023": 1,
+      "rang_2022": 1,
+      "unternehmen": "OMV AG",
+      "umsatz_mio_eur": 62298,
+      "ebit_prozent_umsatz": 19.7,
+      "mitarbeiter": 22308,
+      "branche": "Öl, Gas, Chemie"
+    },
+    {
+      "rang_2023": 2,
+      "rang_2022": 2,
+      "unternehmen": "Porsche Holding GmbH",
+      "umsatz_mio_eur": 25805,
+      "ebit_prozent_umsatz": "",
+      "mitarbeiter": 34900,
+      "branche": "Automobilhandel"
+    },
+    {
+      "rang_2023": 3,
+      "rang_2022": 6,
+      "unternehmen": "voestalpine AG",
+      "umsatz_mio_eur": 17915,
+      "ebit_prozent_umsatz": 8.7,
+      "mitarbeiter": 50016,
+      "branche": "Stahl, Metall"
+    },
+    {
+      "rang_2023": 4,
+      "rang_2022": 3,
+      "unternehmen": "Strabag SE",
+      "umsatz_mio_eur": 17735,
+      "ebit_prozent_umsatz": 4,
+      "mitarbeiter": 73740,
+      "branche": "Bauwesen"
+    },
+    {
+      "rang_2023": 5,
+      "rang_2022": 4,
+      "unternehmen": "Rewe International AG",
+      "umsatz_mio_eur": 17300,
+      "ebit_prozent_umsatz": "",
+      "mitarbeiter": 91903,
+      "branche": "Einzelhandel"
+    },
+    {
+      "rang_2023": 6,
+      "rang_2022": 5,
+      "unternehmen": "Spar Österreich-Gruppe",
+      "umsatz_mio_eur": 16180,
+      "ebit_prozent_umsatz": "",
+      "mitarbeiter": 91300,
+      "branche": "Einzelhandel"
+    },
+    {
+      "rang_2023": 7,
+      "rang_2022": 16,
+      "unternehmen": "Verbund AG",
+      "umsatz_mio_eur": 10346,
+      "ebit_prozent_umsatz": 25.4,
+      "mitarbeiter": 3500,
+      "branche": "Energie"
+    },
+    {
+      "rang_2023": 8,
+      "rang_2022": 7,
+      "unternehmen": "Red Bull GmbH",
+      "umsatz_mio_eur": 9684,
+      "ebit_prozent_umsatz": "",
+      "mitarbeiter": 15779,
+      "branche": "Getränke"
+    },
+    {
+      "rang_2023": 9,
+      "rang_2022": 9,
+      "unternehmen": "Benteler International AG",
+      "umsatz_mio_eur": 8954,
+      "ebit_prozent_umsatz": "",
+      "mitarbeiter": 21349,
+      "branche": "Automobilzulieferer"
+    },
+    {
+      "rang_2023": 10,
+      "rang_2022": 8,
+      "unternehmen": "Mondi Group",
+      "umsatz_mio_eur": 8902,
+      "ebit_prozent_umsatz": 18.9,
+      "mitarbeiter": 21400,
+      "branche": "Papier, Verpackung"
+    },
+    {
+      "rang_2023": 11,
+      "rang_2022": 10,
+      "unternehmen": "BMW Group Österreich",
+      "umsatz_mio_eur": 7558,
+      "ebit_prozent_umsatz": "",
+      "mitarbeiter": 5260,
+      "branche": "Automobil"
+    },
+    {
+      "rang_2023": 12,
+      "rang_2022": 11,
+      "unternehmen": "Andritz AG",
+      "umsatz_mio_eur": 7543,
+      "ebit_prozent_umsatz": 7.6,
+      "mitarbeiter": 27708,
+      "branche": "Maschinen- und Anlagenbau"
+    },
+    {
+      "rang_2023": 13,
+      "rang_2022": 21,
+      "unternehmen": "Wiener Stadtwerke GmbH",
+      "umsatz_mio_eur": 7306,
+      "ebit_prozent_umsatz": 6.7,
+      "mitarbeiter": 16028,
+      "branche": "Energie, Verkehr"
+    },
+    {
+      "rang_2023": 14,
+      "rang_2022": 13,
+      "unternehmen": "Porr AG",
+      "umsatz_mio_eur": 6226,
+      "ebit_prozent_umsatz": 1.9,
+      "mitarbeiter": 20232,
+      "branche": "Bauwesen"
+    },
+    {
+      "rang_2023": 15,
+      "rang_2022": 35,
+      "unternehmen": "EnergieAllianz Austria GmbH",
+      "umsatz_mio_eur": 5259,
+      "ebit_prozent_umsatz": "",
+      "mitarbeiter": 184,
+      "branche": "Energie"
+    },
+    {
+      "rang_2023": 16,
+      "rang_2022": 24,
+      "unternehmen": "Infineon Technologies Austria",
+      "umsatz_mio_eur": 5240,
+      "ebit_prozent_umsatz": 13,
+      "mitarbeiter": 5461,
+      "branche": "Halbleiter"
+    },
+    {
+      "rang_2023": 17,
+      "rang_2022": 22,
+      "unternehmen": "Alpla Holding GmbH",
+      "umsatz_mio_eur": 5100,
+      "ebit_prozent_umsatz": "",
+      "mitarbeiter": 23300,
+      "branche": "Verpackung"
+    },
+    {
+      "rang_2023": 18,
+      "rang_2022": 17,
+      "unternehmen": "Telekom Austria AG",
+      "umsatz_mio_eur": 5005,
+      "ebit_prozent_umsatz": 17.4,
+      "mitarbeiter": 17906,
+      "branche": "Telekommunikation"
+    },
+    {
+      "rang_2023": 19,
+      "rang_2022": 23,
+      "unternehmen": "Wienerberger AG",
+      "umsatz_mio_eur": 4977,
+      "ebit_prozent_umsatz": 14.5,
+      "mitarbeiter": 19078,
+      "branche": "Baustoffe"
+    },
+    {
+      "rang_2023": 20,
+      "rang_2022": 14,
+      "unternehmen": "ams-Osram AG",
+      "umsatz_mio_eur": 4819,
+      "ebit_prozent_umsatz": -3.3,
+      "mitarbeiter": 23322,
+      "branche": "Halbleiter, Optik"
+    },
+    {
+      "rang_2023": 21,
+      "rang_2022": 15,
+      "unternehmen": "Magna Steyr Fahrzeugtechnik AG",
+      "umsatz_mio_eur": 4800,
+      "ebit_prozent_umsatz": 4.2,
+      "mitarbeiter": 7820,
+      "branche": "Automobilzulieferer"
+    },
+    {
+      "rang_2023": 22,
+      "rang_2022": 30,
+      "unternehmen": "Mayr-Melnhof Karton AG",
+      "umsatz_mio_eur": 4682,
+      "ebit_prozent_umsatz": 10.9,
+      "mitarbeiter": 14066,
+      "branche": "Papier, Verpackung"
+    },
+    {
+      "rang_2023": 23,
+      "rang_2022": 20,
+      "unternehmen": "ÖBB Österreichische Bundesbahnen Holding AG",
+      "umsatz_mio_eur": 4671,
+      "ebit_prozent_umsatz": 14.2,
+      "mitarbeiter": 41347,
+      "branche": "Verkehr"
+    },
+    {
+      "rang_2023": 24,
+      "rang_2022": 19,
+      "unternehmen": "Hofer KG",
+      "umsatz_mio_eur": 4600,
+      "ebit_prozent_umsatz": "",
+      "mitarbeiter": 12000,
+      "branche": "Einzelhandel"
+    },
+    {
+      "rang_2023": 25,
+      "rang_2022": 25,
+      "unternehmen": "Münze Österreich AG",
+      "umsatz_mio_eur": 4524,
+      "ebit_prozent_umsatz": 2.3,
+      "mitarbeiter": 214,
+      "branche": "Münzprägung"
+    }
+  ],
+  "meta": {
+    "title": "Die größten Unternehmen in Österreich (2023) - Free Download",
+    "description": "Die umsatzstärksten Unternehmen Österreichs 2023 mit Rang, Umsatz, EBIT-Marge, Mitarbeiterzahl und Branche. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Die größten Unternehmen in Österreich (2023) | ListBase",
+    "seo_description": "Download Die größten Unternehmen in Österreich (2023) — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_größten_Unternehmen_in_Österreich"
+    ]
+  }
+}

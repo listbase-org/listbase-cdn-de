@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-10T02:29:45.177Z",
-  "total_datasets": 546,
-  "total_records": 1877842,
+  "generated": "2026-11-10T02:29:52.592Z",
+  "total_datasets": 547,
+  "total_records": 1877867,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -763,6 +763,34 @@
         "xlsx": {
           "name": "de-at-finanzminister_DE.xlsx",
           "size": 9420
+        }
+      }
+    },
+    {
+      "id": "de-at-groesste-unternehmen",
+      "name": "Die größten Unternehmen in Österreich (2023)",
+      "category": "economy",
+      "record_count": 25,
+      "columns": [
+        "rang_2023",
+        "rang_2022",
+        "unternehmen",
+        "umsatz_mio_eur",
+        "ebit_prozent_umsatz",
+        "mitarbeiter",
+        "branche"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_größten_Unternehmen_in_Österreich",
+      "updated": "2026-11",
+      "size": 7656,
+      "files": {
+        "csv": {
+          "name": "de-at-groesste-unternehmen_DE.csv",
+          "size": 1771
+        },
+        "xlsx": {
+          "name": "de-at-groesste-unternehmen_DE.xlsx",
+          "size": 8227
         }
       }
     },
