@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-10T02:29:52.592Z",
-  "total_datasets": 547,
-  "total_records": 1877867,
+  "generated": "2026-11-10T02:29:59.543Z",
+  "total_datasets": 548,
+  "total_records": 1877887,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 26
+      "dataset_count": 27
     },
     {
       "id": "food",
@@ -2870,6 +2870,35 @@
         "xlsx": {
           "name": "de-bremen-banken_DE.xlsx",
           "size": 8046
+        }
+      }
+    },
+    {
+      "id": "de-ch-groesste-banken",
+      "name": "Die grössten Banken der Schweiz",
+      "category": "finance",
+      "record_count": 20,
+      "columns": [
+        "rang",
+        "bank",
+        "hauptsitz",
+        "bilanzsumme_mrd_chf",
+        "verwaltete_vermoegen_mrd_chf",
+        "eigenkapital_mrd_chf",
+        "reingewinn_mio_chf",
+        "mitarbeiter_vzae"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_grössten_Unternehmen_in_der_Schweiz",
+      "updated": "2026-11",
+      "size": 7645,
+      "files": {
+        "csv": {
+          "name": "de-ch-groesste-banken_DE.csv",
+          "size": 1560
+        },
+        "xlsx": {
+          "name": "de-ch-groesste-banken_DE.xlsx",
+          "size": 8063
         }
       }
     },

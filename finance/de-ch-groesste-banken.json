@@ -1,0 +1,266 @@
+{
+  "id": "de-ch-groesste-banken",
+  "name": "Die grössten Banken der Schweiz",
+  "title": "Die grössten Banken der Schweiz",
+  "description": "Die grössten Banken der Schweiz nach Bilanzsumme mit Hauptsitz, verwalteten Vermögen, Eigenkapital, Reingewinn und Mitarbeitenden.",
+  "category": "finance",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_grössten_Unternehmen_in_der_Schweiz",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_grössten_Unternehmen_in_der_Schweiz",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "hauptsitz",
+      "label": "Hauptsitz",
+      "type": "string"
+    },
+    {
+      "key": "bilanzsumme_mrd_chf",
+      "label": "Bilanzsumme Mrd Chf",
+      "type": "number"
+    },
+    {
+      "key": "verwaltete_vermoegen_mrd_chf",
+      "label": "Verwaltete Vermoegen Mrd Chf",
+      "type": "number"
+    },
+    {
+      "key": "eigenkapital_mrd_chf",
+      "label": "Eigenkapital Mrd Chf",
+      "type": "number"
+    },
+    {
+      "key": "reingewinn_mio_chf",
+      "label": "Reingewinn Mio Chf",
+      "type": "number"
+    },
+    {
+      "key": "mitarbeiter_vzae",
+      "label": "Mitarbeiter Vzae",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rang": 1,
+      "bank": "UBS",
+      "hauptsitz": "Zürich und Basel",
+      "bilanzsumme_mrd_chf": 942.819,
+      "verwaltete_vermoegen_mrd_chf": 2689,
+      "eigenkapital_mrd_chf": 55.313,
+      "reingewinn_mio_chf": 6203,
+      "mitarbeiter_vzae": 60099
+    },
+    {
+      "rang": 2,
+      "bank": "Credit Suisse",
+      "hauptsitz": "Zürich",
+      "bilanzsumme_mrd_chf": 820.805,
+      "verwaltete_vermoegen_mrd_chf": 1214,
+      "eigenkapital_mrd_chf": 44.382,
+      "reingewinn_mio_chf": 2944,
+      "mitarbeiter_vzae": 48200
+    },
+    {
+      "rang": 3,
+      "bank": "Raiffeisen Schweiz",
+      "hauptsitz": "St. Gallen",
+      "bilanzsumme_mrd_chf": 205.748,
+      "verwaltete_vermoegen_mrd_chf": 209,
+      "eigenkapital_mrd_chf": 13.318,
+      "reingewinn_mio_chf": 808,
+      "mitarbeiter_vzae": 9286
+    },
+    {
+      "rang": 4,
+      "bank": "Zürcher Kantonalbank",
+      "hauptsitz": "Zürich",
+      "bilanzsumme_mrd_chf": 154.41,
+      "verwaltete_vermoegen_mrd_chf": 258,
+      "eigenkapital_mrd_chf": 10.429,
+      "reingewinn_mio_chf": 722,
+      "mitarbeiter_vzae": 5179
+    },
+    {
+      "rang": 5,
+      "bank": "PostFinance",
+      "hauptsitz": "Bern",
+      "bilanzsumme_mrd_chf": 114.468,
+      "verwaltete_vermoegen_mrd_chf": 115,
+      "eigenkapital_mrd_chf": 4.803,
+      "reingewinn_mio_chf": 575,
+      "mitarbeiter_vzae": 3654
+    },
+    {
+      "rang": 6,
+      "bank": "Julius Bär",
+      "hauptsitz": "Zürich",
+      "bilanzsumme_mrd_chf": 84.116,
+      "verwaltete_vermoegen_mrd_chf": 300,
+      "eigenkapital_mrd_chf": 4.942,
+      "reingewinn_mio_chf": 123,
+      "mitarbeiter_vzae": 5364
+    },
+    {
+      "rang": 7,
+      "bank": "Banque Cantonale Vaudoise",
+      "hauptsitz": "Lausanne",
+      "bilanzsumme_mrd_chf": 43.418,
+      "verwaltete_vermoegen_mrd_chf": 88,
+      "eigenkapital_mrd_chf": 3.397,
+      "reingewinn_mio_chf": 336,
+      "mitarbeiter_vzae": 1947
+    },
+    {
+      "rang": 8,
+      "bank": "Migros Bank",
+      "hauptsitz": "Zürich",
+      "bilanzsumme_mrd_chf": 42.232,
+      "verwaltete_vermoegen_mrd_chf": 33,
+      "eigenkapital_mrd_chf": 3.35,
+      "reingewinn_mio_chf": 226,
+      "mitarbeiter_vzae": 1334
+    },
+    {
+      "rang": 9,
+      "bank": "Luzerner Kantonalbank",
+      "hauptsitz": "Luzern",
+      "bilanzsumme_mrd_chf": 33.272,
+      "verwaltete_vermoegen_mrd_chf": 27,
+      "eigenkapital_mrd_chf": 2.488,
+      "reingewinn_mio_chf": 180,
+      "mitarbeiter_vzae": 943
+    },
+    {
+      "rang": 10,
+      "bank": "St.Galler Kantonalbank",
+      "hauptsitz": "St. Gallen",
+      "bilanzsumme_mrd_chf": 31.189,
+      "verwaltete_vermoegen_mrd_chf": 36,
+      "eigenkapital_mrd_chf": 2.075,
+      "reingewinn_mio_chf": 133,
+      "mitarbeiter_vzae": 1065
+    },
+    {
+      "rang": 11,
+      "bank": "CA Indosuez Wealth Management",
+      "hauptsitz": "Genf",
+      "bilanzsumme_mrd_chf": 28.453,
+      "verwaltete_vermoegen_mrd_chf": 102,
+      "eigenkapital_mrd_chf": 2.956,
+      "reingewinn_mio_chf": 127,
+      "mitarbeiter_vzae": 2632
+    },
+    {
+      "rang": 12,
+      "bank": "Berner Kantonalbank",
+      "hauptsitz": "Bern",
+      "bilanzsumme_mrd_chf": 28.035,
+      "verwaltete_vermoegen_mrd_chf": 20,
+      "eigenkapital_mrd_chf": 2.267,
+      "reingewinn_mio_chf": 131,
+      "mitarbeiter_vzae": 1091
+    },
+    {
+      "rang": 13,
+      "bank": "EFG International",
+      "hauptsitz": "Zürich",
+      "bilanzsumme_mrd_chf": 26.796,
+      "verwaltete_vermoegen_mrd_chf": 84,
+      "eigenkapital_mrd_chf": 1.129,
+      "reingewinn_mio_chf": 57,
+      "mitarbeiter_vzae": 2169
+    },
+    {
+      "rang": 14,
+      "bank": "Valiant",
+      "hauptsitz": "Bern",
+      "bilanzsumme_mrd_chf": 25.449,
+      "verwaltete_vermoegen_mrd_chf": 27,
+      "eigenkapital_mrd_chf": 2.051,
+      "reingewinn_mio_chf": 114,
+      "mitarbeiter_vzae": 821
+    },
+    {
+      "rang": 15,
+      "bank": "Union Bancaire Privée",
+      "hauptsitz": "Genf",
+      "bilanzsumme_mrd_chf": 25.215,
+      "verwaltete_vermoegen_mrd_chf": 110,
+      "eigenkapital_mrd_chf": 1.868,
+      "reingewinn_mio_chf": 25,
+      "mitarbeiter_vzae": 1450
+    },
+    {
+      "rang": 16,
+      "bank": "HSBC Private Bank (Suisse) SA",
+      "hauptsitz": "Genf",
+      "bilanzsumme_mrd_chf": 24.894,
+      "verwaltete_vermoegen_mrd_chf": 59,
+      "eigenkapital_mrd_chf": 2.965,
+      "reingewinn_mio_chf": -92,
+      "mitarbeiter_vzae": 1213
+    },
+    {
+      "rang": 17,
+      "bank": "Aargauische Kantonalbank",
+      "hauptsitz": "Aarau",
+      "bilanzsumme_mrd_chf": 24.286,
+      "verwaltete_vermoegen_mrd_chf": 24,
+      "eigenkapital_mrd_chf": 2.094,
+      "reingewinn_mio_chf": 155,
+      "mitarbeiter_vzae": 690
+    },
+    {
+      "rang": 18,
+      "bank": "Neue Aargauer Bank",
+      "hauptsitz": "Aarau",
+      "bilanzsumme_mrd_chf": 23.823,
+      "verwaltete_vermoegen_mrd_chf": 17,
+      "eigenkapital_mrd_chf": 1.367,
+      "reingewinn_mio_chf": 138,
+      "mitarbeiter_vzae": 615
+    },
+    {
+      "rang": 19,
+      "bank": "Basler Kantonalbank",
+      "hauptsitz": "Basel",
+      "bilanzsumme_mrd_chf": 22.593,
+      "verwaltete_vermoegen_mrd_chf": 46,
+      "eigenkapital_mrd_chf": 2.882,
+      "reingewinn_mio_chf": 89,
+      "mitarbeiter_vzae": 1061
+    },
+    {
+      "rang": 20,
+      "bank": "BNP Paribas (Suisse) SA",
+      "hauptsitz": "Genf",
+      "bilanzsumme_mrd_chf": 21.114,
+      "verwaltete_vermoegen_mrd_chf": 27,
+      "eigenkapital_mrd_chf": 2.263,
+      "reingewinn_mio_chf": 42,
+      "mitarbeiter_vzae": 1446
+    }
+  ],
+  "meta": {
+    "title": "Die grössten Banken der Schweiz - Free Download",
+    "description": "Die grössten Banken der Schweiz nach Bilanzsumme mit Hauptsitz, verwalteten Vermögen, Eigenkapital, Reingewinn und Mitarbeitenden. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Die grössten Banken der Schweiz | ListBase",
+    "seo_description": "Download Die grössten Banken der Schweiz — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_grössten_Unternehmen_in_der_Schweiz"
+    ]
+  }
+}
