@@ -1,0 +1,4561 @@
+{
+  "id": "de-ch-groesste-unternehmen",
+  "name": "Die 500 grössten Unternehmen in der Schweiz",
+  "title": "Die 500 grössten Unternehmen in der Schweiz",
+  "description": "Die 500 umsatzstärksten Unternehmen der Schweiz mit Sitz, Kanton, Branche und Umsatz in Mio. CHF und Mio. Euro.",
+  "category": "economy",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_grössten_Unternehmen_in_der_Schweiz",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_grössten_Unternehmen_in_der_Schweiz",
+  "updated": "2026-11",
+  "record_count": 500,
+  "columns": [
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "unternehmen",
+      "label": "Unternehmen",
+      "type": "string"
+    },
+    {
+      "key": "sitz",
+      "label": "Sitz",
+      "type": "string"
+    },
+    {
+      "key": "kanton",
+      "label": "Kanton",
+      "type": "string"
+    },
+    {
+      "key": "branche",
+      "label": "Branche",
+      "type": "string"
+    },
+    {
+      "key": "umsatz_mio_chf",
+      "label": "Umsatz Mio Chf",
+      "type": "number"
+    },
+    {
+      "key": "umsatz_mio_eur",
+      "label": "Umsatz Mio Eur",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rang": 1,
+      "unternehmen": "Glencore International",
+      "sitz": "Baar",
+      "kanton": "ZG",
+      "branche": "Welt-/Rohstoffhandel",
+      "umsatz_mio_chf": 133513,
+      "umsatz_mio_eur": 145693
+    },
+    {
+      "rang": 2,
+      "unternehmen": "Vitol",
+      "sitz": "Genf",
+      "kanton": "GE",
+      "branche": "Mineralölhandel",
+      "umsatz_mio_chf": 131320,
+      "umsatz_mio_eur": 143300
+    },
+    {
+      "rang": 3,
+      "unternehmen": "Cargill International",
+      "sitz": "Genf",
+      "kanton": "GE",
+      "branche": "Welt-/Rohstoffhandel",
+      "umsatz_mio_chf": 107870,
+      "umsatz_mio_eur": 117711
+    },
+    {
+      "rang": 4,
+      "unternehmen": "Mercuria Energy Trading",
+      "sitz": "Genf",
+      "kanton": "GE",
+      "branche": "Welt-/Rohstoffhandel",
+      "umsatz_mio_chf": 86600,
+      "umsatz_mio_eur": 94500
+    },
+    {
+      "rang": 5,
+      "unternehmen": "Nestlé",
+      "sitz": "Vevey",
+      "kanton": "VD",
+      "branche": "Nahrungsmittel",
+      "umsatz_mio_chf": 84343,
+      "umsatz_mio_eur": 92037
+    },
+    {
+      "rang": 6,
+      "unternehmen": "Roche Holding",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Chemie/Pharma",
+      "umsatz_mio_chf": 58323,
+      "umsatz_mio_eur": 63644
+    },
+    {
+      "rang": 7,
+      "unternehmen": "Gunvor",
+      "sitz": "Genf",
+      "kanton": "GE",
+      "branche": "Mineralölhandel",
+      "umsatz_mio_chf": 46900,
+      "umsatz_mio_eur": 51179
+    },
+    {
+      "rang": 8,
+      "unternehmen": "Novartis",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Chemie/Pharma",
+      "umsatz_mio_chf": 45642,
+      "umsatz_mio_eur": 49806
+    },
+    {
+      "rang": 9,
+      "unternehmen": "BHP Billiton Group",
+      "sitz": "Baar",
+      "kanton": "ZG",
+      "branche": "Welt-/Rohstoffhandel",
+      "umsatz_mio_chf": 40269,
+      "umsatz_mio_eur": 43943
+    },
+    {
+      "rang": 10,
+      "unternehmen": "Coop-Gruppe",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Mischkonzern",
+      "umsatz_mio_chf": 30173,
+      "umsatz_mio_eur": 32926
+    },
+    {
+      "rang": 11,
+      "unternehmen": "Migros-Genossenschafts-Bund",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Mischkonzern",
+      "umsatz_mio_chf": 29822,
+      "umsatz_mio_eur": 32543
+    },
+    {
+      "rang": 12,
+      "unternehmen": "Debiopharm International",
+      "sitz": "Lausanne",
+      "kanton": "VD",
+      "branche": "Chemie/Pharma",
+      "umsatz_mio_chf": 25000,
+      "umsatz_mio_eur": 27281
+    },
+    {
+      "rang": 13,
+      "unternehmen": "Mediterranean Shipping Company",
+      "sitz": "Genf",
+      "kanton": "GE",
+      "branche": "Logistik/Spedition",
+      "umsatz_mio_chf": 25000,
+      "umsatz_mio_eur": 27281
+    },
+    {
+      "rang": 14,
+      "unternehmen": "ABB",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 24514,
+      "umsatz_mio_eur": 26750
+    },
+    {
+      "rang": 15,
+      "unternehmen": "LafargeHolcim",
+      "sitz": "Zug",
+      "kanton": "ZG",
+      "branche": "Bauzulieferer/Bauelemente",
+      "umsatz_mio_chf": 23142,
+      "umsatz_mio_eur": 25253
+    },
+    {
+      "rang": 16,
+      "unternehmen": "Socar Energy Trading",
+      "sitz": "Genf",
+      "kanton": "GE",
+      "branche": "Mineralölhandel",
+      "umsatz_mio_chf": 22000,
+      "umsatz_mio_eur": 24007
+    },
+    {
+      "rang": 17,
+      "unternehmen": "Adecco",
+      "sitz": "Glattbrugg",
+      "kanton": "ZH",
+      "branche": "Temporärarbeit",
+      "umsatz_mio_chf": 20930,
+      "umsatz_mio_eur": 22839
+    },
+    {
+      "rang": 18,
+      "unternehmen": "Kühne + Nagel International",
+      "sitz": "Schindellegi",
+      "kanton": "SZ",
+      "branche": "Logistik/Spedition",
+      "umsatz_mio_chf": 20382,
+      "umsatz_mio_eur": 22241
+    },
+    {
+      "rang": 19,
+      "unternehmen": "Varo Energy Holding",
+      "sitz": "Cham",
+      "kanton": "ZG",
+      "branche": "Mineralölhandel",
+      "umsatz_mio_chf": 14338,
+      "umsatz_mio_eur": 15646
+    },
+    {
+      "rang": 20,
+      "unternehmen": "Tetra Pak International",
+      "sitz": "Pully",
+      "kanton": "VD",
+      "branche": "Mischkonzern",
+      "umsatz_mio_chf": 14065,
+      "umsatz_mio_eur": 15348
+    },
+    {
+      "rang": 21,
+      "unternehmen": "Richemont",
+      "sitz": "Bellevue",
+      "kanton": "GE",
+      "branche": "Mischkonzern",
+      "umsatz_mio_chf": 14064,
+      "umsatz_mio_eur": 15347
+    },
+    {
+      "rang": 22,
+      "unternehmen": "Syngenta",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Chemie/Pharma",
+      "umsatz_mio_chf": 13401,
+      "umsatz_mio_eur": 14624
+    },
+    {
+      "rang": 23,
+      "unternehmen": "Also Holding",
+      "sitz": "Emmen",
+      "kanton": "LU",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 12731,
+      "umsatz_mio_eur": 13892
+    },
+    {
+      "rang": 24,
+      "unternehmen": "Ineos Holdings",
+      "sitz": "Rolle",
+      "kanton": "VD",
+      "branche": "Chemie/Pharma",
+      "umsatz_mio_chf": 12095,
+      "umsatz_mio_eur": 13198
+    },
+    {
+      "rang": 25,
+      "unternehmen": "MET Group",
+      "sitz": "Zug",
+      "kanton": "ZG",
+      "branche": "Welt-/Rohstoffhandel",
+      "umsatz_mio_chf": 11924,
+      "umsatz_mio_eur": 13012
+    },
+    {
+      "rang": 26,
+      "unternehmen": "Emil Frey",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Automobilhandel/-import",
+      "umsatz_mio_chf": 11500,
+      "umsatz_mio_eur": 12549
+    },
+    {
+      "rang": 27,
+      "unternehmen": "Kolmar Group",
+      "sitz": "Zug",
+      "kanton": "ZG",
+      "branche": "Mineralölhandel",
+      "umsatz_mio_chf": 11500,
+      "umsatz_mio_eur": 12549
+    },
+    {
+      "rang": 28,
+      "unternehmen": "Swisscom",
+      "sitz": "Worblaufen",
+      "kanton": "BE",
+      "branche": "Telecom",
+      "umsatz_mio_chf": 11100,
+      "umsatz_mio_eur": 12113
+    },
+    {
+      "rang": 29,
+      "unternehmen": "Liebherr International",
+      "sitz": "Bulle",
+      "kanton": "FR",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 11065,
+      "umsatz_mio_eur": 12074
+    },
+    {
+      "rang": 30,
+      "unternehmen": "DKSH Holding",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Mischkonzern",
+      "umsatz_mio_chf": 10742,
+      "umsatz_mio_eur": 11722
+    },
+    {
+      "rang": 31,
+      "unternehmen": "Schindler Holding",
+      "sitz": "Hergiswil NW",
+      "kanton": "NW",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 10640,
+      "umsatz_mio_eur": 11611
+    },
+    {
+      "rang": 32,
+      "unternehmen": "SBB",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Bahnen/Öffentlicher Verkehr",
+      "umsatz_mio_chf": 9216,
+      "umsatz_mio_eur": 10057
+    },
+    {
+      "rang": 33,
+      "unternehmen": "DXT Commodities",
+      "sitz": "Lugano",
+      "kanton": "TI",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 9186,
+      "umsatz_mio_eur": 10024
+    },
+    {
+      "rang": 34,
+      "unternehmen": "CSL Behring",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 8630,
+      "umsatz_mio_eur": 9417
+    },
+    {
+      "rang": 35,
+      "unternehmen": "Transgourmet Holding",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Grosshandel (Food)",
+      "umsatz_mio_chf": 8109,
+      "umsatz_mio_eur": 8849
+    },
+    {
+      "rang": 36,
+      "unternehmen": "SoftwareONE",
+      "sitz": "Stans",
+      "kanton": "NW",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 7906,
+      "umsatz_mio_eur": 8627
+    },
+    {
+      "rang": 37,
+      "unternehmen": "Sika",
+      "sitz": "Baar",
+      "kanton": "ZG",
+      "branche": "Bauzulieferer/Bauelemente",
+      "umsatz_mio_chf": 7878,
+      "umsatz_mio_eur": 8597
+    },
+    {
+      "rang": 38,
+      "unternehmen": "Die Schweizerische Post",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Dienstleistungen",
+      "umsatz_mio_chf": 7054,
+      "umsatz_mio_eur": 7698
+    },
+    {
+      "rang": 39,
+      "unternehmen": "Fenaco",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Mischkonzern",
+      "umsatz_mio_chf": 6981,
+      "umsatz_mio_eur": 7618
+    },
+    {
+      "rang": 40,
+      "unternehmen": "Ceva Logistics",
+      "sitz": "Baar",
+      "kanton": "ZG",
+      "branche": "Logistik/Spedition",
+      "umsatz_mio_chf": 6956,
+      "umsatz_mio_eur": 7591
+    },
+    {
+      "rang": 41,
+      "unternehmen": "Barry Callebaut",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Schokoladeindustrie",
+      "umsatz_mio_chf": 6893,
+      "umsatz_mio_eur": 7522
+    },
+    {
+      "rang": 42,
+      "unternehmen": "Ameropa Holding",
+      "sitz": "Binningen",
+      "kanton": "BL",
+      "branche": "Welt-/Rohstoffhandel",
+      "umsatz_mio_chf": 6400,
+      "umsatz_mio_eur": 6984
+    },
+    {
+      "rang": 43,
+      "unternehmen": "Alcon",
+      "sitz": "Genf",
+      "kanton": "GE",
+      "branche": "Medizinaltechnik",
+      "umsatz_mio_chf": 6344,
+      "umsatz_mio_eur": 6923
+    },
+    {
+      "rang": 44,
+      "unternehmen": "Givaudan",
+      "sitz": "Vernier",
+      "kanton": "GE",
+      "branche": "Chemie/Pharma",
+      "umsatz_mio_chf": 6322,
+      "umsatz_mio_eur": 6899
+    },
+    {
+      "rang": 45,
+      "unternehmen": "EuroChem",
+      "sitz": "Zug",
+      "kanton": "ZG",
+      "branche": "Bergbau/Erdgas/Dünger",
+      "umsatz_mio_chf": 5784,
+      "umsatz_mio_eur": 6312
+    },
+    {
+      "rang": 46,
+      "unternehmen": "SGS",
+      "sitz": "Genf",
+      "kanton": "GE",
+      "branche": "Dienstleistungen",
+      "umsatz_mio_chf": 5604,
+      "umsatz_mio_eur": 6115
+    },
+    {
+      "rang": 47,
+      "unternehmen": "The Swatch Group",
+      "sitz": "Neuenburg",
+      "kanton": "NE",
+      "branche": "Uhrenindustrie",
+      "umsatz_mio_chf": 5595,
+      "umsatz_mio_eur": 6105
+    },
+    {
+      "rang": 48,
+      "unternehmen": "Hilti",
+      "sitz": "Schaan",
+      "kanton": "",
+      "branche": "Befestigungstechnik",
+      "umsatz_mio_chf": 5332,
+      "umsatz_mio_eur": 5818
+    },
+    {
+      "rang": 49,
+      "unternehmen": "Maus Frères Holding",
+      "sitz": "Genf",
+      "kanton": "GE",
+      "branche": "Mischkonzern",
+      "umsatz_mio_chf": 5000,
+      "umsatz_mio_eur": 5456
+    },
+    {
+      "rang": 50,
+      "unternehmen": "Axpo Holding",
+      "sitz": "Baden",
+      "kanton": "AG",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 4808,
+      "umsatz_mio_eur": 5247
+    },
+    {
+      "rang": 51,
+      "unternehmen": "Rolex",
+      "sitz": "Les Acacias",
+      "kanton": "GE",
+      "branche": "Uhrenindustrie",
+      "umsatz_mio_chf": 4800,
+      "umsatz_mio_eur": 5238
+    },
+    {
+      "rang": 52,
+      "unternehmen": "Lonza Group",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Chemie/Pharma",
+      "umsatz_mio_chf": 4508,
+      "umsatz_mio_eur": 4919
+    },
+    {
+      "rang": 53,
+      "unternehmen": "Bell Food Group",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Fleischverarbeitung",
+      "umsatz_mio_chf": 4074,
+      "umsatz_mio_eur": 4446
+    },
+    {
+      "rang": 54,
+      "unternehmen": "Lindt & Sprüngli",
+      "sitz": "Kilchberg",
+      "kanton": "ZH",
+      "branche": "Nahrungsmittel",
+      "umsatz_mio_chf": 4017,
+      "umsatz_mio_eur": 4383
+    },
+    {
+      "rang": 55,
+      "unternehmen": "AMAG-Gruppe",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Automobilhandel/-import",
+      "umsatz_mio_chf": 4000,
+      "umsatz_mio_eur": 4365
+    },
+    {
+      "rang": 56,
+      "unternehmen": "Apple Switzerland",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 4000,
+      "umsatz_mio_eur": 4365
+    },
+    {
+      "rang": 57,
+      "unternehmen": "Omya",
+      "sitz": "Oftringen",
+      "kanton": "AG",
+      "branche": "Mischkonzern",
+      "umsatz_mio_chf": 4000,
+      "umsatz_mio_eur": 4365
+    },
+    {
+      "rang": 58,
+      "unternehmen": "Implenia",
+      "sitz": "Dietlikon",
+      "kanton": "ZH",
+      "branche": "Bauunternehmen",
+      "umsatz_mio_chf": 3989,
+      "umsatz_mio_eur": 4353
+    },
+    {
+      "rang": 59,
+      "unternehmen": "Alpiq Holding",
+      "sitz": "Lausanne",
+      "kanton": "VD",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 3905,
+      "umsatz_mio_eur": 4261
+    },
+    {
+      "rang": 60,
+      "unternehmen": "Firmenich International",
+      "sitz": "Les Acacias",
+      "kanton": "GE",
+      "branche": "Chemie/Pharma",
+      "umsatz_mio_chf": 3900,
+      "umsatz_mio_eur": 4256
+    },
+    {
+      "rang": 61,
+      "unternehmen": "Rehau",
+      "sitz": "Muri bei Bern",
+      "kanton": "BE",
+      "branche": "Kunststofftechnologie",
+      "umsatz_mio_chf": 3892,
+      "umsatz_mio_eur": 4247
+    },
+    {
+      "rang": 62,
+      "unternehmen": "Clariant",
+      "sitz": "Muttenz",
+      "kanton": "BL",
+      "branche": "Chemie/Pharma",
+      "umsatz_mio_chf": 3860,
+      "umsatz_mio_eur": 4212
+    },
+    {
+      "rang": 63,
+      "unternehmen": "Denner",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Detailhandel",
+      "umsatz_mio_chf": 3778,
+      "umsatz_mio_eur": 4123
+    },
+    {
+      "rang": 64,
+      "unternehmen": "Emmi AG",
+      "sitz": "Luzern",
+      "kanton": "LU",
+      "branche": "Nahrungsmittel",
+      "umsatz_mio_chf": 3706,
+      "umsatz_mio_eur": 4044
+    },
+    {
+      "rang": 65,
+      "unternehmen": "TAG Heuer",
+      "sitz": "La Chaux-de-Fonds",
+      "kanton": "NE",
+      "branche": "Uhrenindustrie",
+      "umsatz_mio_chf": 3591,
+      "umsatz_mio_eur": 3919
+    },
+    {
+      "rang": 66,
+      "unternehmen": "Galenica",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 3480,
+      "umsatz_mio_eur": 3797
+    },
+    {
+      "rang": 67,
+      "unternehmen": "Sulzer",
+      "sitz": "Winterthur",
+      "kanton": "ZH",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 3319,
+      "umsatz_mio_eur": 3622
+    },
+    {
+      "rang": 68,
+      "unternehmen": "Georg Fischer AG",
+      "sitz": "Schaffhausen",
+      "kanton": "SH",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 3184,
+      "umsatz_mio_eur": 3474
+    },
+    {
+      "rang": 69,
+      "unternehmen": "Aryzta",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Nahrungsmittel",
+      "umsatz_mio_chf": 3136,
+      "umsatz_mio_eur": 3422
+    },
+    {
+      "rang": 70,
+      "unternehmen": "BKW",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 3129,
+      "umsatz_mio_eur": 3414
+    },
+    {
+      "rang": 71,
+      "unternehmen": "Stadler Rail",
+      "sitz": "Bussnang",
+      "kanton": "TG",
+      "branche": "Fahrzeug-/Karosseriebau",
+      "umsatz_mio_chf": 3085,
+      "umsatz_mio_eur": 3366
+    },
+    {
+      "rang": 72,
+      "unternehmen": "Werco Trade",
+      "sitz": "Zug",
+      "kanton": "ZG",
+      "branche": "Welt-/Rohstoffhandel",
+      "umsatz_mio_chf": 3004,
+      "umsatz_mio_eur": 3278
+    },
+    {
+      "rang": 73,
+      "unternehmen": "Geberit",
+      "sitz": "Jona",
+      "kanton": "SG",
+      "branche": "Bauzulieferer/Bauelemente",
+      "umsatz_mio_chf": 2986,
+      "umsatz_mio_eur": 3258
+    },
+    {
+      "rang": 74,
+      "unternehmen": "Transocean",
+      "sitz": "Zug",
+      "kanton": "ZG",
+      "branche": "Mineralölhandel",
+      "umsatz_mio_chf": 2955,
+      "umsatz_mio_eur": 3225
+    },
+    {
+      "rang": 75,
+      "unternehmen": "Artemis Holding",
+      "sitz": "Hergiswil NW",
+      "kanton": "NW",
+      "branche": "Mischkonzern",
+      "umsatz_mio_chf": 2796,
+      "umsatz_mio_eur": 3051
+    },
+    {
+      "rang": 76,
+      "unternehmen": "Logitech International",
+      "sitz": "Apples",
+      "kanton": "VD",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 2791,
+      "umsatz_mio_eur": 3046
+    },
+    {
+      "rang": 77,
+      "unternehmen": "Endress+Hauser",
+      "sitz": "Reinach",
+      "kanton": "BL",
+      "branche": "Mess- und Regeltechnik",
+      "umsatz_mio_chf": 2757,
+      "umsatz_mio_eur": 3009
+    },
+    {
+      "rang": 78,
+      "unternehmen": "Bucher Industries",
+      "sitz": "Niederweningen",
+      "kanton": "ZH",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 2741,
+      "umsatz_mio_eur": 2991
+    },
+    {
+      "rang": 79,
+      "unternehmen": "Galderma Holding",
+      "sitz": "La Tour-de-Peilz",
+      "kanton": "VD",
+      "branche": "Chemie/Pharma",
+      "umsatz_mio_chf": 2730,
+      "umsatz_mio_eur": 2979
+    },
+    {
+      "rang": 80,
+      "unternehmen": "Actelion",
+      "sitz": "Allschwil",
+      "kanton": "BL",
+      "branche": "Chemie/Pharma",
+      "umsatz_mio_chf": 2700,
+      "umsatz_mio_eur": 2946
+    },
+    {
+      "rang": 81,
+      "unternehmen": "Bühler Holding",
+      "sitz": "Uzwil",
+      "kanton": "SG",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 2700,
+      "umsatz_mio_eur": 2946
+    },
+    {
+      "rang": 82,
+      "unternehmen": "Sonova Holding",
+      "sitz": "Stäfa",
+      "kanton": "ZH",
+      "branche": "Elektronik/Elektrotechnik",
+      "umsatz_mio_chf": 2602,
+      "umsatz_mio_eur": 2839
+    },
+    {
+      "rang": 83,
+      "unternehmen": "Google Switzerland",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 2600,
+      "umsatz_mio_eur": 2837
+    },
+    {
+      "rang": 84,
+      "unternehmen": "Octapharma",
+      "sitz": "Lachen",
+      "kanton": "SZ",
+      "branche": "Grosshandel Chemie/Pharma",
+      "umsatz_mio_chf": 2563,
+      "umsatz_mio_eur": 2797
+    },
+    {
+      "rang": 85,
+      "unternehmen": "Dufry",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Grosshandel (Non Food)",
+      "umsatz_mio_chf": 2561,
+      "umsatz_mio_eur": 2795
+    },
+    {
+      "rang": 86,
+      "unternehmen": "Dormakaba Holding",
+      "sitz": "Rümlang",
+      "kanton": "ZH",
+      "branche": "Elektronik/Elektrotechnik",
+      "umsatz_mio_chf": 2540,
+      "umsatz_mio_eur": 2772
+    },
+    {
+      "rang": 87,
+      "unternehmen": "BMW (Schweiz)",
+      "sitz": "Dielsdorf",
+      "kanton": "ZH",
+      "branche": "Automobilhandel/-import",
+      "umsatz_mio_chf": 2513,
+      "umsatz_mio_eur": 2742
+    },
+    {
+      "rang": 88,
+      "unternehmen": "MSC Cruises",
+      "sitz": "Genf",
+      "kanton": "GE",
+      "branche": "Reiseunternehmen/Tourismus",
+      "umsatz_mio_chf": 2500,
+      "umsatz_mio_eur": 2728
+    },
+    {
+      "rang": 89,
+      "unternehmen": "Mercedes-Benz Schweiz",
+      "sitz": "Schlieren",
+      "kanton": "ZH",
+      "branche": "Automobilhandel/-import",
+      "umsatz_mio_chf": 2450,
+      "umsatz_mio_eur": 2674
+    },
+    {
+      "rang": 90,
+      "unternehmen": "Schmolz + Bickenbach",
+      "sitz": "Luzern",
+      "kanton": "LU",
+      "branche": "Metallverarbeitung",
+      "umsatz_mio_chf": 2449,
+      "umsatz_mio_eur": 2672
+    },
+    {
+      "rang": 91,
+      "unternehmen": "Aldi Suisse",
+      "sitz": "Schwarzenbach",
+      "kanton": "SG",
+      "branche": "Detailhandel",
+      "umsatz_mio_chf": 2380,
+      "umsatz_mio_eur": 2597
+    },
+    {
+      "rang": 92,
+      "unternehmen": "OC Oerlikon Corporation",
+      "sitz": "Pfäffikon SZ",
+      "kanton": "SZ",
+      "branche": "Mischkonzern",
+      "umsatz_mio_chf": 2258,
+      "umsatz_mio_eur": 2464
+    },
+    {
+      "rang": 93,
+      "unternehmen": "Coop Mineraloel",
+      "sitz": "Allschwil",
+      "kanton": "BL",
+      "branche": "Mineralölhandel",
+      "umsatz_mio_chf": 2197,
+      "umsatz_mio_eur": 2397
+    },
+    {
+      "rang": 94,
+      "unternehmen": "Franke Group",
+      "sitz": "Aarburg",
+      "kanton": "AG",
+      "branche": "Elektroapparate/Haushaltgeräte",
+      "umsatz_mio_chf": 2178,
+      "umsatz_mio_eur": 2377
+    },
+    {
+      "rang": 95,
+      "unternehmen": "Hôpitaux universitaires de Genève",
+      "sitz": "Genf",
+      "kanton": "GE",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 2147,
+      "umsatz_mio_eur": 2343
+    },
+    {
+      "rang": 96,
+      "unternehmen": "Siemens Schweiz",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Elektronik/Elektrotechnik",
+      "umsatz_mio_chf": 2120,
+      "umsatz_mio_eur": 2313
+    },
+    {
+      "rang": 97,
+      "unternehmen": "Ferring Pharmaceuticals",
+      "sitz": "St-Prex",
+      "kanton": "VD",
+      "branche": "Chemie/Pharma",
+      "umsatz_mio_chf": 2083,
+      "umsatz_mio_eur": 2273
+    },
+    {
+      "rang": 98,
+      "unternehmen": "Lidl Schweiz",
+      "sitz": "Weinfelden",
+      "kanton": "TG",
+      "branche": "Detailhandel",
+      "umsatz_mio_chf": 2050,
+      "umsatz_mio_eur": 2237
+    },
+    {
+      "rang": 99,
+      "unternehmen": "SIG Combibloc Group",
+      "sitz": "Neuhausen am Rheinfall",
+      "kanton": "SH",
+      "branche": "Verpackung",
+      "umsatz_mio_chf": 1943,
+      "umsatz_mio_eur": 2120
+    },
+    {
+      "rang": 100,
+      "unternehmen": "PostLogistics",
+      "sitz": "Dintikon",
+      "kanton": "AG",
+      "branche": "Gütertransporte/Terminals",
+      "umsatz_mio_chf": 1933,
+      "umsatz_mio_eur": 2109
+    },
+    {
+      "rang": 101,
+      "unternehmen": "Swiss International Air Lines",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Luftverkehr",
+      "umsatz_mio_chf": 1850,
+      "umsatz_mio_eur": 2019
+    },
+    {
+      "rang": 102,
+      "unternehmen": "Montana Tech Components",
+      "sitz": "Reinach",
+      "kanton": "AG",
+      "branche": "Metallverarbeitung",
+      "umsatz_mio_chf": 1844,
+      "umsatz_mio_eur": 2012
+    },
+    {
+      "rang": 103,
+      "unternehmen": "Krono Holding",
+      "sitz": "Luzern",
+      "kanton": "LU",
+      "branche": "Bauzulieferer/Bauelemente",
+      "umsatz_mio_chf": 1819,
+      "umsatz_mio_eur": 1985
+    },
+    {
+      "rang": 104,
+      "unternehmen": "Mediclinic Switzerland",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 1804,
+      "umsatz_mio_eur": 1969
+    },
+    {
+      "rang": 105,
+      "unternehmen": "Vifor Pharma",
+      "sitz": "Glattbrugg",
+      "kanton": "ZH",
+      "branche": "Chemie/Pharma",
+      "umsatz_mio_chf": 1802,
+      "umsatz_mio_eur": 1966
+    },
+    {
+      "rang": 106,
+      "unternehmen": "Ems-Chemie",
+      "sitz": "Domat/Ems",
+      "kanton": "GR",
+      "branche": "Mischkonzern",
+      "umsatz_mio_chf": 1802,
+      "umsatz_mio_eur": 1966
+    },
+    {
+      "rang": 107,
+      "unternehmen": "Lagerhäuser der Centralschweiz",
+      "sitz": "Aarau",
+      "kanton": "AG",
+      "branche": "Gütertransporte/Terminals",
+      "umsatz_mio_chf": 1800,
+      "umsatz_mio_eur": 1964
+    },
+    {
+      "rang": 108,
+      "unternehmen": "Volg",
+      "sitz": "Winterthur",
+      "kanton": "ZH",
+      "branche": "Detailhandel",
+      "umsatz_mio_chf": 1768,
+      "umsatz_mio_eur": 1929
+    },
+    {
+      "rang": 109,
+      "unternehmen": "Zur Rose",
+      "sitz": "Steckborn",
+      "kanton": "TG",
+      "branche": "Grosshandel Chemie/Pharma",
+      "umsatz_mio_chf": 1752,
+      "umsatz_mio_eur": 1912
+    },
+    {
+      "rang": 110,
+      "unternehmen": "Swissport International",
+      "sitz": "Glattbrugg",
+      "kanton": "ZH",
+      "branche": "Dienstleistungen",
+      "umsatz_mio_chf": 1750,
+      "umsatz_mio_eur": 1910
+    },
+    {
+      "rang": 111,
+      "unternehmen": "Autoneum Holding",
+      "sitz": "Winterthur",
+      "kanton": "ZH",
+      "branche": "Automobilhandel/-import",
+      "umsatz_mio_chf": 1741,
+      "umsatz_mio_eur": 1900
+    },
+    {
+      "rang": 112,
+      "unternehmen": "Insel Gruppe",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 1725,
+      "umsatz_mio_eur": 1882
+    },
+    {
+      "rang": 113,
+      "unternehmen": "Repower",
+      "sitz": "Poschiavo",
+      "kanton": "GR",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 1723,
+      "umsatz_mio_eur": 1880
+    },
+    {
+      "rang": 114,
+      "unternehmen": "SFS Holding",
+      "sitz": "Heerbrugg",
+      "kanton": "SG",
+      "branche": "Metallverarbeitung",
+      "umsatz_mio_chf": 1705,
+      "umsatz_mio_eur": 1861
+    },
+    {
+      "rang": 115,
+      "unternehmen": "Digitec Galaxus",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Online Handel",
+      "umsatz_mio_chf": 1699,
+      "umsatz_mio_eur": 1854
+    },
+    {
+      "rang": 116,
+      "unternehmen": "Valora Holding",
+      "sitz": "Muttenz",
+      "kanton": "BL",
+      "branche": "Grosshandel (Non Food)",
+      "umsatz_mio_chf": 1697,
+      "umsatz_mio_eur": 1852
+    },
+    {
+      "rang": 117,
+      "unternehmen": "Sunrise Communications",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Telecom",
+      "umsatz_mio_chf": 1675,
+      "umsatz_mio_eur": 1828
+    },
+    {
+      "rang": 118,
+      "unternehmen": "Micarna",
+      "sitz": "Courtepin",
+      "kanton": "FR",
+      "branche": "Fleischverarbeitung",
+      "umsatz_mio_chf": 1650,
+      "umsatz_mio_eur": 1801
+    },
+    {
+      "rang": 119,
+      "unternehmen": "Omega",
+      "sitz": "Biel",
+      "kanton": "BE",
+      "branche": "Uhrenindustrie",
+      "umsatz_mio_chf": 1650,
+      "umsatz_mio_eur": 1801
+    },
+    {
+      "rang": 120,
+      "unternehmen": "Sicpa Holding",
+      "sitz": "Prilly",
+      "kanton": "VD",
+      "branche": "Mischkonzern",
+      "umsatz_mio_chf": 1600,
+      "umsatz_mio_eur": 1746
+    },
+    {
+      "rang": 121,
+      "unternehmen": "Gategroup Holding",
+      "sitz": "Kloten",
+      "kanton": "ZH",
+      "branche": "Gastronomie/Catering",
+      "umsatz_mio_chf": 1553,
+      "umsatz_mio_eur": 1695
+    },
+    {
+      "rang": 122,
+      "unternehmen": "Microsoft Schweiz",
+      "sitz": "Wallisellen",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 1550,
+      "umsatz_mio_eur": 1691
+    },
+    {
+      "rang": 123,
+      "unternehmen": "Capri Sun Group Holding",
+      "sitz": "Baar",
+      "kanton": "ZG",
+      "branche": "Getränke/Brauereien/Spirituosen",
+      "umsatz_mio_chf": 1500,
+      "umsatz_mio_eur": 1637
+    },
+    {
+      "rang": 124,
+      "unternehmen": "Manor",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Detailhandel",
+      "umsatz_mio_chf": 1500,
+      "umsatz_mio_eur": 1637
+    },
+    {
+      "rang": 125,
+      "unternehmen": "IBM Schweiz",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 1485,
+      "umsatz_mio_eur": 1620
+    },
+    {
+      "rang": 126,
+      "unternehmen": "Landi",
+      "sitz": "Dotzigen",
+      "kanton": "BE",
+      "branche": "Detailhandel",
+      "umsatz_mio_chf": 1470,
+      "umsatz_mio_eur": 1604
+    },
+    {
+      "rang": 127,
+      "unternehmen": "SRG SSR",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Dienstleistungen",
+      "umsatz_mio_chf": 1455,
+      "umsatz_mio_eur": 1588
+    },
+    {
+      "rang": 128,
+      "unternehmen": "Universitätsspital Zürich",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 1451,
+      "umsatz_mio_eur": 1583
+    },
+    {
+      "rang": 129,
+      "unternehmen": "HP Schweiz",
+      "sitz": "Wallisellen",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 1430,
+      "umsatz_mio_eur": 1560
+    },
+    {
+      "rang": 130,
+      "unternehmen": "Straumann Holding",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Medizinaltechnik",
+      "umsatz_mio_chf": 1426,
+      "umsatz_mio_eur": 1556
+    },
+    {
+      "rang": 131,
+      "unternehmen": "Securitas AG",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Dienstleistungen",
+      "umsatz_mio_chf": 1423,
+      "umsatz_mio_eur": 1553
+    },
+    {
+      "rang": 132,
+      "unternehmen": "Partners Group Holding",
+      "sitz": "Baar",
+      "kanton": "ZG",
+      "branche": "Immobilien/GU/Dienstleistungen",
+      "umsatz_mio_chf": 1412,
+      "umsatz_mio_eur": 1541
+    },
+    {
+      "rang": 133,
+      "unternehmen": "Merbag Holding",
+      "sitz": "Cham",
+      "kanton": "ZG",
+      "branche": "Automobilhandel/-import",
+      "umsatz_mio_chf": 1400,
+      "umsatz_mio_eur": 1528
+    },
+    {
+      "rang": 134,
+      "unternehmen": "Triumph International",
+      "sitz": "Bad Zurzach",
+      "kanton": "AG",
+      "branche": "Bekleidungsindustrie",
+      "umsatz_mio_chf": 1400,
+      "umsatz_mio_eur": 1528
+    },
+    {
+      "rang": 135,
+      "unternehmen": "AFG Arbonia-Forster-Holding",
+      "sitz": "Arbon",
+      "kanton": "TG",
+      "branche": "Bauzulieferer/Bauelemente",
+      "umsatz_mio_chf": 1396,
+      "umsatz_mio_eur": 1523
+    },
+    {
+      "rang": 136,
+      "unternehmen": "SIX Group",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Dienstleistungen",
+      "umsatz_mio_chf": 1376,
+      "umsatz_mio_eur": 1502
+    },
+    {
+      "rang": 137,
+      "unternehmen": "Bobst Group",
+      "sitz": "Mex",
+      "kanton": "VD",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 1372,
+      "umsatz_mio_eur": 1497
+    },
+    {
+      "rang": 138,
+      "unternehmen": "Hewlett-Packard Schweiz",
+      "sitz": "Wallisellen",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 1330,
+      "umsatz_mio_eur": 1451
+    },
+    {
+      "rang": 139,
+      "unternehmen": "Archroma Management",
+      "sitz": "Reinach",
+      "kanton": "BL",
+      "branche": "Farbstoffe/Spezialchemie",
+      "umsatz_mio_chf": 1313,
+      "umsatz_mio_eur": 1433
+    },
+    {
+      "rang": 140,
+      "unternehmen": "Zimmer GmbH",
+      "sitz": "Winterthur",
+      "kanton": "ZH",
+      "branche": "Medizinaltechnik",
+      "umsatz_mio_chf": 1305,
+      "umsatz_mio_eur": 1424
+    },
+    {
+      "rang": 141,
+      "unternehmen": "Stäubli",
+      "sitz": "Pfäffikon SZ",
+      "kanton": "SZ",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 1300,
+      "umsatz_mio_eur": 1419
+    },
+    {
+      "rang": 142,
+      "unternehmen": "swisspor Holding",
+      "sitz": "St. Niklausen",
+      "kanton": "LU",
+      "branche": "Bauzulieferer/Bauelemente",
+      "umsatz_mio_chf": 1300,
+      "umsatz_mio_eur": 1419
+    },
+    {
+      "rang": 143,
+      "unternehmen": "Conzzeta",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Mischkonzern",
+      "umsatz_mio_chf": 1284,
+      "umsatz_mio_eur": 1401
+    },
+    {
+      "rang": 144,
+      "unternehmen": "Landis+Gyr",
+      "sitz": "Zug",
+      "kanton": "ZG",
+      "branche": "Elektronik/Elektrotechnik",
+      "umsatz_mio_chf": 1273,
+      "umsatz_mio_eur": 1389
+    },
+    {
+      "rang": 145,
+      "unternehmen": "Patek Philippe",
+      "sitz": "Genf",
+      "kanton": "GE",
+      "branche": "Uhrenindustrie",
+      "umsatz_mio_chf": 1250,
+      "umsatz_mio_eur": 1364
+    },
+    {
+      "rang": 146,
+      "unternehmen": "HRS Holding",
+      "sitz": "Frauenfeld",
+      "kanton": "TG",
+      "branche": "Immobilien/GU/Dienstleistungen",
+      "umsatz_mio_chf": 1243,
+      "umsatz_mio_eur": 1356
+    },
+    {
+      "rang": 147,
+      "unternehmen": "Mobilezone Holding",
+      "sitz": "Regensdorf",
+      "kanton": "ZH",
+      "branche": "Telecom",
+      "umsatz_mio_chf": 1238,
+      "umsatz_mio_eur": 1351
+    },
+    {
+      "rang": 148,
+      "unternehmen": "Migrol",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Mineralölhandel",
+      "umsatz_mio_chf": 1235,
+      "umsatz_mio_eur": 1348
+    },
+    {
+      "rang": 149,
+      "unternehmen": "Montres Longines",
+      "sitz": "St-Imier",
+      "kanton": "BE",
+      "branche": "Uhrenindustrie",
+      "umsatz_mio_chf": 1200,
+      "umsatz_mio_eur": 1309
+    },
+    {
+      "rang": 150,
+      "unternehmen": "Ziegler Gruppe",
+      "sitz": "Pratteln",
+      "kanton": "BL",
+      "branche": "Logistik/Spedition",
+      "umsatz_mio_chf": 1200,
+      "umsatz_mio_eur": 1309
+    },
+    {
+      "rang": 151,
+      "unternehmen": "Universitätsspital Basel",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 1186,
+      "umsatz_mio_eur": 1294
+    },
+    {
+      "rang": 152,
+      "unternehmen": "Ruag Holding",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 1180,
+      "umsatz_mio_eur": 1288
+    },
+    {
+      "rang": 153,
+      "unternehmen": "Agrola",
+      "sitz": "Winterthur",
+      "kanton": "ZH",
+      "branche": "Mineralölhandel",
+      "umsatz_mio_chf": 1171,
+      "umsatz_mio_eur": 1278
+    },
+    {
+      "rang": 154,
+      "unternehmen": "Schweiter Technologies",
+      "sitz": "Steinhausen ZG",
+      "kanton": "ZG",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 1160,
+      "umsatz_mio_eur": 1266
+    },
+    {
+      "rang": 155,
+      "unternehmen": "Swiss Automotive Group",
+      "sitz": "Cham",
+      "kanton": "ZG",
+      "branche": "Grosshandel (Fahrzeugbranche)",
+      "umsatz_mio_chf": 1150,
+      "umsatz_mio_eur": 1255
+    },
+    {
+      "rang": 156,
+      "unternehmen": "IKEA",
+      "sitz": "Spreitenbach",
+      "kanton": "AG",
+      "branche": "Möbel/Inneneinrichtung",
+      "umsatz_mio_chf": 1146,
+      "umsatz_mio_eur": 1251
+    },
+    {
+      "rang": 157,
+      "unternehmen": "Forbo Holding",
+      "sitz": "Baar",
+      "kanton": "ZG",
+      "branche": "Teppiche/Bodenbeläge",
+      "umsatz_mio_chf": 1118,
+      "umsatz_mio_eur": 1220
+    },
+    {
+      "rang": 158,
+      "unternehmen": "Hero",
+      "sitz": "Lenzburg",
+      "kanton": "AG",
+      "branche": "Nahrungsmittel",
+      "umsatz_mio_chf": 1118,
+      "umsatz_mio_eur": 1220
+    },
+    {
+      "rang": 159,
+      "unternehmen": "Tamoil",
+      "sitz": "Collombey",
+      "kanton": "VS",
+      "branche": "Mineralölhandel",
+      "umsatz_mio_chf": 1116,
+      "umsatz_mio_eur": 1218
+    },
+    {
+      "rang": 160,
+      "unternehmen": "Pilatus Flugzeugwerke",
+      "sitz": "Stans",
+      "kanton": "NW",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 1116,
+      "umsatz_mio_eur": 1218
+    },
+    {
+      "rang": 161,
+      "unternehmen": "BLS",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Bahnen/Öffentlicher Verkehr",
+      "umsatz_mio_chf": 1113,
+      "umsatz_mio_eur": 1215
+    },
+    {
+      "rang": 162,
+      "unternehmen": "UPC Schweiz",
+      "sitz": "Wallisellen",
+      "kanton": "ZH",
+      "branche": "Telecom",
+      "umsatz_mio_chf": 1110,
+      "umsatz_mio_eur": 1211
+    },
+    {
+      "rang": 163,
+      "unternehmen": "Energiedienst Holding",
+      "sitz": "Laufenburg",
+      "kanton": "AG",
+      "branche": "Stromproduktion und Stromversorgung",
+      "umsatz_mio_chf": 1110,
+      "umsatz_mio_eur": 1211
+    },
+    {
+      "rang": 164,
+      "unternehmen": "Audemars Piguet",
+      "sitz": "Le Brassus",
+      "kanton": "VD",
+      "branche": "Uhrenindustrie",
+      "umsatz_mio_chf": 1100,
+      "umsatz_mio_eur": 1200
+    },
+    {
+      "rang": 165,
+      "unternehmen": "Interdiscount",
+      "sitz": "Jegenstorf",
+      "kanton": "ZH",
+      "branche": "Multimedia/Fachmärkte",
+      "umsatz_mio_chf": 1089,
+      "umsatz_mio_eur": 1188
+    },
+    {
+      "rang": 166,
+      "unternehmen": "Selecta",
+      "sitz": "Kirchberg",
+      "kanton": "BE",
+      "branche": "Gastronomie/Catering",
+      "umsatz_mio_chf": 1081,
+      "umsatz_mio_eur": 1180
+    },
+    {
+      "rang": 167,
+      "unternehmen": "Ronal Group",
+      "sitz": "Härkingen",
+      "kanton": "SO",
+      "branche": "Autozulieferer",
+      "umsatz_mio_chf": 1070,
+      "umsatz_mio_eur": 1168
+    },
+    {
+      "rang": 168,
+      "unternehmen": "Dätwyler Holding",
+      "sitz": "Altdorf",
+      "kanton": "UR",
+      "branche": "Mischkonzern",
+      "umsatz_mio_chf": 1069,
+      "umsatz_mio_eur": 1167
+    },
+    {
+      "rang": 169,
+      "unternehmen": "Chocolat Frey",
+      "sitz": "Buchs AG",
+      "kanton": "AG",
+      "branche": "Schokoladeindustrie",
+      "umsatz_mio_chf": 1050,
+      "umsatz_mio_eur": 1146
+    },
+    {
+      "rang": 170,
+      "unternehmen": "Hipp Holding",
+      "sitz": "Sachseln",
+      "kanton": "OW",
+      "branche": "Nahrungsmittel",
+      "umsatz_mio_chf": 1050,
+      "umsatz_mio_eur": 1146
+    },
+    {
+      "rang": 171,
+      "unternehmen": "Samsung Electric (Schweiz)",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 1050,
+      "umsatz_mio_eur": 1146
+    },
+    {
+      "rang": 172,
+      "unternehmen": "SR Technics Switzerland",
+      "sitz": "Kloten",
+      "kanton": "ZH",
+      "branche": "Dienstleistungen",
+      "umsatz_mio_chf": 1050,
+      "umsatz_mio_eur": 1146
+    },
+    {
+      "rang": 173,
+      "unternehmen": "SAP (Schweiz)",
+      "sitz": "Biel",
+      "kanton": "BE",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 1039,
+      "umsatz_mio_eur": 1134
+    },
+    {
+      "rang": 174,
+      "unternehmen": "Würth-Gruppe",
+      "sitz": "Chur",
+      "kanton": "GR",
+      "branche": "Befestigungstechnik",
+      "umsatz_mio_chf": 1034,
+      "umsatz_mio_eur": 1128
+    },
+    {
+      "rang": 175,
+      "unternehmen": "Elektrizitätswerk der Stadt Zürich",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 1031,
+      "umsatz_mio_eur": 1125
+    },
+    {
+      "rang": 176,
+      "unternehmen": "Accenture",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 1030,
+      "umsatz_mio_eur": 1124
+    },
+    {
+      "rang": 177,
+      "unternehmen": "Brack Alltron",
+      "sitz": "Mägenwil",
+      "kanton": "AG",
+      "branche": "Online Handel",
+      "umsatz_mio_chf": 1026,
+      "umsatz_mio_eur": 1120
+    },
+    {
+      "rang": 178,
+      "unternehmen": "Swiss Household Services",
+      "sitz": "Oberbüren",
+      "kanton": "SG",
+      "branche": "Multimedia/Fachmärkte",
+      "umsatz_mio_chf": 1019,
+      "umsatz_mio_eur": 1112
+    },
+    {
+      "rang": 179,
+      "unternehmen": "Salt Mobile",
+      "sitz": "Renens",
+      "kanton": "VD",
+      "branche": "Telecom",
+      "umsatz_mio_chf": 1011,
+      "umsatz_mio_eur": 1103
+    },
+    {
+      "rang": 180,
+      "unternehmen": "Spar Holding",
+      "sitz": "St. Gallen",
+      "kanton": "SG",
+      "branche": "Detailhandel",
+      "umsatz_mio_chf": 1004,
+      "umsatz_mio_eur": 1096
+    },
+    {
+      "rang": 181,
+      "unternehmen": "Bucherer",
+      "sitz": "Luzern",
+      "kanton": "LU",
+      "branche": "Detailhandel",
+      "umsatz_mio_chf": 1000,
+      "umsatz_mio_eur": 1091
+    },
+    {
+      "rang": 182,
+      "unternehmen": "Coca-Cola HBC Schweiz",
+      "sitz": "Brüttisellen",
+      "kanton": "ZH",
+      "branche": "Getränke/Brauereien/Spirituosen",
+      "umsatz_mio_chf": 1000,
+      "umsatz_mio_eur": 1091
+    },
+    {
+      "rang": 183,
+      "unternehmen": "Tech Data (Schweiz)",
+      "sitz": "Rotkreuz",
+      "kanton": "ZG",
+      "branche": "Grosshandel (Elektronik)",
+      "umsatz_mio_chf": 1000,
+      "umsatz_mio_eur": 1091
+    },
+    {
+      "rang": 184,
+      "unternehmen": "Cisco Systems (Switzerland) GmbH",
+      "sitz": "Wallisellen",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 990,
+      "umsatz_mio_eur": 1080
+    },
+    {
+      "rang": 185,
+      "unternehmen": "BT Switzerland",
+      "sitz": "Wallisellen",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 982,
+      "umsatz_mio_eur": 1072
+    },
+    {
+      "rang": 186,
+      "unternehmen": "Debrunner Koenig Holding",
+      "sitz": "St. Gallen",
+      "kanton": "SG",
+      "branche": "Metall-/Stahlhandel",
+      "umsatz_mio_chf": 981,
+      "umsatz_mio_eur": 1070
+    },
+    {
+      "rang": 187,
+      "unternehmen": "Ringier",
+      "sitz": "Zofingen",
+      "kanton": "AG",
+      "branche": "Graphisches Gewerbe/Verlage",
+      "umsatz_mio_chf": 954,
+      "umsatz_mio_eur": 1041
+    },
+    {
+      "rang": 188,
+      "unternehmen": "Tamedia",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Graphisches Gewerbe/Verlage",
+      "umsatz_mio_chf": 936,
+      "umsatz_mio_eur": 1021
+    },
+    {
+      "rang": 189,
+      "unternehmen": "Luzerner Kantonsspital",
+      "sitz": "Luzern",
+      "kanton": "LU",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 933,
+      "umsatz_mio_eur": 1018
+    },
+    {
+      "rang": 190,
+      "unternehmen": "CSC Switzerland GmbH",
+      "sitz": "Dübendorf",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 932,
+      "umsatz_mio_eur": 1017
+    },
+    {
+      "rang": 191,
+      "unternehmen": "Planzer Holding",
+      "sitz": "Dietikon",
+      "kanton": "ZH",
+      "branche": "Gütertransporte/Terminals",
+      "umsatz_mio_chf": 924,
+      "umsatz_mio_eur": 1008
+    },
+    {
+      "rang": 192,
+      "unternehmen": "Kantonsspital St. Gallen",
+      "sitz": "St. Gallen",
+      "kanton": "SG",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 908,
+      "umsatz_mio_eur": 991
+    },
+    {
+      "rang": 193,
+      "unternehmen": "PricewaterhouseCoopers",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Wirtschaftsprüfung",
+      "umsatz_mio_chf": 905,
+      "umsatz_mio_eur": 988
+    },
+    {
+      "rang": 194,
+      "unternehmen": "Services industriels de Genève",
+      "sitz": "Le Lignon",
+      "kanton": "GE",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 903,
+      "umsatz_mio_eur": 985
+    },
+    {
+      "rang": 195,
+      "unternehmen": "Bertschi",
+      "sitz": "Dürrenäsch",
+      "kanton": "AG",
+      "branche": "Gütertransporte/Terminals",
+      "umsatz_mio_chf": 900,
+      "umsatz_mio_eur": 982
+    },
+    {
+      "rang": 196,
+      "unternehmen": "Colosseum Dental Group",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 900,
+      "umsatz_mio_eur": 982
+    },
+    {
+      "rang": 197,
+      "unternehmen": "Feldschlösschen Getränke",
+      "sitz": "Rheinfelden",
+      "kanton": "AG",
+      "branche": "Getränke/Brauereien/Spirituosen",
+      "umsatz_mio_chf": 900,
+      "umsatz_mio_eur": 982
+    },
+    {
+      "rang": 198,
+      "unternehmen": "Fracht AG",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Logistik/Spedition",
+      "umsatz_mio_chf": 900,
+      "umsatz_mio_eur": 982
+    },
+    {
+      "rang": 199,
+      "unternehmen": "Jungbunzlauer Suisse",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Biologische Stoffe",
+      "umsatz_mio_chf": 900,
+      "umsatz_mio_eur": 982
+    },
+    {
+      "rang": 200,
+      "unternehmen": "MIR Trade",
+      "sitz": "Herisau",
+      "kanton": "AR",
+      "branche": "Grosshandel (Non Food)",
+      "umsatz_mio_chf": 896,
+      "umsatz_mio_eur": 978
+    },
+    {
+      "rang": 201,
+      "unternehmen": "EMC Computer Systems",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 891,
+      "umsatz_mio_eur": 972
+    },
+    {
+      "rang": 202,
+      "unternehmen": "SBB Cargo",
+      "sitz": "Olten",
+      "kanton": "SO",
+      "branche": "Gütertransporte/Terminals",
+      "umsatz_mio_chf": 889,
+      "umsatz_mio_eur": 970
+    },
+    {
+      "rang": 203,
+      "unternehmen": "Unilever Schweiz",
+      "sitz": "Thayngen",
+      "kanton": "SH",
+      "branche": "Nahrungsmittel",
+      "umsatz_mio_chf": 869,
+      "umsatz_mio_eur": 948
+    },
+    {
+      "rang": 204,
+      "unternehmen": "Azienda Elettrica Ticinese",
+      "sitz": "Monte Carasso",
+      "kanton": "TI",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 867,
+      "umsatz_mio_eur": 946
+    },
+    {
+      "rang": 205,
+      "unternehmen": "Model Holding",
+      "sitz": "Weinfelden",
+      "kanton": "TG",
+      "branche": "Papier-/Kartonindustrie",
+      "umsatz_mio_chf": 859,
+      "umsatz_mio_eur": 937
+    },
+    {
+      "rang": 206,
+      "unternehmen": "Tecan Group",
+      "sitz": "Männedorf",
+      "kanton": "ZH",
+      "branche": "Medizinaltechnik",
+      "umsatz_mio_chf": 855,
+      "umsatz_mio_eur": 933
+    },
+    {
+      "rang": 207,
+      "unternehmen": "Ammann Group Holding",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Grosshandel (Fahrzeugbranche)",
+      "umsatz_mio_chf": 850,
+      "umsatz_mio_eur": 928
+    },
+    {
+      "rang": 208,
+      "unternehmen": "Jowa",
+      "sitz": "Volketswil",
+      "kanton": "ZH",
+      "branche": "Nahrungsmittel",
+      "umsatz_mio_chf": 850,
+      "umsatz_mio_eur": 928
+    },
+    {
+      "rang": 209,
+      "unternehmen": "Siegfried Holding",
+      "sitz": "Zofingen",
+      "kanton": "AG",
+      "branche": "Chemie/Pharma",
+      "umsatz_mio_chf": 845,
+      "umsatz_mio_eur": 922
+    },
+    {
+      "rang": 210,
+      "unternehmen": "Otto’s",
+      "sitz": "Sursee",
+      "kanton": "LU",
+      "branche": "Detailhandel",
+      "umsatz_mio_chf": 842,
+      "umsatz_mio_eur": 919
+    },
+    {
+      "rang": 211,
+      "unternehmen": "Primeo Energie-Gruppe",
+      "sitz": "Münchenstein",
+      "kanton": "BL",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 834,
+      "umsatz_mio_eur": 910
+    },
+    {
+      "rang": 212,
+      "unternehmen": "Temenos Group",
+      "sitz": "Genf",
+      "kanton": "GE",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 832,
+      "umsatz_mio_eur": 908
+    },
+    {
+      "rang": 213,
+      "unternehmen": "Swisslog Holding",
+      "sitz": "Buchs",
+      "kanton": "AG",
+      "branche": "Förder- und Lagertechnik",
+      "umsatz_mio_chf": 832,
+      "umsatz_mio_eur": 908
+    },
+    {
+      "rang": 214,
+      "unternehmen": "Losinger Marazzi",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Immobilien/GU/Dienstleistungen",
+      "umsatz_mio_chf": 830,
+      "umsatz_mio_eur": 906
+    },
+    {
+      "rang": 215,
+      "unternehmen": "Metall Zug",
+      "sitz": "Zug",
+      "kanton": "ZG",
+      "branche": "Elektroapparate/Haushaltgeräte",
+      "umsatz_mio_chf": 826,
+      "umsatz_mio_eur": 901
+    },
+    {
+      "rang": 216,
+      "unternehmen": "Centralschweizerische Kraftwerke",
+      "sitz": "Luzern",
+      "kanton": "LU",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 820,
+      "umsatz_mio_eur": 895
+    },
+    {
+      "rang": 217,
+      "unternehmen": "Bossard Holding",
+      "sitz": "Zug",
+      "kanton": "ZG",
+      "branche": "Befestigungstechnik",
+      "umsatz_mio_chf": 813,
+      "umsatz_mio_eur": 887
+    },
+    {
+      "rang": 218,
+      "unternehmen": "Marti Holding",
+      "sitz": "Moosseedorf",
+      "kanton": "BE",
+      "branche": "Bauunternehmen",
+      "umsatz_mio_chf": 810,
+      "umsatz_mio_eur": 884
+    },
+    {
+      "rang": 219,
+      "unternehmen": "PostAuto Schweiz",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Bahnen/Öffentlicher Verkehr",
+      "umsatz_mio_chf": 809,
+      "umsatz_mio_eur": 883
+    },
+    {
+      "rang": 220,
+      "unternehmen": "Energy Financing Team",
+      "sitz": "St. Gallen",
+      "kanton": "SG",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 803,
+      "umsatz_mio_eur": 876
+    },
+    {
+      "rang": 221,
+      "unternehmen": "Frutiger Unternehmungen",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Bauunternehmen",
+      "umsatz_mio_chf": 802,
+      "umsatz_mio_eur": 875
+    },
+    {
+      "rang": 222,
+      "unternehmen": "Bystronic Laser",
+      "sitz": "Niederönz",
+      "kanton": "BE",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 801,
+      "umsatz_mio_eur": 874
+    },
+    {
+      "rang": 223,
+      "unternehmen": "Scott Corporation",
+      "sitz": "Givisiez",
+      "kanton": "FR",
+      "branche": "Sportartikel/-bekleidung",
+      "umsatz_mio_chf": 800,
+      "umsatz_mio_eur": 873
+    },
+    {
+      "rang": 224,
+      "unternehmen": "Tissot",
+      "sitz": "Le Locle",
+      "kanton": "NE",
+      "branche": "Uhrenindustrie",
+      "umsatz_mio_chf": 800,
+      "umsatz_mio_eur": 873
+    },
+    {
+      "rang": 225,
+      "unternehmen": "HG Commerciale",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Bauzulieferer/Bauelemente",
+      "umsatz_mio_chf": 800,
+      "umsatz_mio_eur": 873
+    },
+    {
+      "rang": 226,
+      "unternehmen": "Oracle Software (Schweiz)",
+      "sitz": "Dättwil",
+      "kanton": "AG",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 795,
+      "umsatz_mio_eur": 868
+    },
+    {
+      "rang": 227,
+      "unternehmen": "Swiss Prime Site",
+      "sitz": "Olten",
+      "kanton": "SO",
+      "branche": "Immobilien/GU/Dienstleistungen",
+      "umsatz_mio_chf": 793,
+      "umsatz_mio_eur": 865
+    },
+    {
+      "rang": 228,
+      "unternehmen": "Industrielle Werke Basel",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 772,
+      "umsatz_mio_eur": 842
+    },
+    {
+      "rang": 229,
+      "unternehmen": "Spital Wallis",
+      "sitz": "Sion",
+      "kanton": "VS",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 761,
+      "umsatz_mio_eur": 830
+    },
+    {
+      "rang": 230,
+      "unternehmen": "M + R Spedag Group",
+      "sitz": "Muttenz",
+      "kanton": "BL",
+      "branche": "Logistik/Spedition",
+      "umsatz_mio_chf": 760,
+      "umsatz_mio_eur": 829
+    },
+    {
+      "rang": 231,
+      "unternehmen": "ISS Schweiz",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Facility Management",
+      "umsatz_mio_chf": 759,
+      "umsatz_mio_eur": 828
+    },
+    {
+      "rang": 232,
+      "unternehmen": "Groupe E",
+      "sitz": "Granges-Paccot",
+      "kanton": "FR",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 738,
+      "umsatz_mio_eur": 805
+    },
+    {
+      "rang": 233,
+      "unternehmen": "Huber+Suhner",
+      "sitz": "Herisau",
+      "kanton": "AR",
+      "branche": "Elektronik/Elektrotechnik",
+      "umsatz_mio_chf": 738,
+      "umsatz_mio_eur": 805
+    },
+    {
+      "rang": 234,
+      "unternehmen": "Phoenix Mecano",
+      "sitz": "Stein am Rhein",
+      "kanton": "SH",
+      "branche": "Elektronik/Elektrotechnik",
+      "umsatz_mio_chf": 736,
+      "umsatz_mio_eur": 803
+    },
+    {
+      "rang": 235,
+      "unternehmen": "Aevis Holding",
+      "sitz": "Freiburg",
+      "kanton": "FR",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 733,
+      "umsatz_mio_eur": 800
+    },
+    {
+      "rang": 236,
+      "unternehmen": "Hotelplan Group",
+      "sitz": "Glattbrugg",
+      "kanton": "ZH",
+      "branche": "Reiseunternehmen/Tourismus",
+      "umsatz_mio_chf": 732,
+      "umsatz_mio_eur": 799
+    },
+    {
+      "rang": 237,
+      "unternehmen": "Ente Ospedaliero Cantonale (EOC)",
+      "sitz": "Bellinzona",
+      "kanton": "TI",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 725,
+      "umsatz_mio_eur": 791
+    },
+    {
+      "rang": 238,
+      "unternehmen": "Kantonsspital Aarau",
+      "sitz": "Aarau",
+      "kanton": "AG",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 722,
+      "umsatz_mio_eur": 788
+    },
+    {
+      "rang": 239,
+      "unternehmen": "Migrolino",
+      "sitz": "Suhr",
+      "kanton": "AG",
+      "branche": "Detailhandel",
+      "umsatz_mio_chf": 716,
+      "umsatz_mio_eur": 781
+    },
+    {
+      "rang": 240,
+      "unternehmen": "Walo Bertschinger",
+      "sitz": "Dietikon",
+      "kanton": "ZH",
+      "branche": "Bauunternehmen",
+      "umsatz_mio_chf": 701,
+      "umsatz_mio_eur": 765
+    },
+    {
+      "rang": 241,
+      "unternehmen": "Elektrizitätswerke des Kantons Zürich",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 701,
+      "umsatz_mio_eur": 765
+    },
+    {
+      "rang": 242,
+      "unternehmen": "Habasit",
+      "sitz": "Reinach",
+      "kanton": "BL",
+      "branche": "Förder- und Lagertechnik",
+      "umsatz_mio_chf": 700,
+      "umsatz_mio_eur": 764
+    },
+    {
+      "rang": 243,
+      "unternehmen": "IBSA Institut Biochimique",
+      "sitz": "Massagno",
+      "kanton": "TI",
+      "branche": "Chemie/Pharma",
+      "umsatz_mio_chf": 700,
+      "umsatz_mio_eur": 764
+    },
+    {
+      "rang": 244,
+      "unternehmen": "Ospelt Food",
+      "sitz": "Sargans",
+      "kanton": "SG",
+      "branche": "Fleischverarbeitung",
+      "umsatz_mio_chf": 700,
+      "umsatz_mio_eur": 764
+    },
+    {
+      "rang": 245,
+      "unternehmen": "Kudelski",
+      "sitz": "Cheseaux-sur-Lausanne",
+      "kanton": "VD",
+      "branche": "Unterhaltungselektronik",
+      "umsatz_mio_chf": 696,
+      "umsatz_mio_eur": 759
+    },
+    {
+      "rang": 246,
+      "unternehmen": "EDAG Engineering Group",
+      "sitz": "Arbon",
+      "kanton": "TG",
+      "branche": "Ingenieurunternehmen",
+      "umsatz_mio_chf": 696,
+      "umsatz_mio_eur": 759
+    },
+    {
+      "rang": 247,
+      "unternehmen": "Bettermann",
+      "sitz": "Wolfenschiessen",
+      "kanton": "NW",
+      "branche": "Elektronik/Elektrotechnik",
+      "umsatz_mio_chf": 695,
+      "umsatz_mio_eur": 758
+    },
+    {
+      "rang": 248,
+      "unternehmen": "Rational International",
+      "sitz": "Heerbrugg",
+      "kanton": "SG",
+      "branche": "Elektroapparate/Haushaltgeräte",
+      "umsatz_mio_chf": 695,
+      "umsatz_mio_eur": 758
+    },
+    {
+      "rang": 249,
+      "unternehmen": "Coop Bau+Hobby",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Detailhandel",
+      "umsatz_mio_chf": 694,
+      "umsatz_mio_eur": 757
+    },
+    {
+      "rang": 250,
+      "unternehmen": "Media Markt Schweiz",
+      "sitz": "Dietikon",
+      "kanton": "ZH",
+      "branche": "Detailhandel",
+      "umsatz_mio_chf": 694,
+      "umsatz_mio_eur": 757
+    },
+    {
+      "rang": 251,
+      "unternehmen": "Vinci Energies Schweiz",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Haustechnik/Gebäudeautomation",
+      "umsatz_mio_chf": 693,
+      "umsatz_mio_eur": 756
+    },
+    {
+      "rang": 252,
+      "unternehmen": "VAT Group",
+      "sitz": "Haag",
+      "kanton": "SG",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 692,
+      "umsatz_mio_eur": 755
+    },
+    {
+      "rang": 253,
+      "unternehmen": "Infinigate Holding",
+      "sitz": "Risch-Rotkreuz",
+      "kanton": "ZG",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 689,
+      "umsatz_mio_eur": 752
+    },
+    {
+      "rang": 254,
+      "unternehmen": "Galliker Transport",
+      "sitz": "Altishofen",
+      "kanton": "LU",
+      "branche": "Gütertransporte/Terminals",
+      "umsatz_mio_chf": 680,
+      "umsatz_mio_eur": 742
+    },
+    {
+      "rang": 255,
+      "unternehmen": "Egon Zehnder International",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Unternehmensberatung",
+      "umsatz_mio_chf": 678,
+      "umsatz_mio_eur": 740
+    },
+    {
+      "rang": 256,
+      "unternehmen": "Robert Bosch Schweiz",
+      "sitz": "Zuchwil",
+      "kanton": "SO",
+      "branche": "Grosshandel (Elektronik)",
+      "umsatz_mio_chf": 678,
+      "umsatz_mio_eur": 740
+    },
+    {
+      "rang": 257,
+      "unternehmen": "Vetropack Holding",
+      "sitz": "St-Prex",
+      "kanton": "VD",
+      "branche": "Verpackung",
+      "umsatz_mio_chf": 663,
+      "umsatz_mio_eur": 723
+    },
+    {
+      "rang": 258,
+      "unternehmen": "Belimo Holding",
+      "sitz": "Hinwil",
+      "kanton": "ZH",
+      "branche": "Haustechnik/Gebäudeautomation",
+      "umsatz_mio_chf": 661,
+      "umsatz_mio_eur": 721
+    },
+    {
+      "rang": 259,
+      "unternehmen": "Zehnder Group",
+      "sitz": "Gränichen",
+      "kanton": "AG",
+      "branche": "Haustechnik/Gebäudeautomation",
+      "umsatz_mio_chf": 661,
+      "umsatz_mio_eur": 721
+    },
+    {
+      "rang": 260,
+      "unternehmen": "Keytrade",
+      "sitz": "Thalwil",
+      "kanton": "ZH",
+      "branche": "Welt-/Rohstoffhandel",
+      "umsatz_mio_chf": 660,
+      "umsatz_mio_eur": 720
+    },
+    {
+      "rang": 261,
+      "unternehmen": "Burckhardt Compression",
+      "sitz": "Winterthur",
+      "kanton": "ZH",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 659,
+      "umsatz_mio_eur": 719
+    },
+    {
+      "rang": 262,
+      "unternehmen": "Montana Aerospace",
+      "sitz": "Reinach",
+      "kanton": "AG",
+      "branche": "Flugzeugteile",
+      "umsatz_mio_chf": 657,
+      "umsatz_mio_eur": 717
+    },
+    {
+      "rang": 263,
+      "unternehmen": "Hamilton Bonaduz",
+      "sitz": "Bonaduz",
+      "kanton": "GR",
+      "branche": "Medizinaltechnik",
+      "umsatz_mio_chf": 650,
+      "umsatz_mio_eur": 709
+    },
+    {
+      "rang": 264,
+      "unternehmen": "Nobel Biocare Services",
+      "sitz": "Kloten",
+      "kanton": "ZH",
+      "branche": "Medizinaltechnik",
+      "umsatz_mio_chf": 650,
+      "umsatz_mio_eur": 709
+    },
+    {
+      "rang": 265,
+      "unternehmen": "Sabag Holding",
+      "sitz": "Biel",
+      "kanton": "BE",
+      "branche": "Bauzulieferer/Bauelemente",
+      "umsatz_mio_chf": 650,
+      "umsatz_mio_eur": 709
+    },
+    {
+      "rang": 266,
+      "unternehmen": "Spaeter",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Metall-/Stahlhandel",
+      "umsatz_mio_chf": 650,
+      "umsatz_mio_eur": 709
+    },
+    {
+      "rang": 267,
+      "unternehmen": "Renault Suisse",
+      "sitz": "Urdorf",
+      "kanton": "ZH",
+      "branche": "Automobilhandel/-import",
+      "umsatz_mio_chf": 645,
+      "umsatz_mio_eur": 704
+    },
+    {
+      "rang": 268,
+      "unternehmen": "Ivoclar Vivadent",
+      "sitz": "Schaan",
+      "kanton": "",
+      "branche": "Medizinaltechnik",
+      "umsatz_mio_chf": 640,
+      "umsatz_mio_eur": 698
+    },
+    {
+      "rang": 269,
+      "unternehmen": "Magazine zum Globus",
+      "sitz": "Spreitenbach",
+      "kanton": "AG",
+      "branche": "Detailhandel",
+      "umsatz_mio_chf": 640,
+      "umsatz_mio_eur": 698
+    },
+    {
+      "rang": 270,
+      "unternehmen": "A.H. Meyer & Cie",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Mineralölhandel",
+      "umsatz_mio_chf": 633,
+      "umsatz_mio_eur": 691
+    },
+    {
+      "rang": 271,
+      "unternehmen": "Flughafen Zürich",
+      "sitz": "Kloten",
+      "kanton": "ZH",
+      "branche": "Luftverkehr",
+      "umsatz_mio_chf": 624,
+      "umsatz_mio_eur": 681
+    },
+    {
+      "rang": 272,
+      "unternehmen": "Eugster/Frismag",
+      "sitz": "Amriswil",
+      "kanton": "TG",
+      "branche": "Elektroapparate/Haushaltgeräte",
+      "umsatz_mio_chf": 620,
+      "umsatz_mio_eur": 677
+    },
+    {
+      "rang": 273,
+      "unternehmen": "Avaloq Evolution",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 610,
+      "umsatz_mio_eur": 666
+    },
+    {
+      "rang": 274,
+      "unternehmen": "Medela Holding",
+      "sitz": "Baar",
+      "kanton": "ZG",
+      "branche": "Medizinaltechnik",
+      "umsatz_mio_chf": 610,
+      "umsatz_mio_eur": 666
+    },
+    {
+      "rang": 275,
+      "unternehmen": "Estavayer Lait",
+      "sitz": "Estavayer-le-Lac",
+      "kanton": "FR",
+      "branche": "Nahrungsmittel",
+      "umsatz_mio_chf": 605,
+      "umsatz_mio_eur": 660
+    },
+    {
+      "rang": 276,
+      "unternehmen": "Orior",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Fleischverarbeitung",
+      "umsatz_mio_chf": 600,
+      "umsatz_mio_eur": 655
+    },
+    {
+      "rang": 277,
+      "unternehmen": "Halter AG",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Bauunternehmen",
+      "umsatz_mio_chf": 600,
+      "umsatz_mio_eur": 655
+    },
+    {
+      "rang": 278,
+      "unternehmen": "International Watch Company",
+      "sitz": "Schaffhausen",
+      "kanton": "SH",
+      "branche": "Uhrenindustrie",
+      "umsatz_mio_chf": 600,
+      "umsatz_mio_eur": 655
+    },
+    {
+      "rang": 279,
+      "unternehmen": "Jumbo-Markt",
+      "sitz": "Dietlikon",
+      "kanton": "ZH",
+      "branche": "Detailhandel",
+      "umsatz_mio_chf": 600,
+      "umsatz_mio_eur": 655
+    },
+    {
+      "rang": 280,
+      "unternehmen": "Hupac",
+      "sitz": "Chiasso",
+      "kanton": "TI",
+      "branche": "Gütertransporte/Terminals",
+      "umsatz_mio_chf": 597,
+      "umsatz_mio_eur": 651
+    },
+    {
+      "rang": 281,
+      "unternehmen": "Swissgrid",
+      "sitz": "Laufenburg",
+      "kanton": "AG",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 588,
+      "umsatz_mio_eur": 642
+    },
+    {
+      "rang": 282,
+      "unternehmen": "Energie 360°",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 582,
+      "umsatz_mio_eur": 635
+    },
+    {
+      "rang": 283,
+      "unternehmen": "Schneider Electric (Schweiz)",
+      "sitz": "Ittigen",
+      "kanton": "BE",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 580,
+      "umsatz_mio_eur": 633
+    },
+    {
+      "rang": 284,
+      "unternehmen": "TAG Heuer",
+      "sitz": "La Chaux-de-Fonds",
+      "kanton": "NE",
+      "branche": "Uhrenindustrie",
+      "umsatz_mio_chf": 580,
+      "umsatz_mio_eur": 633
+    },
+    {
+      "rang": 285,
+      "unternehmen": "Jura Elektroapparate",
+      "sitz": "Niederbuchsiten",
+      "kanton": "SO",
+      "branche": "Elektroapparate/Haushaltgeräte",
+      "umsatz_mio_chf": 580,
+      "umsatz_mio_eur": 633
+    },
+    {
+      "rang": 286,
+      "unternehmen": "Solothurner Spitäler",
+      "sitz": "Solothurn",
+      "kanton": "SO",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 579,
+      "umsatz_mio_eur": 632
+    },
+    {
+      "rang": 287,
+      "unternehmen": "Gurit Holding",
+      "sitz": "Wattwil",
+      "kanton": "SG",
+      "branche": "Mischkonzern",
+      "umsatz_mio_chf": 579,
+      "umsatz_mio_eur": 632
+    },
+    {
+      "rang": 288,
+      "unternehmen": "Rieter Holding",
+      "sitz": "Winterthur",
+      "kanton": "ZH",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 573,
+      "umsatz_mio_eur": 625
+    },
+    {
+      "rang": 289,
+      "unternehmen": "V-Zug",
+      "sitz": "Zug",
+      "kanton": "ZG",
+      "branche": "Elektroapparate/haushaltgeräte",
+      "umsatz_mio_chf": 569,
+      "umsatz_mio_eur": 621
+    },
+    {
+      "rang": 290,
+      "unternehmen": "Romande Energie",
+      "sitz": "Morges",
+      "kanton": "VD",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 569,
+      "umsatz_mio_eur": 621
+    },
+    {
+      "rang": 291,
+      "unternehmen": "Kantonsspital Thurgau",
+      "sitz": "Frauenfeld",
+      "kanton": "TG",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 566,
+      "umsatz_mio_eur": 618
+    },
+    {
+      "rang": 292,
+      "unternehmen": "Allreal Holding",
+      "sitz": "Baar",
+      "kanton": "ZG",
+      "branche": "Immobilien/GU/Dienstleistungen",
+      "umsatz_mio_chf": 564,
+      "umsatz_mio_eur": 615
+    },
+    {
+      "rang": 293,
+      "unternehmen": "Sanitas Troesch",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Bauzulieferer/Bauelemente",
+      "umsatz_mio_chf": 559,
+      "umsatz_mio_eur": 610
+    },
+    {
+      "rang": 294,
+      "unternehmen": "Maxon Motor",
+      "sitz": "Sachseln",
+      "kanton": "OW",
+      "branche": "Elektronik/Elektrotechnik",
+      "umsatz_mio_chf": 554,
+      "umsatz_mio_eur": 605
+    },
+    {
+      "rang": 295,
+      "unternehmen": "Pfister Arco Holding",
+      "sitz": "Suhr",
+      "kanton": "AG",
+      "branche": "Möbel/Inneneinrichtung",
+      "umsatz_mio_chf": 550,
+      "umsatz_mio_eur": 600
+    },
+    {
+      "rang": 296,
+      "unternehmen": "Gaznat",
+      "sitz": "Vevey",
+      "kanton": "VD",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 545,
+      "umsatz_mio_eur": 595
+    },
+    {
+      "rang": 297,
+      "unternehmen": "Ernst & Young",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Wirtschaftsprüfung",
+      "umsatz_mio_chf": 540,
+      "umsatz_mio_eur": 589
+    },
+    {
+      "rang": 298,
+      "unternehmen": "Cargo24",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Gütertransporte/Terminals",
+      "umsatz_mio_chf": 539,
+      "umsatz_mio_eur": 588
+    },
+    {
+      "rang": 299,
+      "unternehmen": "Kantonsspital Winterthur",
+      "sitz": "Winterthur",
+      "kanton": "ZH",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 535,
+      "umsatz_mio_eur": 584
+    },
+    {
+      "rang": 300,
+      "unternehmen": "Sauter Building Control",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Haustechnik/Gebäudeautomation",
+      "umsatz_mio_chf": 535,
+      "umsatz_mio_eur": 584
+    },
+    {
+      "rang": 301,
+      "unternehmen": "Pistor Holding",
+      "sitz": "Rothenburg",
+      "kanton": "LU",
+      "branche": "Grosshandel (Food)",
+      "umsatz_mio_chf": 535,
+      "umsatz_mio_eur": 584
+    },
+    {
+      "rang": 302,
+      "unternehmen": "Elektro-Material AG",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Grosshandel (Elektronik)",
+      "umsatz_mio_chf": 533,
+      "umsatz_mio_eur": 582
+    },
+    {
+      "rang": 303,
+      "unternehmen": "Tertianum Management",
+      "sitz": "Dübendorf",
+      "kanton": "ZH",
+      "branche": "Dienstleistungen",
+      "umsatz_mio_chf": 533,
+      "umsatz_mio_eur": 582
+    },
+    {
+      "rang": 304,
+      "unternehmen": "LV-St.Gallen",
+      "sitz": "St. Gallen",
+      "kanton": "SG",
+      "branche": "Grosshandel (Food)",
+      "umsatz_mio_chf": 531,
+      "umsatz_mio_eur": 579
+    },
+    {
+      "rang": 305,
+      "unternehmen": "Interroll Holding",
+      "sitz": "S. Antonino",
+      "kanton": "TI",
+      "branche": "Förder- und Lagertechnik",
+      "umsatz_mio_chf": 531,
+      "umsatz_mio_eur": 579
+    },
+    {
+      "rang": 306,
+      "unternehmen": "Anicom",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Grosshandel (Non Food)",
+      "umsatz_mio_chf": 530,
+      "umsatz_mio_eur": 578
+    },
+    {
+      "rang": 307,
+      "unternehmen": "Engie Services",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Facility Management",
+      "umsatz_mio_chf": 520,
+      "umsatz_mio_eur": 567
+    },
+    {
+      "rang": 308,
+      "unternehmen": "Mibelle",
+      "sitz": "Buchs AG",
+      "kanton": "AG",
+      "branche": "Kosmetik/Körperpflege",
+      "umsatz_mio_chf": 520,
+      "umsatz_mio_eur": 567
+    },
+    {
+      "rang": 309,
+      "unternehmen": "Kantonsspital Freiburg",
+      "sitz": "Freiburg",
+      "kanton": "FR",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 518,
+      "umsatz_mio_eur": 565
+    },
+    {
+      "rang": 310,
+      "unternehmen": "Kabelwerke Brugg",
+      "sitz": "Brugg AG",
+      "kanton": "AG",
+      "branche": "Draht/Kabel/Gummi/Maschinen",
+      "umsatz_mio_chf": 515,
+      "umsatz_mio_eur": 562
+    },
+    {
+      "rang": 311,
+      "unternehmen": "Huawei Technologies Switzerland",
+      "sitz": "Liebefeld",
+      "kanton": "BE",
+      "branche": "Telecom",
+      "umsatz_mio_chf": 512,
+      "umsatz_mio_eur": 559
+    },
+    {
+      "rang": 312,
+      "unternehmen": "Verkehrsbetriebe Zürich",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Bahnen/Öffentlicher Verkehr",
+      "umsatz_mio_chf": 508,
+      "umsatz_mio_eur": 554
+    },
+    {
+      "rang": 313,
+      "unternehmen": "Deloitte",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Unternehmensberatung",
+      "umsatz_mio_chf": 506,
+      "umsatz_mio_eur": 552
+    },
+    {
+      "rang": 314,
+      "unternehmen": "Randstad (Schweiz)",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Personalvermittlung",
+      "umsatz_mio_chf": 505,
+      "umsatz_mio_eur": 551
+    },
+    {
+      "rang": 315,
+      "unternehmen": "Hublot",
+      "sitz": "Genf",
+      "kanton": "GE",
+      "branche": "Uhrenindustrie",
+      "umsatz_mio_chf": 500,
+      "umsatz_mio_eur": 546
+    },
+    {
+      "rang": 316,
+      "unternehmen": "Müller Martini",
+      "sitz": "Zofingen",
+      "kanton": "AG",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 500,
+      "umsatz_mio_eur": 546
+    },
+    {
+      "rang": 317,
+      "unternehmen": "SV Group",
+      "sitz": "Dübendorf",
+      "kanton": "ZH",
+      "branche": "Gastronomie/Catering",
+      "umsatz_mio_chf": 500,
+      "umsatz_mio_eur": 546
+    },
+    {
+      "rang": 318,
+      "unternehmen": "Burkhalter Holding",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Gebäudetechnik",
+      "umsatz_mio_chf": 1127,
+      "umsatz_mio_eur": 1424
+    },
+    {
+      "rang": 319,
+      "unternehmen": "Feintool International",
+      "sitz": "Lyss",
+      "kanton": "BE",
+      "branche": "Metallverarbeitung",
+      "umsatz_mio_chf": 492,
+      "umsatz_mio_eur": 537
+    },
+    {
+      "rang": 320,
+      "unternehmen": "McDonalds Suisse",
+      "sitz": "Crissier",
+      "kanton": "VD",
+      "branche": "Gastronomie/Catering",
+      "umsatz_mio_chf": 490,
+      "umsatz_mio_eur": 535
+    },
+    {
+      "rang": 321,
+      "unternehmen": "Meier Tobler",
+      "sitz": "Nebikon",
+      "kanton": "LU",
+      "branche": "Haustechnik/Gebäudeautomation",
+      "umsatz_mio_chf": 487,
+      "umsatz_mio_eur": 531
+    },
+    {
+      "rang": 322,
+      "unternehmen": "Rhomberg Sersa Rail",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Bahntechnik/Geleisebau",
+      "umsatz_mio_chf": 480,
+      "umsatz_mio_eur": 524
+    },
+    {
+      "rang": 323,
+      "unternehmen": "Breitling",
+      "sitz": "Grenchen",
+      "kanton": "SO",
+      "branche": "Uhrenindustrie",
+      "umsatz_mio_chf": 480,
+      "umsatz_mio_eur": 524
+    },
+    {
+      "rang": 324,
+      "unternehmen": "Metrohm",
+      "sitz": "Herisau",
+      "kanton": "AR",
+      "branche": "Mischkonzern",
+      "umsatz_mio_chf": 480,
+      "umsatz_mio_eur": 524
+    },
+    {
+      "rang": 325,
+      "unternehmen": "Conforama Suisse",
+      "sitz": "Ecublens",
+      "kanton": "VD",
+      "branche": "Möbel/Inneneinrichtung",
+      "umsatz_mio_chf": 477,
+      "umsatz_mio_eur": 521
+    },
+    {
+      "rang": 326,
+      "unternehmen": "Kestenholz-Gruppe",
+      "sitz": "Pratteln",
+      "kanton": "BL",
+      "branche": "Automobilhandel/-import",
+      "umsatz_mio_chf": 476,
+      "umsatz_mio_eur": 519
+    },
+    {
+      "rang": 327,
+      "unternehmen": "Cremo",
+      "sitz": "Villars-sur-Glâne",
+      "kanton": "FR",
+      "branche": "Nahrungsmittel",
+      "umsatz_mio_chf": 475,
+      "umsatz_mio_eur": 518
+    },
+    {
+      "rang": 328,
+      "unternehmen": "Aebi Schmidt Holding",
+      "sitz": "Frauenfeld",
+      "kanton": "TG",
+      "branche": "Fahrzeug-/Karosseriebau",
+      "umsatz_mio_chf": 466,
+      "umsatz_mio_eur": 509
+    },
+    {
+      "rang": 329,
+      "unternehmen": "Energie Wasser Bern",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 466,
+      "umsatz_mio_eur": 509
+    },
+    {
+      "rang": 330,
+      "unternehmen": "Intel Semiconductor",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 456,
+      "umsatz_mio_eur": 498
+    },
+    {
+      "rang": 331,
+      "unternehmen": "Weleda",
+      "sitz": "Arlesheim",
+      "kanton": "BL",
+      "branche": "Chemie/Pharma",
+      "umsatz_mio_chf": 454,
+      "umsatz_mio_eur": 495
+    },
+    {
+      "rang": 332,
+      "unternehmen": "Orange Business Service",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 452,
+      "umsatz_mio_eur": 493
+    },
+    {
+      "rang": 333,
+      "unternehmen": "Symantec Switzerland",
+      "sitz": "Glattbrugg",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 452,
+      "umsatz_mio_eur": 493
+    },
+    {
+      "rang": 334,
+      "unternehmen": "L.U. Chopard & Cie",
+      "sitz": "Meyrin",
+      "kanton": "GE",
+      "branche": "Uhrenindustrie",
+      "umsatz_mio_chf": 450,
+      "umsatz_mio_eur": 491
+    },
+    {
+      "rang": 335,
+      "unternehmen": "Haco",
+      "sitz": "Muri bei Bern",
+      "kanton": "BE",
+      "branche": "Nahrungsmittel",
+      "umsatz_mio_chf": 450,
+      "umsatz_mio_eur": 491
+    },
+    {
+      "rang": 336,
+      "unternehmen": "CPH Chemie + Papier",
+      "sitz": "Perlen",
+      "kanton": "LU",
+      "branche": "Papier-/Kartonindustrie",
+      "umsatz_mio_chf": 445,
+      "umsatz_mio_eur": 486
+    },
+    {
+      "rang": 337,
+      "unternehmen": "KPMG",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Wirtschaftsprüfung",
+      "umsatz_mio_chf": 443,
+      "umsatz_mio_eur": 483
+    },
+    {
+      "rang": 338,
+      "unternehmen": "Acino Holding",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Chemie/Pharma",
+      "umsatz_mio_chf": 440,
+      "umsatz_mio_eur": 480
+    },
+    {
+      "rang": 339,
+      "unternehmen": "Ochsner Sport",
+      "sitz": "Dietikon",
+      "kanton": "ZH",
+      "branche": "Schuhproduktion/-handel",
+      "umsatz_mio_chf": 440,
+      "umsatz_mio_eur": 480
+    },
+    {
+      "rang": 340,
+      "unternehmen": "H&M Hennes & Mauritz",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Detailhandel (Bekleidung)",
+      "umsatz_mio_chf": 440,
+      "umsatz_mio_eur": 480
+    },
+    {
+      "rang": 341,
+      "unternehmen": "Transports publics genevois",
+      "sitz": "Lancy",
+      "kanton": "GE",
+      "branche": "Bahnen/Öffentlicher Verkehr",
+      "umsatz_mio_chf": 434,
+      "umsatz_mio_eur": 474
+    },
+    {
+      "rang": 342,
+      "unternehmen": "Kantonsspital Baselland",
+      "sitz": "Liestal",
+      "kanton": "BL",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 434,
+      "umsatz_mio_eur": 474
+    },
+    {
+      "rang": 343,
+      "unternehmen": "Behr Bircher Cellpack BBC",
+      "sitz": "Villmergen",
+      "kanton": "AG",
+      "branche": "Mischkonzern",
+      "umsatz_mio_chf": 430,
+      "umsatz_mio_eur": 469
+    },
+    {
+      "rang": 344,
+      "unternehmen": "Hans Oetiker Holding",
+      "sitz": "Horgen",
+      "kanton": "ZH",
+      "branche": "Automobilhandel/-import",
+      "umsatz_mio_chf": 430,
+      "umsatz_mio_eur": 469
+    },
+    {
+      "rang": 345,
+      "unternehmen": "Jaeger-LeCoultre",
+      "sitz": "Le Sentier",
+      "kanton": "VD",
+      "branche": "Uhrenindustrie",
+      "umsatz_mio_chf": 430,
+      "umsatz_mio_eur": 469
+    },
+    {
+      "rang": 346,
+      "unternehmen": "GVFI International",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Grosshandel (Food)",
+      "umsatz_mio_chf": 425,
+      "umsatz_mio_eur": 464
+    },
+    {
+      "rang": 347,
+      "unternehmen": "Ingram Micro",
+      "sitz": "Cham",
+      "kanton": "ZG",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 425,
+      "umsatz_mio_eur": 464
+    },
+    {
+      "rang": 348,
+      "unternehmen": "Kernkraftwerk Leibstadt",
+      "sitz": "Leibstadt",
+      "kanton": "AG",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 424,
+      "umsatz_mio_eur": 463
+    },
+    {
+      "rang": 349,
+      "unternehmen": "World Steel Trade",
+      "sitz": "Genève",
+      "kanton": "GE",
+      "branche": "Metall-/Stahlhandel",
+      "umsatz_mio_chf": 424,
+      "umsatz_mio_eur": 463
+    },
+    {
+      "rang": 350,
+      "unternehmen": "Oettinger Davidoff",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Tabakindustrie/-handel",
+      "umsatz_mio_chf": 423,
+      "umsatz_mio_eur": 462
+    },
+    {
+      "rang": 351,
+      "unternehmen": "Gasverbund Mittelland",
+      "sitz": "Arlesheim",
+      "kanton": "BL",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 423,
+      "umsatz_mio_eur": 462
+    },
+    {
+      "rang": 352,
+      "unternehmen": "Bechtle Holding Schweiz",
+      "sitz": "Rotkreuz",
+      "kanton": "ZG",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 422,
+      "umsatz_mio_eur": 460
+    },
+    {
+      "rang": 353,
+      "unternehmen": "Hoval Gruppe",
+      "sitz": "Vaduz",
+      "kanton": "",
+      "branche": "Haustechnik/Gebäudeautomation",
+      "umsatz_mio_chf": 421,
+      "umsatz_mio_eur": 459
+    },
+    {
+      "rang": 354,
+      "unternehmen": "Bulgari Horlogerie",
+      "sitz": "Neuenburg",
+      "kanton": "NE",
+      "branche": "Uhrenindustrie",
+      "umsatz_mio_chf": 420,
+      "umsatz_mio_eur": 458
+    },
+    {
+      "rang": 355,
+      "unternehmen": "Lenovo (Schweiz) GmbH",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 420,
+      "umsatz_mio_eur": 458
+    },
+    {
+      "rang": 356,
+      "unternehmen": "CH Media",
+      "sitz": "Aarau",
+      "kanton": "AG",
+      "branche": "Graphisches Gewerbe/Verlage",
+      "umsatz_mio_chf": 418,
+      "umsatz_mio_eur": 456
+    },
+    {
+      "rang": 357,
+      "unternehmen": "Ericsson",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 416,
+      "umsatz_mio_eur": 454
+    },
+    {
+      "rang": 358,
+      "unternehmen": "Highlight Communications",
+      "sitz": "Pratteln",
+      "kanton": "BL",
+      "branche": "Graphisches Gewerbe/Verlage",
+      "umsatz_mio_chf": 415,
+      "umsatz_mio_eur": 453
+    },
+    {
+      "rang": 359,
+      "unternehmen": "Lindenhofgruppe",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 414,
+      "umsatz_mio_eur": 452
+    },
+    {
+      "rang": 360,
+      "unternehmen": "Kardex",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Förder- und Lagertechnik",
+      "umsatz_mio_chf": 413,
+      "umsatz_mio_eur": 451
+    },
+    {
+      "rang": 361,
+      "unternehmen": "Rhenus Alpina",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Gütertransporte/Terminals",
+      "umsatz_mio_chf": 410,
+      "umsatz_mio_eur": 447
+    },
+    {
+      "rang": 362,
+      "unternehmen": "Ypsomed Holding",
+      "sitz": "Burgdorf",
+      "kanton": "BE",
+      "branche": "Medizinaltechnik",
+      "umsatz_mio_chf": 404,
+      "umsatz_mio_eur": 441
+    },
+    {
+      "rang": 363,
+      "unternehmen": "Bachem Holding",
+      "sitz": "Bubendorf",
+      "kanton": "BL",
+      "branche": "Chemie/Pharma",
+      "umsatz_mio_chf": 402,
+      "umsatz_mio_eur": 439
+    },
+    {
+      "rang": 364,
+      "unternehmen": "Cognizant Technology Solutions",
+      "sitz": "Zug",
+      "kanton": "ZG",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 401,
+      "umsatz_mio_eur": 438
+    },
+    {
+      "rang": 365,
+      "unternehmen": "Baumer Holding",
+      "sitz": "Frauenfeld",
+      "kanton": "TG",
+      "branche": "Elektronik/Elektrotechnik",
+      "umsatz_mio_chf": 400,
+      "umsatz_mio_eur": 436
+    },
+    {
+      "rang": 366,
+      "unternehmen": "Vacheron Constantin",
+      "sitz": "Genf",
+      "kanton": "GE",
+      "branche": "Uhrenindustrie",
+      "umsatz_mio_chf": 400,
+      "umsatz_mio_eur": 436
+    },
+    {
+      "rang": 367,
+      "unternehmen": "Kantonsspital Baden",
+      "sitz": "Baden",
+      "kanton": "AG",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 398,
+      "umsatz_mio_eur": 434
+    },
+    {
+      "rang": 368,
+      "unternehmen": "Asstra - Associated Traffic",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Logistik/Spedition",
+      "umsatz_mio_chf": 396,
+      "umsatz_mio_eur": 432
+    },
+    {
+      "rang": 369,
+      "unternehmen": "B. Braun Medical",
+      "sitz": "Sempach",
+      "kanton": "LU",
+      "branche": "Medizinaltechnik",
+      "umsatz_mio_chf": 396,
+      "umsatz_mio_eur": 432
+    },
+    {
+      "rang": 370,
+      "unternehmen": "Comet Holding",
+      "sitz": "Flamatt",
+      "kanton": "FR",
+      "branche": "Medizinaltechnik",
+      "umsatz_mio_chf": 396,
+      "umsatz_mio_eur": 432
+    },
+    {
+      "rang": 371,
+      "unternehmen": "T-Systems Schweiz",
+      "sitz": "Zollikofen",
+      "kanton": "BE",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 392,
+      "umsatz_mio_eur": 428
+    },
+    {
+      "rang": 372,
+      "unternehmen": "Sipro Stahl Holding",
+      "sitz": "Geroldswil",
+      "kanton": "ZH",
+      "branche": "Metall-/Stahlhandel",
+      "umsatz_mio_chf": 388,
+      "umsatz_mio_eur": 423
+    },
+    {
+      "rang": 373,
+      "unternehmen": "Orascom Development Holding",
+      "sitz": "Altdorf",
+      "kanton": "UR",
+      "branche": "Hotellerie",
+      "umsatz_mio_chf": 386,
+      "umsatz_mio_eur": 421
+    },
+    {
+      "rang": 374,
+      "unternehmen": "Aduno Holding",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Dienstleistungen",
+      "umsatz_mio_chf": 385,
+      "umsatz_mio_eur": 420
+    },
+    {
+      "rang": 375,
+      "unternehmen": "Medbase Gesundheitszentren",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 382,
+      "umsatz_mio_eur": 417
+    },
+    {
+      "rang": 376,
+      "unternehmen": "Erne Holding",
+      "sitz": "Laufenburg",
+      "kanton": "AG",
+      "branche": "Bauzulieferer/Bauelemente",
+      "umsatz_mio_chf": 380,
+      "umsatz_mio_eur": 415
+    },
+    {
+      "rang": 377,
+      "unternehmen": "Schneider Logistics Group",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Logistik/Spedition",
+      "umsatz_mio_chf": 376,
+      "umsatz_mio_eur": 410
+    },
+    {
+      "rang": 378,
+      "unternehmen": "Inficon Holding",
+      "sitz": "Bad Ragaz",
+      "kanton": "SG",
+      "branche": "Elektronik/Elektrotechnik",
+      "umsatz_mio_chf": 373,
+      "umsatz_mio_eur": 407
+    },
+    {
+      "rang": 379,
+      "unternehmen": "ESA-Einkaufsorganisation",
+      "sitz": "Burgdorf",
+      "kanton": "BE",
+      "branche": "Grosshandel (Fahrzeugbranche)",
+      "umsatz_mio_chf": 369,
+      "umsatz_mio_eur": 403
+    },
+    {
+      "rang": 380,
+      "unternehmen": "Kantonsspital Graubünden",
+      "sitz": "Chur",
+      "kanton": "GR",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 366,
+      "umsatz_mio_eur": 399
+    },
+    {
+      "rang": 381,
+      "unternehmen": "Ricola Holding",
+      "sitz": "Laufen",
+      "kanton": "BL",
+      "branche": "Nahrungsmittel",
+      "umsatz_mio_chf": 365,
+      "umsatz_mio_eur": 398
+    },
+    {
+      "rang": 382,
+      "unternehmen": "Kistler Instrumente",
+      "sitz": "Winterthur",
+      "kanton": "ZH",
+      "branche": "Mess- und Regeltechnik",
+      "umsatz_mio_chf": 361,
+      "umsatz_mio_eur": 394
+    },
+    {
+      "rang": 383,
+      "unternehmen": "AEW Energie",
+      "sitz": "Aarau",
+      "kanton": "AG",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 354,
+      "umsatz_mio_eur": 386
+    },
+    {
+      "rang": 384,
+      "unternehmen": "Kibag Holding",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Bauzulieferer/Bauelemente",
+      "umsatz_mio_chf": 350,
+      "umsatz_mio_eur": 382
+    },
+    {
+      "rang": 385,
+      "unternehmen": "Mifroma",
+      "sitz": "Ursy",
+      "kanton": "FR",
+      "branche": "Nahrungsmittel",
+      "umsatz_mio_chf": 350,
+      "umsatz_mio_eur": 382
+    },
+    {
+      "rang": 386,
+      "unternehmen": "TopPharm Genossenschaft",
+      "sitz": "Münchenstein",
+      "kanton": "BL",
+      "branche": "Drogerien/Parfümerien/Apotheken",
+      "umsatz_mio_chf": 350,
+      "umsatz_mio_eur": 382
+    },
+    {
+      "rang": 387,
+      "unternehmen": "Rhätische Bahn (RhB)",
+      "sitz": "Chur",
+      "kanton": "GR",
+      "branche": "Bahnen/Öffentlicher Verkehr",
+      "umsatz_mio_chf": 347,
+      "umsatz_mio_eur": 379
+    },
+    {
+      "rang": 388,
+      "unternehmen": "C&A Mode",
+      "sitz": "Baar",
+      "kanton": "ZG",
+      "branche": "Detailhandel (Bekleidung)",
+      "umsatz_mio_chf": 343,
+      "umsatz_mio_eur": 374
+    },
+    {
+      "rang": 389,
+      "unternehmen": "Canon (Schweiz)",
+      "sitz": "Wallisellen",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 342,
+      "umsatz_mio_eur": 373
+    },
+    {
+      "rang": 390,
+      "unternehmen": "Wicor Holding",
+      "sitz": "Rapperswil",
+      "kanton": "SG",
+      "branche": "Mischkonzern",
+      "umsatz_mio_chf": 341,
+      "umsatz_mio_eur": 372
+    },
+    {
+      "rang": 391,
+      "unternehmen": "Groupe Eldora",
+      "sitz": "Rolle",
+      "kanton": "VD",
+      "branche": "Gastronomie/Catering",
+      "umsatz_mio_chf": 340,
+      "umsatz_mio_eur": 371
+    },
+    {
+      "rang": 392,
+      "unternehmen": "Jansen AG",
+      "sitz": "Oberriet",
+      "kanton": "SG",
+      "branche": "Metallverarbeitung",
+      "umsatz_mio_chf": 340,
+      "umsatz_mio_eur": 371
+    },
+    {
+      "rang": 393,
+      "unternehmen": "Victorinox",
+      "sitz": "Ibach",
+      "kanton": "SZ",
+      "branche": "Mischkonzern",
+      "umsatz_mio_chf": 335,
+      "umsatz_mio_eur": 366
+    },
+    {
+      "rang": 394,
+      "unternehmen": "Leonteq",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 335,
+      "umsatz_mio_eur": 366
+    },
+    {
+      "rang": 395,
+      "unternehmen": "Microspot",
+      "sitz": "Moosseedorf",
+      "kanton": "BE",
+      "branche": "Online Handel",
+      "umsatz_mio_chf": 334,
+      "umsatz_mio_eur": 364
+    },
+    {
+      "rang": 396,
+      "unternehmen": "u-blox Holding",
+      "sitz": "Thalwil",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 334,
+      "umsatz_mio_eur": 364
+    },
+    {
+      "rang": 397,
+      "unternehmen": "Griesser Holding",
+      "sitz": "Aadorf",
+      "kanton": "TG",
+      "branche": "Bauzulieferer/Bauelemente",
+      "umsatz_mio_chf": 333,
+      "umsatz_mio_eur": 363
+    },
+    {
+      "rang": 398,
+      "unternehmen": "Calida Holding",
+      "sitz": "Oberkirch LU",
+      "kanton": "LU",
+      "branche": "Bekleidungsindustrie",
+      "umsatz_mio_chf": 333,
+      "umsatz_mio_eur": 363
+    },
+    {
+      "rang": 399,
+      "unternehmen": "Medacta International",
+      "sitz": "Frauenfeld",
+      "kanton": "TG",
+      "branche": "Medizinaltechnik",
+      "umsatz_mio_chf": 332,
+      "umsatz_mio_eur": 362
+    },
+    {
+      "rang": 400,
+      "unternehmen": "Kernkraftwerk Gösgen-Däniken",
+      "sitz": "Däniken",
+      "kanton": "SO",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 331,
+      "umsatz_mio_eur": 361
+    },
+    {
+      "rang": 401,
+      "unternehmen": "Hostettler-Gruppe",
+      "sitz": "Sursee",
+      "kanton": "LU",
+      "branche": "Grosshandel (Fahrzeugbranche)",
+      "umsatz_mio_chf": 330,
+      "umsatz_mio_eur": 360
+    },
+    {
+      "rang": 402,
+      "unternehmen": "VZ Holding",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Dienstleistungen",
+      "umsatz_mio_chf": 329,
+      "umsatz_mio_eur": 359
+    },
+    {
+      "rang": 403,
+      "unternehmen": "Komax Holding",
+      "sitz": "Dierikon",
+      "kanton": "LU",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 328,
+      "umsatz_mio_eur": 358
+    },
+    {
+      "rang": 404,
+      "unternehmen": "Mepha",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Grosshandel Chemie/Pharma",
+      "umsatz_mio_chf": 325,
+      "umsatz_mio_eur": 355
+    },
+    {
+      "rang": 405,
+      "unternehmen": "Richard Mille",
+      "sitz": "Les Breuleux",
+      "kanton": "JU",
+      "branche": "Uhrenindustrie",
+      "umsatz_mio_chf": 320,
+      "umsatz_mio_eur": 349
+    },
+    {
+      "rang": 406,
+      "unternehmen": "TopCC",
+      "sitz": "Gossau",
+      "kanton": "SG",
+      "branche": "Grosshandel (Food)",
+      "umsatz_mio_chf": 317,
+      "umsatz_mio_eur": 346
+    },
+    {
+      "rang": 407,
+      "unternehmen": "DB Schenker Schweiz",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Gütertransporte/Terminals",
+      "umsatz_mio_chf": 316,
+      "umsatz_mio_eur": 345
+    },
+    {
+      "rang": 408,
+      "unternehmen": "St. Gallisch-Appenzellische Kraftwerke",
+      "sitz": "St. Gallen",
+      "kanton": "SG",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 315,
+      "umsatz_mio_eur": 344
+    },
+    {
+      "rang": 409,
+      "unternehmen": "Adobe Systems (Schweiz)",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 312,
+      "umsatz_mio_eur": 340
+    },
+    {
+      "rang": 410,
+      "unternehmen": "Hälg Holding",
+      "sitz": "St. Gallen",
+      "kanton": "SG",
+      "branche": "Haustechnik/Gebäudeautomation",
+      "umsatz_mio_chf": 312,
+      "umsatz_mio_eur": 340
+    },
+    {
+      "rang": 411,
+      "unternehmen": "Schätzle Holding",
+      "sitz": "Luzern",
+      "kanton": "LU",
+      "branche": "Mineralölhandel",
+      "umsatz_mio_chf": 309,
+      "umsatz_mio_eur": 337
+    },
+    {
+      "rang": 412,
+      "unternehmen": "LEM Holding",
+      "sitz": "Freiburg",
+      "kanton": "FR",
+      "branche": "Elektronik/Elektrotechnik",
+      "umsatz_mio_chf": 308,
+      "umsatz_mio_eur": 336
+    },
+    {
+      "rang": 413,
+      "unternehmen": "Hochdorf Holding",
+      "sitz": "Hochdorf",
+      "kanton": "LU",
+      "branche": "Nahrungsmittel",
+      "umsatz_mio_chf": 306,
+      "umsatz_mio_eur": 334
+    },
+    {
+      "rang": 414,
+      "unternehmen": "Kinderspital Zürich",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 303,
+      "umsatz_mio_eur": 331
+    },
+    {
+      "rang": 415,
+      "unternehmen": "Poenina",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Haustechnik/Gebäudeautomation",
+      "umsatz_mio_chf": 302,
+      "umsatz_mio_eur": 330
+    },
+    {
+      "rang": 416,
+      "unternehmen": "Alfred Müller AG",
+      "sitz": "Baar",
+      "kanton": "ZG",
+      "branche": "Immobilien/GU/Dienstleistungen",
+      "umsatz_mio_chf": 300,
+      "umsatz_mio_eur": 327
+    },
+    {
+      "rang": 417,
+      "unternehmen": "Starrag Group Holding",
+      "sitz": "Rorschacherberg",
+      "kanton": "SG",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 297,
+      "umsatz_mio_eur": 324
+    },
+    {
+      "rang": 418,
+      "unternehmen": "PSP Swiss Property",
+      "sitz": "Zug",
+      "kanton": "ZG",
+      "branche": "Immobilien/GU/Dienstleistungen",
+      "umsatz_mio_chf": 296,
+      "umsatz_mio_eur": 323
+    },
+    {
+      "rang": 419,
+      "unternehmen": "Scania Schweiz",
+      "sitz": "Kloten",
+      "kanton": "ZH",
+      "branche": "Automobilhandel/-import",
+      "umsatz_mio_chf": 290,
+      "umsatz_mio_eur": 316
+    },
+    {
+      "rang": 420,
+      "unternehmen": "Offix Holding",
+      "sitz": "Freudwil",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 289,
+      "umsatz_mio_eur": 315
+    },
+    {
+      "rang": 421,
+      "unternehmen": "Infosys Consulting Holding",
+      "sitz": "Kloten",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 288,
+      "umsatz_mio_eur": 314
+    },
+    {
+      "rang": 422,
+      "unternehmen": "TX Markets",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 288,
+      "umsatz_mio_eur": 314
+    },
+    {
+      "rang": 423,
+      "unternehmen": "Tata Consultancy Services Switzerland",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 287,
+      "umsatz_mio_eur": 313
+    },
+    {
+      "rang": 424,
+      "unternehmen": "Müller Schweiz",
+      "sitz": "Oberentfelden",
+      "kanton": "AG",
+      "branche": "Drogerien/Parfümerien/Apotheken",
+      "umsatz_mio_chf": 285,
+      "umsatz_mio_eur": 311
+    },
+    {
+      "rang": 425,
+      "unternehmen": "Reinhard Fromm Holding",
+      "sitz": "Cham",
+      "kanton": "ZG",
+      "branche": "Verpackung",
+      "umsatz_mio_chf": 283,
+      "umsatz_mio_eur": 309
+    },
+    {
+      "rang": 426,
+      "unternehmen": "Thermoplan",
+      "sitz": "Weggis",
+      "kanton": "LU",
+      "branche": "Elektroapparate/Haushaltgeräte",
+      "umsatz_mio_chf": 281,
+      "umsatz_mio_eur": 307
+    },
+    {
+      "rang": 427,
+      "unternehmen": "Ascom Holding",
+      "sitz": "Baar",
+      "kanton": "ZG",
+      "branche": "Elektronik/Elektrotechnik",
+      "umsatz_mio_chf": 281,
+      "umsatz_mio_eur": 307
+    },
+    {
+      "rang": 428,
+      "unternehmen": "Skyguide",
+      "sitz": "Genf",
+      "kanton": "GE",
+      "branche": "Dienstleistungen",
+      "umsatz_mio_chf": 281,
+      "umsatz_mio_eur": 307
+    },
+    {
+      "rang": 429,
+      "unternehmen": "AMAC Aerospace Switzerland",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Dienstleistungen",
+      "umsatz_mio_chf": 280,
+      "umsatz_mio_eur": 306
+    },
+    {
+      "rang": 430,
+      "unternehmen": "Loomis Schweiz",
+      "sitz": "Kloten",
+      "kanton": "ZH",
+      "branche": "Gütertransporte/Terminals",
+      "umsatz_mio_chf": 280,
+      "umsatz_mio_eur": 306
+    },
+    {
+      "rang": 431,
+      "unternehmen": "BLS Cargo",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Gütertransporte/Terminals",
+      "umsatz_mio_chf": 277,
+      "umsatz_mio_eur": 302
+    },
+    {
+      "rang": 432,
+      "unternehmen": "EWL Energie Wasser Luzern Holding",
+      "sitz": "Luzern",
+      "kanton": "LU",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 276,
+      "umsatz_mio_eur": 301
+    },
+    {
+      "rang": 433,
+      "unternehmen": "Tarchini FoxTown",
+      "sitz": "Manno",
+      "kanton": "TI",
+      "branche": "Detailhandel",
+      "umsatz_mio_chf": 275,
+      "umsatz_mio_eur": 300
+    },
+    {
+      "rang": 434,
+      "unternehmen": "Montres Breguet",
+      "sitz": "L'Abbaye",
+      "kanton": "VD",
+      "branche": "Uhrenindustrie",
+      "umsatz_mio_chf": 270,
+      "umsatz_mio_eur": 295
+    },
+    {
+      "rang": 435,
+      "unternehmen": "Saviva",
+      "sitz": "Regensdorf",
+      "kanton": "ZH",
+      "branche": "Grosshandel (Food)",
+      "umsatz_mio_chf": 268,
+      "umsatz_mio_eur": 292
+    },
+    {
+      "rang": 436,
+      "unternehmen": "Reishauer",
+      "sitz": "Wallisellen",
+      "kanton": "ZH",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 266,
+      "umsatz_mio_eur": 290
+    },
+    {
+      "rang": 437,
+      "unternehmen": "Migros Online",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Online Handel",
+      "umsatz_mio_chf": 266,
+      "umsatz_mio_eur": 290
+    },
+    {
+      "rang": 438,
+      "unternehmen": "Quickline",
+      "sitz": "Nidau",
+      "kanton": "BE",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 265,
+      "umsatz_mio_eur": 289
+    },
+    {
+      "rang": 439,
+      "unternehmen": "Mobimo Holding",
+      "sitz": "Luzern",
+      "kanton": "LU",
+      "branche": "Immobilien/GU/Dienstleistungen",
+      "umsatz_mio_chf": 265,
+      "umsatz_mio_eur": 289
+    },
+    {
+      "rang": 440,
+      "unternehmen": "Schweizer Zucker",
+      "sitz": "Frauenfeld",
+      "kanton": "TG",
+      "branche": "Nahrungsmittel",
+      "umsatz_mio_chf": 263,
+      "umsatz_mio_eur": 287
+    },
+    {
+      "rang": 441,
+      "unternehmen": "Zweifel Chips + Snacks",
+      "sitz": "Spreitenbach",
+      "kanton": "AG",
+      "branche": "Nahrungsmittel",
+      "umsatz_mio_chf": 263,
+      "umsatz_mio_eur": 287
+    },
+    {
+      "rang": 442,
+      "unternehmen": "APG SGA",
+      "sitz": "Genf",
+      "kanton": "GE",
+      "branche": "Aussenwerbung",
+      "umsatz_mio_chf": 262,
+      "umsatz_mio_eur": 286
+    },
+    {
+      "rang": 443,
+      "unternehmen": "Bauwerk Group",
+      "sitz": "St. Margrethen",
+      "kanton": "SG",
+      "branche": "Bauzulieferer/Bauelemente",
+      "umsatz_mio_chf": 261,
+      "umsatz_mio_eur": 285
+    },
+    {
+      "rang": 444,
+      "unternehmen": "Schweizer Paraplegiker-Stiftung",
+      "sitz": "Nottwil",
+      "kanton": "LU",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 261,
+      "umsatz_mio_eur": 285
+    },
+    {
+      "rang": 445,
+      "unternehmen": "Festina - Candino Watch",
+      "sitz": "Herbetswil",
+      "kanton": "SO",
+      "branche": "Uhrenindustrie",
+      "umsatz_mio_chf": 260,
+      "umsatz_mio_eur": 284
+    },
+    {
+      "rang": 446,
+      "unternehmen": "DSS International",
+      "sitz": "Paradiso",
+      "kanton": "TI",
+      "branche": "Metall-/Stahlhandel",
+      "umsatz_mio_chf": 260,
+      "umsatz_mio_eur": 284
+    },
+    {
+      "rang": 447,
+      "unternehmen": "Schurter Holding",
+      "sitz": "Luzern",
+      "kanton": "LU",
+      "branche": "Elektronik/Elektrotechnik",
+      "umsatz_mio_chf": 259,
+      "umsatz_mio_eur": 283
+    },
+    {
+      "rang": 448,
+      "unternehmen": "Traveco Transporte",
+      "sitz": "Winterthur",
+      "kanton": "ZH",
+      "branche": "Gütertransporte/Terminals",
+      "umsatz_mio_chf": 258,
+      "umsatz_mio_eur": 282
+    },
+    {
+      "rang": 449,
+      "unternehmen": "Mikron Holding",
+      "sitz": "Biel",
+      "kanton": "BE",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 257,
+      "umsatz_mio_eur": 280
+    },
+    {
+      "rang": 450,
+      "unternehmen": "Aluflexpack",
+      "sitz": "Reinach",
+      "kanton": "AG",
+      "branche": "Verpackung",
+      "umsatz_mio_chf": 256,
+      "umsatz_mio_eur": 279
+    },
+    {
+      "rang": 451,
+      "unternehmen": "Genossenschaft Zentralschweizer Milchproduzenten ZMP",
+      "sitz": "Luzern",
+      "kanton": "LU",
+      "branche": "Nahrungsmittel",
+      "umsatz_mio_chf": 256,
+      "umsatz_mio_eur": 279
+    },
+    {
+      "rang": 452,
+      "unternehmen": "Wasserwerke Zug",
+      "sitz": "Zug",
+      "kanton": "ZG",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 255,
+      "umsatz_mio_eur": 278
+    },
+    {
+      "rang": 453,
+      "unternehmen": "Sensirion Holding",
+      "sitz": "Stäfa",
+      "kanton": "ZH",
+      "branche": "Mess- und Regeltechnik",
+      "umsatz_mio_chf": 254,
+      "umsatz_mio_eur": 277
+    },
+    {
+      "rang": 454,
+      "unternehmen": "ITRIS",
+      "sitz": "Spreitenbach",
+      "kanton": "AG",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 251,
+      "umsatz_mio_eur": 274
+    },
+    {
+      "rang": 455,
+      "unternehmen": "Georg Utz Holding",
+      "sitz": "Bremgarten",
+      "kanton": "AG",
+      "branche": "Kunststofftechnologie",
+      "umsatz_mio_chf": 251,
+      "umsatz_mio_eur": 274
+    },
+    {
+      "rang": 456,
+      "unternehmen": "Blancpain",
+      "sitz": "Le Brassus",
+      "kanton": "VD",
+      "branche": "Uhrenindustrie",
+      "umsatz_mio_chf": 250,
+      "umsatz_mio_eur": 273
+    },
+    {
+      "rang": 457,
+      "unternehmen": "Induni",
+      "sitz": "Petit-Lancy",
+      "kanton": "GE",
+      "branche": "Bauunternehmen",
+      "umsatz_mio_chf": 250,
+      "umsatz_mio_eur": 273
+    },
+    {
+      "rang": 458,
+      "unternehmen": "Schenker Storen",
+      "sitz": "Schönenwerd",
+      "kanton": "SO",
+      "branche": "Bauzulieferer/Bauelemente",
+      "umsatz_mio_chf": 250,
+      "umsatz_mio_eur": 273
+    },
+    {
+      "rang": 458,
+      "unternehmen": "Rieker Holding",
+      "sitz": "Thayngen",
+      "kanton": "SH",
+      "branche": "Schuhproduktion/-handel",
+      "umsatz_mio_chf": 250,
+      "umsatz_mio_eur": 273
+    },
+    {
+      "rang": 459,
+      "unternehmen": "Vebego Schweiz Holding",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Facility Management",
+      "umsatz_mio_chf": 250,
+      "umsatz_mio_eur": 273
+    },
+    {
+      "rang": 461,
+      "unternehmen": "Basler Verkehrs-Betriebe",
+      "sitz": "Basel",
+      "kanton": "BS",
+      "branche": "Bahnen/Öffentlicher Verkehr",
+      "umsatz_mio_chf": 250,
+      "umsatz_mio_eur": 273
+    },
+    {
+      "rang": 462,
+      "unternehmen": "Reichle & De-Massari",
+      "sitz": "Wetzikon",
+      "kanton": "ZH",
+      "branche": "Elektronik/Elektrotechnik",
+      "umsatz_mio_chf": 250,
+      "umsatz_mio_eur": 273
+    },
+    {
+      "rang": 463,
+      "unternehmen": "Coltene Holding",
+      "sitz": "Altstätten",
+      "kanton": "SG",
+      "branche": "Medizinaltechnik",
+      "umsatz_mio_chf": 248,
+      "umsatz_mio_eur": 271
+    },
+    {
+      "rang": 464,
+      "unternehmen": "Bernina International",
+      "sitz": "Steckborn",
+      "kanton": "TG",
+      "branche": "Elektroapparate/Haushaltgeräte",
+      "umsatz_mio_chf": 244,
+      "umsatz_mio_eur": 266
+    },
+    {
+      "rang": 465,
+      "unternehmen": "BeautyAlliance Schweiz",
+      "sitz": "Pfäffikon SZ",
+      "kanton": "SZ",
+      "branche": "Drogerien/Parfümerien/Apotheken",
+      "umsatz_mio_chf": 240,
+      "umsatz_mio_eur": 262
+    },
+    {
+      "rang": 466,
+      "unternehmen": "Camion-Transport",
+      "sitz": "Wil",
+      "kanton": "SG",
+      "branche": "Gütertransporte/Terminals",
+      "umsatz_mio_chf": 240,
+      "umsatz_mio_eur": 262
+    },
+    {
+      "rang": 467,
+      "unternehmen": "Sigvaris Group",
+      "sitz": "Winterthur",
+      "kanton": "ZH",
+      "branche": "Medizinaltechnik",
+      "umsatz_mio_chf": 240,
+      "umsatz_mio_eur": 262
+    },
+    {
+      "rang": 468,
+      "unternehmen": "Veritas (Schweiz) GmbH",
+      "sitz": "Kloten",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 240,
+      "umsatz_mio_eur": 262
+    },
+    {
+      "rang": 469,
+      "unternehmen": "Stadtwerk Winterthur",
+      "sitz": "Winterthur",
+      "kanton": "ZH",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 239,
+      "umsatz_mio_eur": 261
+    },
+    {
+      "rang": 470,
+      "unternehmen": "Interhome HHD",
+      "sitz": "Opfikon",
+      "kanton": "ZH",
+      "branche": "Reiseunternehmen/Tourismus",
+      "umsatz_mio_chf": 237,
+      "umsatz_mio_eur": 259
+    },
+    {
+      "rang": 471,
+      "unternehmen": "AZ Medien",
+      "sitz": "Aarau",
+      "kanton": "AG",
+      "branche": "Graphisches Gewerbe/Verlage",
+      "umsatz_mio_chf": 233,
+      "umsatz_mio_eur": 254
+    },
+    {
+      "rang": 472,
+      "unternehmen": "BDO AG",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Wirtschaftsprüfung",
+      "umsatz_mio_chf": 233,
+      "umsatz_mio_eur": 254
+    },
+    {
+      "rang": 473,
+      "unternehmen": "Coop Vitality",
+      "sitz": "Bern",
+      "kanton": "BE",
+      "branche": "Kosmetik/Körperpflege",
+      "umsatz_mio_chf": 233,
+      "umsatz_mio_eur": 254
+    },
+    {
+      "rang": 474,
+      "unternehmen": "Coop@home",
+      "sitz": "Spreitenbach",
+      "kanton": "AG",
+      "branche": "Online Handel",
+      "umsatz_mio_chf": 232,
+      "umsatz_mio_eur": 253
+    },
+    {
+      "rang": 475,
+      "unternehmen": "Visilab",
+      "sitz": "Meyrin",
+      "kanton": "GE",
+      "branche": "Optiker",
+      "umsatz_mio_chf": 232,
+      "umsatz_mio_eur": 253
+    },
+    {
+      "rang": 476,
+      "unternehmen": "Holdigaz",
+      "sitz": "Vevey",
+      "kanton": "VD",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 231,
+      "umsatz_mio_eur": 252
+    },
+    {
+      "rang": 477,
+      "unternehmen": "Rado Uhren",
+      "sitz": "Lengnau",
+      "kanton": "BE",
+      "branche": "Uhrenindustrie",
+      "umsatz_mio_chf": 230,
+      "umsatz_mio_eur": 251
+    },
+    {
+      "rang": 478,
+      "unternehmen": "EBL (Genossenschaft Elektra Baselland)",
+      "sitz": "Liestal",
+      "kanton": "BL",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 230,
+      "umsatz_mio_eur": 251
+    },
+    {
+      "rang": 479,
+      "unternehmen": "Variosystems",
+      "sitz": "Steinach",
+      "kanton": "SG",
+      "branche": "Elektronik/Elektrotechnik",
+      "umsatz_mio_chf": 228,
+      "umsatz_mio_eur": 249
+    },
+    {
+      "rang": 480,
+      "unternehmen": "AWS (Switzerland)",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 225,
+      "umsatz_mio_eur": 246
+    },
+    {
+      "rang": 481,
+      "unternehmen": "Centravo Holding",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Fleischverarbeitung",
+      "umsatz_mio_chf": 225,
+      "umsatz_mio_eur": 246
+    },
+    {
+      "rang": 482,
+      "unternehmen": "Top Tip/Lumimart",
+      "sitz": "Oberentfelden",
+      "kanton": "AG",
+      "branche": "Möbel/Inneneinrichtung",
+      "umsatz_mio_chf": 222,
+      "umsatz_mio_eur": 242
+    },
+    {
+      "rang": 483,
+      "unternehmen": "ERNI International",
+      "sitz": "Brüttisellen",
+      "kanton": "ZH",
+      "branche": "Elektronik/Elektrotechnik",
+      "umsatz_mio_chf": 222,
+      "umsatz_mio_eur": 242
+    },
+    {
+      "rang": 484,
+      "unternehmen": "Neue Zürcher Zeitung",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Graphisches Gewerbe/Verlage",
+      "umsatz_mio_chf": 221,
+      "umsatz_mio_eur": 241
+    },
+    {
+      "rang": 485,
+      "unternehmen": "Mammut Sports Group",
+      "sitz": "Seon",
+      "kanton": "AG",
+      "branche": "Sportartikel/-bekleidung",
+      "umsatz_mio_chf": 220,
+      "umsatz_mio_eur": 240
+    },
+    {
+      "rang": 486,
+      "unternehmen": "Florin AG",
+      "sitz": "Muttenz",
+      "kanton": "BL",
+      "branche": "Grosshandel (Food)",
+      "umsatz_mio_chf": 220,
+      "umsatz_mio_eur": 240
+    },
+    {
+      "rang": 487,
+      "unternehmen": "Kirchhofer AG",
+      "sitz": "Interlaken",
+      "kanton": "BE",
+      "branche": "Detailhandel (Uhren/Schmuck)",
+      "umsatz_mio_chf": 220,
+      "umsatz_mio_eur": 240
+    },
+    {
+      "rang": 488,
+      "unternehmen": "Villiger Söhne Holding",
+      "sitz": "Pfeffikon",
+      "kanton": "LU",
+      "branche": "Tabakindustrie/-handel",
+      "umsatz_mio_chf": 220,
+      "umsatz_mio_eur": 240
+    },
+    {
+      "rang": 489,
+      "unternehmen": "Dottikon ES Holding",
+      "sitz": "Dottikon",
+      "kanton": "AG",
+      "branche": "Chemie/Pharma",
+      "umsatz_mio_chf": 219,
+      "umsatz_mio_eur": 239
+    },
+    {
+      "rang": 490,
+      "unternehmen": "Orell Füssli Holding",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Graphisches Gewerbe/Verlage",
+      "umsatz_mio_chf": 219,
+      "umsatz_mio_eur": 239
+    },
+    {
+      "rang": 491,
+      "unternehmen": "Stadtwerke St. Gallen",
+      "sitz": "St. Gallen",
+      "kanton": "SG",
+      "branche": "Energieversorgung/-verteilung",
+      "umsatz_mio_chf": 218,
+      "umsatz_mio_eur": 238
+    },
+    {
+      "rang": 492,
+      "unternehmen": "Trisa Holding",
+      "sitz": "Triengen",
+      "kanton": "LU",
+      "branche": "Kosmetik/Körperpflege",
+      "umsatz_mio_chf": 215,
+      "umsatz_mio_eur": 235
+    },
+    {
+      "rang": 493,
+      "unternehmen": "Interroute",
+      "sitz": "Meyrin",
+      "kanton": "GE",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 215,
+      "umsatz_mio_eur": 235
+    },
+    {
+      "rang": 494,
+      "unternehmen": "Schmid Bauunternehmung",
+      "sitz": "Ebikon",
+      "kanton": "LU",
+      "branche": "Bauunternehmen",
+      "umsatz_mio_chf": 215,
+      "umsatz_mio_eur": 235
+    },
+    {
+      "rang": 495,
+      "unternehmen": "Elmin Aga & Sohn Holding",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Mischkonzern",
+      "umsatz_mio_chf": 215,
+      "umsatz_mio_eur": 235
+    },
+    {
+      "rang": 496,
+      "unternehmen": "Peach Property Group",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Immobilien/GU/Dienstleistungen",
+      "umsatz_mio_chf": 214,
+      "umsatz_mio_eur": 234
+    },
+    {
+      "rang": 497,
+      "unternehmen": "Spitäler Schaffhausen",
+      "sitz": "Schaffhausen",
+      "kanton": "SH",
+      "branche": "Gesundheitswesen",
+      "umsatz_mio_chf": 213,
+      "umsatz_mio_eur": 232
+    },
+    {
+      "rang": 498,
+      "unternehmen": "Von Roll Holding",
+      "sitz": "Breitenbach",
+      "kanton": "SO",
+      "branche": "Maschinenindustrie",
+      "umsatz_mio_chf": 212,
+      "umsatz_mio_eur": 231
+    },
+    {
+      "rang": 499,
+      "unternehmen": "Acer (Switzerland)",
+      "sitz": "Dietikon",
+      "kanton": "ZH",
+      "branche": "Computer/Informatik",
+      "umsatz_mio_chf": 212,
+      "umsatz_mio_eur": 231
+    },
+    {
+      "rang": 500,
+      "unternehmen": "On Running Shoes",
+      "sitz": "Zürich",
+      "kanton": "ZH",
+      "branche": "Sportartikel/-bekleidung",
+      "umsatz_mio_chf": 210,
+      "umsatz_mio_eur": 229
+    }
+  ],
+  "meta": {
+    "title": "Die 500 grössten Unternehmen in der Schweiz - Free Download",
+    "description": "Die 500 umsatzstärksten Unternehmen der Schweiz mit Sitz, Kanton, Branche und Umsatz in Mio. CHF und Mio. Euro. Contains 500 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Die 500 grössten Unternehmen in der Schweiz | ListBase",
+    "seo_description": "Download Die 500 grössten Unternehmen in der Schweiz — 500 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 500 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_grössten_Unternehmen_in_der_Schweiz"
+    ]
+  }
+}

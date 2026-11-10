@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-10T02:29:59.543Z",
-  "total_datasets": 548,
-  "total_records": 1877887,
+  "generated": "2026-11-10T02:30:06.525Z",
+  "total_datasets": 549,
+  "total_records": 1878387,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "education",
@@ -870,6 +870,34 @@
         "xlsx": {
           "name": "de-bundeslaender-steuereinnahmen_DE.xlsx",
           "size": 7599
+        }
+      }
+    },
+    {
+      "id": "de-ch-groesste-unternehmen",
+      "name": "Die 500 grössten Unternehmen in der Schweiz",
+      "category": "economy",
+      "record_count": 500,
+      "columns": [
+        "rang",
+        "unternehmen",
+        "sitz",
+        "kanton",
+        "branche",
+        "umsatz_mio_chf",
+        "umsatz_mio_eur"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_grössten_Unternehmen_in_der_Schweiz",
+      "updated": "2026-11",
+      "size": 111105,
+      "files": {
+        "csv": {
+          "name": "de-ch-groesste-unternehmen_DE.csv",
+          "size": 37738
+        },
+        "xlsx": {
+          "name": "de-ch-groesste-unternehmen_DE.xlsx",
+          "size": 31393
         }
       }
     },
