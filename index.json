@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-10T02:30:06.525Z",
-  "total_datasets": 549,
-  "total_records": 1878387,
+  "generated": "2026-11-10T02:43:32.288Z",
+  "total_datasets": 550,
+  "total_records": 1878575,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "reference",
@@ -6334,6 +6334,34 @@
         "xlsx": {
           "name": "de-bundestagspraesidenten_DE.xlsx",
           "size": 9308
+        }
+      }
+    },
+    {
+      "id": "de-ch-bundespraesidenten",
+      "name": "Schweizer Bundespräsidenten seit 1848",
+      "category": "politics",
+      "record_count": 188,
+      "columns": [
+        "jahr",
+        "bundespraesident",
+        "lebensdaten",
+        "partei",
+        "praesidentschaft_nr",
+        "vizepraesident",
+        "partei_vizepraesident"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Schweizer_Bundespräsidenten",
+      "updated": "2026-11",
+      "size": 49809,
+      "files": {
+        "csv": {
+          "name": "de-ch-bundespraesidenten_DE.csv",
+          "size": 14410
+        },
+        "xlsx": {
+          "name": "de-ch-bundespraesidenten_DE.xlsx",
+          "size": 15053
         }
       }
     },

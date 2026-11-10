@@ -1,0 +1,1753 @@
+{
+  "id": "de-ch-bundespraesidenten",
+  "name": "Schweizer Bundespräsidenten seit 1848",
+  "title": "Schweizer Bundespräsidenten seit 1848",
+  "description": "Alle Bundespräsidenten der Schweizerischen Eidgenossenschaft seit 1848 mit Lebensdaten, Partei, Anzahl Präsidentschaften und Vizepräsident des Bundesrates.",
+  "category": "politics",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Schweizer_Bundespräsidenten",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Schweizer_Bundespräsidenten",
+  "updated": "2026-11",
+  "record_count": 188,
+  "columns": [
+    {
+      "key": "jahr",
+      "label": "Jahr",
+      "type": "string"
+    },
+    {
+      "key": "bundespraesident",
+      "label": "Bundespraesident",
+      "type": "string"
+    },
+    {
+      "key": "lebensdaten",
+      "label": "Lebensdaten",
+      "type": "string"
+    },
+    {
+      "key": "partei",
+      "label": "Partei",
+      "type": "string"
+    },
+    {
+      "key": "praesidentschaft_nr",
+      "label": "Praesidentschaft Nr",
+      "type": "number"
+    },
+    {
+      "key": "vizepraesident",
+      "label": "Vizepraesident",
+      "type": "string"
+    },
+    {
+      "key": "partei_vizepraesident",
+      "label": "Partei Vizepraesident",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jahr": "1848 1849",
+      "bundespraesident": "Jonas Furrer",
+      "lebensdaten": "1805–1861",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Henri Druey",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1850",
+      "bundespraesident": "Henri Druey",
+      "lebensdaten": "1799–1855",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Josef Munzinger",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1851",
+      "bundespraesident": "Josef Munzinger",
+      "lebensdaten": "1791–1855",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Jonas Furrer",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1852",
+      "bundespraesident": "Jonas Furrer",
+      "lebensdaten": "1805–1861",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Wilhelm Matthias Naeff",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1853",
+      "bundespraesident": "Wilhelm Matthias Naeff",
+      "lebensdaten": "1802–1881",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Friedrich Frey-Herosé",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1854",
+      "bundespraesident": "Friedrich Frey-Herosé",
+      "lebensdaten": "1801–1873",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Ulrich Ochsenbein (abgewählt)",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1855",
+      "bundespraesident": "Jonas Furrer",
+      "lebensdaten": "1805–1861",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 3,
+      "vizepraesident": "Jakob Stämpfli",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1856",
+      "bundespraesident": "Jakob Stämpfli",
+      "lebensdaten": "1820–1879",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Constant Fornerod",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1857",
+      "bundespraesident": "Constant Fornerod",
+      "lebensdaten": "1819–1899",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Jonas Furrer",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1858",
+      "bundespraesident": "Jonas Furrer",
+      "lebensdaten": "1805–1861",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 4,
+      "vizepraesident": "Jakob Stämpfli",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1859",
+      "bundespraesident": "Jakob Stämpfli",
+      "lebensdaten": "1820–1879",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Friedrich Frey-Herosé",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1860",
+      "bundespraesident": "Friedrich Frey-Herosé",
+      "lebensdaten": "1801–1873",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Josef Martin Knüsel",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1861",
+      "bundespraesident": "Josef Martin Knüsel",
+      "lebensdaten": "1813–1889",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Jakob Stämpfli",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1862",
+      "bundespraesident": "Jakob Stämpfli",
+      "lebensdaten": "1820–1879",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 3,
+      "vizepraesident": "Constant Fornerod",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1863",
+      "bundespraesident": "Constant Fornerod",
+      "lebensdaten": "1819–1899",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Jakob Dubs",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1864",
+      "bundespraesident": "Jakob Dubs",
+      "lebensdaten": "1822–1879",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Karl Schenk",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1865",
+      "bundespraesident": "Karl Schenk",
+      "lebensdaten": "1823–1895",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Josef Martin Knüsel",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1866",
+      "bundespraesident": "Josef Martin Knüsel",
+      "lebensdaten": "1813–1889",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Constant Fornerod",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1867",
+      "bundespraesident": "Constant Fornerod",
+      "lebensdaten": "1819–1899",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 3,
+      "vizepraesident": "Jakob Dubs",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1868",
+      "bundespraesident": "Jakob Dubs",
+      "lebensdaten": "1822–1879",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Emil Welti",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1869",
+      "bundespraesident": "Emil Welti",
+      "lebensdaten": "1825–1899",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Victor Ruffy (1923–1869)",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1869",
+      "bundespraesident": "Emil Welti",
+      "lebensdaten": "1825–1899",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Amt ab 29. Dezember vakant",
+      "partei_vizepraesident": ""
+    },
+    {
+      "jahr": "1870",
+      "bundespraesident": "Jakob Dubs",
+      "lebensdaten": "1822–1879",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 3,
+      "vizepraesident": "Karl Schenk",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1871",
+      "bundespraesident": "Karl Schenk",
+      "lebensdaten": "1823–1895",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Emil Welti",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1872",
+      "bundespraesident": "Emil Welti",
+      "lebensdaten": "1825–1899",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Paul Cérésole",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1873",
+      "bundespraesident": "Paul Cérésole",
+      "lebensdaten": "1832–1905",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Karl Schenk",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1874",
+      "bundespraesident": "Karl Schenk",
+      "lebensdaten": "1823–1895",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 3,
+      "vizepraesident": "Emil Welti",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1875",
+      "bundespraesident": "Johann Jakob Scherer",
+      "lebensdaten": "1825–1878",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Eugène Borel ' (Rücktritt)",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1876",
+      "bundespraesident": "Emil Welti",
+      "lebensdaten": "1825–1899",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 3,
+      "vizepraesident": "Joachim Heer",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1877",
+      "bundespraesident": "Joachim Heer",
+      "lebensdaten": "1825–1879",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Karl Schenk",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1878",
+      "bundespraesident": "Karl Schenk",
+      "lebensdaten": "1823–1895",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 4,
+      "vizepraesident": "Bernhard Hammer",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1879",
+      "bundespraesident": "Bernhard Hammer",
+      "lebensdaten": "1822–1907",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Emil Welti",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1880",
+      "bundespraesident": "Emil Welti",
+      "lebensdaten": "1825–1899",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 4,
+      "vizepraesident": "Fridolin Anderwert (1828–1880)",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1880",
+      "bundespraesident": "Emil Welti",
+      "lebensdaten": "1825–1899",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 4,
+      "vizepraesident": "Amt ab 25. Dezember vakant",
+      "partei_vizepraesident": ""
+    },
+    {
+      "jahr": "1881",
+      "bundespraesident": "Numa Droz",
+      "lebensdaten": "1844–1899",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Simeon Bavier",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1882",
+      "bundespraesident": "Simeon Bavier",
+      "lebensdaten": "1825–1896",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Louis Ruchonnet",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1883",
+      "bundespraesident": "Louis Ruchonnet",
+      "lebensdaten": "1834–1893",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Emil Welti",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1884",
+      "bundespraesident": "Emil Welti",
+      "lebensdaten": "1825–1899",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 5,
+      "vizepraesident": "Karl Schenk",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1885",
+      "bundespraesident": "Karl Schenk",
+      "lebensdaten": "1823–1895",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 5,
+      "vizepraesident": "Adolf Deucher",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1886",
+      "bundespraesident": "Adolf Deucher",
+      "lebensdaten": "1831–1912",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Numa Droz",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1887",
+      "bundespraesident": "Numa Droz",
+      "lebensdaten": "1844–1899",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Wilhelm Hertenstein",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1888",
+      "bundespraesident": "Wilhelm Hertenstein",
+      "lebensdaten": "1825–1888",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Bernhard Hammer",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1889",
+      "bundespraesident": "Bernhard Hammer",
+      "lebensdaten": "1822–1907",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Louis Ruchonnet",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1890",
+      "bundespraesident": "Louis Ruchonnet",
+      "lebensdaten": "1834–1893",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Emil Welti",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1891",
+      "bundespraesident": "Emil Welti",
+      "lebensdaten": "1825–1899",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 6,
+      "vizepraesident": "Walter Hauser",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1892",
+      "bundespraesident": "Walter Hauser",
+      "lebensdaten": "1837–1902",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Karl Schenk",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1893",
+      "bundespraesident": "Karl Schenk",
+      "lebensdaten": "1823–1895",
+      "partei": "Freisinnige",
+      "praesidentschaft_nr": 6,
+      "vizepraesident": "Emil Frey",
+      "partei_vizepraesident": "Freisinnige"
+    },
+    {
+      "jahr": "1894",
+      "bundespraesident": "Emil Frey",
+      "lebensdaten": "1838–1922",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Josef Zemp",
+      "partei_vizepraesident": "KK"
+    },
+    {
+      "jahr": "1895",
+      "bundespraesident": "Josef Zemp",
+      "lebensdaten": "1834–1908",
+      "partei": "KK",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Adrien Lachenal",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1896",
+      "bundespraesident": "Adrien Lachenal",
+      "lebensdaten": "1849–1918",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Adolf Deucher",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1897",
+      "bundespraesident": "Adolf Deucher",
+      "lebensdaten": "1831–1912",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Eugène Ruffy",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1898",
+      "bundespraesident": "Eugène Ruffy",
+      "lebensdaten": "1854–1919",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Eduard Müller",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1899",
+      "bundespraesident": "Eduard Müller",
+      "lebensdaten": "1848–1919",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Walter Hauser",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1900",
+      "bundespraesident": "Walter Hauser",
+      "lebensdaten": "1837–1902",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Ernst Brenner",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1901",
+      "bundespraesident": "Ernst Brenner",
+      "lebensdaten": "1856–1911",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Josef Zemp",
+      "partei_vizepraesident": "KK"
+    },
+    {
+      "jahr": "1902",
+      "bundespraesident": "Josef Zemp",
+      "lebensdaten": "1834–1908",
+      "partei": "KK",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Adolf Deucher",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1903",
+      "bundespraesident": "Adolf Deucher",
+      "lebensdaten": "1831–1912",
+      "partei": "FDP",
+      "praesidentschaft_nr": 3,
+      "vizepraesident": "Robert Comtesse",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1904",
+      "bundespraesident": "Robert Comtesse",
+      "lebensdaten": "1847–1922",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Marc Ruchet",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1905",
+      "bundespraesident": "Marc Ruchet",
+      "lebensdaten": "1853–1912",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Ludwig Forrer",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1906",
+      "bundespraesident": "Ludwig Forrer",
+      "lebensdaten": "1845–1921",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Eduard Müller",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1907",
+      "bundespraesident": "Eduard Müller",
+      "lebensdaten": "1848–1919",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Ernst Brenner",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1908",
+      "bundespraesident": "Ernst Brenner",
+      "lebensdaten": "1856–1911",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Josef Zemp",
+      "partei_vizepraesident": "KK"
+    },
+    {
+      "jahr": "1908",
+      "bundespraesident": "Ernst Brenner",
+      "lebensdaten": "1856–1911",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Adolf Deucher",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1909",
+      "bundespraesident": "Adolf Deucher",
+      "lebensdaten": "1831–1912",
+      "partei": "FDP",
+      "praesidentschaft_nr": 4,
+      "vizepraesident": "Robert Comtesse",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1910",
+      "bundespraesident": "Robert Comtesse",
+      "lebensdaten": "1847–1922",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Marc Ruchet",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1911",
+      "bundespraesident": "Marc Ruchet",
+      "lebensdaten": "1853–1912",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Ludwig Forrer",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1912",
+      "bundespraesident": "Ludwig Forrer",
+      "lebensdaten": "1845–1921",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Eduard Müller",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1913",
+      "bundespraesident": "Eduard Müller",
+      "lebensdaten": "1848–1919",
+      "partei": "FDP",
+      "praesidentschaft_nr": 3,
+      "vizepraesident": "Arthur Hoffmann",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1914",
+      "bundespraesident": "Arthur Hoffmann",
+      "lebensdaten": "1857–1927",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Giuseppe Motta",
+      "partei_vizepraesident": "SKVP"
+    },
+    {
+      "jahr": "1915",
+      "bundespraesident": "Giuseppe Motta",
+      "lebensdaten": "1871–1940",
+      "partei": "SKVP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Camille Decoppet",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1916",
+      "bundespraesident": "Camille Decoppet",
+      "lebensdaten": "1862–1925",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Edmund Schulthess",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1917",
+      "bundespraesident": "Edmund Schulthess",
+      "lebensdaten": "1868–1944",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Felix Calonder",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1918",
+      "bundespraesident": "Felix Calonder",
+      "lebensdaten": "1863–1952",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Eduard Müller (Rücktritt)",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1919",
+      "bundespraesident": "Gustave Ador",
+      "lebensdaten": "1845–1928",
+      "partei": "LPS",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Giuseppe Motta",
+      "partei_vizepraesident": "SKVP"
+    },
+    {
+      "jahr": "1920",
+      "bundespraesident": "Giuseppe Motta",
+      "lebensdaten": "1871–1940",
+      "partei": "SKVP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Edmund Schulthess",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1921",
+      "bundespraesident": "Edmund Schulthess",
+      "lebensdaten": "1868–1944",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Robert Haab",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1922",
+      "bundespraesident": "Robert Haab",
+      "lebensdaten": "1865–1939",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Karl Scheurer",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1923",
+      "bundespraesident": "Karl Scheurer",
+      "lebensdaten": "1872–1929",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Ernest Chuard",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1924",
+      "bundespraesident": "Ernest Chuard",
+      "lebensdaten": "1857–1942",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Jean-Marie Musy",
+      "partei_vizepraesident": "SKVP"
+    },
+    {
+      "jahr": "1925",
+      "bundespraesident": "Jean-Marie Musy",
+      "lebensdaten": "1876–1952",
+      "partei": "SKVP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Heinrich Häberlin",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1926",
+      "bundespraesident": "Heinrich Häberlin",
+      "lebensdaten": "1868–1947",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Giuseppe Motta",
+      "partei_vizepraesident": "SKVP"
+    },
+    {
+      "jahr": "1927",
+      "bundespraesident": "Giuseppe Motta",
+      "lebensdaten": "1871–1940",
+      "partei": "SKVP",
+      "praesidentschaft_nr": 3,
+      "vizepraesident": "Edmund Schulthess",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1928",
+      "bundespraesident": "Edmund Schulthess",
+      "lebensdaten": "1868–1944",
+      "partei": "FDP",
+      "praesidentschaft_nr": 3,
+      "vizepraesident": "Robert Haab",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1929",
+      "bundespraesident": "Robert Haab",
+      "lebensdaten": "1865–1939",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Karl Scheurer (1872–1929)",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1929",
+      "bundespraesident": "Robert Haab",
+      "lebensdaten": "1865–1939",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Amt ab 14. November vakant",
+      "partei_vizepraesident": ""
+    },
+    {
+      "jahr": "1930",
+      "bundespraesident": "Jean-Marie Musy",
+      "lebensdaten": "1876–1952",
+      "partei": "SKVP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Heinrich Häberlin",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1931",
+      "bundespraesident": "Heinrich Häberlin",
+      "lebensdaten": "1868–1947",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Giuseppe Motta",
+      "partei_vizepraesident": "SKVP"
+    },
+    {
+      "jahr": "1932",
+      "bundespraesident": "Giuseppe Motta",
+      "lebensdaten": "1871–1940",
+      "partei": "SKVP",
+      "praesidentschaft_nr": 4,
+      "vizepraesident": "Edmund Schulthess",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1933",
+      "bundespraesident": "Edmund Schulthess",
+      "lebensdaten": "1868–1944",
+      "partei": "FDP",
+      "praesidentschaft_nr": 4,
+      "vizepraesident": "Marcel Pilet-Golaz",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1934",
+      "bundespraesident": "Marcel Pilet-Golaz",
+      "lebensdaten": "1889–1958",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Rudolf Minger",
+      "partei_vizepraesident": "BGB"
+    },
+    {
+      "jahr": "1935",
+      "bundespraesident": "Rudolf Minger",
+      "lebensdaten": "1881–1955",
+      "partei": "BGB",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Albert Meyer",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1936",
+      "bundespraesident": "Albert Meyer",
+      "lebensdaten": "1870–1953",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Giuseppe Motta",
+      "partei_vizepraesident": "SKVP"
+    },
+    {
+      "jahr": "1937",
+      "bundespraesident": "Giuseppe Motta",
+      "lebensdaten": "1871–1940",
+      "partei": "SKVP",
+      "praesidentschaft_nr": 5,
+      "vizepraesident": "Johannes Baumann",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1938",
+      "bundespraesident": "Johannes Baumann",
+      "lebensdaten": "1874–1953",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Philipp Etter",
+      "partei_vizepraesident": "SKVP"
+    },
+    {
+      "jahr": "1939",
+      "bundespraesident": "Philipp Etter",
+      "lebensdaten": "1891–1977",
+      "partei": "SKVP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Marcel Pilet-Golaz",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1940",
+      "bundespraesident": "Marcel Pilet-Golaz",
+      "lebensdaten": "1889–1958",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Hermann Obrecht",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1940",
+      "bundespraesident": "Marcel Pilet-Golaz",
+      "lebensdaten": "1889–1958",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Rudolf Minger (Rücktritt)",
+      "partei_vizepraesident": "BGB"
+    },
+    {
+      "jahr": "1941",
+      "bundespraesident": "Ernst Wetter",
+      "lebensdaten": "1877–1963",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Philipp Etter",
+      "partei_vizepraesident": "SKVP"
+    },
+    {
+      "jahr": "1942",
+      "bundespraesident": "Philipp Etter",
+      "lebensdaten": "1891–1977",
+      "partei": "SKVP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Enrico Celio",
+      "partei_vizepraesident": "SKVP"
+    },
+    {
+      "jahr": "1943",
+      "bundespraesident": "Enrico Celio",
+      "lebensdaten": "1889–1980",
+      "partei": "SKVP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Walther Stampfli",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1944",
+      "bundespraesident": "Walther Stampfli",
+      "lebensdaten": "1884–1965",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Marcel Pilet-Golaz (Rücktritt)",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1945",
+      "bundespraesident": "Eduard von Steiger",
+      "lebensdaten": "1881–1962",
+      "partei": "BGB",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Karl Kobelt",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1946",
+      "bundespraesident": "Karl Kobelt",
+      "lebensdaten": "1891–1968",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Philipp Etter",
+      "partei_vizepraesident": "SKVP"
+    },
+    {
+      "jahr": "1947",
+      "bundespraesident": "Philipp Etter",
+      "lebensdaten": "1891–1977",
+      "partei": "SKVP",
+      "praesidentschaft_nr": 3,
+      "vizepraesident": "Enrico Celio",
+      "partei_vizepraesident": "SKVP"
+    },
+    {
+      "jahr": "1948",
+      "bundespraesident": "Enrico Celio",
+      "lebensdaten": "1889–1980",
+      "partei": "SKVP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Ernst Nobs",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "1949",
+      "bundespraesident": "Ernst Nobs",
+      "lebensdaten": "1886–1957",
+      "partei": "SP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Max Petitpierre",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1950",
+      "bundespraesident": "Max Petitpierre",
+      "lebensdaten": "1899–1994",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Eduard von Steiger",
+      "partei_vizepraesident": "BGB"
+    },
+    {
+      "jahr": "1951",
+      "bundespraesident": "Eduard von Steiger",
+      "lebensdaten": "1881–1962",
+      "partei": "BGB",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Karl Kobelt",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1952",
+      "bundespraesident": "Karl Kobelt",
+      "lebensdaten": "1891–1968",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Philipp Etter",
+      "partei_vizepraesident": "SKVP"
+    },
+    {
+      "jahr": "1953",
+      "bundespraesident": "Philipp Etter",
+      "lebensdaten": "1891–1977",
+      "partei": "SKVP",
+      "praesidentschaft_nr": 4,
+      "vizepraesident": "Rodolphe Rubattel",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1954",
+      "bundespraesident": "Rodolphe Rubattel",
+      "lebensdaten": "1896–1961",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Josef Escher (1885–1954)",
+      "partei_vizepraesident": "SKVP"
+    },
+    {
+      "jahr": "1954",
+      "bundespraesident": "Rodolphe Rubattel",
+      "lebensdaten": "1896–1961",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Amt ab 9. Dezember vakant",
+      "partei_vizepraesident": ""
+    },
+    {
+      "jahr": "1955",
+      "bundespraesident": "Max Petitpierre",
+      "lebensdaten": "1899–1994",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Markus Feldmann",
+      "partei_vizepraesident": "BGB"
+    },
+    {
+      "jahr": "1956",
+      "bundespraesident": "Markus Feldmann",
+      "lebensdaten": "1897–1958",
+      "partei": "BGB",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Hans Streuli",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1957",
+      "bundespraesident": "Hans Streuli",
+      "lebensdaten": "1892–1970",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Thomas Holenstein",
+      "partei_vizepraesident": "KCVP"
+    },
+    {
+      "jahr": "1958",
+      "bundespraesident": "Thomas Holenstein",
+      "lebensdaten": "1896–1962",
+      "partei": "KCVP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Paul Chaudet",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1959",
+      "bundespraesident": "Paul Chaudet",
+      "lebensdaten": "1904–1977",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Giuseppe Lepori",
+      "partei_vizepraesident": "KCVP"
+    },
+    {
+      "jahr": "1960",
+      "bundespraesident": "Max Petitpierre",
+      "lebensdaten": "1899–1994",
+      "partei": "FDP",
+      "praesidentschaft_nr": 3,
+      "vizepraesident": "Friedrich Traugott Wahlen",
+      "partei_vizepraesident": "BGB"
+    },
+    {
+      "jahr": "1961",
+      "bundespraesident": "Friedrich Traugott Wahlen",
+      "lebensdaten": "1899–1985",
+      "partei": "BGB",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Paul Chaudet",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1962",
+      "bundespraesident": "Paul Chaudet",
+      "lebensdaten": "1904–1977",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Jean Bourgknecht",
+      "partei_vizepraesident": "KCVP"
+    },
+    {
+      "jahr": "1962",
+      "bundespraesident": "Paul Chaudet",
+      "lebensdaten": "1904–1977",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Willy Spühler",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "1963",
+      "bundespraesident": "Willy Spühler",
+      "lebensdaten": "1902–1990",
+      "partei": "SP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Ludwig von Moos",
+      "partei_vizepraesident": "KCVP"
+    },
+    {
+      "jahr": "1964",
+      "bundespraesident": "Ludwig von Moos",
+      "lebensdaten": "1910–1990",
+      "partei": "KCVP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Hans-Peter Tschudi",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "1965",
+      "bundespraesident": "Hans-Peter Tschudi",
+      "lebensdaten": "1913–2002",
+      "partei": "SP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Hans Schaffner",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1966",
+      "bundespraesident": "Hans Schaffner",
+      "lebensdaten": "1908–2004",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Roger Bonvin",
+      "partei_vizepraesident": "KCVP"
+    },
+    {
+      "jahr": "1967",
+      "bundespraesident": "Roger Bonvin",
+      "lebensdaten": "1907–1982",
+      "partei": "KCVP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Willy Spühler",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "1968",
+      "bundespraesident": "Willy Spühler",
+      "lebensdaten": "1902–1990",
+      "partei": "SP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Ludwig von Moos",
+      "partei_vizepraesident": "KCVP"
+    },
+    {
+      "jahr": "1969",
+      "bundespraesident": "Ludwig von Moos",
+      "lebensdaten": "1910–1990",
+      "partei": "KCVP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Hans-Peter Tschudi",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "1970",
+      "bundespraesident": "Hans-Peter Tschudi",
+      "lebensdaten": "1913–2002",
+      "partei": "SP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Rudolf Gnägi",
+      "partei_vizepraesident": "BGB"
+    },
+    {
+      "jahr": "1971",
+      "bundespraesident": "Rudolf Gnägi",
+      "lebensdaten": "1917–1985",
+      "partei": "SVP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Nello Celio",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1972",
+      "bundespraesident": "Nello Celio",
+      "lebensdaten": "1914–1995",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Roger Bonvin",
+      "partei_vizepraesident": "CVP"
+    },
+    {
+      "jahr": "1973",
+      "bundespraesident": "Roger Bonvin",
+      "lebensdaten": "1907–1982",
+      "partei": "CVP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Ernst Brugger",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1974",
+      "bundespraesident": "Ernst Brugger",
+      "lebensdaten": "1914–1998",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Pierre Graber",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "1975",
+      "bundespraesident": "Pierre Graber",
+      "lebensdaten": "1908–2003",
+      "partei": "SP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Rudolf Gnägi",
+      "partei_vizepraesident": "SVP"
+    },
+    {
+      "jahr": "1976",
+      "bundespraesident": "Rudolf Gnägi",
+      "lebensdaten": "1917–1985",
+      "partei": "SVP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Kurt Furgler",
+      "partei_vizepraesident": "CVP"
+    },
+    {
+      "jahr": "1977",
+      "bundespraesident": "Kurt Furgler",
+      "lebensdaten": "1924–2008",
+      "partei": "CVP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Willi Ritschard",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "1978",
+      "bundespraesident": "Willi Ritschard",
+      "lebensdaten": "1918–1983",
+      "partei": "SP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Hans Hürlimann",
+      "partei_vizepraesident": "CVP"
+    },
+    {
+      "jahr": "1979",
+      "bundespraesident": "Hans Hürlimann",
+      "lebensdaten": "1918–1994",
+      "partei": "CVP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Georges-André Chevallaz",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1980",
+      "bundespraesident": "Georges-André Chevallaz",
+      "lebensdaten": "1915–2002",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Kurt Furgler",
+      "partei_vizepraesident": "CVP"
+    },
+    {
+      "jahr": "1981",
+      "bundespraesident": "Kurt Furgler",
+      "lebensdaten": "1924–2008",
+      "partei": "CVP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Fritz Honegger",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1982",
+      "bundespraesident": "Fritz Honegger",
+      "lebensdaten": "1917–1999",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Pierre Aubert",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "1983",
+      "bundespraesident": "Pierre Aubert",
+      "lebensdaten": "1927–2016",
+      "partei": "SP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Willi Ritschard (1918–1983)",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "1983",
+      "bundespraesident": "Pierre Aubert",
+      "lebensdaten": "1927–2016",
+      "partei": "SP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Amt ab 16. Oktober vakant",
+      "partei_vizepraesident": ""
+    },
+    {
+      "jahr": "1984",
+      "bundespraesident": "Leon Schlumpf",
+      "lebensdaten": "1925–2012",
+      "partei": "SVP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Kurt Furgler",
+      "partei_vizepraesident": "CVP"
+    },
+    {
+      "jahr": "1985",
+      "bundespraesident": "Kurt Furgler",
+      "lebensdaten": "1924–2008",
+      "partei": "CVP",
+      "praesidentschaft_nr": 3,
+      "vizepraesident": "Alphons Egli",
+      "partei_vizepraesident": "CVP"
+    },
+    {
+      "jahr": "1986",
+      "bundespraesident": "Alphons Egli",
+      "lebensdaten": "1924–2016",
+      "partei": "CVP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Pierre Aubert",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "1987",
+      "bundespraesident": "Pierre Aubert",
+      "lebensdaten": "1927–2016",
+      "partei": "SP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Otto Stich",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "1988",
+      "bundespraesident": "Otto Stich",
+      "lebensdaten": "1927–2012",
+      "partei": "SP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Jean-Pascal Delamuraz",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1989",
+      "bundespraesident": "Jean-Pascal Delamuraz",
+      "lebensdaten": "1936–1998",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Elisabeth Kopp",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1989",
+      "bundespraesident": "Jean-Pascal Delamuraz",
+      "lebensdaten": "1936–1998",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Arnold Koller",
+      "partei_vizepraesident": "CVP"
+    },
+    {
+      "jahr": "1990",
+      "bundespraesident": "Arnold Koller",
+      "lebensdaten": "* 1933",
+      "partei": "CVP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Flavio Cotti",
+      "partei_vizepraesident": "CVP"
+    },
+    {
+      "jahr": "1991",
+      "bundespraesident": "Flavio Cotti",
+      "lebensdaten": "1939–2020",
+      "partei": "CVP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "René Felber",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "1992",
+      "bundespraesident": "René Felber",
+      "lebensdaten": "1933–2020",
+      "partei": "SP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Adolf Ogi",
+      "partei_vizepraesident": "SVP"
+    },
+    {
+      "jahr": "1993",
+      "bundespraesident": "Adolf Ogi",
+      "lebensdaten": "* 1942",
+      "partei": "SVP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Otto Stich",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "1994",
+      "bundespraesident": "Otto Stich",
+      "lebensdaten": "1927–2012",
+      "partei": "SP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Kaspar Villiger",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1995",
+      "bundespraesident": "Kaspar Villiger",
+      "lebensdaten": "* 1941",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Jean-Pascal Delamuraz",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "1996",
+      "bundespraesident": "Jean-Pascal Delamuraz",
+      "lebensdaten": "1936–1998",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Arnold Koller",
+      "partei_vizepraesident": "CVP"
+    },
+    {
+      "jahr": "1997",
+      "bundespraesident": "Arnold Koller",
+      "lebensdaten": "* 1933",
+      "partei": "CVP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Flavio Cotti",
+      "partei_vizepraesident": "CVP"
+    },
+    {
+      "jahr": "1998",
+      "bundespraesident": "Flavio Cotti",
+      "lebensdaten": "1939–2020",
+      "partei": "CVP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Ruth Dreifuss",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "1999",
+      "bundespraesident": "Ruth Dreifuss",
+      "lebensdaten": "* 1940",
+      "partei": "SP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Adolf Ogi",
+      "partei_vizepraesident": "SVP"
+    },
+    {
+      "jahr": "2000",
+      "bundespraesident": "Adolf Ogi",
+      "lebensdaten": "* 1942",
+      "partei": "SVP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Moritz Leuenberger",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "2001",
+      "bundespraesident": "Moritz Leuenberger",
+      "lebensdaten": "* 1946",
+      "partei": "SP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Kaspar Villiger",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "2002",
+      "bundespraesident": "Kaspar Villiger",
+      "lebensdaten": "* 1941",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Pascal Couchepin",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "2003",
+      "bundespraesident": "Pascal Couchepin",
+      "lebensdaten": "* 1942",
+      "partei": "FDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Ruth Metzler-Arnold",
+      "partei_vizepraesident": "CVP"
+    },
+    {
+      "jahr": "2004",
+      "bundespraesident": "Joseph Deiss",
+      "lebensdaten": "* 1946",
+      "partei": "CVP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Samuel Schmid",
+      "partei_vizepraesident": "SVP"
+    },
+    {
+      "jahr": "2005",
+      "bundespraesident": "Samuel Schmid",
+      "lebensdaten": "* 1947",
+      "partei": "SVP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Moritz Leuenberger",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "2006",
+      "bundespraesident": "Moritz Leuenberger",
+      "lebensdaten": "* 1946",
+      "partei": "SP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Micheline Calmy-Rey",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "2007",
+      "bundespraesident": "Micheline Calmy-Rey",
+      "lebensdaten": "* 1945",
+      "partei": "SP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Pascal Couchepin",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "2008",
+      "bundespraesident": "Pascal Couchepin",
+      "lebensdaten": "* 1942",
+      "partei": "FDP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Hans-Rudolf Merz",
+      "partei_vizepraesident": "FDP"
+    },
+    {
+      "jahr": "2009",
+      "bundespraesident": "Hans-Rudolf Merz",
+      "lebensdaten": "* 1942",
+      "partei": "FDP.Die Liberalen",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Doris Leuthard",
+      "partei_vizepraesident": "CVP"
+    },
+    {
+      "jahr": "2010",
+      "bundespraesident": "Doris Leuthard",
+      "lebensdaten": "* 1963",
+      "partei": "CVP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Moritz Leuenberger",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "2010",
+      "bundespraesident": "Doris Leuthard",
+      "lebensdaten": "* 1963",
+      "partei": "CVP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Micheline Calmy-Rey",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "2011",
+      "bundespraesident": "Micheline Calmy-Rey",
+      "lebensdaten": "* 1945",
+      "partei": "SP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Eveline Widmer-Schlumpf",
+      "partei_vizepraesident": "BDP"
+    },
+    {
+      "jahr": "2012",
+      "bundespraesident": "Eveline Widmer-Schlumpf",
+      "lebensdaten": "* 1956",
+      "partei": "BDP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Ueli Maurer",
+      "partei_vizepraesident": "SVP"
+    },
+    {
+      "jahr": "2013",
+      "bundespraesident": "Ueli Maurer",
+      "lebensdaten": "* 1950",
+      "partei": "SVP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Didier Burkhalter",
+      "partei_vizepraesident": "FDP.Die Liberalen"
+    },
+    {
+      "jahr": "2014",
+      "bundespraesident": "Didier Burkhalter",
+      "lebensdaten": "* 1960",
+      "partei": "FDP.Die Liberalen",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Simonetta Sommaruga",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "2015",
+      "bundespraesident": "Simonetta Sommaruga",
+      "lebensdaten": "* 1960",
+      "partei": "SP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Johann Schneider-Ammann",
+      "partei_vizepraesident": "FDP.Die Liberalen"
+    },
+    {
+      "jahr": "2016",
+      "bundespraesident": "Johann Schneider-Ammann",
+      "lebensdaten": "* 1952",
+      "partei": "FDP.Die Liberalen",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Doris Leuthard",
+      "partei_vizepraesident": "CVP"
+    },
+    {
+      "jahr": "2017",
+      "bundespraesident": "Doris Leuthard",
+      "lebensdaten": "* 1963",
+      "partei": "CVP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Alain Berset",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "2018",
+      "bundespraesident": "Alain Berset",
+      "lebensdaten": "* 1972",
+      "partei": "SP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Ueli Maurer",
+      "partei_vizepraesident": "SVP"
+    },
+    {
+      "jahr": "2019",
+      "bundespraesident": "Ueli Maurer",
+      "lebensdaten": "* 1950",
+      "partei": "SVP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Simonetta Sommaruga",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "2020",
+      "bundespraesident": "Simonetta Sommaruga",
+      "lebensdaten": "* 1960",
+      "partei": "SP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Guy Parmelin",
+      "partei_vizepraesident": "SVP"
+    },
+    {
+      "jahr": "2021",
+      "bundespraesident": "Guy Parmelin",
+      "lebensdaten": "* 1959",
+      "partei": "SVP",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Ignazio Cassis",
+      "partei_vizepraesident": "FDP.Die Liberalen"
+    },
+    {
+      "jahr": "2022",
+      "bundespraesident": "Ignazio Cassis",
+      "lebensdaten": "* 1961",
+      "partei": "FDP.Die Liberalen",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Alain Berset",
+      "partei_vizepraesident": "SP"
+    },
+    {
+      "jahr": "2023",
+      "bundespraesident": "Alain Berset",
+      "lebensdaten": "* 1972",
+      "partei": "SP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Viola Amherd",
+      "partei_vizepraesident": "Die Mitte"
+    },
+    {
+      "jahr": "2024",
+      "bundespraesident": "Viola Amherd",
+      "lebensdaten": "* 1962",
+      "partei": "Die Mitte",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Karin Keller-Sutter",
+      "partei_vizepraesident": "FDP.Die Liberalen"
+    },
+    {
+      "jahr": "2025",
+      "bundespraesident": "Karin Keller-Sutter",
+      "lebensdaten": "* 1963",
+      "partei": "FDP.Die Liberalen",
+      "praesidentschaft_nr": 1,
+      "vizepraesident": "Guy Parmelin",
+      "partei_vizepraesident": "SVP"
+    },
+    {
+      "jahr": "2026",
+      "bundespraesident": "Guy Parmelin",
+      "lebensdaten": "* 1959",
+      "partei": "SVP",
+      "praesidentschaft_nr": 2,
+      "vizepraesident": "Ignazio Cassis",
+      "partei_vizepraesident": "FDP.Die Liberalen"
+    }
+  ],
+  "meta": {
+    "title": "Schweizer Bundespräsidenten seit 1848 - Free Download",
+    "description": "Alle Bundespräsidenten der Schweizerischen Eidgenossenschaft seit 1848 mit Lebensdaten, Partei, Anzahl Präsidentschaften und Vizepräsident des Bundesrates. Contains 188 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Schweizer Bundespräsidenten seit 1848 | ListBase",
+    "seo_description": "Download Schweizer Bundespräsidenten seit 1848 — 188 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 188 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Schweizer_Bundespräsidenten"
+    ]
+  }
+}
