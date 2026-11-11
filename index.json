@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-11T02:21:54.664Z",
-  "total_datasets": 553,
-  "total_records": 1878838,
+  "generated": "2026-11-11T02:22:05.152Z",
+  "total_datasets": 554,
+  "total_records": 1878959,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "history",
@@ -5572,6 +5572,32 @@
         "xlsx": {
           "name": "de-kurorte_DE.xlsx",
           "size": 19527
+        }
+      }
+    },
+    {
+      "id": "de-ueberregionale-traumazentren",
+      "name": "Überregionale Traumazentren in Deutschland",
+      "category": "health",
+      "record_count": 121,
+      "columns": [
+        "hospital",
+        "location",
+        "state",
+        "trauma_network",
+        "notes"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_überregionaler_Traumazentren_in_Deutschland",
+      "updated": "2026-11",
+      "size": 25260,
+      "files": {
+        "csv": {
+          "name": "de-ueberregionale-traumazentren_DE.csv",
+          "size": 10511
+        },
+        "xlsx": {
+          "name": "de-ueberregionale-traumazentren_DE.xlsx",
+          "size": 11867
         }
       }
     },

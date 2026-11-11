@@ -1,0 +1,898 @@
+{
+  "id": "de-ueberregionale-traumazentren",
+  "name": "Überregionale Traumazentren in Deutschland",
+  "title": "Überregionale Traumazentren in Deutschland",
+  "description": "Krankenhäuser in Deutschland, die als überregionales Traumazentrum (DGU-TraumaNetzwerk) zertifiziert sind, mit Standort, Bundesland und TraumaNetzwerk.",
+  "category": "health",
+  "source": "https://de.wikipedia.org/wiki/Liste_überregionaler_Traumazentren_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_überregionaler_Traumazentren_in_Deutschland",
+  "updated": "2026-11",
+  "record_count": 121,
+  "columns": [
+    {
+      "key": "hospital",
+      "label": "Hospital",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "trauma_network",
+      "label": "Trauma Network",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "hospital": "Berufsgenossenschaftliche Unfallklinik Tübingen & Universitätsklinikum Tübingen",
+      "location": "Tübingen",
+      "state": "Baden-Württemberg",
+      "trauma_network": "Südwürttemberg",
+      "notes": "Beide Kliniken bilden zusammen das überregionale Traumazentrum im TraumaNetzwerk Südwürttemberg."
+    },
+    {
+      "hospital": "Universitätsklinikum Ulm & Bundeswehrkrankenhaus Ulm",
+      "location": "Ulm",
+      "state": "Baden-Württemberg",
+      "trauma_network": "Ulm",
+      "notes": "Beide Kliniken sind überregionale Traumazentren im Traumanetzwerk Ulm"
+    },
+    {
+      "hospital": "Klinikum Stuttgart",
+      "location": "Stuttgart",
+      "state": "Baden-Württemberg",
+      "trauma_network": "Region Stuttgart",
+      "notes": "Katharinenhospital"
+    },
+    {
+      "hospital": "Oberschwabenklinik",
+      "location": "Ravensburg",
+      "state": "Baden-Württemberg",
+      "trauma_network": "Oberschwaben-Bodensee",
+      "notes": "Krankenhaus St. Elisabeth"
+    },
+    {
+      "hospital": "Ortenau Klinikum",
+      "location": "Offenburg",
+      "state": "Baden-Württemberg",
+      "trauma_network": "Oberrhein",
+      "notes": "Betriebsstelle Offenburg Ebertplatz"
+    },
+    {
+      "hospital": "Diak Klinikum Landkreis Schwäbisch Hall",
+      "location": "Schwäbisch Hall",
+      "state": "Baden-Württemberg",
+      "trauma_network": "Nord-Württemberg",
+      "notes": ""
+    },
+    {
+      "hospital": "Regionale Kliniken Holding RKH",
+      "location": "Ludwigsburg",
+      "state": "Baden-Württemberg",
+      "trauma_network": "Nord-Württemberg",
+      "notes": "Klinikum Ludwigsburg"
+    },
+    {
+      "hospital": "Schwarzwald-Baar Klinikum Villingen-Schwenningen",
+      "location": "Villingen-Schwenningen",
+      "state": "Baden-Württemberg",
+      "trauma_network": "Schwarzwald-Bodensee",
+      "notes": "Standort Villingen-Schwenningen"
+    },
+    {
+      "hospital": "SLK-Kliniken",
+      "location": "Heilbronn",
+      "state": "Baden-Württemberg",
+      "trauma_network": "Nord-Württemberg",
+      "notes": "Klinikum am Gesundbrunnen Heilbronn"
+    },
+    {
+      "hospital": "Städtisches Klinikum Karlsruhe",
+      "location": "Karlsruhe",
+      "state": "Baden-Württemberg",
+      "trauma_network": "Nordbaden",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum Freiburg",
+      "location": "Freiburg im Breisgau",
+      "state": "Baden-Württemberg",
+      "trauma_network": "Oberrhein",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum Heidelberg",
+      "location": "Heidelberg",
+      "state": "Baden-Württemberg",
+      "trauma_network": "Kurpfalz",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum Mannheim",
+      "location": "Mannheim",
+      "state": "Baden-Württemberg",
+      "trauma_network": "Kurpfalz",
+      "notes": ""
+    },
+    {
+      "hospital": "Berufsgenossenschaftliche Unfallklinik Murnau",
+      "location": "Murnau",
+      "state": "Bayern",
+      "trauma_network": "München-Oberbayern-Süd",
+      "notes": ""
+    },
+    {
+      "hospital": "DONAUISAR Klinikum",
+      "location": "Deggendorf",
+      "state": "Bayern",
+      "trauma_network": "Ostbayern",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum am Bruderwald",
+      "location": "Bamberg",
+      "state": "Bayern",
+      "trauma_network": "Oberfranken",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum Aschaffenburg-Alzenau",
+      "location": "Aschaffenburg",
+      "state": "Bayern",
+      "trauma_network": "Nordbayern-Würzburg",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum Bayreuth",
+      "location": "Bayreuth",
+      "state": "Bayern",
+      "trauma_network": "Oberfranken",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum der Universität München",
+      "location": "München",
+      "state": "Bayern",
+      "trauma_network": "München-Oberbayern-Süd",
+      "notes": "Campus Großhadern"
+    },
+    {
+      "hospital": "Klinikum Ingolstadt",
+      "location": "Ingolstadt",
+      "state": "Bayern",
+      "trauma_network": "München Oberbayern Nord",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum Kempten",
+      "location": "Kempten",
+      "state": "Bayern",
+      "trauma_network": "München-Oberbayern-Süd",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum Kulmbach",
+      "location": "Kulmbach",
+      "state": "Bayern",
+      "trauma_network": "Oberfranken",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum Landshut",
+      "location": "Landshut",
+      "state": "Bayern",
+      "trauma_network": "Ostbayern",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum Nürnberg",
+      "location": "Nürnberg",
+      "state": "Bayern",
+      "trauma_network": "Mittelfranken",
+      "notes": "Standort Süd"
+    },
+    {
+      "hospital": "Klinikum Passau",
+      "location": "Passau",
+      "state": "Bayern",
+      "trauma_network": "Ostbayern",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum rechts der Isar",
+      "location": "München",
+      "state": "Bayern",
+      "trauma_network": "München Oberbayern Nord",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum St. Elisabeth Straubing",
+      "location": "Straubing",
+      "state": "Bayern",
+      "trauma_network": "Ostbayern",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum Rosenheim",
+      "location": "Rosenheim",
+      "state": "Bayern",
+      "trauma_network": "München-Oberbayern-Süd",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum Traunstein",
+      "location": "Traunstein",
+      "state": "Bayern",
+      "trauma_network": "München-Oberbayern-Süd",
+      "notes": ""
+    },
+    {
+      "hospital": "Krankenhaus Barmherzige Brüder (Regensburg)",
+      "location": "Regensburg",
+      "state": "Bayern",
+      "trauma_network": "Ostbayern",
+      "notes": "Standort Prüfeninger Straße"
+    },
+    {
+      "hospital": "München Klinik Bogenhausen",
+      "location": "München",
+      "state": "Bayern",
+      "trauma_network": "München Oberbayern Nord",
+      "notes": ""
+    },
+    {
+      "hospital": "München Klinik Harlaching",
+      "location": "München",
+      "state": "Bayern",
+      "trauma_network": "München Oberbayern Nord",
+      "notes": ""
+    },
+    {
+      "hospital": "München Klinik Schwabing",
+      "location": "München",
+      "state": "Bayern",
+      "trauma_network": "München Oberbayern Nord",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum Augsburg",
+      "location": "Augsburg",
+      "state": "Bayern",
+      "trauma_network": "Schwaben",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum Erlangen",
+      "location": "Erlangen",
+      "state": "Bayern",
+      "trauma_network": "Mittelfranken",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum Regensburg",
+      "location": "Regensburg",
+      "state": "Bayern",
+      "trauma_network": "Ostbayern",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum Würzburg",
+      "location": "Würzburg",
+      "state": "Bayern",
+      "trauma_network": "Nordbayern-Würzburg",
+      "notes": ""
+    },
+    {
+      "hospital": "Charité",
+      "location": "Berlin",
+      "state": "Berlin",
+      "trauma_network": "Berlin",
+      "notes": "Campus Benjamin Franklin (CBF)"
+    },
+    {
+      "hospital": "Charité",
+      "location": "Berlin",
+      "state": "Berlin",
+      "trauma_network": "Berlin",
+      "notes": "Campus Virchow-Klinikum (CVK)"
+    },
+    {
+      "hospital": "Helios Klinikum Berlin-Buch",
+      "location": "Berlin",
+      "state": "Berlin",
+      "trauma_network": "Berlin",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum im Friedrichshain",
+      "location": "Berlin",
+      "state": "Berlin",
+      "trauma_network": "Berlin",
+      "notes": ""
+    },
+    {
+      "hospital": "Unfallkrankenhaus Berlin",
+      "location": "Berlin",
+      "state": "Berlin",
+      "trauma_network": "Berlin",
+      "notes": ""
+    },
+    {
+      "hospital": "Carl-Thiem-Klinikum Cottbus",
+      "location": "Cottbus",
+      "state": "Brandenburg",
+      "trauma_network": "Brandenburg Süd",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum Ernst von Bergmann Potsdam",
+      "location": "Potsdam",
+      "state": "Brandenburg",
+      "trauma_network": "Berlin",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum Frankfurt (Oder)",
+      "location": "Frankfurt (Oder)",
+      "state": "Brandenburg",
+      "trauma_network": "Brandenburg Süd-Ost",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum Bremen-Mitte",
+      "location": "Bremen",
+      "state": "Bremen",
+      "trauma_network": "Bremen",
+      "notes": ""
+    },
+    {
+      "hospital": "Asklepios Klinik Altona",
+      "location": "Hamburg",
+      "state": "Hamburg",
+      "trauma_network": "Hamburg",
+      "notes": ""
+    },
+    {
+      "hospital": "Asklepios Klinik Nord",
+      "location": "Hamburg",
+      "state": "Hamburg",
+      "trauma_network": "Schleswig-Holstein",
+      "notes": "Standort Heidberg"
+    },
+    {
+      "hospital": "Asklepios Klinik St. Georg",
+      "location": "Hamburg",
+      "state": "Hamburg",
+      "trauma_network": "Hamburg",
+      "notes": ""
+    },
+    {
+      "hospital": "BG Klinikum Hamburg",
+      "location": "Hamburg",
+      "state": "Hamburg",
+      "trauma_network": "Hamburg",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum Hamburg-Eppendorf",
+      "location": "Hamburg",
+      "state": "Hamburg",
+      "trauma_network": "Hamburg",
+      "notes": ""
+    },
+    {
+      "hospital": "Berufsgenossenschaftliche Unfallklinik Frankfurt am Main",
+      "location": "Frankfurt am Main",
+      "state": "Hessen",
+      "trauma_network": "Hessen / Region Südhessen",
+      "notes": ""
+    },
+    {
+      "hospital": "Helios Dr. Horst Schmidt Kliniken Wiesbaden",
+      "location": "Wiesbaden",
+      "state": "Hessen",
+      "trauma_network": "Hessen / Region Südhessen",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum Darmstadt",
+      "location": "Darmstadt",
+      "state": "Hessen",
+      "trauma_network": "Hessen / Region Südhessen",
+      "notes": "Standort Darmstadt-Grafenstraße"
+    },
+    {
+      "hospital": "Klinikum Frankfurt Höchst",
+      "location": "Frankfurt am Main",
+      "state": "Hessen",
+      "trauma_network": "Hessen / Region Südhessen",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum Fulda",
+      "location": "Fulda",
+      "state": "Hessen",
+      "trauma_network": "Osthessen",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum Kassel",
+      "location": "Kassel",
+      "state": "Hessen",
+      "trauma_network": "Göttingen – Kassel",
+      "notes": ""
+    },
+    {
+      "hospital": "Sana Klinikum Offenbach",
+      "location": "Offenbach am Main",
+      "state": "Hessen",
+      "trauma_network": "Hessen / Region Südhessen",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum Frankfurt",
+      "location": "Frankfurt am Main",
+      "state": "Hessen",
+      "trauma_network": "Hessen / Region Südhessen",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum Gießen und Marburg",
+      "location": "Gießen",
+      "state": "Hessen",
+      "trauma_network": "Hessen / Region Mittelhessen",
+      "notes": "Standort Gießen"
+    },
+    {
+      "hospital": "Universitätsklinikum Gießen und Marburg",
+      "location": "Marburg",
+      "state": "Hessen",
+      "trauma_network": "Hessen / Region Mittelhessen",
+      "notes": "Standort Marburg"
+    },
+    {
+      "hospital": "Universitätsmedizin Greifswald",
+      "location": "Greifswald",
+      "state": "Mecklenburg-Vorpommern",
+      "trauma_network": "Mecklenburg-Vorpommern",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsmedizin Rostock",
+      "location": "Rostock",
+      "state": "Mecklenburg-Vorpommern",
+      "trauma_network": "Mecklenburg-Vorpommern",
+      "notes": ""
+    },
+    {
+      "hospital": "Helios Kliniken Schwerin",
+      "location": "Schwerin",
+      "state": "Mecklenburg-Vorpommern",
+      "trauma_network": "Mecklenburg-Vorpommern",
+      "notes": ""
+    },
+    {
+      "hospital": "AGAPLESION Diakonieklinikum Rotenburg",
+      "location": "Rotenburg (Wümme)",
+      "state": "Niedersachsen",
+      "trauma_network": "Bremen",
+      "notes": ""
+    },
+    {
+      "hospital": "Allgemeines Krankenhaus Celle",
+      "location": "Celle",
+      "state": "Niedersachsen",
+      "trauma_network": "Nordost-Niedersachsen",
+      "notes": ""
+    },
+    {
+      "hospital": "Evangelisches Krankenhaus Oldenburg",
+      "location": "Oldenburg",
+      "state": "Niedersachsen",
+      "trauma_network": "Oldenburg-Ostfriesland",
+      "notes": "Kooperation mit Pius-Hospital Oldenburg"
+    },
+    {
+      "hospital": "Friederikenstift (Hannover)",
+      "location": "Hannover",
+      "state": "Niedersachsen",
+      "trauma_network": "Hannover",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum Osnabrück",
+      "location": "Osnabrück",
+      "state": "Niedersachsen",
+      "trauma_network": "Süd-West-Niedersachsen",
+      "notes": "Standort Finkenhügel"
+    },
+    {
+      "hospital": "Klinikzentrum Westerstede",
+      "location": "Westerstede",
+      "state": "Niedersachsen",
+      "trauma_network": "Oldenburg-Ostfriesland",
+      "notes": "Zusammen mit Bundeswehrkrankenhaus Westerstede"
+    },
+    {
+      "hospital": "Krankenhaus Ludmillenstift Meppen",
+      "location": "Meppen",
+      "state": "Niedersachsen",
+      "trauma_network": "Nord-West",
+      "notes": ""
+    },
+    {
+      "hospital": "KRH Klinikum Nordstadt",
+      "location": "Hannover",
+      "state": "Niedersachsen",
+      "trauma_network": "Hannover",
+      "notes": ""
+    },
+    {
+      "hospital": "Marienhospital Osnabrück",
+      "location": "Osnabrück",
+      "state": "Niedersachsen",
+      "trauma_network": "Süd-West-Niedersachsen",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum der Medizinischen Hochschule Hannover",
+      "location": "Hannover",
+      "state": "Niedersachsen",
+      "trauma_network": "Hannover",
+      "notes": ""
+    },
+    {
+      "hospital": "Städtisches Klinikum Braunschweig",
+      "location": "Braunschweig",
+      "state": "Niedersachsen",
+      "trauma_network": "Nordost-Niedersachsen",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsmedizin Göttingen",
+      "location": "Göttingen",
+      "state": "Niedersachsen",
+      "trauma_network": "Göttingen – Kassel",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum Leverkusen",
+      "location": "Leverkusen",
+      "state": "Nordrhein-Westfalen",
+      "trauma_network": "Region Köln",
+      "notes": ""
+    },
+    {
+      "hospital": "Knappschaft Kliniken Gelsenkirchen-Buer",
+      "location": "Gelsenkirchen",
+      "state": "Nordrhein-Westfalen",
+      "trauma_network": "Ruhrgebiet",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum Vest",
+      "location": "Recklinghausen",
+      "state": "Nordrhein-Westfalen",
+      "trauma_network": "Ruhrgebiet",
+      "notes": "Standort Knappschaftskrankenhaus Recklinghausen"
+    },
+    {
+      "hospital": "Berufsgenossenschaftliche Unfallklinik Duisburg",
+      "location": "Duisburg",
+      "state": "Nordrhein-Westfalen",
+      "trauma_network": "Ruhrgebiet",
+      "notes": ""
+    },
+    {
+      "hospital": "Berufsgenossenschaftliches Universitätsklinikum Bergmannsheil",
+      "location": "Bochum",
+      "state": "Nordrhein-Westfalen",
+      "trauma_network": "Ruhrgebiet",
+      "notes": ""
+    },
+    {
+      "hospital": "Evangelisches Klinikum Bethel",
+      "location": "Bielefeld",
+      "state": "Nordrhein-Westfalen",
+      "trauma_network": "Ostwestfalen",
+      "notes": ""
+    },
+    {
+      "hospital": "Helios Klinikum Krefeld",
+      "location": "Krefeld",
+      "state": "Nordrhein-Westfalen",
+      "trauma_network": "Düsseldorf",
+      "notes": ""
+    },
+    {
+      "hospital": "Helios Universitätsklinikum Wuppertal",
+      "location": "Wuppertal",
+      "state": "Nordrhein-Westfalen",
+      "trauma_network": "Bergisches TraumaNetzwerk",
+      "notes": "Standort Barmen"
+    },
+    {
+      "hospital": "Jung-Stilling-Krankenhaus",
+      "location": "Siegen",
+      "state": "Nordrhein-Westfalen",
+      "trauma_network": "Region Köln",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum Köln-Merheim",
+      "location": "Köln",
+      "state": "Nordrhein-Westfalen",
+      "trauma_network": "Region Köln",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum Dortmund",
+      "location": "Dortmund",
+      "state": "Nordrhein-Westfalen",
+      "trauma_network": "Ruhrgebiet",
+      "notes": ""
+    },
+    {
+      "hospital": "Städtisches Klinikum Solingen",
+      "location": "Solingen",
+      "state": "Nordrhein-Westfalen",
+      "trauma_network": "Bergisches TraumaNetzwerk",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum Aachen",
+      "location": "Aachen",
+      "state": "Nordrhein-Westfalen",
+      "trauma_network": "EU Regio Aachen",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum Bonn",
+      "location": "Bonn",
+      "state": "Nordrhein-Westfalen",
+      "trauma_network": "Rettungsring Bonn Rhein-Sieg",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum Düsseldorf",
+      "location": "Düsseldorf",
+      "state": "Nordrhein-Westfalen",
+      "trauma_network": "Düsseldorf",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum Essen",
+      "location": "Essen",
+      "state": "Nordrhein-Westfalen",
+      "trauma_network": "Ruhrgebiet",
+      "notes": ""
+    },
+    {
+      "hospital": "Knappschaftskrankenhaus Bochum-Langendreer",
+      "location": "Bochum",
+      "state": "Nordrhein-Westfalen",
+      "trauma_network": "Ruhrgebiet",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum Köln",
+      "location": "Köln",
+      "state": "Nordrhein-Westfalen",
+      "trauma_network": "Region Köln",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum Münster",
+      "location": "Münster",
+      "state": "Nordrhein-Westfalen",
+      "trauma_network": "Nord-West",
+      "notes": ""
+    },
+    {
+      "hospital": "Berufsgenossenschaftliche Unfallklinik Ludwigshafen",
+      "location": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "trauma_network": "Pfalz",
+      "notes": ""
+    },
+    {
+      "hospital": "Bundeswehrzentralkrankenhaus Koblenz",
+      "location": "Koblenz",
+      "state": "Rheinland-Pfalz",
+      "trauma_network": "Mittelrhein",
+      "notes": ""
+    },
+    {
+      "hospital": "Krankenhaus der Barmherzigen Brüder (Trier)",
+      "location": "Trier",
+      "state": "Rheinland-Pfalz",
+      "trauma_network": "Eifel - Mosel",
+      "notes": ""
+    },
+    {
+      "hospital": "Marienhaus Klinikum St. Elisabeth Neuwied",
+      "location": "Neuwied",
+      "state": "Rheinland-Pfalz",
+      "trauma_network": "Mittelrhein",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsmedizin der Johannes Gutenberg-Universität Mainz",
+      "location": "Mainz",
+      "state": "Rheinland-Pfalz",
+      "trauma_network": "Rheinhessen",
+      "notes": ""
+    },
+    {
+      "hospital": "Westpfalz-Klinikum",
+      "location": "Kaiserslautern",
+      "state": "Rheinland-Pfalz",
+      "trauma_network": "Pfalz",
+      "notes": "Standort Kaiserslautern"
+    },
+    {
+      "hospital": "Klinikum Saarbrücken",
+      "location": "Saarbrücken",
+      "state": "Saarland",
+      "trauma_network": "Saar-(Lor)-Lux-Westpfalz",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum des Saarlandes",
+      "location": "Homburg",
+      "state": "Saarland",
+      "trauma_network": "Saar-(Lor)-Lux-Westpfalz",
+      "notes": ""
+    },
+    {
+      "hospital": "Heinrich-Braun-Klinikum",
+      "location": "Zwickau",
+      "state": "Sachsen",
+      "trauma_network": "Westsachsen",
+      "notes": "Standort Zwickau"
+    },
+    {
+      "hospital": "Klinikum Chemnitz",
+      "location": "Chemnitz",
+      "state": "Sachsen",
+      "trauma_network": "Westsachsen",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum St. Georg Leipzig",
+      "location": "Leipzig",
+      "state": "Sachsen",
+      "trauma_network": "Westsachsen",
+      "notes": ""
+    },
+    {
+      "hospital": "Städtisches Klinikum Dresden",
+      "location": "Dresden",
+      "state": "Sachsen",
+      "trauma_network": "Ostsachsen",
+      "notes": "Standort Friedrichstadt"
+    },
+    {
+      "hospital": "Universitätsklinikum Carl Gustav Carus Dresden",
+      "location": "Dresden",
+      "state": "Sachsen",
+      "trauma_network": "Ostsachsen",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum Leipzig",
+      "location": "Leipzig",
+      "state": "Sachsen",
+      "trauma_network": "Westsachsen",
+      "notes": ""
+    },
+    {
+      "hospital": "BG Klinikum Bergmannstrost Halle",
+      "location": "Halle (Saale)",
+      "state": "Sachsen-Anhalt",
+      "trauma_network": "Sachsen-Anhalt Süd",
+      "notes": ""
+    },
+    {
+      "hospital": "Klinikum Magdeburg",
+      "location": "Magdeburg",
+      "state": "Sachsen-Anhalt",
+      "trauma_network": "Sachsen-Anhalt Nord",
+      "notes": ""
+    },
+    {
+      "hospital": "Städtisches Klinikum Dessau",
+      "location": "Dessau",
+      "state": "Sachsen-Anhalt",
+      "trauma_network": "Sachsen-Anhalt Süd",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum Halle (Saale)",
+      "location": "Halle (Saale)",
+      "state": "Sachsen-Anhalt",
+      "trauma_network": "Sachsen-Anhalt Süd",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum Magdeburg",
+      "location": "Magdeburg",
+      "state": "Sachsen-Anhalt",
+      "trauma_network": "Sachsen-Anhalt Nord",
+      "notes": ""
+    },
+    {
+      "hospital": "Diakonissenkrankenhaus Flensburg",
+      "location": "Flensburg",
+      "state": "Schleswig-Holstein",
+      "trauma_network": "Schleswig-Holstein",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum Schleswig-Holstein",
+      "location": "Kiel",
+      "state": "Schleswig-Holstein",
+      "trauma_network": "Schleswig-Holstein",
+      "notes": ""
+    },
+    {
+      "hospital": "Westküstenklinikum",
+      "location": "Heide",
+      "state": "Schleswig-Holstein",
+      "trauma_network": "Schleswig-Holstein",
+      "notes": "Standort Heide"
+    },
+    {
+      "hospital": "Universitätsklinikum Schleswig-Holstein",
+      "location": "Lübeck",
+      "state": "Schleswig-Holstein",
+      "trauma_network": "Schleswig-Holstein",
+      "notes": ""
+    },
+    {
+      "hospital": "Helios Klinikum Erfurt",
+      "location": "Erfurt",
+      "state": "Thüringen",
+      "trauma_network": "Thüringen",
+      "notes": ""
+    },
+    {
+      "hospital": "Südharz Klinikum Nordhausen",
+      "location": "Nordhausen",
+      "state": "Thüringen",
+      "trauma_network": "Thüringen",
+      "notes": ""
+    },
+    {
+      "hospital": "Universitätsklinikum Jena",
+      "location": "Jena",
+      "state": "Thüringen",
+      "trauma_network": "Thüringen",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "Überregionale Traumazentren in Deutschland - Free Download",
+    "description": "Krankenhäuser in Deutschland, die als überregionales Traumazentrum (DGU-TraumaNetzwerk) zertifiziert sind, mit Standort, Bundesland und TraumaNetzwerk. Contains 121 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Überregionale Traumazentren in Deutschland | ListBase",
+    "seo_description": "Download Überregionale Traumazentren in Deutschland — 121 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 121 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_überregionaler_Traumazentren_in_Deutschland"
+    ]
+  }
+}
