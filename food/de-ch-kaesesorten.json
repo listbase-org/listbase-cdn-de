@@ -1,0 +1,268 @@
+{
+  "id": "de-ch-kaesesorten",
+  "name": "Käsesorten aus der Schweiz",
+  "title": "Käsesorten aus der Schweiz",
+  "description": "Bekannte Schweizer Käsesorten mit Herkunftsregion und Käsetyp.",
+  "category": "food",
+  "source": "https://de.wikipedia.org/wiki/Liste_von_Käsesorten_aus_der_Schweiz",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_von_Käsesorten_aus_der_Schweiz",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "milk",
+      "label": "Milk",
+      "type": "string"
+    },
+    {
+      "key": "protection",
+      "label": "Protection",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Appenzeller",
+      "region": "Kantone Appenzell Innerrhoden, Ausserrhoden, St. Gallen und Thurgau",
+      "milk": "",
+      "protection": "",
+      "type": "Rohmilch-Halbhartkäse"
+    },
+    {
+      "name": "Berner Alpkäse bzw. Berner Hobelkäse",
+      "region": "Berner Oberland / Kanton Bern",
+      "milk": "Kuh",
+      "protection": "AOP",
+      "type": "Rohmilchkäse"
+    },
+    {
+      "name": "Bloderkäse, Sauerkäse (Vorstufe)",
+      "region": "Kanton St. Gallen und Fürstentum Liechtenstein",
+      "milk": "Kuh",
+      "protection": "AOP",
+      "type": "Sauerkäse"
+    },
+    {
+      "name": "Bratchäs",
+      "region": "",
+      "milk": "",
+      "protection": "",
+      "type": "Halbhartkäse"
+    },
+    {
+      "name": "Capreggio",
+      "region": "",
+      "milk": "",
+      "protection": "",
+      "type": "Ziegen-Rohmilchkäse"
+    },
+    {
+      "name": "Chevré",
+      "region": "",
+      "milk": "",
+      "protection": "",
+      "type": ""
+    },
+    {
+      "name": "Couronne (Zentralschweiz)",
+      "region": "",
+      "milk": "",
+      "protection": "",
+      "type": ""
+    },
+    {
+      "name": "Emmentaler",
+      "region": "Kantone Aargau, Bern, Glarus, Luzern, Schwyz, Solothurn, St. Gallen, Thurgau, Zug, Zürich und Freiburg",
+      "milk": "Kuh",
+      "protection": "AOP",
+      "type": "Rohmilch-Hartkäse"
+    },
+    {
+      "name": "L’Etivaz",
+      "region": "Gemeinden Château-d’Oex, Rougemont, Rossinière, Ollon, Villeneuve, Ormont-Dessus, Ormont-Dessous, Corbeyrier, Leysin und Bex",
+      "milk": "Kuh",
+      "protection": "AOP",
+      "type": "Rohmilch-Hartkäse"
+    },
+    {
+      "name": "Formaggio d’alpe ticinese",
+      "region": "Kanton Tessin",
+      "milk": "Ziege",
+      "protection": "AOP",
+      "type": "Halbhartkäse"
+    },
+    {
+      "name": "Glarner Alpkäse",
+      "region": "Kanton Glarus",
+      "milk": "Kuh",
+      "protection": "AOP",
+      "type": "Rohmilch-Halbhartkäse"
+    },
+    {
+      "name": "Glarner Schabziger",
+      "region": "Kanton Glarus, ältestes Markenprodukt der Schweiz",
+      "milk": "Kuh",
+      "protection": "",
+      "type": ""
+    },
+    {
+      "name": "Girenbader Chöpfli",
+      "region": "Zürcher Oberland",
+      "milk": "",
+      "protection": "",
+      "type": "Rohmilch-Halbhartkäse"
+    },
+    {
+      "name": "Grottino",
+      "region": "",
+      "milk": "",
+      "protection": "",
+      "type": ""
+    },
+    {
+      "name": "Le Gruyère oder auch Greyerzer",
+      "region": "Kantone Bern, Freiburg, Waadt, Neuenburg und Jura sowie Teile der Deutschschweiz",
+      "milk": "Kuh",
+      "protection": "AOP",
+      "type": "Rohmilch-Hartkäse"
+    },
+    {
+      "name": "Mühlibach",
+      "region": "",
+      "milk": "",
+      "protection": "",
+      "type": ""
+    },
+    {
+      "name": "Rasskäse",
+      "region": "",
+      "milk": "",
+      "protection": "",
+      "type": ""
+    },
+    {
+      "name": "Sbrinz",
+      "region": "Kantone Luzern, Schwyz, Ob- und Nidwalden, Zug und Bern",
+      "milk": "",
+      "protection": "AOP",
+      "type": "Rohmilch-Hartkäse"
+    },
+    {
+      "name": "Sérac",
+      "region": "",
+      "milk": "",
+      "protection": "",
+      "type": ""
+    },
+    {
+      "name": "Tête de Moine",
+      "region": "Freiberge, Pruntrut, Moutier und Courtelary, Saulcy sowie die Parzelle der Käserei Courgenay",
+      "milk": "Kuh",
+      "protection": "AOP",
+      "type": "Rohmilch-Halbhartkäse"
+    },
+    {
+      "name": "Tilsiter",
+      "region": "",
+      "milk": "",
+      "protection": "",
+      "type": ""
+    },
+    {
+      "name": "Tomme Vaudoise",
+      "region": "",
+      "milk": "",
+      "protection": "",
+      "type": ""
+    },
+    {
+      "name": "Trifolait",
+      "region": "Kanton Wallis",
+      "milk": "Kuh, Schaf und Ziege",
+      "protection": "",
+      "type": "Halbhartkäse"
+    },
+    {
+      "name": "Vacherin Fribourgeois",
+      "region": "Kanton Freiburg sowie die Berner Gemeinde Münchenwiler",
+      "milk": "Kuh",
+      "protection": "AOP",
+      "type": "Halbhartkäse"
+    },
+    {
+      "name": "Vacherin Mont-d’Or",
+      "region": "Vallée de Joux sowie den Fuss des Waadtländer Jura",
+      "milk": "Kuh",
+      "protection": "AOP",
+      "type": "Weichkäse"
+    },
+    {
+      "name": "Valdor (Wallis)",
+      "region": "",
+      "milk": "",
+      "protection": "",
+      "type": ""
+    },
+    {
+      "name": "Walliser Raclette",
+      "region": "Kanton Wallis",
+      "milk": "Kuh",
+      "protection": "AOP",
+      "type": "Rohmilch-Halbhartkäse"
+    },
+    {
+      "name": "Walliser Raclette Hobelkäse",
+      "region": "Kanton Wallis",
+      "milk": "Kuh",
+      "protection": "AOP",
+      "type": "Rohmilch extra harter Vollfettkäse"
+    },
+    {
+      "name": "Walliser Raclette Schnittkäse",
+      "region": "Kanton Wallis",
+      "milk": "Kuh",
+      "protection": "AOP",
+      "type": "Rohmilch halbharter Vollfettkäse"
+    },
+    {
+      "name": "Ziger",
+      "region": "insbesondere bekannt in der Spezialform Schabziger aus dem Kanton Glarus",
+      "milk": "Kuh",
+      "protection": "",
+      "type": ""
+    },
+    {
+      "name": "Luzerner Rahmkäse",
+      "region": "Kanton Luzern",
+      "milk": "Kuh",
+      "protection": "",
+      "type": "Halbhartkäse aus pasteurisierter Milch und Rahm"
+    }
+  ],
+  "meta": {
+    "title": "Käsesorten aus der Schweiz - Free Download",
+    "description": "Bekannte Schweizer Käsesorten mit Herkunftsregion und Käsetyp. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Käsesorten aus der Schweiz | ListBase",
+    "seo_description": "Download Käsesorten aus der Schweiz — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_von_Käsesorten_aus_der_Schweiz"
+    ]
+  }
+}
