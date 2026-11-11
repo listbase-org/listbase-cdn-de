@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-10T02:57:28.968Z",
-  "total_datasets": 551,
-  "total_records": 1878779,
+  "generated": "2026-11-11T02:21:43.161Z",
+  "total_datasets": 552,
+  "total_records": 1878807,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "history",
@@ -5412,6 +5412,32 @@
         "xlsx": {
           "name": "de-akademische-lehrkrankenhaeuser_DE.xlsx",
           "size": 25526
+        }
+      }
+    },
+    {
+      "id": "de-at-gesundheitsminister",
+      "name": "Gesundheitsminister Österreichs",
+      "category": "health",
+      "record_count": 28,
+      "columns": [
+        "name",
+        "party",
+        "start",
+        "end",
+        "portfolio"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_österreichischen_Gesundheitsminister",
+      "updated": "2026-11",
+      "size": 9150,
+      "files": {
+        "csv": {
+          "name": "de-at-gesundheitsminister_DE.csv",
+          "size": 4896
+        },
+        "xlsx": {
+          "name": "de-at-gesundheitsminister_DE.xlsx",
+          "size": 8540
         }
       }
     },
