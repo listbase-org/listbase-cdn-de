@@ -1,0 +1,634 @@
+{
+  "id": "de-aufstaende-deutsche-kolonien",
+  "name": "Aufstände und Kriege in den deutschen Kolonien",
+  "title": "Aufstände und Kriege in den deutschen Kolonien",
+  "description": "Aufstände, Kriege und militärische Auseinandersetzungen in den ehemaligen deutschen Kolonien (1884–1918) mit Kolonie, Zeitraum und ausgewählten Kämpfen.",
+  "category": "history",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Aufstände_in_den_deutschen_Kolonien",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Aufstände_in_den_deutschen_Kolonien",
+  "updated": "2026-11",
+  "record_count": 98,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "colony",
+      "label": "Colony",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    },
+    {
+      "key": "battles",
+      "label": "Battles",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Araber-Aufstand",
+      "colony": "Deutsch-Ostafrika",
+      "period": "1888–1890",
+      "battles": ""
+    },
+    {
+      "name": "Chagga -Aufstand",
+      "colony": "Deutsch-Ostafrika",
+      "period": "1891–1892",
+      "battles": ""
+    },
+    {
+      "name": "Hehe -Aufstand",
+      "colony": "Deutsch-Ostafrika",
+      "period": "1891–1894",
+      "battles": "Gefecht bei Rugaro"
+    },
+    {
+      "name": "Nyamwezi -Aufstand",
+      "colony": "Deutsch-Ostafrika",
+      "period": "1892–1893",
+      "battles": ""
+    },
+    {
+      "name": "Maji-Maji-Krieg",
+      "colony": "Deutsch-Ostafrika",
+      "period": "1905–1907",
+      "battles": "Schlacht bei Mahenge"
+    },
+    {
+      "name": "Aufstände im Damaraland",
+      "colony": "Deutsch-Südwestafrika",
+      "period": "1888",
+      "battles": ""
+    },
+    {
+      "name": "Aufstand der Witbooi-Nama",
+      "colony": "Deutsch-Südwestafrika",
+      "period": "1890–1894",
+      "battles": "Auslöser war der Überfall auf Hornkranz"
+    },
+    {
+      "name": "Schlacht im Naukluftgebirge",
+      "colony": "Deutsch-Südwestafrika",
+      "period": "1894",
+      "battles": "Gams, Gurus, Tsauchabtal, Uhunis"
+    },
+    {
+      "name": "Aufstand der Swartbooi und Topnaar",
+      "colony": "Deutsch-Südwestafrika",
+      "period": "1891, 1897/98",
+      "battles": ""
+    },
+    {
+      "name": "Aufstand der Khauas-Nama",
+      "colony": "Deutsch-Südwestafrika",
+      "period": "1894 und 1895, 1896",
+      "battles": ""
+    },
+    {
+      "name": "Aufstand der Bondelswart",
+      "colony": "Deutsch-Südwestafrika",
+      "period": "1895, 1898, 1903, 1908/09",
+      "battles": "Große Karasberge, Warmbad"
+    },
+    {
+      "name": "Aufstand der Fransman-Nama",
+      "colony": "Deutsch-Südwestafrika",
+      "period": "1895",
+      "battles": ""
+    },
+    {
+      "name": "Aufstand der Ovambanderu",
+      "colony": "Deutsch-Südwestafrika",
+      "period": "1896, 1899",
+      "battles": ""
+    },
+    {
+      "name": "Aufstand der Orlam",
+      "colony": "Deutsch-Südwestafrika",
+      "period": "1897",
+      "battles": ""
+    },
+    {
+      "name": "Aufstand der Bethanien-Nama",
+      "colony": "Deutsch-Südwestafrika",
+      "period": "1898",
+      "battles": ""
+    },
+    {
+      "name": "Kriegsdrohung von Uukwambi-König Negumbo",
+      "colony": "Deutsch-Südwestafrika",
+      "period": "1900, 1901",
+      "battles": ""
+    },
+    {
+      "name": "Aufstand der Grootfontein Süd-Baster",
+      "colony": "Deutsch-Südwestafrika",
+      "period": "1901",
+      "battles": ""
+    },
+    {
+      "name": "Aufstand der Kavango",
+      "colony": "Deutsch-Südwestafrika",
+      "period": "1903",
+      "battles": ""
+    },
+    {
+      "name": "Aufstand der Nama in Maltahöhe",
+      "colony": "Deutsch-Südwestafrika",
+      "period": "1903",
+      "battles": ""
+    },
+    {
+      "name": "Gefechte von Hartebeestmund",
+      "colony": "Deutsch-Südwestafrika",
+      "period": "1903/1905",
+      "battles": ""
+    },
+    {
+      "name": "Herero-Aufstand",
+      "colony": "Deutsch-Südwestafrika",
+      "period": "1904–1906",
+      "battles": "Schlacht am Waterberg"
+    },
+    {
+      "name": "Nama-Aufstand",
+      "colony": "Deutsch-Südwestafrika",
+      "period": "1904–1909",
+      "battles": "Gefecht bei Kub"
+    },
+    {
+      "name": "Aufstand der Ondonga",
+      "colony": "Deutsch-Südwestafrika",
+      "period": "1904–1909",
+      "battles": "Schlacht von Amutuni"
+    },
+    {
+      "name": "Aufstand der Kap-Nguni",
+      "colony": "Deutsch-Südwestafrika",
+      "period": "1910",
+      "battles": ""
+    },
+    {
+      "name": "Rehobother Baster-Aufstand",
+      "colony": "Deutsch-Südwestafrika",
+      "period": "1915",
+      "battles": "Garis, Hatsamas, Kobus, Neuras, Sam-Khubis"
+    },
+    {
+      "name": "Duala-Krieg",
+      "colony": "Deutsche Kolonie Kamerun",
+      "period": "1884–1885",
+      "battles": ""
+    },
+    {
+      "name": "Bafut-Kriege",
+      "colony": "Deutsche Kolonie Kamerun",
+      "period": "1891–1907",
+      "battles": "Schlacht von Mankon"
+    },
+    {
+      "name": "Dahomey-Aufstand",
+      "colony": "Deutsche Kolonie Kamerun",
+      "period": "1893",
+      "battles": ""
+    },
+    {
+      "name": "Jaunde -Aufstand",
+      "colony": "Deutsche Kolonie Kamerun",
+      "period": "1895–1896",
+      "battles": ""
+    },
+    {
+      "name": "Bule -Aufstand",
+      "colony": "Deutsche Kolonie Kamerun",
+      "period": "1899",
+      "battles": ""
+    },
+    {
+      "name": "Bangwa-Aufstand",
+      "colony": "Deutsche Kolonie Kamerun",
+      "period": "1899–1901",
+      "battles": ""
+    },
+    {
+      "name": "Adamaua-Kriege",
+      "colony": "Deutsche Kolonie Kamerun",
+      "period": "1899–1907",
+      "battles": "Gefecht von Miskin-Maroua"
+    },
+    {
+      "name": "Anyang-Aufstand",
+      "colony": "Deutsche Kolonie Kamerun",
+      "period": "1904",
+      "battles": ""
+    },
+    {
+      "name": "Makaa -Aufstand",
+      "colony": "Deutsche Kolonie Kamerun",
+      "period": "1906–1910",
+      "battles": ""
+    },
+    {
+      "name": "Atigbe",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "1888",
+      "battles": ""
+    },
+    {
+      "name": "Akébou",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "1889",
+      "battles": ""
+    },
+    {
+      "name": "Dokbodewe",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "18. Apr. 1891 – 22.4.1891",
+      "battles": ""
+    },
+    {
+      "name": "Tové (Towe)",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "11. März – 3. Apr. 1895",
+      "battles": ""
+    },
+    {
+      "name": "Nkabi",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "Mai 1895",
+      "battles": ""
+    },
+    {
+      "name": "Sugu",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "6. Jan. – 14. März 1896",
+      "battles": ""
+    },
+    {
+      "name": "Salaga",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "24. Mai 1896",
+      "battles": ""
+    },
+    {
+      "name": "Pui",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "3.-5. Sep. 1896",
+      "battles": ""
+    },
+    {
+      "name": "Krieg gegen Dagbon",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "29. Sep. – 11. Dez. 1896",
+      "battles": "Gefechte bei Bimbila, Schlacht bei Adibo, Besetzung von Yendi"
+    },
+    {
+      "name": "Shiare",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "Okt. 1896",
+      "battles": ""
+    },
+    {
+      "name": "Sugu",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "15. Nov. 1896 – Mitte April 1897",
+      "battles": ""
+    },
+    {
+      "name": "Bassar",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "6. Apr. und Mai 1897",
+      "battles": ""
+    },
+    {
+      "name": "Konkomba, Kabure(Kabiyé)",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "8. Aug. 1897 – 2. Jan. 1898",
+      "battles": ""
+    },
+    {
+      "name": "Gurma",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "Mai 1897",
+      "battles": ""
+    },
+    {
+      "name": "Mangu",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "Mai 1897",
+      "battles": ""
+    },
+    {
+      "name": "Bapure",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "23.6. – 19.7.1897",
+      "battles": ""
+    },
+    {
+      "name": "Djebiga",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "Aug. 1897",
+      "battles": ""
+    },
+    {
+      "name": "Matjakuale",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "Sept. 1897",
+      "battles": ""
+    },
+    {
+      "name": "Bafilo",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "23. – 26. Sep. 1897",
+      "battles": ""
+    },
+    {
+      "name": "Kambole",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "10. – 14. Nov. 1897",
+      "battles": ""
+    },
+    {
+      "name": "Mangu, Tschopowa (Saboba), Kutja",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "Nov. und Dez. 1897",
+      "battles": ""
+    },
+    {
+      "name": "Konkomba",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "26. Nov. – 1. Dez. 1897",
+      "battles": ""
+    },
+    {
+      "name": "Kutja",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "Dez. 1898 – Jan. 1899",
+      "battles": ""
+    },
+    {
+      "name": "Kabiyé",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "21. Jan. – 4. Feb. 1898",
+      "battles": "Pesside, Adjare-Lamba, Bufale, Lama"
+    },
+    {
+      "name": "Namba",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "Jan. und Feb. 1898",
+      "battles": ""
+    },
+    {
+      "name": "Kutja",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "Feb 1898",
+      "battles": ""
+    },
+    {
+      "name": "Moba",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "März 1898",
+      "battles": "Bologu, Pana, Nabahu"
+    },
+    {
+      "name": "Konkomba",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "2. – 11. März 1898",
+      "battles": ""
+    },
+    {
+      "name": "Kabiyé",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "15. – 23. Mai 1898",
+      "battles": ""
+    },
+    {
+      "name": "Akposso",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "Juni 1898",
+      "battles": "Agomme, Kotupka"
+    },
+    {
+      "name": "Tschaperre",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "Jun. – Jul. 1898",
+      "battles": ""
+    },
+    {
+      "name": "Kabiyé/Soumdina",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "27. Sept. – 4. Okt. 1898",
+      "battles": "Lasa-Ebene, Kalanba-bu"
+    },
+    {
+      "name": "Barba",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "Dez. 1898",
+      "battles": ""
+    },
+    {
+      "name": "Nord-Kabiyé",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "Feb. und März 1899",
+      "battles": ""
+    },
+    {
+      "name": "Nabahu",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "März 1899",
+      "battles": ""
+    },
+    {
+      "name": "Tschawade",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "– 2. April 1899",
+      "battles": ""
+    },
+    {
+      "name": "Lamba",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "April 1899",
+      "battles": ""
+    },
+    {
+      "name": "Moba",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "6. – 30. Mai 1899",
+      "battles": ""
+    },
+    {
+      "name": "Moba",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "Mai 1899",
+      "battles": "Nadegri, Nabahu"
+    },
+    {
+      "name": "Kabiyé",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "16. Jun. – 25. Aug. 1899",
+      "battles": ""
+    },
+    {
+      "name": "Sanyago",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "1899",
+      "battles": ""
+    },
+    {
+      "name": "Kabiyé-Lama",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "13. – 18. Sept. 1899",
+      "battles": ""
+    },
+    {
+      "name": "West-Bassar",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "12. – 29. Okt. 1899",
+      "battles": ""
+    },
+    {
+      "name": "Konkomba",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "11. – 26. Dez. 1899",
+      "battles": ""
+    },
+    {
+      "name": "Motiva",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "Dez. 1899",
+      "battles": ""
+    },
+    {
+      "name": "Akepe",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "Jan. 1900",
+      "battles": ""
+    },
+    {
+      "name": "Zweiter Krieg gegen Dagbon",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "5. – 8. April 1900",
+      "battles": ""
+    },
+    {
+      "name": "Konkomba",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "19. April – 15. Mai 1900",
+      "battles": ""
+    },
+    {
+      "name": "Moba- und Katyabaland",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "Feb. und 23. – 26. Mai 1900",
+      "battles": ""
+    },
+    {
+      "name": "West-Bassar",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "14. – 18. Apr. 1900",
+      "battles": ""
+    },
+    {
+      "name": "Kabiyé-Lama",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "10. – 20. Mai 1900",
+      "battles": ""
+    },
+    {
+      "name": "Tchore-Pesside",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "Juni 1900",
+      "battles": ""
+    },
+    {
+      "name": "Anfoe",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "1900",
+      "battles": ""
+    },
+    {
+      "name": "Ho",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "Aug. 1900",
+      "battles": ""
+    },
+    {
+      "name": "Konkomba",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "11. Dez. 1900 – 6. Jan. 1901",
+      "battles": ""
+    },
+    {
+      "name": "Nord-Lama",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "6. – 10. Feb. 1900",
+      "battles": ""
+    },
+    {
+      "name": "Agotime",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "Mai 1901",
+      "battles": ""
+    },
+    {
+      "name": "Alibi",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "4. – 6. März 1901",
+      "battles": ""
+    },
+    {
+      "name": "Ssiu",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "20. – 30. März 1901",
+      "battles": ""
+    },
+    {
+      "name": "Kutau",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "10. Juni 1901",
+      "battles": ""
+    },
+    {
+      "name": "Kutau – Batammaribe",
+      "colony": "Deutsche Kolonie Togo",
+      "period": "2. März – 3. April 1902",
+      "battles": ""
+    },
+    {
+      "name": "Sokehs-Aufstand",
+      "colony": "Deutsch-Neuguinea",
+      "period": "1910–1911",
+      "battles": ""
+    },
+    {
+      "name": "Mau-Aufstand",
+      "colony": "Deutsch-Samoa",
+      "period": "1908–1909",
+      "battles": ""
+    },
+    {
+      "name": "Boxer-Aufstand",
+      "colony": "Kiautschou und Umland",
+      "period": "1900–1901",
+      "battles": ""
+    }
+  ],
+  "meta": {
+    "title": "Aufstände und Kriege in den deutschen Kolonien - Free Download",
+    "description": "Aufstände, Kriege und militärische Auseinandersetzungen in den ehemaligen deutschen Kolonien (1884–1918) mit Kolonie, Zeitraum und ausgewählten Kämpfen. Contains 98 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Aufstände und Kriege in den deutschen Kolonien | ListBase",
+    "seo_description": "Download Aufstände und Kriege in den deutschen Kolonien — 98 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 98 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Aufstände_in_den_deutschen_Kolonien"
+    ]
+  }
+}
