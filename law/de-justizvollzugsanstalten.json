@@ -1,0 +1,1800 @@
+{
+  "id": "de-justizvollzugsanstalten",
+  "name": "Justizvollzugsanstalten in Deutschland",
+  "title": "Justizvollzugsanstalten in Deutschland",
+  "description": "Aktive Justizvollzugsanstalten (Gefängnisse) in den deutschen Bundesländern mit Ort, Inbetriebnahme, Belegungsfähigkeit und Bemerkungen.",
+  "category": "law",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Justizvollzugsanstalten_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Justizvollzugsanstalten_in_Deutschland",
+  "updated": "2026-11",
+  "record_count": 218,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "place",
+      "label": "Place",
+      "type": "string"
+    },
+    {
+      "key": "opened",
+      "label": "Opened",
+      "type": "number"
+    },
+    {
+      "key": "capacity",
+      "label": "Capacity",
+      "type": "number"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Justizvollzugsanstalt Adelsheim",
+      "state": "Baden-Württemberg",
+      "place": "Adelsheim",
+      "opened": "1974",
+      "capacity": 417,
+      "notes": "für männliche Jugendliche"
+    },
+    {
+      "name": "Justizvollzugsanstalt Bruchsal",
+      "state": "Baden-Württemberg",
+      "place": "Bruchsal",
+      "opened": "1848",
+      "capacity": 600,
+      "notes": "für männliche Gefangene."
+    },
+    {
+      "name": "Justizvollzugsanstalt Freiburg",
+      "state": "Baden-Württemberg",
+      "place": "Freiburg im Breisgau",
+      "opened": "1878",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Jugendarrestanstalt Göppingen",
+      "state": "Baden-Württemberg",
+      "place": "Göppingen",
+      "opened": "",
+      "capacity": 40,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Hechingen",
+      "state": "Baden-Württemberg",
+      "place": "Hechingen",
+      "opened": "",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Heidenheim",
+      "state": "Baden-Württemberg",
+      "place": "Heidenheim",
+      "opened": "1967",
+      "capacity": 45,
+      "notes": "Betrieben von 1967 bis 2012, abgebrochen 2014."
+    },
+    {
+      "name": "Justizvollzugsanstalt Heilbronn",
+      "state": "Baden-Württemberg",
+      "place": "Heilbronn",
+      "opened": "1870",
+      "capacity": 321,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Heimsheim",
+      "state": "Baden-Württemberg",
+      "place": "Heimsheim",
+      "opened": "1990",
+      "capacity": 441,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugskrankenhaus Hohenasperg",
+      "state": "Baden-Württemberg",
+      "place": "Asperg",
+      "opened": "1968",
+      "capacity": 172,
+      "notes": ""
+    },
+    {
+      "name": "Sozialtherapeutische Anstalt Hohenasperg",
+      "state": "Baden-Württemberg",
+      "place": "Asperg",
+      "opened": "",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Karlsruhe",
+      "state": "Baden-Württemberg",
+      "place": "Karlsruhe",
+      "opened": "",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Konstanz",
+      "state": "Baden-Württemberg",
+      "place": "Konstanz",
+      "opened": "1875",
+      "capacity": 140,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Lörrach",
+      "state": "Baden-Württemberg",
+      "place": "Lörrach",
+      "opened": "1865",
+      "capacity": 81,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Mannheim",
+      "state": "Baden-Württemberg",
+      "place": "Mannheim",
+      "opened": "",
+      "capacity": 747,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Offenburg",
+      "state": "Baden-Württemberg",
+      "place": "Offenburg",
+      "opened": "2009",
+      "capacity": "",
+      "notes": "Außenstelle Kenzingen"
+    },
+    {
+      "name": "Jugendarrestanstalt Rastatt",
+      "state": "Baden-Württemberg",
+      "place": "Rastatt",
+      "opened": "",
+      "capacity": 51,
+      "notes": "Außenstelle der JVA Karlsruhe"
+    },
+    {
+      "name": "Justizvollzugsanstalt Ravensburg",
+      "state": "Baden-Württemberg",
+      "place": "Ravensburg",
+      "opened": "1876/1982",
+      "capacity": 462,
+      "notes": "Außenstelle Schloss Bettenreute."
+    },
+    {
+      "name": "Justizvollzugsanstalt Rottenburg",
+      "state": "Baden-Württemberg",
+      "place": "Rottenburg",
+      "opened": "1824",
+      "capacity": 692,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Rottweil",
+      "state": "Baden-Württemberg",
+      "place": "Rottweil",
+      "opened": "1861",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Schwäbisch Gmünd",
+      "state": "Baden-Württemberg",
+      "place": "Schwäbisch Gmünd",
+      "opened": "1808",
+      "capacity": 335,
+      "notes": "Anstalt „ Gotteszell “ für weibliche Gefangene"
+    },
+    {
+      "name": "Justizvollzugsanstalt Schwäbisch Hall",
+      "state": "Baden-Württemberg",
+      "place": "Schwäbisch Hall",
+      "opened": "1998",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Stuttgart",
+      "state": "Baden-Württemberg",
+      "place": "Stuttgart",
+      "opened": "1964",
+      "capacity": 787,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Tauberbischofsheim",
+      "state": "Baden-Württemberg",
+      "place": "Tauberbischofsheim",
+      "opened": "1852/1893",
+      "capacity": 24,
+      "notes": "Bestand seit 1979 zeitweise als Außenstelle der JVA Adelsheim. Wurde Ende 2003 geschlossen."
+    },
+    {
+      "name": "Justizvollzugsanstalt Ulm",
+      "state": "Baden-Württemberg",
+      "place": "Ulm",
+      "opened": "",
+      "capacity": 350,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Waldshut-Tiengen",
+      "state": "Baden-Württemberg",
+      "place": "Waldshut",
+      "opened": "1848",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Seehaus Leonberg",
+      "state": "Baden-Württemberg",
+      "place": "Leonberg",
+      "opened": "",
+      "capacity": "",
+      "notes": "Jugendstrafvollzug in freien Formen"
+    },
+    {
+      "name": "Projekt Chance",
+      "state": "Baden-Württemberg",
+      "place": "Creglingen",
+      "opened": "",
+      "capacity": "",
+      "notes": "Jugendstrafvollzug in freien Formen"
+    },
+    {
+      "name": "JVA Aichach",
+      "state": "Bayern",
+      "place": "Aichach",
+      "opened": "1909",
+      "capacity": 563,
+      "notes": ""
+    },
+    {
+      "name": "JVA Amberg",
+      "state": "Bayern",
+      "place": "Amberg",
+      "opened": "1786",
+      "capacity": 519,
+      "notes": ""
+    },
+    {
+      "name": "JVA Ansbach",
+      "state": "Bayern",
+      "place": "Ansbach",
+      "opened": "1855",
+      "capacity": 77,
+      "notes": ""
+    },
+    {
+      "name": "JVA Aschaffenburg",
+      "state": "Bayern",
+      "place": "Aschaffenburg",
+      "opened": "1970",
+      "capacity": 157,
+      "notes": ""
+    },
+    {
+      "name": "JVA Augsburg",
+      "state": "Bayern",
+      "place": "Augsburg",
+      "opened": "1814 (Anstalt I) 1945 (Anstalt II) 1945 (Jugendarrestanstalt)",
+      "capacity": "alle geschlossen zwischen 2015 und 2016",
+      "notes": ""
+    },
+    {
+      "name": "JVA Augsburg-Gablingen",
+      "state": "Bayern",
+      "place": "Gablingen",
+      "opened": "2015",
+      "capacity": 609,
+      "notes": ""
+    },
+    {
+      "name": "JVA Bad Reichenhall",
+      "state": "Bayern",
+      "place": "Bad Reichenhall",
+      "opened": "1951",
+      "capacity": 43,
+      "notes": ""
+    },
+    {
+      "name": "JVA Bamberg",
+      "state": "Bayern",
+      "place": "Bamberg",
+      "opened": "1753",
+      "capacity": 207,
+      "notes": ""
+    },
+    {
+      "name": "JVA St. Georgen-Bayreuth",
+      "state": "Bayern",
+      "place": "Bayreuth",
+      "opened": "1724",
+      "capacity": 931,
+      "notes": ""
+    },
+    {
+      "name": "JVA Bernau",
+      "state": "Bayern",
+      "place": "Bernau a. Chiemsee",
+      "opened": "1920",
+      "capacity": 847,
+      "notes": ""
+    },
+    {
+      "name": "JVA Ebrach",
+      "state": "Bayern",
+      "place": "Ebrach",
+      "opened": "1851",
+      "capacity": 337,
+      "notes": ""
+    },
+    {
+      "name": "JVA Erding",
+      "state": "Bayern",
+      "place": "Erding",
+      "opened": "1901",
+      "capacity": 37,
+      "notes": ""
+    },
+    {
+      "name": "JVA Erlangen",
+      "state": "Bayern",
+      "place": "Erlangen",
+      "opened": "1972",
+      "capacity": 41,
+      "notes": ""
+    },
+    {
+      "name": "JVA Garmisch-Partenkirchen",
+      "state": "Bayern",
+      "place": "Garmisch-Partenkirchen",
+      "opened": "1896",
+      "capacity": 51,
+      "notes": ""
+    },
+    {
+      "name": "JVA Hof",
+      "state": "Bayern",
+      "place": "Hof",
+      "opened": "1973 (Justizvollzugsanstalt) 1979 (Jugendarrestanstalt)",
+      "capacity": 202,
+      "notes": ""
+    },
+    {
+      "name": "JVA Kaisheim",
+      "state": "Bayern",
+      "place": "Kaisheim",
+      "opened": "1816",
+      "capacity": 601,
+      "notes": ""
+    },
+    {
+      "name": "JVA Kempten",
+      "state": "Bayern",
+      "place": "Kempten (Allgäu)",
+      "opened": "2003/1856 (alt)",
+      "capacity": 338,
+      "notes": ""
+    },
+    {
+      "name": "JVA Kronach",
+      "state": "Bayern",
+      "place": "Kronach",
+      "opened": "1807",
+      "capacity": 100,
+      "notes": ""
+    },
+    {
+      "name": "JVA Landsberg",
+      "state": "Bayern",
+      "place": "Landsberg am Lech",
+      "opened": "1908",
+      "capacity": 565,
+      "notes": ""
+    },
+    {
+      "name": "JVA Landshut",
+      "state": "Bayern",
+      "place": "Landshut",
+      "opened": "1907 (alte JVA) 2008 (neue JVA) 2008 (Jugendarrestanstalt)",
+      "capacity": "geschlossen 515 36",
+      "notes": ""
+    },
+    {
+      "name": "JVA Laufen-Lebenau",
+      "state": "Bayern",
+      "place": "Laufen",
+      "opened": "1862",
+      "capacity": 230,
+      "notes": ""
+    },
+    {
+      "name": "JVA Lichtenau",
+      "state": "Bayern",
+      "place": "Lichtenau",
+      "opened": "1966",
+      "capacity": 51,
+      "notes": ""
+    },
+    {
+      "name": "JVA Marktredwitz",
+      "state": "Bayern",
+      "place": "Marktredwitz",
+      "opened": "in Bau",
+      "capacity": 364,
+      "notes": ""
+    },
+    {
+      "name": "JVA Memmingen",
+      "state": "Bayern",
+      "place": "Memmingen",
+      "opened": "1971",
+      "capacity": 141,
+      "notes": ""
+    },
+    {
+      "name": "JVA Mühldorf",
+      "state": "Bayern",
+      "place": "Mühldorf a. Inn",
+      "opened": "1967",
+      "capacity": 82,
+      "notes": ""
+    },
+    {
+      "name": "JVA München",
+      "state": "Bayern",
+      "place": "München",
+      "opened": "1894 (Stadelheim) 1904 (Frauenanstalt und Jugendarrestanstalt) 1990 (Freigängerabteilung)",
+      "capacity": "1.334 (Stadelheim) 72 (Frauenanstalt) 52 (Jugendarrestanstalt) 45 (Freigängerabteilung) 1.503 GESAMT",
+      "notes": ""
+    },
+    {
+      "name": "JVA Neuburg-Herrenwörth",
+      "state": "Bayern",
+      "place": "Neuburg a.d. Donau",
+      "opened": "1990",
+      "capacity": 204,
+      "notes": ""
+    },
+    {
+      "name": "JVA Niederschönenfeld",
+      "state": "Bayern",
+      "place": "Niederschönenfeld",
+      "opened": "1880",
+      "capacity": 261,
+      "notes": ""
+    },
+    {
+      "name": "JVA Nürnberg",
+      "state": "Bayern",
+      "place": "Nürnberg",
+      "opened": "1868",
+      "capacity": 1.064,
+      "notes": ""
+    },
+    {
+      "name": "JVA Passau",
+      "state": "Bayern",
+      "place": "Passau",
+      "opened": "1856",
+      "capacity": 76,
+      "notes": ""
+    },
+    {
+      "name": "JVA Regensburg",
+      "state": "Bayern",
+      "place": "Regensburg",
+      "opened": "1902",
+      "capacity": 187,
+      "notes": ""
+    },
+    {
+      "name": "JVA Schweinfurt",
+      "state": "Bayern",
+      "place": "Schweinfurt",
+      "opened": "1884",
+      "capacity": 52,
+      "notes": ""
+    },
+    {
+      "name": "JVA Straubing",
+      "state": "Bayern",
+      "place": "Straubing",
+      "opened": "1902",
+      "capacity": 845,
+      "notes": ""
+    },
+    {
+      "name": "JVA Traunstein",
+      "state": "Bayern",
+      "place": "Traunstein",
+      "opened": "1857",
+      "capacity": 144,
+      "notes": ""
+    },
+    {
+      "name": "JVA Weiden",
+      "state": "Bayern",
+      "place": "Weiden i.d. OPf.",
+      "opened": "",
+      "capacity": 120,
+      "notes": ""
+    },
+    {
+      "name": "JVA Würzburg",
+      "state": "Bayern",
+      "place": "Würzburg",
+      "opened": "1996 (Freigängerabteilung)",
+      "capacity": "612 34",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Tegel",
+      "state": "Berlin",
+      "place": "Berlin-Tegel",
+      "opened": "1898",
+      "capacity": 938,
+      "notes": "Die Justizvollzugsanstalt Tegel im gleichnamigen Ortsteil des Berliner Bezirks Reinickendorf ist die größte geschlossene und zugleich eine der ältesten Justizvollzugsanstalten Deutschlands. Seit 1898 sitzen dort verurteilte männliche erwachsene Strafgefangene ihre Freiheitsstrafen ab."
+    },
+    {
+      "name": "Justizvollzugsanstalt Moabit",
+      "state": "Berlin",
+      "place": "Berlin-Moabit",
+      "opened": "1881",
+      "capacity": 946,
+      "notes": "Die Justizvollzugsanstalt Moabit (JVA Moabit) wurde als das Königliche Untersuchungsgefängnis im Stadtteil Moabit in den Jahren 1877–1881 errichtet und steht heute unter Denkmalschutz. Sie ist heute die Untersuchungshaftanstalt in Berlin."
+    },
+    {
+      "name": "Justizvollzugsanstalt Plötzensee",
+      "state": "Berlin",
+      "place": "Berlin-Plötzensee",
+      "opened": "1868–1879",
+      "capacity": 560,
+      "notes": "Die Justizvollzugsanstalt Plötzensee (im Berliner Volksmund als Plötze bekannt) dient seit 1998 dem geschlossenen und offenen Strafvollzug für Männer. Seit dem 1. Januar 2013 bilden die JVA Plötzensee, die JVA Charlottenburg und das Justizvollzugskrankenhaus Berlin eine gemeinsame Behörde namens „Justizvollzugsanstalt Plötzensee“. Sie befindet sich teilweise auf dem Gelände des preußischen Strafgefängnisses Plötzensee."
+    },
+    {
+      "name": "Jugendstrafanstalt Berlin",
+      "state": "Berlin",
+      "place": "Berlin-Plötzensee",
+      "opened": "1987",
+      "capacity": 432,
+      "notes": "In der Jugendstrafanstalt Berlin gibt es verschiedene Betreuungsbereiche. Sie unterscheiden sich im Wesentlichen durch die Haftdauer und die Haftart. Weitere Differenzierungen erfolgen bei den pädagogischen und therapeutischen Konzepten sowie bei der Klientel und deren Problematiken."
+    },
+    {
+      "name": "Justizvollzugsanstalt für Frauen Berlin",
+      "state": "Berlin",
+      "place": "Berlin-Lichtenberg, Berlin-Neukölln, Berlin-Reinickendorf, Berlin-Pankow",
+      "opened": "1860",
+      "capacity": 254,
+      "notes": "Behandlung in der JVA für Frauen Berlin verfolgt einen ganzheitlichen Ansatz. Hierfür ist ein multiprofessionelles Team aus vollzugseigenem Fachpersonal, wie auch externen Kooperationspartnern im Einsatz. Geschlossener Vollzug in Berlin-Lichtenberg (Alfredstraße 11) zusammen mit der Teilanstalt in Berlin-Pankow (Arkonastraße 56). Anstalten für den offenen Vollzug in Berlin-Reinickendorf (Ollenhauerstraße 128) und Berlin-Neukölln (Neuwedeller Straße 4)."
+    },
+    {
+      "name": "Jugendarrestanstalt Berlin-Brandenburg",
+      "state": "Berlin",
+      "place": "Berlin-Lichtenrade",
+      "opened": "2016",
+      "capacity": 31,
+      "notes": "Die Jugendarrestanstalt Berlin-Brandenburg ist für die Vollstreckung von Arrest an weiblichen und männlichen Jugendlichen und Heranwachsenden der Länder Berlin und Brandenburg zuständig. Der Jugendarrest ist eine Erziehungsmaßnahme nach dem Jugendgerichtsgesetz (JGG) und dient der Sanktionierung straffällig gewordener Jugendlicher und Heranwachsender durch kurzfristigen Freiheitsentzug."
+    },
+    {
+      "name": "Justizvollzugsanstalt des offenen Vollzuges Berlin",
+      "state": "Berlin",
+      "place": "Berlin-Hakenfelde, Berlin-Falkenhagener Feld,",
+      "opened": "2010",
+      "capacity": 908,
+      "notes": "gebildet aus den ehemaligen Einrichtungen Justizvollzugsanstalt Hakenfelde, Justizvollzugsanstalt Düppel, Justizvollzugsanstalt Heiligensee und der Teilanstalt Kisselnallee. Im Rahmen der Beschäftigung betreibt die Teilanstalt Robert-von-Ostertag-Straße eine eigene Gärtnerei. Zur Feststellung der schulischen, beruflichen und sozialen Kompetenzen der Inhaftierten wird ein zentrales Kompetenzfeststellungsverfahren (KFV) durchgeführt."
+    },
+    {
+      "name": "Justizvollzugsanstalt Heidering",
+      "state": "Berlin",
+      "place": "Großbeeren",
+      "opened": "2013",
+      "capacity": 647,
+      "notes": "Die 647 Haftplätze verteilen sich auf die baugleichen Teilanstalten 1, 2 und 3. Eine Teilanstalt hat drei Ebenen mit jeweils vier Wohneinheiten. Auf jeder Wohneinheit befinden sich 18 Hafträume (Ausnahme: Eine Wohneinheit mit 17 Hafträumen). Dazu gehören pro Teilanstalt ein behindertengerechter Haftraum und ein Begegnungshaftraum bestehend aus zwei mit einer Tür verbundenen Einzelhafträumen zur Krisenprophylaxe."
+    },
+    {
+      "name": "JVA Brandenburg a. d. Havel",
+      "state": "Brandenburg",
+      "place": "Brandenburg an der Havel",
+      "opened": "1931",
+      "capacity": 413,
+      "notes": ""
+    },
+    {
+      "name": "JVA Cottbus-Dissenchen",
+      "state": "Brandenburg",
+      "place": "Cottbus",
+      "opened": "2002",
+      "capacity": 600,
+      "notes": ""
+    },
+    {
+      "name": "JVA Luckau-Duben",
+      "state": "Brandenburg",
+      "place": "Duben",
+      "opened": "2005",
+      "capacity": 333,
+      "notes": ""
+    },
+    {
+      "name": "Außenstelle Spremberg",
+      "state": "Brandenburg",
+      "place": "Spremberg",
+      "opened": "",
+      "capacity": 120,
+      "notes": ""
+    },
+    {
+      "name": "JVA Nord-Brandenburg TA Neuruppin-Wulkow",
+      "state": "Brandenburg",
+      "place": "Wulkow/Neuruppin",
+      "opened": "2001",
+      "capacity": 300,
+      "notes": ""
+    },
+    {
+      "name": "JVA Nord-Brandenburg TA Wriezen",
+      "state": "Brandenburg",
+      "place": "Wriezen",
+      "opened": "2004",
+      "capacity": 220,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Heidering",
+      "state": "Brandenburg",
+      "place": "Großbeeren",
+      "opened": "2013",
+      "capacity": 647,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Fuhlsbüttel",
+      "state": "Hamburg",
+      "place": "Hamburg-Ohlsdorf",
+      "opened": "1879",
+      "capacity": 800,
+      "notes": "Männeranstalt für den geschlossenen Strafvollzug und Sicherungsverwahrung"
+    },
+    {
+      "name": "Justizvollzugsanstalt Billwerder",
+      "state": "Hamburg",
+      "place": "Hamburg-Billwerder",
+      "opened": "2003",
+      "capacity": 803,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Glasmoor",
+      "state": "Hamburg",
+      "place": "Norderstedt",
+      "opened": "1922",
+      "capacity": 209,
+      "notes": "Die Justizvollzugsanstalt ist eine Behörde der Freien und Hansestadt Hamburg, befindet sich jedoch auf dem Gebiet des Landes Schleswig-Holstein."
+    },
+    {
+      "name": "Justizvollzugsanstalt Hahnöfersand",
+      "state": "Hamburg",
+      "place": "Jork",
+      "opened": "1913",
+      "capacity": 280,
+      "notes": "Die Justizvollzugsanstalt ist eine Behörde der Freien und Hansestadt Hamburg, befindet sich jedoch auf dem Gebiet des Landes Niedersachsen."
+    },
+    {
+      "name": "Untersuchungshaftanstalt Hamburg",
+      "state": "Hamburg",
+      "place": "Hamburg-St. Pauli",
+      "opened": "1881",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Jugendarresteinrichtung Gelnhausen",
+      "state": "Hessen",
+      "place": "Gelnhausen",
+      "opened": "1978/79",
+      "capacity": 74,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Butzbach",
+      "state": "Hessen",
+      "place": "Butzbach",
+      "opened": "1894",
+      "capacity": 762,
+      "notes": "Männliche Straftäter in der höchsten Sicherheitsstufe."
+    },
+    {
+      "name": "Justizvollzugsanstalt Darmstadt",
+      "state": "Hessen",
+      "place": "Darmstadt",
+      "opened": "",
+      "capacity": "",
+      "notes": "Vollzug von Freiheitsstrafen bis zu 2 Jahre für erwachsene Männer"
+    },
+    {
+      "name": "Justizvollzugsanstalt Dieburg",
+      "state": "Hessen",
+      "place": "Dieburg",
+      "opened": "",
+      "capacity": "",
+      "notes": "Laut Vollstreckungsplan zentrale Anstalt für den Vollzug von Ersatzfreiheitsstrafen bei männlichen Erwachsenen"
+    },
+    {
+      "name": "Justizvollzugsanstalt Frankfurt am Main I",
+      "state": "Hessen",
+      "place": "Frankfurt am Main",
+      "opened": "",
+      "capacity": "",
+      "notes": "Hauptsächlich Untersuchungshaft für erwachsene Männer"
+    },
+    {
+      "name": "Justizvollzugsanstalt Frankfurt am Main III",
+      "state": "Hessen",
+      "place": "Frankfurt am Main",
+      "opened": "",
+      "capacity": "",
+      "notes": "Frauengefängnis"
+    },
+    {
+      "name": "Justizvollzugsanstalt Frankfurt am Main IV",
+      "state": "Hessen",
+      "place": "Frankfurt am Main",
+      "opened": "",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Fulda",
+      "state": "Hessen",
+      "place": "Fulda",
+      "opened": "",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Gießen",
+      "state": "Hessen",
+      "place": "Gießen",
+      "opened": "",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Hünfeld",
+      "state": "Hessen",
+      "place": "Hünfeld",
+      "opened": "",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Kassel I",
+      "state": "Hessen",
+      "place": "Kassel",
+      "opened": "",
+      "capacity": "",
+      "notes": "männliche Straftäter, Untersuchungshaft, höchste Sicherheitsstufe"
+    },
+    {
+      "name": "Justizvollzugsanstalt Kassel II",
+      "state": "Hessen",
+      "place": "Kassel",
+      "opened": "",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Kaufungen Zweigstelle Justizvollzugsanstalt Kassel I",
+      "state": "Hessen",
+      "place": "Kaufungen",
+      "opened": "",
+      "capacity": "",
+      "notes": "weibliche Straftäterinnen"
+    },
+    {
+      "name": "Justizvollzugsanstalt Limburg",
+      "state": "Hessen",
+      "place": "Limburg an der Lahn",
+      "opened": "",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Rockenberg",
+      "state": "Hessen",
+      "place": "Rockenberg",
+      "opened": "",
+      "capacity": "",
+      "notes": "Jugendstrafanstalt"
+    },
+    {
+      "name": "Justizvollzugsanstalt Schwalmstadt",
+      "state": "Hessen",
+      "place": "Schwalmstadt",
+      "opened": "",
+      "capacity": "",
+      "notes": "männliche Straftäter, höchste Sicherheitsstufe, Sicherungsverwahrung"
+    },
+    {
+      "name": "Justizvollzugsanstalt Weiterstadt",
+      "state": "Hessen",
+      "place": "Weiterstadt",
+      "opened": "",
+      "capacity": "",
+      "notes": "Untersuchungshaft und Strafhaft mit einer Restzeit über 2 Jahren"
+    },
+    {
+      "name": "Justizvollzugsanstalt Wiesbaden",
+      "state": "Hessen",
+      "place": "Wiesbaden",
+      "opened": "",
+      "capacity": "",
+      "notes": "Haftanstalt für männliche Heranwachsende"
+    },
+    {
+      "name": "Justizvollzugsanstalt Bützow",
+      "state": "Mecklenburg-Vorpommern",
+      "place": "Bützow",
+      "opened": "1839",
+      "capacity": 533,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Neubrandenburg",
+      "state": "Mecklenburg-Vorpommern",
+      "place": "Neubrandenburg",
+      "opened": "1987",
+      "capacity": 128,
+      "notes": "2018 geschlossen"
+    },
+    {
+      "name": "Jugendanstalt Neustrelitz",
+      "state": "Mecklenburg-Vorpommern",
+      "place": "Neustrelitz",
+      "opened": "2001",
+      "capacity": 297,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Stralsund",
+      "state": "Mecklenburg-Vorpommern",
+      "place": "Stralsund",
+      "opened": "2003",
+      "capacity": 195,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Ueckermünde",
+      "state": "Mecklenburg-Vorpommern",
+      "place": "Ueckermünde",
+      "opened": "1953",
+      "capacity": "140 (2003)",
+      "notes": "2009 geschlossen"
+    },
+    {
+      "name": "Justizvollzugsanstalt Waldeck",
+      "state": "Mecklenburg-Vorpommern",
+      "place": "Dummerstorf",
+      "opened": "1996",
+      "capacity": 382,
+      "notes": ""
+    },
+    {
+      "name": "Jugendarrestanstalt Wismar",
+      "state": "Mecklenburg-Vorpommern",
+      "place": "Wismar",
+      "opened": "1935",
+      "capacity": 16,
+      "notes": "2014 geschlossen"
+    },
+    {
+      "name": "Justizvollzugsanstalt Wolfenbüttel - Abteilung Braunschweig",
+      "state": "Niedersachsen",
+      "place": "Braunschweig",
+      "opened": "1885",
+      "capacity": 143,
+      "notes": "Die früher selbständige Vollzugsanstalt wird als Abteilung der Justizvollzugsanstalt Wolfenbüttel geführt,"
+    },
+    {
+      "name": "Justizvollzugsanstalt Bremervörde",
+      "state": "Niedersachsen",
+      "place": "Bremervörde",
+      "opened": "2013",
+      "capacity": 300,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Celle",
+      "state": "Niedersachsen",
+      "place": "Celle",
+      "opened": "ab 1710",
+      "capacity": 218,
+      "notes": ""
+    },
+    {
+      "name": "Jugendanstalt Göttingen",
+      "state": "Niedersachsen",
+      "place": "Göttingen Rosdorfer Weg 76 51,52102° N, 9,91451° O",
+      "opened": "1982",
+      "capacity": 75,
+      "notes": "die ehemals selbständige Jugendanstalt Göttingen ist eine externe Abteilung der Jugendanstalt Hameln, Abteilung Offener Vollzug Göttingen"
+    },
+    {
+      "name": "Jugendarrestanstalt Göttingen",
+      "state": "Niedersachsen",
+      "place": "Göttingen Rosdorfer Weg 76",
+      "opened": "",
+      "capacity": "",
+      "notes": "Die Jugendarrestanstalt Göttingen liegt auf dem Gelände der Jugendanstalt Göttingen, gehört aber nicht wie diese als externe Abteilung zur Jugendanstalt Hameln, sondern ist eine externe Abteilung der Jugendarrestanstalt Verden"
+    },
+    {
+      "name": "Justizvollzugsanstalt Rosdorf",
+      "state": "Niedersachsen",
+      "place": "Göttingen, Rosdorf, Am großen Sieke 8",
+      "opened": "2007",
+      "capacity": 318,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Hahnöfersand",
+      "state": "Niedersachsen",
+      "place": "Jork",
+      "opened": "1913",
+      "capacity": 280,
+      "notes": "Die Justizvollzugsanstalt auf dem Gebiet des Landes Niedersachsen ist eine Behörde der Freien und Hansestadt Hamburg."
+    },
+    {
+      "name": "Jugendanstalt Hameln",
+      "state": "Niedersachsen",
+      "place": "Hameln Tündernsche Str. 50",
+      "opened": "1978",
+      "capacity": 771,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Hannover",
+      "state": "Niedersachsen",
+      "place": "Hannover",
+      "opened": "1963",
+      "capacity": 821,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt für Frauen - Abteilung Hildesheim -",
+      "state": "Niedersachsen",
+      "place": "Hildesheim",
+      "opened": "",
+      "capacity": "",
+      "notes": "Abteilung der Justizvollzugsanstalt für Frauen Vechta"
+    },
+    {
+      "name": "Justizvollzugsanstalt Lingen",
+      "state": "Niedersachsen",
+      "place": "Lingen",
+      "opened": "",
+      "capacity": "",
+      "notes": "weitere Abteilungen in Groß Hesepe, Damaschke und Osnabrück"
+    },
+    {
+      "name": "Justizvollzugsanstalt Meppen",
+      "state": "Niedersachsen",
+      "place": "Meppen",
+      "opened": "",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Nordenham",
+      "state": "Niedersachsen",
+      "place": "Nordenham",
+      "opened": "1911",
+      "capacity": 46,
+      "notes": "Abteilung der JVA Oldenburg"
+    },
+    {
+      "name": "Justizvollzugsanstalt Oldenburg",
+      "state": "Niedersachsen",
+      "place": "Oldenburg",
+      "opened": "2001",
+      "capacity": 437,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Rosdorf",
+      "state": "Niedersachsen",
+      "place": "Rosdorf",
+      "opened": "2007",
+      "capacity": 318,
+      "notes": "Zur JVA Rosdorf gehören die Abteilungen für offenen Vollzug\" in Duderstadt und Einbeck."
+    },
+    {
+      "name": "Justizvollzugsanstalt Sehnde",
+      "state": "Niedersachsen",
+      "place": "Sehnde",
+      "opened": "2004",
+      "capacity": 534,
+      "notes": "Eine gesonderte Abteilung befindet sich in Burgdorf."
+    },
+    {
+      "name": "Justizvollzugsanstalt Uelzen",
+      "state": "Niedersachsen",
+      "place": "Uelzen",
+      "opened": "1987",
+      "capacity": 359,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt für Frauen Vechta",
+      "state": "Niedersachsen",
+      "place": "Vechta",
+      "opened": "",
+      "capacity": 328,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt für Jungtäter Vechta",
+      "state": "Niedersachsen",
+      "place": "Vechta",
+      "opened": "",
+      "capacity": 330,
+      "notes": ""
+    },
+    {
+      "name": "Jugendarrestanstalt Verden",
+      "state": "Niedersachsen",
+      "place": "Verden",
+      "opened": "",
+      "capacity": "44 in der Hauptanstalt, davon 7 für weibliche Arrestanten",
+      "notes": "Hauptanstalt des niedersächsischen Jugendarrestvollzugs mit Abteilungen in Emden, Göttingen, Nienburg und Neustadt am Rübenberge"
+    },
+    {
+      "name": "Justizvollzugsanstalt Wilhelmshaven",
+      "state": "Niedersachsen",
+      "place": "Wilhelmshaven",
+      "opened": "",
+      "capacity": "",
+      "notes": "Abteilung der Justizvollzugsanstalt Oldenburg, Standort des Vollzugsmuseums Wilhelmshaven"
+    },
+    {
+      "name": "Justizvollzugsanstalt Wolfenbüttel",
+      "state": "Niedersachsen",
+      "place": "Wolfenbüttel",
+      "opened": "1790",
+      "capacity": 397,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Aachen",
+      "state": "Nordrhein-Westfalen",
+      "place": "Aachen",
+      "opened": "1994",
+      "capacity": 684,
+      "notes": "Erwachsene männliche Strafgefangene und Untersuchungsgefangene"
+    },
+    {
+      "name": "Justizvollzugsanstalt Attendorn",
+      "state": "Nordrhein-Westfalen",
+      "place": "Attendorn",
+      "opened": "1968",
+      "capacity": 270,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Bielefeld-Brackwede",
+      "state": "Nordrhein-Westfalen",
+      "place": "Bielefeld-Brackwede",
+      "opened": "1977",
+      "capacity": 551,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Bielefeld-Senne",
+      "state": "Nordrhein-Westfalen",
+      "place": "Bielefeld-Senne",
+      "opened": "1907",
+      "capacity": 1676,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Bochum",
+      "state": "Nordrhein-Westfalen",
+      "place": "Bochum",
+      "opened": "1897",
+      "capacity": 861,
+      "notes": ""
+    },
+    {
+      "name": "Sozialtherapeutische Anstalt Bochum",
+      "state": "Nordrhein-Westfalen",
+      "place": "Bochum",
+      "opened": "2020",
+      "capacity": "knapp 80",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Bochum-Langendreer",
+      "state": "Nordrhein-Westfalen",
+      "place": "Bochum-Langendreer",
+      "opened": "1968",
+      "capacity": 204,
+      "notes": ""
+    },
+    {
+      "name": "Jugendarrestanstalt Bottrop",
+      "state": "Nordrhein-Westfalen",
+      "place": "Bottrop",
+      "opened": "",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Castrop-Rauxel",
+      "state": "Nordrhein-Westfalen",
+      "place": "Castrop-Rauxel",
+      "opened": "1968",
+      "capacity": 588,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Detmold",
+      "state": "Nordrhein-Westfalen",
+      "place": "Detmold",
+      "opened": "1961",
+      "capacity": 160,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Dortmund",
+      "state": "Nordrhein-Westfalen",
+      "place": "Dortmund",
+      "opened": "1903",
+      "capacity": 421,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Duisburg-Hamborn",
+      "state": "Nordrhein-Westfalen",
+      "place": "Duisburg-Hamborn",
+      "opened": "1912",
+      "capacity": 243,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Düsseldorf",
+      "state": "Nordrhein-Westfalen",
+      "place": "Düsseldorf",
+      "opened": "1893",
+      "capacity": 850,
+      "notes": ""
+    },
+    {
+      "name": "Jugendarrestanstalt Düsseldorf",
+      "state": "Nordrhein-Westfalen",
+      "place": "Düsseldorf",
+      "opened": "",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Essen",
+      "state": "Nordrhein-Westfalen",
+      "place": "Essen",
+      "opened": "1911",
+      "capacity": 528,
+      "notes": ""
+    },
+    {
+      "name": "Jugendarrestanstalt Essen",
+      "state": "Nordrhein-Westfalen",
+      "place": "Essen",
+      "opened": "",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Euskirchen",
+      "state": "Nordrhein-Westfalen",
+      "place": "Euskirchen",
+      "opened": "1996",
+      "capacity": 459,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Geldern",
+      "state": "Nordrhein-Westfalen",
+      "place": "Geldern",
+      "opened": "1979",
+      "capacity": 679,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Gelsenkirchen",
+      "state": "Nordrhein-Westfalen",
+      "place": "Gelsenkirchen",
+      "opened": "1998",
+      "capacity": 620,
+      "notes": ""
+    },
+    {
+      "name": "Sozialtherapeutische Anstalt Gelsenkirchen",
+      "state": "Nordrhein-Westfalen",
+      "place": "Gelsenkirchen",
+      "opened": "1975",
+      "capacity": 57,
+      "notes": "2020 Umzug nach Bochum"
+    },
+    {
+      "name": "Justizvollzugsanstalt Hagen",
+      "state": "Nordrhein-Westfalen",
+      "place": "Hagen",
+      "opened": "1923",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Hamm",
+      "state": "Nordrhein-Westfalen",
+      "place": "Hamm",
+      "opened": "1930",
+      "capacity": 175,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Heinsberg",
+      "state": "Nordrhein-Westfalen",
+      "place": "Heinsberg",
+      "opened": "",
+      "capacity": 566,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Herford",
+      "state": "Nordrhein-Westfalen",
+      "place": "Herford",
+      "opened": "1883",
+      "capacity": 355,
+      "notes": "Zweitgrößte der vier Strafanstalten des geschlossenen Vollzugs für Jugendliche in Nordrhein-Westfalen. Freiheitsstrafen im Jugendvollzug und Untersuchungshaft bei Jugendlichen und Heranwachsenden, für den Oberlandesgerichtsbezirk Hamm sowie für die Landgerichtsbezirke Bielefeld, Detmold, Dortmund, Essen, Münster und Paderborn."
+    },
+    {
+      "name": "Justizvollzugsanstalt Hövelhof",
+      "state": "Nordrhein-Westfalen",
+      "place": "Hövelhof",
+      "opened": "1948",
+      "capacity": 232,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Iserlohn",
+      "state": "Nordrhein-Westfalen",
+      "place": "Iserlohn",
+      "opened": "1970",
+      "capacity": 292,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Kleve",
+      "state": "Nordrhein-Westfalen",
+      "place": "Kleve",
+      "opened": "1915",
+      "capacity": 234,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Köln",
+      "state": "Nordrhein-Westfalen",
+      "place": "Köln",
+      "opened": "1969",
+      "capacity": 1171,
+      "notes": ""
+    },
+    {
+      "name": "Jugendarrestanstalt Lünen",
+      "state": "Nordrhein-Westfalen",
+      "place": "Lünen",
+      "opened": "",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Moers-Kapellen",
+      "state": "Nordrhein-Westfalen",
+      "place": "Moers-Kapellen",
+      "opened": "1984",
+      "capacity": 362,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Münster",
+      "state": "Nordrhein-Westfalen",
+      "place": "Münster",
+      "opened": "1853",
+      "capacity": 600,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugskrankenhaus Nordrhein-Westfalen",
+      "state": "Nordrhein-Westfalen",
+      "place": "Fröndenberg",
+      "opened": "1984",
+      "capacity": "236 Betten",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Remscheid",
+      "state": "Nordrhein-Westfalen",
+      "place": "Remscheid",
+      "opened": "1906",
+      "capacity": 557,
+      "notes": ""
+    },
+    {
+      "name": "Jugendarrestanstalt Remscheid",
+      "state": "Nordrhein-Westfalen",
+      "place": "Remscheid",
+      "opened": "",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Rheinbach",
+      "state": "Nordrhein-Westfalen",
+      "place": "Rheinbach",
+      "opened": "1914",
+      "capacity": 554,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Schwerte",
+      "state": "Nordrhein-Westfalen",
+      "place": "Schwerte",
+      "opened": "1971",
+      "capacity": 364,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Siegburg",
+      "state": "Nordrhein-Westfalen",
+      "place": "Siegburg",
+      "opened": "1896",
+      "capacity": 544,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Werl",
+      "state": "Nordrhein-Westfalen",
+      "place": "Werl",
+      "opened": "1906",
+      "capacity": 1034,
+      "notes": ""
+    },
+    {
+      "name": "Jugendarrestanstalt Wetter",
+      "state": "Nordrhein-Westfalen",
+      "place": "Wetter (Ruhr)",
+      "opened": "",
+      "capacity": "",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Willich I",
+      "state": "Nordrhein-Westfalen",
+      "place": "Willich",
+      "opened": "1905",
+      "capacity": 611,
+      "notes": "Zweiganstalt Krefeld, Zweiganstalt Mönchengladbach, Zweiganstalt Mönchengladbach-Giesenkirchen"
+    },
+    {
+      "name": "Justizvollzugsanstalt Willich II",
+      "state": "Nordrhein-Westfalen",
+      "place": "Willich",
+      "opened": "",
+      "capacity": 264,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Wuppertal-Ronsdorf",
+      "state": "Nordrhein-Westfalen",
+      "place": "Ronsdorf",
+      "opened": "2011",
+      "capacity": 510,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Wuppertal-Vohwinkel",
+      "state": "Nordrhein-Westfalen",
+      "place": "Vohwinkel",
+      "opened": "1980",
+      "capacity": 517,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugs- und Sicherungsverwahranstalt Diez",
+      "state": "Rheinland-Pfalz",
+      "place": "Diez",
+      "opened": "1912",
+      "capacity": 642,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Frankenthal",
+      "state": "Rheinland-Pfalz",
+      "place": "Frankenthal (Pfalz)",
+      "opened": "1974",
+      "capacity": 486,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Koblenz",
+      "state": "Rheinland-Pfalz",
+      "place": "Koblenz",
+      "opened": "1946/47",
+      "capacity": "173 (im Jahr 2019)",
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Ludwigshafen",
+      "state": "Rheinland-Pfalz",
+      "place": "Ludwigshafen am Rhein",
+      "opened": "1972",
+      "capacity": 66,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Rohrbach",
+      "state": "Rheinland-Pfalz",
+      "place": "Wöllstein",
+      "opened": "2002",
+      "capacity": 574,
+      "notes": ""
+    },
+    {
+      "name": "Jugendstrafanstalt Schifferstadt",
+      "state": "Rheinland-Pfalz",
+      "place": "Schifferstadt",
+      "opened": "1991",
+      "capacity": 235,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Trier",
+      "state": "Rheinland-Pfalz",
+      "place": "Trier",
+      "opened": "",
+      "capacity": 206,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Wittlich",
+      "state": "Rheinland-Pfalz",
+      "place": "Wittlich",
+      "opened": "2009",
+      "capacity": 580,
+      "notes": ""
+    },
+    {
+      "name": "Jugendstrafanstalt Wittlich",
+      "state": "Rheinland-Pfalz",
+      "place": "Wittlich",
+      "opened": "1902",
+      "capacity": 185,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Zweibrücken",
+      "state": "Rheinland-Pfalz",
+      "place": "Zweibrücken",
+      "opened": "",
+      "capacity": 494,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Bautzen",
+      "state": "Sachsen",
+      "place": "Bautzen",
+      "opened": "1904",
+      "capacity": 462,
+      "notes": "Geschlossener Vollzug, offener Vollzug, Sicherungsverwahrung"
+    },
+    {
+      "name": "Justizvollzugsanstalt Chemnitz",
+      "state": "Sachsen",
+      "place": "Chemnitz",
+      "opened": "1969",
+      "capacity": 260,
+      "notes": "Frauen"
+    },
+    {
+      "name": "Justizvollzugsanstalt Dresden",
+      "state": "Sachsen",
+      "place": "Dresden",
+      "opened": "2000",
+      "capacity": 805,
+      "notes": "Seit 1. Januar 2013 ist die Anstalt ausschließlich für männliche Gefangene zuständig."
+    },
+    {
+      "name": "Justizvollzugsanstalt Görlitz",
+      "state": "Sachsen",
+      "place": "Görlitz",
+      "opened": "1865",
+      "capacity": 216,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Leipzig mit Krankenhaus",
+      "state": "Sachsen",
+      "place": "Leipzig",
+      "opened": "1934",
+      "capacity": "446 Haftplätze und 80 Betten im Krankenhaus",
+      "notes": ""
+    },
+    {
+      "name": "Jugendstrafvollzugsanstalt Regis-Breitingen",
+      "state": "Sachsen",
+      "place": "Regis-Breitingen",
+      "opened": "2007",
+      "capacity": 376,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Torgau",
+      "state": "Sachsen",
+      "place": "Torgau",
+      "opened": "1811",
+      "capacity": 240,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Waldheim",
+      "state": "Sachsen",
+      "place": "Waldheim",
+      "opened": "1716",
+      "capacity": 395,
+      "notes": "18 Plätze im offenen Vollzug"
+    },
+    {
+      "name": "Justizvollzugsanstalt Zeithain",
+      "state": "Sachsen",
+      "place": "Zeithain",
+      "opened": "1977",
+      "capacity": 395,
+      "notes": "361 Plätze im geschlossenen, 34 Plätze im offenen Vollzug"
+    },
+    {
+      "name": "Justizvollzugsanstalt Zwickau",
+      "state": "Sachsen",
+      "place": "Zwickau",
+      "opened": "1899",
+      "capacity": 124,
+      "notes": ""
+    },
+    {
+      "name": "Seehaus Leipzig",
+      "state": "Sachsen",
+      "place": "Neukieritzsch",
+      "opened": "2018 (Start 2011 in Störmthal)",
+      "capacity": 14,
+      "notes": "Jugendstrafvollzug in freien Formen"
+    },
+    {
+      "name": "Justizvollzugsanstalt Burg",
+      "state": "Sachsen-Anhalt",
+      "place": "Burg",
+      "opened": "2009",
+      "capacity": 631,
+      "notes": "Der Bau erfolgte im Wege des Public Private Partnership."
+    },
+    {
+      "name": "Justizvollzugsanstalt Dessau",
+      "state": "Sachsen-Anhalt",
+      "place": "Dessau-Roßlau",
+      "opened": "1886",
+      "capacity": "–",
+      "notes": "2015 geschlossen"
+    },
+    {
+      "name": "Justizvollzugsanstalt Halle I",
+      "state": "Sachsen-Anhalt",
+      "place": "Halle (Saale)",
+      "opened": "1842",
+      "capacity": "",
+      "notes": "weiterer Name: Roter Ochse"
+    },
+    {
+      "name": "Justizvollzugsanstalt Halle II (SothA)",
+      "state": "Sachsen-Anhalt",
+      "place": "Halle (Saale)",
+      "opened": "",
+      "capacity": "",
+      "notes": "ehem. Standort Wilhelm-Busch-Straße; Sozialtherapeutische Anstalt; 2014 nach Burg verlagert."
+    },
+    {
+      "name": "Justizvollzugsanstalt Halle III",
+      "state": "Sachsen-Anhalt",
+      "place": "Halle (Saale)",
+      "opened": "1971",
+      "capacity": "",
+      "notes": "Standort Wilhelm-Busch-Straße; ehemals Jugendanstalt; seit 2010 „unselbständige Nebenstelle“ der Justizvollzugsanstalt Halle I"
+    },
+    {
+      "name": "Jugendarrestanstalt Halle",
+      "state": "Sachsen-Anhalt",
+      "place": "Halle (Saale)",
+      "opened": "",
+      "capacity": 22,
+      "notes": "Standort Roter Ochse"
+    },
+    {
+      "name": "Justizvollzugsanstalt Magdeburg",
+      "state": "Sachsen-Anhalt",
+      "place": "Magdeburg",
+      "opened": "1903",
+      "capacity": "–",
+      "notes": "mit Abteilungen in Halberstadt und Stendal. 2013 geschlossen."
+    },
+    {
+      "name": "Justizvollzugsanstalt Athensleben Außenanstalt der Justizvollzugsanstalt Magdeburg",
+      "state": "Sachsen-Anhalt",
+      "place": "Athensleben",
+      "opened": "1961",
+      "capacity": "bis zu 140",
+      "notes": "In Zwangsarbeit wurden hier für das Fernsehgerätewerk Staßfurt Fernsehgeräte hergestellt. Die JVA wurde 1991 geschlossen und nach 2011 abgerissen."
+    },
+    {
+      "name": "Justizvollzugsanstalt Naumburg",
+      "state": "Sachsen-Anhalt",
+      "place": "Naumburg (Saale)",
+      "opened": "1859",
+      "capacity": 264,
+      "notes": "2012 geschlossen, zwischen 2021 und 2025 bis auf das Gebäude des ehem. Königlichen Schwurgericht abgerissen"
+    },
+    {
+      "name": "Jugendanstalt Raßnitz",
+      "state": "Sachsen-Anhalt",
+      "place": "Raßnitz",
+      "opened": "1959/2002",
+      "capacity": 398,
+      "notes": "bis 1998 Justizvollzugsanstalt"
+    },
+    {
+      "name": "Justizvollzugsanstalt Volkstedt",
+      "state": "Sachsen-Anhalt",
+      "place": "Volkstedt",
+      "opened": "1942",
+      "capacity": 263,
+      "notes": "mit Abteilung in Eisleben"
+    },
+    {
+      "name": "Justizvollzugsanstalt Itzehoe",
+      "state": "Schleswig-Holstein",
+      "place": "Itzehoe",
+      "opened": "1876",
+      "capacity": 32,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Flensburg",
+      "state": "Schleswig-Holstein",
+      "place": "Flensburg",
+      "opened": "1882",
+      "capacity": 69,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Kiel",
+      "state": "Schleswig-Holstein",
+      "place": "Kiel",
+      "opened": "1918",
+      "capacity": 276,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Lübeck",
+      "state": "Schleswig-Holstein",
+      "place": "Lübeck",
+      "opened": "1909",
+      "capacity": 507,
+      "notes": ""
+    },
+    {
+      "name": "Jugendarrestanstalt Moltsfelde",
+      "state": "Schleswig-Holstein",
+      "place": "Neumünster",
+      "opened": "2002",
+      "capacity": 57,
+      "notes": ""
+    },
+    {
+      "name": "Justizvollzugsanstalt Neumünster",
+      "state": "Schleswig-Holstein",
+      "place": "Neumünster",
+      "opened": "1905",
+      "capacity": 596,
+      "notes": ""
+    },
+    {
+      "name": "Jugendanstalt Schleswig",
+      "state": "Schleswig-Holstein",
+      "place": "Schleswig",
+      "opened": "2000",
+      "capacity": 112,
+      "notes": ""
+    },
+    {
+      "name": "JAA Arnstadt",
+      "state": "Thüringen",
+      "place": "Rudisleben",
+      "opened": "2014",
+      "capacity": 39,
+      "notes": ""
+    },
+    {
+      "name": "JVA Arnstadt",
+      "state": "Thüringen",
+      "place": "Rudisleben",
+      "opened": "2014",
+      "capacity": 272,
+      "notes": ""
+    },
+    {
+      "name": "JVA Goldlauter",
+      "state": "Thüringen",
+      "place": "Goldlauter",
+      "opened": "1991",
+      "capacity": 282,
+      "notes": ""
+    },
+    {
+      "name": "JVA Hohenleuben",
+      "state": "Thüringen",
+      "place": "Hohenleuben",
+      "opened": "1897",
+      "capacity": 291,
+      "notes": ""
+    },
+    {
+      "name": "JVA Tonna",
+      "state": "Thüringen",
+      "place": "Gräfentonna",
+      "opened": "2002",
+      "capacity": 589,
+      "notes": ""
+    },
+    {
+      "name": "JVA Untermaßfeld",
+      "state": "Thüringen",
+      "place": "Untermaßfeld",
+      "opened": "1813",
+      "capacity": 330,
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "Justizvollzugsanstalten in Deutschland - Free Download",
+    "description": "Aktive Justizvollzugsanstalten (Gefängnisse) in den deutschen Bundesländern mit Ort, Inbetriebnahme, Belegungsfähigkeit und Bemerkungen. Contains 218 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Justizvollzugsanstalten in Deutschland | ListBase",
+    "seo_description": "Download Justizvollzugsanstalten in Deutschland — 218 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 218 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Justizvollzugsanstalten_in_Deutschland"
+    ]
+  }
+}
