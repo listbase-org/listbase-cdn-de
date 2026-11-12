@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-11T02:22:05.152Z",
-  "total_datasets": 554,
-  "total_records": 1878959,
+  "generated": "2026-11-12T02:08:19.515Z",
+  "total_datasets": 555,
+  "total_records": 1879006,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -5962,6 +5962,33 @@
         "xlsx": {
           "name": "de-wort-des-jahres_DE.xlsx",
           "size": 13020
+        }
+      }
+    },
+    {
+      "id": "de-at-justizminister",
+      "name": "Österreichische Justizminister seit 1918",
+      "category": "law",
+      "record_count": 47,
+      "columns": [
+        "no",
+        "minister",
+        "took_office",
+        "party",
+        "notes",
+        "period"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_österreichischen_Justizminister",
+      "updated": "2026-11",
+      "size": 13472,
+      "files": {
+        "csv": {
+          "name": "de-at-justizminister_DE.csv",
+          "size": 6405
+        },
+        "xlsx": {
+          "name": "de-at-justizminister_DE.xlsx",
+          "size": 9802
         }
       }
     },
