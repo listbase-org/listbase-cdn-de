@@ -1,0 +1,280 @@
+{
+  "id": "de-opernfestspiele-dach",
+  "name": "Opernfestspiele in Deutschland, Österreich und der Schweiz",
+  "title": "Opernfestspiele in Deutschland, Österreich und der Schweiz",
+  "description": "Opern- und Musikfestspiele im deutschsprachigen Raum mit Ort, Land, Gründungsjahr, Spielstätten und Bemerkungen.",
+  "category": "music",
+  "source": "https://de.wikipedia.org/wiki/Liste_von_Opernfestspielen",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_von_Opernfestspielen",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "place",
+      "label": "Place",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "since",
+      "label": "Since",
+      "type": "number"
+    },
+    {
+      "key": "venues",
+      "label": "Venues",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Internationale Festspiele Baden-Baden",
+      "place": "Baden-Baden (Baden-Württemberg)",
+      "country": "Deutschland",
+      "since": 1998,
+      "venues": "Festspielhaus Baden-Baden",
+      "notes": "Mehrere Festspielperioden übers Jahr verteilt: Osterfestspiele der Berliner Philharmoniker seit 2013, zuvor in Salzburg abgehalten; Pfingstfestspiele, Sommerfestspiele, Herbstfestspiele"
+    },
+    {
+      "name": "Oper in der Stiftsruine",
+      "place": "Bad Hersfeld (Hessen)",
+      "country": "Deutschland",
+      "since": 1980,
+      "venues": "Stiftsruine",
+      "notes": ""
+    },
+    {
+      "name": "Rossini in Wildbad",
+      "place": "Bad Wildbad (Baden-Württemberg)",
+      "country": "Deutschland",
+      "since": 1989,
+      "venues": "Kgl. Kurtheater, Neue Trinkhalle, Kurhaus",
+      "notes": "Jährlich im Juli, Unbekannte Werke des Belcanto, Neue Werke und junge Künstler"
+    },
+    {
+      "name": "Bayreuther Festspiele",
+      "place": "Bayreuth (Bayern)",
+      "country": "Deutschland",
+      "since": 1876,
+      "venues": "Richard-Wagner-Festspielhaus",
+      "notes": "Jährlich vom 25. Juli bis 28. August, gezeigt werden ausschließlich Werke von Richard Wagner."
+    },
+    {
+      "name": "Eutiner Festspiele",
+      "place": "Eutin (Schleswig-Holstein)",
+      "country": "Deutschland",
+      "since": 1951,
+      "venues": "Freilichtbühne am Eutiner Schloss",
+      "notes": "Jährlich im Juli und August."
+    },
+    {
+      "name": "Opernfestival Gut Immling Chiemgau",
+      "place": "Halfing (Bayern)",
+      "country": "Deutschland",
+      "since": 1997,
+      "venues": "",
+      "notes": ""
+    },
+    {
+      "name": "Opernfestspiele Heidenheim",
+      "place": "Heidenheim an der Brenz (Baden-Württemberg)",
+      "country": "Deutschland",
+      "since": 1977,
+      "venues": "Rittersaal im Schloss Hellenstein (Open-Air)",
+      "notes": "Jedes Jahr im Juni und Juli"
+    },
+    {
+      "name": "Münchener Biennale",
+      "place": "München (Bayern)",
+      "country": "Deutschland",
+      "since": 1988,
+      "venues": "",
+      "notes": ""
+    },
+    {
+      "name": "Münchner Opernfestspiele",
+      "place": "München (Bayern)",
+      "country": "Deutschland",
+      "since": 1875,
+      "venues": "Bayerische Staatsoper",
+      "notes": ""
+    },
+    {
+      "name": "Festspiele im Schlossgarten",
+      "place": "Neustrelitz (Mecklenburg-Vorpommern)",
+      "country": "Deutschland",
+      "since": 2001,
+      "venues": "Schlossgarten/Schlossberg Neustrelitz",
+      "notes": ""
+    },
+    {
+      "name": "Kammeroper Schloss Rheinsberg",
+      "place": "Rheinsberg (Brandenburg)",
+      "country": "Deutschland",
+      "since": 1990,
+      "venues": "Schlosstheater, St.-Laurentius-Kirche, Spiegelsaal des Rheinsberger Schlosses",
+      "notes": "Jährlich von Juni bis August"
+    },
+    {
+      "name": "Schlossfestspiele",
+      "place": "Schwerin (Mecklenburg-Vorpommern)",
+      "country": "Deutschland",
+      "since": "",
+      "venues": "diverse",
+      "notes": ""
+    },
+    {
+      "name": "Schwetzinger Festspiele",
+      "place": "Schwetzingen (Baden-Württemberg)",
+      "country": "Deutschland",
+      "since": 1952,
+      "venues": "Schlosstheater Schwetzingen",
+      "notes": "jährlich im Frühjahr"
+    },
+    {
+      "name": "Internationale Maifestspiele",
+      "place": "Wiesbaden (Hessen)",
+      "country": "Deutschland",
+      "since": 1896,
+      "venues": "Hessisches Staatstheater Wiesbaden",
+      "notes": "jährlich im Mai"
+    },
+    {
+      "name": "Bregenzer Festspiele",
+      "place": "Bregenz (Vorarlberg)",
+      "country": "Österreich",
+      "since": 1946,
+      "venues": "Seebühne und Festspielhaus",
+      "notes": "Jährlich im Juli und August, die Seebühne fasst knapp 7000 Zuschauer."
+    },
+    {
+      "name": "Tiroler Festspiele Erl",
+      "place": "Erl",
+      "country": "Österreich",
+      "since": 1998,
+      "venues": "Passionsspielhaus und Festspielhaus Erl",
+      "notes": "Sommersaison im Juli, Wintersaison zwischen Weihnachten und Drei-Königs-Tag, Klaviertage rund um den Palmsonntag"
+    },
+    {
+      "name": "Oper Burg Gars am Kamp",
+      "place": "Gars am Kamp",
+      "country": "Österreich",
+      "since": 1990,
+      "venues": "Burgruine Gars am Kamp",
+      "notes": "Jährlich im Juli und August."
+    },
+    {
+      "name": "Donaufestwochen im Strudengau",
+      "place": "Grein",
+      "country": "Österreich",
+      "since": 1979,
+      "venues": "Schloss Greinburg",
+      "notes": "jährlich im Juli und August, Bühne der Alten Musik mit Kontrapunkten"
+    },
+    {
+      "name": "Innsbrucker Festwochen der Alten Musik",
+      "place": "Innsbruck",
+      "country": "Österreich",
+      "since": 1976,
+      "venues": "Tiroler Landestheater u. a.",
+      "notes": "jährlich im August"
+    },
+    {
+      "name": "Oper Klosterneuburg",
+      "place": "Klosterneuburg",
+      "country": "Österreich",
+      "since": 1993,
+      "venues": "Stift Klosterneuburg",
+      "notes": "Jährlich im Juli und August"
+    },
+    {
+      "name": "Salzburger Festspiele",
+      "place": "Salzburg",
+      "country": "Österreich",
+      "since": 1920,
+      "venues": "Spielstätten der Salzburger Festspiele",
+      "notes": "Jährlich im Sommer, dazu kommen noch Oster- und Pfingstfestspiele."
+    },
+    {
+      "name": "Opernfestspiele St. Margarethen",
+      "place": "St. Margarethen",
+      "country": "Österreich",
+      "since": 1996,
+      "venues": "Römersteinbruch St. Margarethen",
+      "notes": "Jährlich im Juli und August"
+    },
+    {
+      "name": "Richard Wagner Festival Wels",
+      "place": "Wels",
+      "country": "Österreich",
+      "since": 1989,
+      "venues": "Stadttheater Wels",
+      "notes": "Jährlich Ende Mai/Anfang Juni, gezeigt werden ausschließlich Werke von Richard Wagner."
+    },
+    {
+      "name": "Wiener Festwochen",
+      "place": "Wien",
+      "country": "Österreich",
+      "since": 1951,
+      "venues": "Theater an der Wien und andere Orte",
+      "notes": "Jährlich für fünf Wochen im Mai und Juni."
+    },
+    {
+      "name": "Opernfestival Riehen",
+      "place": "Riehen",
+      "country": "Schweiz",
+      "since": 2005,
+      "venues": "Wenkenhof",
+      "notes": "Jährlich im August und September"
+    },
+    {
+      "name": "St. Galler Festspiele",
+      "place": "St. Gallen",
+      "country": "Schweiz",
+      "since": 2006,
+      "venues": "Klosterplatz St. Gallen, Kathedrale St. Gallen, Schutzengelkapelle, Kirche St. Laurenzen",
+      "notes": "Jährlich Ende Juni bis Anfang Juli"
+    },
+    {
+      "name": "Opera St. Moritz",
+      "place": "St. Moritz",
+      "country": "Schweiz",
+      "since": 2000,
+      "venues": "Grand Hotels",
+      "notes": "Jährlich im Juni und Juli"
+    },
+    {
+      "name": "Festspiele Zürich",
+      "place": "Zürich",
+      "country": "Schweiz",
+      "since": 1996,
+      "venues": "Opernhaus Zürich, Schauspielhaus Zürich, Tonhalle-Orchester Zürich, Kunsthaus Zürich, sowie Museum Rietberg, Gessnerallee Zürich, Theater Neumarkt und Rigiblick.",
+      "notes": "Jährlich im Juni und Juli."
+    }
+  ],
+  "meta": {
+    "title": "Opernfestspiele in Deutschland, Österreich und der Schweiz - Free Download",
+    "description": "Opern- und Musikfestspiele im deutschsprachigen Raum mit Ort, Land, Gründungsjahr, Spielstätten und Bemerkungen. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Opernfestspiele in Deutschland, Österreich und der Schweiz | ListBase",
+    "seo_description": "Download Opernfestspiele in Deutschland, Österreich und der Schweiz — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_von_Opernfestspielen"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-12T02:08:35.481Z",
-  "total_datasets": 557,
-  "total_records": 1879322,
+  "generated": "2026-11-12T02:08:45.033Z",
+  "total_datasets": 558,
+  "total_records": 1879350,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -6344,6 +6344,33 @@
         "xlsx": {
           "name": "de-oeffentlich-gefoerderte-orchester_DE.xlsx",
           "size": 13388
+        }
+      }
+    },
+    {
+      "id": "de-opernfestspiele-dach",
+      "name": "Opernfestspiele in Deutschland, Österreich und der Schweiz",
+      "category": "music",
+      "record_count": 28,
+      "columns": [
+        "name",
+        "place",
+        "country",
+        "since",
+        "venues",
+        "notes"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_von_Opernfestspielen",
+      "updated": "2026-11",
+      "size": 9020,
+      "files": {
+        "csv": {
+          "name": "de-opernfestspiele-dach_DE.csv",
+          "size": 4214
+        },
+        "xlsx": {
+          "name": "de-opernfestspiele-dach_DE.xlsx",
+          "size": 9030
         }
       }
     },
