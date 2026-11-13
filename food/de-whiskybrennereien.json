@@ -1,0 +1,880 @@
+{
+  "id": "de-whiskybrennereien",
+  "name": "Deutsche Whiskybrennereien",
+  "title": "Deutsche Whiskybrennereien",
+  "description": "Brennereien in Deutschland, die Whisky herstellen: Ort, Bundesland, Beginn der Whiskyproduktion, Inhaber und Besonderheiten.",
+  "category": "food",
+  "source": "https://de.wikipedia.org/wiki/Liste_deutscher_Whiskybrennereien",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_deutscher_Whiskybrennereien",
+  "updated": "2026-11",
+  "record_count": 103,
+  "columns": [
+    {
+      "key": "distillery",
+      "label": "Distillery",
+      "type": "string"
+    },
+    {
+      "key": "town",
+      "label": "Town",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "whisky_since",
+      "label": "Whisky Since",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "distillery": "Alpirsbacher Klosterbräu",
+      "town": "Alpirsbach",
+      "state": "Baden-Württemberg",
+      "whisky_since": 2007,
+      "owner": "Alpirsbacher Klosterbräu Glauner GmbH",
+      "notes": "produziert mit Markenname \"Kloster Whisky\""
+    },
+    {
+      "distillery": "Altbierbrauerei Uerige",
+      "town": "Düsseldorf",
+      "state": "Nordrhein-Westfalen",
+      "whisky_since": 2008,
+      "owner": "",
+      "notes": "produziert Uerige Whisky"
+    },
+    {
+      "distillery": "AV Brennerei",
+      "town": "Wincheringen -Bilzingen",
+      "state": "Rheinland-Pfalz",
+      "whisky_since": 2006,
+      "owner": "",
+      "notes": "brennt Roggen-Whisky"
+    },
+    {
+      "distillery": "Bachgau-Destille",
+      "town": "Schaafheim - Radheim",
+      "state": "Hessen",
+      "whisky_since": "",
+      "owner": "",
+      "notes": "stellt einen Bachgau-Whisky her"
+    },
+    {
+      "distillery": "Bellerhof-Brennerei",
+      "town": "Owen",
+      "state": "Baden-Württemberg",
+      "whisky_since": 1989,
+      "owner": "Thomas Dannenmann",
+      "notes": "verwendet zusätzlich Roggen"
+    },
+    {
+      "distillery": "Berghof-Brennerei Rabel",
+      "town": "Owen",
+      "state": "Baden-Württemberg",
+      "whisky_since": "",
+      "owner": "",
+      "notes": "produziert auch Dinkel-Whisky"
+    },
+    {
+      "distillery": "Bergwelt Brennerei",
+      "town": "Pfaffenhausen",
+      "state": "Bayern",
+      "whisky_since": 2017,
+      "owner": "Andreas von Bergwelt",
+      "notes": "produziert u. a. den White Mountain Single Malt"
+    },
+    {
+      "distillery": "Birgitta Rust Piekfeine Brände – Craft Distillery",
+      "town": "Bremen",
+      "state": "Freie Hansestadt Bremen",
+      "whisky_since": 2012,
+      "owner": "Birgitta Schulze van Loon",
+      "notes": "produziert den Van Loon Whisky"
+    },
+    {
+      "distillery": "Birkenhof-Brennerei",
+      "town": "Nistertal",
+      "state": "Rheinland-Pfalz",
+      "whisky_since": 2002,
+      "owner": "Peter und Steffi Klöckner",
+      "notes": "produziert Whisky unter dem Namen Birkenhof Fading Hill"
+    },
+    {
+      "distillery": "Black-Wood-Keller im Krabba-Nescht",
+      "town": "Calw - Holzbronn",
+      "state": "Baden-Württemberg",
+      "whisky_since": 1991,
+      "owner": "",
+      "notes": "produziert den Black-Wood-Whisky"
+    },
+    {
+      "distillery": "Bosch Edelbrand",
+      "town": "Lenningen",
+      "state": "Baden-Württemberg",
+      "whisky_since": 1999,
+      "owner": "Andreas Bosch",
+      "notes": "stellt Dinkel -Whisky her"
+    },
+    {
+      "distillery": "Brauerei & Brennerei Eschenbräu",
+      "town": "Berlin",
+      "state": "Berlin",
+      "whisky_since": 2010,
+      "owner": "Martin Eschenbrenner",
+      "notes": "2010 wurde Berliner Whisky eingelagert"
+    },
+    {
+      "distillery": "Brauerei Friedrich Düll",
+      "town": "Volkach - Krautheim",
+      "state": "Bayern",
+      "whisky_since": 2016,
+      "owner": "Friedrich Düll",
+      "notes": "single malt - single cask Whiskys; gelagert mind. 6 Jahre in vorbelegten Barrique Fässern von regionalen Weingütern der Mainschleife"
+    },
+    {
+      "distillery": "Brennerei Dürr",
+      "town": "Neubulach",
+      "state": "Baden-Württemberg",
+      "whisky_since": 2002,
+      "owner": "",
+      "notes": "produziert Doinich Daal – Blackforest"
+    },
+    {
+      "distillery": "Brennerei Ehringhausen",
+      "town": "Werne",
+      "state": "Nordrhein-Westfalen",
+      "whisky_since": "",
+      "owner": "Theres und Georg Glitz-Ehringhausen",
+      "notes": "produziert verschiedene Kornbrände, die Serie Kleiner Lord bewegt sich geschmacklich im Whiskyniveau"
+    },
+    {
+      "distillery": "Brennerei Friz",
+      "town": "Oppenweiler",
+      "state": "Baden-Württemberg",
+      "whisky_since": 2010,
+      "owner": "Jürgen Friz",
+      "notes": ""
+    },
+    {
+      "distillery": "Brennerei Henrich",
+      "town": "Kriftel",
+      "state": "Hessen",
+      "whisky_since": 2008,
+      "owner": "Holger und Ralf Henrich",
+      "notes": "produziert Gilors Single Malt Whisky"
+    },
+    {
+      "distillery": "Brennerei Höhler",
+      "town": "Aarbergen",
+      "state": "Hessen",
+      "whisky_since": 2001,
+      "owner": "Maren Küsel",
+      "notes": "produziert den Whesskey"
+    },
+    {
+      "distillery": "Brennerei Höllberg",
+      "town": "Oberkirch",
+      "state": "Baden-Württemberg",
+      "whisky_since": "",
+      "owner": "",
+      "notes": "produziert den Höllberg Black Forest Whisky"
+    },
+    {
+      "distillery": "Brennerei Mees",
+      "town": "Briedel/Mosel",
+      "state": "Rheinland-Pfalz",
+      "whisky_since": "",
+      "owner": "Michael Mees",
+      "notes": "produziert kleine Mengen Single Malt, Reifung im Eichenfass, Finish im Rotwein-, Bourbon- oder Rumfass"
+    },
+    {
+      "distillery": "Brennerei Roder",
+      "town": "Aalen",
+      "state": "Baden-Württemberg",
+      "whisky_since": 2003,
+      "owner": "Frank Roder",
+      "notes": "produziert Single Grain (über 7 Jahre im Bourbon- und Sherryfass gereift; hergestellt unter Verwendung von hauseigenen Quellwasser)"
+    },
+    {
+      "distillery": "Brennerei Senft",
+      "town": "Salem",
+      "state": "Baden-Württemberg",
+      "whisky_since": "",
+      "owner": "",
+      "notes": "produziert den Bodensee Whisky"
+    },
+    {
+      "distillery": "Brennerei Sonnenschein",
+      "town": "Witten - Heven",
+      "state": "Nordrhein-Westfalen",
+      "whisky_since": "",
+      "owner": "",
+      "notes": "der Sonnenschein Single Malt Whisky wurde einmalig 1989 von der Brennerei Sonnenschein produziert, inaktiv"
+    },
+    {
+      "distillery": "Brennerei Theurer im Gasthof Lamm",
+      "town": "Tübingen - Unterjesingen",
+      "state": "Baden-Württemberg",
+      "whisky_since": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "distillery": "Brennerei Ziegler",
+      "town": "Freudenberg",
+      "state": "Baden-Württemberg",
+      "whisky_since": 2008,
+      "owner": "Josef und Matthäus Ziegler",
+      "notes": "bietet einen Single Malt Whisky unter dem Namen Ziegler – Aureum 1865 – Fassstärke aus dem Jahr 2008 an"
+    },
+    {
+      "distillery": "Brigantia 1. Bodensee Whisky Destillerie",
+      "town": "Kressbronn am Bodensee",
+      "state": "Baden-Württemberg",
+      "whisky_since": 2008,
+      "owner": "Martin Steinhauser",
+      "notes": ""
+    },
+    {
+      "distillery": "Bürgerstiftung Rohrmeisterei Schwert",
+      "town": "Schwerte",
+      "state": "Nordrhein-Westfalen",
+      "whisky_since": 2012,
+      "owner": "Bürgerstiftung Rohrmeisterei Schwerte",
+      "notes": "in Zusammenarbeit mit der Märkischen Spezialitäten-Brennerei in Hagen destilliert die Rohrmeisterei jedes Jahr Schwerter Whisky; pro Jahr werden zwei neue Fässer abgefüllt (je eines mit 3 und eines mit 5 Jahren Lagerung); verwendet werde gebrauchte Bourbon-, Sherry-, Portwein- oder Rumfässer"
+    },
+    {
+      "distillery": "Destille Kaltenthaler",
+      "town": "Westhofen",
+      "state": "Rheinland-Pfalz",
+      "whisky_since": 2013,
+      "owner": "Felix Georg Kaltenthaler",
+      "notes": "produziert Whisky unter dem Namen Vangiones in verschiedenen Variationen"
+    },
+    {
+      "distillery": "Destillerie Armin Jobst",
+      "town": "Hammelburg",
+      "state": "Bayern",
+      "whisky_since": 2007,
+      "owner": "Armin Jobst",
+      "notes": "Einzelfassabfüllungen von Single Malt und Single Grain Whiskys; 10 verwendete Fasstypen"
+    },
+    {
+      "distillery": "Destillerie Kammer-Kirsch",
+      "town": "Karlsruhe-Mühlburg",
+      "state": "Baden-Württemberg",
+      "whisky_since": 2006,
+      "owner": "Gerald Erdrich",
+      "notes": "produziert in Kooperation mit der Badischen Staatsbrauerei Rothaus kleine Mengen unter dem Namen Black Forest Rothaus Single Malt Whisky"
+    },
+    {
+      "distillery": "Destillerie Ralf Hauer",
+      "town": "Bad Dürkheim",
+      "state": "Rheinland-Pfalz",
+      "whisky_since": 2012,
+      "owner": "Ralf Hauer",
+      "notes": "produziert Single Malt Whisky unter dem Namen Saillt Mór in verschiedenen Varianten"
+    },
+    {
+      "distillery": "Destillerie & Brennerei Heinrich Habbel",
+      "town": "Sprockhövel",
+      "state": "Nordrhein-Westfalen",
+      "whisky_since": 1977,
+      "owner": "Michael und Michaela Habbel",
+      "notes": "produziert den Hillock German Whisky"
+    },
+    {
+      "distillery": "Deutsche Spirituosen-Manufaktur",
+      "town": "Berlin-Marzahn",
+      "state": "Berlin",
+      "whisky_since": "2017, Okt.",
+      "owner": "Tim Müller",
+      "notes": "Geiste und Brände mit hohem Alkoholgehalt (bis zu 42 Prozent), beispielsweise Zitronengras -, Pfeffer -, Spargel -, Rhabarber - oder Mandarinen geist"
+    },
+    {
+      "distillery": "Dolleruper Destille",
+      "town": "Dollerup",
+      "state": "Schleswig-Holstein",
+      "whisky_since": 2014,
+      "owner": "Werner Sauer und Dr. Axel Hartwig",
+      "notes": "produziert Single Malt, Straight Rye und Straight Corn"
+    },
+    {
+      "distillery": "Dresdner Whisky Manufaktur",
+      "town": "Dresden",
+      "state": "Sachsen",
+      "whisky_since": 2020,
+      "owner": "Frank Leichsenring und Thomas Michalski",
+      "notes": "produziert Single Malt Whisky HELLINGER 42"
+    },
+    {
+      "distillery": "Edelbrennerei Bischof",
+      "town": "Wartmannsroth",
+      "state": "Bayern",
+      "whisky_since": "",
+      "owner": "",
+      "notes": "stellt einen Rhöner Whisky her"
+    },
+    {
+      "distillery": "Eifel Whisky",
+      "town": "Koblenz",
+      "state": "Rheinland-Pfalz",
+      "whisky_since": "",
+      "owner": "",
+      "notes": "der 5-jährige Single Rye (Bordeauxfass) von Eifel Whisky wurde mit 96 Punkten in Jim Murray's Whisky Bible bewertet"
+    },
+    {
+      "distillery": "Elch-Whisky",
+      "town": "Gräfenberg - Thuisbrunn",
+      "state": "Bayern",
+      "whisky_since": 2017,
+      "owner": "Georg und Bianca Kugler",
+      "notes": "produziert Single Malt Whisky"
+    },
+    {
+      "distillery": "Erlebnisdestillerie Senft",
+      "town": "Salem (Baden)",
+      "state": "Baden-Württemberg",
+      "whisky_since": 2009,
+      "owner": "Herbert und Silke Senft",
+      "notes": "produziert Senft Bodensee Whisky"
+    },
+    {
+      "distillery": "Fallstein Destillerie – Demmel & Cie. GmbH",
+      "town": "Rohrsheim",
+      "state": "Sachsen-Anhalt",
+      "whisky_since": 2007,
+      "owner": "Thomas Demmel",
+      "notes": "produziert Single Malt Whisky und 2 Blends, teilweise aus eigenem Anbau"
+    },
+    {
+      "distillery": "Farny Destillerie",
+      "town": "Kißlegg",
+      "state": "Baden-Württemberg",
+      "whisky_since": 2015,
+      "owner": "Oskar Farny",
+      "notes": "produziert Falken Whisky"
+    },
+    {
+      "distillery": "Feinbrennerei Sasse",
+      "town": "Schöppingen",
+      "state": "Nordrhein-Westfalen",
+      "whisky_since": 2020,
+      "owner": "Rüdiger Sasse",
+      "notes": "produziert nur geringe Mengen in limitierten Abfüllungen"
+    },
+    {
+      "distillery": "Fesslermill1396 Destillerie",
+      "town": "Sersheim",
+      "state": "Baden-Württemberg",
+      "whisky_since": 2013,
+      "owner": "Tobias Fessler, Wolfgang Fessler",
+      "notes": "produziert den mettermalt Whisky; Getreide von eigenen Ackerflächen, Vermahlung in der eigenen Getreidemühle (Fessler Mühle) auf einem Schrotgang aus dem Jahr 1870; Whiskys aus Roggen-, Hafer-, Dinkel- und Weizendestillaten, sowie Gerstenmalz"
+    },
+    {
+      "distillery": "Finch Whiskydestillerie",
+      "town": "Heroldstatt",
+      "state": "Baden-Württemberg",
+      "whisky_since": 2001,
+      "owner": "Hans-Gerhard Fink",
+      "notes": "brennt aus Dinkel und Weizen verschiedene Whiskys, verwendet auch die alte Getreideart Emmer"
+    },
+    {
+      "distillery": "Fränkische Whiskybrennerei Mößlein",
+      "town": "Zeilitzheim",
+      "state": "Bayern",
+      "whisky_since": 1996,
+      "owner": "Reiner und Martin Mößlein",
+      "notes": "produziert Fränkischen Whisky"
+    },
+    {
+      "distillery": "Friesenwhisky",
+      "town": "Aurich",
+      "state": "Niedersachsen",
+      "whisky_since": "",
+      "owner": "Heiner Labohm und Arnd Büdenbender",
+      "notes": "produziert den Ostfriesenwhisky"
+    },
+    {
+      "distillery": "Gerhard Büchner Feindestillerie Am Süßen See",
+      "town": "Langenbogen",
+      "state": "Sachsen-Anhalt",
+      "whisky_since": "",
+      "owner": "Gerhard Büchner",
+      "notes": "produziert Single Malt Whisky und Single Grain"
+    },
+    {
+      "distillery": "Glina Destillerie GmbH",
+      "town": "Werder/Havel",
+      "state": "Brandenburg",
+      "whisky_since": "",
+      "owner": "Michael Schultz",
+      "notes": "produziert verschiedene Whisky aus Roggen oder Gerste aus eigenem Anbau"
+    },
+    {
+      "distillery": "Grumsiner Brennerei",
+      "town": "Angermünde",
+      "state": "Brandenburg",
+      "whisky_since": 2015,
+      "owner": "Thomas Blätterlein",
+      "notes": "produziert Mammoth Whisky"
+    },
+    {
+      "distillery": "Gutsbrennerei Joh. B. Geuting",
+      "town": "Bocholt",
+      "state": "Nordrhein-Westfalen",
+      "whisky_since": 2010,
+      "owner": "Magnus Geuting",
+      "notes": "produziert J.B.G. Münsterländer Whisky"
+    },
+    {
+      "distillery": "Hercynian Distilling Co. / Hammerschmiede",
+      "town": "Walkenried - Zorge",
+      "state": "Niedersachsen",
+      "whisky_since": 2002,
+      "owner": "Karl Theodor Buchholz",
+      "notes": "produziert den Single Malt Whisky Elsburn (bis 2019 The Glen Els)"
+    },
+    {
+      "distillery": "Hardenberg Distillery",
+      "town": "Nörten-Hardenberg",
+      "state": "Niedersachsen",
+      "whisky_since": 2014,
+      "owner": "Carl Graf von Hardenberg",
+      "notes": "produziert den Single Malt Whisky Beverbach Single Malt"
+    },
+    {
+      "distillery": "Hausbrauerei Altstadthof",
+      "town": "Nürnberg",
+      "state": "Bayern",
+      "whisky_since": 2005,
+      "owner": "Hausbrauerei Altstadthof GmbH Rotbierbrauerei & Whiskydestillerie",
+      "notes": "produziert mit Markenname Ayrer’s Red"
+    },
+    {
+      "distillery": "HeiligenBergFeld Distillery",
+      "town": "Widdersberg",
+      "state": "Bayern",
+      "whisky_since": 2018,
+      "owner": "Achim März",
+      "notes": ""
+    },
+    {
+      "distillery": "Hinrichsen's Farm",
+      "town": "Dunsum (Insel Föhr)",
+      "state": "Schleswig-Holstein",
+      "whisky_since": "",
+      "owner": "Marret & Jan Hinrichsen",
+      "notes": "„Single Farm Whisky“, d. h. es wird nur Getreide aus eigenem Anbau verwendet; einzige Whiskybrennerei auf einer deutschen Nordseeinsel"
+    },
+    {
+      "distillery": "Hinricus Noyte’s Spirituosen",
+      "town": "Wismar",
+      "state": "Mecklenburg-Vorpommern",
+      "whisky_since": 2012,
+      "owner": "Stefan Beck",
+      "notes": ""
+    },
+    {
+      "distillery": "Historische Brennerei Gemmer",
+      "town": "Rettert",
+      "state": "Rheinland-Pfalz",
+      "whisky_since": 2008,
+      "owner": "Klaus Gemmer",
+      "notes": "produziert Georg IV Single Malt Whisky"
+    },
+    {
+      "distillery": "Hofgut Aglishardt",
+      "town": "Römerstein",
+      "state": "Baden-Württemberg",
+      "whisky_since": 2003,
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "distillery": "Kinzigbrennerei",
+      "town": "Biberach",
+      "state": "Baden-Württemberg",
+      "whisky_since": 2004,
+      "owner": "Martin Brosamer",
+      "notes": "mindestens 6 Whiskysorten aus Eigendestillation im Sortiment"
+    },
+    {
+      "distillery": "Kleinbrennerei Fitzke",
+      "town": "Herbolzheim -Broggingen",
+      "state": "Baden-Württemberg",
+      "whisky_since": 2004,
+      "owner": "Edith Fitzke",
+      "notes": "produziert den Schwarzwälder Whisky Derrina; Single Malt and Single Grain Whiskys aus allen Getreidesorten"
+    },
+    {
+      "distillery": "Kornbrennerei August Dinsing",
+      "town": "Dortmund - Wichlinghofen",
+      "state": "Nordrhein-Westfalen",
+      "whisky_since": 2016,
+      "owner": "Dirk Dinsing",
+      "notes": "produziert den \"Dortmunder Whisky\""
+    },
+    {
+      "distillery": "Kornbrennerei Wagner",
+      "town": "Hünfelden - Dauborn",
+      "state": "Hessen",
+      "whisky_since": 2005,
+      "owner": "Bettina Wagner",
+      "notes": ""
+    },
+    {
+      "distillery": "Kymsee Whisky-Destillerie",
+      "town": "Grabenstätt",
+      "state": "Bayern",
+      "whisky_since": 2012,
+      "owner": "Oliver Lange",
+      "notes": ""
+    },
+    {
+      "distillery": "Lambertus Bräu & Brand GmbH",
+      "town": "Linnich",
+      "state": "Nordrhein-Westfalen",
+      "whisky_since": 1828,
+      "owner": "Laura Jacobsen-Littig und Lennart Jacobsen",
+      "notes": "Westlichste Brennerei Deutschlands, Markenname \"Eiskeller-Whisky\" durch Lagerung im ehemaligen Eiskeller der zugehörigen Brauerei, Fokus auf Single Cask und mindestens 10 Jahren Lagerdauer"
+    },
+    {
+      "distillery": "Manufaktur Der Ginsberg",
+      "town": "Windeck",
+      "state": "Nordrhein-Westfalen",
+      "whisky_since": 2017,
+      "owner": "Frank Ginsberg",
+      "notes": "produziert kleine Mengen Single Malt Whiskys, auch mit besonderen Finishings"
+    },
+    {
+      "distillery": "Manufaktur Lehmitz",
+      "town": "Hamburg",
+      "state": "Hamburg",
+      "whisky_since": 2017,
+      "owner": "Weinhaus am Stadtrand Marco Lehmitz e.K.",
+      "notes": "produziert den Hamburg Malt Whisky / Hamburg Malt Whisky Hamburger Rotspon Finish"
+    },
+    {
+      "distillery": "Marder Edelbrände",
+      "town": "Albbruck -Unteralpfen",
+      "state": "Baden-Württemberg",
+      "whisky_since": 2009,
+      "owner": "Stefan Marder",
+      "notes": ""
+    },
+    {
+      "distillery": "Märkische Spezialitäten-Brennerei",
+      "town": "Hagen",
+      "state": "Nordrhein-Westfalen",
+      "whisky_since": 2010,
+      "owner": "Klaus Wurm",
+      "notes": "produziert den DeCavo Single Malt Höhlenwhisky in einer Standardstärke mit 47,3 % Vol. und einer Fassstärke die in der Regel zwischen 58 % und 60 % Vol. liegen"
+    },
+    {
+      "distillery": "Meissener Spezialitäten-Brennerei Prinz zur Lippe",
+      "town": "Klipphausen",
+      "state": "Sachsen",
+      "whisky_since": "",
+      "owner": "Georg Prinz zur Lippe-Weißenfeld und Siegbert Hennig",
+      "notes": ""
+    },
+    {
+      "distillery": "mühle4",
+      "town": "Kempen/St. Hubert",
+      "state": "Nordrhein-Westfalen",
+      "whisky_since": 2020,
+      "owner": "Peter Day",
+      "notes": "produziert Wackertapp 01 (Single Malt, Double Cask, Jamaica Rum Finish) und Wackertapp 02 (Single Malt, Double Cask, Laphroaig Finish)"
+    },
+    {
+      "distillery": "Nicolai & Sohn Whiskybrennerei",
+      "town": "Erfurt",
+      "state": "Thüringen",
+      "whisky_since": 2018,
+      "owner": "Thomas Nicolai",
+      "notes": "traditionelles Pot Stil Verfahren nach schottischem Vorbild,"
+    },
+    {
+      "distillery": "Niederrhein Destille",
+      "town": "Emmerich am Rhein",
+      "state": "Nordrhein-Westfalen",
+      "whisky_since": 2012,
+      "owner": "André de Schrevel",
+      "notes": "Whiskys reifen im Barriquefass"
+    },
+    {
+      "distillery": "Number Nine Spirituosen Manufaktur GmbH",
+      "town": "Leinefelde-Worbis",
+      "state": "Thüringen",
+      "whisky_since": 2013,
+      "owner": "Familie Ehbrecht",
+      "notes": "Whisky The 9 Springs, Whiskywelt auf Burg Scharfenstein seit 2018, ca. 12.000 Liter pro Jahr"
+    },
+    {
+      "distillery": "Obst-Korn Brennerei Zaiser",
+      "town": "Köngen",
+      "state": "Baden-Württemberg",
+      "whisky_since": 1999,
+      "owner": "",
+      "notes": "produziert Schwäbischen Whisky als Single Grain, Single Grain Roasted und Single Malt; Besonderheit ist die Lagerung u. a. in ausgebrannten Apfelmostfässern"
+    },
+    {
+      "distillery": "Obstmanufaktur Greiner Edelobstbrennerei",
+      "town": "Heidenheim an der Brenz",
+      "state": "Baden-Württemberg",
+      "whisky_since": "",
+      "owner": "Ulrich Greiner",
+      "notes": "produziert Single Grain Whisky aus eigenem Anbau"
+    },
+    {
+      "distillery": "Old Sandhill Destillerie",
+      "town": "Bad Belzig",
+      "state": "Brandenburg",
+      "whisky_since": 2012,
+      "owner": "Norbert und Tim Eggenstein",
+      "notes": "produziert Single Malt Whisky, angeboten werden 5 verschiedene Sorten (Gold und Doppelgold prämiert 2019)"
+    },
+    {
+      "distillery": "Palatinatus Whisky Destillerie Thomas Sippel",
+      "town": "Weisenheim am Berg",
+      "state": "Rheinland-Pfalz",
+      "whisky_since": 2011,
+      "owner": "Thomas Sippel",
+      "notes": ""
+    },
+    {
+      "distillery": "Pittermanns Brauerei & Destillerie",
+      "town": "Köln",
+      "state": "Nordrhein-Westfalen",
+      "whisky_since": 2016,
+      "owner": "Peter Esser",
+      "notes": ""
+    },
+    {
+      "distillery": "Preussische Whisky Destillerie",
+      "town": "Schwedt/Oder",
+      "state": "Brandenburg",
+      "whisky_since": 2012,
+      "owner": "",
+      "notes": "produziert Preussischen Whisky"
+    },
+    {
+      "distillery": "Radebeuler Destille",
+      "town": "Radebeul",
+      "state": "Sachsen",
+      "whisky_since": 2016,
+      "owner": "Henrik Helbig",
+      "notes": "produziert den Radebeul Single Malt im klassischen Pot-Still-Doppelbrandverfahren; nur Single Cask"
+    },
+    {
+      "distillery": "Schlitzer Destillerie",
+      "town": "Schlitz",
+      "state": "Hessen",
+      "whisky_since": 1983,
+      "owner": "Tobias Wiedelbach",
+      "notes": "produziert u. A. den Glen Slitisa Single Wheat Whisky"
+    },
+    {
+      "distillery": "Simon’s Feinbrennerei",
+      "town": "Alzenau- Michelbach",
+      "state": "Bayern",
+      "whisky_since": 1998,
+      "owner": "Severin Simon",
+      "notes": ""
+    },
+    {
+      "distillery": "Singold Whisky Destillerie",
+      "town": "Wehringen",
+      "state": "Bayern",
+      "whisky_since": 2012,
+      "owner": "Hans-Jürgen Filp",
+      "notes": ""
+    },
+    {
+      "distillery": "Slyrs Destillerie",
+      "town": "Schliersee",
+      "state": "Bayern",
+      "whisky_since": 1999,
+      "owner": "Hans Kemenater",
+      "notes": "produziert den Slyrs Bavarian Single Malt Whisky"
+    },
+    {
+      "distillery": "Spezialitäten-Brennerei & Whisky Destillerie Liebl",
+      "town": "Bad Kötzting",
+      "state": "Bayern",
+      "whisky_since": 2006,
+      "owner": "Gerhard Liebl",
+      "notes": "produziert Coillmor Bavarian Single Malt Whisky"
+    },
+    {
+      "distillery": "Spreewood Distillers GmbH",
+      "town": "Schlepzig",
+      "state": "Brandenburg",
+      "whisky_since": 2007,
+      "owner": "",
+      "notes": "produziert STORK CLUB Rye Whiskey"
+    },
+    {
+      "distillery": "St. Kilian Distillers",
+      "town": "Rüdenau",
+      "state": "Bayern",
+      "whisky_since": 2012,
+      "owner": "Andreas Thümmler",
+      "notes": "produziert u. a. Bud Spencer, Terence Hill, Grave Digger, White Dog"
+    },
+    {
+      "distillery": "Stonewood Whisky-Destillerie",
+      "town": "Erbendorf",
+      "state": "Bayern",
+      "whisky_since": 1818,
+      "owner": "Gregor Schraml",
+      "notes": "älteste deutsche Whiskydestillerie; produziert Stonewood (benannt nach dem Naturpark Steinwald)"
+    },
+    {
+      "distillery": "Störtebeker Brennerei",
+      "town": "Alt Reddevitz",
+      "state": "Mecklenburg-Vorpommern",
+      "whisky_since": 2006,
+      "owner": "Störtebeker Braumanufaktur",
+      "notes": "produziert auf der Rügener Halbinsel Mönchgut Störtebeker Whisky"
+    },
+    {
+      "distillery": "Sülfelder Gutshof Brennerei",
+      "town": "Wolfsburg",
+      "state": "Niedersachsen",
+      "whisky_since": 2013,
+      "owner": "Hermann Lübbecke-Grünhagen",
+      "notes": "produziert Sulivilun Whisky"
+    },
+    {
+      "distillery": "Sulmgau Whisky",
+      "town": "Neckarsulm",
+      "state": "Baden-Württemberg",
+      "whisky_since": 2016,
+      "owner": "Whisky Stube Ralf Brzeske",
+      "notes": "produziert Whisky aus Malz und Korn"
+    },
+    {
+      "distillery": "Tecker Whisky-Destillerie",
+      "town": "Owen",
+      "state": "Baden-Württemberg",
+      "whisky_since": 1989,
+      "owner": "Immanuel Gruel",
+      "notes": "brennt Grain Whisky aus Weizen und Gerstenmalz"
+    },
+    {
+      "distillery": "The Lübbehusen Malt Distillery",
+      "town": "Emstek",
+      "state": "Niedersachsen",
+      "whisky_since": 2014,
+      "owner": "Jens Lübbehusen",
+      "notes": ""
+    },
+    {
+      "distillery": "Thousand Mountains – German Whisky Distillery",
+      "town": "Kallenhardt",
+      "state": "Nordrhein-Westfalen",
+      "whisky_since": 2004,
+      "owner": "Ulrich Wolfkühler",
+      "notes": ""
+    },
+    {
+      "distillery": "Usedom Destillerie",
+      "town": "Mölschow",
+      "state": "Mecklenburg-Vorpommern",
+      "whisky_since": 2020,
+      "owner": "Joern Schnapke",
+      "notes": "der erste Usedomer Whisky kommt aus dieser Destillerie"
+    },
+    {
+      "distillery": "Vogel Hausbräu Durlach",
+      "town": "Karlsruhe - Durlach",
+      "state": "Baden-Württemberg",
+      "whisky_since": 2010,
+      "owner": "Rudi Vogel",
+      "notes": "produziert auch Bierbrände"
+    },
+    {
+      "distillery": "Waldhornbrennerei Klotz",
+      "town": "Berglen",
+      "state": "Baden-Württemberg",
+      "whisky_since": 2010,
+      "owner": "Gerlinde Klotz, Jürgen Klotz, Michael Klotz",
+      "notes": "produziert Glen Buchenbach als Single Malt, ausgebaut in Sherry Fässern"
+    },
+    {
+      "distillery": "Weingut Mößlein",
+      "town": "Kolitzheim - Zeilitzheim",
+      "state": "Bayern",
+      "whisky_since": 1999,
+      "owner": "",
+      "notes": "produziert Single Malt und Grain Whisky"
+    },
+    {
+      "distillery": "Weinkellerei Steinhauser",
+      "town": "Kressbronn am Bodensee",
+      "state": "Baden-Württemberg",
+      "whisky_since": 2008,
+      "owner": "Martin Steinhauser",
+      "notes": "die 1. Bodensee Whisky-Brennerei produziert den Single Malt Brigantia"
+    },
+    {
+      "distillery": "Weyermann Destillerie",
+      "town": "Bamberg",
+      "state": "Bayern",
+      "whisky_since": 2014,
+      "owner": "Malzfabrik Michael Weyermann",
+      "notes": ""
+    },
+    {
+      "distillery": "Whiskydestillerie Blaue Maus",
+      "town": "Eggolsheim",
+      "state": "Bayern",
+      "whisky_since": 1983,
+      "owner": "Thomas Fleischmann",
+      "notes": "der Spinnaker Single Cask Malt Whisky Fassstärke Cask 1 (destilliert 06/1988, abgefüllt 06/2015) wurde mit 97 Punkten in Jim Murray's Whisky Bible bewertet"
+    },
+    {
+      "distillery": "Yserrain Distillery",
+      "town": "Ismaning",
+      "state": "Bayern",
+      "whisky_since": 2017,
+      "owner": "Adolf M. Sieber",
+      "notes": ""
+    },
+    {
+      "distillery": "Zeitzer Whisky Manufaktur",
+      "town": "Zeitz",
+      "state": "Sachsen-Anhalt",
+      "whisky_since": 2014,
+      "owner": "Daniel Rost",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Whiskybrennereien - Free Download",
+    "description": "Brennereien in Deutschland, die Whisky herstellen: Ort, Bundesland, Beginn der Whiskyproduktion, Inhaber und Besonderheiten. Contains 103 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Deutsche Whiskybrennereien | ListBase",
+    "seo_description": "Download Deutsche Whiskybrennereien — 103 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 103 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_deutscher_Whiskybrennereien"
+    ]
+  }
+}

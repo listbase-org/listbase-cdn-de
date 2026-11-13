@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-13T02:24:41.369Z",
-  "total_datasets": 561,
-  "total_records": 1879401,
+  "generated": "2026-11-13T02:24:52.235Z",
+  "total_datasets": 562,
+  "total_records": 1879504,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -3697,6 +3697,33 @@
         "xlsx": {
           "name": "de-michelin-restaurants_DE.xlsx",
           "size": 489091
+        }
+      }
+    },
+    {
+      "id": "de-whiskybrennereien",
+      "name": "Deutsche Whiskybrennereien",
+      "category": "food",
+      "record_count": 103,
+      "columns": [
+        "distillery",
+        "town",
+        "state",
+        "whisky_since",
+        "owner",
+        "notes"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_deutscher_Whiskybrennereien",
+      "updated": "2026-11",
+      "size": 28801,
+      "files": {
+        "csv": {
+          "name": "de-whiskybrennereien_DE.csv",
+          "size": 15051
+        },
+        "xlsx": {
+          "name": "de-whiskybrennereien_DE.xlsx",
+          "size": 15196
         }
       }
     },
