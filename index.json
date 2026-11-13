@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-12T02:08:45.033Z",
-  "total_datasets": 558,
-  "total_records": 1879350,
+  "generated": "2026-11-13T02:24:24.769Z",
+  "total_datasets": 559,
+  "total_records": 1879367,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -12862,6 +12862,30 @@
         "xlsx": {
           "name": "de-bundeslaender-bevoelkerungsentwicklung_DE.xlsx",
           "size": 8220
+        }
+      }
+    },
+    {
+      "id": "de-bundeslaender-fertilitaetsrate",
+      "name": "Deutsche Bundesländer nach Fertilitätsrate",
+      "category": "society",
+      "record_count": 17,
+      "columns": [
+        "state",
+        "fertility_rate",
+        "births"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Fertilitätsrate",
+      "updated": "2026-11",
+      "size": 3294,
+      "files": {
+        "csv": {
+          "name": "de-bundeslaender-fertilitaetsrate_DE.csv",
+          "size": 540
+        },
+        "xlsx": {
+          "name": "de-bundeslaender-fertilitaetsrate_DE.xlsx",
+          "size": 7191
         }
       }
     },

@@ -1,0 +1,126 @@
+{
+  "id": "de-bundeslaender-fertilitaetsrate",
+  "name": "Deutsche Bundesländer nach Fertilitätsrate",
+  "title": "Deutsche Bundesländer nach Fertilitätsrate",
+  "description": "Zusammengefasste Geburtenziffer (Kinder pro Frau) und Anzahl der Geburten in den deutschen Bundesländern laut Statistischem Bundesamt.",
+  "category": "society",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Fertilitätsrate",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Fertilitätsrate",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "fertility_rate",
+      "label": "Fertility Rate",
+      "type": "number"
+    },
+    {
+      "key": "births",
+      "label": "Births",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Niedersachsen",
+      "fertility_rate": 1.52,
+      "births": 71289
+    },
+    {
+      "state": "Rheinland-Pfalz",
+      "fertility_rate": 1.52,
+      "births": 36731
+    },
+    {
+      "state": "Bremen",
+      "fertility_rate": 1.51,
+      "births": 6720
+    },
+    {
+      "state": "Nordrhein-Westfalen",
+      "fertility_rate": 1.49,
+      "births": 164496
+    },
+    {
+      "state": "Bayern",
+      "fertility_rate": 1.49,
+      "births": 124897
+    },
+    {
+      "state": "Baden-Württemberg",
+      "fertility_rate": 1.49,
+      "births": 104549
+    },
+    {
+      "state": "Brandenburg",
+      "fertility_rate": 1.47,
+      "births": 17439
+    },
+    {
+      "state": "Hessen",
+      "fertility_rate": 1.46,
+      "births": 57360
+    },
+    {
+      "state": "Schleswig-Holstein",
+      "fertility_rate": 1.45,
+      "births": 23953
+    },
+    {
+      "state": "Sachsen-Anhalt",
+      "fertility_rate": 1.45,
+      "births": 14506
+    },
+    {
+      "state": "Thüringen",
+      "fertility_rate": 1.43,
+      "births": 14131
+    },
+    {
+      "state": "Saarland",
+      "fertility_rate": 1.41,
+      "births": 7814
+    },
+    {
+      "state": "Sachsen",
+      "fertility_rate": 1.4,
+      "births": 29331
+    },
+    {
+      "state": "Mecklenburg-Vorpommern",
+      "fertility_rate": 1.39,
+      "births": 10820
+    },
+    {
+      "state": "Hamburg",
+      "fertility_rate": 1.32,
+      "births": 19054
+    },
+    {
+      "state": "Berlin",
+      "fertility_rate": 1.25,
+      "births": 35729
+    },
+    {
+      "state": "Deutschland",
+      "fertility_rate": 1.46,
+      "births": 738819
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Bundesländer nach Fertilitätsrate - Free Download",
+    "description": "Zusammengefasste Geburtenziffer (Kinder pro Frau) und Anzahl der Geburten in den deutschen Bundesländern laut Statistischem Bundesamt. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Deutsche Bundesländer nach Fertilitätsrate | ListBase",
+    "seo_description": "Download Deutsche Bundesländer nach Fertilitätsrate — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Fertilitätsrate"
+    ]
+  }
+}
