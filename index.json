@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-13T02:24:32.681Z",
-  "total_datasets": 560,
-  "total_records": 1879384,
+  "generated": "2026-11-13T02:24:41.369Z",
+  "total_datasets": 561,
+  "total_records": 1879401,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 27
+      "dataset_count": 28
     },
     {
       "id": "food",
@@ -2898,6 +2898,31 @@
         "xlsx": {
           "name": "de-bremen-banken_DE.xlsx",
           "size": 8046
+        }
+      }
+    },
+    {
+      "id": "de-bundeslaender-verschuldung",
+      "name": "Deutsche Bundesländer nach Verschuldung",
+      "category": "finance",
+      "record_count": 17,
+      "columns": [
+        "state",
+        "debt_bn_eur",
+        "debt_per_capita_thousand_eur",
+        "debt_pct_gdp"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Verschuldung",
+      "updated": "2026-11",
+      "size": 4184,
+      "files": {
+        "csv": {
+          "name": "de-bundeslaender-verschuldung_DE.csv",
+          "size": 646
+        },
+        "xlsx": {
+          "name": "de-bundeslaender-verschuldung_DE.xlsx",
+          "size": 7312
         }
       }
     },

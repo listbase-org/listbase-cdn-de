@@ -1,0 +1,148 @@
+{
+  "id": "de-bundeslaender-verschuldung",
+  "name": "Deutsche Bundesländer nach Verschuldung",
+  "title": "Deutsche Bundesländer nach Verschuldung",
+  "description": "Schulden der deutschen Bundesländer beim nicht-öffentlichen Bereich: Gesamtschulden in Mrd. Euro, Schulden pro Kopf und Schuldenquote in Prozent des BIP.",
+  "category": "finance",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Verschuldung",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Verschuldung",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "debt_bn_eur",
+      "label": "Debt Bn Eur",
+      "type": "number"
+    },
+    {
+      "key": "debt_per_capita_thousand_eur",
+      "label": "Debt Per Capita Thousand Eur",
+      "type": "number"
+    },
+    {
+      "key": "debt_pct_gdp",
+      "label": "Debt Pct Gdp",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Baden-Württemberg",
+      "debt_bn_eur": 48.3,
+      "debt_per_capita_thousand_eur": 4.3,
+      "debt_pct_gdp": 7.2
+    },
+    {
+      "state": "Bayern",
+      "debt_bn_eur": 19.2,
+      "debt_per_capita_thousand_eur": 1.4,
+      "debt_pct_gdp": 2.3
+    },
+    {
+      "state": "Berlin",
+      "debt_bn_eur": 66.4,
+      "debt_per_capita_thousand_eur": 18,
+      "debt_pct_gdp": 30.4
+    },
+    {
+      "state": "Brandenburg",
+      "debt_bn_eur": 22.3,
+      "debt_per_capita_thousand_eur": 8.7,
+      "debt_pct_gdp": 21.4
+    },
+    {
+      "state": "Bremen",
+      "debt_bn_eur": 26.4,
+      "debt_per_capita_thousand_eur": 37.4,
+      "debt_pct_gdp": 61.3
+    },
+    {
+      "state": "Hamburg",
+      "debt_bn_eur": 35.8,
+      "debt_per_capita_thousand_eur": 19.2,
+      "debt_pct_gdp": 21.3
+    },
+    {
+      "state": "Hessen",
+      "debt_bn_eur": 47,
+      "debt_per_capita_thousand_eur": 7.5,
+      "debt_pct_gdp": 12.3
+    },
+    {
+      "state": "Mecklenburg-Vorpommern",
+      "debt_bn_eur": 8.2,
+      "debt_per_capita_thousand_eur": 5.2,
+      "debt_pct_gdp": 13
+    },
+    {
+      "state": "Niedersachsen",
+      "debt_bn_eur": 57.6,
+      "debt_per_capita_thousand_eur": 7.2,
+      "debt_pct_gdp": 14.4
+    },
+    {
+      "state": "Nordrhein-Westfalen",
+      "debt_bn_eur": 172.8,
+      "debt_per_capita_thousand_eur": 9.6,
+      "debt_pct_gdp": 19
+    },
+    {
+      "state": "Rheinland-Pfalz",
+      "debt_bn_eur": 28.4,
+      "debt_per_capita_thousand_eur": 6.9,
+      "debt_pct_gdp": 15.3
+    },
+    {
+      "state": "Saarland",
+      "debt_bn_eur": 14,
+      "debt_per_capita_thousand_eur": 13.9,
+      "debt_pct_gdp": 32.5
+    },
+    {
+      "state": "Sachsen",
+      "debt_bn_eur": 7,
+      "debt_per_capita_thousand_eur": 1.7,
+      "debt_pct_gdp": 4.2
+    },
+    {
+      "state": "Sachsen-Anhalt",
+      "debt_bn_eur": 23.7,
+      "debt_per_capita_thousand_eur": 11.1,
+      "debt_pct_gdp": 28.9
+    },
+    {
+      "state": "Schleswig-Holstein",
+      "debt_bn_eur": 32.7,
+      "debt_per_capita_thousand_eur": 11,
+      "debt_pct_gdp": 24.9
+    },
+    {
+      "state": "Thüringen",
+      "debt_bn_eur": 15.2,
+      "debt_per_capita_thousand_eur": 7.3,
+      "debt_pct_gdp": 18.8
+    },
+    {
+      "state": "Alle Länder",
+      "debt_bn_eur": 624.9,
+      "debt_per_capita_thousand_eur": 7.5,
+      "debt_pct_gdp": 14
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Bundesländer nach Verschuldung - Free Download",
+    "description": "Schulden der deutschen Bundesländer beim nicht-öffentlichen Bereich: Gesamtschulden in Mrd. Euro, Schulden pro Kopf und Schuldenquote in Prozent des BIP. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Deutsche Bundesländer nach Verschuldung | ListBase",
+    "seo_description": "Download Deutsche Bundesländer nach Verschuldung — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Verschuldung"
+    ]
+  }
+}
