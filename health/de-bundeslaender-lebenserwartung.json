@@ -1,0 +1,170 @@
+{
+  "id": "de-bundeslaender-lebenserwartung",
+  "name": "Deutsche Bundesländer nach Lebenserwartung",
+  "title": "Deutsche Bundesländer nach Lebenserwartung",
+  "description": "Durchschnittliche Lebenserwartung bei Geburt in den deutschen Bundesländern, insgesamt sowie getrennt für Männer und Frauen, nach Angaben des Statistischen Bundesamts.",
+  "category": "health",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Lebenserwartung",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Lebenserwartung",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "life_expectancy_mean",
+      "label": "Life Expectancy Mean",
+      "type": "number"
+    },
+    {
+      "key": "life_expectancy_men",
+      "label": "Life Expectancy Men",
+      "type": "number"
+    },
+    {
+      "key": "life_expectancy_women",
+      "label": "Life Expectancy Women",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "state": "Baden-Württemberg",
+      "life_expectancy_mean": 82.35,
+      "life_expectancy_men": 80.28,
+      "life_expectancy_women": 84.41
+    },
+    {
+      "rank": 2,
+      "state": "Bayern",
+      "life_expectancy_mean": 81.88,
+      "life_expectancy_men": 79.73,
+      "life_expectancy_women": 84.03
+    },
+    {
+      "rank": 3,
+      "state": "Hessen",
+      "life_expectancy_mean": 81.38,
+      "life_expectancy_men": 79.24,
+      "life_expectancy_women": 83.52
+    },
+    {
+      "rank": 4,
+      "state": "Sachsen",
+      "life_expectancy_mean": 81.31,
+      "life_expectancy_men": 78.38,
+      "life_expectancy_women": 84.23
+    },
+    {
+      "rank": 5,
+      "state": "Berlin",
+      "life_expectancy_mean": 81.16,
+      "life_expectancy_men": 78.74,
+      "life_expectancy_women": 83.58
+    },
+    {
+      "rank": 6,
+      "state": "Rheinland-Pfalz",
+      "life_expectancy_mean": 81.11,
+      "life_expectancy_men": 78.98,
+      "life_expectancy_women": 83.24
+    },
+    {
+      "rank": 7,
+      "state": "Hamburg",
+      "life_expectancy_mean": 81.07,
+      "life_expectancy_men": 78.79,
+      "life_expectancy_women": 83.34
+    },
+    {
+      "rank": 8,
+      "state": "Schleswig-Holstein",
+      "life_expectancy_mean": 80.79,
+      "life_expectancy_men": 78.67,
+      "life_expectancy_women": 82.91
+    },
+    {
+      "rank": 9,
+      "state": "Brandenburg",
+      "life_expectancy_mean": 80.87,
+      "life_expectancy_men": 78.06,
+      "life_expectancy_women": 83.68
+    },
+    {
+      "rank": 10,
+      "state": "Nordrhein-Westfalen",
+      "life_expectancy_mean": 80.66,
+      "life_expectancy_men": 78.48,
+      "life_expectancy_women": 82.84
+    },
+    {
+      "rank": 11,
+      "state": "Thüringen",
+      "life_expectancy_mean": 80.56,
+      "life_expectancy_men": 77.73,
+      "life_expectancy_women": 83.38
+    },
+    {
+      "rank": 12,
+      "state": "Niedersachsen",
+      "life_expectancy_mean": 80.53,
+      "life_expectancy_men": 78.23,
+      "life_expectancy_women": 82.82
+    },
+    {
+      "rank": 13,
+      "state": "Saarland",
+      "life_expectancy_mean": 79.96,
+      "life_expectancy_men": 77.88,
+      "life_expectancy_women": 82.03
+    },
+    {
+      "rank": 14,
+      "state": "Mecklenburg-Vorpommern",
+      "life_expectancy_mean": 79.95,
+      "life_expectancy_men": 76.76,
+      "life_expectancy_women": 83.13
+    },
+    {
+      "rank": 15,
+      "state": "Bremen",
+      "life_expectancy_mean": 79.72,
+      "life_expectancy_men": 77.18,
+      "life_expectancy_women": 82.26
+    },
+    {
+      "rank": 16,
+      "state": "Sachsen-Anhalt",
+      "life_expectancy_mean": 79.44,
+      "life_expectancy_men": 76.37,
+      "life_expectancy_women": 82.51
+    },
+    {
+      "rank": "",
+      "state": "Deutschland",
+      "life_expectancy_mean": 81.13,
+      "life_expectancy_men": 78.82,
+      "life_expectancy_women": 83.43
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Bundesländer nach Lebenserwartung - Free Download",
+    "description": "Durchschnittliche Lebenserwartung bei Geburt in den deutschen Bundesländern, insgesamt sowie getrennt für Männer und Frauen, nach Angaben des Statistischen Bundesamts. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Deutsche Bundesländer nach Lebenserwartung | ListBase",
+    "seo_description": "Download Deutsche Bundesländer nach Lebenserwartung — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Lebenserwartung"
+    ]
+  }
+}

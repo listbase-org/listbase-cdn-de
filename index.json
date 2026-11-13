@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-13T02:24:24.769Z",
-  "total_datasets": 559,
-  "total_records": 1879367,
+  "generated": "2026-11-13T02:24:32.681Z",
+  "total_datasets": 560,
+  "total_records": 1879384,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "history",
@@ -5492,6 +5492,32 @@
         "xlsx": {
           "name": "de-bundesgesundheitsminister_DE.xlsx",
           "size": 8199
+        }
+      }
+    },
+    {
+      "id": "de-bundeslaender-lebenserwartung",
+      "name": "Deutsche Bundesländer nach Lebenserwartung",
+      "category": "health",
+      "record_count": 17,
+      "columns": [
+        "rank",
+        "state",
+        "life_expectancy_mean",
+        "life_expectancy_men",
+        "life_expectancy_women"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Lebenserwartung",
+      "updated": "2026-11",
+      "size": 4868,
+      "files": {
+        "csv": {
+          "name": "de-bundeslaender-lebenserwartung_DE.csv",
+          "size": 816
+        },
+        "xlsx": {
+          "name": "de-bundeslaender-lebenserwartung_DE.xlsx",
+          "size": 7429
         }
       }
     },
