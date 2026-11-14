@@ -1,0 +1,142 @@
+{
+  "id": "de-ch-unesco-welterbe",
+  "name": "UNESCO-Welterbestätten in der Schweiz",
+  "title": "UNESCO-Welterbestätten in der Schweiz",
+  "description": "Die Welterbestätten der UNESCO in der Schweiz: Bezeichnung, Jahr der Aufnahme, Typ (Kultur/Natur), Referenznummer und Beschreibung.",
+  "category": "tourism",
+  "source": "https://de.wikipedia.org/wiki/Welterbe_in_der_Schweiz",
+  "source_url": "https://de.wikipedia.org/wiki/Welterbe_in_der_Schweiz",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "ref",
+      "label": "Ref",
+      "type": "number"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Altstadt von Bern",
+      "year": 1983,
+      "type": "Kultur",
+      "ref": 267,
+      "description": "Der historische Stadtkern Berns umfasst Bauwerke aus mehreren Jahrhunderten, die zu einem Grossteil in ihrer originalen Substanz erhalten geblieben sind. Trotz der zunehmend komplexeren Funktionen, die Bern als Bundesstadt erfüllen musste, konnte die Altstadt ihre mittelalterliche Struktur beibehalten."
+    },
+    {
+      "name": "Stiftsbezirk St. Gallen",
+      "year": 1983,
+      "type": "Kultur",
+      "ref": 268,
+      "description": "Das 719 gegründete Benediktinerkloster war als Fürstabtei bis zur Säkularisation im Jahr 1805 ein bedeutendes kulturelles Zentrum des Abendlandes. Stiftsbibliothek und Stiftsarchiv beherbergen eine wertvolle Sammlung frühmittelalterlicher Handschriften und ergänzen als mobiles Kulturgut das barocke Gebäudeensemble um die Stiftskirche."
+    },
+    {
+      "name": "Benediktinerinnenkloster St. Johann in Müstair",
+      "year": 1983,
+      "type": "Kultur",
+      "ref": 269,
+      "description": "Das um 800 gegründete Kloster gilt als eine Stiftung Karls des Grossen. Seit dem 12. Jahrhundert ist es ein Benediktinerinnenkonvent. Hauptsehenswürdigkeit sind die Ende des 19. Jahrhunderts wiederentdeckten karolingischen Fresken, die einen Wandbildzyklus bilden."
+    },
+    {
+      "name": "Festung von Bellinzona",
+      "year": 2000,
+      "type": "Kultur",
+      "ref": 884,
+      "description": "Die mittelalterlichen Wehranlagen der Stadt Bellinzona bestehen aus der zentralen Burg Castelgrande (Lage), den benachbarten Burgen Montebello (Lage) und Sasso Corbaro (Lage) sowie den verbindenden Festungsmauern (Murata)."
+    },
+    {
+      "name": "Schweizer Alpen Jungfrau-Aletsch",
+      "year": 2001,
+      "type": "Natur",
+      "ref": 1037,
+      "description": "Das 824 km² umfassende Gebiet mit den Bergen Eiger, Mönch und Jungfrau sowie dem Grossen Aletschgletscher stellt das grösste zusammenhängende vergletscherte Gebiet der Alpen dar. Das Welterbe umfasste zuerst die Region Jungfrau-Aletsch- Bietschhorn und wurde 2007 auf die heutige Grösse erweitert."
+    },
+    {
+      "name": "Monte San Giorgio",
+      "year": 2003,
+      "type": "Natur",
+      "ref": 1090,
+      "description": "Der zwischen den südlichen Armen des Luganersees gelegene 1097 m hohe Berg gilt als die bedeutendste Fundstätte für Fossilien aus der Mitteltrias. Wissenschaftliche Ausgrabungen haben seit 1924 zahlreiche Versteinerungen von Fischen, Reptilien, Krustentieren und Insekten freigelegt. 2010 wurde die Welterbestätte um den südlichen, zu Italien zählenden Teil erweitert."
+    },
+    {
+      "name": "Weinberg-Terrassen von Lavaux",
+      "year": 2007,
+      "type": "Kultur",
+      "ref": 1243,
+      "description": "Die steilen Abhänge zum Genfersee zwischen Lausanne und Vevey wurden bereits im 11. Jahrhundert von Mönchen zur Kultivierung von Weinreben genutzt. Die Weinberg-Terrassen erstrecken sich über 40 km und zeugen von der Entwicklung einer lebendigen Kulturlandschaft."
+    },
+    {
+      "name": "Tektonikarena Sardona",
+      "year": 2008,
+      "type": "Natur",
+      "ref": 1179,
+      "description": "In dem rund 300 km² grossen Gebiet um den Piz Sardona überlagern 250–300 Mio. Jahre alte Gesteinsschichten deutlich jüngere Gesteine. Die Überschiebung zeugt anschaulich von tektonischen Prozessen und trug zum Verständnis der Gebirgsbildung bei."
+    },
+    {
+      "name": "Rhätische Bahn",
+      "year": 2008,
+      "type": "Kultur",
+      "ref": 1276,
+      "description": "Die Albula- und die Berninalinie der Rhätischen Bahn verbinden Thusis mit der italienischen Stadt Tirano. Die Linien wurden 1904 und 1910 fertiggestellt und gelten als eine technische Meisterleistung aus der Pionierzeit der Eisenbahn. Die Welterbestätte ist grenzüberschreitend mit Italien."
+    },
+    {
+      "name": "La Chaux-de-Fonds/Le Locle",
+      "year": 2009,
+      "type": "Kultur",
+      "ref": 1302,
+      "description": "Die Zwillingsstädte La Chaux-de-Fonds (Lage) und Le Locle (Lage) entwickelten sich im 18. Jahrhundert zu bedeutenden Zentren der schweizerischen Uhrenindustrie. Die enge Verbindung von Produktions- und Wohnstätten prägte das Bild der Städte; bereits Karl Marx hatte La Chaux-de-Fonds als «eine einzige Uhrenmanufaktur » beschrieben."
+    },
+    {
+      "name": "Prähistorische Pfahlbauten um die Alpen",
+      "year": 2011,
+      "type": "Kultur",
+      "ref": 1363,
+      "description": "111 Pfahlbausiedlungen aus der Zeit zwischen 5000 und 500 vor Christus wurden in die Liste aufgenommen. 56 Fundstellen davon liegen in der Schweiz, die übrigen in Deutschland, Österreich, Frankreich, Slowenien und Italien. Die schweizerischen Pfahlbausiedlungen verteilen sich über 15 Kantone."
+    },
+    {
+      "name": "Das architektonische Werk von Le Corbusier – ein herausragender Beitrag zur «Modernen Bewegung»",
+      "year": 2016,
+      "type": "Kultur",
+      "ref": 1321,
+      "description": "Die Welterbestätte umfasst 17 Bauten des Architekten Le Corbusier. Die Gebäude zeigen die Lösungen, welche die Moderne im 20. Jahrhundert für die Herausforderungen des Erfindens neuer architektonischen Techniken bereithielt, um auf die Bedürfnisse der Gesellschaft einzugehen. Mit der Villa Le Lac sowie dem Maison Clarté liegen zwei der Bauten in der Schweiz, die übrigen in Frankreich, Argentinien, Belgien, Deutschland, Indien und Japan."
+    },
+    {
+      "name": "Alte Buchenwälder und Buchenurwälder der Karpaten und anderer Regionen Europas (Erweiterung)",
+      "year": 2021,
+      "type": "Natur",
+      "ref": 1133,
+      "description": "Erweiterung der Welterbestätte um zwei Buchenwälder in der Schweiz: den Wald am Bettlachstock (Lage) und den Wald im Lodano -Tal (Lage)."
+    }
+  ],
+  "meta": {
+    "title": "UNESCO-Welterbestätten in der Schweiz - Free Download",
+    "description": "Die Welterbestätten der UNESCO in der Schweiz: Bezeichnung, Jahr der Aufnahme, Typ (Kultur/Natur), Referenznummer und Beschreibung. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "UNESCO-Welterbestätten in der Schweiz | ListBase",
+    "seo_description": "Download UNESCO-Welterbestätten in der Schweiz — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Welterbe_in_der_Schweiz"
+    ]
+  }
+}

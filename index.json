@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-14T02:19:51.766Z",
-  "total_datasets": 563,
-  "total_records": 1879523,
+  "generated": "2026-11-14T02:20:00.280Z",
+  "total_datasets": 564,
+  "total_records": 1879536,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "transport",
@@ -15840,6 +15840,32 @@
         "xlsx": {
           "name": "de-at-unesco-welterbe_DE.xlsx",
           "size": 11757
+        }
+      }
+    },
+    {
+      "id": "de-ch-unesco-welterbe",
+      "name": "UNESCO-Welterbestätten in der Schweiz",
+      "category": "tourism",
+      "record_count": 13,
+      "columns": [
+        "name",
+        "year",
+        "type",
+        "ref",
+        "description"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Welterbe_in_der_Schweiz",
+      "updated": "2026-11",
+      "size": 7518,
+      "files": {
+        "csv": {
+          "name": "de-ch-unesco-welterbe_DE.csv",
+          "size": 4734
+        },
+        "xlsx": {
+          "name": "de-ch-unesco-welterbe_DE.xlsx",
+          "size": 9253
         }
       }
     },
