@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-14T02:20:00.280Z",
-  "total_datasets": 564,
-  "total_records": 1879536,
+  "generated": "2026-11-14T02:20:09.073Z",
+  "total_datasets": 565,
+  "total_records": 1879592,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -5940,6 +5940,32 @@
         "xlsx": {
           "name": "de-buchstabenhaeufigkeit_DE.xlsx",
           "size": 7293
+        }
+      }
+    },
+    {
+      "id": "de-deutsche-mundarten-gliederung",
+      "name": "Deutsche Mundarten – Gliederung der Dialekte",
+      "category": "language",
+      "record_count": 56,
+      "columns": [
+        "dialect",
+        "main_group",
+        "group",
+        "subgroup",
+        "sub_subgroup"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_deutscher_Mundarten",
+      "updated": "2026-11",
+      "size": 13317,
+      "files": {
+        "csv": {
+          "name": "de-deutsche-mundarten-gliederung_DE.csv",
+          "size": 5486
+        },
+        "xlsx": {
+          "name": "de-deutsche-mundarten-gliederung_DE.xlsx",
+          "size": 8529
         }
       }
     },

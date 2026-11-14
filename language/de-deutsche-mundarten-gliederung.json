@@ -1,0 +1,443 @@
+{
+  "id": "de-deutsche-mundarten-gliederung",
+  "name": "Deutsche Mundarten – Gliederung der Dialekte",
+  "title": "Deutsche Mundarten – Gliederung der Dialekte",
+  "description": "Hierarchische Gliederung der deutschen Dialekte in Europa (Niederdeutsch, Mitteldeutsch, Oberdeutsch) mit Dialektgruppen und einzelnen Mundarten.",
+  "category": "language",
+  "source": "https://de.wikipedia.org/wiki/Liste_deutscher_Mundarten",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_deutscher_Mundarten",
+  "updated": "2026-11",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "dialect",
+      "label": "Dialect",
+      "type": "string"
+    },
+    {
+      "key": "main_group",
+      "label": "Main Group",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "subgroup",
+      "label": "Subgroup",
+      "type": "string"
+    },
+    {
+      "key": "sub_subgroup",
+      "label": "Sub Subgroup",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "dialect": "Südoldenburgisch",
+      "main_group": "Niederdeutsch",
+      "group": "Nördliches Niederdeutsch",
+      "subgroup": "Westniederdeutsch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Emsländisch",
+      "main_group": "Niederdeutsch",
+      "group": "Nördliches Niederdeutsch",
+      "subgroup": "Westniederdeutsch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Grafschafter Platt",
+      "main_group": "Niederdeutsch",
+      "group": "Nördliches Niederdeutsch",
+      "subgroup": "Westniederdeutsch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Schleswigsch",
+      "main_group": "Niederdeutsch",
+      "group": "Nördliches Niederdeutsch",
+      "subgroup": "Nordniederdeutsch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Holsteinisch",
+      "main_group": "Niederdeutsch",
+      "group": "Nördliches Niederdeutsch",
+      "subgroup": "Nordniederdeutsch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Dithmarscher Platt",
+      "main_group": "Niederdeutsch",
+      "group": "Nördliches Niederdeutsch",
+      "subgroup": "Nordniederdeutsch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Oldenburger Platt (Oldenburgisch)",
+      "main_group": "Niederdeutsch",
+      "group": "Nördliches Niederdeutsch",
+      "subgroup": "Nordniederdeutsch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Ostfriesisches Platt (Ostfriesisch)",
+      "main_group": "Niederdeutsch",
+      "group": "Nördliches Niederdeutsch",
+      "subgroup": "Nordniederdeutsch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Nordhannoversch",
+      "main_group": "Niederdeutsch",
+      "group": "Nördliches Niederdeutsch",
+      "subgroup": "Nordniederdeutsch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Mecklenburgisch-Vorpommersch",
+      "main_group": "Niederdeutsch",
+      "group": "Nördliches Niederdeutsch",
+      "subgroup": "",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Nordmärkisch",
+      "main_group": "Niederdeutsch",
+      "group": "Nördliches Niederdeutsch",
+      "subgroup": "Märkische Dialekte",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Mittelmärkisch",
+      "main_group": "Niederdeutsch",
+      "group": "Nördliches Niederdeutsch",
+      "subgroup": "Märkische Dialekte",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Südmärkisch",
+      "main_group": "Niederdeutsch",
+      "group": "Nördliches Niederdeutsch",
+      "subgroup": "Märkische Dialekte",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Mittelpommersch",
+      "main_group": "Niederdeutsch",
+      "group": "Nördliches Niederdeutsch",
+      "subgroup": "Märkische Dialekte",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Münsterländisch",
+      "main_group": "Niederdeutsch",
+      "group": "Südliches Niederdeutsch",
+      "subgroup": "Westfälische Dialekte",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Westmünsterländisch",
+      "main_group": "Niederdeutsch",
+      "group": "Südliches Niederdeutsch",
+      "subgroup": "Westfälische Dialekte",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Ostwestfälisch",
+      "main_group": "Niederdeutsch",
+      "group": "Südliches Niederdeutsch",
+      "subgroup": "Westfälische Dialekte",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Südwestfälisch",
+      "main_group": "Niederdeutsch",
+      "group": "Südliches Niederdeutsch",
+      "subgroup": "Westfälische Dialekte",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Kernostfälisch",
+      "main_group": "Niederdeutsch",
+      "group": "Südliches Niederdeutsch",
+      "subgroup": "Ostfälisch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Göttingisch-Grubenhagensch",
+      "main_group": "Niederdeutsch",
+      "group": "Südliches Niederdeutsch",
+      "subgroup": "Ostfälisch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Elbostfälisch",
+      "main_group": "Niederdeutsch",
+      "group": "Südliches Niederdeutsch",
+      "subgroup": "Ostfälisch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Heideostfälisch",
+      "main_group": "Niederdeutsch",
+      "group": "Südliches Niederdeutsch",
+      "subgroup": "Ostfälisch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Ostfälisch-nordniederdeutscher Interferenzraum",
+      "main_group": "Niederdeutsch",
+      "group": "Südliches Niederdeutsch",
+      "subgroup": "Ostfälisch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Ostfälisch-westfälischer Interferenzraum",
+      "main_group": "Niederdeutsch",
+      "group": "Südliches Niederdeutsch",
+      "subgroup": "Ostfälisch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Thüringisch",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Mitteldeutsche Dialekte",
+      "subgroup": "Ostmitteldeutsch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Nordobersächsisch",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Mitteldeutsche Dialekte",
+      "subgroup": "Ostmitteldeutsch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Südmärkisch",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Mitteldeutsche Dialekte",
+      "subgroup": "Ostmitteldeutsch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Obersächsisch",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Mitteldeutsche Dialekte",
+      "subgroup": "Ostmitteldeutsch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Hochpreußisch",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Mitteldeutsche Dialekte",
+      "subgroup": "Ostmitteldeutsch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Siegerländer Platt",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Mitteldeutsche Dialekte",
+      "subgroup": "Westmitteldeutsch",
+      "sub_subgroup": "Moselfränkisch (Auswahl von Mundarten)"
+    },
+    {
+      "dialect": "Wäller Platt",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Mitteldeutsche Dialekte",
+      "subgroup": "Westmitteldeutsch",
+      "sub_subgroup": "Moselfränkisch (Auswahl von Mundarten)"
+    },
+    {
+      "dialect": "rheinfränkisch-moselfränkisches Übergangsgebiet",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Mitteldeutsche Dialekte",
+      "subgroup": "Westmitteldeutsch",
+      "sub_subgroup": "Moselfränkisch (Auswahl von Mundarten)"
+    },
+    {
+      "dialect": "zentralhessisch-moselfränkisches Übergangsgebiet",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Mitteldeutsche Dialekte",
+      "subgroup": "Westmitteldeutsch",
+      "sub_subgroup": "Moselfränkisch (Auswahl von Mundarten)"
+    },
+    {
+      "dialect": "Nördliche Eifel",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Mitteldeutsche Dialekte",
+      "subgroup": "Westmitteldeutsch",
+      "sub_subgroup": "Ripuarisch"
+    },
+    {
+      "dialect": "Mittleres Erft- und Rurgebiet",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Mitteldeutsche Dialekte",
+      "subgroup": "Westmitteldeutsch",
+      "sub_subgroup": "Ripuarisch"
+    },
+    {
+      "dialect": "Aachener Land",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Mitteldeutsche Dialekte",
+      "subgroup": "Westmitteldeutsch",
+      "sub_subgroup": "Ripuarisch"
+    },
+    {
+      "dialect": "Bergisches Land",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Mitteldeutsche Dialekte",
+      "subgroup": "Westmitteldeutsch",
+      "sub_subgroup": "Ripuarisch"
+    },
+    {
+      "dialect": "Ripuarisch-niederfränkisches Übergangsgebiet ohne nordbergischen Raum",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Mitteldeutsche Dialekte",
+      "subgroup": "Westmitteldeutsch",
+      "sub_subgroup": "Ripuarisch"
+    },
+    {
+      "dialect": "Nordbergischer Raum",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Mitteldeutsche Dialekte",
+      "subgroup": "Westmitteldeutsch",
+      "sub_subgroup": "Ripuarisch"
+    },
+    {
+      "dialect": "Rheinfränkische Dialekte",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Mitteldeutsche Dialekte",
+      "subgroup": "Westmitteldeutsch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Nordhessisch",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Mitteldeutsche Dialekte",
+      "subgroup": "Westmitteldeutsch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Osthessisch",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Mitteldeutsche Dialekte",
+      "subgroup": "Westmitteldeutsch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Mittelhessisch",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Mitteldeutsche Dialekte",
+      "subgroup": "Westmitteldeutsch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Unterfränkisch",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Oberdeutsche Dialekte",
+      "subgroup": "Ostfränkische Dialekte",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Oberfränkisch",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Oberdeutsche Dialekte",
+      "subgroup": "Ostfränkische Dialekte",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Südfränkisch",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Oberdeutsche Dialekte",
+      "subgroup": "",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Nordbairisch",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Oberdeutsche Dialekte",
+      "subgroup": "Bairisch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Mittelbairisch",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Oberdeutsche Dialekte",
+      "subgroup": "Bairisch",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Zimbrisch",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Oberdeutsche Dialekte",
+      "subgroup": "Bairisch",
+      "sub_subgroup": "Südbairisch"
+    },
+    {
+      "dialect": "Fersentalerisch",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Oberdeutsche Dialekte",
+      "subgroup": "Bairisch",
+      "sub_subgroup": "Südbairisch"
+    },
+    {
+      "dialect": "Sathmarschwäbisch",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Oberdeutsche Dialekte",
+      "subgroup": "Alemannische Dialekte",
+      "sub_subgroup": "Schwäbisch"
+    },
+    {
+      "dialect": "Niederalemannisch",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Oberdeutsche Dialekte",
+      "subgroup": "Alemannische Dialekte",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Mittelalemannisch",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Oberdeutsche Dialekte",
+      "subgroup": "Alemannische Dialekte",
+      "sub_subgroup": ""
+    },
+    {
+      "dialect": "Zürichdeutsch",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Oberdeutsche Dialekte",
+      "subgroup": "Alemannische Dialekte",
+      "sub_subgroup": "Hochalemannisch"
+    },
+    {
+      "dialect": "Berndeutsch",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Oberdeutsche Dialekte",
+      "subgroup": "Alemannische Dialekte",
+      "sub_subgroup": "Hochalemannisch"
+    },
+    {
+      "dialect": "Walliserdeutsch",
+      "main_group": "Hochdeutsche Dialekte",
+      "group": "Oberdeutsche Dialekte",
+      "subgroup": "Alemannische Dialekte",
+      "sub_subgroup": "Höchstalemannisch"
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Mundarten – Gliederung der Dialekte - Free Download",
+    "description": "Hierarchische Gliederung der deutschen Dialekte in Europa (Niederdeutsch, Mitteldeutsch, Oberdeutsch) mit Dialektgruppen und einzelnen Mundarten. Contains 56 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Deutsche Mundarten – Gliederung der Dialekte | ListBase",
+    "seo_description": "Download Deutsche Mundarten – Gliederung der Dialekte — 56 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 56 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_deutscher_Mundarten"
+    ]
+  }
+}
