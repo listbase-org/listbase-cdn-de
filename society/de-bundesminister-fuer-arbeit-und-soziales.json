@@ -1,0 +1,256 @@
+{
+  "id": "de-bundesminister-fuer-arbeit-und-soziales",
+  "name": "Bundesminister für Arbeit und Soziales",
+  "title": "Bundesminister für Arbeit und Soziales",
+  "description": "Bundesminister für Arbeit (und Sozialordnung bzw. Soziales) der Bundesrepublik Deutschland seit 1949: Name, Lebensdaten, Partei, Amtszeit, Kabinette und Amtsbezeichnung.",
+  "category": "society",
+  "source": "https://de.wikipedia.org/wiki/Bundesministerium_für_Arbeit_und_Soziales",
+  "source_url": "https://de.wikipedia.org/wiki/Bundesministerium_für_Arbeit_und_Soziales",
+  "updated": "2026-11",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "lifespan",
+      "label": "Lifespan",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    },
+    {
+      "key": "cabinet",
+      "label": "Cabinet",
+      "type": "string"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "name": "Anton Storch",
+      "lifespan": "1892–1975",
+      "party": "CDU",
+      "term_start": "20. September 1949",
+      "term_end": "29. Oktober 1957",
+      "cabinet": "Adenauer I Adenauer II",
+      "title": "Bundesminister für Arbeit"
+    },
+    {
+      "no": "2",
+      "name": "Theodor Blank",
+      "lifespan": "1905–1972",
+      "party": "CDU",
+      "term_start": "29. Oktober 1957",
+      "term_end": "26. Oktober 1965",
+      "cabinet": "Adenauer III Adenauer IV Adenauer V Erhard I",
+      "title": "Bundesminister für Arbeit und Sozialordnung"
+    },
+    {
+      "no": "3",
+      "name": "Hans Katzer",
+      "lifespan": "1919–1996",
+      "party": "CDU",
+      "term_start": "26. Oktober 1965",
+      "term_end": "22. Oktober 1969",
+      "cabinet": "Erhard II Kiesinger",
+      "title": "Bundesminister für Arbeit und Sozialordnung"
+    },
+    {
+      "no": "4",
+      "name": "Walter Arendt",
+      "lifespan": "1925–2005",
+      "party": "SPD",
+      "term_start": "22. Oktober 1969",
+      "term_end": "16. Dezember 1976",
+      "cabinet": "Brandt I Brandt II Schmidt I",
+      "title": "Bundesminister für Arbeit und Sozialordnung"
+    },
+    {
+      "no": "5",
+      "name": "Herbert Ehrenberg",
+      "lifespan": "1926–2018",
+      "party": "SPD",
+      "term_start": "16. Dezember 1976",
+      "term_end": "28. April 1982",
+      "cabinet": "Schmidt II Schmidt III",
+      "title": "Bundesminister für Arbeit und Sozialordnung"
+    },
+    {
+      "no": "6",
+      "name": "Heinz Westphal",
+      "lifespan": "1924–1998",
+      "party": "SPD",
+      "term_start": "28. April 1982",
+      "term_end": "4. Oktober 1982",
+      "cabinet": "Schmidt III",
+      "title": "Bundesminister für Arbeit und Sozialordnung"
+    },
+    {
+      "no": "7",
+      "name": "Norbert Blüm",
+      "lifespan": "1935–2020",
+      "party": "CDU",
+      "term_start": "4. Oktober 1982",
+      "term_end": "27. Oktober 1998",
+      "cabinet": "Kohl I Kohl II Kohl III Kohl IV Kohl V",
+      "title": "Bundesminister für Arbeit und Sozialordnung"
+    },
+    {
+      "no": "8",
+      "name": "Walter Riester",
+      "lifespan": "* 1943",
+      "party": "SPD",
+      "term_start": "27. Oktober 1998",
+      "term_end": "22. Oktober 2002",
+      "cabinet": "Schröder I",
+      "title": "Bundesminister für Arbeit und Sozialordnung"
+    },
+    {
+      "no": "9",
+      "name": "Wolfgang Clement",
+      "lifespan": "1940–2020",
+      "party": "SPD",
+      "term_start": "22. Oktober 2002",
+      "term_end": "22. November 2005",
+      "cabinet": "Schröder II",
+      "title": "Bundesminister für Wirtschaft und Arbeit"
+    },
+    {
+      "no": "9",
+      "name": "Ulla Schmidt",
+      "lifespan": "* 1949",
+      "party": "SPD",
+      "term_start": "22. Oktober 2002",
+      "term_end": "22. November 2005",
+      "cabinet": "Schröder II",
+      "title": "Bundesminister für Gesundheit und Soziale Sicherung"
+    },
+    {
+      "no": "10",
+      "name": "Franz Müntefering",
+      "lifespan": "* 1940",
+      "party": "SPD",
+      "term_start": "22. November 2005",
+      "term_end": "21. November 2007",
+      "cabinet": "Merkel I",
+      "title": "Bundesminister für Arbeit und Soziales"
+    },
+    {
+      "no": "11",
+      "name": "Olaf Scholz",
+      "lifespan": "* 1958",
+      "party": "SPD",
+      "term_start": "21. November 2007",
+      "term_end": "28. Oktober 2009",
+      "cabinet": "Merkel I",
+      "title": "Bundesminister für Arbeit und Soziales"
+    },
+    {
+      "no": "12",
+      "name": "Franz Josef Jung",
+      "lifespan": "* 1949",
+      "party": "CDU",
+      "term_start": "28. Oktober 2009",
+      "term_end": "30. November 2009",
+      "cabinet": "Merkel II",
+      "title": "Bundesminister für Arbeit und Soziales"
+    },
+    {
+      "no": "13",
+      "name": "Ursula von der Leyen",
+      "lifespan": "* 1958",
+      "party": "CDU",
+      "term_start": "30. November 2009",
+      "term_end": "17. Dezember 2013",
+      "cabinet": "Merkel II",
+      "title": "Bundesminister für Arbeit und Soziales"
+    },
+    {
+      "no": "14",
+      "name": "Andrea Nahles",
+      "lifespan": "* 1970",
+      "party": "SPD",
+      "term_start": "17. Dezember 2013",
+      "term_end": "28. September 2017",
+      "cabinet": "Merkel III",
+      "title": "Bundesminister für Arbeit und Soziales"
+    },
+    {
+      "no": "–",
+      "name": "Katarina Barley (kommissarisch)",
+      "lifespan": "* 1968",
+      "party": "SPD",
+      "term_start": "28. September 2017",
+      "term_end": "14. März 2018",
+      "cabinet": "Merkel III",
+      "title": "Bundesminister für Arbeit und Soziales"
+    },
+    {
+      "no": "15",
+      "name": "Hubertus Heil",
+      "lifespan": "* 1972",
+      "party": "SPD",
+      "term_start": "14. März 2018",
+      "term_end": "6. Mai 2025",
+      "cabinet": "Merkel IV Scholz",
+      "title": "Bundesminister für Arbeit und Soziales"
+    },
+    {
+      "no": "16",
+      "name": "Bärbel Bas",
+      "lifespan": "* 1968",
+      "party": "SPD",
+      "term_start": "6. Mai 2025",
+      "term_end": "13. Oktober 2026",
+      "cabinet": "Merz",
+      "title": "Bundesminister für Arbeit und Soziales"
+    },
+    {
+      "no": "17",
+      "name": "Alexander Schweitzer",
+      "lifespan": "* 1973",
+      "party": "SPD",
+      "term_start": "13. Oktober 2026",
+      "term_end": "",
+      "cabinet": "Merz",
+      "title": "Bundesminister für Arbeit und Soziales"
+    }
+  ],
+  "meta": {
+    "title": "Bundesminister für Arbeit und Soziales - Free Download",
+    "description": "Bundesminister für Arbeit (und Sozialordnung bzw. Soziales) der Bundesrepublik Deutschland seit 1949: Name, Lebensdaten, Partei, Amtszeit, Kabinette und Amtsbezeichnung. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bundesminister für Arbeit und Soziales | ListBase",
+    "seo_description": "Download Bundesminister für Arbeit und Soziales — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Bundesministerium_für_Arbeit_und_Soziales"
+    ]
+  }
+}

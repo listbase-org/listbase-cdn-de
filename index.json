@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-13T02:24:52.235Z",
-  "total_datasets": 562,
-  "total_records": 1879504,
+  "generated": "2026-11-14T02:19:51.766Z",
+  "total_datasets": 563,
+  "total_records": 1879523,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -12964,6 +12964,35 @@
         "xlsx": {
           "name": "de-bundeslaender-fertilitaetsrate_DE.xlsx",
           "size": 7191
+        }
+      }
+    },
+    {
+      "id": "de-bundesminister-fuer-arbeit-und-soziales",
+      "name": "Bundesminister für Arbeit und Soziales",
+      "category": "society",
+      "record_count": 19,
+      "columns": [
+        "no",
+        "name",
+        "lifespan",
+        "party",
+        "term_start",
+        "term_end",
+        "cabinet",
+        "title"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Bundesministerium_für_Arbeit_und_Soziales",
+      "updated": "2026-11",
+      "size": 7570,
+      "files": {
+        "csv": {
+          "name": "de-bundesminister-fuer-arbeit-und-soziales_DE.csv",
+          "size": 2723
+        },
+        "xlsx": {
+          "name": "de-bundesminister-fuer-arbeit-und-soziales_DE.xlsx",
+          "size": 8157
         }
       }
     },
