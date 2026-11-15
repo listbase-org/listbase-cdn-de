@@ -1,12 +1,12 @@
 {
   "lang": "de",
-  "generated": "2026-11-14T02:20:09.073Z",
-  "total_datasets": 565,
-  "total_records": 1879592,
+  "generated": "2026-11-15T02:22:47.109Z",
+  "total_datasets": 566,
+  "total_records": 1879642,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -232,6 +232,35 @@
         "xlsx": {
           "name": "de-kartoffelsorten_DE.xlsx",
           "size": 87453
+        }
+      }
+    },
+    {
+      "id": "de-landwirtschaftsminister",
+      "name": "Deutsche Landwirtschafts- und Ernährungsminister",
+      "category": "agriculture",
+      "record_count": 50,
+      "columns": [
+        "state",
+        "office",
+        "number",
+        "name",
+        "life",
+        "term_start",
+        "term_end",
+        "party"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Landwirtschaftsminister",
+      "updated": "2026-11",
+      "size": 19831,
+      "files": {
+        "csv": {
+          "name": "de-landwirtschaftsminister_DE.csv",
+          "size": 10291
+        },
+        "xlsx": {
+          "name": "de-landwirtschaftsminister_DE.xlsx",
+          "size": 10054
         }
       }
     },
