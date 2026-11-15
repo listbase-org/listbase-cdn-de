@@ -1,0 +1,131 @@
+{
+  "id": "de-helmholtz-zentren",
+  "name": "Forschungszentren der Helmholtz-Gemeinschaft",
+  "title": "Forschungszentren der Helmholtz-Gemeinschaft",
+  "description": "Mitgliedszentren der Helmholtz-Gemeinschaft Deutscher Forschungszentren mit Abkürzung, Name und Sitz.",
+  "category": "science",
+  "source": "https://de.wikipedia.org/wiki/Helmholtz-Gemeinschaft_Deutscher_Forschungszentren",
+  "source_url": "https://de.wikipedia.org/wiki/Helmholtz-Gemeinschaft_Deutscher_Forschungszentren",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "abbreviation",
+      "label": "Abbreviation",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "abbreviation": "AWI",
+      "name": "Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung",
+      "location": "Bremerhaven"
+    },
+    {
+      "abbreviation": "CISPA",
+      "name": "Helmholtz-Zentrum für Informationssicherheit",
+      "location": "Saarbrücken"
+    },
+    {
+      "abbreviation": "DESY",
+      "name": "Deutsches Elektronen-Synchrotron",
+      "location": "Hamburg"
+    },
+    {
+      "abbreviation": "DKFZ",
+      "name": "Deutsches Krebsforschungszentrum",
+      "location": "Heidelberg"
+    },
+    {
+      "abbreviation": "DLR",
+      "name": "Deutsches Zentrum für Luft- und Raumfahrt",
+      "location": "Köln"
+    },
+    {
+      "abbreviation": "DZNE",
+      "name": "Deutsches Zentrum für Neurodegenerative Erkrankungen e. V.",
+      "location": "Bonn"
+    },
+    {
+      "abbreviation": "FZJ",
+      "name": "Forschungszentrum Jülich",
+      "location": "Jülich"
+    },
+    {
+      "abbreviation": "GEOMAR",
+      "name": "Helmholtz-Zentrum für Ozeanforschung Kiel",
+      "location": "Kiel"
+    },
+    {
+      "abbreviation": "GFZ",
+      "name": "Helmholtz-Zentrum für Geoforschung",
+      "location": "Potsdam"
+    },
+    {
+      "abbreviation": "GSI",
+      "name": "Helmholtzzentrum für Schwerionenforschung",
+      "location": "Darmstadt"
+    },
+    {
+      "abbreviation": "Hereon",
+      "name": "Helmholtz-Zentrum Hereon (bis 2021: HZG, Helmholtz-Zentrum Geesthacht – Zentrum für Material- und Küstenforschung)",
+      "location": ""
+    },
+    {
+      "abbreviation": "HMGU",
+      "name": "Helmholtz-Zentrum München – Deutsches Forschungszentrum für Gesundheit und Umwelt",
+      "location": "Neuherberg bei München"
+    },
+    {
+      "abbreviation": "HZB",
+      "name": "Helmholtz-Zentrum Berlin für Materialien und Energie",
+      "location": ""
+    },
+    {
+      "abbreviation": "HZDR",
+      "name": "Helmholtz-Zentrum Dresden-Rossendorf",
+      "location": ""
+    },
+    {
+      "abbreviation": "HZI",
+      "name": "Helmholtz-Zentrum für Infektionsforschung",
+      "location": "Braunschweig"
+    },
+    {
+      "abbreviation": "KIT",
+      "name": "Karlsruher Institut für Technologie",
+      "location": "Karlsruhe"
+    },
+    {
+      "abbreviation": "MDC",
+      "name": "Max-Delbrück-Centrum für Molekulare Medizin in der Helmholtz-Gemeinschaft",
+      "location": "Berlin-Buch"
+    },
+    {
+      "abbreviation": "UFZ",
+      "name": "Helmholtz-Zentrum für Umweltforschung",
+      "location": "Leipzig"
+    }
+  ],
+  "meta": {
+    "title": "Forschungszentren der Helmholtz-Gemeinschaft - Free Download",
+    "description": "Mitgliedszentren der Helmholtz-Gemeinschaft Deutscher Forschungszentren mit Abkürzung, Name und Sitz. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Forschungszentren der Helmholtz-Gemeinschaft | ListBase",
+    "seo_description": "Download Forschungszentren der Helmholtz-Gemeinschaft — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Helmholtz-Gemeinschaft_Deutscher_Forschungszentren"
+    ]
+  }
+}
