@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-15T02:22:47.109Z",
-  "total_datasets": 566,
-  "total_records": 1879642,
+  "generated": "2026-11-15T02:22:56.379Z",
+  "total_datasets": 567,
+  "total_records": 1879887,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -6342,6 +6342,32 @@
         "xlsx": {
           "name": "de-richter-bundesverfassungsgericht_DE.xlsx",
           "size": 14333
+        }
+      }
+    },
+    {
+      "id": "de-echo-pop-preistraeger",
+      "name": "Echo-Pop-Preisträger (1992–2018)",
+      "category": "music",
+      "record_count": 245,
+      "columns": [
+        "year",
+        "category",
+        "scope",
+        "winner",
+        "country"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Echo-Pop-Preisträger",
+      "updated": "2026-11",
+      "size": 43158,
+      "files": {
+        "csv": {
+          "name": "de-echo-pop-preistraeger_DE.csv",
+          "size": 18162
+        },
+        "xlsx": {
+          "name": "de-echo-pop-preistraeger_DE.xlsx",
+          "size": 14022
         }
       }
     },
