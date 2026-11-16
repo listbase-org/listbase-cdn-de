@@ -1,0 +1,674 @@
+{
+  "id": "de-woerter-aus-hebraeisch-jiddisch",
+  "name": "Deutsche Wörter aus dem Jiddischen und Hebräischen",
+  "title": "Deutsche Wörter aus dem Jiddischen und Hebräischen",
+  "description": "Lehnwörter im Deutschen, die aus dem Jiddischen oder Hebräischen stammen, mit jiddischer bzw. hebräischer Form und Erläuterung von Bedeutung und Herkunft.",
+  "category": "language",
+  "source": "https://de.wikipedia.org/wiki/Liste_deutscher_Wörter_aus_dem_Hebräischen_und_Jiddischen",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_deutscher_Wörter_aus_dem_Hebräischen_und_Jiddischen",
+  "updated": "2026-11",
+  "record_count": 89,
+  "columns": [
+    {
+      "key": "word",
+      "label": "Word",
+      "type": "string"
+    },
+    {
+      "key": "yiddish",
+      "label": "Yiddish",
+      "type": "string"
+    },
+    {
+      "key": "hebrew",
+      "label": "Hebrew",
+      "type": "string"
+    },
+    {
+      "key": "meaning_note",
+      "label": "Meaning Note",
+      "type": "string"
+    },
+    {
+      "key": "origin_group",
+      "label": "Origin Group",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "word": "abzocken",
+      "yiddish": "s. u. zocken",
+      "hebrew": "s. u. zocken",
+      "meaning_note": "jemanden übervorteilen, ausnehmen; auch: (beim Glücks- oder Computerspiel) jem. deutlich besiegen – es leitet sich vom westjiddischen zchoke (‚lachen‘) her, welches seinerseits dem hebräischen Lexem sehoq (für ‚spielen‘, eigentlich ‚lachen‘) entstammt und vom Rotwelschen entlehnt wurde.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "(aus)baldowern",
+      "yiddish": "Baldower",
+      "hebrew": "Ba'al -dawar „Herr des Wortes, der Sache“",
+      "meaning_note": "herausbekommen, auskundschaften (Baldower: „Auskundschafter, Angeber, Anführer bei Diebesunternehmen“)",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "ausgekocht",
+      "yiddish": "",
+      "hebrew": "",
+      "meaning_note": "raffiniert, klug; aus dt. aus-, -ge- und hebräisch חכם chacham, chochem, „weise, klug“",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Bammel",
+      "yiddish": "",
+      "hebrew": "",
+      "meaning_note": "vielleicht über das Jiddische (furchtsamer Mensch) aus dem hebräischen baal emoh „Furchtsamer“, aus בַּעַל baal = Herr und ema = Angst.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Beisel, Beize, Beiz, Boazn",
+      "yiddish": "",
+      "hebrew": "",
+      "meaning_note": "Kneipe; vom hebräischen בַּיִת bajit über das Jiddische bajis (beide Haus) ins Deutsche übernommen, insbesondere im süddeutschen Sprachbereich. Im Wienerischen werden Kneipen als „ Beisl “ bezeichnet.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "beseibeln",
+      "yiddish": "",
+      "hebrew": "seiwel, seibel זבל [ 'zɛvɛl ] „Mist, Kot“",
+      "meaning_note": "betrügen, wörtl. „bescheißen“",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "betucht",
+      "yiddish": "betuch „sicher, vertrauenswürdig“",
+      "hebrew": "baṭuaḥ, batuach „vertrauenswert“, von בָּטַח batach „vertrauen“",
+      "meaning_note": "Im heutigen, deutschen Sprachgebrauch im Sinne von „wohlhabend“; entgegen dem Sprachgefühl nicht von Tuch abgeleitet",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "blau (~ sein, machen)",
+      "yiddish": "",
+      "hebrew": "be-lo בלא [ bɛ'lɔ ] „mit nichts, ohne“",
+      "meaning_note": "betrunken, faul, nichts leistend; siehe aber auch Blaumachen",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Bohei (dt.) bzw. Pahöll (österr.)",
+      "yiddish": "paihe „Lärm“",
+      "hebrew": "",
+      "meaning_note": "Streit, Aufregung, Krawall, Getöse",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Chuzpe",
+      "yiddish": "חוצפה Chuzpe",
+      "hebrew": "חֻצְפָּה Chuz'pa, [χuts'pa]",
+      "meaning_note": "Frechheit, Dreistigkeit, Mut",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "(aus) Daffke",
+      "yiddish": "dafke „nun gerade“",
+      "hebrew": "dawqä „nur so (und nicht anders)“",
+      "meaning_note": "zum Trotz",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "dufte, tofte; (österr.) toffe",
+      "yiddish": "טוֹב toff „gut“",
+      "hebrew": "טוֹב tov „gut“",
+      "meaning_note": "über die Gaunersprache ins Berlinische",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "einseifen (jdn. ~)",
+      "yiddish": "",
+      "hebrew": "sewel (Hebr. זבל [ 'zɛvɛl ]) „Mist, Kot“",
+      "meaning_note": "Die ursprüngliche Bedeutung z. B. in „einseifen beim Rasieren“. Die übertragene Bedeutung „betrügen, jdm. etw. einreden“ möglicherweise durch Anpassung an Rotwelsch „beseiwelen“ aus Westjiddisch „sewel“ = „Dreck“",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Eizes oder Ejzes, Ezzes (Pl.)",
+      "yiddish": "eizes (Plural)",
+      "hebrew": "עצה `ez ạh „Rat(schlag)“",
+      "meaning_note": "Tipps, Rat(schläge)",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "flöten gehen",
+      "yiddish": "",
+      "hebrew": "פליטה plejta [ plɛj'ta ] „entrinnen, entkommen“",
+      "meaning_note": "Möglicherweise über Jiddisch und Rotwelsch aus derselben Quelle wie Pleite",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Ganove",
+      "yiddish": "",
+      "hebrew": "גנב gannaw, [ga'nav] „Dieb“",
+      "meaning_note": "",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Gauner",
+      "yiddish": "יוון jawan „Griechenland“",
+      "hebrew": "aus dem rotwelschen Juonner „Falschspieler“, das seinerseits wohl über das Jiddische auf Hebräisch יוון jawan „Griechenland“ (eigentlich „ Ionien “) zurückgehen dürfte.",
+      "meaning_note": "Das Wort kam nach der Eroberung von Konstantinopel durch die Türken 1453 auf, nach der viele heimatlose griechische Exilanten durch Europa irrten.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "geschlaucht",
+      "yiddish": "",
+      "hebrew": "schlacha „zu Boden werfen“",
+      "meaning_note": "erschöpft",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Geseier",
+      "yiddish": "geseire „böser Zustand, Verhängnis“",
+      "hebrew": "",
+      "meaning_note": "Geschwätz",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "großkotzig",
+      "yiddish": "",
+      "hebrew": "",
+      "meaning_note": "prahlerisch; aus dt. groß und hebr. kozin „vornehm, reich“ oder qazin „Anführer“",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Haberer Gabber",
+      "yiddish": "",
+      "hebrew": "חַבֵר chaver (= Freund, Kumpel), plural: חַבֵרִים chaverim (= Freunde)",
+      "meaning_note": "Die in Österreich, vor allem im mittelbairischen Sprachgebiet nördlich der Alpen gebräuchliche „Haberer“ oder „Hawara“ bedeutet zumeist Freund oder Kumpel, wird aber auch synonym zu „Mann“ (nicht im ehelichen Sinn) oder Liebhaber – hier auch verniedlicht „Habschi“ oder in Vorarlberg „Habi“ – gebraucht. Das Adjektiv verhabert und die Verhaberung klingt wenig wertschätzend für verbunden in „Seilschaft“ und Freunderlwirtschaft.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Hals- und Beinbruch",
+      "yiddish": "הצלחה וברכה Hassloche uWroche, [has'lo'χə uv'roχə]",
+      "hebrew": "הצלחה וברכה Hazlacha uWracha, [hatsla'χa uvra'χa]",
+      "meaning_note": "Hals- und Beinbruch ist eine Verballhornung und stammt aus dem hebräischen hazlacha uwracha (= „Erfolg und Segen“). Dieser Glückwunsch wurde von Juden beim Abschluss eines Geschäfts in der jiddischen Form hazloche und broche ausgesprochen und von deutschsprachigen Zuhörern als Hals- und Beinbruch verstanden.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Hechtsuppe",
+      "yiddish": "",
+      "hebrew": "",
+      "meaning_note": "„Es zieht wie Hechtsuppe“ kommt möglicherweise aus dem jiddischen hech supha und bedeutet „starker Wind“. Allerdings ist diese Etymologie noch unglaubwürdiger als „ Guter Rutsch “: a) Es gibt keinen einzigen Textbeleg in der (älteren wie modernen) jiddischen Literatur (für „Hechtsuppe“ ebenso wenig wie für hech supha). b) Es kann einen solchen Beleg nicht geben, denn „hech supha“ ist mit vollem Endvokal im Jiddischen nicht möglich; dort herrscht eine – der germanischen Entwicklung angeglichene – Endsilbenabschwächung nach Betonung der vorletzten Silbe im Wort. Bereits die Transkription mit /ph/ statt /f/ zeigt, dass „supha“ ein Wort nichtjiddischer Herkunft ist. c) Laut Röhrich soll sich diese Redewendung erst im 19. Jahrhundert herausgebildet haben, jedoch erscheint eine ähnliche Formulierung, allerdings noch nicht mit einem Bezug auf den Windzug bereits im Jahre 1674 und verweist eher auf die Schärfe dieses Gerichts: „Bekommen die Hollaͤnder Lufft / so werden sie sich erheben; der Pfeffer ist ihnen ziemlich unter die Nase gerieben / und die Nasenstuͤberchen sam̅t den Westphaͤlischen Bauermaulschellen / […] / moͤchten erst anziehen wie Hechtsuppe.“",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Ische",
+      "yiddish": "",
+      "hebrew": "אישה – Ischa – Frau",
+      "meaning_note": "umgangssprachlich; aus der Sicht eines Jungen, eines jungen Mannes: Mädchen, junge Frau",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Kaff",
+      "yiddish": "",
+      "hebrew": "",
+      "meaning_note": "Das im Deutschen in manchen Regionen gebräuchliche Wort für „unbedeutendes, kleines Dorf, in dem nichts los ist“ kommt über das Jiddische vom hebräischen Wort כָּפָר kafar (= „Dorf“). Im etymologischen Wörterbuch der deutschen Sprache (EWD) wird der Ausdruck allerdings auf Gav (Romani für „Dorf“) zurückgeführt.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "kapores (gehen, sein)",
+      "yiddish": "kapores [ka'pores]",
+      "hebrew": "kaparot כפרות [ kapa'ʁɔt ]",
+      "meaning_note": "jiddisch bzw. als Wendung shluggen kapores. Nach einem jüdischen Brauch zu Jom Kippur, bei dem Hühner als „Sühneopfer“ stellvertretend für die Sünden einer Person dargebracht werden.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Kassiber, kassibern [kaˈsiːbɐ]",
+      "yiddish": "כּתיבֿה jidd. kesive „Brief, Geschriebenes“",
+      "hebrew": "כְּתִיבָה keṯīvā(h), „(das) Schreiben“",
+      "meaning_note": "genaue Grundform strittig",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "kess",
+      "yiddish": "",
+      "hebrew": "",
+      "meaning_note": "„frech“, „schneidig“, „flott“, nach der jidd. Aussprache des Buchstabens Chet, der für Weisheit (Chochma) steht",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Kies",
+      "yiddish": "",
+      "hebrew": "כִיס kiss [ kis ]",
+      "meaning_note": "Kies im Sinne von Geld geht auf das Wort kis (= „Geldbeutel“) zurück.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Kluft",
+      "yiddish": "",
+      "hebrew": "qĕlippä „Schale, Rinde“",
+      "meaning_note": "im Sinne von Kleidung, über das Rotwelsche",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Knast",
+      "yiddish": "קנאַס knas „Geldstrafe“, קנאַסן knassen „bestrafen“",
+      "hebrew": "קְנָס qənās „Geldstrafe“",
+      "meaning_note": "Im 19. Jahrhundert, vermittelt durch das Rotwelsche und in der wohl erst dort entstandenen Bedeutung „Gefängnisgebäude“, zunächst ins Berlinerische und von dort bald in den gesamten deutschen Sprachraum vorgedrungen. Das zugrundeliegende hebräisch-aramäische Etymon קְנָס qənās „Geldstrafe“ ist seinerseits über altgriechisch κῆνσος (kensos) „Steuer“ entlehnt aus lateinisch census „Steuerregister“.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Kohl reden, verkohlen",
+      "yiddish": "kol",
+      "hebrew": "qôl „Stimme; Gerücht“",
+      "meaning_note": "",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "koscher",
+      "yiddish": "כּשר [ 'kojʃɛr ]",
+      "hebrew": "כּשר Kascher, [ka'ʃɛʀ]",
+      "meaning_note": "koscher bedeutet ursprünglich „tauglich, gesund“ (im modernen Hebräisch bedeutet cheder kosher Fitnessraum). Mit Koscher bezeichnen die Juden Speisen, die nach der Tora erlaubt sind.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "kotzen",
+      "yiddish": "",
+      "hebrew": "qoz „Ekel“",
+      "meaning_note": "speien (Kann auch spätmittelhochdeutscher Herkunft sein.)",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Macke",
+      "yiddish": "macke „Schlag, Fehler“",
+      "hebrew": "makkä(h) „Schlag, Plage“",
+      "meaning_note": "Fehler, Tick",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Masche",
+      "yiddish": "mezio „Gewinn, Lösung“",
+      "hebrew": "",
+      "meaning_note": "Dreh, Trick (unsicher)",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Maloche",
+      "yiddish": "",
+      "hebrew": "מְלָאכָה m e lā(')ḵā(h) Schwerstarbeit",
+      "meaning_note": "Das hebräische Ausgangswort hat die Bedeutung „Arbeit“. Gebräuchlich vor allem im Ruhrdeutschen und Berlinerischen.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Massel",
+      "yiddish": "",
+      "hebrew": "מזל Masal [ma'zal]",
+      "meaning_note": "mazel (= Glück). Sprichwort: Massel wie a Goi (Nichtjude).",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Masen, Masel",
+      "yiddish": "",
+      "hebrew": "מזל Masal [ma'zal]",
+      "meaning_note": "mazel (= Glück). Sprichwort: „a Mas’n hom“ oder „a Mas’l hom“ (Glück haben), in Bayern und Österreich gebräuchlich",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "mauscheln",
+      "yiddish": "moischele „Moses“",
+      "hebrew": "מֹשֶׁה mosche „Moses“ oder מָשָׁל maschal „Gleichnisrede; Spruch; Stichelrede“",
+      "meaning_note": "hinter vorgehaltener Hand flüstern; intrigieren, kungeln, mogeln",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "meschugge",
+      "yiddish": "משוגע (Meschugge) [me'ʃuge]",
+      "hebrew": "מְשֻׁגָּע (Meschugga) [meʃu'ga]",
+      "meaning_note": "Das jiddische Wort für „verrückt“ geht auf das hebräische meschuga zurück, das verrückt, wahnsinnig bedeutet.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Mezíe /Mezzie",
+      "yiddish": "",
+      "hebrew": "",
+      "meaning_note": "(fem., End-e p) Gelegenheitskauf, Schnäppchen.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "mies",
+      "yiddish": "mis „schlecht, widerlich“",
+      "hebrew": "mĕ’is „schlecht, verächtlich“",
+      "meaning_note": "im 19. Jahrhundert aus dem Rotwelschen ins Berlinische gelangt",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Mischpoke, Mischpoche",
+      "yiddish": "משפחה Mischpoche [ miʃ'puχe ]",
+      "hebrew": "מִשְׁפָּחָה Mischpacha [ miʃpa'χa ]",
+      "meaning_note": "Familie, Gesellschaft, Bande",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Moos",
+      "yiddish": "moes",
+      "hebrew": "ma'oth „kleine Münze, Pfennige, Kleingeld“",
+      "meaning_note": "Geld",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "mosern",
+      "yiddish": "massern „verraten“",
+      "hebrew": "Motte (Kosewort), von motek (hebräisch \"Süße(r), \"Schatz\", Umgangssprachl.)",
+      "meaning_note": "nörgeln (mögl. jidd. Herkunft)",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Nebbich",
+      "yiddish": "nebech „armes Ding“",
+      "hebrew": "",
+      "meaning_note": "Unbedeutendes (unsicher)",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Pleite, Pleitegeier",
+      "yiddish": "פּלטה (plejte) „Flucht“",
+      "hebrew": "פְּלֵטָה (pəlēṭā), „Flucht, Entkommen, Entrinnen aus einer Notlage“",
+      "meaning_note": "Die jiddische Redensart plejte gejen bezeichnete zunächst nicht die Zahlungsunfähigkeit an sich, sondern die Flucht eines Schuldners, der sich seinen Gläubigern oder der Schuldhaft zu entziehen sucht; im Deutschen wurde ein solcher plejte gejer zum „Pleitegeier“ verballhornt. Auf denselben Ursprung geht möglicherweise auch die Redensart „flöten gehen“ (s. o.) zurück.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Ramsch",
+      "yiddish": "",
+      "hebrew": "rama'ut רָמָאוּת [ rama'ut ] „Betrug“",
+      "meaning_note": "wertloses Zeug (Kann auch mittelhochdeutscher Herkunft sein.)",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Reibach",
+      "yiddish": "",
+      "hebrew": "רווח Rewach, ['revaχ]",
+      "meaning_note": "Das Wort Reibach kommt von rewah und bedeutet „Gewinn“. Heute meist im Sinne von „hohem“ Gewinn verwendet. In Ostösterreich auch als „Rewag“ im Sinn von „Nutzen, Vorteil“ gebräuchlich: „Das hat keinen Rewag“. Ugs. auch: Rebbach.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Risches",
+      "yiddish": "risches",
+      "hebrew": "risch'ut רשעוּת „Bosheit“",
+      "meaning_note": "im Jiddischen umgangssprachlich für Antisemitismus",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "guten Rutsch",
+      "yiddish": "ראש (rosch) „Kopf, Anfang“",
+      "hebrew": "",
+      "meaning_note": "„Guten Rutsch“ bedeutet eigentlich „Guter (Jahres-)Anfang“. Herkunft ist umstritten. Siehe auch Artikel zu guter Rutsch.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "schachern",
+      "yiddish": "sachern oder sochern „Handel treiben“",
+      "hebrew": "sakar סחר [ sa'χaʀ ] „Lohn“",
+      "meaning_note": "unlauteren Handel treiben",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "schächten",
+      "yiddish": "",
+      "hebrew": "שחט (schachat, [ʃa'χat]) „schlachten“",
+      "meaning_note": "rituell richtig schlachten",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Schamass",
+      "yiddish": "",
+      "hebrew": "",
+      "meaning_note": "Schund, wertloser Kram.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Schickse Shiksa",
+      "yiddish": "שיקסע",
+      "hebrew": "שֶקֶץ (šeqeẓ), „Unreines, Abscheu“",
+      "meaning_note": "Im Jiddischen hieß Schickse oder Schiksa „Christenmädchen“, weibliche Form von Shaygets, und wurde oft als Schimpfwort (= Flittchen, leichtes Mädchen) verwendet.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "schicker, angeschickert, beschickern, beschickert",
+      "yiddish": "שיכּור shiker",
+      "hebrew": "שִׁכּוֹר šikōr",
+      "meaning_note": "angetrunken, betrunken",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Schlamassel",
+      "yiddish": "שלימזל (Schlimasel)",
+      "hebrew": "",
+      "meaning_note": "Unglück; Gegenstück zu „Massel“; „Schlamassel ham“ – bedrückende Sorgen haben; „in einem Schlamassel stecken“ – sich in einer recht aussichtslosen Situation befinden. Siehe auch Schlemihl, So ein Schlamassel und Schönes Schlamassel",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "schleimen, einschleimen",
+      "yiddish": "",
+      "hebrew": "schelem ['ʃɛlɛm] „Erstattung; Dank“ od. schalmon [ʃal'mɔn] Bestechungsgabe",
+      "meaning_note": "schmeicheln; Das Etym. Wörterbuch von W. Pfeifer geht von einer germanischen Herkunft aus: https://www.dwds.de/wb/schmeicheln",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Schmiere",
+      "yiddish": "שמירה [ 'ʃmirə ]",
+      "hebrew": "שמירה [ ʃmi'ʀa ]",
+      "meaning_note": "Schmiere (= Wache) stehen von shmíra (= Wache). Schmiere wurde als Bezeichnung für „ Polizei “ ins Rotwelsche übernommen.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Schmieren-",
+      "yiddish": "זמרה simrah [ zim'ʀa ] (= Gesang)",
+      "hebrew": "זמרה simrah [ zim'ʀa ] (= Gesang)",
+      "meaning_note": "Schmiere (-ntheater, -nkomödie) im Sinn einer Schauspielbühne",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Schmock",
+      "yiddish": "",
+      "hebrew": "",
+      "meaning_note": "dummer oder unbeliebter Mensch; abgeleitet aus Schmoo (also jemand der „Mist baut/macht“).",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Schmonzes, Schmonzette, Geschmonz",
+      "yiddish": "schmuo (Plural schmuoss), „Gerücht, Erzählung, Geschwätz“",
+      "hebrew": "šemū'ah „Erzählung, Kunde, Gerücht“",
+      "meaning_note": "Geschwätz, (jüd.) Witz, Unsinn – Schmonzette: rührseliges, dramatisch wertloses Stück",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": ", Schmu / Schmoo",
+      "yiddish": "s. o.",
+      "hebrew": "s. o.",
+      "meaning_note": "„ Schmu machen “ = „betrügen“, „etwas abzweigen“, „Mist bauen“ – (Schmus = Begriff für Schmuck im Sinne von Tand bzw. Tinnef)",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Schmus, schmusen",
+      "yiddish": "s. o.",
+      "hebrew": "s. o.",
+      "meaning_note": "mit jemandem zärtlich sein, jemandem schmeicheln; über das Rotwelsche in der Bedeutung „schwatzen“ oder „schmeicheln“",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Schnorrer",
+      "yiddish": "שנאָרער",
+      "hebrew": "",
+      "meaning_note": "Da Bettelmusikanten oft mit Lärminstrumenten wie der Schnarre durch die Lande zogen, wurde die jiddische Nebenform Schnorre des Instrumentennamens auf die Musikanten übertragen.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "schofel, schoflig",
+      "yiddish": "schophol „lumpig, niedrig“",
+      "hebrew": "šạfạl „niedrig“",
+      "meaning_note": "lumpig, geizig (über das Rotwelsche ins Deutsche gelangt)",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Shaygets",
+      "yiddish": "sheqetz",
+      "hebrew": "",
+      "meaning_note": "nichtjüdischer Junge oder nichtjüdischer junger Mann (unsauberes Tier, ekelhafte Kreatur, Scheusal, Lump, widerspenstiger Bursche, nichtjüdischer Bursche lt. Megiddo)",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Shiksa siehe Schickse",
+      "yiddish": "",
+      "hebrew": "",
+      "meaning_note": "",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Stuss",
+      "yiddish": "שטות schtus [ ʃtus ]",
+      "hebrew": "",
+      "meaning_note": "„Unsinn, Narrheit“ šêtûṭ „Unsinn, Narrheit“",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Tacheles reden",
+      "yiddish": "תכלית tachles „Zweck, zweckmäßiges Handeln“",
+      "hebrew": "תכלית tachlit",
+      "meaning_note": "offen und deutlich reden, Klartext, mit einem Sinn oder Ziel",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Techtelmechtel",
+      "yiddish": "",
+      "hebrew": "",
+      "meaning_note": "Techtelmechtel ist ein Reimwort, indem das Wort tachti (= „heimlich“) um ein l erweitert (techtl) in leichter Variation (mechtl) wiederholt wird.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Tinnef",
+      "yiddish": "טינוף tinnef",
+      "hebrew": "טינוף ṭinnûf [ ti'nuf ] „Kot, Schmutz“",
+      "meaning_note": "Tinnef im Sinne von „nutzlose Ware“ kam im 19. Jahrhundert aus der Gaunersprache ins Deutsche.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "unbetamt",
+      "yiddish": "",
+      "hebrew": "taam טעם [ 'taʔam ] „Geschmack, Nuance, Charme, Schliff“",
+      "meaning_note": "ungeschickt",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "verknacken",
+      "yiddish": "knas, s. o. bei Knast",
+      "hebrew": "",
+      "meaning_note": "einsperren",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "zappenduster",
+      "yiddish": "zophon „Mitternacht“",
+      "hebrew": "",
+      "meaning_note": "dunkel wie die Nacht",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "zocken",
+      "yiddish": "צחוקן zchocken „spielen“",
+      "hebrew": "צחוק „lachen“",
+      "meaning_note": "spielen, Glücksspiele machen",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Zoff",
+      "yiddish": "",
+      "hebrew": "sa'af זעף",
+      "meaning_note": "Streit, Zank oder Unfrieden.",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Zores",
+      "yiddish": "צרות zores [ tsores ] „Sorgen“",
+      "hebrew": "צרות zarot [ tsa'ʀɔt ] „Sorgen, Kummer“",
+      "meaning_note": "Ärger, Streit, Durcheinander Kommt auch vor in der Wendung „(gib ihm) Saures “",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Zossen",
+      "yiddish": "zosse(n), suss „Pferd“",
+      "hebrew": "sûs „Pferd“",
+      "meaning_note": "(altes) Pferd",
+      "origin_group": "Aus dem Jiddischen entlehnte deutsche Wörter"
+    },
+    {
+      "word": "Amen",
+      "yiddish": "",
+      "hebrew": "אמן (amen) „So sei es.“",
+      "meaning_note": "Das Schlusswort beim Gebet kommt über die griechische Sprache aus dem Hebräischen und drückt das Einverständnis des Betenden mit dem soeben Gesprochenen aus. Das Wort ist verwandt mit emunah = „Vertrauen“.",
+      "origin_group": "Wörter aus der Bibel"
+    },
+    {
+      "word": "Halleluja",
+      "yiddish": "",
+      "hebrew": "הַלְּלוּיָהּ (hallelu jah) „Preiset Jah!“",
+      "meaning_note": "Jah/ JHWH steht für den Eigennamen des Gottes Israels.",
+      "origin_group": "Wörter aus der Bibel"
+    },
+    {
+      "word": "Jubel",
+      "yiddish": "",
+      "hebrew": "יובל (jobel) „Schall des Widderhorns“",
+      "meaning_note": "Das Widderhorn (hebräisch: Schofar) wurde u. a. zum alle 49 Jahre eintretenden Halljahr geblasen, in dem Felder und Weingärten nicht bebaut werden durften. In der Vulgata mischte sich die lat. Wiedergabe des hebr. Wortes mit dem vlat. jubilum „das Jauchzen“ aus lat. iubilare „jauchzen“, aus dieser Vermischung entstanden annus iubilaeus, daraus Jubeljahr, iubilaeum, daraus Jubiläum, und iubilarius, daraus Jubilar. Von diesen Bedeutungen zu unterscheiden sind das gleichlautende Jubel „Jauchzen, Frohlocken“ und das zugehörige Verb jubilieren, das bereits in mhd. Zeit aus lat. iubilare entlehnt wurde.",
+      "origin_group": "Wörter aus der Bibel"
+    },
+    {
+      "word": "Messias",
+      "yiddish": "",
+      "hebrew": "משיח (maschiach) „Gesalbter“",
+      "meaning_note": "abgeleitet vom Verb mạšaḥ „salben“. Im Griechischen wurde daraus wörtlich übersetzt christos, daraus lat. christus.",
+      "origin_group": "Wörter aus der Bibel"
+    },
+    {
+      "word": "Rabbiner /Rabbi",
+      "yiddish": "",
+      "hebrew": "רב (rav)",
+      "meaning_note": "über Griechisch und Kirchenlateinisch vom hebräischen Ehrentitel rabbi, eigtl. „mein Lehrer“",
+      "origin_group": "Wörter aus der Bibel"
+    },
+    {
+      "word": "Rabbiner /Rabbi",
+      "yiddish": "",
+      "hebrew": "רבּי (rabbí) „mein Lehrer“, davon jiddisch rebbe",
+      "meaning_note": "über Griechisch und Kirchenlateinisch vom hebräischen Ehrentitel rabbi, eigtl. „mein Lehrer“",
+      "origin_group": "Wörter aus der Bibel"
+    },
+    {
+      "word": "Sabbat",
+      "yiddish": "",
+      "hebrew": "שבת (schabbat) „Ruhepause“",
+      "meaning_note": "Aus dem hebräischen Schabbat wurde über das volksgriechische Sambaton der deutsche Samstag.",
+      "origin_group": "Wörter aus der Bibel"
+    },
+    {
+      "word": "Schibboleth",
+      "yiddish": "",
+      "hebrew": "שִׁבּׁלֶת (schibboleth) „Getreideähre“",
+      "meaning_note": "Kennwort der sozialen oder regionalen Herkunft, aus Ri 12,5–6 EU: „Bist du ein Ephraimiter? Wenn er nein sagte, forderten sie ihn auf: Sag doch einmal ‚Schibboleth‘. Sagte er dann ‚Sibboleth‘, weil er es nicht richtig aussprechen konnte, ergriffen sie ihn und machten ihn dort an den Fluten des Jordan nieder.“",
+      "origin_group": "Wörter aus der Bibel"
+    },
+    {
+      "word": "Tohuwabohu",
+      "yiddish": "",
+      "hebrew": "תהו ובהו (tohu wabohu) „wüst und wirr“",
+      "meaning_note": "übernommen aus Gen 1,2 EU",
+      "origin_group": "Wörter aus der Bibel"
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Wörter aus dem Jiddischen und Hebräischen - Free Download",
+    "description": "Lehnwörter im Deutschen, die aus dem Jiddischen oder Hebräischen stammen, mit jiddischer bzw. hebräischer Form und Erläuterung von Bedeutung und Herkunft. Contains 89 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Deutsche Wörter aus dem Jiddischen und Hebräischen | ListBase",
+    "seo_description": "Download Deutsche Wörter aus dem Jiddischen und Hebräischen — 89 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 89 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_deutscher_Wörter_aus_dem_Hebräischen_und_Jiddischen"
+    ]
+  }
+}

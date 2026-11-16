@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-16T02:28:51.780Z",
-  "total_datasets": 570,
-  "total_records": 1880397,
+  "generated": "2026-11-16T02:29:00.085Z",
+  "total_datasets": 571,
+  "total_records": 1880486,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "law",
@@ -6118,6 +6118,32 @@
         "xlsx": {
           "name": "de-unwort-des-jahres_DE.xlsx",
           "size": 11849
+        }
+      }
+    },
+    {
+      "id": "de-woerter-aus-hebraeisch-jiddisch",
+      "name": "Deutsche Wörter aus dem Jiddischen und Hebräischen",
+      "category": "language",
+      "record_count": 89,
+      "columns": [
+        "word",
+        "yiddish",
+        "hebrew",
+        "meaning_note",
+        "origin_group"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_deutscher_Wörter_aus_dem_Hebräischen_und_Jiddischen",
+      "updated": "2026-11",
+      "size": 32614,
+      "files": {
+        "csv": {
+          "name": "de-woerter-aus-hebraeisch-jiddisch_DE.csv",
+          "size": 21116
+        },
+        "xlsx": {
+          "name": "de-woerter-aus-hebraeisch-jiddisch_DE.xlsx",
+          "size": 16963
         }
       }
     },
