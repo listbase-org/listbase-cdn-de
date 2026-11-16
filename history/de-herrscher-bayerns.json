@@ -1,0 +1,842 @@
+{
+  "id": "de-herrscher-bayerns",
+  "name": "Herrscher Bayerns",
+  "title": "Herrscher Bayerns",
+  "description": "Chronologische Liste der Herrscher Bayerns – Stammesherzöge, karolingische Könige, Herzöge der Teilherzogtümer, Kurfürsten und Könige von Bayern bis 1918 – mit Herrschaftszeit, Dynastie und Bemerkungen.",
+  "category": "history",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Herrscher_Bayerns",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Herrscher_Bayerns",
+  "updated": "2026-11",
+  "record_count": 113,
+  "columns": [
+    {
+      "key": "territory",
+      "label": "Territory",
+      "type": "string"
+    },
+    {
+      "key": "dynasty",
+      "label": "Dynasty",
+      "type": "string"
+    },
+    {
+      "key": "reign",
+      "label": "Reign",
+      "type": "string"
+    },
+    {
+      "key": "ruler",
+      "label": "Ruler",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "territory": "Älteres Stammesherzogtum",
+      "dynasty": "Agilolfinger",
+      "reign": "ca. 555 – nach 590",
+      "ruler": "Garibald I.",
+      "note": "erster nachgewiesener Herzog von Bayern"
+    },
+    {
+      "territory": "Älteres Stammesherzogtum",
+      "dynasty": "Agilolfinger",
+      "reign": "nach 590 – um 610",
+      "ruler": "Tassilo I.",
+      "note": ""
+    },
+    {
+      "territory": "Älteres Stammesherzogtum",
+      "dynasty": "Agilolfinger",
+      "reign": "ca. 610–??",
+      "ruler": "Garibald II.",
+      "note": "Sohn des Vorgängers"
+    },
+    {
+      "territory": "Älteres Stammesherzogtum",
+      "dynasty": "Agilolfinger",
+      "reign": "ca. 680–717",
+      "ruler": "Theodo",
+      "note": "könnte sich auch um zwei Herzoge mit identischem Namen handeln, unwahrscheinlich"
+    },
+    {
+      "territory": "Älteres Stammesherzogtum",
+      "dynasty": "Agilolfinger",
+      "reign": "ca. 715-?",
+      "ruler": "Lantpert",
+      "note": "eventuell Herzog zur Zeit seines Vaters Theodo, unwahrscheinlich"
+    },
+    {
+      "territory": "Älteres Stammesherzogtum",
+      "dynasty": "Agilolfinger",
+      "reign": "ca. 715–717",
+      "ruler": "Theodolt",
+      "note": "eventuell Herzog zur Zeit seines Vaters Theodo"
+    },
+    {
+      "territory": "Älteres Stammesherzogtum",
+      "dynasty": "Agilolfinger",
+      "reign": "ca. 715–719",
+      "ruler": "Tassilo II.",
+      "note": "eventuell Herzog zur Zeit seines Vaters Theodo"
+    },
+    {
+      "territory": "Älteres Stammesherzogtum",
+      "dynasty": "Agilolfinger",
+      "reign": "ca. 715–725",
+      "ruler": "Theodpert",
+      "note": "Herzog zur Zeit seines Vaters Theodo"
+    },
+    {
+      "territory": "Älteres Stammesherzogtum",
+      "dynasty": "Agilolfinger",
+      "reign": "ca. 715–728",
+      "ruler": "Grimoald",
+      "note": "Herzog zur Zeit seines Vaters Theodo"
+    },
+    {
+      "territory": "Älteres Stammesherzogtum",
+      "dynasty": "Agilolfinger",
+      "reign": "ca. 728–736",
+      "ruler": "Hucpert",
+      "note": "Sohn Theodperts"
+    },
+    {
+      "territory": "Älteres Stammesherzogtum",
+      "dynasty": "Agilolfinger",
+      "reign": "ca. 737–748",
+      "ruler": "Odilo",
+      "note": "musste 744 die Oberherrschaft der Franken anerkennen"
+    },
+    {
+      "territory": "Älteres Stammesherzogtum",
+      "dynasty": "Agilolfinger",
+      "reign": "ca. 748–788",
+      "ruler": "Tassilo III.",
+      "note": "788 durch Karl den Großen abgesetzt"
+    },
+    {
+      "territory": "Königtum der Karolinger in Bayern",
+      "dynasty": "",
+      "reign": "788–814",
+      "ruler": "Karl der Große",
+      "note": "Herrschaftsausübung durch die Präfekten Gerold († 799) und Audulf († 819)"
+    },
+    {
+      "territory": "Königtum der Karolinger in Bayern",
+      "dynasty": "",
+      "reign": "814–817",
+      "ruler": "Lothar",
+      "note": "als (Unter-)König"
+    },
+    {
+      "territory": "Königtum der Karolinger in Bayern",
+      "dynasty": "",
+      "reign": "817–865",
+      "ruler": "Ludwig der Deutsche Der Beiname „der Deutsche“ entstammt der ersten Hälfte des 18. Jahrhunderts.",
+      "note": "seit 825 regierender König in Bayern, bzw. seit 843 König des Ostfrankenreichs"
+    },
+    {
+      "territory": "Königtum der Karolinger in Bayern",
+      "dynasty": "",
+      "reign": "865–880",
+      "ruler": "Karlmann",
+      "note": "als (Unter-)König"
+    },
+    {
+      "territory": "Königtum der Karolinger in Bayern",
+      "dynasty": "",
+      "reign": "880–882",
+      "ruler": "Ludwig III.",
+      "note": "als (Unter-)König"
+    },
+    {
+      "territory": "Königtum der Karolinger in Bayern",
+      "dynasty": "",
+      "reign": "882–887",
+      "ruler": "Karl der Dicke",
+      "note": "König des Ostfrankenreichs"
+    },
+    {
+      "territory": "Königtum der Karolinger in Bayern",
+      "dynasty": "",
+      "reign": "887–899",
+      "ruler": "Arnulf von Kärnten",
+      "note": "König des Ostfrankenreichs"
+    },
+    {
+      "territory": "Königtum der Karolinger in Bayern",
+      "dynasty": "",
+      "reign": "899–907",
+      "ruler": "Ludwig das Kind",
+      "note": "König des Ostfrankenreichs"
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Luitpoldinger",
+      "reign": "907–937",
+      "ruler": "Arnulf I. der Böse",
+      "note": "titulierte zeitweise auch als König"
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Luitpoldinger",
+      "reign": "937–938",
+      "ruler": "Eberhard",
+      "note": ""
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Luitpoldinger",
+      "reign": "938–947",
+      "ruler": "Berthold",
+      "note": ""
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Liudolfinger (Ottonen)",
+      "reign": "948–955",
+      "ruler": "Heinrich I.",
+      "note": ""
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Liudolfinger (Ottonen)",
+      "reign": "955–976",
+      "ruler": "Heinrich II. der Zänker",
+      "note": ""
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Liudolfinger (Ottonen)",
+      "reign": "976–982",
+      "ruler": "Otto I.",
+      "note": ""
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Luitpoldinger",
+      "reign": "983–985",
+      "ruler": "Heinrich III. von Kärnten",
+      "note": ""
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Liudolfinger (Ottonen)",
+      "reign": "985–995",
+      "ruler": "Heinrich II. der Zänker",
+      "note": "(zum 2. Mal)"
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Liudolfinger (Ottonen)",
+      "reign": "995–1004",
+      "ruler": "Heinrich IV.",
+      "note": "der spätere Kaiser (ab 1014) Heinrich II. † 1024"
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Luxemburger",
+      "reign": "1004–1009",
+      "ruler": "Heinrich V. von Lothringen",
+      "note": ""
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Liudolfinger (Ottonen)",
+      "reign": "1009–1017",
+      "ruler": "Heinrich IV.",
+      "note": "(zum 2. Mal)"
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Luxemburger",
+      "reign": "1017–1026",
+      "ruler": "Heinrich V. von Lothringen",
+      "note": "(zum 2. Mal)"
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Salier",
+      "reign": "1026–1027",
+      "ruler": "Das Herzogtum blieb ein Jahr unbesetzt. Konrad (I.) als deutscher König de facto Herzog.",
+      "note": ""
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Salier",
+      "reign": "1027–1042",
+      "ruler": "Heinrich VI.",
+      "note": "der spätere Kaiser Heinrich III. † 1056"
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Luxemburger",
+      "reign": "1042–1047",
+      "ruler": "Heinrich VII. von Luxemburg",
+      "note": ""
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Salier",
+      "reign": "1047–1049",
+      "ruler": "Heinrich VI.",
+      "note": "(zum 2. Mal)"
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Ezzonen",
+      "reign": "1049–1053",
+      "ruler": "Konrad I. von Zütphen (* 1020; † 1055)",
+      "note": ""
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Salier",
+      "reign": "1053–1054",
+      "ruler": "Heinrich VIII.",
+      "note": "der spätere Kaiser Heinrich IV."
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Salier",
+      "reign": "1054–1055",
+      "ruler": "Konrad II. (* 1052; † 1055)",
+      "note": ""
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Salier",
+      "reign": "1055–1061",
+      "ruler": "Agnes",
+      "note": ""
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Northeimer",
+      "reign": "1061–1070",
+      "ruler": "Otto II. von Northeim",
+      "note": ""
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Welfen",
+      "reign": "1070–1077",
+      "ruler": "Welf I.",
+      "note": ""
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Salier",
+      "reign": "1077–1095",
+      "ruler": "Heinrich VIII.",
+      "note": "(zum 2. Mal)"
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Welfen",
+      "reign": "1096–1101",
+      "ruler": "Welf I.",
+      "note": "(zum 2. Mal)"
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Welfen",
+      "reign": "1101–1120",
+      "ruler": "Welf II.",
+      "note": ""
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Welfen",
+      "reign": "1120–1126",
+      "ruler": "Heinrich IX. der Schwarze",
+      "note": ""
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Welfen",
+      "reign": "1126–1139",
+      "ruler": "Heinrich X. der Stolze",
+      "note": "auch Herzog von Sachsen"
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Babenberger",
+      "reign": "1139–1141",
+      "ruler": "Leopold",
+      "note": "auch Markgraf von Österreich"
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Staufer",
+      "reign": "1141–1143",
+      "ruler": "Konrad III.",
+      "note": ""
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Babenberger",
+      "reign": "1143–1156",
+      "ruler": "Heinrich XI. Jasomirgott",
+      "note": "auch Herzog von Österreich"
+    },
+    {
+      "territory": "Jüngeres Stammesherzogtum",
+      "dynasty": "Welfen",
+      "reign": "1156–1180",
+      "ruler": "Heinrich XII. der Löwe",
+      "note": "auch Herzog von Sachsen"
+    },
+    {
+      "territory": "Herzogtum Bayern als Territorialstaat",
+      "dynasty": "Wittelsbacher",
+      "reign": "1180–1183",
+      "ruler": "Otto I. der Rotkopf",
+      "note": ""
+    },
+    {
+      "territory": "Herzogtum Bayern als Territorialstaat",
+      "dynasty": "Wittelsbacher",
+      "reign": "1183–1231",
+      "ruler": "Ludwig I. der Kelheimer",
+      "note": "auch Pfalzgraf bei Rhein"
+    },
+    {
+      "territory": "Herzogtum Bayern als Territorialstaat",
+      "dynasty": "Wittelsbacher",
+      "reign": "1231–1253",
+      "ruler": "Otto II. der Erlauchte",
+      "note": "auch Pfalzgraf bei Rhein"
+    },
+    {
+      "territory": "Herzogtum Bayern als Territorialstaat",
+      "dynasty": "Wittelsbacher",
+      "reign": "1253–1255",
+      "ruler": "Ludwig II. der Strenge Heinrich XIII.",
+      "note": "gemeinsame Regierung über das Herzogtum Bayern und die Pfalzgrafschaft bei Rhein"
+    },
+    {
+      "territory": "Oberbayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "1253–1294",
+      "ruler": "Ludwig II. der Strenge, auch Pfalzgraf bei Rhein",
+      "note": ""
+    },
+    {
+      "territory": "Oberbayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "1294–1317",
+      "ruler": "Rudolf I., auch Pfalzgraf bei Rhein",
+      "note": ""
+    },
+    {
+      "territory": "Oberbayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "1294–1340",
+      "ruler": "Ludwig IV. der Bayer, ab 1314 römisch-deutscher König und ab 1328 Kaiser im Heiligen Römischen Reich",
+      "note": ""
+    },
+    {
+      "territory": "Niederbayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "1253–1290",
+      "ruler": "Heinrich XIII.",
+      "note": ""
+    },
+    {
+      "territory": "Niederbayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "1290–1312",
+      "ruler": "Otto III., auch König von Ungarn",
+      "note": ""
+    },
+    {
+      "territory": "Niederbayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "1290–1296",
+      "ruler": "Ludwig III.",
+      "note": ""
+    },
+    {
+      "territory": "Niederbayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "1290–1310",
+      "ruler": "Stephan I.",
+      "note": ""
+    },
+    {
+      "territory": "Niederbayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "1310–1339",
+      "ruler": "Heinrich XIV. der Ältere",
+      "note": ""
+    },
+    {
+      "territory": "Niederbayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "1310–1334",
+      "ruler": "Otto IV.",
+      "note": ""
+    },
+    {
+      "territory": "Niederbayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "1312–1333",
+      "ruler": "Heinrich XV. der Natternberger",
+      "note": ""
+    },
+    {
+      "territory": "Niederbayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "1339–1340",
+      "ruler": "Johann I. das Kind",
+      "note": ""
+    },
+    {
+      "territory": "Wiedervereinigtes Bayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "1340–1347",
+      "ruler": "Ludwig IV. der Bayer",
+      "note": "Kaiser des Hl. Röm. Reiches"
+    },
+    {
+      "territory": "Wiedervereinigtes Bayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "1347–1349",
+      "ruler": "Ludwig V., Stephan II., Ludwig VI., Wilhelm I., Albrecht I., Otto V.",
+      "note": "Gemeinsame Regierung der Söhne Ludwigs IV."
+    },
+    {
+      "territory": "Oberbayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "1349–1361",
+      "ruler": "Ludwig V. der Brandenburger, auch Graf von Tirol und 1323 bis 1351 Markgraf von Brandenburg",
+      "note": ""
+    },
+    {
+      "territory": "Oberbayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "1349–1351",
+      "ruler": "Ludwig VI. der Römer, ab 1351 Markgraf und Kurfürst von Brandenburg",
+      "note": ""
+    },
+    {
+      "territory": "Oberbayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "1349–1351",
+      "ruler": "Otto V. der Faule, ab 1351 Markgraf und Kurfürst von Brandenburg",
+      "note": ""
+    },
+    {
+      "territory": "Oberbayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "1361–1363",
+      "ruler": "Meinhard, auch Graf von Tirol",
+      "note": ""
+    },
+    {
+      "territory": "Bayern-Landshut",
+      "dynasty": "Wittelsbacher",
+      "reign": "1349–1375",
+      "ruler": "Stephan II. mit der Hafte",
+      "note": ""
+    },
+    {
+      "territory": "Bayern-Landshut",
+      "dynasty": "Wittelsbacher",
+      "reign": "1373–1379",
+      "ruler": "Otto V.",
+      "note": ""
+    },
+    {
+      "territory": "Bayern-Landshut",
+      "dynasty": "Wittelsbacher",
+      "reign": "1375–1392",
+      "ruler": "Stephan III., Friedrich, Johann II.",
+      "note": ""
+    },
+    {
+      "territory": "Straubing-Holland",
+      "dynasty": "Wittelsbacher",
+      "reign": "1349–1389",
+      "ruler": "Wilhelm I., auch Graf von Holland, Seeland und Hennegau",
+      "note": ""
+    },
+    {
+      "territory": "Straubing-Holland",
+      "dynasty": "Wittelsbacher",
+      "reign": "1349–1404",
+      "ruler": "Albrecht I. und Albrecht II. † 1397, auch Grafen von Holland, Seeland und Hennegau",
+      "note": ""
+    },
+    {
+      "territory": "Straubing-Holland",
+      "dynasty": "Wittelsbacher",
+      "reign": "1404–1417",
+      "ruler": "Wilhelm II., auch Graf von Holland, Seeland und Hennegau",
+      "note": ""
+    },
+    {
+      "territory": "Straubing-Holland",
+      "dynasty": "Wittelsbacher",
+      "reign": "1404–1425",
+      "ruler": "Johann III. Ohnegnade, auch Graf von Holland, Seeland und Hennegau",
+      "note": ""
+    },
+    {
+      "territory": "Bayern-Ingolstadt",
+      "dynasty": "Wittelsbacher",
+      "reign": "1392–1413",
+      "ruler": "Stephan III. der Kneißel",
+      "note": ""
+    },
+    {
+      "territory": "Bayern-Ingolstadt",
+      "dynasty": "Wittelsbacher",
+      "reign": "1413–1447",
+      "ruler": "Ludwig VII. der Bärtige",
+      "note": ""
+    },
+    {
+      "territory": "Bayern-Ingolstadt",
+      "dynasty": "Wittelsbacher",
+      "reign": "1438–1445",
+      "ruler": "Ludwig VIII. der Jüngere",
+      "note": ""
+    },
+    {
+      "territory": "Bayern-Landshut",
+      "dynasty": "Wittelsbacher",
+      "reign": "1392–1393",
+      "ruler": "Friedrich der Weise",
+      "note": ""
+    },
+    {
+      "territory": "Bayern-Landshut",
+      "dynasty": "Wittelsbacher",
+      "reign": "1393–1450",
+      "ruler": "Heinrich XVI. der Reiche",
+      "note": ""
+    },
+    {
+      "territory": "Bayern-Landshut",
+      "dynasty": "Wittelsbacher",
+      "reign": "1450–1479",
+      "ruler": "Ludwig IX. der Reiche",
+      "note": ""
+    },
+    {
+      "territory": "Bayern-Landshut",
+      "dynasty": "Wittelsbacher",
+      "reign": "1479–1503",
+      "ruler": "Georg der Reiche",
+      "note": ""
+    },
+    {
+      "territory": "Bayern-München",
+      "dynasty": "Wittelsbacher",
+      "reign": "1392–1397",
+      "ruler": "Johann II.",
+      "note": ""
+    },
+    {
+      "territory": "Bayern-München",
+      "dynasty": "Wittelsbacher",
+      "reign": "1397–1438",
+      "ruler": "Ernst",
+      "note": ""
+    },
+    {
+      "territory": "Bayern-München",
+      "dynasty": "Wittelsbacher",
+      "reign": "1397–1435",
+      "ruler": "Wilhelm III.",
+      "note": ""
+    },
+    {
+      "territory": "Bayern-München",
+      "dynasty": "Wittelsbacher",
+      "reign": "1435–1441",
+      "ruler": "Adolf",
+      "note": ""
+    },
+    {
+      "territory": "Bayern-München",
+      "dynasty": "Wittelsbacher",
+      "reign": "1438–1460",
+      "ruler": "Albrecht III. der Fromme",
+      "note": ""
+    },
+    {
+      "territory": "Bayern-München",
+      "dynasty": "Wittelsbacher",
+      "reign": "1460–1463",
+      "ruler": "Johann IV.",
+      "note": ""
+    },
+    {
+      "territory": "Bayern-München",
+      "dynasty": "Wittelsbacher",
+      "reign": "1460–1467",
+      "ruler": "Siegmund",
+      "note": ""
+    },
+    {
+      "territory": "Bayern-München",
+      "dynasty": "Wittelsbacher",
+      "reign": "1465–1508",
+      "ruler": "Albrecht IV. der Weise",
+      "note": ""
+    },
+    {
+      "territory": "Wiedervereinigtes Herzogtum Bayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "30. Juli 1505 – 18. März 1508",
+      "ruler": "Albrecht IV., der Weise",
+      "note": "vereinigte nach dem Landshuter Erbfolgekrieg Bayern in seiner Hand; sorgte durch das Primogeniturgesetz vom 8. Juli 1506 dafür, dass Bayern künftig nicht mehr geteilt wurde."
+    },
+    {
+      "territory": "Wiedervereinigtes Herzogtum Bayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "18. März 1508 – 6. März 1550",
+      "ruler": "Wilhelm IV.",
+      "note": "Sohn von Albrecht dem Weisen; regierte gemeinsam mit seinem Bruder Ludwig"
+    },
+    {
+      "territory": "Wiedervereinigtes Herzogtum Bayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "17. Februar 1514 – 22. April 1545",
+      "ruler": "Ludwig X.",
+      "note": "regierte gemeinsam mit seinem Bruder Wilhelm; hatte seine Residenz in Landshut"
+    },
+    {
+      "territory": "Wiedervereinigtes Herzogtum Bayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "6. März 1550 – 24. Oktober 1579",
+      "ruler": "Albrecht V., der Großmütige",
+      "note": "Sohn von Wilhelm IV."
+    },
+    {
+      "territory": "Wiedervereinigtes Herzogtum Bayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "24. Oktober 1579 – 15. Oktober 1597",
+      "ruler": "Wilhelm V., der Fromme",
+      "note": "Sohn von Albrecht dem Großmütigen; dankte zugunsten seines Sohnes ab"
+    },
+    {
+      "territory": "Wiedervereinigtes Herzogtum Bayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "15. Oktober 1597 – 23. Februar 1623",
+      "ruler": "Maximilian I.",
+      "note": "seit 1597 bereits Mitregent seines Vaters Wilhelm; wurde 1623 zum Kurfürsten erhoben, das Herzogtum wurde dadurch zum Kurfürstentum Bayern"
+    },
+    {
+      "territory": "Kurfürstentum Bayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "25. Februar 1623 – 27. September 1651",
+      "ruler": "Maximilian I.",
+      "note": "seit 1597 bereits bayerischer Herzog, 1623 ging die Pfälzer Kurfürstenwürde an ihn über."
+    },
+    {
+      "territory": "Kurfürstentum Bayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "27. September 1651 – 26. Mai 1679",
+      "ruler": "Ferdinand Maria",
+      "note": "regierte in den ersten Jahren unter der Vormundschaft seiner Mutter Maria Anna. Sein Onkel Herzog Albrecht fungierte dabei als Landesadministrator"
+    },
+    {
+      "territory": "Kurfürstentum Bayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "26. Mai 1679 – 26. Februar 1726",
+      "ruler": "Maximilian II. Emanuel",
+      "note": "bis 1680 unter der Vormundschaft seines Onkels Maximilian Philipp von Leuchtenberg. 1692-1706 auch Statthalter der Spanischen Niederlande. 1705-1714 Kaiserliche Administration in Bayern"
+    },
+    {
+      "territory": "Kurfürstentum Bayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "26. Februar 1726 – 20. Januar 1745",
+      "ruler": "Karl I. Albrecht",
+      "note": "ab 1742 als Karl VII. auch Kaiser des Heiligen Römischen Reiches"
+    },
+    {
+      "territory": "Kurfürstentum Bayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "20. Januar 1745 – 30. Dezember 1777",
+      "ruler": "Maximilian III. Joseph",
+      "note": "mit ihm starb die bayerische Linie der Wittelsbacher aus"
+    },
+    {
+      "territory": "Kurfürstentum Bayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "30. Dezember 1777 – 16. Februar 1799",
+      "ruler": "Karl II. Theodor",
+      "note": "entstammte dem Haus Pfalz-Sulzbach; als Karl IV. Theodor seit 1743 auch Kurfürst von der Pfalz sowie Herzog von Jülich und Berg sowie Pfalz-Neuburg"
+    },
+    {
+      "territory": "Kurfürstentum Bayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "16. Februar 1799 – 31. Dezember 1805",
+      "ruler": "Maximilian IV. Joseph",
+      "note": "entstammte wie alle folgenden Monarchen dem Haus Pfalz-Zweibrücken; wurde 1806 nach der Erhebung Bayerns zum Königreich Bayern als Maximilian I. Joseph der erste bayerische König."
+    },
+    {
+      "territory": "Königreich Bayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "1. Januar 1806 – 13. Oktober 1825",
+      "ruler": "Maximilian I. Joseph",
+      "note": "seit 1799 als Maximilian IV. Joseph Kurfürst"
+    },
+    {
+      "territory": "Königreich Bayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "13. Oktober 1825 – 20. März 1848",
+      "ruler": "Ludwig I.",
+      "note": "Sohn Maximilians I.; dankte während der Revolution von 1848 aufgrund seiner Affäre mit der Tänzerin Lola Montez ab."
+    },
+    {
+      "territory": "Königreich Bayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "20. März 1848 – 10. März 1864",
+      "ruler": "Maximilian II. Joseph",
+      "note": "Sohn Ludwigs I."
+    },
+    {
+      "territory": "Königreich Bayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "10. März 1864 – 13. Juni 1886",
+      "ruler": "Ludwig II.",
+      "note": "ältester Sohn Maximilians II.; wurde am 10. Juni 1886 für amtsunfähig erklärt"
+    },
+    {
+      "territory": "Königreich Bayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "13. Juni 1886 – 11. Oktober 1916",
+      "ruler": "Otto I.",
+      "note": "Sohn Maximilians II. und jüngerer Bruder Ludwigs II.; er war von Beginn seiner Herrschaft an amtsunfähig, weswegen für ihn zwei Prinzregenten regierten: Luitpold (10. Juni 1886 – 12. Dezember 1912), Sohn Ludwigs I., Bruder Maximilians II. sowie Onkel Ludwigs II. und Ottos I. Ludwig (12. Dezember 1912 – 5. November 1913), Sohn Luitpolds und Vetter Ludwigs II. und Ottos I. 1913 wurde Prinzregent Ludwig (III.) zum König erklärt; Otto blieb jedoch bis zu seinem Tod in Amt und Würden"
+    },
+    {
+      "territory": "Königreich Bayern",
+      "dynasty": "Wittelsbacher",
+      "reign": "5. November 1913 – 7. November 1918",
+      "ruler": "Ludwig III.",
+      "note": "war bis 1913 Prinzregent; wurde in der Novemberrevolution abgesetzt, markierte damit das Ende von 738 Jahren ununterbrochener Wittelsbacherherrschaft"
+    }
+  ],
+  "meta": {
+    "title": "Herrscher Bayerns - Free Download",
+    "description": "Chronologische Liste der Herrscher Bayerns – Stammesherzöge, karolingische Könige, Herzöge der Teilherzogtümer, Kurfürsten und Könige von Bayern bis 1918 – mit Herrschaftszeit, Dynastie und Bemerkungen. Contains 113 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Herrscher Bayerns | ListBase",
+    "seo_description": "Download Herrscher Bayerns — 113 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 113 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Herrscher_Bayerns"
+    ]
+  }
+}

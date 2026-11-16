@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-15T02:23:04.512Z",
-  "total_datasets": 568,
-  "total_records": 1879905,
+  "generated": "2026-11-16T02:28:33.018Z",
+  "total_datasets": 569,
+  "total_records": 1880018,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -5814,6 +5814,32 @@
         "xlsx": {
           "name": "de-ch-kriege-schlachten_DE.xlsx",
           "size": 19346
+        }
+      }
+    },
+    {
+      "id": "de-herrscher-bayerns",
+      "name": "Herrscher Bayerns",
+      "category": "history",
+      "record_count": 113,
+      "columns": [
+        "territory",
+        "dynasty",
+        "reign",
+        "ruler",
+        "note"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Herrscher_Bayerns",
+      "updated": "2026-11",
+      "size": 26135,
+      "files": {
+        "csv": {
+          "name": "de-herrscher-bayerns_DE.csv",
+          "size": 13473
+        },
+        "xlsx": {
+          "name": "de-herrscher-bayerns_DE.xlsx",
+          "size": 12699
         }
       }
     },
