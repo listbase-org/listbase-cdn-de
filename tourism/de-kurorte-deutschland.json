@@ -1,0 +1,2320 @@
+{
+  "id": "de-kurorte-deutschland",
+  "name": "Kurorte in Deutschland",
+  "title": "Kurorte in Deutschland",
+  "description": "Staatlich anerkannte Kurorte und Heilbäder in Deutschland mit Landkreis, Bundesland und Prädikat (z. B. Heilbad, Kneippheilbad, Heilklimatischer Kurort, Seebad).",
+  "category": "tourism",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Kurorte_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Kurorte_in_Deutschland",
+  "updated": "2026-11",
+  "record_count": 379,
+  "columns": [
+    {
+      "key": "spa_town",
+      "label": "Spa Town",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "designation",
+      "label": "Designation",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "spa_town": "Aachen",
+      "district": "Städteregion Aachen",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Aalen (Stadtbezirk Wasseralfingen (Röthardt))",
+      "district": "Ostalbkreis",
+      "state": "Baden-Württemberg",
+      "designation": "Heilklimatischer Kurort, Heilstollen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Ahlbeck (Gemeinde Heringsdorf)",
+      "district": "Landkreis Vorpommern-Greifswald",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Ahrenshoop",
+      "district": "Landkreis Vorpommern-Rügen",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Altenau (Berg- und Universitätsstadt Clausthal-Zellerfeld)",
+      "district": "Landkreis Goslar",
+      "state": "Niedersachsen",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Aue-Bad Schlema (nur Ortsteile Bad Schlema und Wildbach)",
+      "district": "Erzgebirgskreis",
+      "state": "Sachsen",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Aulendorf",
+      "district": "Landkreis Ravensburg",
+      "state": "Baden-Württemberg",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Baabe",
+      "district": "Landkreis Vorpommern-Rügen",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Baden-Baden",
+      "district": "—",
+      "state": "Baden-Württemberg",
+      "designation": "Mineralheilbad"
+    },
+    {
+      "spa_town": "Badenweiler",
+      "district": "Landkreis Breisgau-Hochschwarzwald",
+      "state": "Baden-Württemberg",
+      "designation": "Thermalheilbad"
+    },
+    {
+      "spa_town": "Bad Abbach",
+      "district": "Landkreis Kelheim",
+      "state": "Bayern",
+      "designation": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Aibling",
+      "district": "Landkreis Rosenheim",
+      "state": "Bayern",
+      "designation": "Moorheilbad, Thermalbad"
+    },
+    {
+      "spa_town": "Bad Alexandersbad",
+      "district": "Landkreis Wunsiedel im Fichtelgebirge",
+      "state": "Bayern",
+      "designation": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Arolsen",
+      "district": "Landkreis Waldeck-Frankenberg",
+      "state": "Hessen",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Bayersoien",
+      "district": "Landkreis Garmisch-Partenkirchen",
+      "state": "Bayern",
+      "designation": "Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Bederkesa (Stadt Geestland)",
+      "district": "Landkreis Cuxhaven",
+      "state": "Niedersachsen",
+      "designation": "Ort mit Moor-Kurbetrieb"
+    },
+    {
+      "spa_town": "Bad Bellingen",
+      "district": "Landkreis Lörrach",
+      "state": "Baden-Württemberg",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Belzig",
+      "district": "Landkreis Potsdam-Mittelmark",
+      "state": "Brandenburg",
+      "designation": "Thermalsoleheilbad"
+    },
+    {
+      "spa_town": "Bad Bentheim",
+      "district": "Landkreis Grafschaft Bentheim",
+      "state": "Niedersachsen",
+      "designation": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Bergzabern",
+      "district": "Landkreis Südliche Weinstraße",
+      "state": "Rheinland-Pfalz",
+      "designation": "Heilklimatischer Kurort, Kneippheilbad"
+    },
+    {
+      "spa_town": "Bad Berka",
+      "district": "Landkreis Weimarer Land",
+      "state": "Thüringen",
+      "designation": "Ort mit Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Bad Berleburg",
+      "district": "Kreis Siegen-Wittgenstein",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Kneippheilbad"
+    },
+    {
+      "spa_town": "Bad Berneck im Fichtelgebirge",
+      "district": "Landkreis Bayreuth",
+      "state": "Bayern",
+      "designation": "Kneippheilbad"
+    },
+    {
+      "spa_town": "Bad Bertrich",
+      "district": "Landkreis Cochem-Zell",
+      "state": "Rheinland-Pfalz",
+      "designation": "Thermal-Mineralheilbad"
+    },
+    {
+      "spa_town": "Bad Bevensen",
+      "district": "Landkreis Uelzen",
+      "state": "Niedersachsen",
+      "designation": "Jodsoleheilbad"
+    },
+    {
+      "spa_town": "Bad Birnbach",
+      "district": "Landkreis Rottal-Inn",
+      "state": "Bayern",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Bocklet",
+      "district": "Landkreis Bad Kissingen",
+      "state": "Bayern",
+      "designation": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Bodenteich",
+      "district": "Landkreis Uelzen",
+      "state": "Niedersachsen",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Bad Brambach (nur Hauptort)",
+      "district": "Vogtlandkreis",
+      "state": "Sachsen",
+      "designation": "Mineralheilbad"
+    },
+    {
+      "spa_town": "Bad Bramstedt",
+      "district": "Kreis Segeberg",
+      "state": "Schleswig-Holstein",
+      "designation": "Moorbad, Solebad"
+    },
+    {
+      "spa_town": "Bad Breisig",
+      "district": "Landkreis Ahrweiler",
+      "state": "Rheinland-Pfalz",
+      "designation": "Mineralheilbad"
+    },
+    {
+      "spa_town": "Bad Brückenau",
+      "district": "Landkreis Bad Kissingen",
+      "state": "Bayern",
+      "designation": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Buchau",
+      "district": "Landkreis Biberach",
+      "state": "Baden-Württemberg",
+      "designation": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Wörishofen",
+      "district": "Landkreis Mindelheim",
+      "state": "Bayern",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Bad Boll (Gemeinde Bad Boll)",
+      "district": "Landkreis Göppingen",
+      "state": "Baden-Württemberg",
+      "designation": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Bad Camberg",
+      "district": "Landkreis Limburg-Weilburg",
+      "state": "Hessen",
+      "designation": "Kneippheilbad"
+    },
+    {
+      "spa_town": "Bad Cannstatt (Stadt Stuttgart)",
+      "district": "—",
+      "state": "Baden-Württemberg",
+      "designation": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Bad Colberg (Stadt Heldburg)",
+      "district": "Landkreis Hildburghausen",
+      "state": "Thüringen",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Ditzenbach",
+      "district": "Landkreis Göppingen",
+      "state": "Baden-Württemberg",
+      "designation": "Thermal-Mineralheilbad"
+    },
+    {
+      "spa_town": "Bad Doberan",
+      "district": "Landkreis Rostock",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Driburg",
+      "district": "Kreis Höxter",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Düben (nur Hauptort)",
+      "district": "Landkreis Nordsachsen",
+      "state": "Sachsen",
+      "designation": "Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Dürkheim",
+      "district": "Landkreis Bad Dürkheim",
+      "state": "Rheinland-Pfalz",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Dürrheim",
+      "district": "Schwarzwald-Baar-Kreis",
+      "state": "Baden-Württemberg",
+      "designation": "Soleheilbad, Heilklimatischer Kurort, Kneippkurort"
+    },
+    {
+      "spa_town": "Bad Eilsen",
+      "district": "Landkreis Schaumburg",
+      "state": "Niedersachsen",
+      "designation": "Ort mit Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Bad Elster (nur Hauptort und Ortsteil Sohl)",
+      "district": "Vogtlandkreis",
+      "state": "Sachsen",
+      "designation": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Ems",
+      "district": "Rhein-Lahn-Kreis",
+      "state": "Rheinland-Pfalz",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Emstal",
+      "district": "Landkreis Kassel",
+      "state": "Hessen",
+      "designation": "Mineralheilbad"
+    },
+    {
+      "spa_town": "Bad Endbach",
+      "district": "Landkreis Marburg-Biedenkopf",
+      "state": "Hessen",
+      "designation": "Kneippheilbad"
+    },
+    {
+      "spa_town": "Bad Endorf",
+      "district": "Landkreis Rosenheim",
+      "state": "Bayern",
+      "designation": "Jod-Thermalbad"
+    },
+    {
+      "spa_town": "Bad Essen",
+      "district": "Landkreis Osnabrück",
+      "state": "Niedersachsen",
+      "designation": "Ort mit Sole-Kurbetrieb"
+    },
+    {
+      "spa_town": "Bad Fallingbostel",
+      "district": "Landkreis Heidekreis",
+      "state": "Niedersachsen",
+      "designation": "Kneippheilbad"
+    },
+    {
+      "spa_town": "Bad Faulenbach (Stadt Füssen)",
+      "district": "Landkreis Ostallgäu",
+      "state": "Bayern",
+      "designation": "Mineralheilbad, Moorheilbad, Kneippkurort"
+    },
+    {
+      "spa_town": "Bad Feilnbach",
+      "district": "Landkreis Rosenheim",
+      "state": "Bayern",
+      "designation": "Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Frankenhausen",
+      "district": "Kyffhäuserkreis",
+      "state": "Thüringen",
+      "designation": "Soleheilbad"
+    },
+    {
+      "spa_town": "Bad Fredeburg (Stadt Schmallenberg)",
+      "district": "Hochsauerlandkreis",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Kneippheilbad"
+    },
+    {
+      "spa_town": "Bad Freienwalde (Oder)",
+      "district": "Landkreis Märkisch-Oderland",
+      "state": "Brandenburg",
+      "designation": "Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Füssing",
+      "district": "Landkreis Passau",
+      "state": "Bayern",
+      "designation": "Thermal-Mineralheilbad"
+    },
+    {
+      "spa_town": "Bad Gandersheim",
+      "district": "Landkreis Northeim",
+      "state": "Niedersachsen",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Gögging (Stadt Neustadt an der Donau)",
+      "district": "Landkreis Kelheim",
+      "state": "Bayern",
+      "designation": "Moorheilbad, Schwefelheilbad"
+    },
+    {
+      "spa_town": "Bad Gottleuba-Berggießhübel (nur Ortsteile Bad Gottleuba und Berggießhübel)",
+      "district": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "state": "Sachsen",
+      "designation": "Moorheilbad bzw. Kneippkurort"
+    },
+    {
+      "spa_town": "Bad Griesbach im Rottal",
+      "district": "Landkreis Passau",
+      "state": "Bayern",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Grönenbach",
+      "district": "Landkreis Unterallgäu",
+      "state": "Bayern",
+      "designation": "Kneippheilbad"
+    },
+    {
+      "spa_town": "Bad Grund",
+      "district": "Landkreis Göttingen",
+      "state": "Niedersachsen",
+      "designation": "Ort mit Heilstollen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Bad Harzburg",
+      "district": "Landkreis Goslar",
+      "state": "Niedersachsen",
+      "designation": "Soleheilbad"
+    },
+    {
+      "spa_town": "Bad Heilbrunn",
+      "district": "Landkreis Bad Tölz-Wolfratshausen",
+      "state": "Bayern",
+      "designation": "Mineralheilbad"
+    },
+    {
+      "spa_town": "Bad Hermannsborn (Stadt Bad Driburg)",
+      "district": "Kreis Höxter",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Bad Herrenalb",
+      "district": "Landkreis Calw",
+      "state": "Baden-Württemberg",
+      "designation": "Mineralheilbad, Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Bad Hersfeld",
+      "district": "Landkreis Hersfeld-Rotenburg",
+      "state": "Hessen",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Hindelang",
+      "district": "Landkreis Oberallgäu",
+      "state": "Bayern",
+      "designation": "Kneippheilbad, Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Bad Holzhausen (Stadt Preußisch Oldendorf)",
+      "district": "Kreis Minden-Lübbecke",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Hönningen",
+      "district": "Landkreis Neuwied",
+      "state": "Rheinland-Pfalz",
+      "designation": "Thermal-Mineralheilbad"
+    },
+    {
+      "spa_town": "Bad Homburg vor der Höhe",
+      "district": "Hochtaunuskreis",
+      "state": "Hessen",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Hopfenberg (Stadt Petershagen)",
+      "district": "Kreis Minden-Lübbecke",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Iburg",
+      "district": "Landkreis Osnabrück",
+      "state": "Niedersachsen",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Bad Imnau (Stadt Haigerloch)",
+      "district": "Zollernalbkreis",
+      "state": "Baden-Württemberg",
+      "designation": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Bad Karlshafen",
+      "district": "Landkreis Kassel",
+      "state": "Hessen",
+      "designation": "Soleheilbad"
+    },
+    {
+      "spa_town": "Bad Kissingen",
+      "district": "Landkreis Bad Kissingen",
+      "state": "Bayern",
+      "designation": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Klosterlausnitz",
+      "district": "Saale-Holzland-Kreis",
+      "state": "Thüringen",
+      "designation": "Moorheilbad"
+    },
+    {
+      "spa_town": "Bad König",
+      "district": "Odenwaldkreis",
+      "state": "Hessen",
+      "designation": "Thermalheilbad"
+    },
+    {
+      "spa_town": "Bad Königshofen im Grabfeld",
+      "district": "Landkreis Rhön-Grabfeld",
+      "state": "Bayern",
+      "designation": "Mineralheilbad"
+    },
+    {
+      "spa_town": "Bad Kösen (Stadt Naumburg (Saale))",
+      "district": "Burgenlandkreis",
+      "state": "Sachsen-Anhalt",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Kötzting",
+      "district": "Landkreis Cham",
+      "state": "Bayern",
+      "designation": "Kneippheilbad"
+    },
+    {
+      "spa_town": "Bad Kohlgrub",
+      "district": "Landkreis Garmisch-Partenkirchen",
+      "state": "Bayern",
+      "designation": "Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Kreuznach",
+      "district": "Landkreis Bad Kreuznach",
+      "state": "Rheinland-Pfalz",
+      "designation": "Mineralheilbad, Radonheilbad"
+    },
+    {
+      "spa_town": "Bad Krozingen",
+      "district": "Landkreis Breisgau-Hochschwarzwald",
+      "state": "Baden-Württemberg",
+      "designation": "Thermal-Mineralheilbad"
+    },
+    {
+      "spa_town": "Bad Laasphe",
+      "district": "Kreis Siegen-Wittgenstein",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Kneippheilbad"
+    },
+    {
+      "spa_town": "Bad Laer",
+      "district": "Landkreis Osnabrück",
+      "state": "Niedersachsen",
+      "designation": "Soleheilbad"
+    },
+    {
+      "spa_town": "Bad Langensalza",
+      "district": "Unstrut-Hainich-Kreis",
+      "state": "Thüringen",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Lausick (nur Hauptort)",
+      "district": "Landkreis Leipzig",
+      "state": "Sachsen",
+      "designation": "Heilbad, Kneippkurort"
+    },
+    {
+      "spa_town": "Bad Lauterberg",
+      "district": "Landkreis Göttingen",
+      "state": "Niedersachsen",
+      "designation": "Kneippheilbad"
+    },
+    {
+      "spa_town": "Bad Liebenstein",
+      "district": "Wartburgkreis",
+      "state": "Thüringen",
+      "designation": "Mineralheilbad"
+    },
+    {
+      "spa_town": "Bad Liebenwerda",
+      "district": "Landkreis Elbe-Elster",
+      "state": "Brandenburg",
+      "designation": "Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Liebenzell",
+      "district": "Landkreis Calw",
+      "state": "Baden-Württemberg",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Malente-Gremsmühlen (Gemeinde Malente)",
+      "district": "Kreis Ostholstein",
+      "state": "Schleswig-Holstein",
+      "designation": "Kneippheilbad, Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Bad Marienberg (Westerwald)",
+      "district": "Westerwaldkreis",
+      "state": "Rheinland-Pfalz",
+      "designation": "Kneippheilbad"
+    },
+    {
+      "spa_town": "Bad Meinberg (Stadt Horn-Bad Meinberg)",
+      "district": "Kreis Lippe",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Mergentheim",
+      "district": "Main-Tauber-Kreis",
+      "state": "Baden-Württemberg",
+      "designation": "Mineralheilbad"
+    },
+    {
+      "spa_town": "Bad Münder am Deister",
+      "district": "Landkreis Hameln-Pyrmont",
+      "state": "Niedersachsen",
+      "designation": "Ort mit Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Bad Münster am Stein-Ebernburg (Stadt Bad Kreuznach)",
+      "district": "Landkreis Bad Kreuznach",
+      "state": "Rheinland-Pfalz",
+      "designation": "Radonheilbad, Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Bad Münstereifel",
+      "district": "Kreis Euskirchen",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Kneippheilbad"
+    },
+    {
+      "spa_town": "Bad Muskau",
+      "district": "Landkreis Görlitz",
+      "state": "Sachsen",
+      "designation": "Ort mit Moor-Kurbetrieb"
+    },
+    {
+      "spa_town": "Bad Nauheim",
+      "district": "Wetteraukreis",
+      "state": "Hessen",
+      "designation": "Thermal-Mineralbad"
+    },
+    {
+      "spa_town": "Bad Nenndorf",
+      "district": "Landkreis Schaumburg",
+      "state": "Niedersachsen",
+      "designation": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Neuenahr-Ahrweiler",
+      "district": "Landkreis Ahrweiler",
+      "state": "Rheinland-Pfalz",
+      "designation": "Mineralbad"
+    },
+    {
+      "spa_town": "Bad Neustadt an der Saale",
+      "district": "Landkreis Rhön-Grabfeld",
+      "state": "Bayern",
+      "designation": "Moorheilbad, Soleheilbad"
+    },
+    {
+      "spa_town": "Bad Niedernau (Stadt Rottenburg am Neckar)",
+      "district": "Landkreis Tübingen",
+      "state": "Baden-Württemberg",
+      "designation": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Oberdorf",
+      "district": "Landkreis Oberallgäu",
+      "state": "Bayern",
+      "designation": "Heilklimatischer Kurort, Kneippkurort, Schwefel-Thermalquelle"
+    },
+    {
+      "spa_town": "Bad Oeynhausen",
+      "district": "Kreis Minden-Lübbecke",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Mineralheilbad"
+    },
+    {
+      "spa_town": "Bad Orb",
+      "district": "Main-Kinzig-Kreis",
+      "state": "Hessen",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Peterstal-Griesbach",
+      "district": "Ortenaukreis",
+      "state": "Baden-Württemberg",
+      "designation": "Mineralheilbad, Moorheilbad, Kneippkurort"
+    },
+    {
+      "spa_town": "Bad Pyrmont",
+      "district": "Landkreis Hameln-Pyrmont",
+      "state": "Niedersachsen",
+      "designation": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Rappenau",
+      "district": "Landkreis Heilbronn",
+      "state": "Baden-Württemberg",
+      "designation": "Soleheilbad"
+    },
+    {
+      "spa_town": "Bad Reichenhall",
+      "district": "Landkreis Berchtesgadener Land",
+      "state": "Bayern",
+      "designation": "Soleheilbad"
+    },
+    {
+      "spa_town": "Bad Rippoldsau-Schapbach",
+      "district": "Landkreis Freudenstadt",
+      "state": "Baden-Württemberg",
+      "designation": "Mineralbad, Moorbad"
+    },
+    {
+      "spa_town": "Bad Rodach",
+      "district": "Landkreis Coburg",
+      "state": "Bayern",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Rotenfels (Stadt Gaggenau)",
+      "district": "Landkreis Rastatt",
+      "state": "Baden-Württemberg",
+      "designation": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Bad Rothenfelde",
+      "district": "Landkreis Osnabrück",
+      "state": "Niedersachsen",
+      "designation": "Soleheilbad"
+    },
+    {
+      "spa_town": "Bad Lippspringe",
+      "district": "Kreis Paderborn",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Heilbad, Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Bad Lobenstein",
+      "district": "Saale-Orla-Kreis",
+      "state": "Thüringen",
+      "designation": "Moorbad"
+    },
+    {
+      "spa_town": "Bad Saarow",
+      "district": "Landkreis Oder-Spree",
+      "state": "Brandenburg",
+      "designation": "Moorheilbad, Thermalsoleheilbad"
+    },
+    {
+      "spa_town": "Bad Sachsa",
+      "district": "Landkreis Göttingen",
+      "state": "Niedersachsen",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Bad Salzungen",
+      "district": "Wartburgkreis",
+      "state": "Thüringen",
+      "designation": "Soleheilbad"
+    },
+    {
+      "spa_town": "Bad Salzdetfurth",
+      "district": "Landkreis Hildesheim",
+      "state": "Niedersachsen",
+      "designation": "Moorheilbad, Soleheilbad"
+    },
+    {
+      "spa_town": "Bad Salzelmen (Stadt Schönebeck (Elbe))",
+      "district": "Salzlandkreis",
+      "state": "Sachsen-Anhalt",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Salzig (Stadt Boppard)",
+      "district": "Rhein-Hunsrück-Kreis",
+      "state": "Rheinland-Pfalz",
+      "designation": "Mineralheilbad"
+    },
+    {
+      "spa_town": "Bad Salzschlirf",
+      "district": "Landkreis Fulda",
+      "state": "Hessen",
+      "designation": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Salzuflen",
+      "district": "Kreis Lippe",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Mineralheilbad, Soleheilbad, Kneippkurort"
+    },
+    {
+      "spa_town": "Bad Soden-Salmünster",
+      "district": "Main-Kinzig-Kreis",
+      "state": "Hessen",
+      "designation": "Mineralheilbad"
+    },
+    {
+      "spa_town": "Bad Sooden-Allendorf",
+      "district": "Werra-Meißner-Kreis",
+      "state": "Hessen",
+      "designation": "Soleheilbad"
+    },
+    {
+      "spa_town": "Bad Staffelstein",
+      "district": "Landkreis Lichtenfels",
+      "state": "Bayern",
+      "designation": "Thermalsolebad"
+    },
+    {
+      "spa_town": "Bad Steben",
+      "district": "Landkreis Hof",
+      "state": "Bayern",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Sulza",
+      "district": "Landkreis Weimarer Land",
+      "state": "Thüringen",
+      "designation": "Soleheilbad"
+    },
+    {
+      "spa_town": "Bad Sülze",
+      "district": "Landkreis Vorpommern-Rügen",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Moorheilbad, Soleheilbad, Peloid-Kurbetrieb"
+    },
+    {
+      "spa_town": "Bad Tabarz",
+      "district": "Landkreis Gotha",
+      "state": "Thüringen",
+      "designation": "Kneippheilbad"
+    },
+    {
+      "spa_town": "Bad Sassendorf",
+      "district": "Kreis Soest",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Saulgau",
+      "district": "Landkreis Sigmaringen",
+      "state": "Baden-Württemberg",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Schandau (nur Gemeindeteile Bad Schandau, Krippen, Ostrau, Schmilka)",
+      "district": "Landkreis Sächsische Schweiz-Osterzgebirge",
+      "state": "Sachsen",
+      "designation": "Kneippheilbad"
+    },
+    {
+      "spa_town": "Bad Schmiedeberg",
+      "district": "Landkreis Wittenberg",
+      "state": "Sachsen-Anhalt",
+      "designation": "Mineralheilbad, Moorheilbad, Kneippheilbad"
+    },
+    {
+      "spa_town": "Bad Schönborn",
+      "district": "Landkreis Karlsruhe",
+      "state": "Baden-Württemberg",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Säckingen",
+      "district": "Landkreis Waldshut",
+      "state": "Baden-Württemberg",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Salzhausen (Stadt Nidda)",
+      "district": "Wetteraukreis",
+      "state": "Hessen",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Schussenried",
+      "district": "Landkreis Biberach",
+      "state": "Baden-Württemberg",
+      "designation": "Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Schwalbach",
+      "district": "Rheingau-Taunus-Kreis",
+      "state": "Hessen",
+      "designation": "Mineralheilbad, Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Schwartau",
+      "district": "Kreis Ostholstein",
+      "state": "Schleswig-Holstein",
+      "designation": "Jodsoleheilbad, Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Sebastiansweiler (Stadt Mössingen)",
+      "district": "Landkreis Tübingen",
+      "state": "Baden-Württemberg",
+      "designation": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Bad Segeberg",
+      "district": "Kreis Segeberg",
+      "state": "Schleswig-Holstein",
+      "designation": "Mineralheilbad"
+    },
+    {
+      "spa_town": "Bad Senkelteich (Stadt Vlotho)",
+      "district": "Kreis Herford",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Luftkurort mit Kurmittelgebiet"
+    },
+    {
+      "spa_town": "Bad Seebruch (Stadt Vlotho)",
+      "district": "Kreis Herford",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Luftkurort mit Kurmittelgebiet"
+    },
+    {
+      "spa_town": "Bad Sobernheim",
+      "district": "Landkreis Bad Kreuznach",
+      "state": "Rheinland-Pfalz",
+      "designation": "Felke-Heilbad"
+    },
+    {
+      "spa_town": "Bad Soden am Taunus",
+      "district": "Main-Taunus-Kreis",
+      "state": "Hessen",
+      "designation": "Mineralheilbad, Soleheilbad"
+    },
+    {
+      "spa_town": "Bad Teinach (Stadt Bad Teinach-Zavelstein)",
+      "district": "Landkreis Calw",
+      "state": "Baden-Württemberg",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Tennstedt",
+      "district": "Unstrut-Hainich-Kreis",
+      "state": "Thüringen",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Tölz",
+      "district": "Landkreis Bad Tölz-Wolfratshausen",
+      "state": "Bayern",
+      "designation": "Jodbad, Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Bad Überkingen",
+      "district": "Landkreis Göppingen",
+      "state": "Baden-Württemberg",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Urach",
+      "district": "Landkreis Reutlingen",
+      "state": "Baden-Württemberg",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Vilbel",
+      "district": "Wetteraukreis",
+      "state": "Hessen",
+      "designation": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Bad Waldliesborn (Stadt Lippstadt)",
+      "district": "Kreis Soest",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Mineralheilbad"
+    },
+    {
+      "spa_town": "Bad Waldsee",
+      "district": "Landkreis Ravensburg",
+      "state": "Baden-Württemberg",
+      "designation": "Moorheilbad, Kneippkurort"
+    },
+    {
+      "spa_town": "Bad Wildbad",
+      "district": "Landkreis Calw",
+      "state": "Baden-Württemberg",
+      "designation": "Thermalheilbad"
+    },
+    {
+      "spa_town": "Bad Westernkotten (Stadt Erwitte)",
+      "district": "Kreis Soest",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Moorheilbad, Soleheilbad"
+    },
+    {
+      "spa_town": "Bad Wiessee",
+      "district": "Landkreis Miesbach",
+      "state": "Bayern",
+      "designation": "Mineralheilbad"
+    },
+    {
+      "spa_town": "Bad Wildstein (Stadt Traben-Trarbach)",
+      "district": "Landkreis Bernkastel-Wittlich",
+      "state": "Rheinland-Pfalz",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Bad Wildungen",
+      "district": "Landkreis Waldeck-Frankenberg",
+      "state": "Hessen",
+      "designation": "Mineralheilbad"
+    },
+    {
+      "spa_town": "Bad Wimpfen",
+      "district": "Landkreis Heilbronn",
+      "state": "Baden-Württemberg",
+      "designation": "Soleheilbad"
+    },
+    {
+      "spa_town": "Bad Windsheim",
+      "district": "Landkreis Neustadt an der Aisch-Bad Windsheim",
+      "state": "Bayern",
+      "designation": "Mineralheilbad, Soleheilbad"
+    },
+    {
+      "spa_town": "Bad Wurzach",
+      "district": "Landkreis Ravensburg",
+      "state": "Baden-Württemberg",
+      "designation": "Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Wilhelmshöhe (Stadt Kassel)",
+      "district": "—",
+      "state": "Hessen",
+      "designation": "Thermalsoleheilbad, Kneippheilbad"
+    },
+    {
+      "spa_town": "Bad Wilsnack",
+      "district": "Landkreis Prignitz",
+      "state": "Brandenburg",
+      "designation": "Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Wünnenberg",
+      "district": "Kreis Paderborn",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Kneippheilbad"
+    },
+    {
+      "spa_town": "Bad Wurzach",
+      "district": "Landkreis Ravensburg",
+      "state": "Baden-Württemberg",
+      "designation": "Moorheilbad"
+    },
+    {
+      "spa_town": "Bad Zwesten",
+      "district": "Schwalm-Eder-Kreis",
+      "state": "Hessen",
+      "designation": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Bad Zwischenahn",
+      "district": "Landkreis Ammerland",
+      "state": "Niedersachsen",
+      "designation": "Moorheilbad"
+    },
+    {
+      "spa_town": "Baltrum",
+      "district": "Landkreis Aurich",
+      "state": "Niedersachsen",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "Bansin (Gemeinde Heringsdorf)",
+      "district": "Landkreis Vorpommern-Greifswald",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Bayrischzell",
+      "district": "Landkreis Miesbach",
+      "state": "Bayern",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Bensersiel (Stadt Esens)",
+      "district": "Landkreis Wittmund",
+      "state": "Niedersachsen",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "Berchtesgaden",
+      "district": "Landkreis Berchtesgadener Land",
+      "state": "Bayern",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Berg (Stadt Stuttgart)",
+      "district": "—",
+      "state": "Baden-Württemberg",
+      "designation": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Bernkastel-Kues",
+      "district": "Landkreis Bernkastel-Wittlich",
+      "state": "Rheinland-Pfalz",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Beuren",
+      "district": "Landkreis Esslingen",
+      "state": "Baden-Württemberg",
+      "designation": "Erholungsort mit Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Binz",
+      "district": "Landkreis Vorpommern-Rügen",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Bischofsgrün",
+      "district": "Landkreis Bayreuth",
+      "state": "Bayern",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Bischofswiesen",
+      "district": "Landkreis Berchtesgadener Land",
+      "state": "Bayern",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Blieskastel",
+      "district": "Saarpfalz-Kreis",
+      "state": "Saarland",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Bodenmais",
+      "district": "Landkreis Regen",
+      "state": "Bayern",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Boltenhagen",
+      "district": "Landkreis Nordwestmecklenburg",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Borkum",
+      "district": "Landkreis Leer",
+      "state": "Niedersachsen",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "Breege",
+      "district": "Landkreis Vorpommern-Rügen",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Brilon",
+      "district": "Hochsauerlandkreis",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Kneippheilbad"
+    },
+    {
+      "spa_town": "Buckow",
+      "district": "Landkreis Märkisch-Oderland",
+      "state": "Brandenburg",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Büsum",
+      "district": "Kreis Dithmarschen",
+      "state": "Schleswig-Holstein",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "Burg auf Fehmarn (Stadt Fehmarn)",
+      "district": "Kreis Ostholstein",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Burg (Spreewald)",
+      "district": "Landkreis Spree-Neiße",
+      "state": "Brandenburg",
+      "designation": "Ort mit Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Burhave (Gemeinde Butjadingen)",
+      "district": "Landkreis Wesermarsch",
+      "state": "Niedersachsen",
+      "designation": "Nordseebad"
+    },
+    {
+      "spa_town": "Carolinensiel - Harlesiel (Stadt Wittmund)",
+      "district": "Landkreis Wittmund",
+      "state": "Niedersachsen",
+      "designation": "Nordseebad"
+    },
+    {
+      "spa_town": "Cuxhaven",
+      "district": "Landkreis Cuxhaven",
+      "state": "Niedersachsen",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "Dahme",
+      "district": "Kreis Ostholstein",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Damp",
+      "district": "Kreis Rendsburg-Eckernförde",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Dangast (Stadt Varel)",
+      "district": "Landkreis Friesland",
+      "state": "Niedersachsen",
+      "designation": "Nordseebad, Ort mit Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Daun",
+      "district": "Landkreis Vulkaneifel",
+      "state": "Rheinland-Pfalz",
+      "designation": "Heilklimatischer Kurort, Kneippkurort, Mineralbad"
+    },
+    {
+      "spa_town": "Dierhagen",
+      "district": "Landkreis Vorpommern-Rügen",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Dobel",
+      "district": "Landkreis Calw",
+      "state": "Baden-Württemberg",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Dornumersiel (Gemeinde Dornum)",
+      "district": "Landkreis Aurich",
+      "state": "Niedersachsen",
+      "designation": "Nordseebad"
+    },
+    {
+      "spa_town": "Eckenhagen (Gemeinde Reichshof)",
+      "district": "Oberbergischer Kreis",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Eckernförde",
+      "district": "Kreis Rendsburg-Eckernförde",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Eutin",
+      "district": "Kreis Ostholstein",
+      "state": "Schleswig-Holstein",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Falkenstein (Stadt Königstein im Taunus)",
+      "district": "Hochtaunuskreis",
+      "state": "Hessen",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Feldberg (zu Feldberger Seenlandschaft)",
+      "district": "Landkreis Mecklenburgische Seenplatte",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Friedrichroda (Kernstadt und Ortsteil Finsterbergen)",
+      "district": "Landkreis Gotha",
+      "state": "Thüringen",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Fischen im Allgäu",
+      "district": "Landkreis Oberallgäu",
+      "state": "Bayern",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Freiburg im Breisgau",
+      "district": "—",
+      "state": "Baden-Württemberg",
+      "designation": "Ort mit Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Freudenstadt",
+      "district": "Landkreis Freudenstadt",
+      "state": "Baden-Württemberg",
+      "designation": "Heilklimatischer Kurort, Kneippkurort"
+    },
+    {
+      "spa_town": "Friedrichskoog",
+      "district": "Kreis Dithmarschen",
+      "state": "Schleswig-Holstein",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "Füssen",
+      "district": "Landkreis Ostallgäu",
+      "state": "Bayern",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Garmisch-Partenkirchen",
+      "district": "Landkreis Garmisch-Partenkirchen",
+      "state": "Bayern",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Gelting",
+      "district": "Kreis Schleswig-Flensburg",
+      "state": "Schleswig-Holstein",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Gemünd (Schleiden) (Stadt Schleiden)",
+      "district": "Kreis Euskirchen",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Gersfeld (Rhön)",
+      "district": "Landkreis Fulda",
+      "state": "Hessen",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Gladenbach",
+      "district": "Landkreis Marburg-Biedenkopf",
+      "state": "Hessen",
+      "designation": "Kneippheilbad"
+    },
+    {
+      "spa_town": "Glücksburg (Ostsee)",
+      "district": "Kreis Schleswig-Flensburg",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Göhren",
+      "district": "Landkreis Vorpommern-Rügen",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Grafschaft (Stadt Schmallenberg)",
+      "district": "Hochsauerlandkreis",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Grasellenbach",
+      "district": "Landkreis Bergstraße",
+      "state": "Hessen",
+      "designation": "Kneippheilbad"
+    },
+    {
+      "spa_town": "Graal-Müritz",
+      "district": "Landkreis Rostock",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Grömitz",
+      "district": "Kreis Ostholstein",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Großenbrode",
+      "district": "Kreis Ostholstein",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Haffkrug (Gemeinde Scharbeutz)",
+      "district": "Kreis Ostholstein",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Hahnenklee (Stadt Goslar)",
+      "district": "Landkreis Goslar",
+      "state": "Niedersachsen",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Hausberge (Stadt Porta Westfalica)",
+      "district": "Kreis Minden-Lübbecke",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Heikendorf",
+      "district": "Kreis Plön",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Heilbad Heiligenstadt",
+      "district": "Landkreis Eichsfeld",
+      "state": "Thüringen",
+      "designation": "Soleheilbad"
+    },
+    {
+      "spa_town": "Heiligendamm (Stadt Bad Doberan)",
+      "district": "Landkreis Rostock",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Heiligenhafen",
+      "district": "Kreis Ostholstein",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Helgoland",
+      "district": "Kreis Pinneberg",
+      "state": "Schleswig-Holstein",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "Herbstein",
+      "district": "Vogelsbergkreis",
+      "state": "Hessen",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Heringsdorf",
+      "district": "Landkreis Vorpommern-Greifswald",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Hinterzarten",
+      "district": "Landkreis Breisgau-Hochschwarzwald",
+      "state": "Baden-Württemberg",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Hitzacker",
+      "district": "Landkreis Lüchow-Dannenberg",
+      "state": "Niedersachsen",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Höchenschwand",
+      "district": "Landkreis Waldshut",
+      "state": "Baden-Württemberg",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Hohwacht (Ostsee)",
+      "district": "Kreis Plön",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Holm (Stadt Schönberg (Holstein))",
+      "district": "Kreis Plön",
+      "state": "Schleswig-Holstein",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Hopfen am See (Stadt Füssen)",
+      "district": "Landkreis Ostallgäu",
+      "state": "Bayern",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Hörnum (Sylt)",
+      "district": "Kreis Nordfriesland",
+      "state": "Schleswig-Holstein",
+      "designation": "Nordseebad"
+    },
+    {
+      "spa_town": "Horumersiel - Schillig (Gemeinde Wangerland)",
+      "district": "Landkreis Friesland",
+      "state": "Niedersachsen",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "Insel Hiddensee",
+      "district": "Landkreis Vorpommern-Rügen",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Insel Poel",
+      "district": "Landkreis Nordwestmecklenburg",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Isny im Allgäu",
+      "district": "Landkreis Ravensburg",
+      "state": "Baden-Württemberg",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Jordanbad (Stadt Biberach an der Riß)",
+      "district": "Landkreis Biberach",
+      "state": "Baden-Württemberg",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Juist",
+      "district": "Landkreis Aurich",
+      "state": "Niedersachsen",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "Kampen (Sylt)",
+      "district": "Kreis Nordfriesland",
+      "state": "Schleswig-Holstein",
+      "designation": "Nordseebad"
+    },
+    {
+      "spa_town": "Karlshagen",
+      "district": "Landkreis Vorpommern-Greifswald",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Kell am See",
+      "district": "Landkreis Trier-Saarburg",
+      "state": "Rheinland-Pfalz",
+      "designation": "Luftkurort"
+    },
+    {
+      "spa_town": "Kellberg (Gemeinde Thyrnau)",
+      "district": "Landkreis Passau",
+      "state": "Bayern",
+      "designation": "Mineralquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Kellenhusen (Ostsee)",
+      "district": "Kreis Ostholstein",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Kevelaer",
+      "district": "Kreis Kleve",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Ort mit Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Königsfeld im Schwarzwald",
+      "district": "Schwarzwald-Baar-Kreis",
+      "state": "Baden-Württemberg",
+      "designation": "Heilklimatischer Kurort, Kneippkurort"
+    },
+    {
+      "spa_town": "Königstein im Taunus",
+      "district": "Hochtaunuskreis",
+      "state": "Hessen",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Koserow",
+      "district": "Landkreis Vorpommern-Greifswald",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Kreuth",
+      "district": "Landkreis Miesbach",
+      "state": "Bayern",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Krumbad (Stadt Krumbach (Schwaben))",
+      "district": "Landkreis Günzburg",
+      "state": "Bayern",
+      "designation": "Kneipp-Kurbetrieb, Peloid-Kurbetrieb"
+    },
+    {
+      "spa_town": "Kühlungsborn",
+      "district": "Landkreis Rostock",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Kyllburg",
+      "district": "Eifelkreis Bitburg-Prüm",
+      "state": "Rheinland-Pfalz",
+      "designation": "Luftkurort"
+    },
+    {
+      "spa_town": "Laboe",
+      "district": "Kreis Plön",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Langeoog",
+      "district": "Landkreis Wittmund",
+      "state": "Niedersachsen",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "Lenzkirch",
+      "district": "Landkreis Breisgau-Hochschwarzwald",
+      "state": "Baden-Württemberg",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Lindenfels",
+      "district": "Landkreis Bergstraße",
+      "state": "Hessen",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "List auf Sylt",
+      "district": "Kreis Nordfriesland",
+      "state": "Schleswig-Holstein",
+      "designation": "Nordseebad"
+    },
+    {
+      "spa_town": "Loddin",
+      "district": "Landkreis Vorpommern-Greifswald",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Lubmin",
+      "district": "Landkreis Vorpommern-Greifswald",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Ludwigsburg-Hoheneck",
+      "district": "Landkreis Ludwigsburg",
+      "state": "Baden-Württemberg",
+      "designation": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Manderscheid",
+      "district": "Landkreis Bernkastel-Wittlich",
+      "state": "Rheinland-Pfalz",
+      "designation": "Heilklimatischer Kurort, Kneippkurort"
+    },
+    {
+      "spa_town": "Marktschellenberg",
+      "district": "Landkreis Berchtesgadener Land",
+      "state": "Bayern",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Masserberg",
+      "district": "Landkreis Hildburghausen",
+      "state": "Thüringen",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Mettnau (Stadt Radolfzell am Bodensee)",
+      "district": "Landkreis Konstanz",
+      "state": "Baden-Württemberg",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Mölln",
+      "district": "Kreis Herzogtum Lauenburg",
+      "state": "Schleswig-Holstein",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Murnau am Staffelsee",
+      "district": "Landkreis Garmisch-Partenkirchen",
+      "state": "Bayern",
+      "designation": "Moor-Kurbetrieb"
+    },
+    {
+      "spa_town": "Naumburg",
+      "district": "Landkreis Kassel",
+      "state": "Hessen",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Nebel",
+      "district": "Kreis Nordfriesland",
+      "state": "Schleswig-Holstein",
+      "designation": "Nordseebad"
+    },
+    {
+      "spa_town": "Neubulach",
+      "district": "Landkreis Calw",
+      "state": "Baden-Württemberg",
+      "designation": "Heilklimatischer Kurort, Heilstollen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Neuharlingersiel",
+      "district": "Landkreis Wittmund",
+      "state": "Niedersachsen",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "Neukirchen (Knüll)",
+      "district": "Schwalm-Eder-Kreis",
+      "state": "Hessen",
+      "designation": "Kneippheilbad"
+    },
+    {
+      "spa_town": "Neustadt in Holstein",
+      "district": "Kreis Ostholstein",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Neustadt/Harz",
+      "district": "Landkreis Nordhausen",
+      "state": "Thüringen",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Nieblum",
+      "district": "Kreis Nordfriesland",
+      "state": "Schleswig-Holstein",
+      "designation": "Nordseebad"
+    },
+    {
+      "spa_town": "Nieheim",
+      "district": "Kreis Höxter",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Niendorf (Gemeinde Timmendorfer Strand)",
+      "district": "Kreis Ostholstein",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Nienhagen",
+      "district": "Landkreis Rostock",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Nonnweiler",
+      "district": "Landkreis Sankt Wendel",
+      "state": "Saarland",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Norddeich (Stadt Norden)",
+      "district": "Landkreis Aurich",
+      "state": "Niedersachsen",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "Norddorf auf Amrum",
+      "district": "Kreis Nordfriesland",
+      "state": "Schleswig-Holstein",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "Norderney",
+      "district": "Landkreis Aurich",
+      "state": "Niedersachsen",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "Nordstrand",
+      "district": "Kreis Nordfriesland",
+      "state": "Schleswig-Holstein",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "Nümbrecht",
+      "district": "Oberbergischer Kreis",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Oberstaufen",
+      "district": "Landkreis Oberallgäu",
+      "state": "Bayern",
+      "designation": "Heilklimatischer Kurort, Schroth-Heilbad"
+    },
+    {
+      "spa_town": "Oberstdorf",
+      "district": "Landkreis Oberallgäu",
+      "state": "Bayern",
+      "designation": "Heilklimatischer Kurort, Kneippkurort"
+    },
+    {
+      "spa_town": "Obertal (Gemeinde Baiersbronn)",
+      "district": "Landkreis Freudenstadt",
+      "state": "Baden-Württemberg",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Olsberg",
+      "district": "Hochsauerlandkreis",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Kneippheilbad"
+    },
+    {
+      "spa_town": "Orscholz (Gemeinde Mettlach)",
+      "district": "Landkreis Merzig-Wadern",
+      "state": "Saarland",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Otterndorf",
+      "district": "Landkreis Cuxhaven",
+      "state": "Niedersachsen",
+      "designation": "Nordseebad"
+    },
+    {
+      "spa_town": "Ottobeuren",
+      "district": "Landkreis Unterallgäu",
+      "state": "Bayern",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Oy-Mittelberg",
+      "district": "Landkreis Oberallgäu",
+      "state": "Bayern",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Pellworm",
+      "district": "Kreis Nordfriesland",
+      "state": "Schleswig-Holstein",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "Prerow",
+      "district": "Landkreis Vorpommern-Rügen",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Prien am Chiemsee",
+      "district": "Landkreis Rosenheim",
+      "state": "Bayern",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Ramsau bei Berchtesgaden",
+      "district": "Landkreis Berchtesgadener Land",
+      "state": "Bayern",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Randringhausen (Stadt Bünde)",
+      "district": "Kreis Herford",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Erholungsort mit Kurmittelgebiet"
+    },
+    {
+      "spa_town": "Rantum (Gemeinde Sylt)",
+      "district": "Kreis Nordfriesland",
+      "state": "Schleswig-Holstein",
+      "designation": "Nordseebad"
+    },
+    {
+      "spa_town": "Reinhardshausen (Stadt Bad Wildungen)",
+      "district": "Landkreis Waldeck-Frankenberg",
+      "state": "Hessen",
+      "designation": "Mineralheilbad"
+    },
+    {
+      "spa_town": "Rengsdorf",
+      "district": "Landkreis Neuwied",
+      "state": "Rheinland-Pfalz",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Rerik",
+      "district": "Landkreis Rostock",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Rothenuffeln (Gemeinde Hille)",
+      "district": "Kreis Minden-Lübbecke",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Erholungsort mit Kurmittelgebiet"
+    },
+    {
+      "spa_town": "Rottach-Egern",
+      "district": "Landkreis Miesbach",
+      "state": "Bayern",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Saalfeld/Saale",
+      "district": "Landkreis Saalfeld-Rudolstadt",
+      "state": "Thüringen",
+      "designation": "Ort mit Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Saig (Gemeinde Lenzkirch)",
+      "district": "Landkreis Breisgau-Hochschwarzwald",
+      "state": "Baden-Württemberg",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Salzgitter-Bad (Stadt Salzgitter)",
+      "district": "—",
+      "state": "Niedersachsen",
+      "designation": "Ort mit Sole-Kurbetrieb"
+    },
+    {
+      "spa_town": "Sasbachwalden",
+      "district": "Ortenaukreis",
+      "state": "Baden-Württemberg",
+      "designation": "Heilklimatischer Kurort, Kneippkurort"
+    },
+    {
+      "spa_town": "Scharbeutz",
+      "district": "Kreis Ostholstein",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Scheidegg",
+      "district": "Landkreis Lindau (Bodensee)",
+      "state": "Bayern",
+      "designation": "Heilklimatischer Kurort, Kneippkurort"
+    },
+    {
+      "spa_town": "Schieder (Stadt Schieder-Schwalenberg)",
+      "district": "Kreis Lippe",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Schlangenbad",
+      "district": "Rheingau-Taunus-Kreis",
+      "state": "Hessen",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Schluchsee",
+      "district": "Landkreis Breisgau-Hochschwarzwald",
+      "state": "Baden-Württemberg",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Schömberg",
+      "district": "Landkreis Calw",
+      "state": "Baden-Württemberg",
+      "designation": "Heilklimatischer Kurort, Kneippkurort"
+    },
+    {
+      "spa_town": "Schönau am Königssee",
+      "district": "Landkreis Berchtesgadener Land",
+      "state": "Bayern",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Schönberg (Holstein)",
+      "district": "Kreis Plön",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Schönhagen (Gemeinde Brodersby)",
+      "district": "Kreis Rendsburg-Eckernförde",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Schönmünzach und Schwarzenberg (Gemeinde Baiersbronn)",
+      "district": "Landkreis Freudenstadt",
+      "state": "Baden-Württemberg",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Schönwald im Schwarzwald",
+      "district": "Schwarzwald-Baar-Kreis",
+      "state": "Baden-Württemberg",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Schwangau",
+      "district": "Landkreis Ostallgäu",
+      "state": "Bayern",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Sellin",
+      "district": "Landkreis Vorpommern-Rügen",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Sibyllenbad (Marktgemeinde Bad Neualbenreuth)",
+      "district": "Landkreis Tirschenreuth",
+      "state": "Bayern",
+      "designation": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Siegsdorf",
+      "district": "Landkreis Traunstein",
+      "state": "Bayern",
+      "designation": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Sierksdorf",
+      "district": "Kreis Ostholstein",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Soltau",
+      "district": "Landkreis Heidekreis",
+      "state": "Niedersachsen",
+      "designation": "Ort mit Sole-Kurbetrieb"
+    },
+    {
+      "spa_town": "Sankt Peter-Ording",
+      "district": "Kreis Nordfriesland",
+      "state": "Schleswig-Holstein",
+      "designation": "Nordseeheilbad, Schwefelbad"
+    },
+    {
+      "spa_town": "Strande",
+      "district": "Kreis Rendsburg-Eckernförde",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Stützerbach (Stadt Ilmenau)",
+      "district": "Ilm-Kreis",
+      "state": "Thüringen",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Spiekeroog",
+      "district": "Landkreis Wittmund",
+      "state": "Niedersachsen",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "St. Blasien",
+      "district": "Landkreis Waldshut",
+      "state": "Baden-Württemberg",
+      "designation": "Heilklimatischer Kurort, Kneippkurort"
+    },
+    {
+      "spa_town": "Sylt-Ost (Gemeinde Sylt)",
+      "district": "Kreis Nordfriesland",
+      "state": "Schleswig-Holstein",
+      "designation": "Nordseebad"
+    },
+    {
+      "spa_town": "Tecklenburg",
+      "district": "Kreis Steinfurt",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Tegernsee",
+      "district": "Landkreis Miesbach",
+      "state": "Bayern",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Templin",
+      "district": "Landkreis Uckermark",
+      "state": "Brandenburg",
+      "designation": "Thermalsoleheilbad"
+    },
+    {
+      "spa_town": "Thermalbad Wiesenbad (nur Hauptort)",
+      "district": "Erzgebirgskreis",
+      "state": "Sachsen",
+      "designation": "Ort mit Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Thiessow (zu Mönchgut)",
+      "district": "Landkreis Vorpommern-Rügen",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Timmendorfer Strand",
+      "district": "Kreis Ostholstein",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Titisee-Neustadt",
+      "district": "Landkreis Breisgau-Hochschwarzwald",
+      "state": "Baden-Württemberg",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Todtmoos",
+      "district": "Landkreis Waldshut",
+      "state": "Baden-Württemberg",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Tossens (Gemeinde Butjadingen)",
+      "district": "Landkreis Wesermarsch",
+      "state": "Niedersachsen",
+      "designation": "Nordseebad"
+    },
+    {
+      "spa_town": "Trassenheide",
+      "district": "Landkreis Vorpommern-Greifswald",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Travemünde (Stadt Lübeck)",
+      "district": "—",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Treuchtlingen",
+      "district": "Landkreis Weißenburg-Gunzenhausen",
+      "state": "Bayern",
+      "designation": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Triberg im Schwarzwald",
+      "district": "Schwarzwald-Baar-Kreis",
+      "state": "Baden-Württemberg",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Überlingen",
+      "district": "Bodenseekreis",
+      "state": "Baden-Württemberg",
+      "designation": "Kneippheilbad"
+    },
+    {
+      "spa_town": "Ückeritz",
+      "district": "Landkreis Vorpommern-Greifswald",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Ueckermünde",
+      "district": "Landkreis Vorpommern-Greifswald",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Seebad"
+    },
+    {
+      "spa_town": "Usseln (Gemeinde Willingen (Upland))",
+      "district": "Landkreis Waldeck-Frankenberg",
+      "state": "Hessen",
+      "designation": "Heilklimatischer Kurort, Kneippheilbad"
+    },
+    {
+      "spa_town": "Utersum",
+      "district": "Kreis Nordfriesland",
+      "state": "Schleswig-Holstein",
+      "designation": "Nordseebad"
+    },
+    {
+      "spa_town": "Villingen (Stadt Villingen-Schwenningen)",
+      "district": "Schwarzwald-Baar-Kreis",
+      "state": "Baden-Württemberg",
+      "designation": "Kneippkurort"
+    },
+    {
+      "spa_town": "Waldbronn",
+      "district": "Landkreis Karlsruhe",
+      "state": "Baden-Württemberg",
+      "designation": "Heilquellen-Kurbetrieb"
+    },
+    {
+      "spa_town": "Wangerooge",
+      "district": "Landkreis Friesland",
+      "state": "Niedersachsen",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "Waren (Müritz)",
+      "district": "Landkreis Mecklenburgische Seenplatte",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Soleheilbad"
+    },
+    {
+      "spa_town": "Warmbad (Stadt Wolkenstein)",
+      "district": "Erzgebirgskreis",
+      "state": "Sachsen",
+      "designation": "Heilbad"
+    },
+    {
+      "spa_town": "Warnemünde (Stadt Rostock)",
+      "district": "—",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Weiskirchen",
+      "district": "Landkreis Merzig-Wadern",
+      "state": "Saarland",
+      "designation": "Heilklimatischer Kurort, Kneippkurort"
+    },
+    {
+      "spa_town": "Weißenhäuser Strand (Gemeinde Wangels)",
+      "district": "Kreis Ostholstein",
+      "state": "Schleswig-Holstein",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Wenningstedt-Braderup (Sylt)",
+      "district": "Kreis Nordfriesland",
+      "state": "Schleswig-Holstein",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "Westerland (Gemeinde Sylt)",
+      "district": "Kreis Nordfriesland",
+      "state": "Schleswig-Holstein",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "Wiesbaden",
+      "district": "—",
+      "state": "Hessen",
+      "designation": "Mineralbad"
+    },
+    {
+      "spa_town": "Willingen (Upland)",
+      "district": "Landkreis Waldeck-Frankenberg",
+      "state": "Hessen",
+      "designation": "Kneippheilbad, Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Winterberg",
+      "district": "Hochsauerlandkreis",
+      "state": "Nordrhein-Westfalen",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Wittdün auf Amrum",
+      "district": "Kreis Nordfriesland",
+      "state": "Schleswig-Holstein",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "Wolfegg",
+      "district": "Landkreis Ravensburg",
+      "state": "Baden-Württemberg",
+      "designation": "Heilklimatischer Kurort"
+    },
+    {
+      "spa_town": "Wremen",
+      "district": "Landkreis Cuxhaven",
+      "state": "Niedersachsen",
+      "designation": "Nordseebad"
+    },
+    {
+      "spa_town": "Wustrow",
+      "district": "Landkreis Vorpommern-Rügen",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Wyk auf Föhr",
+      "district": "Kreis Nordfriesland",
+      "state": "Schleswig-Holstein",
+      "designation": "Nordseeheilbad"
+    },
+    {
+      "spa_town": "Zempin",
+      "district": "Landkreis Vorpommern-Greifswald",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseebad"
+    },
+    {
+      "spa_town": "Zingst",
+      "district": "Landkreis Vorpommern-Rügen",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseeheilbad"
+    },
+    {
+      "spa_town": "Zinnowitz",
+      "district": "Landkreis Vorpommern-Greifswald",
+      "state": "Mecklenburg-Vorpommern",
+      "designation": "Ostseeheilbad"
+    }
+  ],
+  "meta": {
+    "title": "Kurorte in Deutschland - Free Download",
+    "description": "Staatlich anerkannte Kurorte und Heilbäder in Deutschland mit Landkreis, Bundesland und Prädikat (z. B. Heilbad, Kneippheilbad, Heilklimatischer Kurort, Seebad). Contains 379 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kurorte in Deutschland | ListBase",
+    "seo_description": "Download Kurorte in Deutschland — 379 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 379 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Kurorte_in_Deutschland"
+    ]
+  }
+}
