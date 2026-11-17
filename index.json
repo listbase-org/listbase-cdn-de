@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-17T02:31:25.016Z",
-  "total_datasets": 573,
-  "total_records": 1880648,
+  "generated": "2026-11-17T02:31:33.975Z",
+  "total_datasets": 574,
+  "total_records": 1881339,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "music",
@@ -6417,6 +6417,34 @@
         "xlsx": {
           "name": "de-praesidenten-bundesgerichtshof_DE.xlsx",
           "size": 7790
+        }
+      }
+    },
+    {
+      "id": "de-richter-bundesgerichtshof",
+      "name": "Richter am Bundesgerichtshof",
+      "category": "law",
+      "record_count": 691,
+      "columns": [
+        "name",
+        "life_dates",
+        "term_start",
+        "term_end",
+        "presiding_judge_since",
+        "vice_president_since",
+        "president_since"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Richter_am_Bundesgerichtshof",
+      "updated": "2026-11",
+      "size": 172540,
+      "files": {
+        "csv": {
+          "name": "de-richter-bundesgerichtshof_DE.csv",
+          "size": 48332
+        },
+        "xlsx": {
+          "name": "de-richter-bundesgerichtshof_DE.xlsx",
+          "size": 39033
         }
       }
     },
