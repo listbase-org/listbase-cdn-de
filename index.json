@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-17T02:31:16.402Z",
-  "total_datasets": 572,
-  "total_records": 1880603,
+  "generated": "2026-11-17T02:31:25.016Z",
+  "total_datasets": 573,
+  "total_records": 1880648,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "language",
@@ -5867,6 +5867,32 @@
         "xlsx": {
           "name": "de-herrscher-bayerns_DE.xlsx",
           "size": 12699
+        }
+      }
+    },
+    {
+      "id": "de-herrscher-brandenburgs",
+      "name": "Herrscher von Brandenburg",
+      "category": "history",
+      "record_count": 45,
+      "columns": [
+        "name",
+        "reign",
+        "title",
+        "dynasty_period",
+        "notes"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Herrscher_von_Brandenburg",
+      "updated": "2026-11",
+      "size": 21050,
+      "files": {
+        "csv": {
+          "name": "de-herrscher-brandenburgs_DE.csv",
+          "size": 14859
+        },
+        "xlsx": {
+          "name": "de-herrscher-brandenburgs_DE.xlsx",
+          "size": 12886
         }
       }
     },

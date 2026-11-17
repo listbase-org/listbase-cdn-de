@@ -1,0 +1,366 @@
+{
+  "id": "de-herrscher-brandenburgs",
+  "name": "Herrscher von Brandenburg",
+  "title": "Herrscher von Brandenburg",
+  "description": "Markgrafen, Kurfürsten und Könige in bzw. von Preußen als Herrscher der Mark Brandenburg vom 12. Jahrhundert bis 1918 mit Regierungszeit, Titel, Dynastie und Anmerkungen.",
+  "category": "history",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Herrscher_von_Brandenburg",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Herrscher_von_Brandenburg",
+  "updated": "2026-11",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "reign",
+      "label": "Reign",
+      "type": "string"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "dynasty_period",
+      "label": "Dynasty Period",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Meinfried † 1127",
+      "reign": "?–1127",
+      "title": "Slawische Fürsten",
+      "dynasty_period": "Slawische Fürsten",
+      "notes": "wahrscheinlich christlicher Fürst im Havelland und der Zauche (Heveller)"
+    },
+    {
+      "name": "Pribislaw (Heinrich) * um 1085, † 1150",
+      "reign": "1127–1150",
+      "title": "Slawische Fürsten",
+      "dynasty_period": "Slawische Fürsten",
+      "notes": "christlicher Fürst, herrschte über das Havelland und die Zauche, um 1134 wahrscheinlich sogar „König von Brandenburg“, gründete Prämonstratenserstift in St. Gotthard in der Altstadt Brandenburg"
+    },
+    {
+      "name": "Albrecht I., „der Bär“ (* um 1100; † 18. November 1170)",
+      "reign": "1150–1150/57",
+      "title": "Markgraf in Brandenburg",
+      "dynasty_period": "Askanier",
+      "notes": "1134 Markgraf der Nordmark, 1138 Herzog von Sachsen, er erbte 1150 die Brandenburg mit dem Havelland."
+    },
+    {
+      "name": "Jacza von Köpenick * vor 1125, † 1176",
+      "reign": "1150/57–1157",
+      "title": "Polnischer Fürst",
+      "dynasty_period": "Polnischer Fürst",
+      "notes": "Sprewane, westslawischer christlicher Fürst in Köpenick, eroberte zwischen 1150 und 1157 die Brandenburg und herrschte damit über die gesamte spätere Mittelmark, 1157 von Albrecht vertrieben, bis 1168/76 Fürst von Köpenick"
+    },
+    {
+      "name": "Albrecht I., „der Bär“ (* um 1100; † 18. November 1170)",
+      "reign": "1157–1170",
+      "title": "Markgrafen von Brandenburg",
+      "dynasty_period": "Askanier",
+      "notes": "Eroberte am 11. Juni 1157 die kurz zuvor durch Verrat verlorene Burg zurück, bezeichnete sich am 3. Oktober 1157 erstmals selbst als Markgraf in Brandenburg, herrschte über die Altmark, das Havelland und die Zauche, Teile der westlichen Prignitz, Havelberg und dem Stammbesitz der Grafen von Ballenstedt, des Weiteren über Weimar-Orlamünde."
+    },
+    {
+      "name": "Otto I. (* um 1125; † 8. Juli 1184)",
+      "reign": "1170–1184",
+      "title": "Markgrafen von Brandenburg",
+      "dynasty_period": "Askanier",
+      "notes": "Sohn Albrechts I. Er regierte bereits seit 1144 an der Seite seines Vaters. Herrschte in der Altmark, dem Havelland und der Zauche, der westlichen Prignitz und Havelberg"
+    },
+    {
+      "name": "Otto II. (* nach 1147; † 4. Juli 1205)",
+      "reign": "1184–1205",
+      "title": "Markgrafen von Brandenburg",
+      "dynasty_period": "Askanier",
+      "notes": "Sohn Ottos I. Durch Kriegszüge gegen Slawen und Dänen sicherte er die Mark Brandenburg."
+    },
+    {
+      "name": "Albrecht II. (* um/nach 1150; † 25. Februar 1220)",
+      "reign": "1205–1220",
+      "title": "Markgrafen von Brandenburg",
+      "dynasty_period": "Askanier",
+      "notes": "Sohn Ottos I. Er konnte einige strittige Gebiete endgültig für Brandenburg sichern, verlor allerdings Pommern."
+    },
+    {
+      "name": "Johann I. (* um 1213; † 4. April 1266)",
+      "reign": "1220–1266",
+      "title": "Markgrafen von Brandenburg",
+      "dynasty_period": "Askanier",
+      "notes": "Sohn Albrechts II., regierte gemeinsam mit seinem Bruder Otto III. Zahlreiche Städte wurden unter ihrer Herrschaft gegründet oder vergrößert, darunter Berlin. Erstmals wurden der Mark Brandenburg Gebiete östlich der Oder einverleibt. Brandenburg gehörte von nun an zu den bedeutendsten Fürstentümern des Reiches."
+    },
+    {
+      "name": "Otto III., „der Fromme“ (* 1215; † 9. Oktober 1267)",
+      "reign": "1220–1267",
+      "title": "Markgrafen von Brandenburg",
+      "dynasty_period": "Askanier",
+      "notes": "Sohn Albrechts II., regierte gemeinsam mit seinem Bruder Johann I. 1258 kam es zur Reichsteilung zwischen Johann und Otto, sie regierten jedoch weiterhin einvernehmlich und die Oberhoheit blieb nach ihrem Tod bei den Nachkommen Johanns."
+    },
+    {
+      "name": "Otto IV., „mit dem Pfeil“ (* um 1238; † 27. November 1308)",
+      "reign": "1267–1308",
+      "title": "Markgrafen von Brandenburg",
+      "dynasty_period": "Askanier",
+      "notes": "Sohn Johanns I. Mitregenten waren seine Brüder Johann II. (bis 1281), Konrad I. (bis 1304) und Heinrich I., „ohne Land“ (bis 1318), seine Cousins Johann III., „der Prager“ (bis 1268) und Albrecht III. (bis 1300), Otto (V.), „der Lange“ (bis 1299) und Otto VI., „der Kleine“ (bis 1286) sowie Johann IV., ein Sohn Konrads I. (1286–1305), und Hermann „der Lange“, ein Sohn Ottos (V.) (1298–1308)."
+    },
+    {
+      "name": "Waldemar „der Große“ (* um 1280; † 14. August 1319)",
+      "reign": "1308–1319",
+      "title": "Markgrafen von Brandenburg",
+      "dynasty_period": "Askanier",
+      "notes": "Sohn Konrads I. und Enkel Johanns I. Mitregent war bis 1317 sein Cousin Johann V., „der Erlauchte“, einziger Sohn Hermanns. 1348 tauchte ein Hochstapler auf, der sich als Waldemar ausgab und tatsächlich kurzzeitig als Herrscher anerkannt wurde."
+    },
+    {
+      "name": "Heinrich II., „das Kind“ (* um 1308; † Juli 1320)",
+      "reign": "1319–1320",
+      "title": "Markgrafen von Brandenburg",
+      "dynasty_period": "Askanier",
+      "notes": "Sohn Heinrichs I. und Enkel Johanns I., stand unter der Vormundschaft seines Cousins Waldemar. Nach nur einem Jahr eigenständiger Regierung erlosch mit seinem Tod die Herrschaft der Askanier in Brandenburg."
+    },
+    {
+      "name": "Ludwig I. „der Ältere“ (* Mai 1315; † 18. September 1361)",
+      "reign": "1323–1348",
+      "title": "Markgrafen von Brandenburg",
+      "dynasty_period": "Wittelsbacher",
+      "notes": "Vetter Heinrichs II. und Sohn Kaiser Ludwigs IV., regierte wegen Minderjährigkeit bis 1330 unter der Vormundschaft von Berthold VII. von Henneberg. Seit 1342 Graf von Tirol und seit 1347 Herzog von Bayern. Verlor 1348 fast die gesamte Mark Brandenburg an den falschen Waldemar."
+    },
+    {
+      "name": "Falscher Waldemar † 1356",
+      "reign": "1348–1350",
+      "title": "Markgraf von Brandenburg",
+      "dynasty_period": "Falscher Waldemar",
+      "notes": "1348 belehnt mit der Markgrafschaft erhielt er die Huldigung fast aller Städte, regierte bis 1350, als König Karl IV. ihn als „falsch“ bezeichnete und absetzte."
+    },
+    {
+      "name": "Ludwig I. „der Ältere“ (* Mai 1315; † 18. September 1361)",
+      "reign": "1350–1351",
+      "title": "Markgrafen von Brandenburg",
+      "dynasty_period": "Wittelsbacher",
+      "notes": "1350 übernahm er wieder die Herrschaft in der Mark Brandenburg, dankte aber 1351 zu Gunsten seines Halbbruders ab"
+    },
+    {
+      "name": "Ludwig II., „der Römer“ (* 12. Mai 1328 in Rom; † 17. Mai 1365)",
+      "reign": "1351–1356",
+      "title": "Markgrafen von Brandenburg",
+      "dynasty_period": "Wittelsbacher",
+      "notes": "Halbbruder Ludwigs I. Seit 1347 Herzog von Bayern. 1351 tauschte er mit seinem Halbbruder die Herrschaft über Oberbayern gegen Brandenburg ein. Der „falsche Woldemar“ wurde von ihm endgültig besiegt."
+    },
+    {
+      "name": "Ludwig II., „der Römer“ (* 12. Mai 1328 in Rom; † 17. Mai 1365)",
+      "reign": "1356–1364/1365",
+      "title": "Kurfürsten von Brandenburg",
+      "dynasty_period": "Wittelsbacher",
+      "notes": "Nachdem sich Ludwig mit seinen bayerischen Brüdern zerstritten hatte, verbündete er sich mit Kaiser Karl IV. und versprach seinem Haus die Herrschaft über Brandenburg, sollten er und sein Bruder Otto V. kinderlos sterben."
+    },
+    {
+      "name": "Otto V., „der Faule“ (* 1346; † 15. November 1379)",
+      "reign": "1364/1365–1373",
+      "title": "Kurfürsten von Brandenburg",
+      "dynasty_period": "Wittelsbacher",
+      "notes": "Bruder Ludwigs II. Er verkaufte die Niederlausitz an die Wettiner und verlor Gebiete an Polen. Seine Politik veranlasste Karl IV., 1371 in Brandenburg einzumarschieren. Bis 1373 blieb Otto nur noch formell Herrscher, dann verkaufte er die Mark endgültig an Karl IV."
+    },
+    {
+      "name": "Wenzel „der Faule“ (* 26. Februar 1361; † 16. August 1419)",
+      "reign": "1373–1378",
+      "title": "Kurfürsten von Brandenburg",
+      "dynasty_period": "Luxemburger",
+      "notes": "Sohn Kaiser Karls IV., seit 1363 König von Böhmen und seit 1378 König des Heiligen Römischen Reiches."
+    },
+    {
+      "name": "Sigismund (* 15. Februar 1368; † 9. Dezember 1437)",
+      "reign": "1378–1388",
+      "title": "Kurfürsten von Brandenburg",
+      "dynasty_period": "Luxemburger",
+      "notes": "Halbbruder Wenzels, seit 1387 König von Ungarn und Kroatien. Hohe Ausgaben zwangen ihn 1388, Brandenburg an seinen Cousin Jobst von Mähren zu verpfänden. Später römisch-deutscher König (ab 1410/1411), König von Böhmen (ab 1419/1420) und römischer Kaiser (ab 1433)."
+    },
+    {
+      "name": "Jobst (* 1351; † 18. Januar 1411)",
+      "reign": "1388–1411",
+      "title": "Kurfürsten von Brandenburg",
+      "dynasty_period": "Luxemburger",
+      "notes": "Sohn Johann Heinrichs von Tirol, seit 1375 Markgraf von Mähren, seit 1410 römisch-deutscher König. Jobst starb im darauf folgenden Jahr unter ungeklärten Umständen."
+    },
+    {
+      "name": "Sigismund",
+      "reign": "1411–1415",
+      "title": "Kurfürsten von Brandenburg",
+      "dynasty_period": "Luxemburger",
+      "notes": "Nach dem Tod seines Cousins übernahm er wieder die Macht in Brandenburg und wurde auch dessen Nachfolger als römisch-deutscher König. 1415 belehnte er den Burggrafen von Nürnberg Friedrich VI. mit der Mark Brandenburg (förmliche Belehnung am 18. April 1417), der daraufhin Friedrich I. von Brandenburg wurde."
+    },
+    {
+      "name": "Friedrich I. (* 1371; † 20. September 1440)",
+      "reign": "1415–1440",
+      "title": "Kurfürsten von Brandenburg",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Seit 1398 war er als Friedrich VI. Burggraf von Nürnberg. Als Dank für die Unterstützung bei dessen Wahl zum römisch-deutschen König verlieh ihm König Sigismund 1415 die erbliche Würde des Markgrafen und Kurfürsten der Mark Brandenburg, woraufhin er zu Friedrich I. von Brandenburg wurde. Damit war auch das erbliche Amt des Erzkämmerers des Heiligen Römischen Reiches verbunden. 1425 überließ Friedrich I. seinem Sohn Johann die Regentschaft, blieb aber weiterhin Kurfürst."
+    },
+    {
+      "name": "Friedrich II., „der Eiserne“ (Eisenzahn) (* 19. November 1413; † 10. Februar 1471)",
+      "reign": "1440–1471",
+      "title": "Kurfürsten von Brandenburg",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Sohn Friedrichs I. Er widmete sich der Stärkung und Sicherung Brandenburgs und erwarb 1454 die Neumark vom Deutschen Orden. 1470 übergab er die Regentschaft an seinen Bruder Albrecht Achilles, blieb aber noch bis zu seinem Tod 1471 Kurfürst."
+    },
+    {
+      "name": "Albrecht „Achilles“ (* 9. November 1414; † 11. März 1486)",
+      "reign": "1471–1486",
+      "title": "Kurfürsten von Brandenburg",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Sohn Friedrichs I., seit 1440 Markgraf von Brandenburg-Ansbach und seit 1471 Markgraf von Brandenburg-Kulmbach. 1473 erließ er die Dispositio Achillea, in der die Unteilbarkeit Brandenburgs festgelegt wurde. Im gleichen Jahr übergab er die Regentschaft an seinen Sohn Johann Cicero, blieb aber noch bis 1486 Kurfürst."
+    },
+    {
+      "name": "Johann „Cicero“ (* 2. August 1455; † 9. Januar 1499)",
+      "reign": "1486–1499",
+      "title": "Kurfürsten von Brandenburg",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Sohn Albrecht Achilles’. Er machte Berlin zur Residenzstadt."
+    },
+    {
+      "name": "Joachim I., „Nestor“ (* 21. Februar 1484; † 11. Juli 1535)",
+      "reign": "1499–1535",
+      "title": "Kurfürsten von Brandenburg",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Sohn Johann Ciceros. Bis 1513 regierte er gemeinsam mit seinem Bruder Albrecht. Er begründete die Universität in Frankfurt an der Oder und vereinheitlichte das Erbrecht in den Ländern der Hohenzollern. Nach seinem Tod wurde Brandenburg zwischen seinen beiden Söhnen Joachim II. und Johann aufgeteilt, letzterer erhielt Teile der Neumark."
+    },
+    {
+      "name": "Joachim II., „Hector“ (* 13. Januar 1505; † 3. Januar 1571)",
+      "reign": "1535–1571",
+      "title": "Kurfürsten von Brandenburg",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Sohn Joachims I. Unter seiner Herrschaft hielt die Reformation Einzug in Brandenburg. Er selbst bekannte sich 1558 durch die Unterzeichnung des Frankfurter Rezesses zur Augsburger Konfession. Das Bistum Havelberg fällt 1571 an Brandenburg."
+    },
+    {
+      "name": "Johann Georg (* 11. September 1525; † 18. Januar 1598)",
+      "reign": "1571–1598",
+      "title": "Kurfürsten von Brandenburg",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Sohn Joachims II. Da sein Onkel Johann keinen Erben hinterließ, konnte Johann Georg wieder über ein vereintes Brandenburg herrschen. Er stach vor allem durch die Konsolidierung der brandenburgischen Finanzen hervor."
+    },
+    {
+      "name": "Joachim Friedrich (* 27. Januar 1546; † 18. Juli 1608)",
+      "reign": "1598–1608",
+      "title": "Kurfürsten von Brandenburg",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Sohn Johann Georgs. 1603 wurde er Regent des Herzogtums Preußen. Er ließ die erste Glashütte Brandenburgs errichten sowie den Finowkanal zwischen Oder und Havel anlegen."
+    },
+    {
+      "name": "Johann Sigismund (* 8. November 1572; † 2. Januar 1620)",
+      "reign": "1608–1619",
+      "title": "Kurfürsten von Brandenburg",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Sohn Joachim Friedrichs. Im Jülich-Klevischen Erbfolgestreit und Vertrag von Xanten von 1609 erhielt Brandenburg das Herzogtum Kleve, die Grafschaft Mark und die Grafschaft Ravensberg. Er trat 1613 vom lutherischen zum reformierten Bekenntnis über. 1618 wurde er Herzog von Preußen."
+    },
+    {
+      "name": "Georg Wilhelm (* 13. November 1595; † 1. Dezember 1640)",
+      "reign": "1619–1640",
+      "title": "Kurfürsten von Brandenburg",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Sohn Johann Sigismunds. Im Dreißigjährigen Krieg verlor Brandenburg einen großen Teil seiner Bevölkerung. 1638 verlegte Georg Wilhelm die Residenz ins preußische Königsberg."
+    },
+    {
+      "name": "Friedrich Wilhelm, „der Große Kurfürst“ (* 16. Februar 1620; † 9. Mai 1688)",
+      "reign": "1640–1688",
+      "title": "Kurfürsten von Brandenburg",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Sohn Georg Wilhelms, erließ 1685 das Potsdamer Edikt, indem er den in Frankreich wegen ihrer Religion verfolgten protestantischen Hugenotten freie und sichere Niederlassung in Brandenburg anbot. Den Flüchtlingen wurden großzügige Privilegien gewährt. Das Bistum Minden, das Bistum Halberstadt und Hinterpommern fallen 1648 und das Erzstift Magdeburg 1680 an Brandenburg."
+    },
+    {
+      "name": "Friedrich III. (* 11. Juli 1657; † 25. Februar 1713)",
+      "reign": "1688–1713",
+      "title": "Kurfürsten von Brandenburg",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Sohn des „Großen Kurfürsten“. Titel vor der Krönung zum König 1701: „Kurfürst Friedrich III. von Brandenburg“"
+    },
+    {
+      "name": "Friedrich I. (* 11. Juli 1657; † 25. Februar 1713)",
+      "reign": "1688–1713",
+      "title": "Könige in Preußen",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Krönung in Königsberg am 18. Januar 1701 zu: „Friedrich I. König in Preußen “. Die Grafschaft Lingen fällt 1702 und die Grafschaft Tecklenburg fällt 1707 an Preußen."
+    },
+    {
+      "name": "Friedrich Wilhelm I., „der Soldatenkönig“ (* 14. August 1688; † 31. Mai 1740)",
+      "reign": "1713–1740",
+      "title": "Könige in Preußen",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Sohn Friedrichs I.; Altvorpommern fällt 1720 an Preußen"
+    },
+    {
+      "name": "Friedrich II., „der Große“/„Alter Fritz“ (* 24. Januar 1712; † 17. August 1786)",
+      "reign": "1740–1772",
+      "title": "Könige in Preußen",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Sohn Friedrich Wilhelms I., Titel bis zur Ersten Polnischen Teilung 1772: „König in Preußen“, Ostfriesland fällt 1744 an Preußen. Erster Schlesischer Krieg (1742–1744) und Zweiter Schlesischer Krieg (1744/1745). Schlesien fällt an Preußen."
+    },
+    {
+      "name": "Friedrich II., „der Große“/„Alter Fritz“ (* 24. Januar 1712; † 17. August 1786)",
+      "reign": "1772–1786",
+      "title": "Könige von Preußen",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Sohn Friedrich Wilhelms I., Titel ab der Ersten Polnischen Teilung 1772: „König von Preußen“"
+    },
+    {
+      "name": "Friedrich Wilhelm II. (* 25. September 1744; † 16. November 1797)",
+      "reign": "1786–1797",
+      "title": "Könige von Preußen",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Neffe des kinderlosen Königs Friedrich II. von Preußen"
+    },
+    {
+      "name": "Friedrich Wilhelm III. (* 3. August 1770; † 7. Juni 1840)",
+      "reign": "1797–1840",
+      "title": "Könige von Preußen",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Sohn Friedrich Wilhelms II., bis zur Auflösung des Heiligen Römischen Reiches im Jahre 1806 dessen letzter Erzkämmerer und Kurfürst von Brandenburg. Preußen erhielt im Reichsdeputationshauptschluss von 1803 die Hochstifte Hildesheim und Paderborn (Fürstentum Paderborn), Teile des Hochstifts Münster (Erbfürstentum Münster), das Eichsfeld, die Reichsstädte Mühlhausen/Thüringen, Nordhausen und Goslar und die Reichsstifte Quedlinburg, Elten, Essen und Herford und Werden, die es nach Französischer Besatzungszeit unter Napoleon 1815 erneut zugesprochen bekommt. Schwedisch-Pommern fällt 1815 an Preußen."
+    },
+    {
+      "name": "Friedrich Wilhelm IV. (* 15. Oktober 1795; † 2. Januar 1861)",
+      "reign": "1840–1861",
+      "title": "Könige von Preußen",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Sohn Friedrich Wilhelms III."
+    },
+    {
+      "name": "Wilhelm I. (* 22. März 1797; † 9. März 1888)",
+      "reign": "1861–1888",
+      "title": "Könige von Preußen",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Bruder des kinderlosen Königs Friedrich Wilhelms IV., ab 1871 in Personalunion Deutscher Kaiser"
+    },
+    {
+      "name": "Friedrich III. (* 18. Oktober 1831; † 15. Juni 1888)",
+      "reign": "1888",
+      "title": "Könige von Preußen",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Sohn Kaiser Wilhelms I., in Personalunion Deutscher Kaiser, 99-Tage-Kaiser"
+    },
+    {
+      "name": "Wilhelm II. (* 27. Januar 1859; † 4. Juni 1941)",
+      "reign": "1888–1918",
+      "title": "Könige von Preußen",
+      "dynasty_period": "Hohenzollern",
+      "notes": "Sohn Kaiser Friedrichs III., letzter König von Preußen sowie in Personalunion letzter Deutscher Kaiser, Wilhelminismus"
+    }
+  ],
+  "meta": {
+    "title": "Herrscher von Brandenburg - Free Download",
+    "description": "Markgrafen, Kurfürsten und Könige in bzw. von Preußen als Herrscher der Mark Brandenburg vom 12. Jahrhundert bis 1918 mit Regierungszeit, Titel, Dynastie und Anmerkungen. Contains 45 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Herrscher von Brandenburg | ListBase",
+    "seo_description": "Download Herrscher von Brandenburg — 45 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 45 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Herrscher_von_Brandenburg"
+    ]
+  }
+}
