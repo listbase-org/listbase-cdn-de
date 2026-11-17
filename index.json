@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-16T02:29:00.085Z",
-  "total_datasets": 571,
-  "total_records": 1880486,
+  "generated": "2026-11-17T02:31:16.402Z",
+  "total_datasets": 572,
+  "total_records": 1880603,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "geography",
@@ -3665,6 +3665,33 @@
         "xlsx": {
           "name": "de-ch-kaesesorten_DE.xlsx",
           "size": 8344
+        }
+      }
+    },
+    {
+      "id": "de-geschuetzte-herkunftsangaben-lebensmittel",
+      "name": "Geschützte Ursprungsbezeichnungen und geografische Angaben für Lebensmittel aus Deutschland und Österreich",
+      "category": "food",
+      "record_count": 117,
+      "columns": [
+        "name",
+        "country",
+        "gi_type",
+        "status",
+        "file_number",
+        "registration_date"
+      ],
+      "source": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+      "updated": "2026-11",
+      "size": 31733,
+      "files": {
+        "csv": {
+          "name": "de-geschuetzte-herkunftsangaben-lebensmittel_DE.csv",
+          "size": 14206
+        },
+        "xlsx": {
+          "name": "de-geschuetzte-herkunftsangaben-lebensmittel_DE.xlsx",
+          "size": 12125
         }
       }
     },

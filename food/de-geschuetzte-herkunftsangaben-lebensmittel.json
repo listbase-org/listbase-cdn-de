@@ -1,0 +1,992 @@
+{
+  "id": "de-geschuetzte-herkunftsangaben-lebensmittel",
+  "name": "Geschützte Ursprungsbezeichnungen und geografische Angaben für Lebensmittel aus Deutschland und Österreich",
+  "title": "Geschützte Ursprungsbezeichnungen und geografische Angaben für Lebensmittel aus Deutschland und Österreich",
+  "description": "Im EU-Register eAmbrosia eingetragene oder beantragte Lebensmittel mit g.U. oder g.g.A. aus Deutschland und Österreich (z. B. Schwarzwälder Schinken, Tiroler Speck) mit Aktenzeichen und Eintragungsdatum.",
+  "category": "food",
+  "source": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+  "source_url": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+  "updated": "2026-11",
+  "record_count": 117,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "gi_type",
+      "label": "Gi Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "file_number",
+      "label": "File Number",
+      "type": "string"
+    },
+    {
+      "key": "registration_date",
+      "label": "Registration Date",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aachener Printen",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-9095",
+      "registration_date": "1997-01-24"
+    },
+    {
+      "name": "Aachener Weihnachts-Leberwurst",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-01053",
+      "registration_date": "2016-02-10"
+    },
+    {
+      "name": "Abensberger Spargel",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0852",
+      "registration_date": "2012-11-08"
+    },
+    {
+      "name": "Aischgründer Karpfen",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0689",
+      "registration_date": "2012-11-24"
+    },
+    {
+      "name": "Allgäuer Bergkäse",
+      "country": "Deutschland",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-DE-0460",
+      "registration_date": "1997-01-24"
+    },
+    {
+      "name": "Allgäuer Emmentaler",
+      "country": "Deutschland",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-DE-0459",
+      "registration_date": "1997-01-24"
+    },
+    {
+      "name": "Allgäuer Sennalpkäse",
+      "country": "Deutschland",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-DE-00897",
+      "registration_date": "2016-06-14"
+    },
+    {
+      "name": "Altenburger Ziegenkäse",
+      "country": "Deutschland",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-DE-0461",
+      "registration_date": "1997-01-24"
+    },
+    {
+      "name": "Ammerländer Dielenrauchschinken",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-1225",
+      "registration_date": "1997-01-24"
+    },
+    {
+      "name": "Ammerländer Schinken",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-1223",
+      "registration_date": "1997-01-24"
+    },
+    {
+      "name": "Bamberger Hörnla",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0802",
+      "registration_date": "2013-10-05"
+    },
+    {
+      "name": "Bayerische Breze",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0971",
+      "registration_date": "2014-02-21"
+    },
+    {
+      "name": "Bayerischer Meerrettich",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0299",
+      "registration_date": "2007-10-10"
+    },
+    {
+      "name": "Bayerisches Bier",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0518",
+      "registration_date": "2001-07-05"
+    },
+    {
+      "name": "Bayerisches Rindfleisch",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0640",
+      "registration_date": "2011-03-22"
+    },
+    {
+      "name": "Bayrisch Blockmalz",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-01354",
+      "registration_date": "2018-11-28"
+    },
+    {
+      "name": "Beelitzer Spargel",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-02167",
+      "registration_date": "2018-03-15"
+    },
+    {
+      "name": "Berliner Currywurst ohne Darm",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "beantragt",
+      "file_number": "PGI-DE-02983",
+      "registration_date": ""
+    },
+    {
+      "name": "Bornheimer Spargel",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0803",
+      "registration_date": "2014-03-14"
+    },
+    {
+      "name": "Bremer Bier",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0514",
+      "registration_date": "1998-07-18"
+    },
+    {
+      "name": "Bremer Klaben",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0333",
+      "registration_date": "2009-12-03"
+    },
+    {
+      "name": "Diepholzer Moorschnucke",
+      "country": "Deutschland",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-DE-1096",
+      "registration_date": "1998-01-21"
+    },
+    {
+      "name": "Dithmarscher Gans",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-02964",
+      "registration_date": "2024-07-31"
+    },
+    {
+      "name": "Dithmarscher Kohl",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-1015",
+      "registration_date": "2014-01-21"
+    },
+    {
+      "name": "Dortmunder Bier",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-1101",
+      "registration_date": "1998-07-18"
+    },
+    {
+      "name": "Dresdner Christstollen",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0704",
+      "registration_date": "2010-11-27"
+    },
+    {
+      "name": "Düsseldorfer Mostert",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0799",
+      "registration_date": "2012-08-21"
+    },
+    {
+      "name": "Eichsfelder Feldgieker",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0773",
+      "registration_date": "2013-05-17"
+    },
+    {
+      "name": "Elbe-Saale Hopfen",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-1071",
+      "registration_date": "2014-04-15"
+    },
+    {
+      "name": "Feldsalat von der Insel Reichenau",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0318",
+      "registration_date": "2008-02-22"
+    },
+    {
+      "name": "Filderkraut",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0822",
+      "registration_date": "2012-10-24"
+    },
+    {
+      "name": "Flönz",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-01257",
+      "registration_date": "2016-07-29"
+    },
+    {
+      "name": "Frankfurter Grüne Soße",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-00884",
+      "registration_date": "2016-03-09"
+    },
+    {
+      "name": "Fränkischer Grünkern",
+      "country": "Deutschland",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-DE-1144",
+      "registration_date": "2015-04-08"
+    },
+    {
+      "name": "Fränkischer Karpfen",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0688",
+      "registration_date": "2012-10-31"
+    },
+    {
+      "name": "Glückstädter Matjes",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-1112",
+      "registration_date": "2015-05-28"
+    },
+    {
+      "name": "Greußener Salami",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-1266",
+      "registration_date": "1998-03-21"
+    },
+    {
+      "name": "Gurken von der Insel Reichenau",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0320",
+      "registration_date": "2008-02-22"
+    },
+    {
+      "name": "Göttinger Feldkieker",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0721",
+      "registration_date": "2011-07-27"
+    },
+    {
+      "name": "Göttinger Stracke",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0703",
+      "registration_date": "2011-07-27"
+    },
+    {
+      "name": "Halberstädter Würstchen",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0615",
+      "registration_date": "2010-10-09"
+    },
+    {
+      "name": "Hessischer Apfelwein",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0620",
+      "registration_date": "2010-10-30"
+    },
+    {
+      "name": "Hessischer Handkäse",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0618",
+      "registration_date": "2010-09-04"
+    },
+    {
+      "name": "Hofer Bier",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0472",
+      "registration_date": "1998-07-18"
+    },
+    {
+      "name": "Hofer Rindfleischwurst",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0722",
+      "registration_date": "2011-02-04"
+    },
+    {
+      "name": "Holsteiner Katenschinken",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0713",
+      "registration_date": "2012-01-31"
+    },
+    {
+      "name": "Holsteiner Tilsiter",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0807",
+      "registration_date": "2013-12-06"
+    },
+    {
+      "name": "Hopfen aus der Hallertau",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0529",
+      "registration_date": "2010-05-07"
+    },
+    {
+      "name": "Höri Bülle",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-1040",
+      "registration_date": "2014-03-11"
+    },
+    {
+      "name": "Kulmbacher Bier",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0473",
+      "registration_date": "1998-07-18"
+    },
+    {
+      "name": "Kölsch",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0655",
+      "registration_date": "1997-11-25"
+    },
+    {
+      "name": "Lausitzer Leinöl",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0547",
+      "registration_date": "1997-11-25"
+    },
+    {
+      "name": "Lübecker Marzipan",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0657",
+      "registration_date": "1996-07-02"
+    },
+    {
+      "name": "Lüneburger Heidekartoffeln",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0614",
+      "registration_date": "2010-08-05"
+    },
+    {
+      "name": "Lüneburger Heidschnucke",
+      "country": "Deutschland",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-DE-0658",
+      "registration_date": "1998-01-21"
+    },
+    {
+      "name": "Mainfranken Bier",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-1102",
+      "registration_date": "1998-07-18"
+    },
+    {
+      "name": "Meißner Fummel",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0079",
+      "registration_date": "2000-07-20"
+    },
+    {
+      "name": "Münchener Bier",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0516",
+      "registration_date": "1998-07-18"
+    },
+    {
+      "name": "Nieheimer Käse",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0530",
+      "registration_date": "2010-05-13"
+    },
+    {
+      "name": "Nordhessische Ahle Wurscht",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-02173",
+      "registration_date": "2023-06-08"
+    },
+    {
+      "name": "Nürnberger Bratwürste",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0184",
+      "registration_date": "2003-07-16"
+    },
+    {
+      "name": "Nürnberger Glühwein",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-02344",
+      "registration_date": "1991-06-14"
+    },
+    {
+      "name": "Nürnberger Lebkuchen",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0670",
+      "registration_date": "1996-07-02"
+    },
+    {
+      "name": "Obazda",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-1069",
+      "registration_date": "2015-06-26"
+    },
+    {
+      "name": "Oberlausitzer Biokarpfen",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-01070",
+      "registration_date": "2015-11-18"
+    },
+    {
+      "name": "Oberpfälzer Karpfen",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0191",
+      "registration_date": "2002-08-22"
+    },
+    {
+      "name": "Obst vom Bodensee",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "veröffentlicht",
+      "file_number": "PGI-DE-02820",
+      "registration_date": ""
+    },
+    {
+      "name": "Odenwälder Frühstückskäse",
+      "country": "Deutschland",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-DE-0462",
+      "registration_date": "1997-11-25"
+    },
+    {
+      "name": "Oecher Puttes",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-00946",
+      "registration_date": "2016-07-06"
+    },
+    {
+      "name": "Oktoberfestbier",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-1034",
+      "registration_date": "2022-10-28"
+    },
+    {
+      "name": "Peitzer Karpfen",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-02587",
+      "registration_date": "2022-10-05"
+    },
+    {
+      "name": "Reuther Bier",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-1324",
+      "registration_date": "1998-03-21"
+    },
+    {
+      "name": "Rheinisches Apfelkraut",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0716",
+      "registration_date": "2011-12-23"
+    },
+    {
+      "name": "Rheinisches Zuckerrübenkraut",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0717",
+      "registration_date": "2012-07-13"
+    },
+    {
+      "name": "Salate von der Insel Reichenau",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0317",
+      "registration_date": "2008-02-22"
+    },
+    {
+      "name": "Salzwedeler Baumkuchen",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0733",
+      "registration_date": "2010-12-10"
+    },
+    {
+      "name": "Schrobenhausener Spargel",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0678",
+      "registration_date": "2010-10-09"
+    },
+    {
+      "name": "Schwarzwaldforelle",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-1232",
+      "registration_date": "1997-11-25"
+    },
+    {
+      "name": "Schwarzwälder Schinken",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0686",
+      "registration_date": "1997-01-24"
+    },
+    {
+      "name": "Schwäbisch-Hällisches Qualitätsschweinefleisch",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-1272",
+      "registration_date": "1998-03-21"
+    },
+    {
+      "name": "Schwäbische Maultaschen",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0521",
+      "registration_date": "2009-10-23"
+    },
+    {
+      "name": "Schwäbische Spätzle",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0738",
+      "registration_date": "2012-03-08"
+    },
+    {
+      "name": "Spalt Spalter",
+      "country": "Deutschland",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-DE-0843",
+      "registration_date": "2012-10-31"
+    },
+    {
+      "name": "Spargel aus Franken",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0804",
+      "registration_date": "2013-03-15"
+    },
+    {
+      "name": "Spreewälder Gurken",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0561",
+      "registration_date": "1999-03-19"
+    },
+    {
+      "name": "Spreewälder Gurkensülze",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-02601",
+      "registration_date": "2022-06-15"
+    },
+    {
+      "name": "Spreewälder Meerrettich",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0562",
+      "registration_date": "1999-03-19"
+    },
+    {
+      "name": "Stromberger Pflaume",
+      "country": "Deutschland",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-DE-0841",
+      "registration_date": "2013-11-08"
+    },
+    {
+      "name": "Tettnanger Hopfen",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0528",
+      "registration_date": "2010-05-13"
+    },
+    {
+      "name": "Thüringer Glühwein",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-02345",
+      "registration_date": "1996-10-30"
+    },
+    {
+      "name": "Thüringer Leberwurst",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0222",
+      "registration_date": "2003-12-18"
+    },
+    {
+      "name": "Thüringer Rostbratwurst",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0223",
+      "registration_date": "2003-12-18"
+    },
+    {
+      "name": "Thüringer Rotwurst",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0224",
+      "registration_date": "2003-12-18"
+    },
+    {
+      "name": "Tomaten von der Insel Reichenau",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0319",
+      "registration_date": "2008-02-22"
+    },
+    {
+      "name": "Walbecker Spargel",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0857",
+      "registration_date": "2013-08-09"
+    },
+    {
+      "name": "Weideochse vom Limpurger Rind",
+      "country": "Deutschland",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-DE-0881",
+      "registration_date": "2013-09-24"
+    },
+    {
+      "name": "Weißlacker",
+      "country": "Deutschland",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-DE-0986",
+      "registration_date": "2015-02-26"
+    },
+    {
+      "name": "Westfälischer Knochenschinken",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-0854",
+      "registration_date": "2013-11-05"
+    },
+    {
+      "name": "Westfälischer Pumpernickel",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-DE-1095",
+      "registration_date": "2014-11-21"
+    },
+    {
+      "name": "Witzenhäuser Kirschen",
+      "country": "Deutschland",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "beantragt",
+      "file_number": "PGI-DE-03442",
+      "registration_date": ""
+    },
+    {
+      "name": "Ennstaler Steirerkas",
+      "country": "Österreich",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-AT-02588",
+      "registration_date": "2021-05-10"
+    },
+    {
+      "name": "Gailtaler Almkäse",
+      "country": "Österreich",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-AT-1425",
+      "registration_date": "1997-01-24"
+    },
+    {
+      "name": "Gailtaler Speck",
+      "country": "Österreich",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-AT-0192",
+      "registration_date": "2002-07-11"
+    },
+    {
+      "name": "Lesachtaler Brot",
+      "country": "Österreich",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-AT-02849",
+      "registration_date": "2023-06-26"
+    },
+    {
+      "name": "Marchfeldspargel",
+      "country": "Österreich",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-AT-1462",
+      "registration_date": "1996-07-02"
+    },
+    {
+      "name": "Pöllauer Hirschbirne",
+      "country": "Österreich",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-AT-1190",
+      "registration_date": "2015-04-14"
+    },
+    {
+      "name": "Steirische Käferbohne",
+      "country": "Österreich",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-AT-01272",
+      "registration_date": "2016-08-24"
+    },
+    {
+      "name": "Steirischer Kren",
+      "country": "Österreich",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-AT-0249",
+      "registration_date": "2008-12-11"
+    },
+    {
+      "name": "Steirisches Kürbiskernöl",
+      "country": "Österreich",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-AT-1460",
+      "registration_date": "1996-07-02"
+    },
+    {
+      "name": "Tiroler Almkäse",
+      "country": "Österreich",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-AT-1436",
+      "registration_date": "1997-11-25"
+    },
+    {
+      "name": "Tiroler Bergkäse",
+      "country": "Österreich",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-AT-1416",
+      "registration_date": "1997-06-13"
+    },
+    {
+      "name": "Tiroler Graukäse",
+      "country": "Österreich",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-AT-1435",
+      "registration_date": "1996-07-02"
+    },
+    {
+      "name": "Tiroler Speck",
+      "country": "Österreich",
+      "gi_type": "g.g.A. (geschützte geografische Angabe)",
+      "status": "eingetragen",
+      "file_number": "PGI-AT-1395",
+      "registration_date": "1997-06-13"
+    },
+    {
+      "name": "Vorarlberger Alpkäse",
+      "country": "Österreich",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-AT-1413",
+      "registration_date": "1997-06-13"
+    },
+    {
+      "name": "Vorarlberger Bergkäse",
+      "country": "Österreich",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-AT-1419",
+      "registration_date": "1997-06-13"
+    },
+    {
+      "name": "Wachauer Marille",
+      "country": "Österreich",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-AT-1473",
+      "registration_date": "1996-06-21"
+    },
+    {
+      "name": "Waldviertler Graumohn",
+      "country": "Österreich",
+      "gi_type": "g.U. (geschützte Ursprungsbezeichnung)",
+      "status": "eingetragen",
+      "file_number": "PDO-AT-1463",
+      "registration_date": "1997-06-13"
+    }
+  ],
+  "meta": {
+    "title": "Geschützte Ursprungsbezeichnungen und geografische Angaben für Lebensmittel aus Deutschland und Österreich - Free Download",
+    "description": "Im EU-Register eAmbrosia eingetragene oder beantragte Lebensmittel mit g.U. oder g.g.A. aus Deutschland und Österreich (z. B. Schwarzwälder Schinken, Tiroler Speck) mit Aktenzeichen und Eintragungsdatum. Contains 117 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Geschützte Ursprungsbezeichnungen und geografische Angaben für Lebensmittel aus Deutschland und Österreich | ListBase",
+    "seo_description": "Download Geschützte Ursprungsbezeichnungen und geografische Angaben für Lebensmittel aus Deutschland und Österreich — 117 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 117 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/"
+    ]
+  }
+}
