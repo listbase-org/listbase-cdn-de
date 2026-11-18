@@ -1,0 +1,148 @@
+{
+  "id": "de-bundeslaender-armutsgefaehrdungsquote",
+  "name": "Deutsche Bundesländer nach Armutsgefährdungsquote (2024)",
+  "title": "Deutsche Bundesländer nach Armutsgefährdungsquote (2024)",
+  "description": "Armutsgefährdungsquote der 16 deutschen Bundesländer im Jahr 2024, gemessen am Bundesmedian und am jeweiligen Landesmedian (Statistisches Bundesamt), mit Rang und Bundeswert.",
+  "category": "society",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Armutsgefährdungsquote",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Armutsgefährdungsquote",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "poverty_risk_rate_federal_median_pct",
+      "label": "Poverty Risk Rate Federal Median Pct",
+      "type": "number"
+    },
+    {
+      "key": "poverty_risk_rate_state_median_pct",
+      "label": "Poverty Risk Rate State Median Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "state": "Bremen",
+      "poverty_risk_rate_federal_median_pct": 25.9,
+      "poverty_risk_rate_state_median_pct": 19.7
+    },
+    {
+      "rank": 2,
+      "state": "Sachsen-Anhalt",
+      "poverty_risk_rate_federal_median_pct": 22.3,
+      "poverty_risk_rate_state_median_pct": 15.1
+    },
+    {
+      "rank": 3,
+      "state": "Nordrhein-Westfalen",
+      "poverty_risk_rate_federal_median_pct": 17.4,
+      "poverty_risk_rate_state_median_pct": 17.8
+    },
+    {
+      "rank": 4,
+      "state": "Mecklenburg-Vorpommern",
+      "poverty_risk_rate_federal_median_pct": 17.2,
+      "poverty_risk_rate_state_median_pct": 14.1
+    },
+    {
+      "rank": 5,
+      "state": "Niedersachsen",
+      "poverty_risk_rate_federal_median_pct": 16.9,
+      "poverty_risk_rate_state_median_pct": 16.6
+    },
+    {
+      "rank": 6,
+      "state": "Berlin",
+      "poverty_risk_rate_federal_median_pct": 16.5,
+      "poverty_risk_rate_state_median_pct": 19.1
+    },
+    {
+      "rank": 7,
+      "state": "Sachsen",
+      "poverty_risk_rate_federal_median_pct": 16.1,
+      "poverty_risk_rate_state_median_pct": 13
+    },
+    {
+      "rank": 8,
+      "state": "Hamburg",
+      "poverty_risk_rate_federal_median_pct": 16,
+      "poverty_risk_rate_state_median_pct": 19.5
+    },
+    {
+      "rank": 9,
+      "state": "Thüringen",
+      "poverty_risk_rate_federal_median_pct": 15.7,
+      "poverty_risk_rate_state_median_pct": 13.1
+    },
+    {
+      "rank": 10,
+      "state": "Rheinland-Pfalz",
+      "poverty_risk_rate_federal_median_pct": 15.6,
+      "poverty_risk_rate_state_median_pct": 16.6
+    },
+    {
+      "rank": 11,
+      "state": "Hessen",
+      "poverty_risk_rate_federal_median_pct": 15.5,
+      "poverty_risk_rate_state_median_pct": 17.2
+    },
+    {
+      "rank": 12,
+      "state": "Saarland",
+      "poverty_risk_rate_federal_median_pct": 15.3,
+      "poverty_risk_rate_state_median_pct": 17.6
+    },
+    {
+      "rank": 13,
+      "state": "Brandenburg",
+      "poverty_risk_rate_federal_median_pct": 14.9,
+      "poverty_risk_rate_state_median_pct": 13.4
+    },
+    {
+      "rank": 14,
+      "state": "Schleswig-Holstein",
+      "poverty_risk_rate_federal_median_pct": 14.7,
+      "poverty_risk_rate_state_median_pct": 17.3
+    },
+    {
+      "rank": 15,
+      "state": "Baden-Württemberg",
+      "poverty_risk_rate_federal_median_pct": 13.2,
+      "poverty_risk_rate_state_median_pct": 15.1
+    },
+    {
+      "rank": 16,
+      "state": "Bayern",
+      "poverty_risk_rate_federal_median_pct": 11.8,
+      "poverty_risk_rate_state_median_pct": 15.1
+    },
+    {
+      "rank": "",
+      "state": "Deutschland",
+      "poverty_risk_rate_federal_median_pct": 15.5,
+      "poverty_risk_rate_state_median_pct": 15.5
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Bundesländer nach Armutsgefährdungsquote (2024) - Free Download",
+    "description": "Armutsgefährdungsquote der 16 deutschen Bundesländer im Jahr 2024, gemessen am Bundesmedian und am jeweiligen Landesmedian (Statistisches Bundesamt), mit Rang und Bundeswert. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Deutsche Bundesländer nach Armutsgefährdungsquote (2024) | ListBase",
+    "seo_description": "Download Deutsche Bundesländer nach Armutsgefährdungsquote (2024) — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Armutsgefährdungsquote"
+    ]
+  }
+}

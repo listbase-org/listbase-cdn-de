@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-18T02:27:21.776Z",
-  "total_datasets": 575,
-  "total_records": 1881597,
+  "generated": "2026-11-18T02:28:15.055Z",
+  "total_datasets": 576,
+  "total_records": 1881614,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "sports",
@@ -13175,6 +13175,31 @@
         "xlsx": {
           "name": "de-planetarien_DE.xlsx",
           "size": 13690
+        }
+      }
+    },
+    {
+      "id": "de-bundeslaender-armutsgefaehrdungsquote",
+      "name": "Deutsche Bundesländer nach Armutsgefährdungsquote (2024)",
+      "category": "society",
+      "record_count": 17,
+      "columns": [
+        "rank",
+        "state",
+        "poverty_risk_rate_federal_median_pct",
+        "poverty_risk_rate_state_median_pct"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Armutsgefährdungsquote",
+      "updated": "2026-11",
+      "size": 4779,
+      "files": {
+        "csv": {
+          "name": "de-bundeslaender-armutsgefaehrdungsquote_DE.csv",
+          "size": 649
+        },
+        "xlsx": {
+          "name": "de-bundeslaender-armutsgefaehrdungsquote_DE.xlsx",
+          "size": 7281
         }
       }
     },
