@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-18T02:28:15.055Z",
-  "total_datasets": 576,
-  "total_records": 1881614,
+  "generated": "2026-11-18T02:28:23.539Z",
+  "total_datasets": 577,
+  "total_records": 1881631,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "society",
@@ -12971,6 +12971,31 @@
         "xlsx": {
           "name": "li-communes_DE.xlsx",
           "size": 7088
+        }
+      }
+    },
+    {
+      "id": "de-bundeslaender-forschungsausgaben",
+      "name": "Deutsche Bundesländer nach Ausgaben für Forschung und Entwicklung (2024)",
+      "category": "science",
+      "record_count": 17,
+      "columns": [
+        "rank",
+        "state",
+        "rd_expenditure_mio_eur",
+        "rd_share_of_gdp_pct"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Ausgaben_für_Forschung_und_Entwicklung",
+      "updated": "2026-11",
+      "size": 4353,
+      "files": {
+        "csv": {
+          "name": "de-bundeslaender-forschungsausgaben_DE.csv",
+          "size": 628
+        },
+        "xlsx": {
+          "name": "de-bundeslaender-forschungsausgaben_DE.xlsx",
+          "size": 7309
         }
       }
     },

@@ -1,0 +1,148 @@
+{
+  "id": "de-bundeslaender-forschungsausgaben",
+  "name": "Deutsche Bundesländer nach Ausgaben für Forschung und Entwicklung (2024)",
+  "title": "Deutsche Bundesländer nach Ausgaben für Forschung und Entwicklung (2024)",
+  "description": "Ausgaben für Forschung und Entwicklung (FuE) der 16 deutschen Bundesländer im Jahr 2024 in Millionen Euro sowie als Anteil am Bruttoinlandsprodukt (Forschungsintensität).",
+  "category": "science",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Ausgaben_für_Forschung_und_Entwicklung",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Ausgaben_für_Forschung_und_Entwicklung",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "rd_expenditure_mio_eur",
+      "label": "Rd Expenditure Mio Eur",
+      "type": "number"
+    },
+    {
+      "key": "rd_share_of_gdp_pct",
+      "label": "Rd Share Of Gdp Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "state": "Baden-Württemberg",
+      "rd_expenditure_mio_eur": 37251,
+      "rd_share_of_gdp_pct": 5.71
+    },
+    {
+      "rank": 2,
+      "state": "Bayern",
+      "rd_expenditure_mio_eur": 26981,
+      "rd_share_of_gdp_pct": 3.39
+    },
+    {
+      "rank": 3,
+      "state": "Nordrhein-Westfalen",
+      "rd_expenditure_mio_eur": 19853,
+      "rd_share_of_gdp_pct": 2.26
+    },
+    {
+      "rank": 4,
+      "state": "Niedersachsen",
+      "rd_expenditure_mio_eur": 10268,
+      "rd_share_of_gdp_pct": 2.67
+    },
+    {
+      "rank": 5,
+      "state": "Hessen",
+      "rd_expenditure_mio_eur": 12196,
+      "rd_share_of_gdp_pct": 3.28
+    },
+    {
+      "rank": 6,
+      "state": "Berlin",
+      "rd_expenditure_mio_eur": 6309,
+      "rd_share_of_gdp_pct": 3.03
+    },
+    {
+      "rank": 7,
+      "state": "Sachsen",
+      "rd_expenditure_mio_eur": 3869,
+      "rd_share_of_gdp_pct": 2.37
+    },
+    {
+      "rank": 8,
+      "state": "Rheinland-Pfalz",
+      "rd_expenditure_mio_eur": 6647,
+      "rd_share_of_gdp_pct": 3.68
+    },
+    {
+      "rank": 9,
+      "state": "Hamburg",
+      "rd_expenditure_mio_eur": 4226,
+      "rd_share_of_gdp_pct": 2.6
+    },
+    {
+      "rank": 10,
+      "state": "Schleswig-Holstein",
+      "rd_expenditure_mio_eur": 1928,
+      "rd_share_of_gdp_pct": 1.53
+    },
+    {
+      "rank": 11,
+      "state": "Thüringen",
+      "rd_expenditure_mio_eur": 2005,
+      "rd_share_of_gdp_pct": 2.58
+    },
+    {
+      "rank": 12,
+      "state": "Brandenburg",
+      "rd_expenditure_mio_eur": 1535,
+      "rd_share_of_gdp_pct": 1.51
+    },
+    {
+      "rank": 13,
+      "state": "Bremen",
+      "rd_expenditure_mio_eur": 1145,
+      "rd_share_of_gdp_pct": 2.77
+    },
+    {
+      "rank": 14,
+      "state": "Sachsen-Anhalt",
+      "rd_expenditure_mio_eur": 1159,
+      "rd_share_of_gdp_pct": 1.46
+    },
+    {
+      "rank": 15,
+      "state": "Mecklenburg-Vorpommern",
+      "rd_expenditure_mio_eur": 842,
+      "rd_share_of_gdp_pct": 1.38
+    },
+    {
+      "rank": 16,
+      "state": "Saarland",
+      "rd_expenditure_mio_eur": 728,
+      "rd_share_of_gdp_pct": 1.73
+    },
+    {
+      "rank": "",
+      "state": "Deutschland",
+      "rd_expenditure_mio_eur": 137060,
+      "rd_share_of_gdp_pct": 3.17
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Bundesländer nach Ausgaben für Forschung und Entwicklung (2024) - Free Download",
+    "description": "Ausgaben für Forschung und Entwicklung (FuE) der 16 deutschen Bundesländer im Jahr 2024 in Millionen Euro sowie als Anteil am Bruttoinlandsprodukt (Forschungsintensität). Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Deutsche Bundesländer nach Ausgaben für Forschung und Entwicklung (2024) | ListBase",
+    "seo_description": "Download Deutsche Bundesländer nach Ausgaben für Forschung und Entwicklung (2024) — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Ausgaben_für_Forschung_und_Entwicklung"
+    ]
+  }
+}
