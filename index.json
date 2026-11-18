@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-17T02:31:33.975Z",
-  "total_datasets": 574,
-  "total_records": 1881339,
+  "generated": "2026-11-18T02:27:21.776Z",
+  "total_datasets": 575,
+  "total_records": 1881597,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "politics",
@@ -6609,6 +6609,35 @@
         "xlsx": {
           "name": "de-nummer-eins-alben-deutschland-2015-2025_DE.xlsx",
           "size": 49265
+        }
+      }
+    },
+    {
+      "id": "de-nummer-eins-hits-singles-deutschland-2015-2025",
+      "name": "Nummer-eins-Hits (Singles) in Deutschland 2015–2025",
+      "category": "music",
+      "record_count": 258,
+      "columns": [
+        "chart_year",
+        "period",
+        "weeks_at_number_one",
+        "weeks_total",
+        "artist",
+        "title",
+        "songwriters",
+        "info"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Nummer-eins-Hits_in_Deutschland_(2025)",
+      "updated": "2026-11",
+      "size": 142639,
+      "files": {
+        "csv": {
+          "name": "de-nummer-eins-hits-singles-deutschland-2015-2025_DE.csv",
+          "size": 97671
+        },
+        "xlsx": {
+          "name": "de-nummer-eins-hits-singles-deutschland-2015-2025_DE.xlsx",
+          "size": 42701
         }
       }
     },
