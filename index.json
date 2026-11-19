@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-18T02:28:23.539Z",
-  "total_datasets": 577,
-  "total_records": 1881631,
+  "generated": "2026-11-19T02:28:30.110Z",
+  "total_datasets": 578,
+  "total_records": 1881861,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 33
+      "dataset_count": 34
     },
     {
       "id": "tech",
@@ -14624,6 +14624,32 @@
         "xlsx": {
           "name": "de-bundesliga-spiele_DE.xlsx",
           "size": 291292
+        }
+      }
+    },
+    {
+      "id": "de-deutsche-schachmeister",
+      "name": "Deutsche Meister im Schach",
+      "category": "sports",
+      "record_count": 230,
+      "columns": [
+        "year",
+        "champion",
+        "host",
+        "category",
+        "championship"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Meisterschaften_im_Schach",
+      "updated": "2026-11",
+      "size": 46789,
+      "files": {
+        "csv": {
+          "name": "de-deutsche-schachmeister_DE.csv",
+          "size": 21857
+        },
+        "xlsx": {
+          "name": "de-deutsche-schachmeister_DE.xlsx",
+          "size": 14945
         }
       }
     },

@@ -1,0 +1,1661 @@
+{
+  "id": "de-deutsche-schachmeister",
+  "name": "Deutsche Meister im Schach",
+  "title": "Deutsche Meister im Schach",
+  "description": "Deutsche Einzelmeister und Einzelmeisterinnen im Schach seit 1879 (inkl. DDR- und Westzonen-Meisterschaften) mit Jahr, Austragungsort und Meisterschaftsserie.",
+  "category": "sports",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Meisterschaften_im_Schach",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Meisterschaften_im_Schach",
+  "updated": "2026-11",
+  "record_count": 230,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "champion",
+      "label": "Champion",
+      "type": "string"
+    },
+    {
+      "key": "host",
+      "label": "Host",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "championship",
+      "label": "Championship",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1879,
+      "champion": "Berthold Englisch",
+      "host": "Leipzig",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1879–1914"
+    },
+    {
+      "year": 1881,
+      "champion": "Joseph Henry Blackburne",
+      "host": "Berlin",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1879–1914"
+    },
+    {
+      "year": 1883,
+      "champion": "Szymon Winawer",
+      "host": "Nürnberg",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1879–1914"
+    },
+    {
+      "year": 1885,
+      "champion": "Isidor Gunsberg",
+      "host": "Hamburg",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1879–1914"
+    },
+    {
+      "year": 1887,
+      "champion": "George Henry Mackenzie",
+      "host": "Frankfurt am Main",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1879–1914"
+    },
+    {
+      "year": 1889,
+      "champion": "Siegbert Tarrasch",
+      "host": "Breslau",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1879–1914"
+    },
+    {
+      "year": 1892,
+      "champion": "Siegbert Tarrasch",
+      "host": "Dresden",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1879–1914"
+    },
+    {
+      "year": 1893,
+      "champion": "Curt von Bardeleben, Carl August Walbrodt",
+      "host": "Kiel",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1879–1914"
+    },
+    {
+      "year": 1894,
+      "champion": "Siegbert Tarrasch",
+      "host": "Leipzig",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1879–1914"
+    },
+    {
+      "year": 1898,
+      "champion": "Amos Burn",
+      "host": "Köln",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1879–1914"
+    },
+    {
+      "year": 1900,
+      "champion": "Harry Nelson Pillsbury, Carl Schlechter",
+      "host": "München",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1879–1914"
+    },
+    {
+      "year": 1902,
+      "champion": "Dawid Janowski",
+      "host": "Hannover",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1879–1914"
+    },
+    {
+      "year": 1904,
+      "champion": "Rudolf Swiderski, Carl Schlechter, Curt von Bardeleben",
+      "host": "Coburg",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1879–1914"
+    },
+    {
+      "year": 1906,
+      "champion": "Frank James Marshall",
+      "host": "Nürnberg",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1879–1914"
+    },
+    {
+      "year": 1908,
+      "champion": "Frank James Marshall",
+      "host": "Düsseldorf",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1879–1914"
+    },
+    {
+      "year": 1910,
+      "champion": "Carl Schlechter",
+      "host": "Hamburg",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1879–1914"
+    },
+    {
+      "year": 1912,
+      "champion": "Oldřich Duras, Akiba Rubinstein",
+      "host": "Breslau",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1879–1914"
+    },
+    {
+      "year": 1914,
+      "champion": "wegen Kriegsausbruch abgebrochen – es führte Alexander Aljechin",
+      "host": "Mannheim",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1879–1914"
+    },
+    {
+      "year": 1921,
+      "champion": "Ehrhardt Post",
+      "host": "Hamburg",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1920–1932"
+    },
+    {
+      "year": 1922,
+      "champion": "Ehrhardt Post",
+      "host": "Bad Oeynhausen",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1920–1932"
+    },
+    {
+      "year": 1923,
+      "champion": "Ernst Grünfeld",
+      "host": "Frankfurt am Main",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1920–1932"
+    },
+    {
+      "year": 1925,
+      "champion": "Efim Bogoljubow",
+      "host": "Breslau",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1920–1932"
+    },
+    {
+      "year": 1927,
+      "champion": "Rudolf Spielmann",
+      "host": "Magdeburg",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1920–1932"
+    },
+    {
+      "year": 1929,
+      "champion": "Carl Ahues",
+      "host": "Duisburg",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1920–1932"
+    },
+    {
+      "year": 1931,
+      "champion": "Efim Bogoljubow",
+      "host": "Swinemünde",
+      "category": "Männer",
+      "championship": "Kongresse des DSB 1920–1932"
+    },
+    {
+      "year": 1933,
+      "champion": "Efim Bogoljubow",
+      "host": "Bad Pyrmont",
+      "category": "Männer",
+      "championship": "Kongresse des Großdeutschen Schachbundes 1933–1943"
+    },
+    {
+      "year": 1934,
+      "champion": "Carl Carls",
+      "host": "Aachen",
+      "category": "Männer",
+      "championship": "Kongresse des Großdeutschen Schachbundes 1933–1943"
+    },
+    {
+      "year": 1935,
+      "champion": "Kurt Richter",
+      "host": "Aachen",
+      "category": "Männer",
+      "championship": "Kongresse des Großdeutschen Schachbundes 1933–1943"
+    },
+    {
+      "year": 1937,
+      "champion": "Georg Kieninger",
+      "host": "Bad Oeynhausen",
+      "category": "Männer",
+      "championship": "Kongresse des Großdeutschen Schachbundes 1933–1943"
+    },
+    {
+      "year": 1938,
+      "champion": "Erich Eliskases",
+      "host": "Bad Oeynhausen",
+      "category": "Männer",
+      "championship": "Kongresse des Großdeutschen Schachbundes 1933–1943"
+    },
+    {
+      "year": 1939,
+      "champion": "Erich Eliskases",
+      "host": "Bad Oeynhausen",
+      "category": "Männer",
+      "championship": "Kongresse des Großdeutschen Schachbundes 1933–1943"
+    },
+    {
+      "year": 1940,
+      "champion": "Georg Kieninger",
+      "host": "Bad Oeynhausen",
+      "category": "Männer",
+      "championship": "Kongresse des Großdeutschen Schachbundes 1933–1943"
+    },
+    {
+      "year": 1941,
+      "champion": "Paul Felix Schmidt",
+      "host": "Bad Oeynhausen",
+      "category": "Männer",
+      "championship": "Kongresse des Großdeutschen Schachbundes 1933–1943"
+    },
+    {
+      "year": 1942,
+      "champion": "Ludwig Rellstab",
+      "host": "Bad Oeynhausen",
+      "category": "Männer",
+      "championship": "Kongresse des Großdeutschen Schachbundes 1933–1943"
+    },
+    {
+      "year": 1943,
+      "champion": "Josef Lokvenc",
+      "host": "Wien",
+      "category": "Männer",
+      "championship": "Kongresse des Großdeutschen Schachbundes 1933–1943"
+    },
+    {
+      "year": 1947,
+      "champion": "Georg Kieninger",
+      "host": "Weidenau",
+      "category": "Männer",
+      "championship": "Gesamtdeutsche Meisterschaften und Meisterschaften der Westzonen 1947–1953"
+    },
+    {
+      "year": 1948,
+      "champion": "Wolfgang Unzicker",
+      "host": "Essen",
+      "category": "Männer",
+      "championship": "Gesamtdeutsche Meisterschaften und Meisterschaften der Westzonen 1947–1953"
+    },
+    {
+      "year": 1949,
+      "champion": "Efim Bogoljubow",
+      "host": "Bad Pyrmont",
+      "category": "Männer",
+      "championship": "Gesamtdeutsche Meisterschaften und Meisterschaften der Westzonen 1947–1953"
+    },
+    {
+      "year": 1950,
+      "champion": "Wolfgang Unzicker",
+      "host": "Bad Pyrmont",
+      "category": "Männer",
+      "championship": "Gesamtdeutsche Meisterschaften und Meisterschaften der Westzonen 1947–1953"
+    },
+    {
+      "year": 1951,
+      "champion": "Rudolf Teschner",
+      "host": "Düsseldorf",
+      "category": "Männer",
+      "championship": "Gesamtdeutsche Meisterschaften und Meisterschaften der Westzonen 1947–1953"
+    },
+    {
+      "year": 1953,
+      "champion": "Wolfgang Unzicker",
+      "host": "Leipzig",
+      "category": "Männer",
+      "championship": "Gesamtdeutsche Meisterschaften und Meisterschaften der Westzonen 1947–1953"
+    },
+    {
+      "year": 1953,
+      "champion": "Wolfgang Unzicker",
+      "host": "Berlin",
+      "category": "Männer",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1955,
+      "champion": "Klaus Darga",
+      "host": "Höchst",
+      "category": "Männer",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1957,
+      "champion": "Paul Tröger",
+      "host": "Bad Neuenahr",
+      "category": "Männer",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1959,
+      "champion": "Wolfgang Unzicker",
+      "host": "Nürnberg",
+      "category": "Männer",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1961,
+      "champion": "Klaus Darga",
+      "host": "Bad Pyrmont",
+      "category": "Männer",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1963,
+      "champion": "Wolfgang Unzicker",
+      "host": "Bad Pyrmont",
+      "category": "Männer",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1967,
+      "champion": "Robert Hübner, Hans Besser",
+      "host": "Kiel",
+      "category": "Männer",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1969,
+      "champion": "Manfred Christoph",
+      "host": "Königsfeld",
+      "category": "Männer",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1970,
+      "champion": "Hans-Joachim Hecht",
+      "host": "Völklingen",
+      "category": "Männer",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1972,
+      "champion": "Hans-Günter Kestler",
+      "host": "Oberursel",
+      "category": "Männer",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1974,
+      "champion": "Peter Ostermeyer",
+      "host": "Menden",
+      "category": "Männer",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1976,
+      "champion": "Klaus Wockenfuß",
+      "host": "Bad Pyrmont",
+      "category": "Männer",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1978,
+      "champion": "Luděk Pachman",
+      "host": "Bad Neuenahr",
+      "category": "Männer",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1980,
+      "champion": "Eric Lobron",
+      "host": "Bad Neuenahr",
+      "category": "Männer",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1982,
+      "champion": "Manfred Glienke",
+      "host": "Bad Neuenahr",
+      "category": "Männer",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1984,
+      "champion": "Eric Lobron",
+      "host": "Bad Neuenahr",
+      "category": "Männer",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1987,
+      "champion": "Vlastimil Hort",
+      "host": "Bad Neuenahr",
+      "category": "Männer",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1989,
+      "champion": "Vlastimil Hort",
+      "host": "Bad Neuenahr",
+      "category": "Männer",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1946,
+      "champion": "Berthold Koch",
+      "host": "Leipzig",
+      "category": "Männer",
+      "championship": "Meisterschaften der Sowjetischen Besatzungszone 1946–1949"
+    },
+    {
+      "year": 1947,
+      "champion": "Lothar Schmid",
+      "host": "Weißenfels",
+      "category": "Männer",
+      "championship": "Meisterschaften der Sowjetischen Besatzungszone 1946–1949"
+    },
+    {
+      "year": 1948,
+      "champion": "Rudolf Teschner",
+      "host": "Bad Doberan",
+      "category": "Männer",
+      "championship": "Meisterschaften der Sowjetischen Besatzungszone 1946–1949"
+    },
+    {
+      "year": 1949,
+      "champion": "Wolfgang Pietzsch",
+      "host": "Bad Klosterlausnitz",
+      "category": "Männer",
+      "championship": "Meisterschaften der Sowjetischen Besatzungszone 1946–1949"
+    },
+    {
+      "year": 1950,
+      "champion": "Rudolf Elstner",
+      "host": "Sömmerda",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1951,
+      "champion": "Georg Stein",
+      "host": "Schwerin",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1952,
+      "champion": "Berthold Koch",
+      "host": "Binz",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1953,
+      "champion": "Reinhart Fuchs",
+      "host": "Jena",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1954,
+      "champion": "Wolfgang Uhlmann",
+      "host": "Meerane",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1955,
+      "champion": "Wolfgang Uhlmann",
+      "host": "Zwickau",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1956,
+      "champion": "Reinhart Fuchs",
+      "host": "Leipzig",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1957,
+      "champion": "Burkhard Malich",
+      "host": "Sömmerda",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1958,
+      "champion": "Wolfgang Uhlmann",
+      "host": "Schkopau",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1960,
+      "champion": "Wolfgang Pietzsch",
+      "host": "Leipzig",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1961,
+      "champion": "Lothar Zinn",
+      "host": "Premnitz",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1962,
+      "champion": "Wolfgang Pietzsch",
+      "host": "Gera",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1963,
+      "champion": "Günther Möhring",
+      "host": "Aschersleben",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1964,
+      "champion": "Wolfgang Uhlmann",
+      "host": "Magdeburg",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1965,
+      "champion": "Lothar Zinn",
+      "host": "Annaberg-Buchholz",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1967,
+      "champion": "Wolfgang Pietzsch",
+      "host": "Colditz",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1968,
+      "champion": "Wolfgang Uhlmann",
+      "host": "Weimar",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1969,
+      "champion": "Lutz Espig",
+      "host": "Schwerin",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1970,
+      "champion": "Fritz Baumbach",
+      "host": "Freiberg",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1971,
+      "champion": "Lutz Espig",
+      "host": "Strausberg",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1972,
+      "champion": "Manfred Schöneberg",
+      "host": "Görlitz",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1973,
+      "champion": "Burkhard Malich",
+      "host": "Erfurt",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1974,
+      "champion": "Rainer Knaak",
+      "host": "Potsdam",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1975,
+      "champion": "Wolfgang Uhlmann",
+      "host": "Stralsund",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1976,
+      "champion": "Wolfgang Uhlmann",
+      "host": "Gröditz",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1977,
+      "champion": "Lothar Vogt",
+      "host": "Frankfurt (Oder)",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1978,
+      "champion": "Rainer Knaak",
+      "host": "Eggesin",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1979,
+      "champion": "Lothar Vogt",
+      "host": "Suhl",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1980,
+      "champion": "Hans-Ulrich Grünberg",
+      "host": "Plauen",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1981,
+      "champion": "Wolfgang Uhlmann",
+      "host": "Fürstenwalde",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1982,
+      "champion": "Rainer Knaak",
+      "host": "Salzwedel",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1983,
+      "champion": "Rainer Knaak, Wolfgang Uhlmann",
+      "host": "Cottbus",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1984,
+      "champion": "Rainer Knaak",
+      "host": "Eilenburg",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1985,
+      "champion": "Wolfgang Uhlmann",
+      "host": "Jüterbog",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1986,
+      "champion": "Wolfgang Uhlmann",
+      "host": "Nordhausen",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1987,
+      "champion": "Raj Tischbierek",
+      "host": "Glauchau",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1988,
+      "champion": "Lutz Espig, Thomas Pähtz",
+      "host": "Stralsund",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1989,
+      "champion": "Hans-Ulrich Grünberg",
+      "host": "Zittau",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1990,
+      "champion": "Raj Tischbierek, Thomas Pähtz",
+      "host": "Bad Blankenburg",
+      "category": "Männer",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1991,
+      "champion": "Vlastimil Hort",
+      "host": "Bad Neuenahr",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 1993,
+      "champion": "Thomas Luther",
+      "host": "Bad Wildbad",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 1994,
+      "champion": "Peter Enders",
+      "host": "Binz",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 1995,
+      "champion": "Christopher Lutz",
+      "host": "Binz",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 1996,
+      "champion": "Matthias Wahls",
+      "host": "Dudweiler",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 1997,
+      "champion": "Matthias Wahls",
+      "host": "Gladenbach",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 1998,
+      "champion": "Jörg Hickl",
+      "host": "Bremen",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 1999,
+      "champion": "Robert Hübner",
+      "host": "Altenkirchen",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2000,
+      "champion": "Robert Rabiega",
+      "host": "Heringsdorf",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2001,
+      "champion": "Christopher Lutz",
+      "host": "Altenkirchen",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2002,
+      "champion": "Thomas Luther",
+      "host": "Saarbrücken",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2004,
+      "champion": "Alexander Graf",
+      "host": "Höckendorf",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2005,
+      "champion": "Artur Jussupow",
+      "host": "Altenkirchen",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2006,
+      "champion": "Thomas Luther",
+      "host": "Osterburg",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2007,
+      "champion": "Arkadij Naiditsch",
+      "host": "Bad Königshofen",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2008,
+      "champion": "Daniel Fridman",
+      "host": "Bad Wörishofen",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2009,
+      "champion": "Arik Braun",
+      "host": "Saarbrücken",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2010,
+      "champion": "Niclas Huschenbeth",
+      "host": "Bad Liebenzell",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2011,
+      "champion": "Igor Khenkin",
+      "host": "Bonn",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2012,
+      "champion": "Daniel Fridman",
+      "host": "Osterburg",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2013,
+      "champion": "Klaus Bischoff",
+      "host": "Saarbrücken",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2014,
+      "champion": "Daniel Fridman",
+      "host": "Verden",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2015,
+      "champion": "Klaus Bischoff",
+      "host": "Saarbrücken",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2016,
+      "champion": "Sergei Kalinitschew",
+      "host": "Lübeck",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2017,
+      "champion": "Liviu-Dieter Nisipeanu",
+      "host": "Apolda",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2018,
+      "champion": "Rainer Buhmann",
+      "host": "Dresden",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2019,
+      "champion": "Niclas Huschenbeth",
+      "host": "Magdeburg",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2020,
+      "champion": "Luis Engel",
+      "host": "Magdeburg",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2021,
+      "champion": "Jonas Rosner",
+      "host": "Magdeburg",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2022,
+      "champion": "Leonardo Costa",
+      "host": "Magdeburg",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2023,
+      "champion": "Vitaly Kunin",
+      "host": "Ostfildern",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2024,
+      "champion": "Dmitrij Kollars",
+      "host": "Ostfildern",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2025,
+      "champion": "Vincent Keymer",
+      "host": "München",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2026,
+      "champion": "Leonardo Costa",
+      "host": "Dresden",
+      "category": "Männer",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 1927,
+      "champion": "Mittelmann",
+      "host": "Magdeburg",
+      "category": "Frauen",
+      "championship": "Kongress des Deutschen Schachbundes 1927"
+    },
+    {
+      "year": 1939,
+      "champion": "Friedl Rinder",
+      "host": "Stuttgart",
+      "category": "Frauen",
+      "championship": "Meisterschaften des Großdeutschen Schachbundes 1939–1943"
+    },
+    {
+      "year": 1942,
+      "champion": "Edith Keller",
+      "host": "Bad Oeynhausen",
+      "category": "Frauen",
+      "championship": "Meisterschaften des Großdeutschen Schachbundes 1939–1943"
+    },
+    {
+      "year": 1943,
+      "champion": "-",
+      "host": "Wien",
+      "category": "Frauen",
+      "championship": "Meisterschaften des Großdeutschen Schachbundes 1939–1943"
+    },
+    {
+      "year": 1947,
+      "champion": "Edith Keller",
+      "host": "Seesen",
+      "category": "Frauen",
+      "championship": "Gesamtdeutsche Meisterschaften 1947–1953"
+    },
+    {
+      "year": 1949,
+      "champion": "Friedl Rinder",
+      "host": "München",
+      "category": "Frauen",
+      "championship": "Gesamtdeutsche Meisterschaften 1947–1953"
+    },
+    {
+      "year": 1951,
+      "champion": "Edith Keller",
+      "host": "Bad Klosterlausnitz",
+      "category": "Frauen",
+      "championship": "Gesamtdeutsche Meisterschaften 1947–1953"
+    },
+    {
+      "year": 1952,
+      "champion": "Edith Keller-Herrmann",
+      "host": "Schwerin",
+      "category": "Frauen",
+      "championship": "Gesamtdeutsche Meisterschaften 1947–1953"
+    },
+    {
+      "year": 1953,
+      "champion": "Edith Keller-Herrmann",
+      "host": "Waldkirch",
+      "category": "Frauen",
+      "championship": "Gesamtdeutsche Meisterschaften 1947–1953"
+    },
+    {
+      "year": 1955,
+      "champion": "Friedl Rinder",
+      "host": "Krefeld",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1956,
+      "champion": "Friedl Rinder",
+      "host": "Wolfratshausen",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1957,
+      "champion": "Helga Axt",
+      "host": "Lindau",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1958,
+      "champion": "Helga Axt",
+      "host": "Gießen",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1959,
+      "champion": "Friedl Rinder",
+      "host": "Dahn",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1960,
+      "champion": "Maria Scheffold",
+      "host": "Büdingen",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1961,
+      "champion": "Helga Axt",
+      "host": "Wennigsen (Deister)",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1962,
+      "champion": "Anneliese Brandler",
+      "host": "Eckernförde",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1963,
+      "champion": "Hannelore Lucht",
+      "host": "Krefeld",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1964,
+      "champion": "Irmgard Karner",
+      "host": "Bremen",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1965,
+      "champion": "Ottilie Stibaner",
+      "host": "Wangen im Allgäu",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1968,
+      "champion": "Ursula Wasnetsky",
+      "host": "Fürstenfeldbruck",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1970,
+      "champion": "Anni Laakmann",
+      "host": "Lauterbach",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1972,
+      "champion": "Anni Laakmann",
+      "host": "Burg",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1974,
+      "champion": "Anni Laakmann",
+      "host": "Kassel",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1976,
+      "champion": "Anni Laakmann",
+      "host": "Brilon",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1978,
+      "champion": "Barbara Hund",
+      "host": "Delecke",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1980,
+      "champion": "Isabel Hund",
+      "host": "Schwäbisch Gmünd",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1982,
+      "champion": "Barbara Hund",
+      "host": "Porz",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1984,
+      "champion": "Barbara Hund",
+      "host": "Bad Aibling",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1987,
+      "champion": "Ute Späte",
+      "host": "Bad Lauterberg",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1989,
+      "champion": "Isabel Hund",
+      "host": "Bad Aibling",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Bundesrepublik Deutschland 1953–1989"
+    },
+    {
+      "year": 1948,
+      "champion": "Gertrud Nüsken",
+      "host": "Bad Doberan",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Sowjetischen Besatzungszone 1948/49"
+    },
+    {
+      "year": 1949,
+      "champion": "Mira Kremer",
+      "host": "Bad Klosterlausnitz",
+      "category": "Frauen",
+      "championship": "Meisterschaften der Sowjetischen Besatzungszone 1948/49"
+    },
+    {
+      "year": 1950,
+      "champion": "Edith Keller, Gertrud Nüsken",
+      "host": "Sömmerda",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1951,
+      "champion": "Mira Kremer",
+      "host": "Schwerin",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1952,
+      "champion": "Edith Keller-Herrmann",
+      "host": "Schwerin",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1953,
+      "champion": "Gertrud Nüsken",
+      "host": "Weißenfels",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1954,
+      "champion": "Ursula Höroldt",
+      "host": "Bad Saarow",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1955,
+      "champion": "Gertrud Nüsken",
+      "host": "Zwickau",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1956,
+      "champion": "Edith Keller-Herrmann",
+      "host": "Leipzig",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1957,
+      "champion": "Edith Keller-Herrmann",
+      "host": "Sömmerda",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1958,
+      "champion": "Waltraud Schameitat",
+      "host": "Schkopau",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1959,
+      "champion": "Edith Keller-Herrmann",
+      "host": "Leipzig",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1961,
+      "champion": "Waltraud Schameitat",
+      "host": "Premnitz",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1962,
+      "champion": "Waltraud Schameitat",
+      "host": "Gera",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1963,
+      "champion": "Waltraud Nowarra",
+      "host": "Aschersleben",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1964,
+      "champion": "Gabriele Ortlepp",
+      "host": "Magdeburg",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1965,
+      "champion": "Gabriele Just",
+      "host": "Annaberg-Buchholz",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1967,
+      "champion": "Waltraud Nowarra, Ursula Liebert",
+      "host": "Colditz",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1968,
+      "champion": "Waltraud Nowarra",
+      "host": "Weimar",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1969,
+      "champion": "Waltraud Nowarra",
+      "host": "Schwerin",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1970,
+      "champion": "Christina Hölzlein",
+      "host": "Freiberg",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1971,
+      "champion": "Christina Hölzlein",
+      "host": "Strausberg",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1972,
+      "champion": "Gabriele Just",
+      "host": "Görlitz",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1973,
+      "champion": "Eveline Nünchert",
+      "host": "Erfurt",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1974,
+      "champion": "Petra Feustel",
+      "host": "Potsdam",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1975,
+      "champion": "Brigitte Hofmann",
+      "host": "Stralsund",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1976,
+      "champion": "Petra Feustel",
+      "host": "Gröditz",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1977,
+      "champion": "Petra Feustel",
+      "host": "Frankfurt (Oder)",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1978,
+      "champion": "Brigitte Hofmann",
+      "host": "Torgelow",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1979,
+      "champion": "Brigitte Hofmann",
+      "host": "Suhl",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1980,
+      "champion": "Ulricke Seidemann",
+      "host": "Plauen",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1981,
+      "champion": "Annett Wagner-Michel",
+      "host": "Fürstenwalde",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1982,
+      "champion": "Iris Bröder",
+      "host": "Salzwedel",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1983,
+      "champion": "Annett Wagner-Michel",
+      "host": "Cottbus",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1984,
+      "champion": "Iris Bröder",
+      "host": "Eilenburg",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1985,
+      "champion": "Marion Heintze",
+      "host": "Jüterbog",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1986,
+      "champion": "Carola Manger",
+      "host": "Nordhausen",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1987,
+      "champion": "Iris Bröder",
+      "host": "Glauchau",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1988,
+      "champion": "Antje Riedel",
+      "host": "Stralsund",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1989,
+      "champion": "Kerstin Kunze",
+      "host": "Zittau",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1990,
+      "champion": "Gundula Nehse",
+      "host": "Bad Blankenburg",
+      "category": "Frauen",
+      "championship": "Meisterschaften der DDR 1950–1990"
+    },
+    {
+      "year": 1991,
+      "champion": "Anke Koglin",
+      "host": "Beverungen",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 1993,
+      "champion": "Marina Olbrich",
+      "host": "Bad Mergentheim",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 1995,
+      "champion": "Tatjana Grabusowa",
+      "host": "Krefeld",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 1997,
+      "champion": "Marina Olbrich",
+      "host": "Ottweiler",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 1999,
+      "champion": "Elisabeth Pähtz",
+      "host": "Chemnitz",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2001,
+      "champion": "Jessica Nill",
+      "host": "Krefeld",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2003,
+      "champion": "Annemarie Sylvia Meier",
+      "host": "Altenkirchen",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2005,
+      "champion": "Sandra Krege",
+      "host": "Bad Königshofen",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2007,
+      "champion": "Ljubow Kopylowa",
+      "host": "Osterburg",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2009,
+      "champion": "Polina Zilberman",
+      "host": "Hockenheim",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2011,
+      "champion": "Sarah Hoolt",
+      "host": "Bonn",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2013,
+      "champion": "Hanna Marie Klek",
+      "host": "Bad Wiessee",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2015,
+      "champion": "Zoya Schleining",
+      "host": "Bad Wiessee",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2017,
+      "champion": "Jana Schneider",
+      "host": "Bad Wiessee",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2019,
+      "champion": "Marta Michna",
+      "host": "Magdeburg",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2020,
+      "champion": "Carmen Voicu-Jagodzinsky",
+      "host": "Magdeburg",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2021,
+      "champion": "Elena Köpke",
+      "host": "Magdeburg",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2022,
+      "champion": "Lara Schulze",
+      "host": "Magdeburg",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2023,
+      "champion": "Kateryna Dolschykowa",
+      "host": "Ostfildern",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2024,
+      "champion": "Tetjana Kostak",
+      "host": "Ostfildern",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2025,
+      "champion": "Dinara Wagner",
+      "host": "München",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    },
+    {
+      "year": 2026,
+      "champion": "Jana Schneider",
+      "host": "Dresden",
+      "category": "Frauen",
+      "championship": "Seit 1991 wieder gesamtdeutsche Meisterschaften"
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Meister im Schach - Free Download",
+    "description": "Deutsche Einzelmeister und Einzelmeisterinnen im Schach seit 1879 (inkl. DDR- und Westzonen-Meisterschaften) mit Jahr, Austragungsort und Meisterschaftsserie. Contains 230 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Deutsche Meister im Schach | ListBase",
+    "seo_description": "Download Deutsche Meister im Schach — 230 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 230 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_deutschen_Meisterschaften_im_Schach"
+    ]
+  }
+}
