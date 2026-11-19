@@ -1,0 +1,947 @@
+{
+  "id": "de-weinlagen-rheingau",
+  "name": "Weinlagen im Rheingau",
+  "title": "Weinlagen im Rheingau",
+  "description": "Einzellagen des Weinanbaugebiets Rheingau mit Gemeinde bzw. Ortsteil, zugehöriger Großlage, Rebfläche in Hektar und angebauten Rebsorten.",
+  "category": "agriculture",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Weinlagen_im_Rheingau",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Weinlagen_im_Rheingau",
+  "updated": "2026-11",
+  "record_count": 128,
+  "columns": [
+    {
+      "key": "vineyard",
+      "label": "Vineyard",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "grosslage",
+      "label": "Grosslage",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "grape_varieties",
+      "label": "Grape Varieties",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "vineyard": "Rosenberg",
+      "locality": "Lorchhausen (Stadtteil von Lorch am Rhein)",
+      "grosslage": "Burgweg",
+      "area_ha": 40,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Seligmacher",
+      "locality": "Lorchhausen (Stadtteil von Lorch am Rhein)",
+      "grosslage": "Burgweg",
+      "area_ha": 50,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Schlossberg",
+      "locality": "Stadt Lorch am Rhein",
+      "grosslage": "Burgweg",
+      "area_ha": 53,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Kapellenberg",
+      "locality": "Stadt Lorch am Rhein",
+      "grosslage": "Burgweg",
+      "area_ha": 58,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Krone",
+      "locality": "Stadt Lorch am Rhein",
+      "grosslage": "Burgweg",
+      "area_ha": 13,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Pfaffenwies",
+      "locality": "Stadt Lorch am Rhein",
+      "grosslage": "Burgweg",
+      "area_ha": 35,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Bodental-Steinberg",
+      "locality": "Stadt Lorch am Rhein",
+      "grosslage": "Burgweg",
+      "area_ha": 23,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Berg Kaisersteinfels",
+      "locality": "Stadt Rüdesheim am Rhein",
+      "grosslage": "Burgweg",
+      "area_ha": 8.2,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Berg Schlossberg",
+      "locality": "Stadt Rüdesheim am Rhein",
+      "grosslage": "Burgweg",
+      "area_ha": 25.3,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Drachenstein",
+      "locality": "Stadt Rüdesheim am Rhein",
+      "grosslage": "Burgweg",
+      "area_ha": 48.5,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Berg Roseneck",
+      "locality": "Stadt Rüdesheim am Rhein",
+      "grosslage": "Burgweg",
+      "area_ha": 26.7,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Berg Rottland",
+      "locality": "Stadt Rüdesheim am Rhein",
+      "grosslage": "Burgweg",
+      "area_ha": 34.7,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Rosengarten",
+      "locality": "Stadt Rüdesheim am Rhein",
+      "grosslage": "Burgweg",
+      "area_ha": 3.7,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Bischofsberg",
+      "locality": "Stadt Rüdesheim am Rhein",
+      "grosslage": "Burgweg",
+      "area_ha": 34,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Klosterberg",
+      "locality": "Stadt Rüdesheim am Rhein",
+      "grosslage": "Burgweg",
+      "area_ha": 39,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Klosterlay",
+      "locality": "Stadt Rüdesheim am Rhein",
+      "grosslage": "Burgweg",
+      "area_ha": 38,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Kirchenpfad",
+      "locality": "Stadt Rüdesheim am Rhein",
+      "grosslage": "Burgweg",
+      "area_ha": 20,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Magdalenenkreuz",
+      "locality": "Stadt Rüdesheim am Rhein",
+      "grosslage": "Burgweg",
+      "area_ha": 49,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Mönchspfad",
+      "locality": "Stadt Geisenheim",
+      "grosslage": "Burgweg",
+      "area_ha": 160,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Mäuerchen",
+      "locality": "Stadt Geisenheim",
+      "grosslage": "Burgweg",
+      "area_ha": 33,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Fuchsberg",
+      "locality": "Stadt Geisenheim",
+      "grosslage": "Burgweg",
+      "area_ha": 68,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Rothenberg",
+      "locality": "Stadt Geisenheim",
+      "grosslage": "Burgweg",
+      "area_ha": 36,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Hinterkirch",
+      "locality": "Assmannshausen (Stadtteil von Rüdesheim)",
+      "grosslage": "Steil",
+      "area_ha": 59,
+      "grape_varieties": "Spätburgunder"
+    },
+    {
+      "vineyard": "Höllenberg",
+      "locality": "Assmannshausen (Stadtteil von Rüdesheim)",
+      "grosslage": "Steil",
+      "area_ha": 55,
+      "grape_varieties": "Spätburgunder"
+    },
+    {
+      "vineyard": "Frankenthal",
+      "locality": "Assmannshausen (Stadtteil von Rüdesheim)",
+      "grosslage": "Steil",
+      "area_ha": 45,
+      "grape_varieties": "Spätburgunder"
+    },
+    {
+      "vineyard": "Schlossgarten",
+      "locality": "Stadt Geisenheim",
+      "grosslage": "Erntebringer",
+      "area_ha": 18,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Kilzberg",
+      "locality": "Stadt Geisenheim",
+      "grosslage": "Erntebringer",
+      "area_ha": 56,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Kläuserweg",
+      "locality": "Stadt Geisenheim",
+      "grosslage": "Erntebringer",
+      "area_ha": 57,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Goldatzel",
+      "locality": "Johannisberg (Stadtteil von Geisenheim)",
+      "grosslage": "Erntebringer",
+      "area_ha": 24,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Hölle",
+      "locality": "Johannisberg (Stadtteil von Geisenheim)",
+      "grosslage": "Erntebringer",
+      "area_ha": 27,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Mittelhölle",
+      "locality": "Johannisberg (Stadtteil von Geisenheim)",
+      "grosslage": "Erntebringer",
+      "area_ha": 6.5,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Klaus",
+      "locality": "Johannisberg (Stadtteil von Geisenheim)",
+      "grosslage": "Erntebringer",
+      "area_ha": 15,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Hansenberg",
+      "locality": "Johannisberg (Stadtteil von Geisenheim)",
+      "grosslage": "Erntebringer",
+      "area_ha": 4,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Schwarzenstein",
+      "locality": "Johannisberg (Stadtteil von Geisenheim)",
+      "grosslage": "Erntebringer",
+      "area_ha": 5.5,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Vogelsang",
+      "locality": "Johannisberg (Stadtteil von Geisenheim)",
+      "grosslage": "Erntebringer",
+      "area_ha": 14,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Schloss Johannisberg",
+      "locality": "Johannisberg (Stadtteil von Geisenheim)",
+      "grosslage": "Erntebringer",
+      "area_ha": 35,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Dachsberg",
+      "locality": "Winkel (Stadtteil von Oestrich-Winkel)",
+      "grosslage": "Erntebringer",
+      "area_ha": 52,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Hasensprung",
+      "locality": "Winkel (Stadtteil von Oestrich-Winkel)",
+      "grosslage": "Erntebringer",
+      "area_ha": 100,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Gutenberg",
+      "locality": "Winkel (Stadtteil von Oestrich-Winkel)",
+      "grosslage": "Erntebringer",
+      "area_ha": 51,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Jesuitengarten",
+      "locality": "Winkel (Stadtteil von Oestrich-Winkel)",
+      "grosslage": "Erntebringer",
+      "area_ha": 26,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Schlossberg",
+      "locality": "Winkel (Stadtteil von Oestrich-Winkel)",
+      "grosslage": "Erntebringer",
+      "area_ha": "",
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Klaus",
+      "locality": "Winkel (Stadtteil von Oestrich-Winkel)",
+      "grosslage": "Erntebringer",
+      "area_ha": "",
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Schloss Vollrads",
+      "locality": "Winkel (Stadtteil von Oestrich-Winkel)",
+      "grosslage": "Erntebringer",
+      "area_ha": 48,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Goldberg",
+      "locality": "Mittelheim (Stadtteil von Oestrich-Winkel)",
+      "grosslage": "Erntebringer",
+      "area_ha": 24,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Edelmann",
+      "locality": "Mittelheim (Stadtteil von Oestrich-Winkel)",
+      "grosslage": "Erntebringer",
+      "area_ha": 93,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "St. Nikolaus",
+      "locality": "Mittelheim (Stadtteil von Oestrich-Winkel)",
+      "grosslage": "Erntebringer",
+      "area_ha": 50,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Klosterberg",
+      "locality": "Oestrich (Stadtteil von Oestrich-Winkel)",
+      "grosslage": "Gottesthal",
+      "area_ha": 142,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Lenchen",
+      "locality": "Oestrich (Stadtteil von Oestrich-Winkel)",
+      "grosslage": "Gottesthal",
+      "area_ha": 145,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Doosberg",
+      "locality": "Oestrich (Stadtteil von Oestrich-Winkel)",
+      "grosslage": "Gottesthal",
+      "area_ha": 152,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Schloss Reichartshausen",
+      "locality": "Oestrich (Stadtteil von Oestrich-Winkel)",
+      "grosslage": "Gottesthal",
+      "area_ha": 3,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Würzgarten",
+      "locality": "Hallgarten (Stadtteil von Oestrich-Winkel)",
+      "grosslage": "Mehrhölzchen",
+      "area_ha": 42,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Schönhell",
+      "locality": "Hallgarten (Stadtteil von Oestrich-Winkel)",
+      "grosslage": "Mehrhölzchen",
+      "area_ha": 58,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Hendelberg",
+      "locality": "Hallgarten (Stadtteil von Oestrich-Winkel)",
+      "grosslage": "Mehrhölzchen",
+      "area_ha": 53,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Jungfer",
+      "locality": "Hallgarten (Stadtteil von Oestrich-Winkel)",
+      "grosslage": "Mehrhölzchen",
+      "area_ha": 55,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Heiligenberg",
+      "locality": "Hattenheim (Stadtteil von Eltville am Rhein)",
+      "grosslage": "Deutelsberg",
+      "area_ha": 36,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Schützenhaus",
+      "locality": "Hattenheim (Stadtteil von Eltville am Rhein)",
+      "grosslage": "Deutelsberg",
+      "area_ha": 66,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Engelmannsberg",
+      "locality": "Hattenheim (Stadtteil von Eltville am Rhein)",
+      "grosslage": "Deutelsberg",
+      "area_ha": 20,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Pfaffenberg",
+      "locality": "Hattenheim (Stadtteil von Eltville am Rhein)",
+      "grosslage": "Deutelsberg",
+      "area_ha": 6,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Hassel",
+      "locality": "Hattenheim (Stadtteil von Eltville am Rhein)",
+      "grosslage": "Deutelsberg",
+      "area_ha": 30,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Nußbrunnen",
+      "locality": "Hattenheim (Stadtteil von Eltville am Rhein)",
+      "grosslage": "Deutelsberg",
+      "area_ha": 10,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Wisselbrunnen",
+      "locality": "Hattenheim (Stadtteil von Eltville am Rhein)",
+      "grosslage": "Deutelsberg",
+      "area_ha": 18,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Mannberg",
+      "locality": "Hattenheim (Stadtteil von Eltville am Rhein)",
+      "grosslage": "Deutelsberg",
+      "area_ha": 6.1,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Steinberg",
+      "locality": "Hattenheim (Stadtteil von Eltville am Rhein)",
+      "grosslage": "Deutelsberg",
+      "area_ha": 31.1,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Rheingarten",
+      "locality": "Hattenheim (Stadtteil von Eltville am Rhein)",
+      "grosslage": "Deutelsberg",
+      "area_ha": 40,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Rheingarten",
+      "locality": "Erbach (Stadtteil von Eltville am Rhein)",
+      "grosslage": "Honigberg",
+      "area_ha": 6,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Michelmark",
+      "locality": "Erbach (Stadtteil von Eltville am Rhein)",
+      "grosslage": "Honigberg",
+      "area_ha": 53,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Siegelsberg",
+      "locality": "Erbach (Stadtteil von Eltville am Rhein)",
+      "grosslage": "Honigberg",
+      "area_ha": 15,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Marcobrunn",
+      "locality": "Erbach (Stadtteil von Eltville am Rhein)",
+      "grosslage": "Honigberg",
+      "area_ha": 5.2,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Hohenrain",
+      "locality": "Erbach (Stadtteil von Eltville am Rhein)",
+      "grosslage": "Honigberg",
+      "area_ha": 18,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Steinmorgen",
+      "locality": "Erbach (Stadtteil von Eltville am Rhein)",
+      "grosslage": "Honigberg",
+      "area_ha": 18,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Schlossberg",
+      "locality": "Erbach (Stadtteil von Eltville am Rhein)",
+      "grosslage": "Honigberg",
+      "area_ha": 6,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Rheinhell",
+      "locality": "Erbach (Stadtteil von Eltville am Rhein)",
+      "grosslage": "Honigberg",
+      "area_ha": 18,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Klosterberg",
+      "locality": "Gemeinde Kiedrich",
+      "grosslage": "Heiligenstock",
+      "area_ha": 67,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Wasseros",
+      "locality": "Gemeinde Kiedrich",
+      "grosslage": "Heiligenstock",
+      "area_ha": 36,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Gräfenberg",
+      "locality": "Gemeinde Kiedrich",
+      "grosslage": "Heiligenstock",
+      "area_ha": 11,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Sandgrub",
+      "locality": "Gemeinde Kiedrich",
+      "grosslage": "Heiligenstock",
+      "area_ha": 58,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Turmberg",
+      "locality": "Gemeinde Kiedrich",
+      "grosslage": "Heiligenstock",
+      "area_ha": 3.8,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Kalbspflicht",
+      "locality": "Stadt Eltville am Rhein",
+      "grosslage": "Steinmächer",
+      "area_ha": 10,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Taubenberg",
+      "locality": "Stadt Eltville am Rhein",
+      "grosslage": "Steinmächer",
+      "area_ha": 80,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Langenstück",
+      "locality": "Stadt Eltville am Rhein",
+      "grosslage": "Steinmächer",
+      "area_ha": 63,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Sonnenberg",
+      "locality": "Stadt Eltville am Rhein",
+      "grosslage": "Steinmächer",
+      "area_ha": 68,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Rheinberg",
+      "locality": "Stadt Eltville am Rhein",
+      "grosslage": "Steinmächer",
+      "area_ha": 30,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Langenstück",
+      "locality": "Rauenthal (Stadtteil von Eltville)",
+      "grosslage": "Steinmächer",
+      "area_ha": 25.8,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Gehrn",
+      "locality": "Rauenthal (Stadtteil von Eltville)",
+      "grosslage": "Steinmächer",
+      "area_ha": 18,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Baiken",
+      "locality": "Rauenthal (Stadtteil von Eltville)",
+      "grosslage": "Steinmächer",
+      "area_ha": 15,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Wülfen",
+      "locality": "Rauenthal (Stadtteil von Eltville)",
+      "grosslage": "Steinmächer",
+      "area_ha": 14,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Walkenberg",
+      "locality": "Rauenthal (Stadtteil von Eltville)",
+      "grosslage": "Steinmächer",
+      "area_ha": "",
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Nonnenberg",
+      "locality": "Rauenthal (Stadtteil von Eltville)",
+      "grosslage": "Steinmächer",
+      "area_ha": 5.6,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Rothenberg",
+      "locality": "Rauenthal (Stadtteil von Eltville)",
+      "grosslage": "Steinmächer",
+      "area_ha": 20,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Langenberg",
+      "locality": "Martinsthal (Stadtteil von Eltville)",
+      "grosslage": "Steinmächer",
+      "area_ha": 19,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Wildsau",
+      "locality": "Martinsthal (Stadtteil von Eltville)",
+      "grosslage": "Steinmächer",
+      "area_ha": 31,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Rödchen",
+      "locality": "Martinsthal (Stadtteil von Eltville)",
+      "grosslage": "Steinmächer",
+      "area_ha": 28.1,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Langenstück",
+      "locality": "Gemeinde Walluf",
+      "grosslage": "Steinmächer",
+      "area_ha": 13,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Vitusberg",
+      "locality": "Gemeinde Walluf",
+      "grosslage": "Steinmächer",
+      "area_ha": 14,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Oberberg",
+      "locality": "Gemeinde Walluf",
+      "grosslage": "Steinmächer",
+      "area_ha": 13,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Berg-Bildstock",
+      "locality": "Gemeinde Walluf",
+      "grosslage": "Steinmächer",
+      "area_ha": 30.4,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Walkenberg",
+      "locality": "Gemeinde Walluf",
+      "grosslage": "Steinmächer",
+      "area_ha": 29.4,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Gottesacker",
+      "locality": "Gemeinde Walluf",
+      "grosslage": "Steinmächer",
+      "area_ha": 12,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Herrnberg",
+      "locality": "Frauenstein (Stadtteil von Wiesbaden)",
+      "grosslage": "Steinmächer",
+      "area_ha": 58.6,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Marschall",
+      "locality": "Frauenstein (Stadtteil von Wiesbaden)",
+      "grosslage": "Steinmächer",
+      "area_ha": 8.5,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Homberg",
+      "locality": "Frauenstein (Stadtteil von Wiesbaden)",
+      "grosslage": "Steinmächer",
+      "area_ha": 8.3,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Hölle",
+      "locality": "Schierstein (Stadtteil von Wiesbaden)",
+      "grosslage": "Steinmächer",
+      "area_ha": 32.6,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Dachsberg",
+      "locality": "Schierstein (Stadtteil von Wiesbaden)",
+      "grosslage": "Steinmächer",
+      "area_ha": 27.3,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Judenkirch",
+      "locality": "Dotzheim (Stadtteil von Wiesbaden)",
+      "grosslage": "Steinmächer",
+      "area_ha": 10.3,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Steig",
+      "locality": "Mainz-Kostheim (Stadtteil von Wiesbaden)",
+      "grosslage": "Daubhaus",
+      "area_ha": 38,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "St. Kiliansberg",
+      "locality": "Mainz-Kostheim (Stadtteil von Wiesbaden)",
+      "grosslage": "Daubhaus",
+      "area_ha": 28,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Weiß Erd",
+      "locality": "Mainz-Kostheim (Stadtteil von Wiesbaden)",
+      "grosslage": "Daubhaus",
+      "area_ha": 7,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Berg",
+      "locality": "Stadt Hochheim am Main",
+      "grosslage": "Daubhaus",
+      "area_ha": 35,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Reichestal",
+      "locality": "Stadt Hochheim am Main",
+      "grosslage": "Daubhaus",
+      "area_ha": 58,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Stielweg",
+      "locality": "Stadt Hochheim am Main",
+      "grosslage": "Daubhaus",
+      "area_ha": 26,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Domdechaney",
+      "locality": "Stadt Hochheim am Main",
+      "grosslage": "Daubhaus",
+      "area_ha": 10.5,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Kirchenstück",
+      "locality": "Stadt Hochheim am Main",
+      "grosslage": "Daubhaus",
+      "area_ha": 16,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Hofmeister",
+      "locality": "Stadt Hochheim am Main",
+      "grosslage": "Daubhaus",
+      "area_ha": 34,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Hölle",
+      "locality": "Stadt Hochheim am Main",
+      "grosslage": "Daubhaus",
+      "area_ha": 57,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Stein",
+      "locality": "Stadt Hochheim am Main",
+      "grosslage": "Daubhaus",
+      "area_ha": 27,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Königin-Viktoria-Berg",
+      "locality": "Stadt Hochheim am Main",
+      "grosslage": "Daubhaus",
+      "area_ha": 5,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Herrnberg",
+      "locality": "Stadt Hochheim am Main",
+      "grosslage": "Daubhaus",
+      "area_ha": 4,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Herrnberg",
+      "locality": "Stadt Flörsheim am Main",
+      "grosslage": "Daubhaus",
+      "area_ha": 20,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "St.-Anna-Kapelle",
+      "locality": "Stadt Flörsheim am Main",
+      "grosslage": "Daubhaus",
+      "area_ha": 0.5,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Mönchsgewann",
+      "locality": "Wicker (Stadtteil von Flörsheim am Main)",
+      "grosslage": "Daubhaus",
+      "area_ha": 18,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "König-Wilhelmsberg",
+      "locality": "Wicker (Stadtteil von Flörsheim am Main)",
+      "grosslage": "Daubhaus",
+      "area_ha": 2.1,
+      "grape_varieties": "Riesling, Spätburgunder"
+    },
+    {
+      "vineyard": "Nonnberg",
+      "locality": "Wicker (Stadtteil von Flörsheim am Main)",
+      "grosslage": "Daubhaus",
+      "area_ha": 2.4,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Stein",
+      "locality": "Wicker (Stadtteil von Flörsheim am Main)",
+      "grosslage": "Daubhaus",
+      "area_ha": 20,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Schlossgarten",
+      "locality": "Massenheim (Stadtteil von Hochheim am Main)",
+      "grosslage": "Daubhaus",
+      "area_ha": 3,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Grub",
+      "locality": "Delkenheim (Stadtteil von Wiesbaden)",
+      "grosslage": "Daubhaus",
+      "area_ha": 6,
+      "grape_varieties": ""
+    },
+    {
+      "vineyard": "Lohrberger Hang",
+      "locality": "Frankfurt am Main",
+      "grosslage": "Großlagenfrei",
+      "area_ha": 1.7,
+      "grape_varieties": "Riesling"
+    },
+    {
+      "vineyard": "Böddiger Berg",
+      "locality": "Felsberg (Schwalm-Eder-Kreis)",
+      "grosslage": "Großlagenfrei",
+      "area_ha": 1.4,
+      "grape_varieties": "Ehrenfelser"
+    },
+    {
+      "vineyard": "Neroberg",
+      "locality": "Landeshauptstadt Wiesbaden",
+      "grosslage": "Großlagenfrei",
+      "area_ha": 4.4,
+      "grape_varieties": "Riesling"
+    }
+  ],
+  "meta": {
+    "title": "Weinlagen im Rheingau - Free Download",
+    "description": "Einzellagen des Weinanbaugebiets Rheingau mit Gemeinde bzw. Ortsteil, zugehöriger Großlage, Rebfläche in Hektar und angebauten Rebsorten. Contains 128 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Weinlagen im Rheingau | ListBase",
+    "seo_description": "Download Weinlagen im Rheingau — 128 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 128 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Weinlagen_im_Rheingau"
+    ]
+  }
+}

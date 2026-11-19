@@ -1,12 +1,12 @@
 {
   "lang": "de",
-  "generated": "2026-11-19T02:28:30.110Z",
-  "total_datasets": 578,
-  "total_records": 1881861,
+  "generated": "2026-11-19T02:28:39.728Z",
+  "total_datasets": 579,
+  "total_records": 1881989,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "culture",
@@ -313,6 +313,32 @@
         "xlsx": {
           "name": "de-weinanbaugebiete_DE.xlsx",
           "size": 7188
+        }
+      }
+    },
+    {
+      "id": "de-weinlagen-rheingau",
+      "name": "Weinlagen im Rheingau",
+      "category": "agriculture",
+      "record_count": 128,
+      "columns": [
+        "vineyard",
+        "locality",
+        "grosslage",
+        "area_ha",
+        "grape_varieties"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Weinlagen_im_Rheingau",
+      "updated": "2026-11",
+      "size": 25957,
+      "files": {
+        "csv": {
+          "name": "de-weinlagen-rheingau_DE.csv",
+          "size": 10004
+        },
+        "xlsx": {
+          "name": "de-weinlagen-rheingau_DE.xlsx",
+          "size": 10871
         }
       }
     },
