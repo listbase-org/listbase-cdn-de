@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-19T02:28:39.728Z",
-  "total_datasets": 579,
-  "total_records": 1881989,
+  "generated": "2026-11-20T02:22:12.990Z",
+  "total_datasets": 580,
+  "total_records": 1882123,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 15
+      "dataset_count": 16
     },
     {
       "id": "economy",
@@ -451,6 +451,36 @@
         "xlsx": {
           "name": "de-festungen_DE.xlsx",
           "size": 10568
+        }
+      }
+    },
+    {
+      "id": "de-hoechste-bauwerke-deutschlands",
+      "name": "Die höchsten Bauwerke in Deutschland",
+      "category": "culture",
+      "record_count": 134,
+      "columns": [
+        "name",
+        "location",
+        "coordinates",
+        "owner",
+        "height_m",
+        "construction_period",
+        "opened",
+        "structure_type",
+        "notes"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_höchsten_Bauwerke_in_Deutschland",
+      "updated": "2026-11",
+      "size": 49396,
+      "files": {
+        "csv": {
+          "name": "de-hoechste-bauwerke-deutschlands_DE.csv",
+          "size": 22098
+        },
+        "xlsx": {
+          "name": "de-hoechste-bauwerke-deutschlands_DE.xlsx",
+          "size": 18322
         }
       }
     },
