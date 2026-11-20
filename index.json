@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-20T02:22:12.990Z",
-  "total_datasets": 580,
-  "total_records": 1882123,
+  "generated": "2026-11-20T02:22:21.411Z",
+  "total_datasets": 581,
+  "total_records": 1882154,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 49
+      "dataset_count": 50
     },
     {
       "id": "health",
@@ -4558,6 +4558,37 @@
         "xlsx": {
           "name": "de-hessen-staedte_DE.xlsx",
           "size": 20342
+        }
+      }
+    },
+    {
+      "id": "de-hoechste-berge-deutschlands",
+      "name": "Die höchsten Berge Deutschlands",
+      "category": "geography",
+      "record_count": 31,
+      "columns": [
+        "rank",
+        "peak",
+        "height_m",
+        "range",
+        "massif",
+        "dominance_km",
+        "dominance_reference",
+        "prominence_m",
+        "key_col",
+        "first_ascent"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_höchsten_Berge_in_Deutschland",
+      "updated": "2026-11",
+      "size": 13026,
+      "files": {
+        "csv": {
+          "name": "de-hoechste-berge-deutschlands_DE.csv",
+          "size": 4719
+        },
+        "xlsx": {
+          "name": "de-hoechste-berge-deutschlands_DE.xlsx",
+          "size": 9307
         }
       }
     },

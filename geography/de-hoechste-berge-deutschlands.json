@@ -1,0 +1,448 @@
+{
+  "id": "de-hoechste-berge-deutschlands",
+  "name": "Die höchsten Berge Deutschlands",
+  "title": "Die höchsten Berge Deutschlands",
+  "description": "Die höchsten Gipfel Deutschlands mit Höhe, Gebirge, Massiv, Dominanz, Schartenhöhe und Erstbesteigung.",
+  "category": "geography",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_höchsten_Berge_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_höchsten_Berge_in_Deutschland",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "peak",
+      "label": "Peak",
+      "type": "string"
+    },
+    {
+      "key": "height_m",
+      "label": "Height M",
+      "type": "number"
+    },
+    {
+      "key": "range",
+      "label": "Range",
+      "type": "string"
+    },
+    {
+      "key": "massif",
+      "label": "Massif",
+      "type": "string"
+    },
+    {
+      "key": "dominance_km",
+      "label": "Dominance Km",
+      "type": "number"
+    },
+    {
+      "key": "dominance_reference",
+      "label": "Dominance Reference",
+      "type": "string"
+    },
+    {
+      "key": "prominence_m",
+      "label": "Prominence M",
+      "type": "number"
+    },
+    {
+      "key": "key_col",
+      "label": "Key Col",
+      "type": "string"
+    },
+    {
+      "key": "first_ascent",
+      "label": "First Ascent",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "peak": "Zugspitze",
+      "height_m": 2962,
+      "range": "Wettersteingebirge",
+      "massif": "Zugspitze",
+      "dominance_km": 24.6,
+      "dominance_reference": "Acherkogel",
+      "prominence_m": 1746,
+      "key_col": "Fernpass",
+      "first_ascent": "27. Aug. 1820 Josef Naus, Johann Georg Tauschl, Messgehilfe Maier"
+    },
+    {
+      "rank": 2,
+      "peak": "Schneefernerkopf",
+      "height_m": 2874,
+      "range": "Wettersteingebirge",
+      "massif": "Zugspitze",
+      "dominance_km": 1.7,
+      "dominance_reference": "Zugspitze",
+      "prominence_m": 175,
+      "key_col": "Schneefernerscharte",
+      "first_ascent": "1871 Hermann von Barth"
+    },
+    {
+      "rank": 3,
+      "peak": "Mittlere Wetterspitze",
+      "height_m": 2750,
+      "range": "Wettersteingebirge",
+      "massif": "Zugspitze",
+      "dominance_km": 0.6,
+      "dominance_reference": "Schneefernerkopf",
+      "prominence_m": 67,
+      "key_col": "Einschartung zum Schneefernerkopf",
+      "first_ascent": ""
+    },
+    {
+      "rank": 4,
+      "peak": "Hochwanner",
+      "height_m": 2744,
+      "range": "Wettersteingebirge",
+      "massif": "Hochwanner",
+      "dominance_km": 5.5,
+      "dominance_reference": "Zugspitze",
+      "prominence_m": 701,
+      "key_col": "Feldernjöchl",
+      "first_ascent": "1870 Hermann von Barth"
+    },
+    {
+      "rank": 5,
+      "peak": "Mittlere Höllentalspitze",
+      "height_m": 2743,
+      "range": "Wettersteingebirge",
+      "massif": "Zugspitze",
+      "dominance_km": 1.6,
+      "dominance_reference": "Zugspitze",
+      "prominence_m": 116,
+      "key_col": "Einschartung Jubiläumsgrat zur Zugspitze",
+      "first_ascent": "1871 Hermann von Barth"
+    },
+    {
+      "rank": 6,
+      "peak": "Innere Höllentalspitze",
+      "height_m": 2741,
+      "range": "Wettersteingebirge",
+      "massif": "Zugspitze",
+      "dominance_km": 0.6,
+      "dominance_reference": "Mittlere Höllentalspitze",
+      "prominence_m": 90,
+      "key_col": "Einschartung zur Mittleren Höllentalspitze",
+      "first_ascent": "9. Sep. 1871 Hermann von Barth"
+    },
+    {
+      "rank": 7,
+      "peak": "Äußere Höllentalspitze",
+      "height_m": 2720,
+      "range": "Wettersteingebirge",
+      "massif": "Zugspitze",
+      "dominance_km": 0.6,
+      "dominance_reference": "Mittlere Höllentalspitze",
+      "prominence_m": 35,
+      "key_col": "Einschartung zur Mittleren Höllentalspitze",
+      "first_ascent": "1871 Hermann von Barth"
+    },
+    {
+      "rank": 8,
+      "peak": "Watzmann-Mittelspitze",
+      "height_m": 2713,
+      "range": "Berchtesgadener Alpen",
+      "massif": "Watzmann",
+      "dominance_km": 15.9,
+      "dominance_reference": "Hochseiler",
+      "prominence_m": 939,
+      "key_col": "Trischübelpass",
+      "first_ascent": "Aug. 1800 Valentin Stanič"
+    },
+    {
+      "rank": 9,
+      "peak": "Watzmann-Südspitze",
+      "height_m": 2712,
+      "range": "Berchtesgadener Alpen",
+      "massif": "Watzmann",
+      "dominance_km": 0.8,
+      "dominance_reference": "Watzmann-Mittelspitze",
+      "prominence_m": 110,
+      "key_col": "Einschartung Watzmanngrat",
+      "first_ascent": "1832 Peter Carl Thurwieser"
+    },
+    {
+      "rank": 10,
+      "peak": "Hochblassen",
+      "height_m": 2703,
+      "range": "Wettersteingebirge",
+      "massif": "Zugspitze",
+      "dominance_km": 1.1,
+      "dominance_reference": "Äußere Höllentalspitze",
+      "prominence_m": 143,
+      "key_col": "Falsche Grießkarscharte",
+      "first_ascent": "25. Aug. 1871 Hermann von Barth, Peter Klaisl"
+    },
+    {
+      "rank": 11,
+      "peak": "Wetterwandeck",
+      "height_m": 2698,
+      "range": "Wettersteingebirge",
+      "massif": "Zugspitze",
+      "dominance_km": 0.5,
+      "dominance_reference": "Südliche Wetterspitze",
+      "prominence_m": 30,
+      "key_col": "Einschartung zur Östlichen Wetterspitze",
+      "first_ascent": "1874 Hermann von Barth"
+    },
+    {
+      "rank": 12,
+      "peak": "Leutascher Dreitorspitze",
+      "height_m": 2682,
+      "range": "Wettersteingebirge",
+      "massif": "Dreitorspitze",
+      "dominance_km": 5.2,
+      "dominance_reference": "Hochwanner",
+      "prominence_m": 346,
+      "key_col": "Westliche Wangscharte",
+      "first_ascent": "7. Aug. 1871 Hermann von Barth"
+    },
+    {
+      "rank": 13,
+      "peak": "Östliche Plattspitze",
+      "height_m": 2680,
+      "range": "Wettersteingebirge",
+      "massif": "Zugspitze",
+      "dominance_km": 1.1,
+      "dominance_reference": "Wetterwandeck",
+      "prominence_m": 204,
+      "key_col": "Wetterscharte",
+      "first_ascent": "1871 Hermann von Barth"
+    },
+    {
+      "rank": 14,
+      "peak": "Hinterreintalschrofen",
+      "height_m": 2669,
+      "range": "Wettersteingebirge",
+      "massif": "Hochwanner",
+      "dominance_km": 1.5,
+      "dominance_reference": "Hochwanner",
+      "prominence_m": 109,
+      "key_col": "Einschartung Teufelsgrat zum Hochwanner",
+      "first_ascent": "1. Sep. 1871 Hermann von Barth"
+    },
+    {
+      "rank": 15,
+      "peak": "Hochfrottspitze",
+      "height_m": 2649,
+      "range": "Allgäuer Alpen",
+      "massif": "Hohes Licht",
+      "dominance_km": 2.2,
+      "dominance_reference": "Hohes Licht",
+      "prominence_m": 203,
+      "key_col": "Socktalscharte",
+      "first_ascent": "16. Juni 1869 Hermann von Barth"
+    },
+    {
+      "rank": 16,
+      "peak": "Mädelegabel",
+      "height_m": 2645,
+      "range": "Allgäuer Alpen",
+      "massif": "Hohes Licht",
+      "dominance_km": 0.4,
+      "dominance_reference": "Hochfrottspitze",
+      "prominence_m": 81,
+      "key_col": "Einschartung zur Hochfrottspitze",
+      "first_ascent": "1852 Oskar Sendtner"
+    },
+    {
+      "rank": 17,
+      "peak": "Partenkirchner Dreitorspitze",
+      "height_m": 2633,
+      "range": "Wettersteingebirge",
+      "massif": "Dreitorspitze",
+      "dominance_km": 0.5,
+      "dominance_reference": "Leutascher Dreitorspitze",
+      "prominence_m": 100,
+      "key_col": "Einschartung zur Leutascher Dreitorspitze",
+      "first_ascent": "20. Juli 1854 Jakob Grasegger, Karl Kiendl"
+    },
+    {
+      "rank": 18,
+      "peak": "Alpspitze",
+      "height_m": 2628,
+      "range": "Wettersteingebirge",
+      "massif": "Zugspitze",
+      "dominance_km": 0.8,
+      "dominance_reference": "Hochblassen",
+      "prominence_m": 165,
+      "key_col": "Grießkarscharte",
+      "first_ascent": "1825 J. Burger"
+    },
+    {
+      "rank": 19,
+      "peak": "Große Riffelwandspitze",
+      "height_m": 2626,
+      "range": "Wettersteingebirge",
+      "massif": "Zugspitze",
+      "dominance_km": 0.2,
+      "dominance_reference": "Zugspitze",
+      "prominence_m": 31,
+      "key_col": "Scharte zur Zugspitze",
+      "first_ascent": "1866 F. Resch und C. Sam"
+    },
+    {
+      "rank": 20,
+      "peak": "Vollkarspitze",
+      "height_m": 2618,
+      "range": "Wettersteingebirge",
+      "massif": "Zugspitze",
+      "dominance_km": 0.5,
+      "dominance_reference": "Hochblassen",
+      "prominence_m": 40,
+      "key_col": "Einschartung zu den Höllentalspitzen",
+      "first_ascent": "1897 Ferdinand Henning"
+    },
+    {
+      "rank": 21,
+      "peak": "Bockkarkopf",
+      "height_m": 2609,
+      "range": "Allgäuer Alpen",
+      "massif": "Hohes Licht",
+      "dominance_km": 0.6,
+      "dominance_reference": "Hochfrottspitze",
+      "prominence_m": 106,
+      "key_col": "Bockkarscharte",
+      "first_ascent": ""
+    },
+    {
+      "rank": 22,
+      "peak": "Hochkalter",
+      "height_m": 2607,
+      "range": "Berchtesgadener Alpen",
+      "massif": "Hochkalter",
+      "dominance_km": 4.5,
+      "dominance_reference": "Watzmann",
+      "prominence_m": 621,
+      "key_col": "Wimbachscharte",
+      "first_ascent": ""
+    },
+    {
+      "rank": 23,
+      "peak": "Nordöstliche Dreitorspitze",
+      "height_m": 2605,
+      "range": "Wettersteingebirge",
+      "massif": "Dreitorspitze",
+      "dominance_km": 0.2,
+      "dominance_reference": "Dreitorspitze",
+      "prominence_m": 40,
+      "key_col": "Einschartung zur Dreitorspitze",
+      "first_ascent": ""
+    },
+    {
+      "rank": 24,
+      "peak": "Biberkopf",
+      "height_m": 2599,
+      "range": "Allgäuer Alpen",
+      "massif": "Biberkopf",
+      "dominance_km": 3.5,
+      "dominance_reference": "Hohes Licht",
+      "prominence_m": 337,
+      "key_col": "Große Steinscharte",
+      "first_ascent": "1853"
+    },
+    {
+      "rank": 25,
+      "peak": "Trettachspitze",
+      "height_m": 2595,
+      "range": "Allgäuer Alpen",
+      "massif": "Hohes Licht",
+      "dominance_km": 0.4,
+      "dominance_reference": "Mädelegabel",
+      "prominence_m": 145,
+      "key_col": "Einschartung zur Mädelegabel",
+      "first_ascent": "Aug. 1855 Urban, Alois und Mathias Jochum"
+    },
+    {
+      "rank": 26,
+      "peak": "Großer Hundstod",
+      "height_m": 2593,
+      "range": "Berchtesgadener Alpen",
+      "massif": "Großer Hundstod",
+      "dominance_km": 4.5,
+      "dominance_reference": "Watzmann",
+      "prominence_m": 474,
+      "key_col": "Dießbachscharte",
+      "first_ascent": "1825 Karl Thurwieser"
+    },
+    {
+      "rank": 27,
+      "peak": "Hochvogel",
+      "height_m": 2592,
+      "range": "Allgäuer Alpen",
+      "massif": "Hochvogel",
+      "dominance_km": 5.4,
+      "dominance_reference": "Urbeleskarspitze",
+      "prominence_m": 572,
+      "key_col": "Hornbachjoch",
+      "first_ascent": "1832 Trobitus"
+    },
+    {
+      "rank": 28,
+      "peak": "Funtenseetauern",
+      "height_m": 2578,
+      "range": "Berchtesgadener Alpen",
+      "massif": "Selbhorn",
+      "dominance_km": 4,
+      "dominance_reference": "Selbhorn",
+      "prominence_m": 220,
+      "key_col": "Hochbrunnsulzen",
+      "first_ascent": "um 1865 Johann Grill, Albert Kaindl"
+    },
+    {
+      "rank": 29,
+      "peak": "Öfnerspitze",
+      "height_m": 2576,
+      "range": "Allgäuer Alpen",
+      "massif": "Großer Krottenkopf",
+      "dominance_km": 0.7,
+      "dominance_reference": "Großer Krottenkopf",
+      "prominence_m": 137,
+      "key_col": "Einschartung zum Großen Krottenkopf",
+      "first_ascent": "1854"
+    },
+    {
+      "rank": 30,
+      "peak": "Schüsselkarspitze",
+      "height_m": 2551,
+      "range": "Wettersteingebirge",
+      "massif": "Dreitorspitze",
+      "dominance_km": 0.3,
+      "dominance_reference": "Leutascher Dreitorspitze",
+      "prominence_m": 60,
+      "key_col": "Einschartung zur Leutascher Dreitorspitze",
+      "first_ascent": "1894 Heinrich Moser, Oscar Schuster"
+    },
+    {
+      "rank": 31,
+      "peak": "Krottenspitze",
+      "height_m": 2551,
+      "range": "Allgäuer Alpen",
+      "massif": "Großer Krottenkopf",
+      "dominance_km": 0.3,
+      "dominance_reference": "Öfnerspitze",
+      "prominence_m": 78,
+      "key_col": "Einschartung zur Öfnerspitze",
+      "first_ascent": ""
+    }
+  ],
+  "meta": {
+    "title": "Die höchsten Berge Deutschlands - Free Download",
+    "description": "Die höchsten Gipfel Deutschlands mit Höhe, Gebirge, Massiv, Dominanz, Schartenhöhe und Erstbesteigung. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Die höchsten Berge Deutschlands | ListBase",
+    "seo_description": "Download Die höchsten Berge Deutschlands — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_höchsten_Berge_in_Deutschland"
+    ]
+  }
+}
