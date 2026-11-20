@@ -1,0 +1,1624 @@
+{
+  "id": "de-bundestagswahlen-ergebnisse",
+  "name": "Ergebnisse der Bundestagswahlen seit 1949",
+  "title": "Ergebnisse der Bundestagswahlen seit 1949",
+  "description": "Ergebnisse aller Bundestagswahlen seit 1949 nach Partei: Zweitstimmenanteil (1949: Stimmenanteil) in Prozent sowie Wahlberechtigte, Wählende und Wahlbeteiligung der jeweiligen Wahl.",
+  "category": "politics",
+  "source": "https://de.wikipedia.org/wiki/Ergebnisse_der_Bundestagswahlen",
+  "source_url": "https://de.wikipedia.org/wiki/Ergebnisse_der_Bundestagswahlen",
+  "updated": "2026-11",
+  "record_count": 196,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "vote_share_pct",
+      "label": "Vote Share Pct",
+      "type": "number"
+    },
+    {
+      "key": "turnout_pct",
+      "label": "Turnout Pct",
+      "type": "number"
+    },
+    {
+      "key": "eligible_voters",
+      "label": "Eligible Voters",
+      "type": "number"
+    },
+    {
+      "key": "voters",
+      "label": "Voters",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1949,
+      "party": "CDU",
+      "vote_share_pct": 25.2,
+      "turnout_pct": 78.5,
+      "eligible_voters": 31207620,
+      "voters": 24495614
+    },
+    {
+      "year": 1949,
+      "party": "SPD",
+      "vote_share_pct": 29.2,
+      "turnout_pct": 78.5,
+      "eligible_voters": 31207620,
+      "voters": 24495614
+    },
+    {
+      "year": 1949,
+      "party": "CSU",
+      "vote_share_pct": 5.8,
+      "turnout_pct": 78.5,
+      "eligible_voters": 31207620,
+      "voters": 24495614
+    },
+    {
+      "year": 1949,
+      "party": "FDP",
+      "vote_share_pct": 11.9,
+      "turnout_pct": 78.5,
+      "eligible_voters": 31207620,
+      "voters": 24495614
+    },
+    {
+      "year": 1949,
+      "party": "SSW",
+      "vote_share_pct": 0.3,
+      "turnout_pct": 78.5,
+      "eligible_voters": 31207620,
+      "voters": 24495614
+    },
+    {
+      "year": 1949,
+      "party": "BP",
+      "vote_share_pct": 4.2,
+      "turnout_pct": 78.5,
+      "eligible_voters": 31207620,
+      "voters": 24495614
+    },
+    {
+      "year": 1949,
+      "party": "Zentrum",
+      "vote_share_pct": 3.1,
+      "turnout_pct": 78.5,
+      "eligible_voters": 31207620,
+      "voters": 24495614
+    },
+    {
+      "year": 1949,
+      "party": "KPD",
+      "vote_share_pct": 5.7,
+      "turnout_pct": 78.5,
+      "eligible_voters": 31207620,
+      "voters": 24495614
+    },
+    {
+      "year": 1949,
+      "party": "DP",
+      "vote_share_pct": 4,
+      "turnout_pct": 78.5,
+      "eligible_voters": 31207620,
+      "voters": 24495614
+    },
+    {
+      "year": 1949,
+      "party": "WAV",
+      "vote_share_pct": 2.9,
+      "turnout_pct": 78.5,
+      "eligible_voters": 31207620,
+      "voters": 24495614
+    },
+    {
+      "year": 1949,
+      "party": "DKP/DRP",
+      "vote_share_pct": 1.8,
+      "turnout_pct": 78.5,
+      "eligible_voters": 31207620,
+      "voters": 24495614
+    },
+    {
+      "year": 1953,
+      "party": "CDU",
+      "vote_share_pct": 36.4,
+      "turnout_pct": 86,
+      "eligible_voters": 33120940,
+      "voters": 28479550
+    },
+    {
+      "year": 1953,
+      "party": "SPD",
+      "vote_share_pct": 28.8,
+      "turnout_pct": 86,
+      "eligible_voters": 33120940,
+      "voters": 28479550
+    },
+    {
+      "year": 1953,
+      "party": "CSU",
+      "vote_share_pct": 8.8,
+      "turnout_pct": 86,
+      "eligible_voters": 33120940,
+      "voters": 28479550
+    },
+    {
+      "year": 1953,
+      "party": "FDP",
+      "vote_share_pct": 9.5,
+      "turnout_pct": 86,
+      "eligible_voters": 33120940,
+      "voters": 28479550
+    },
+    {
+      "year": 1953,
+      "party": "SSW",
+      "vote_share_pct": 0.2,
+      "turnout_pct": 86,
+      "eligible_voters": 33120940,
+      "voters": 28479550
+    },
+    {
+      "year": 1953,
+      "party": "BP",
+      "vote_share_pct": 1.7,
+      "turnout_pct": 86,
+      "eligible_voters": 33120940,
+      "voters": 28479550
+    },
+    {
+      "year": 1953,
+      "party": "Zentrum",
+      "vote_share_pct": 0.8,
+      "turnout_pct": 86,
+      "eligible_voters": 33120940,
+      "voters": 28479550
+    },
+    {
+      "year": 1953,
+      "party": "KPD",
+      "vote_share_pct": 2.2,
+      "turnout_pct": 86,
+      "eligible_voters": 33120940,
+      "voters": 28479550
+    },
+    {
+      "year": 1953,
+      "party": "DRP",
+      "vote_share_pct": 1.1,
+      "turnout_pct": 86,
+      "eligible_voters": 33120940,
+      "voters": 28479550
+    },
+    {
+      "year": 1953,
+      "party": "DP",
+      "vote_share_pct": 3.3,
+      "turnout_pct": 86,
+      "eligible_voters": 33120940,
+      "voters": 28479550
+    },
+    {
+      "year": 1953,
+      "party": "GB/BHE",
+      "vote_share_pct": 5.9,
+      "turnout_pct": 86,
+      "eligible_voters": 33120940,
+      "voters": 28479550
+    },
+    {
+      "year": 1953,
+      "party": "GVP",
+      "vote_share_pct": 1.2,
+      "turnout_pct": 86,
+      "eligible_voters": 33120940,
+      "voters": 28479550
+    },
+    {
+      "year": 1957,
+      "party": "CDU",
+      "vote_share_pct": 39.7,
+      "turnout_pct": 87.8,
+      "eligible_voters": 35400923,
+      "voters": 31072894
+    },
+    {
+      "year": 1957,
+      "party": "SPD",
+      "vote_share_pct": 31.8,
+      "turnout_pct": 87.8,
+      "eligible_voters": 35400923,
+      "voters": 31072894
+    },
+    {
+      "year": 1957,
+      "party": "CSU",
+      "vote_share_pct": 10.5,
+      "turnout_pct": 87.8,
+      "eligible_voters": 35400923,
+      "voters": 31072894
+    },
+    {
+      "year": 1957,
+      "party": "FDP",
+      "vote_share_pct": 7.7,
+      "turnout_pct": 87.8,
+      "eligible_voters": 35400923,
+      "voters": 31072894
+    },
+    {
+      "year": 1957,
+      "party": "SSW",
+      "vote_share_pct": 0.1,
+      "turnout_pct": 87.8,
+      "eligible_voters": 35400923,
+      "voters": 31072894
+    },
+    {
+      "year": 1957,
+      "party": "DRP",
+      "vote_share_pct": 1,
+      "turnout_pct": 87.8,
+      "eligible_voters": 35400923,
+      "voters": 31072894
+    },
+    {
+      "year": 1957,
+      "party": "DP",
+      "vote_share_pct": 3.4,
+      "turnout_pct": 87.8,
+      "eligible_voters": 35400923,
+      "voters": 31072894
+    },
+    {
+      "year": 1957,
+      "party": "GB/BHE",
+      "vote_share_pct": 4.6,
+      "turnout_pct": 87.8,
+      "eligible_voters": 35400923,
+      "voters": 31072894
+    },
+    {
+      "year": 1961,
+      "party": "CDU",
+      "vote_share_pct": 35.8,
+      "turnout_pct": 87.7,
+      "eligible_voters": 37440715,
+      "voters": 32849624
+    },
+    {
+      "year": 1961,
+      "party": "SPD",
+      "vote_share_pct": 36.2,
+      "turnout_pct": 87.7,
+      "eligible_voters": 37440715,
+      "voters": 32849624
+    },
+    {
+      "year": 1961,
+      "party": "CSU",
+      "vote_share_pct": 9.6,
+      "turnout_pct": 87.7,
+      "eligible_voters": 37440715,
+      "voters": 32849624
+    },
+    {
+      "year": 1961,
+      "party": "FDP",
+      "vote_share_pct": 12.8,
+      "turnout_pct": 87.7,
+      "eligible_voters": 37440715,
+      "voters": 32849624
+    },
+    {
+      "year": 1961,
+      "party": "SSW",
+      "vote_share_pct": 0.1,
+      "turnout_pct": 87.7,
+      "eligible_voters": 37440715,
+      "voters": 32849624
+    },
+    {
+      "year": 1961,
+      "party": "DFU",
+      "vote_share_pct": 1.9,
+      "turnout_pct": 87.7,
+      "eligible_voters": 37440715,
+      "voters": 32849624
+    },
+    {
+      "year": 1961,
+      "party": "GDP",
+      "vote_share_pct": 2.8,
+      "turnout_pct": 87.7,
+      "eligible_voters": 37440715,
+      "voters": 32849624
+    },
+    {
+      "year": 1961,
+      "party": "DRP",
+      "vote_share_pct": 0.8,
+      "turnout_pct": 87.7,
+      "eligible_voters": 37440715,
+      "voters": 32849624
+    },
+    {
+      "year": 1965,
+      "party": "CDU",
+      "vote_share_pct": 38,
+      "turnout_pct": 86.8,
+      "eligible_voters": 38510395,
+      "voters": 33416207
+    },
+    {
+      "year": 1965,
+      "party": "SPD",
+      "vote_share_pct": 39.3,
+      "turnout_pct": 86.8,
+      "eligible_voters": 38510395,
+      "voters": 33416207
+    },
+    {
+      "year": 1965,
+      "party": "CSU",
+      "vote_share_pct": 9.6,
+      "turnout_pct": 86.8,
+      "eligible_voters": 38510395,
+      "voters": 33416207
+    },
+    {
+      "year": 1965,
+      "party": "FDP",
+      "vote_share_pct": 9.5,
+      "turnout_pct": 86.8,
+      "eligible_voters": 38510395,
+      "voters": 33416207
+    },
+    {
+      "year": 1965,
+      "party": "Die Heimat",
+      "vote_share_pct": 2,
+      "turnout_pct": 86.8,
+      "eligible_voters": 38510395,
+      "voters": 33416207
+    },
+    {
+      "year": 1965,
+      "party": "DFU",
+      "vote_share_pct": 1.3,
+      "turnout_pct": 86.8,
+      "eligible_voters": 38510395,
+      "voters": 33416207
+    },
+    {
+      "year": 1969,
+      "party": "CDU",
+      "vote_share_pct": 36.6,
+      "turnout_pct": 86.7,
+      "eligible_voters": 38677235,
+      "voters": 33523064
+    },
+    {
+      "year": 1969,
+      "party": "SPD",
+      "vote_share_pct": 42.7,
+      "turnout_pct": 86.7,
+      "eligible_voters": 38677235,
+      "voters": 33523064
+    },
+    {
+      "year": 1969,
+      "party": "CSU",
+      "vote_share_pct": 9.5,
+      "turnout_pct": 86.7,
+      "eligible_voters": 38677235,
+      "voters": 33523064
+    },
+    {
+      "year": 1969,
+      "party": "FDP",
+      "vote_share_pct": 5.8,
+      "turnout_pct": 86.7,
+      "eligible_voters": 38677235,
+      "voters": 33523064
+    },
+    {
+      "year": 1969,
+      "party": "Die Heimat",
+      "vote_share_pct": 4.3,
+      "turnout_pct": 86.7,
+      "eligible_voters": 38677235,
+      "voters": 33523064
+    },
+    {
+      "year": 1969,
+      "party": "BP",
+      "vote_share_pct": 0.2,
+      "turnout_pct": 86.7,
+      "eligible_voters": 38677235,
+      "voters": 33523064
+    },
+    {
+      "year": 1969,
+      "party": "Zentrum",
+      "vote_share_pct": 0,
+      "turnout_pct": 86.7,
+      "eligible_voters": 38677235,
+      "voters": 33523064
+    },
+    {
+      "year": 1972,
+      "party": "CDU",
+      "vote_share_pct": 35.2,
+      "turnout_pct": 91.1,
+      "eligible_voters": 41446302,
+      "voters": 37761589
+    },
+    {
+      "year": 1972,
+      "party": "SPD",
+      "vote_share_pct": 45.8,
+      "turnout_pct": 91.1,
+      "eligible_voters": 41446302,
+      "voters": 37761589
+    },
+    {
+      "year": 1972,
+      "party": "CSU",
+      "vote_share_pct": 9.7,
+      "turnout_pct": 91.1,
+      "eligible_voters": 41446302,
+      "voters": 37761589
+    },
+    {
+      "year": 1972,
+      "party": "FDP",
+      "vote_share_pct": 8.4,
+      "turnout_pct": 91.1,
+      "eligible_voters": 41446302,
+      "voters": 37761589
+    },
+    {
+      "year": 1972,
+      "party": "Die Heimat",
+      "vote_share_pct": 0.6,
+      "turnout_pct": 91.1,
+      "eligible_voters": 41446302,
+      "voters": 37761589
+    },
+    {
+      "year": 1976,
+      "party": "CDU",
+      "vote_share_pct": 38,
+      "turnout_pct": 90.7,
+      "eligible_voters": 42058015,
+      "voters": 38165753
+    },
+    {
+      "year": 1976,
+      "party": "SPD",
+      "vote_share_pct": 42.6,
+      "turnout_pct": 90.7,
+      "eligible_voters": 42058015,
+      "voters": 38165753
+    },
+    {
+      "year": 1976,
+      "party": "CSU",
+      "vote_share_pct": 10.6,
+      "turnout_pct": 90.7,
+      "eligible_voters": 42058015,
+      "voters": 38165753
+    },
+    {
+      "year": 1976,
+      "party": "FDP",
+      "vote_share_pct": 7.9,
+      "turnout_pct": 90.7,
+      "eligible_voters": 42058015,
+      "voters": 38165753
+    },
+    {
+      "year": 1976,
+      "party": "Die Heimat",
+      "vote_share_pct": 0.3,
+      "turnout_pct": 90.7,
+      "eligible_voters": 42058015,
+      "voters": 38165753
+    },
+    {
+      "year": 1976,
+      "party": "KPD",
+      "vote_share_pct": 0.1,
+      "turnout_pct": 90.7,
+      "eligible_voters": 42058015,
+      "voters": 38165753
+    },
+    {
+      "year": 1980,
+      "party": "CDU",
+      "vote_share_pct": 34.2,
+      "turnout_pct": 88.6,
+      "eligible_voters": 43231741,
+      "voters": 38292176
+    },
+    {
+      "year": 1980,
+      "party": "SPD",
+      "vote_share_pct": 42.9,
+      "turnout_pct": 88.6,
+      "eligible_voters": 43231741,
+      "voters": 38292176
+    },
+    {
+      "year": 1980,
+      "party": "Bündnis 90/Die Grünen",
+      "vote_share_pct": 1.5,
+      "turnout_pct": 88.6,
+      "eligible_voters": 43231741,
+      "voters": 38292176
+    },
+    {
+      "year": 1980,
+      "party": "CSU",
+      "vote_share_pct": 10.3,
+      "turnout_pct": 88.6,
+      "eligible_voters": 43231741,
+      "voters": 38292176
+    },
+    {
+      "year": 1980,
+      "party": "FDP",
+      "vote_share_pct": 10.6,
+      "turnout_pct": 88.6,
+      "eligible_voters": 43231741,
+      "voters": 38292176
+    },
+    {
+      "year": 1980,
+      "party": "Die Heimat",
+      "vote_share_pct": 0.2,
+      "turnout_pct": 88.6,
+      "eligible_voters": 43231741,
+      "voters": 38292176
+    },
+    {
+      "year": 1983,
+      "party": "CDU",
+      "vote_share_pct": 38.2,
+      "turnout_pct": 89.1,
+      "eligible_voters": 44088935,
+      "voters": 39279529
+    },
+    {
+      "year": 1983,
+      "party": "SPD",
+      "vote_share_pct": 38.2,
+      "turnout_pct": 89.1,
+      "eligible_voters": 44088935,
+      "voters": 39279529
+    },
+    {
+      "year": 1983,
+      "party": "Bündnis 90/Die Grünen",
+      "vote_share_pct": 5.6,
+      "turnout_pct": 89.1,
+      "eligible_voters": 44088935,
+      "voters": 39279529
+    },
+    {
+      "year": 1983,
+      "party": "CSU",
+      "vote_share_pct": 10.6,
+      "turnout_pct": 89.1,
+      "eligible_voters": 44088935,
+      "voters": 39279529
+    },
+    {
+      "year": 1983,
+      "party": "FDP",
+      "vote_share_pct": 7,
+      "turnout_pct": 89.1,
+      "eligible_voters": 44088935,
+      "voters": 39279529
+    },
+    {
+      "year": 1983,
+      "party": "Die Heimat",
+      "vote_share_pct": 0.2,
+      "turnout_pct": 89.1,
+      "eligible_voters": 44088935,
+      "voters": 39279529
+    },
+    {
+      "year": 1983,
+      "party": "KPD",
+      "vote_share_pct": 0,
+      "turnout_pct": 89.1,
+      "eligible_voters": 44088935,
+      "voters": 39279529
+    },
+    {
+      "year": 1987,
+      "party": "CDU",
+      "vote_share_pct": 34.5,
+      "turnout_pct": 84.3,
+      "eligible_voters": 45327982,
+      "voters": 38225294
+    },
+    {
+      "year": 1987,
+      "party": "SPD",
+      "vote_share_pct": 37,
+      "turnout_pct": 84.3,
+      "eligible_voters": 45327982,
+      "voters": 38225294
+    },
+    {
+      "year": 1987,
+      "party": "Bündnis 90/Die Grünen",
+      "vote_share_pct": 8.3,
+      "turnout_pct": 84.3,
+      "eligible_voters": 45327982,
+      "voters": 38225294
+    },
+    {
+      "year": 1987,
+      "party": "CSU",
+      "vote_share_pct": 9.8,
+      "turnout_pct": 84.3,
+      "eligible_voters": 45327982,
+      "voters": 38225294
+    },
+    {
+      "year": 1987,
+      "party": "FDP",
+      "vote_share_pct": 9.1,
+      "turnout_pct": 84.3,
+      "eligible_voters": 45327982,
+      "voters": 38225294
+    },
+    {
+      "year": 1987,
+      "party": "Die Heimat",
+      "vote_share_pct": 0.6,
+      "turnout_pct": 84.3,
+      "eligible_voters": 45327982,
+      "voters": 38225294
+    },
+    {
+      "year": 1987,
+      "party": "BP",
+      "vote_share_pct": 0.1,
+      "turnout_pct": 84.3,
+      "eligible_voters": 45327982,
+      "voters": 38225294
+    },
+    {
+      "year": 1987,
+      "party": "Zentrum",
+      "vote_share_pct": 0.1,
+      "turnout_pct": 84.3,
+      "eligible_voters": 45327982,
+      "voters": 38225294
+    },
+    {
+      "year": 1990,
+      "party": "CDU",
+      "vote_share_pct": 36.7,
+      "turnout_pct": 77.8,
+      "eligible_voters": 60436560,
+      "voters": 46995915
+    },
+    {
+      "year": 1990,
+      "party": "SPD",
+      "vote_share_pct": 33.5,
+      "turnout_pct": 77.8,
+      "eligible_voters": 60436560,
+      "voters": 46995915
+    },
+    {
+      "year": 1990,
+      "party": "Bündnis 90/Die Grünen",
+      "vote_share_pct": 3.8,
+      "turnout_pct": 77.8,
+      "eligible_voters": 60436560,
+      "voters": 46995915
+    },
+    {
+      "year": 1990,
+      "party": "Die Linke",
+      "vote_share_pct": 2.4,
+      "turnout_pct": 77.8,
+      "eligible_voters": 60436560,
+      "voters": 46995915
+    },
+    {
+      "year": 1990,
+      "party": "CSU",
+      "vote_share_pct": 7.1,
+      "turnout_pct": 77.8,
+      "eligible_voters": 60436560,
+      "voters": 46995915
+    },
+    {
+      "year": 1990,
+      "party": "FDP",
+      "vote_share_pct": 11,
+      "turnout_pct": 77.8,
+      "eligible_voters": 60436560,
+      "voters": 46995915
+    },
+    {
+      "year": 1990,
+      "party": "Die Heimat",
+      "vote_share_pct": 0.3,
+      "turnout_pct": 77.8,
+      "eligible_voters": 60436560,
+      "voters": 46995915
+    },
+    {
+      "year": 1990,
+      "party": "REP",
+      "vote_share_pct": 2.1,
+      "turnout_pct": 77.8,
+      "eligible_voters": 60436560,
+      "voters": 46995915
+    },
+    {
+      "year": 1990,
+      "party": "BP",
+      "vote_share_pct": 0.1,
+      "turnout_pct": 77.8,
+      "eligible_voters": 60436560,
+      "voters": 46995915
+    },
+    {
+      "year": 1990,
+      "party": "KPD",
+      "vote_share_pct": 0,
+      "turnout_pct": 77.8,
+      "eligible_voters": 60436560,
+      "voters": 46995915
+    },
+    {
+      "year": 1990,
+      "party": "Bündnis 90",
+      "vote_share_pct": 1.2,
+      "turnout_pct": 77.8,
+      "eligible_voters": 60436560,
+      "voters": 46995915
+    },
+    {
+      "year": 1994,
+      "party": "CDU",
+      "vote_share_pct": 34.2,
+      "turnout_pct": 79,
+      "eligible_voters": 60452009,
+      "voters": 47737999
+    },
+    {
+      "year": 1994,
+      "party": "SPD",
+      "vote_share_pct": 36.4,
+      "turnout_pct": 79,
+      "eligible_voters": 60452009,
+      "voters": 47737999
+    },
+    {
+      "year": 1994,
+      "party": "Bündnis 90/Die Grünen",
+      "vote_share_pct": 7.3,
+      "turnout_pct": 79,
+      "eligible_voters": 60452009,
+      "voters": 47737999
+    },
+    {
+      "year": 1994,
+      "party": "Die Linke",
+      "vote_share_pct": 4.4,
+      "turnout_pct": 79,
+      "eligible_voters": 60452009,
+      "voters": 47737999
+    },
+    {
+      "year": 1994,
+      "party": "CSU",
+      "vote_share_pct": 7.3,
+      "turnout_pct": 79,
+      "eligible_voters": 60452009,
+      "voters": 47737999
+    },
+    {
+      "year": 1994,
+      "party": "FDP",
+      "vote_share_pct": 6.9,
+      "turnout_pct": 79,
+      "eligible_voters": 60452009,
+      "voters": 47737999
+    },
+    {
+      "year": 1994,
+      "party": "REP",
+      "vote_share_pct": 1.9,
+      "turnout_pct": 79,
+      "eligible_voters": 60452009,
+      "voters": 47737999
+    },
+    {
+      "year": 1994,
+      "party": "BP",
+      "vote_share_pct": 0.1,
+      "turnout_pct": 79,
+      "eligible_voters": 60452009,
+      "voters": 47737999
+    },
+    {
+      "year": 1994,
+      "party": "Zentrum",
+      "vote_share_pct": 0,
+      "turnout_pct": 79,
+      "eligible_voters": 60452009,
+      "voters": 47737999
+    },
+    {
+      "year": 1998,
+      "party": "CDU",
+      "vote_share_pct": 28.4,
+      "turnout_pct": 82.2,
+      "eligible_voters": 60762751,
+      "voters": 49947087
+    },
+    {
+      "year": 1998,
+      "party": "SPD",
+      "vote_share_pct": 40.9,
+      "turnout_pct": 82.2,
+      "eligible_voters": 60762751,
+      "voters": 49947087
+    },
+    {
+      "year": 1998,
+      "party": "Bündnis 90/Die Grünen",
+      "vote_share_pct": 7,
+      "turnout_pct": 82.2,
+      "eligible_voters": 60762751,
+      "voters": 49947087
+    },
+    {
+      "year": 1998,
+      "party": "Die Linke",
+      "vote_share_pct": 5.1,
+      "turnout_pct": 82.2,
+      "eligible_voters": 60762751,
+      "voters": 49947087
+    },
+    {
+      "year": 1998,
+      "party": "CSU",
+      "vote_share_pct": 6.7,
+      "turnout_pct": 82.2,
+      "eligible_voters": 60762751,
+      "voters": 49947087
+    },
+    {
+      "year": 1998,
+      "party": "FDP",
+      "vote_share_pct": 6.2,
+      "turnout_pct": 82.2,
+      "eligible_voters": 60762751,
+      "voters": 49947087
+    },
+    {
+      "year": 1998,
+      "party": "Die Heimat",
+      "vote_share_pct": 0.3,
+      "turnout_pct": 82.2,
+      "eligible_voters": 60762751,
+      "voters": 49947087
+    },
+    {
+      "year": 1998,
+      "party": "REP",
+      "vote_share_pct": 1.8,
+      "turnout_pct": 82.2,
+      "eligible_voters": 60762751,
+      "voters": 49947087
+    },
+    {
+      "year": 1998,
+      "party": "BP",
+      "vote_share_pct": 0.1,
+      "turnout_pct": 82.2,
+      "eligible_voters": 60762751,
+      "voters": 49947087
+    },
+    {
+      "year": 1998,
+      "party": "DVU",
+      "vote_share_pct": 1.2,
+      "turnout_pct": 82.2,
+      "eligible_voters": 60762751,
+      "voters": 49947087
+    },
+    {
+      "year": 2002,
+      "party": "CDU",
+      "vote_share_pct": 29.5,
+      "turnout_pct": 79.1,
+      "eligible_voters": 61432868,
+      "voters": 48582761
+    },
+    {
+      "year": 2002,
+      "party": "SPD",
+      "vote_share_pct": 38.5,
+      "turnout_pct": 79.1,
+      "eligible_voters": 61432868,
+      "voters": 48582761
+    },
+    {
+      "year": 2002,
+      "party": "Bündnis 90/Die Grünen",
+      "vote_share_pct": 8.6,
+      "turnout_pct": 79.1,
+      "eligible_voters": 61432868,
+      "voters": 48582761
+    },
+    {
+      "year": 2002,
+      "party": "Die Linke",
+      "vote_share_pct": 4,
+      "turnout_pct": 79.1,
+      "eligible_voters": 61432868,
+      "voters": 48582761
+    },
+    {
+      "year": 2002,
+      "party": "CSU",
+      "vote_share_pct": 9,
+      "turnout_pct": 79.1,
+      "eligible_voters": 61432868,
+      "voters": 48582761
+    },
+    {
+      "year": 2002,
+      "party": "FDP",
+      "vote_share_pct": 7.4,
+      "turnout_pct": 79.1,
+      "eligible_voters": 61432868,
+      "voters": 48582761
+    },
+    {
+      "year": 2002,
+      "party": "Die Heimat",
+      "vote_share_pct": 0.4,
+      "turnout_pct": 79.1,
+      "eligible_voters": 61432868,
+      "voters": 48582761
+    },
+    {
+      "year": 2002,
+      "party": "REP",
+      "vote_share_pct": 0.6,
+      "turnout_pct": 79.1,
+      "eligible_voters": 61432868,
+      "voters": 48582761
+    },
+    {
+      "year": 2002,
+      "party": "BP",
+      "vote_share_pct": 0,
+      "turnout_pct": 79.1,
+      "eligible_voters": 61432868,
+      "voters": 48582761
+    },
+    {
+      "year": 2002,
+      "party": "Zentrum",
+      "vote_share_pct": 0,
+      "turnout_pct": 79.1,
+      "eligible_voters": 61432868,
+      "voters": 48582761
+    },
+    {
+      "year": 2002,
+      "party": "KPD",
+      "vote_share_pct": 0,
+      "turnout_pct": 79.1,
+      "eligible_voters": 61432868,
+      "voters": 48582761
+    },
+    {
+      "year": 2005,
+      "party": "CDU",
+      "vote_share_pct": 27.8,
+      "turnout_pct": 77.7,
+      "eligible_voters": 61870711,
+      "voters": 48044134
+    },
+    {
+      "year": 2005,
+      "party": "SPD",
+      "vote_share_pct": 34.2,
+      "turnout_pct": 77.7,
+      "eligible_voters": 61870711,
+      "voters": 48044134
+    },
+    {
+      "year": 2005,
+      "party": "Bündnis 90/Die Grünen",
+      "vote_share_pct": 8.1,
+      "turnout_pct": 77.7,
+      "eligible_voters": 61870711,
+      "voters": 48044134
+    },
+    {
+      "year": 2005,
+      "party": "Die Linke",
+      "vote_share_pct": 8.7,
+      "turnout_pct": 77.7,
+      "eligible_voters": 61870711,
+      "voters": 48044134
+    },
+    {
+      "year": 2005,
+      "party": "CSU",
+      "vote_share_pct": 7.4,
+      "turnout_pct": 77.7,
+      "eligible_voters": 61870711,
+      "voters": 48044134
+    },
+    {
+      "year": 2005,
+      "party": "FDP",
+      "vote_share_pct": 9.8,
+      "turnout_pct": 77.7,
+      "eligible_voters": 61870711,
+      "voters": 48044134
+    },
+    {
+      "year": 2005,
+      "party": "Die Heimat",
+      "vote_share_pct": 1.6,
+      "turnout_pct": 77.7,
+      "eligible_voters": 61870711,
+      "voters": 48044134
+    },
+    {
+      "year": 2005,
+      "party": "REP",
+      "vote_share_pct": 0.6,
+      "turnout_pct": 77.7,
+      "eligible_voters": 61870711,
+      "voters": 48044134
+    },
+    {
+      "year": 2005,
+      "party": "BP",
+      "vote_share_pct": 0.1,
+      "turnout_pct": 77.7,
+      "eligible_voters": 61870711,
+      "voters": 48044134
+    },
+    {
+      "year": 2005,
+      "party": "Zentrum",
+      "vote_share_pct": 0,
+      "turnout_pct": 77.7,
+      "eligible_voters": 61870711,
+      "voters": 48044134
+    },
+    {
+      "year": 2009,
+      "party": "CDU",
+      "vote_share_pct": 27.3,
+      "turnout_pct": 70.8,
+      "eligible_voters": 62168489,
+      "voters": 44005575
+    },
+    {
+      "year": 2009,
+      "party": "SPD",
+      "vote_share_pct": 23,
+      "turnout_pct": 70.8,
+      "eligible_voters": 62168489,
+      "voters": 44005575
+    },
+    {
+      "year": 2009,
+      "party": "Bündnis 90/Die Grünen",
+      "vote_share_pct": 10.7,
+      "turnout_pct": 70.8,
+      "eligible_voters": 62168489,
+      "voters": 44005575
+    },
+    {
+      "year": 2009,
+      "party": "Die Linke",
+      "vote_share_pct": 11.9,
+      "turnout_pct": 70.8,
+      "eligible_voters": 62168489,
+      "voters": 44005575
+    },
+    {
+      "year": 2009,
+      "party": "CSU",
+      "vote_share_pct": 6.5,
+      "turnout_pct": 70.8,
+      "eligible_voters": 62168489,
+      "voters": 44005575
+    },
+    {
+      "year": 2009,
+      "party": "FDP",
+      "vote_share_pct": 14.6,
+      "turnout_pct": 70.8,
+      "eligible_voters": 62168489,
+      "voters": 44005575
+    },
+    {
+      "year": 2009,
+      "party": "Piraten",
+      "vote_share_pct": 2,
+      "turnout_pct": 70.8,
+      "eligible_voters": 62168489,
+      "voters": 44005575
+    },
+    {
+      "year": 2009,
+      "party": "Die Heimat",
+      "vote_share_pct": 1.5,
+      "turnout_pct": 70.8,
+      "eligible_voters": 62168489,
+      "voters": 44005575
+    },
+    {
+      "year": 2009,
+      "party": "REP",
+      "vote_share_pct": 0.4,
+      "turnout_pct": 70.8,
+      "eligible_voters": 62168489,
+      "voters": 44005575
+    },
+    {
+      "year": 2009,
+      "party": "BP",
+      "vote_share_pct": 0.1,
+      "turnout_pct": 70.8,
+      "eligible_voters": 62168489,
+      "voters": 44005575
+    },
+    {
+      "year": 2009,
+      "party": "DVU",
+      "vote_share_pct": 0.1,
+      "turnout_pct": 70.8,
+      "eligible_voters": 62168489,
+      "voters": 44005575
+    },
+    {
+      "year": 2009,
+      "party": "Zentrum",
+      "vote_share_pct": 0,
+      "turnout_pct": 70.8,
+      "eligible_voters": 62168489,
+      "voters": 44005575
+    },
+    {
+      "year": 2013,
+      "party": "CDU",
+      "vote_share_pct": 34.1,
+      "turnout_pct": 71.5,
+      "eligible_voters": 61946900,
+      "voters": 44309925
+    },
+    {
+      "year": 2013,
+      "party": "AfD",
+      "vote_share_pct": 4.7,
+      "turnout_pct": 71.5,
+      "eligible_voters": 61946900,
+      "voters": 44309925
+    },
+    {
+      "year": 2013,
+      "party": "SPD",
+      "vote_share_pct": 25.7,
+      "turnout_pct": 71.5,
+      "eligible_voters": 61946900,
+      "voters": 44309925
+    },
+    {
+      "year": 2013,
+      "party": "Bündnis 90/Die Grünen",
+      "vote_share_pct": 8.4,
+      "turnout_pct": 71.5,
+      "eligible_voters": 61946900,
+      "voters": 44309925
+    },
+    {
+      "year": 2013,
+      "party": "Die Linke",
+      "vote_share_pct": 8.6,
+      "turnout_pct": 71.5,
+      "eligible_voters": 61946900,
+      "voters": 44309925
+    },
+    {
+      "year": 2013,
+      "party": "CSU",
+      "vote_share_pct": 7.4,
+      "turnout_pct": 71.5,
+      "eligible_voters": 61946900,
+      "voters": 44309925
+    },
+    {
+      "year": 2013,
+      "party": "FDP",
+      "vote_share_pct": 4.8,
+      "turnout_pct": 71.5,
+      "eligible_voters": 61946900,
+      "voters": 44309925
+    },
+    {
+      "year": 2013,
+      "party": "Freie Wähler",
+      "vote_share_pct": 1,
+      "turnout_pct": 71.5,
+      "eligible_voters": 61946900,
+      "voters": 44309925
+    },
+    {
+      "year": 2013,
+      "party": "Piraten",
+      "vote_share_pct": 2.2,
+      "turnout_pct": 71.5,
+      "eligible_voters": 61946900,
+      "voters": 44309925
+    },
+    {
+      "year": 2013,
+      "party": "Die Heimat",
+      "vote_share_pct": 1.3,
+      "turnout_pct": 71.5,
+      "eligible_voters": 61946900,
+      "voters": 44309925
+    },
+    {
+      "year": 2013,
+      "party": "REP",
+      "vote_share_pct": 0.2,
+      "turnout_pct": 71.5,
+      "eligible_voters": 61946900,
+      "voters": 44309925
+    },
+    {
+      "year": 2013,
+      "party": "BP",
+      "vote_share_pct": 0.1,
+      "turnout_pct": 71.5,
+      "eligible_voters": 61946900,
+      "voters": 44309925
+    },
+    {
+      "year": 2017,
+      "party": "CDU",
+      "vote_share_pct": 26.8,
+      "turnout_pct": 76.2,
+      "eligible_voters": 61688485,
+      "voters": 46976341
+    },
+    {
+      "year": 2017,
+      "party": "AfD",
+      "vote_share_pct": 12.6,
+      "turnout_pct": 76.2,
+      "eligible_voters": 61688485,
+      "voters": 46976341
+    },
+    {
+      "year": 2017,
+      "party": "SPD",
+      "vote_share_pct": 20.5,
+      "turnout_pct": 76.2,
+      "eligible_voters": 61688485,
+      "voters": 46976341
+    },
+    {
+      "year": 2017,
+      "party": "Bündnis 90/Die Grünen",
+      "vote_share_pct": 8.9,
+      "turnout_pct": 76.2,
+      "eligible_voters": 61688485,
+      "voters": 46976341
+    },
+    {
+      "year": 2017,
+      "party": "Die Linke",
+      "vote_share_pct": 9.2,
+      "turnout_pct": 76.2,
+      "eligible_voters": 61688485,
+      "voters": 46976341
+    },
+    {
+      "year": 2017,
+      "party": "CSU",
+      "vote_share_pct": 6.2,
+      "turnout_pct": 76.2,
+      "eligible_voters": 61688485,
+      "voters": 46976341
+    },
+    {
+      "year": 2017,
+      "party": "FDP",
+      "vote_share_pct": 10.7,
+      "turnout_pct": 76.2,
+      "eligible_voters": 61688485,
+      "voters": 46976341
+    },
+    {
+      "year": 2017,
+      "party": "Freie Wähler",
+      "vote_share_pct": 1,
+      "turnout_pct": 76.2,
+      "eligible_voters": 61688485,
+      "voters": 46976341
+    },
+    {
+      "year": 2017,
+      "party": "Tierschutzpartei",
+      "vote_share_pct": 0.8,
+      "turnout_pct": 76.2,
+      "eligible_voters": 61688485,
+      "voters": 46976341
+    },
+    {
+      "year": 2017,
+      "party": "Piraten",
+      "vote_share_pct": 0.4,
+      "turnout_pct": 76.2,
+      "eligible_voters": 61688485,
+      "voters": 46976341
+    },
+    {
+      "year": 2017,
+      "party": "Die Heimat",
+      "vote_share_pct": 0.4,
+      "turnout_pct": 76.2,
+      "eligible_voters": 61688485,
+      "voters": 46976341
+    },
+    {
+      "year": 2021,
+      "party": "CDU",
+      "vote_share_pct": 19,
+      "turnout_pct": 76.4,
+      "eligible_voters": 61172771,
+      "voters": 46707343
+    },
+    {
+      "year": 2021,
+      "party": "AfD",
+      "vote_share_pct": 10.4,
+      "turnout_pct": 76.4,
+      "eligible_voters": 61172771,
+      "voters": 46707343
+    },
+    {
+      "year": 2021,
+      "party": "SPD",
+      "vote_share_pct": 25.7,
+      "turnout_pct": 76.4,
+      "eligible_voters": 61172771,
+      "voters": 46707343
+    },
+    {
+      "year": 2021,
+      "party": "Bündnis 90/Die Grünen",
+      "vote_share_pct": 14.7,
+      "turnout_pct": 76.4,
+      "eligible_voters": 61172771,
+      "voters": 46707343
+    },
+    {
+      "year": 2021,
+      "party": "Die Linke",
+      "vote_share_pct": 4.9,
+      "turnout_pct": 76.4,
+      "eligible_voters": 61172771,
+      "voters": 46707343
+    },
+    {
+      "year": 2021,
+      "party": "CSU",
+      "vote_share_pct": 5.2,
+      "turnout_pct": 76.4,
+      "eligible_voters": 61172771,
+      "voters": 46707343
+    },
+    {
+      "year": 2021,
+      "party": "FDP",
+      "vote_share_pct": 11.4,
+      "turnout_pct": 76.4,
+      "eligible_voters": 61172771,
+      "voters": 46707343
+    },
+    {
+      "year": 2021,
+      "party": "Freie Wähler",
+      "vote_share_pct": 2.4,
+      "turnout_pct": 76.4,
+      "eligible_voters": 61172771,
+      "voters": 46707343
+    },
+    {
+      "year": 2021,
+      "party": "Tierschutzpartei",
+      "vote_share_pct": 1.5,
+      "turnout_pct": 76.4,
+      "eligible_voters": 61172771,
+      "voters": 46707343
+    },
+    {
+      "year": 2021,
+      "party": "dieBasis",
+      "vote_share_pct": 1.4,
+      "turnout_pct": 76.4,
+      "eligible_voters": 61172771,
+      "voters": 46707343
+    },
+    {
+      "year": 2021,
+      "party": "SSW",
+      "vote_share_pct": 0.1,
+      "turnout_pct": 76.4,
+      "eligible_voters": 61172771,
+      "voters": 46707343
+    },
+    {
+      "year": 2021,
+      "party": "Piraten",
+      "vote_share_pct": 0.4,
+      "turnout_pct": 76.4,
+      "eligible_voters": 61172771,
+      "voters": 46707343
+    },
+    {
+      "year": 2021,
+      "party": "Die Heimat",
+      "vote_share_pct": 0.1,
+      "turnout_pct": 76.4,
+      "eligible_voters": 61172771,
+      "voters": 46707343
+    },
+    {
+      "year": 2025,
+      "party": "CDU",
+      "vote_share_pct": 22.6,
+      "turnout_pct": 82.5,
+      "eligible_voters": 60510631,
+      "voters": 49928653
+    },
+    {
+      "year": 2025,
+      "party": "AfD",
+      "vote_share_pct": 20.8,
+      "turnout_pct": 82.5,
+      "eligible_voters": 60510631,
+      "voters": 49928653
+    },
+    {
+      "year": 2025,
+      "party": "SPD",
+      "vote_share_pct": 16.4,
+      "turnout_pct": 82.5,
+      "eligible_voters": 60510631,
+      "voters": 49928653
+    },
+    {
+      "year": 2025,
+      "party": "Bündnis 90/Die Grünen",
+      "vote_share_pct": 11.6,
+      "turnout_pct": 82.5,
+      "eligible_voters": 60510631,
+      "voters": 49928653
+    },
+    {
+      "year": 2025,
+      "party": "Die Linke",
+      "vote_share_pct": 8.8,
+      "turnout_pct": 82.5,
+      "eligible_voters": 60510631,
+      "voters": 49928653
+    },
+    {
+      "year": 2025,
+      "party": "CSU",
+      "vote_share_pct": 6,
+      "turnout_pct": 82.5,
+      "eligible_voters": 60510631,
+      "voters": 49928653
+    },
+    {
+      "year": 2025,
+      "party": "BSW",
+      "vote_share_pct": 4.98,
+      "turnout_pct": 82.5,
+      "eligible_voters": 60510631,
+      "voters": 49928653
+    },
+    {
+      "year": 2025,
+      "party": "FDP",
+      "vote_share_pct": 4.3,
+      "turnout_pct": 82.5,
+      "eligible_voters": 60510631,
+      "voters": 49928653
+    },
+    {
+      "year": 2025,
+      "party": "Freie Wähler",
+      "vote_share_pct": 1.5,
+      "turnout_pct": 82.5,
+      "eligible_voters": 60510631,
+      "voters": 49928653
+    },
+    {
+      "year": 2025,
+      "party": "Tierschutzpartei",
+      "vote_share_pct": 1,
+      "turnout_pct": 82.5,
+      "eligible_voters": 60510631,
+      "voters": 49928653
+    },
+    {
+      "year": 2025,
+      "party": "dieBasis",
+      "vote_share_pct": 0.2,
+      "turnout_pct": 82.5,
+      "eligible_voters": 60510631,
+      "voters": 49928653
+    },
+    {
+      "year": 2025,
+      "party": "SSW",
+      "vote_share_pct": 0.2,
+      "turnout_pct": 82.5,
+      "eligible_voters": 60510631,
+      "voters": 49928653
+    },
+    {
+      "year": 2025,
+      "party": "Piraten",
+      "vote_share_pct": 0,
+      "turnout_pct": 82.5,
+      "eligible_voters": 60510631,
+      "voters": 49928653
+    }
+  ],
+  "meta": {
+    "title": "Ergebnisse der Bundestagswahlen seit 1949 - Free Download",
+    "description": "Ergebnisse aller Bundestagswahlen seit 1949 nach Partei: Zweitstimmenanteil (1949: Stimmenanteil) in Prozent sowie Wahlberechtigte, Wählende und Wahlbeteiligung der jeweiligen Wahl. Contains 196 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ergebnisse der Bundestagswahlen seit 1949 | ListBase",
+    "seo_description": "Download Ergebnisse der Bundestagswahlen seit 1949 — 196 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 196 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Ergebnisse_der_Bundestagswahlen"
+    ]
+  }
+}

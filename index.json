@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-20T02:22:21.411Z",
-  "total_datasets": 581,
-  "total_records": 1882154,
+  "generated": "2026-11-20T02:25:24.136Z",
+  "total_datasets": 582,
+  "total_records": 1882350,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "reference",
@@ -6926,6 +6926,33 @@
         "xlsx": {
           "name": "de-bundestagspraesidenten_DE.xlsx",
           "size": 9308
+        }
+      }
+    },
+    {
+      "id": "de-bundestagswahlen-ergebnisse",
+      "name": "Ergebnisse der Bundestagswahlen seit 1949",
+      "category": "politics",
+      "record_count": 196,
+      "columns": [
+        "year",
+        "party",
+        "vote_share_pct",
+        "turnout_pct",
+        "eligible_voters",
+        "voters"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Ergebnisse_der_Bundestagswahlen",
+      "updated": "2026-11",
+      "size": 36002,
+      "files": {
+        "csv": {
+          "name": "de-bundestagswahlen-ergebnisse_DE.csv",
+          "size": 10016
+        },
+        "xlsx": {
+          "name": "de-bundestagswahlen-ergebnisse_DE.xlsx",
+          "size": 11772
         }
       }
     },
