@@ -1,12 +1,12 @@
 {
   "lang": "de",
-  "generated": "2026-11-20T02:25:24.136Z",
-  "total_datasets": 582,
-  "total_records": 1882350,
+  "generated": "2026-11-23T02:23:23.398Z",
+  "total_datasets": 583,
+  "total_records": 1882375,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "culture",
@@ -206,6 +206,34 @@
         "xlsx": {
           "name": "de-gefaehrdete-nutztierrassen_DE.xlsx",
           "size": 17910
+        }
+      }
+    },
+    {
+      "id": "de-groesste-unternehmen-fleischwirtschaft",
+      "name": "Die größten Unternehmen der Fleischwirtschaft in Deutschland",
+      "category": "agriculture",
+      "record_count": 25,
+      "columns": [
+        "rank",
+        "company",
+        "headquarters",
+        "revenue_2023_mio_eur",
+        "revenue_2022_mio_eur",
+        "revenue_2021_mio_eur",
+        "business"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_größten_Unternehmen_der_Fleischwirtschaft_in_Deutschland",
+      "updated": "2026-11",
+      "size": 9689,
+      "files": {
+        "csv": {
+          "name": "de-groesste-unternehmen-fleischwirtschaft_DE.csv",
+          "size": 3248
+        },
+        "xlsx": {
+          "name": "de-groesste-unternehmen-fleischwirtschaft_DE.xlsx",
+          "size": 8414
         }
       }
     },

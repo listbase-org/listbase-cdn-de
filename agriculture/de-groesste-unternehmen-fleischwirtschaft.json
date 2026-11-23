@@ -1,0 +1,286 @@
+{
+  "id": "de-groesste-unternehmen-fleischwirtschaft",
+  "name": "Die größten Unternehmen der Fleischwirtschaft in Deutschland",
+  "title": "Die größten Unternehmen der Fleischwirtschaft in Deutschland",
+  "description": "Rangliste der umsatzstärksten Unternehmen der deutschen Fleischwirtschaft mit Sitz, Umsatz 2021–2023 in Mio. € und Geschäftstätigkeit.",
+  "category": "agriculture",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_größten_Unternehmen_der_Fleischwirtschaft_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_größten_Unternehmen_der_Fleischwirtschaft_in_Deutschland",
+  "updated": "2026-11",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "company",
+      "label": "Company",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "revenue_2023_mio_eur",
+      "label": "Revenue 2023 Mio Eur",
+      "type": "number"
+    },
+    {
+      "key": "revenue_2022_mio_eur",
+      "label": "Revenue 2022 Mio Eur",
+      "type": "number"
+    },
+    {
+      "key": "revenue_2021_mio_eur",
+      "label": "Revenue 2021 Mio Eur",
+      "type": "number"
+    },
+    {
+      "key": "business",
+      "label": "Business",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "company": "Tönnies-Gruppe",
+      "headquarters": "Rheda-Wiedenbrück, Nordrhein-Westfalen",
+      "revenue_2023_mio_eur": 7300,
+      "revenue_2022_mio_eur": 6820,
+      "revenue_2021_mio_eur": 6200,
+      "business": "Schlachtung von Schlachttieren (vor allem Schweine und Rinder) und Verarbeitung"
+    },
+    {
+      "rank": 2,
+      "company": "PHW-Gruppe",
+      "headquarters": "Rechterfeld, Niedersachsen",
+      "revenue_2023_mio_eur": 4033,
+      "revenue_2022_mio_eur": 3315,
+      "revenue_2021_mio_eur": 2769,
+      "business": "Schlachtung von Geflügel und Verarbeitung"
+    },
+    {
+      "rank": 3,
+      "company": "Westfleisch",
+      "headquarters": "Münster, Nordrhein-Westfalen",
+      "revenue_2023_mio_eur": 3300,
+      "revenue_2022_mio_eur": 3009,
+      "revenue_2021_mio_eur": 2600,
+      "business": "Schlachtung von Schlachttieren (vor allem Schweine und Rinder) und Verarbeitung"
+    },
+    {
+      "rank": 4,
+      "company": "Vion Food Germany",
+      "headquarters": "Boxtel, Niederlande",
+      "revenue_2023_mio_eur": 2700,
+      "revenue_2022_mio_eur": 2700,
+      "revenue_2021_mio_eur": 2500,
+      "business": "Schlachtung von Schlachttieren (vor allem Schweine und Rinder) und Verarbeitung"
+    },
+    {
+      "rank": 5,
+      "company": "Heristo",
+      "headquarters": "Bad Rothenfelde, Niedersachsen",
+      "revenue_2023_mio_eur": 1800,
+      "revenue_2022_mio_eur": 1648,
+      "revenue_2021_mio_eur": 1439,
+      "business": "Verarbeitung und Fleischimport"
+    },
+    {
+      "rank": 6,
+      "company": "Rothkötter-Gruppe",
+      "headquarters": "Meppen, Niedersachsen",
+      "revenue_2023_mio_eur": 1700,
+      "revenue_2022_mio_eur": 1950,
+      "revenue_2021_mio_eur": 1600,
+      "business": "Schlachtung von Geflügel und Verarbeitung"
+    },
+    {
+      "rank": 7,
+      "company": "Danish Crown Germany",
+      "headquarters": "Randers, Dänemark",
+      "revenue_2023_mio_eur": 1348,
+      "revenue_2022_mio_eur": 1500,
+      "revenue_2021_mio_eur": 1400,
+      "business": "Schlachtung von Schlachttieren (vor allem Schweine und Rinder) und Verarbeitung"
+    },
+    {
+      "rank": 8,
+      "company": "Müller-Gruppe",
+      "headquarters": "Birkenfeld, Baden-Württemberg",
+      "revenue_2023_mio_eur": 1073,
+      "revenue_2022_mio_eur": 970,
+      "revenue_2021_mio_eur": 950,
+      "business": "Schlachtung von Schlachttieren (vor allem Schweine und Rinder)"
+    },
+    {
+      "rank": 9,
+      "company": "Edeka Südwest Fleisch (Tochterunternehmen von Edeka Südwest)",
+      "headquarters": "Offenburg, Baden-Württemberg",
+      "revenue_2023_mio_eur": 1014,
+      "revenue_2022_mio_eur": 976,
+      "revenue_2021_mio_eur": 946,
+      "business": "Verarbeitung und Handel"
+    },
+    {
+      "rank": 10,
+      "company": "Gilde eG",
+      "headquarters": "Frankfurt am Main, Hessen",
+      "revenue_2023_mio_eur": 1002,
+      "revenue_2022_mio_eur": "",
+      "revenue_2021_mio_eur": "",
+      "business": "Handel und Dienstleistungen"
+    },
+    {
+      "rank": 11,
+      "company": "Kaufland Fleischwaren (Tochterunternehmen von Kaufland)",
+      "headquarters": "Neckarsulm, Baden-Württemberg",
+      "revenue_2023_mio_eur": 1000,
+      "revenue_2022_mio_eur": 849,
+      "revenue_2021_mio_eur": 849,
+      "business": "Verarbeitung"
+    },
+    {
+      "rank": 12,
+      "company": "Zur-Mühlen-Gruppe (Tochterunternehmen der Tönnies-Gruppe)",
+      "headquarters": "Böklund, Schleswig-Holstein",
+      "revenue_2023_mio_eur": 1000,
+      "revenue_2022_mio_eur": 1000,
+      "revenue_2021_mio_eur": "",
+      "business": "Verarbeitung"
+    },
+    {
+      "rank": 13,
+      "company": "Sprehe-Gruppe",
+      "headquarters": "Cappeln (Oldenburg), Niedersachsen",
+      "revenue_2023_mio_eur": 950,
+      "revenue_2022_mio_eur": 850,
+      "revenue_2021_mio_eur": "",
+      "business": "Schlachtung von Geflügel und Verarbeitung"
+    },
+    {
+      "rank": 14,
+      "company": "Willms",
+      "headquarters": "Ruppichteroth, Nordrhein-Westfalen",
+      "revenue_2023_mio_eur": 855,
+      "revenue_2022_mio_eur": 784,
+      "revenue_2021_mio_eur": 687,
+      "business": "Schlachtung von Schlachttieren (vor allem Schweine und Rinder) und Verarbeitung"
+    },
+    {
+      "rank": 15,
+      "company": "Brandenburg (Tochterunternehmen von Rewe Group)",
+      "headquarters": "Köln, Nordrhein-Westfalen",
+      "revenue_2023_mio_eur": 851,
+      "revenue_2022_mio_eur": 857,
+      "revenue_2021_mio_eur": 657,
+      "business": "Verarbeitung"
+    },
+    {
+      "rank": 16,
+      "company": "Bauerngut (Tochterunternehmen von Edeka Minden-Hannover)",
+      "headquarters": "Minden, Nordrhein-Westfalen",
+      "revenue_2023_mio_eur": 791,
+      "revenue_2022_mio_eur": 739,
+      "revenue_2021_mio_eur": 687,
+      "business": "Verarbeitung"
+    },
+    {
+      "rank": 17,
+      "company": "InFamily Foods",
+      "headquarters": "Versmold, Nordrhein-Westfalen",
+      "revenue_2023_mio_eur": 775,
+      "revenue_2022_mio_eur": 742,
+      "revenue_2021_mio_eur": 720,
+      "business": "Verarbeitung"
+    },
+    {
+      "rank": 18,
+      "company": "Goldschmaus-Gruppe",
+      "headquarters": "Garrel, Niedersachsen",
+      "revenue_2023_mio_eur": 726,
+      "revenue_2022_mio_eur": 420,
+      "revenue_2021_mio_eur": 550,
+      "business": "Schlachtung von Schlachttieren (Schweine und Rinder) und Verarbeitung"
+    },
+    {
+      "rank": 19,
+      "company": "Heidemark-Gruppe",
+      "headquarters": "Höltinghausen, Niedersachsen",
+      "revenue_2023_mio_eur": 713,
+      "revenue_2022_mio_eur": 666,
+      "revenue_2021_mio_eur": 576,
+      "business": "Schlachtung von Geflügel und Verarbeitung"
+    },
+    {
+      "rank": 20,
+      "company": "Rasting (Tochterunternehmen von Edeka Rhein-Ruhr)",
+      "headquarters": "Meckenheim, Nordrhein-Westfalen",
+      "revenue_2023_mio_eur": 670,
+      "revenue_2022_mio_eur": 640,
+      "revenue_2021_mio_eur": 604,
+      "business": "Verarbeitung"
+    },
+    {
+      "rank": 21,
+      "company": "Plukon Deutschland",
+      "headquarters": "Visbek, Niedersachsen",
+      "revenue_2023_mio_eur": 620,
+      "revenue_2022_mio_eur": 600,
+      "revenue_2021_mio_eur": 530,
+      "business": "Schlachtung von Geflügel und Verarbeitung"
+    },
+    {
+      "rank": 22,
+      "company": "OSI",
+      "headquarters": "Gersthofen, Bayern",
+      "revenue_2023_mio_eur": 552,
+      "revenue_2022_mio_eur": 552,
+      "revenue_2021_mio_eur": 552,
+      "business": "Schlachtung und Verarbeitung"
+    },
+    {
+      "rank": 23,
+      "company": "Steinemann",
+      "headquarters": "Steinfeld (Oldenburg), Niedersachsen",
+      "revenue_2023_mio_eur": 458,
+      "revenue_2022_mio_eur": 409,
+      "revenue_2021_mio_eur": "",
+      "business": "Schlachtung von Schlachttieren (Schweine und Rinder) und Verarbeitung"
+    },
+    {
+      "rank": 24,
+      "company": "Simon-Fleisch (Gruppe)",
+      "headquarters": "Wittlich, Rheinland-Pfalz",
+      "revenue_2023_mio_eur": 450,
+      "revenue_2022_mio_eur": 350,
+      "revenue_2021_mio_eur": "",
+      "business": "Schlachtung von Schlachttieren"
+    },
+    {
+      "rank": 25,
+      "company": "Südbayerische Fleischwaren (Tochterunternehmen von EDEKA Südbayern)",
+      "headquarters": "Ingolstadt, Bayern",
+      "revenue_2023_mio_eur": 442,
+      "revenue_2022_mio_eur": 450,
+      "revenue_2021_mio_eur": "",
+      "business": "Verarbeitung"
+    }
+  ],
+  "meta": {
+    "title": "Die größten Unternehmen der Fleischwirtschaft in Deutschland - Free Download",
+    "description": "Rangliste der umsatzstärksten Unternehmen der deutschen Fleischwirtschaft mit Sitz, Umsatz 2021–2023 in Mio. € und Geschäftstätigkeit. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Die größten Unternehmen der Fleischwirtschaft in Deutschland | ListBase",
+    "seo_description": "Download Die größten Unternehmen der Fleischwirtschaft in Deutschland — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_größten_Unternehmen_der_Fleischwirtschaft_in_Deutschland"
+    ]
+  }
+}
