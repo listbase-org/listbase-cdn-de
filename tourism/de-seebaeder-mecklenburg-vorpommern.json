@@ -1,0 +1,446 @@
+{
+  "id": "de-seebaeder-mecklenburg-vorpommern",
+  "name": "Seebäder an der Ostseeküste Mecklenburg-Vorpommerns",
+  "title": "Seebäder an der Ostseeküste Mecklenburg-Vorpommerns",
+  "description": "Ostseebäder, Ostseeheilbäder und Seebäder in Mecklenburg-Vorpommern mit Region/Insel, Landkreis, Prädikat, Einwohnerzahl (31.12.2025), Übernachtungen 2012 und Besonderheiten.",
+  "category": "tourism",
+  "source": "https://de.wikipedia.org/wiki/Liste_deutscher_Seebäder",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_deutscher_Seebäder",
+  "updated": "2026-11",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "place",
+      "label": "Place",
+      "type": "string"
+    },
+    {
+      "key": "region_island",
+      "label": "Region Island",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "since",
+      "label": "Since",
+      "type": "number"
+    },
+    {
+      "key": "population_2025",
+      "label": "Population 2025",
+      "type": "number"
+    },
+    {
+      "key": "overnight_stays_2012",
+      "label": "Overnight Stays 2012",
+      "type": "number"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "place": "Ahlbeck (Gemeinde Heringsdorf)",
+      "region_island": "Insel Usedom",
+      "district": "Vorpommern-Greifswald",
+      "type": "Ostseeheilbad",
+      "since": "",
+      "population_2025": 7274,
+      "overnight_stays_2012": 495776,
+      "notes": "(Zahlen: Gemeinde Heringsdorf) Seebrücke Ahlbeck, ein Wahrzeichen der Insel Usedom; Ostseetherme"
+    },
+    {
+      "place": "Ahrenshoop",
+      "region_island": "Darß",
+      "district": "Vorpommern-Rügen",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 642,
+      "overnight_stays_2012": 176065,
+      "notes": "berühmte Künstlerkolonie (Kunstmuseum, Kunstkaten, Künstlerhaus Lukas)"
+    },
+    {
+      "place": "Altefähr",
+      "region_island": "Insel Rügen",
+      "district": "Vorpommern-Rügen",
+      "type": "Seebad",
+      "since": 2016,
+      "population_2025": 1275,
+      "overnight_stays_2012": "",
+      "notes": ""
+    },
+    {
+      "place": "Baabe",
+      "region_island": "Insel Rügen",
+      "district": "Vorpommern-Rügen",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 972,
+      "overnight_stays_2012": 314624,
+      "notes": "Mönchguter Küstenfischermuseum, Aussichtspunkt Baaber Bollwerk"
+    },
+    {
+      "place": "Bansin (Gemeinde Heringsdorf)",
+      "region_island": "Insel Usedom",
+      "district": "Vorpommern-Greifswald",
+      "type": "Ostseeheilbad",
+      "since": "",
+      "population_2025": 7274,
+      "overnight_stays_2012": 495776,
+      "notes": "(Zahlen: Gemeinde Heringsdorf) Perlenkette mit prächtigen Bädervillen entlang der Strandpromenade"
+    },
+    {
+      "place": "Binz",
+      "region_island": "Insel Rügen",
+      "district": "Vorpommern-Rügen",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 5293,
+      "overnight_stays_2012": 382053,
+      "notes": "Kurhaus Binz, Seebad Prora aus der NS-Zeit, Naturerbe-Zentrum Rügen, Casino im Hotel Loev"
+    },
+    {
+      "place": "Boltenhagen",
+      "region_island": "",
+      "district": "Nordwestmecklenburg",
+      "type": "Seebad",
+      "since": "",
+      "population_2025": 2445,
+      "overnight_stays_2012": 149623,
+      "notes": "Marina/Yachthafen Weiße Wiek, Kurgarten"
+    },
+    {
+      "place": "Breege mit Juliusruh",
+      "region_island": "Insel Rügen",
+      "district": "Vorpommern-Rügen",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 583,
+      "overnight_stays_2012": 76251,
+      "notes": "Historische Kapitänshäuser in Breege, Hafen, Park Juliusruh"
+    },
+    {
+      "place": "Diedrichshagen (Hansestadt Rostock)",
+      "region_island": "",
+      "district": "kreisfrei",
+      "type": "Ostseebad",
+      "since": 1996,
+      "population_2025": 1281,
+      "overnight_stays_2012": "",
+      "notes": "Steilküste an der Stoltera mit begleitendem Ostseeküstenradweg über Warnemünde, reetgedeckter Dreiseitenhof"
+    },
+    {
+      "place": "Dierhagen",
+      "region_island": "",
+      "district": "Vorpommern-Rügen",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 1475,
+      "overnight_stays_2012": 77745,
+      "notes": ""
+    },
+    {
+      "place": "Göhren",
+      "region_island": "Insel Rügen",
+      "district": "Vorpommern-Rügen",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 1388,
+      "overnight_stays_2012": 89621,
+      "notes": ""
+    },
+    {
+      "place": "Graal-Müritz",
+      "region_island": "",
+      "district": "Rostock",
+      "type": "Ostseeheilbad",
+      "since": "",
+      "population_2025": 4167,
+      "overnight_stays_2012": 119606,
+      "notes": ""
+    },
+    {
+      "place": "Heiligendamm (Stadt Bad Doberan)",
+      "region_island": "",
+      "district": "Rostock",
+      "type": "Ostseeheilbad",
+      "since": "",
+      "population_2025": 13059,
+      "overnight_stays_2012": 27863,
+      "notes": "(Zahlen: Stadt Bad Doberan) Ältestes Seebad auf dem Kontinent (gegr. 1793), erste Beispiele der Bäderarchitektur (Villen an der „Perlenkette“, Grand Hotel Heiligendamm)"
+    },
+    {
+      "place": "Heringsdorf",
+      "region_island": "Insel Usedom",
+      "district": "Vorpommern-Greifswald",
+      "type": "Ostseeheilbad",
+      "since": "",
+      "population_2025": 7274,
+      "overnight_stays_2012": 495776,
+      "notes": "(Zahlen: Gemeinde Heringsdorf) Deutschlands längste Seebrücke (508 m) mit vielen Läden und Restaurants, Bädervillen (Villa Oechsler, Staudt, Oppenheim, Bleichröder, Achterkerke, Irmgard und weitere)"
+    },
+    {
+      "place": "Hiddensee, Insel",
+      "region_island": "",
+      "district": "Vorpommern-Rügen",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 912,
+      "overnight_stays_2012": 25711,
+      "notes": "Wahrzeichen Leuchtturm Dornbusch, berühmte Künstlerkolonie (Blaue Scheune)"
+    },
+    {
+      "place": "Hohe Düne (Hansestadt Rostock)",
+      "region_island": "",
+      "district": "kreisfrei",
+      "type": "Ostseebad",
+      "since": 1996,
+      "population_2025": 620,
+      "overnight_stays_2012": "",
+      "notes": "Yachthafen und Premium-Hotelanlage Hohe Düne"
+    },
+    {
+      "place": "Karlshagen",
+      "region_island": "Insel Usedom",
+      "district": "Vorpommern-Greifswald",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 3046,
+      "overnight_stays_2012": 48305,
+      "notes": ""
+    },
+    {
+      "place": "Koserow",
+      "region_island": "Insel Usedom",
+      "district": "Vorpommern-Greifswald",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 1522,
+      "overnight_stays_2012": 49109,
+      "notes": ""
+    },
+    {
+      "place": "Kühlungsborn",
+      "region_island": "",
+      "district": "Rostock",
+      "type": "Ostseeheilbad",
+      "since": "",
+      "population_2025": 8100,
+      "overnight_stays_2012": 328661,
+      "notes": ""
+    },
+    {
+      "place": "Lauterbach (Gemeinde Putbus)",
+      "region_island": "Insel Rügen",
+      "district": "Vorpommern-Rügen",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 4488,
+      "overnight_stays_2012": 39862,
+      "notes": "(Zahlen: Stadt Putbus) (Einwohnerzahl: Stadt Putbus)"
+    },
+    {
+      "place": "Loddin",
+      "region_island": "Insel Usedom",
+      "district": "Vorpommern-Greifswald",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 864,
+      "overnight_stays_2012": 41937,
+      "notes": ""
+    },
+    {
+      "place": "Lubmin bei Greifswald",
+      "region_island": "Pommersche Bucht",
+      "district": "Vorpommern-Greifswald",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 2259,
+      "overnight_stays_2012": 10801,
+      "notes": ""
+    },
+    {
+      "place": "Markgrafenheide (Hansestadt Rostock)",
+      "region_island": "",
+      "district": "kreisfrei",
+      "type": "Ostseebad",
+      "since": 1996,
+      "population_2025": 563,
+      "overnight_stays_2012": "",
+      "notes": ""
+    },
+    {
+      "place": "Nienhagen",
+      "region_island": "",
+      "district": "Rostock",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 2221,
+      "overnight_stays_2012": 14335,
+      "notes": "„Gespensterwald“ an der Steilküste"
+    },
+    {
+      "place": "Poel, Insel",
+      "region_island": "",
+      "district": "Nordwestmecklenburg",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 2486,
+      "overnight_stays_2012": 30549,
+      "notes": "Wahrzeichen Leuchtturm Timmendorf, Kirche von Kirchdorf, Kirchdorfer Schwedenfest im Sommer"
+    },
+    {
+      "place": "Prerow",
+      "region_island": "Darß",
+      "district": "Vorpommern-Rügen",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 1324,
+      "overnight_stays_2012": 61070,
+      "notes": ""
+    },
+    {
+      "place": "Rerik",
+      "region_island": "Salzhaff",
+      "district": "Rostock",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 2199,
+      "overnight_stays_2012": 77941,
+      "notes": "Schmiedeberg am Strand mit Ausblick"
+    },
+    {
+      "place": "Sassnitz",
+      "region_island": "Insel Rügen",
+      "district": "Vorpommern-Rügen",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 8879,
+      "overnight_stays_2012": 73880,
+      "notes": "„Tor zum Nationalpark Jasmund “ mit den Rügener Kreidefelsen"
+    },
+    {
+      "place": "Sellin",
+      "region_island": "Insel Rügen",
+      "district": "Vorpommern-Rügen",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 2465,
+      "overnight_stays_2012": 130037,
+      "notes": "Seebrücke Sellin, ein Wahrzeichen Rügens"
+    },
+    {
+      "place": "Mönchgut",
+      "region_island": "Insel Rügen",
+      "district": "Vorpommern-Rügen",
+      "type": "Ostseebad",
+      "since": 2020,
+      "population_2025": 1360,
+      "overnight_stays_2012": 345143,
+      "notes": "Südperd mit Steilküste"
+    },
+    {
+      "place": "Trassenheide",
+      "region_island": "Insel Usedom",
+      "district": "Vorpommern-Greifswald",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 884,
+      "overnight_stays_2012": 55346,
+      "notes": "Europas größte Schmetterlingsfarm"
+    },
+    {
+      "place": "Ückeritz",
+      "region_island": "Insel Usedom",
+      "district": "Vorpommern-Greifswald",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 1020,
+      "overnight_stays_2012": 55725,
+      "notes": ""
+    },
+    {
+      "place": "Ueckermünde",
+      "region_island": "",
+      "district": "Vorpommern-Greifswald",
+      "type": "Seebad",
+      "since": "",
+      "population_2025": 8651,
+      "overnight_stays_2012": "",
+      "notes": "erhaltener Altstadtkern mit Stadthafen, Stadtstrand am Stettiner Haff"
+    },
+    {
+      "place": "Warnemünde (Stadt Rostock)",
+      "region_island": "",
+      "district": "kreisfrei",
+      "type": "Ostseebad",
+      "since": 1996,
+      "population_2025": 6670,
+      "overnight_stays_2012": 313317,
+      "notes": "Leuchtturm und Teepott als Wahrzeichen"
+    },
+    {
+      "place": "Wustrow",
+      "region_island": "Fischland",
+      "district": "Vorpommern-Rügen",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 1134,
+      "overnight_stays_2012": 51511,
+      "notes": ""
+    },
+    {
+      "place": "Zempin",
+      "region_island": "Insel Usedom",
+      "district": "Vorpommern-Greifswald",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 872,
+      "overnight_stays_2012": 23930,
+      "notes": ""
+    },
+    {
+      "place": "Zingst",
+      "region_island": "Zingst",
+      "district": "Vorpommern-Rügen",
+      "type": "Seeheilbad",
+      "since": "",
+      "population_2025": 2867,
+      "overnight_stays_2012": 135043,
+      "notes": ""
+    },
+    {
+      "place": "Zinnowitz",
+      "region_island": "Insel Usedom",
+      "district": "Vorpommern-Greifswald",
+      "type": "Ostseebad",
+      "since": "",
+      "population_2025": 4114,
+      "overnight_stays_2012": 157809,
+      "notes": "Tauchgondel auf der Seebrücke, Lift-Café an der Promenade"
+    }
+  ],
+  "meta": {
+    "title": "Seebäder an der Ostseeküste Mecklenburg-Vorpommerns - Free Download",
+    "description": "Ostseebäder, Ostseeheilbäder und Seebäder in Mecklenburg-Vorpommern mit Region/Insel, Landkreis, Prädikat, Einwohnerzahl (31.12.2025), Übernachtungen 2012 und Besonderheiten. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Seebäder an der Ostseeküste Mecklenburg-Vorpommerns | ListBase",
+    "seo_description": "Download Seebäder an der Ostseeküste Mecklenburg-Vorpommerns — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_deutscher_Seebäder"
+    ]
+  }
+}

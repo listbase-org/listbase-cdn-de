@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-23T02:23:33.218Z",
-  "total_datasets": 584,
-  "total_records": 1883005,
+  "generated": "2026-11-23T02:23:42.762Z",
+  "total_datasets": 585,
+  "total_records": 1883043,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "transport",
@@ -16530,6 +16530,35 @@
         "xlsx": {
           "name": "de-seebaeder_DE.xlsx",
           "size": 9638
+        }
+      }
+    },
+    {
+      "id": "de-seebaeder-mecklenburg-vorpommern",
+      "name": "Seebäder an der Ostseeküste Mecklenburg-Vorpommerns",
+      "category": "tourism",
+      "record_count": 38,
+      "columns": [
+        "place",
+        "region_island",
+        "district",
+        "type",
+        "since",
+        "population_2025",
+        "overnight_stays_2012",
+        "notes"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_deutscher_Seebäder",
+      "updated": "2026-11",
+      "size": 13396,
+      "files": {
+        "csv": {
+          "name": "de-seebaeder-mecklenburg-vorpommern_DE.csv",
+          "size": 4828
+        },
+        "xlsx": {
+          "name": "de-seebaeder-mecklenburg-vorpommern_DE.xlsx",
+          "size": 9646
         }
       }
     },
