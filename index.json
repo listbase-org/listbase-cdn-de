@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-23T02:23:23.398Z",
-  "total_datasets": 583,
-  "total_records": 1882375,
+  "generated": "2026-11-23T02:23:33.218Z",
+  "total_datasets": 584,
+  "total_records": 1883005,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "music",
@@ -6340,6 +6340,30 @@
         "xlsx": {
           "name": "de-wort-des-jahres_DE.xlsx",
           "size": 13020
+        }
+      }
+    },
+    {
+      "id": "de-altersstufen-im-recht",
+      "name": "Altersstufen im deutschen Recht",
+      "category": "law",
+      "record_count": 630,
+      "columns": [
+        "term",
+        "age",
+        "status"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Altersstufen_im_deutschen_Recht",
+      "updated": "2026-11",
+      "size": 52586,
+      "files": {
+        "csv": {
+          "name": "de-altersstufen-im-recht_DE.csv",
+          "size": 15676
+        },
+        "xlsx": {
+          "name": "de-altersstufen-im-recht_DE.xlsx",
+          "size": 15080
         }
       }
     },
