@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-24T02:11:36.230Z",
-  "total_datasets": 586,
-  "total_records": 1883105,
+  "generated": "2026-11-24T02:11:45.104Z",
+  "total_datasets": 587,
+  "total_records": 1883344,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "geography",
@@ -3837,6 +3837,30 @@
         "xlsx": {
           "name": "de-michelin-restaurants_DE.xlsx",
           "size": 489091
+        }
+      }
+    },
+    {
+      "id": "de-ritter-sport-sorten",
+      "name": "Sorten von Ritter Sport",
+      "category": "food",
+      "record_count": 239,
+      "columns": [
+        "variety",
+        "edition",
+        "years"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Sorten_von_Ritter_Sport",
+      "updated": "2026-11",
+      "size": 31284,
+      "files": {
+        "csv": {
+          "name": "de-ritter-sport-sorten_DE.csv",
+          "size": 14477
+        },
+        "xlsx": {
+          "name": "de-ritter-sport-sorten_DE.xlsx",
+          "size": 14864
         }
       }
     },
