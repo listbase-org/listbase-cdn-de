@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-23T02:23:42.762Z",
-  "total_datasets": 585,
-  "total_records": 1883043,
+  "generated": "2026-11-24T02:11:36.230Z",
+  "total_datasets": 586,
+  "total_records": 1883105,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "society",
@@ -13310,6 +13310,34 @@
         "xlsx": {
           "name": "de-max-planck-institute_DE.xlsx",
           "size": 14256
+        }
+      }
+    },
+    {
+      "id": "de-meteoriten-deutschland",
+      "name": "Meteoriten Deutschlands",
+      "category": "science",
+      "record_count": 62,
+      "columns": [
+        "name",
+        "location",
+        "state",
+        "mass_g",
+        "classification",
+        "fall_or_find",
+        "date"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Meteoriten_Deutschlands",
+      "updated": "2026-11",
+      "size": 16473,
+      "files": {
+        "csv": {
+          "name": "de-meteoriten-deutschland_DE.csv",
+          "size": 6012
+        },
+        "xlsx": {
+          "name": "de-meteoriten-deutschland_DE.xlsx",
+          "size": 10268
         }
       }
     },

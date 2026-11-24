@@ -1,0 +1,619 @@
+{
+  "id": "de-meteoriten-deutschland",
+  "name": "Meteoriten Deutschlands",
+  "title": "Meteoriten Deutschlands",
+  "description": "Liste der in Deutschland gefallenen oder gefundenen Meteoriten mit Fundort, Bundesland, Masse in Gramm, Klassifikation sowie Fall- bzw. Funddatum.",
+  "category": "science",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Meteoriten_Deutschlands",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Meteoriten_Deutschlands",
+  "updated": "2026-11",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "mass_g",
+      "label": "Mass G",
+      "type": "number"
+    },
+    {
+      "key": "classification",
+      "label": "Classification",
+      "type": "string"
+    },
+    {
+      "key": "fall_or_find",
+      "label": "Fall Or Find",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aachen",
+      "location": "Aachen",
+      "state": "Nordrhein-Westfalen",
+      "mass_g": 21,
+      "classification": "Gewöhnlicher Chondrit (L5)",
+      "fall_or_find": "Fall",
+      "date": "um 1880"
+    },
+    {
+      "name": "Barntrup",
+      "location": "Barntrup",
+      "state": "Nordrhein-Westfalen",
+      "mass_g": 17,
+      "classification": "Gewöhnlicher Chondrit (LL4)",
+      "fall_or_find": "Fall",
+      "date": "28. Mai 1886"
+    },
+    {
+      "name": "Benthullen",
+      "location": "Benthullen",
+      "state": "Niedersachsen",
+      "mass_g": 17250,
+      "classification": "Gewöhnlicher Chondrit (L6)",
+      "fall_or_find": "Fund",
+      "date": "um 1951"
+    },
+    {
+      "name": "Bitburg",
+      "location": "Bitburg",
+      "state": "Rheinland-Pfalz",
+      "mass_g": 1500000,
+      "classification": "Oktaedrit (IAB)",
+      "fall_or_find": "Fund",
+      "date": "vor 1805"
+    },
+    {
+      "name": "Blaubeuren",
+      "location": "Blaubeuren",
+      "state": "Baden-Württemberg",
+      "mass_g": 30670,
+      "classification": "Gewöhnlicher Chondrit (H4-5)",
+      "fall_or_find": "Fund",
+      "date": "1989, erst 2020 als Meteorit erkannt"
+    },
+    {
+      "name": "Blaubeuren (b)",
+      "location": "Blaubeuren",
+      "state": "Baden-Württemberg",
+      "mass_g": 17.3,
+      "classification": "Gewöhnlicher Chondrit (H5)",
+      "fall_or_find": "Fund",
+      "date": "6. Okt. 2020"
+    },
+    {
+      "name": "Braunschweig",
+      "location": "Braunschweig",
+      "state": "Niedersachsen",
+      "mass_g": 1300,
+      "classification": "Gewöhnlicher Chondrit (L6)",
+      "fall_or_find": "Fall",
+      "date": "23. Apr. 2013"
+    },
+    {
+      "name": "Breitscheid",
+      "location": "Breitscheid",
+      "state": "Hessen",
+      "mass_g": 1500,
+      "classification": "Gewöhnlicher Chondrit (H5)",
+      "fall_or_find": "Fall",
+      "date": "11. Aug. 1956"
+    },
+    {
+      "name": "Bremervörde",
+      "location": "Gnarrenburg",
+      "state": "Niedersachsen",
+      "mass_g": 7250,
+      "classification": "Gewöhnlicher Chondrit (H/L3)",
+      "fall_or_find": "Fall",
+      "date": "13. Mai 1855"
+    },
+    {
+      "name": "Cloppenburg",
+      "location": "Cloppenburg",
+      "state": "Niedersachsen",
+      "mass_g": 141,
+      "classification": "Gewöhnlicher Chondrit (H4-5)",
+      "fall_or_find": "Fund",
+      "date": "15. März 2017"
+    },
+    {
+      "name": "Darmstadt",
+      "location": "Darmstadt",
+      "state": "Hessen",
+      "mass_g": 100,
+      "classification": "Gewöhnlicher Chondrit (H5)",
+      "fall_or_find": "Fall",
+      "date": "vor 1804"
+    },
+    {
+      "name": "Dermbach",
+      "location": "Dermbach",
+      "state": "Thüringen",
+      "mass_g": 1500,
+      "classification": "Ataxit (ungruppiert)",
+      "fall_or_find": "Fund",
+      "date": "1924"
+    },
+    {
+      "name": "Eichstädt",
+      "location": "Breitenfurt",
+      "state": "Bayern",
+      "mass_g": 3000,
+      "classification": "Gewöhnlicher Chondrit (H5)",
+      "fall_or_find": "Fall",
+      "date": "19. Feb. 1785"
+    },
+    {
+      "name": "Elmshorn",
+      "location": "Elmshorn",
+      "state": "Schleswig-Holstein",
+      "mass_g": 4271,
+      "classification": "Gewöhnlicher Chondrit (H3-6)",
+      "fall_or_find": "Fall",
+      "date": "25. Apr. 2023"
+    },
+    {
+      "name": "Emsland",
+      "location": "Rhede",
+      "state": "Niedersachsen",
+      "mass_g": 19000,
+      "classification": "Oktaedrit (ungruppiert)",
+      "fall_or_find": "Fund",
+      "date": "Sommer 1940"
+    },
+    {
+      "name": "Erxleben",
+      "location": "Erxleben",
+      "state": "Sachsen-Anhalt",
+      "mass_g": 2250,
+      "classification": "Gewöhnlicher Chondrit (H6)",
+      "fall_or_find": "Fall",
+      "date": "15. Apr. 1812"
+    },
+    {
+      "name": "Flensburg",
+      "location": "Flensburg",
+      "state": "Schleswig-Holstein",
+      "mass_g": 24.5,
+      "classification": "Kohliger Chondrit ungruppiert (C1)",
+      "fall_or_find": "Fall",
+      "date": "12. Sep. 2019"
+    },
+    {
+      "name": "Forsbach",
+      "location": "Forsbach",
+      "state": "Nordrhein-Westfalen",
+      "mass_g": 240,
+      "classification": "Gewöhnlicher Chondrit (H6)",
+      "fall_or_find": "Fall",
+      "date": "12. Juni 1900"
+    },
+    {
+      "name": "Gilzem",
+      "location": "Gilzem",
+      "state": "Rheinland-Pfalz",
+      "mass_g": 436,
+      "classification": "Gewöhnlicher Chondrit (H5)",
+      "fall_or_find": "Fund",
+      "date": "1987"
+    },
+    {
+      "name": "Gütersloh",
+      "location": "Gütersloh",
+      "state": "Nordrhein-Westfalen",
+      "mass_g": 1000,
+      "classification": "Gewöhnlicher Chondrit (H4)",
+      "fall_or_find": "Fall",
+      "date": "17. Apr. 1851"
+    },
+    {
+      "name": "Hainholz",
+      "location": "Natingen",
+      "state": "Nordrhein-Westfalen",
+      "mass_g": 16500,
+      "classification": "Mesosiderit",
+      "fall_or_find": "Fund",
+      "date": "1856"
+    },
+    {
+      "name": "Hungen",
+      "location": "Hungen",
+      "state": "Hessen",
+      "mass_g": 112,
+      "classification": "Gewöhnlicher Chondrit (H6)",
+      "fall_or_find": "Fall",
+      "date": "17. Mai 1877"
+    },
+    {
+      "name": "Ibbenbüren",
+      "location": "Ibbenbüren",
+      "state": "Nordrhein-Westfalen",
+      "mass_g": 2034,
+      "classification": "Achondrit (Diogenit)",
+      "fall_or_find": "Fall",
+      "date": "17. Juni 1870"
+    },
+    {
+      "name": "Issigau-Reitzenstein",
+      "location": "Issigau",
+      "state": "Bayern",
+      "mass_g": 136400,
+      "classification": "Eisenmeteorit (IIIAB)",
+      "fall_or_find": "Fund",
+      "date": "Apr. 2020"
+    },
+    {
+      "name": "Kiel",
+      "location": "Kiel",
+      "state": "Schleswig-Holstein",
+      "mass_g": 738,
+      "classification": "Gewöhnlicher Chondrit (L6)",
+      "fall_or_find": "Fall",
+      "date": "26. Apr. 1962"
+    },
+    {
+      "name": "Klein-Wenden",
+      "location": "Nordhausen",
+      "state": "Thüringen",
+      "mass_g": 3250,
+      "classification": "Gewöhnlicher Chondrit (H6)",
+      "fall_or_find": "Fall",
+      "date": "16. Sep. 1843"
+    },
+    {
+      "name": "Koblenz",
+      "location": "Güls",
+      "state": "Rheinland-Pfalz",
+      "mass_g": "-",
+      "classification": "Achondrit (Eukrit)",
+      "fall_or_find": "Fall",
+      "date": "8. März 2026"
+    },
+    {
+      "name": "(Königsbrück)",
+      "location": "Königsbrück",
+      "state": "Sachsen",
+      "mass_g": 52,
+      "classification": "Gewöhnlicher Chondrit (H/L4)",
+      "fall_or_find": "Fund",
+      "date": "2004"
+    },
+    {
+      "name": "Krähenberg",
+      "location": "Krähenberg",
+      "state": "Rheinland-Pfalz",
+      "mass_g": 15750,
+      "classification": "Gewöhnlicher Chondrit (LL5)",
+      "fall_or_find": "Fall",
+      "date": "5. Mai 1869"
+    },
+    {
+      "name": "Linum",
+      "location": "Linum",
+      "state": "Brandenburg",
+      "mass_g": 1862,
+      "classification": "Gewöhnlicher Chondrit (L6)",
+      "fall_or_find": "Fall",
+      "date": "5. Sep. 1854"
+    },
+    {
+      "name": "Machtenstein",
+      "location": "Machtenstein",
+      "state": "Bayern",
+      "mass_g": 1422,
+      "classification": "Gewöhnlicher Chondrit (H5)",
+      "fall_or_find": "Fund",
+      "date": "1956? Wiederentdeckung 2014"
+    },
+    {
+      "name": "Mainz",
+      "location": "Mainz",
+      "state": "Rheinland-Pfalz",
+      "mass_g": 1700,
+      "classification": "Gewöhnlicher Chondrit (L6)",
+      "fall_or_find": "Fund",
+      "date": "1852"
+    },
+    {
+      "name": "Marburg",
+      "location": "Marburg",
+      "state": "Hessen",
+      "mass_g": 3000,
+      "classification": "Pallasit",
+      "fall_or_find": "Fund",
+      "date": "1906"
+    },
+    {
+      "name": "Mässing",
+      "location": "Gangkofen",
+      "state": "Bayern",
+      "mass_g": 1600,
+      "classification": "Achondrit (Howardit)",
+      "fall_or_find": "Fall",
+      "date": "13. Dez. 1803"
+    },
+    {
+      "name": "(Mauerkirchen)",
+      "location": "Mauerkirchen",
+      "state": "Oberösterreich",
+      "mass_g": 21300,
+      "classification": "Chondrit (L6)",
+      "fall_or_find": "Fall",
+      "date": "20. Nov. 1768"
+    },
+    {
+      "name": "Menow",
+      "location": "Fürstenberg",
+      "state": "Brandenburg",
+      "mass_g": 10500,
+      "classification": "Gewöhnlicher Chondrit (H4)",
+      "fall_or_find": "Fall",
+      "date": "7. Okt. 1862"
+    },
+    {
+      "name": "Meuselbach",
+      "location": "Meuselbach-Schwarzmühle",
+      "state": "Thüringen",
+      "mass_g": 870,
+      "classification": "Gewöhnlicher Chondrit (L6)",
+      "fall_or_find": "Fall",
+      "date": "19. Mai 1897"
+    },
+    {
+      "name": "Nenntmannsdorf",
+      "location": "Nenntmannsdorf",
+      "state": "Sachsen",
+      "mass_g": 12500,
+      "classification": "Oktaedrit (IIAB)",
+      "fall_or_find": "Fund",
+      "date": "1872"
+    },
+    {
+      "name": "Neuschwanstein",
+      "location": "Schwangau",
+      "state": "Bayern",
+      "mass_g": 6218,
+      "classification": "Enstatit-Chondrit (EL6)",
+      "fall_or_find": "Fall",
+      "date": "6. Apr. 2002"
+    },
+    {
+      "name": "Niederfinow",
+      "location": "Niederfinow",
+      "state": "Brandenburg",
+      "mass_g": 287,
+      "classification": "Oktaedrit (IAB)",
+      "fall_or_find": "Fund",
+      "date": "1950"
+    },
+    {
+      "name": "Obernkirchen",
+      "location": "Obernkirchen",
+      "state": "Niedersachsen",
+      "mass_g": 41000,
+      "classification": "Oktaedrit (IVA)",
+      "fall_or_find": "Fund",
+      "date": "vor 1863"
+    },
+    {
+      "name": "Oesede",
+      "location": "Oesede",
+      "state": "Niedersachsen",
+      "mass_g": 3600,
+      "classification": "Gewöhnlicher Chondrit (H5)",
+      "fall_or_find": "Fall",
+      "date": "30. Dez. 1927"
+    },
+    {
+      "name": "Oldenburg",
+      "location": "Großenkneten",
+      "state": "Niedersachsen",
+      "mass_g": 16570,
+      "classification": "Gewöhnlicher Chondrit (L6)",
+      "fall_or_find": "Fall",
+      "date": "10. Sep. 1930"
+    },
+    {
+      "name": "(Ortenau)",
+      "location": "Ortenau",
+      "state": "Baden-Württemberg",
+      "mass_g": 4500,
+      "classification": "Steinmeteorit, unklassifiziert",
+      "fall_or_find": "Fall",
+      "date": "1671"
+    },
+    {
+      "name": "Peckelsheim",
+      "location": "Peckelsheim",
+      "state": "Nordrhein-Westfalen",
+      "mass_g": 118,
+      "classification": "Achondrit (Diogenit-pm)",
+      "fall_or_find": "Fall",
+      "date": "3. März 1953"
+    },
+    {
+      "name": "Pohlitz",
+      "location": "Pohlitz",
+      "state": "Thüringen",
+      "mass_g": 3000,
+      "classification": "Gewöhnlicher Chondrit (L5)",
+      "fall_or_find": "Fall",
+      "date": "13. Okt. 1819"
+    },
+    {
+      "name": "Ramsdorf",
+      "location": "Ramsdorf",
+      "state": "Nordrhein-Westfalen",
+      "mass_g": 4682,
+      "classification": "Gewöhnlicher Chondrit (L6)",
+      "fall_or_find": "Fall",
+      "date": "26. Juli 1958"
+    },
+    {
+      "name": "Renchen",
+      "location": "Renchen",
+      "state": "Baden-Württemberg",
+      "mass_g": 993,
+      "classification": "Gewöhnlicher Chondrit (L5-6)",
+      "fall_or_find": "Fall",
+      "date": "10. Juli 2018"
+    },
+    {
+      "name": "Ribbeck",
+      "location": "Ribbeck",
+      "state": "Brandenburg",
+      "mass_g": 1800,
+      "classification": "Achondrit (Aubrit)",
+      "fall_or_find": "Fall",
+      "date": "21. Jan. 2024"
+    },
+    {
+      "name": "(Rodach)",
+      "location": "Bad Rodach",
+      "state": "Bayern",
+      "mass_g": 2900,
+      "classification": "Steinmeteorit, unklassifiziert",
+      "fall_or_find": "Fall",
+      "date": "19. Sep. 1775"
+    },
+    {
+      "name": "Salzwedel",
+      "location": "Hohenlangenbeck",
+      "state": "Sachsen-Anhalt",
+      "mass_g": 43,
+      "classification": "Gewöhnlicher Chondrit (LL6)",
+      "fall_or_find": "Fall",
+      "date": "14. Nov. 1985"
+    },
+    {
+      "name": "Schönenberg",
+      "location": "Schönenberg",
+      "state": "Bayern",
+      "mass_g": 8000,
+      "classification": "Gewöhnlicher Chondrit (L6)",
+      "fall_or_find": "Fall",
+      "date": "25. Dez. 1846"
+    },
+    {
+      "name": "Simmern",
+      "location": "Simmern",
+      "state": "Rheinland-Pfalz",
+      "mass_g": 1222,
+      "classification": "Gewöhnlicher Chondrit (H5)",
+      "fall_or_find": "Fall",
+      "date": "1. Juli 1920"
+    },
+    {
+      "name": "Steinbach",
+      "location": "Erzgebirge",
+      "state": "Sachsen",
+      "mass_g": 99000,
+      "classification": "Siderophyr /Oktaedrit (IVA)",
+      "fall_or_find": "Fund",
+      "date": "e, vor 1724, vor 1751, 1833, 1861"
+    },
+    {
+      "name": "(Stolzenau)",
+      "location": "Warmsen",
+      "state": "Niedersachsen",
+      "mass_g": 150,
+      "classification": "Steinmeteorit, unklassifiziert",
+      "fall_or_find": "Fall",
+      "date": "1. Juli 1647"
+    },
+    {
+      "name": "Stubenberg",
+      "location": "Stubenberg",
+      "state": "Bayern",
+      "mass_g": 1320,
+      "classification": "Gewöhnlicher Chondrit (LL6)",
+      "fall_or_find": "Fall",
+      "date": "6. März 2016"
+    },
+    {
+      "name": "Tabarz",
+      "location": "Tabarz",
+      "state": "Thüringen",
+      "mass_g": 150,
+      "classification": "Oktaedrit (IIICD)",
+      "fall_or_find": "Fund",
+      "date": "1854"
+    },
+    {
+      "name": "Trebbin",
+      "location": "Trebbin",
+      "state": "Brandenburg",
+      "mass_g": 1250,
+      "classification": "Gewöhnlicher Chondrit (LL6)",
+      "fall_or_find": "Fall",
+      "date": "1. März 1988"
+    },
+    {
+      "name": "Treysa",
+      "location": "Treysa",
+      "state": "Hessen",
+      "mass_g": 63000,
+      "classification": "Oktaedrit (IIIAB-an)",
+      "fall_or_find": "Fall",
+      "date": "3. Apr. 1916"
+    },
+    {
+      "name": "Unter-Mässing",
+      "location": "Untermässing",
+      "state": "Bayern",
+      "mass_g": 80000,
+      "classification": "Oktaedrit (IIC)",
+      "fall_or_find": "Fund",
+      "date": "1920"
+    },
+    {
+      "name": "Wedel",
+      "location": "Wedel",
+      "state": "Schleswig-Holstein",
+      "mass_g": 3696,
+      "classification": "Eisenmeteorit (IAB complex)",
+      "fall_or_find": "Fund",
+      "date": "Jan. 2024"
+    },
+    {
+      "name": "Wernigerode",
+      "location": "Wernigerode",
+      "state": "Sachsen-Anhalt",
+      "mass_g": 24,
+      "classification": "Gewöhnlicher Chondrit (H5)",
+      "fall_or_find": "Fund",
+      "date": "1970"
+    }
+  ],
+  "meta": {
+    "title": "Meteoriten Deutschlands - Free Download",
+    "description": "Liste der in Deutschland gefallenen oder gefundenen Meteoriten mit Fundort, Bundesland, Masse in Gramm, Klassifikation sowie Fall- bzw. Funddatum. Contains 62 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Meteoriten Deutschlands | ListBase",
+    "seo_description": "Download Meteoriten Deutschlands — 62 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 62 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Meteoriten_Deutschlands"
+    ]
+  }
+}
