@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-24T02:11:45.104Z",
-  "total_datasets": 587,
-  "total_records": 1883344,
+  "generated": "2026-11-24T02:11:54.118Z",
+  "total_datasets": 588,
+  "total_records": 1883484,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "language",
@@ -6139,6 +6139,33 @@
         "xlsx": {
           "name": "de-roemisch-deutsche-herrscher_DE.xlsx",
           "size": 13714
+        }
+      }
+    },
+    {
+      "id": "de-todesopfer-berliner-mauer",
+      "name": "Todesopfer an der Berliner Mauer",
+      "category": "history",
+      "record_count": 140,
+      "columns": [
+        "name",
+        "born",
+        "died",
+        "death_year",
+        "age",
+        "circumstances"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Todesopfer_an_der_Berliner_Mauer",
+      "updated": "2026-11",
+      "size": 52442,
+      "files": {
+        "csv": {
+          "name": "de-todesopfer-berliner-mauer_DE.csv",
+          "size": 35056
+        },
+        "xlsx": {
+          "name": "de-todesopfer-berliner-mauer_DE.xlsx",
+          "size": 21954
         }
       }
     },
