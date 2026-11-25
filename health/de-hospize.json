@@ -1,0 +1,1920 @@
+{
+  "id": "de-hospize",
+  "name": "Stationäre Hospize in Deutschland",
+  "title": "Stationäre Hospize in Deutschland",
+  "description": "Verzeichnis stationärer Hospize in Deutschland nach Bundesland mit Ort, Träger, Bettenzahl und Bemerkungen.",
+  "category": "health",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_Hospize_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_Hospize_in_Deutschland",
+  "updated": "2026-11",
+  "record_count": 233,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "beds",
+      "label": "Beds",
+      "type": "number"
+    },
+    {
+      "key": "remark",
+      "label": "Remark",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Christliches Hospiz Pforzheim/Enzkreis",
+      "city": "Pforzheim",
+      "state": "Baden-Württemberg",
+      "operator": "gemeinnützige GmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Franken-Hospiz Weinsberg",
+      "city": "Weinsberg",
+      "state": "Baden-Württemberg",
+      "operator": "Freundeskreis Stationäres Hospiz Weinsberg e.V.",
+      "beds": 6,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz am Dreifaltigkeitsberg",
+      "city": "Spaichingen",
+      "state": "Baden-Württemberg",
+      "operator": "Hospizverein Hospiz am Dreifaltigkeitsberg e.V.",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Agape",
+      "city": "Wiesloch",
+      "state": "Baden-Württemberg",
+      "operator": "Hospiz Agape GmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Agathe Streicher",
+      "city": "Ulm",
+      "state": "Baden-Württemberg",
+      "operator": "Stiftung Hospiz Agathe Streicher gGmbH",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Arista",
+      "city": "Ettlingen",
+      "state": "Baden-Württemberg",
+      "operator": "Diakonie im Landkreis Karlsruhe g GmbH",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Backnang",
+      "city": "Backnang",
+      "state": "Baden-Württemberg",
+      "operator": "Hospizstiftung Rems-Murr-Kreis e.V.",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Bietigheim-Bissingen",
+      "city": "Bietigheim-Bissingen",
+      "state": "Baden-Württemberg",
+      "operator": "Trägerverein Hospiz Bietigheim-Bissingen e.V.",
+      "beds": 7,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Esslingen",
+      "city": "Esslingen am Neckar",
+      "state": "Baden-Württemberg",
+      "operator": "Evangelische Gesamtkirchengemeinde Esslingen",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Haus Maria",
+      "city": "Biberach an der Riß",
+      "state": "Baden-Württemberg",
+      "operator": "St. Elisabeth-Stiftung",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Horizont",
+      "city": "Singen (Hohentwiel)",
+      "state": "Baden-Württemberg",
+      "operator": "Ökumenisches Hospiz- und Palliativzentrum Horizont gGmbh",
+      "beds": 9,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Kafarnaum",
+      "city": "Baden-Baden",
+      "state": "Baden-Württemberg",
+      "operator": "Kloster Maria Hilf e.V.",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Karl Josef",
+      "city": "Freiburg im Breisgau",
+      "state": "Baden-Württemberg",
+      "operator": "Hospiz Karl Josef gGmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Leonberg",
+      "city": "Leonberg",
+      "state": "Baden-Württemberg",
+      "operator": "Förderverein „Mit der Krankheit leben“ e.V.",
+      "beds": 6,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Louise",
+      "city": "Heidelberg",
+      "state": "Baden-Württemberg",
+      "operator": "Förderverein Hospiz Louise Heidelberg e.V.",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Maria Frieden",
+      "city": "Offenburg",
+      "state": "Baden-Württemberg",
+      "operator": "Vinzentiushaus Offenburg GmbH",
+      "beds": 6,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz St. Anna",
+      "city": "Ellwangen",
+      "state": "Baden-Württemberg",
+      "operator": "Gemeinschaft der Anna-Schwestern",
+      "beds": 7,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz St. Martin",
+      "city": "Stuttgart",
+      "state": "Baden-Württemberg",
+      "operator": "Katholische Gesamtkirchengemeinde Stuttgart u. a.",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz St. Vincent",
+      "city": "Mannheim",
+      "state": "Baden-Württemberg",
+      "operator": "Caritas",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Stuttgart",
+      "city": "Stuttgart",
+      "state": "Baden-Württemberg",
+      "operator": "Evang. Gesamtkirchengemeinde Stuttgart, Evang. Diakonissenanstalt Stuttgart, Ev. Gesellschaft Stuttgart, Johanniter Unfallhilfe RV Stuttgart",
+      "beds": 7,
+      "remark": "ein Doppelzimmer"
+    },
+    {
+      "name": "Hospiz Veronika",
+      "city": "Eningen unter Achalm",
+      "state": "Baden-Württemberg",
+      "operator": "Paul Wilhelm von Keppler-Stiftung",
+      "beds": 6,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Via Luce",
+      "city": "Villingen-Schwenningen",
+      "state": "Baden-Württemberg",
+      "operator": "Hospiz Förderverein VS e.V.",
+      "beds": 7,
+      "remark": ""
+    },
+    {
+      "name": "Albert-Schweitzer-Hospiz",
+      "city": "Bayreuth",
+      "state": "Bayern",
+      "operator": "Albert-Schweitzer-Hospiz GmbH",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "AllgäuHospiz",
+      "city": "Kempten",
+      "state": "Bayern",
+      "operator": "Hospizverein Kempten e.V., Bayerisches Rotes Kreuz (KV Oberallgäu",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Caritas Hospiz Lebensraum",
+      "city": "Coburg",
+      "state": "Bayern",
+      "operator": "Caritasverband Stadt und Landkreis Coburg e.V.",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Caritas-Hospiz Xenia",
+      "city": "Nürnberg",
+      "state": "Bayern",
+      "operator": "Caritasverband Nürnberg e.V.",
+      "beds": 7,
+      "remark": ""
+    },
+    {
+      "name": "Chiemseehospiz",
+      "city": "Bernau am Chiemsee",
+      "state": "Bayern",
+      "operator": "Chiemseehospiz gKU",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Christophorus-Hospiz",
+      "city": "München",
+      "state": "Bayern",
+      "operator": "Christophorus Hospiz-Verwaltungs GmbH",
+      "beds": 16,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Alzenau",
+      "city": "Alzenau",
+      "state": "Bayern",
+      "operator": "Sozialservicegesellschaft des BRK",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz in der Diakonie am Ohmplatz",
+      "city": "Erlangen",
+      "state": "Bayern",
+      "operator": "Diakonie Erlangen",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Naila",
+      "city": "Naila",
+      "state": "Bayern",
+      "operator": "Diakonie Martinsberg",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Pfaffenwinkel",
+      "city": "Polling",
+      "state": "Bayern",
+      "operator": "Hospizverein Pfaffenwinkel e.V.",
+      "beds": 10,
+      "remark": "im Kloster Polling"
+    },
+    {
+      "name": "Hospiz Vilsbiburg",
+      "city": "Vilsbiburg",
+      "state": "Bayern",
+      "operator": "Landshuter Kommunalunternehmen für Medizinische Versorgung (Lakumed",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Hospizzentrum Haus Brög zum Engel",
+      "city": "Lindau",
+      "state": "Bayern",
+      "operator": "Hospizzentrum Haus Brög zum Engel e.V., Besuchsdienst für Kranke und Sterbende e.V.",
+      "beds": 6,
+      "remark": "ein Zweibettzimmer"
+    },
+    {
+      "name": "Johannes-Hospiz München",
+      "city": "München",
+      "state": "Bayern",
+      "operator": "Orden der Barmherzigen Brüder",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Johannes-Hospiz Ostbayern",
+      "city": "Pentling",
+      "state": "Bayern",
+      "operator": "Johanniter-Unfall-Hilfe e.V.",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Juliusspital",
+      "city": "Würzburg",
+      "state": "Bayern",
+      "operator": "Stiftung Juliusspital Würzburg",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Mathilden-Haus",
+      "city": "Nürnberg",
+      "state": "Bayern",
+      "operator": "Evang. Gemeindeverein Nürnberg-Mögeldorf e.V.",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "St. Elisabeth-Hospiz",
+      "city": "Ingolstadt",
+      "state": "Bayern",
+      "operator": "Elisabeth Hospiz Ingolstadt GmbH",
+      "beds": 13,
+      "remark": ""
+    },
+    {
+      "name": "St.Felix Hospiz",
+      "city": "Neustadt an der Waldnaab",
+      "state": "Bayern",
+      "operator": "Malteser",
+      "beds": 9,
+      "remark": ""
+    },
+    {
+      "name": "St. Ursula Hospiz",
+      "city": "Niederalteich",
+      "state": "Bayern",
+      "operator": "Hospizverein Deggendorf e.V.",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "St. Vinzenz-Hospiz",
+      "city": "Augsburg",
+      "state": "Bayern",
+      "operator": "St. Vinzenz-Hospiz Augsburg e. V.",
+      "beds": 16,
+      "remark": ""
+    },
+    {
+      "name": "Caritas Hospiz Pankow",
+      "city": "Berlin",
+      "state": "Berlin",
+      "operator": "Caritas",
+      "beds": 14,
+      "remark": ""
+    },
+    {
+      "name": "Diakonie-Hospiz Lichtenberg",
+      "city": "Berlin",
+      "state": "Berlin",
+      "operator": "Hoffnungstaler Stiftung Lobetal",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Diakonie-Hospiz Wannsee GmbH",
+      "city": "Berlin",
+      "state": "Berlin",
+      "operator": "Diakonie",
+      "beds": 14,
+      "remark": ""
+    },
+    {
+      "name": "Simeon-Hospiz",
+      "city": "Berlin",
+      "state": "Berlin",
+      "operator": "Paul Gerhardt Diakonie gAG",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Frederike-Fliedner Hospiz",
+      "city": "Berlin",
+      "state": "Berlin",
+      "operator": "Paul Gerhardt Diakonie gAG",
+      "beds": 16,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz LudwigPark",
+      "city": "Berlin",
+      "state": "Berlin",
+      "operator": "Humanistischer Verband Deutschlands",
+      "beds": 16,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Schöneberg-Steglitz",
+      "city": "Berlin",
+      "state": "Berlin",
+      "operator": "Nachbarschaftsheim Schöneberg Pflegerische Dienste gGmbH",
+      "beds": 16,
+      "remark": ""
+    },
+    {
+      "name": "Lazarus-Hospiz",
+      "city": "Berlin",
+      "state": "Berlin",
+      "operator": "Hoffnungstaler Stiftung Lobetal",
+      "beds": 16,
+      "remark": ""
+    },
+    {
+      "name": "Paul Gerhardt Diakonie Hospiz",
+      "city": "Berlin",
+      "state": "Berlin",
+      "operator": "Johannesstift Diakonie",
+      "beds": 14,
+      "remark": ""
+    },
+    {
+      "name": "Ricam gGmbH für Lebenshilfe und Sterbebegleitung",
+      "city": "Berlin",
+      "state": "Berlin",
+      "operator": "Ricam gGmbH",
+      "beds": 15,
+      "remark": ""
+    },
+    {
+      "name": "Theodorus Hospiz Marzahn",
+      "city": "Berlin",
+      "state": "Berlin",
+      "operator": "Theodorus Hospiz gGmbH",
+      "beds": 16,
+      "remark": ""
+    },
+    {
+      "name": "Theodorus Hospiz Moabit",
+      "city": "Berlin",
+      "state": "Berlin",
+      "operator": "Theodorus Hospiz gGmbH",
+      "beds": 16,
+      "remark": ""
+    },
+    {
+      "name": "Vivantes Hospiz gGmbH",
+      "city": "Berlin",
+      "state": "Berlin",
+      "operator": "Vivantes Hospiz gGmbH",
+      "beds": 16,
+      "remark": ""
+    },
+    {
+      "name": "Haus Wegwarte / Ruppiner Hospiz",
+      "city": "Neuruppin",
+      "state": "Brandenburg",
+      "operator": "Ruppiner Hospiz e. V.",
+      "beds": 9,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz am Drachenkopf",
+      "city": "Eberswalde",
+      "state": "Brandenburg",
+      "operator": "Auf dem Drachenkopf e. V.",
+      "beds": 9,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Wittenberge",
+      "city": "Wittenberge",
+      "state": "Brandenburg",
+      "operator": "Prignitz-Ruppiner Hospizgesellschaft mbH (gemeinnützig",
+      "beds": 10,
+      "remark": "zwei Angehörigenzimmer"
+    },
+    {
+      "name": "Hospiz Brandenburg an der Havel",
+      "city": "Brandenburg an der Havel",
+      "state": "Brandenburg",
+      "operator": "Hauskrankenpflege für jedermann g.e.V.",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Friedensberg",
+      "city": "Lauchhammer",
+      "state": "Brandenburg",
+      "operator": "Advent-Wohlfahrtswerk im Land Brandenburg e.V., Hospizdienst Oberspreewald-Lausitz e.V.",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Potsdam",
+      "city": "Potsdam",
+      "state": "Brandenburg",
+      "operator": "Diakonie",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Luise-Henrietten-Hospiz",
+      "city": "Lehnin",
+      "state": "Brandenburg",
+      "operator": "Ev. Diakonissenhaus Berlin, Teltow, Lehnin",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Regine-Hildebrandt-Haus",
+      "city": "Frankfurt (Oder)",
+      "state": "Brandenburg",
+      "operator": "Wichern-Pflegedienste gGmbH",
+      "beds": 13,
+      "remark": ""
+    },
+    {
+      "name": "StadtHospiz Cottbus",
+      "city": "Cottbus",
+      "state": "Brandenburg",
+      "operator": "Cottbuspflege, Hospizhilfe Cottbus e.V.",
+      "beds": 15,
+      "remark": "drei Doppelzimmer"
+    },
+    {
+      "name": "SUKHAVATI",
+      "city": "Bad Saarow",
+      "state": "Brandenburg",
+      "operator": "SUKHAVATI Pflege gGmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz am Wandlitzer See",
+      "city": "Wandlitz",
+      "state": "Brandenburg",
+      "operator": "Hoffnungstaler Stiftung Lobetal",
+      "beds": 16,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Brücke",
+      "city": "Bremen",
+      "state": "Bremen",
+      "operator": "Zentrale für Private Fürsorge",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Lilge-Simon-Stift",
+      "city": "Bremen",
+      "state": "Bremen",
+      "operator": "Johanniterhaus Bremen gGmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Andreas-Hospiz",
+      "city": "Bremen",
+      "state": "Bremen",
+      "operator": "Mission:Lebenshaus gGmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Diakonie-Hospiz Volksdorf gGmbH",
+      "city": "Hamburg",
+      "state": "Hamburg",
+      "operator": "Diakonie",
+      "beds": 14,
+      "remark": ""
+    },
+    {
+      "name": "Hamburg Leuchtfeuer Hospiz",
+      "city": "Hamburg",
+      "state": "Hamburg",
+      "operator": "Hamburg Leuchtfeuer",
+      "beds": 11,
+      "remark": ""
+    },
+    {
+      "name": "Hamburger Hospiz im Helenenstift",
+      "city": "Hamburg",
+      "state": "Hamburg",
+      "operator": "Stiftung Hamburger Hospiz",
+      "beds": 16,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Sinus Othmarschen gGmbH",
+      "city": "Hamburg",
+      "state": "Hamburg",
+      "operator": "Hospiz Sinus Othmarschen gGmbH",
+      "beds": 16,
+      "remark": ""
+    },
+    {
+      "name": "Hamburger Hospiz am Deich",
+      "city": "Hamburg",
+      "state": "Hamburg",
+      "operator": "Stiftung Hamburger Hospiz",
+      "beds": 14,
+      "remark": ""
+    },
+    {
+      "name": "Agaplesion Haus Samaria Hospiz",
+      "city": "Gießen",
+      "state": "Hessen",
+      "operator": "Agaplesion Haus Samaria Hospiz gGmbH",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Evangelisches Hospiz Frankfurt am Main",
+      "city": "Frankfurt am Main",
+      "state": "Hessen",
+      "operator": "Evangelisches Hospiz Frankfurt am Main gGmbH",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Haus Emmaus / Hospiz Mittelhessen",
+      "city": "Wetzlar",
+      "state": "Hessen",
+      "operator": "Hospiz Mittelhessen gGmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Arche Noah",
+      "city": "Schmitten",
+      "state": "Hessen",
+      "operator": "Hospizgemeinschaft Arche Noah Hochtaunus zur Begleitung Sterbender und Lebeensbeistand e.V.",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Bergstraße",
+      "city": "Bensheim",
+      "state": "Hessen",
+      "operator": "Hospiz Bergstraße gemeinnützige GmbH",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Kassel",
+      "city": "Kassel",
+      "state": "Hessen",
+      "operator": "Evangelische Altenhilfe Gesundbrunnen e.V. Hofgeismar",
+      "beds": 6,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Lebensbrücke",
+      "city": "Flörsheim am Main",
+      "state": "Hessen",
+      "operator": "Hospizverein Lebensbrücke e.V.",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Louise de Marillac",
+      "city": "Hanau",
+      "state": "Hessen",
+      "operator": "Haus der Barmherzigen Schwestern vom hl. Vinzenz von Paul in Fulda KdöR",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Sankt Katharina",
+      "city": "Frankfurt am Main",
+      "state": "Hessen",
+      "operator": "St. Katharinen- und Weißfrauenstift Frankfurt am Main und Sankt Katharinen-Krankenhaus GmbH Frankfurt am Main",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Schauenburg",
+      "city": "Schauenburg",
+      "state": "Hessen",
+      "operator": "Internationales Bildungs- und Sozialwerk GmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz St. Barbara",
+      "city": "Oberursel",
+      "state": "Hessen",
+      "operator": "Caritas Hochtaunus",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz St. Elisabeth zu Fulda",
+      "city": "Fulda",
+      "state": "Hessen",
+      "operator": "Hospiz St. Elisabeth zu Fulda gGmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz St. Ferrutius",
+      "city": "Taunusstein",
+      "state": "Hessen",
+      "operator": "Caritasverband Wiesbaden-Rheingau-Taunus e.V.",
+      "beds": 11,
+      "remark": ""
+    },
+    {
+      "name": "Hospizium / Hospiz ADVENA",
+      "city": "Wiesbaden",
+      "state": "Hessen",
+      "operator": "Hospizium Wiesbaden gGmbH",
+      "beds": 16,
+      "remark": ""
+    },
+    {
+      "name": "St. Elisabeth-Hospiz gGmbH",
+      "city": "Marburg",
+      "state": "Hessen",
+      "operator": "St. Elisabeth-Hospiz gemeinnützige GmbH",
+      "beds": 6,
+      "remark": "ein Zweibettzimmer"
+    },
+    {
+      "name": "Dreikönigshospiz gGmbH",
+      "city": "Neubrandenburg",
+      "state": "Mecklenburg-Vorpommern",
+      "operator": "Dreikönigsverein e.V.",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "DRK Hospiz-Luisendomizil",
+      "city": "Neustrelitz",
+      "state": "Mecklenburg-Vorpommern",
+      "operator": "Deutsches Rotes Kreuz",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Greifswalder Hospiz",
+      "city": "Greifswald",
+      "state": "Mecklenburg-Vorpommern",
+      "operator": "Universitätsklinikum Greifswald",
+      "beds": 8,
+      "remark": "Teil des Uniklinikums Greifswald"
+    },
+    {
+      "name": "Hospiz am Klinikum Südstadt",
+      "city": "Rostock",
+      "state": "Mecklenburg-Vorpommern",
+      "operator": "Klinikum Südstadt Rostock",
+      "beds": 10,
+      "remark": "gehört zum Klinikum Südstadt Rostock"
+    },
+    {
+      "name": "Hospiz Schloss Bernstorf",
+      "city": "Bernstorf",
+      "state": "Mecklenburg-Vorpommern",
+      "operator": "Hospiz Schloss Bernstorf gGmbH",
+      "beds": 16,
+      "remark": ""
+    },
+    {
+      "name": "Schweriner Hospiz am Aubach",
+      "city": "Schwerin",
+      "state": "Mecklenburg-Vorpommern",
+      "operator": "Sozius gGmbH",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz am Sana-Krankenhaus Rügen",
+      "city": "Bergen auf Rügen",
+      "state": "Mecklenburg-Vorpommern",
+      "operator": "Sana-Krankenhaus Rügen",
+      "beds": 6,
+      "remark": ""
+    },
+    {
+      "name": "Ammerland Hospiz",
+      "city": "Westerstede",
+      "state": "Niedersachsen",
+      "operator": "Hospizdienst Ammerland e.V.",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Wanderlicht",
+      "city": "Cloppenburg",
+      "state": "Niedersachsen",
+      "operator": "KLEEBAUM STIFTUNG",
+      "beds": 9,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Am Hohen Tore",
+      "city": "Braunschweig",
+      "state": "Niedersachsen",
+      "operator": "Hospiz gGmbH",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Am Stadtwald",
+      "city": "Uelzen",
+      "state": "Niedersachsen",
+      "operator": "Advent-Wohlfahrtswerk e.V. Freikirche der Siebenten-Tags-Adventisten in Niedersachsen",
+      "beds": 11,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Bad Münder",
+      "city": "Bad Münder",
+      "state": "Niedersachsen",
+      "operator": "AWO Gesundheitsdienste Betreuung gGmbH",
+      "beds": 6,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Celle",
+      "city": "Celle",
+      "state": "Niedersachsen",
+      "operator": "Hospiz Celle gGmbh",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Friedel-Orth-Hospiz",
+      "city": "Jever",
+      "state": "Niedersachsen",
+      "operator": "Mission:Lebenshaus gGmbH",
+      "beds": 9,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Gifhorn",
+      "city": "Gifhorn",
+      "state": "Niedersachsen",
+      "operator": "Hospizhaus Gifhorn gGmbH",
+      "beds": 10,
+      "remark": "zzgl. 2 Gästezimmer"
+    },
+    {
+      "name": "Hospiz Hann. Münden",
+      "city": "Hann. Münden",
+      "state": "Niedersachsen",
+      "operator": "AWO Gesundheitsdienste GmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Heiligendorf",
+      "city": "Wolfsburg",
+      "state": "Niedersachsen",
+      "operator": "Hospizarbeit Region Wolfsburg e.V.",
+      "beds": 12,
+      "remark": "Eröffnung 2023"
+    },
+    {
+      "name": "Laurentius-Hospiz Falkenburg",
+      "city": "Ganderkesee",
+      "state": "Niedersachsen",
+      "operator": "Mission:Lebenshaus gGmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospizhuus Leer",
+      "city": "Leer",
+      "state": "Niedersachsen",
+      "operator": "Hospiz-Stiftung Leer",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz an der Lutter",
+      "city": "Göttingen",
+      "state": "Niedersachsen",
+      "operator": "Diakonissen-Mutterhaus Ariel, Zieglersche Anstalten und Hospiz an der Lutter e.V.",
+      "beds": 7,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Luise",
+      "city": "Hannover",
+      "state": "Niedersachsen",
+      "operator": "Barmherzige Schwestern",
+      "beds": 8,
+      "remark": "erstes Hospiz in Niedersachsen (1994)"
+    },
+    {
+      "name": "Hospiz am Meer",
+      "city": "Hage",
+      "state": "Niedersachsen",
+      "operator": "",
+      "beds": 9,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Mutter Anselma",
+      "city": "Bad Pyrmont",
+      "state": "Niedersachsen",
+      "operator": "Kongregation der Franziskanerinnen Thuine e.V.",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Nordheide",
+      "city": "Buchholz in der Nordheide",
+      "state": "Niedersachsen",
+      "operator": "Hospiz Nordheide gGmbH",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Osnabrücker Hospiz",
+      "city": "Osnabrück",
+      "state": "Niedersachsen",
+      "operator": "Osnabrücker Hospiz gGmbH",
+      "beds": 11,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Salzgitter",
+      "city": "Salzgitter",
+      "state": "Niedersachsen",
+      "operator": "Hospiz-Initiative Salzgitter e.V.",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz St. Anna",
+      "city": "Dinklage",
+      "state": "Niedersachsen",
+      "operator": "St. Anna Stiftung Dinklage",
+      "beds": 5,
+      "remark": ""
+    },
+    {
+      "name": "St. Marianus-Zentrum",
+      "city": "Bardowick",
+      "state": "Niedersachsen",
+      "operator": "St. Marianus GmbH & Co. KG",
+      "beds": 14,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz St. Peter Oldenburg",
+      "city": "Oldenburg",
+      "state": "Niedersachsen",
+      "operator": "Hospiz St. Peter Oldenburg gGmbH",
+      "beds": 12,
+      "remark": "zzgl. 2 Gästezimmer Eröffnung 1995"
+    },
+    {
+      "name": "Hospiz St. Veronika",
+      "city": "Thuine",
+      "state": "Niedersachsen",
+      "operator": "St. Georgstift e.V.",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Stadtmitte",
+      "city": "Wolfsburg",
+      "state": "Niedersachsen",
+      "operator": "Hospizarbeit Region Wolfsburg e.V.",
+      "beds": 13,
+      "remark": "Eröffnung 2005"
+    },
+    {
+      "name": "Sozialzentrum Misburg",
+      "city": "Hannover",
+      "state": "Niedersachsen",
+      "operator": "Evang. Hilfsverein e. V., AWO-Region Hannover e. V., DRK Region Hannover, Ev.-luth. Kirchengemeinden Misburg, Dietrich Bonhoeffer und St. Martin Anderten, Stiftung Sozialwerk Misburg e. V.",
+      "beds": 9,
+      "remark": ""
+    },
+    {
+      "name": "Uhlhorn Hospiz",
+      "city": "Hannover",
+      "state": "Niedersachsen",
+      "operator": "Diakonische Dienste Hannover gGmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz am Wattenmeer",
+      "city": "Varel",
+      "state": "Niedersachsen",
+      "operator": "Mission:Lebenshaus gGmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz zwischen Elbe und Weser",
+      "city": "Bremervörde",
+      "state": "Niedersachsen",
+      "operator": "Diakonie",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Zum Guten Hirten",
+      "city": "Rotenburg (Wümme)",
+      "state": "Niedersachsen",
+      "operator": "Hospiz Zum Guten Hirten gGmbH",
+      "beds": 9,
+      "remark": ""
+    },
+    {
+      "name": "Amalie-Sieveking-Haus",
+      "city": "Lüdenscheid",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Ev. Perthes-Werk e.V.",
+      "beds": 5,
+      "remark": ""
+    },
+    {
+      "name": "Augustinus-Hospiz",
+      "city": "Neuss",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Genossenschaft der barmherzigen Schwestern",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Caritas-Hospiz",
+      "city": "Düsseldorf",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Caritas Verband für die Stadt Düsseldorf e.V.",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Christliches Hospiz „Am Roten Läppchen“",
+      "city": "Hamm",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Christliches Hospiz Hamm gGmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Christliches Hospiz Essen-Werden",
+      "city": "Essen",
+      "state": "Nordrhein-Westfalen",
+      "operator": "",
+      "beds": 7,
+      "remark": ""
+    },
+    {
+      "name": "Christliches Hospiz Wuppertal",
+      "city": "Wuppertal",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Christliches Hospiz Wuppertal-Niederberg gGmbH",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Cosmas und Damian Hospiz",
+      "city": "Essen",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Caritasverband für die Stadt Essen e.V.",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Elisabeth-Hospiz",
+      "city": "Datteln",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Caritasverband Datteln e.V.",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Elisabeth-Hospiz",
+      "city": "Lohmar",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Freundeskreis Elisabeth-Hospiz e.V. Lohmar",
+      "beds": 16,
+      "remark": ""
+    },
+    {
+      "name": "Elisabeth-Hospiz",
+      "city": "Stadtlohn",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Elisabeth-Hospiz gGmbH",
+      "beds": 9,
+      "remark": ""
+    },
+    {
+      "name": "Ev. Hospiz Siegerland",
+      "city": "Siegen",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Evangelischer Krankenhausverein Siegerland e.V.",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Franziskus-Hospiz Hochdahl",
+      "city": "Erkrath",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Franziskus-Hospiz gGmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Haus Erftaue",
+      "city": "Erftstadt",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Hosta GgmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Haus Franz",
+      "city": "Viersen",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Haus Bodelschwingh gGmbH",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Haus Hannah",
+      "city": "Emsdetten",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Stiftung St. Josef",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Haus Hörn",
+      "city": "Aachen",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Haus Hörn gemeinnützige GmbH",
+      "beds": 24,
+      "remark": ""
+    },
+    {
+      "name": "Haus Sonnenschein",
+      "city": "Rheinberg",
+      "state": "Nordrhein-Westfalen",
+      "operator": "St. Josef Krankenhaus GmbH Moers",
+      "beds": 7,
+      "remark": ""
+    },
+    {
+      "name": "Haus Zuversicht",
+      "city": "Bielefeld",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Von Bodelschwinghsche Stiftungen Bethel",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz am Blumenplatz",
+      "city": "Krefeld",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Hospiz Stiftung Krefeld",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz am Bruder-Jordan-Haus",
+      "city": "Dortmund",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Caritas Altenhilfe Dortmund GmbH",
+      "beds": 7,
+      "remark": "Im Altenzentrum Bruder-Jordan-Haus"
+    },
+    {
+      "name": "Hospiz am Ev. Krankenhaus",
+      "city": "Düsseldorf",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Stiftung Ev. Krankenhaus",
+      "beds": 13,
+      "remark": "Gehört zum Ev. Krankenhaus Düsseldorf"
+    },
+    {
+      "name": "Johanniter-Hospiz am Waldkrankenhaus",
+      "city": "Bonn",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Johanniter GmbH",
+      "beds": 10,
+      "remark": "Teil des Waldkrankenhaus Bonn"
+    },
+    {
+      "name": "Hospiz am Iterbach",
+      "city": "Aachen",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Home Care Betreibergesellschaft gGmbH",
+      "beds": 14,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Am Ostpark",
+      "city": "Dortmund",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Von Bodelschwinghsche Stiftungen Bethel",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz am St. Augustinus Krankenhaus",
+      "city": "Düren",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Caritas Trägergesellschaft West",
+      "beds": 10,
+      "remark": "Teil des Augustinus Krankenhauses Lendersdorf"
+    },
+    {
+      "name": "Hospiz am Vinzenz Pallotti Hospital",
+      "city": "Bergisch Gladbach",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Vinzenz Pallotti Hospital GmbH",
+      "beds": 3,
+      "remark": "Teil des Vinzenz Pallotti Hospitals"
+    },
+    {
+      "name": "Hospiz an St. Bartholomäus",
+      "city": "Köln",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Caritasverband für die Stadt Köln e.V.",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Anna Katharina",
+      "city": "Dülmen",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Hospiz Anna Katharina gGmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Bottrop",
+      "city": "Bottrop",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Hospiz Bottrop gGmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz der Diakonis–Stiftung Diakonissenhaus",
+      "city": "Detmold",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Diakonis - Stiftung Diakonissenhaus",
+      "beds": 7,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz der Stiftung Marien-Hospital",
+      "city": "Euskirchen",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Stiftung Marien-Hospital",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Donsbrüggen",
+      "city": "Donsbrüggen",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Förderverein Hospiz am St. Antonius-Hospital e.V.",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Erkelenz",
+      "city": "Erkelenz",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Hermann-Josef-Stiftung Erkelenz",
+      "beds": 13,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Gütersloh",
+      "city": "Gütersloh",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Hospiz- und Palliativ-Verein Gütersloh e.V.",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz im Guten Hirten Bocholt",
+      "city": "Bocholt",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Guter Hirte Bocholt, Bischöfliche Stiftung Haus Hall, Omega Bocholt",
+      "beds": 2,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz-Haus Brücke Friedel",
+      "city": "Geldern",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Hospizverein Menschenwürdig Leben und Sterben Brücke Friedel e.V.",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Johannes-Nepomuk-Haus",
+      "city": "Köln",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Caritasverband für die Stadt Köln e.V.",
+      "beds": 9,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Lebenshaus",
+      "city": "Münster",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Hospiz Lebenshaus Münster gGmbH",
+      "beds": 10,
+      "remark": "1 Angehörigenzimmer"
+    },
+    {
+      "name": "Hospiz Kevelaer",
+      "city": "Kevelaer",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Verein Hospiz Kevelaer e.V.",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Mülheim",
+      "city": "Mülheim an der Ruhr",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Stiftung Ev. Kranken- und Versorgungshaus zu Mülheim an der Ruhr und Diakoniewerk Arbeit und Kultur Mülheim gGmbH.",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Mutter Teresa",
+      "city": "Iserlohn",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Hospiz-Mutter-Teresa GmbH, Märkische Seniorenzentrum GmbH",
+      "beds": 6,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Schwerte",
+      "city": "Schwerte",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Hospiz Initiative Schwerte e.V.",
+      "beds": 5,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz St. Christophorus",
+      "city": "Mönchengladbach",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Verein zur Förderung einer palliativen Einheit e.V.",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz St. Elisabeth",
+      "city": "Dortmund",
+      "state": "Nordrhein-Westfalen",
+      "operator": "",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz St. Hedwig",
+      "city": "Köln",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Alexianer Krankenhaus Köln GmbH",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz St. Michael",
+      "city": "Ahlen",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Hospizbewegung im Kreis Warendorf e.V.",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz St. Raphael",
+      "city": "Arnsberg",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Caritas-Verband Arnsberg-Sundern e.V.",
+      "beds": 6,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz St. Vinzenz",
+      "city": "Köln",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Hospitalvereinigung St. Marien",
+      "beds": 9,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz St. Vinzenz Pallotti",
+      "city": "Oberhausen",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Kath. Kliniken Oberhausen gGmbH",
+      "beds": 10,
+      "remark": "Teil des Katholischen Klinikums Oberhausen"
+    },
+    {
+      "name": "Hospiz Steele",
+      "city": "Essen",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Hospiz Essen-Steele gGmbH",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Stella Maris",
+      "city": "Mechernich",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Sozialwerk Communio in Christo e.V.",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Veritas",
+      "city": "Lübbecke",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Paritätischer Verein für freie Sozialarbeit e.V.",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz zum Heiligen Franziskus",
+      "city": "Recklinghausen",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Hospiz zum Heiligen Franziskus e. V.",
+      "beds": 9,
+      "remark": ""
+    },
+    {
+      "name": "Johannes-Hospiz",
+      "city": "Münster",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Johannes-Hospiz Münster gGmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Johannes Hospiz Oberberg",
+      "city": "Wiehl",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Johanniter-Unfall-Hilfe e.V.",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Malteser Hospiz St. Raphael",
+      "city": "Duisburg",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Malteser St. Anna gGmbH",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Marienheim Hospiz",
+      "city": "Kaarst",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Marienheim Hospiz Kaarst e.V.",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Marien Hospiz Louise von Marillac",
+      "city": "Wilnsdorf",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Marien Gesellschaft Siegen gGmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Palliatives Hospiz Solingen",
+      "city": "Solingen",
+      "state": "Nordrhein-Westfalen",
+      "operator": "PHOS e. V.",
+      "beds": 10,
+      "remark": "am Botanischen Garten Solingen"
+    },
+    {
+      "name": "St. Katharinen-Hospiz",
+      "city": "Frechen",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Kirchengemeinde St. Audomar",
+      "beds": 8,
+      "remark": "Gründung 2000"
+    },
+    {
+      "name": "St. Elisabeth Hospiz",
+      "city": "Lennestadt",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Hospiz zur heiligen Elisabeth e.V.",
+      "beds": 6,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz St. Hildegard",
+      "city": "Bochum",
+      "state": "Nordrhein-Westfalen",
+      "operator": "Caritas-Hospiz-Trägergesellschaft gGmbH Bochum",
+      "beds": 11,
+      "remark": "Eröffnung 1995"
+    },
+    {
+      "name": "Aenne Wimmers Hospiz",
+      "city": "Simmern/Hunsrück",
+      "state": "Rheinland-Pfalz",
+      "operator": "Stiftung Kreuznacher Diakonie",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Christophorus-Hospiz Mainz-Drais",
+      "city": "Mainz",
+      "state": "Rheinland-Pfalz",
+      "operator": "Caritas Altenhilfe St. Martin Rheinhessen gGmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Eugenie Michels Hospiz",
+      "city": "Bad Kreuznach",
+      "state": "Rheinland-Pfalz",
+      "operator": "Stiftung Kreuznacher Diakonie",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Agape",
+      "city": "Wiesloch",
+      "state": "Rheinland-Pfalz",
+      "operator": "Hospiz Agape GmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Elias",
+      "city": "Ludwigshafen",
+      "state": "Rheinland-Pfalz",
+      "operator": "St. Dominikus Krankenhaus und Jugendhilfe gGmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz im Ahrtal",
+      "city": "Bad Neuenahr",
+      "state": "Rheinland-Pfalz",
+      "operator": "Hospiz im Ahrtal gGmbH",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz im Wilhelminenstift",
+      "city": "Speyer",
+      "state": "Rheinland-Pfalz",
+      "operator": "Ev. Diakonissenanstalt Speyer-Mannheim",
+      "beds": 7,
+      "remark": ""
+    },
+    {
+      "name": "Hospizhaus Trier",
+      "city": "Trier",
+      "state": "Rheinland-Pfalz",
+      "operator": "Hospiz Trier GmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Stationäres Hospiz St. Martin",
+      "city": "Koblenz",
+      "state": "Rheinland-Pfalz",
+      "operator": "Stiftung Ev. Stift St. Martin",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Emmaus",
+      "city": "St. Wendel",
+      "state": "Saarland",
+      "operator": "Hospiz Emmaus Gemeinnützige GmbH",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Paul-Marien-Hospiz",
+      "city": "Saarbrücken",
+      "state": "Saarland",
+      "operator": "Stiftung kreuznacher diakonie",
+      "beds": 16,
+      "remark": ""
+    },
+    {
+      "name": "Erzgebirgshospiz Erlabrunn",
+      "city": "Breitenbrunn",
+      "state": "Sachsen",
+      "operator": "Kliniken Erlabrunn gGmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Marien Hospiz",
+      "city": "Dresden",
+      "state": "Sachsen",
+      "operator": "St. Joseph-Stift Dresden GmbH",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Advena",
+      "city": "Leipzig",
+      "state": "Sachsen",
+      "operator": "Gemeinnützige Hospizium Leipzig GmbH",
+      "beds": 16,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Chemnitz",
+      "city": "Chemnitz",
+      "state": "Sachsen",
+      "operator": "Hospiz- und Palliativdienst Chemnitz e.V.",
+      "beds": 16,
+      "remark": "zwei Zweibettzimmer"
+    },
+    {
+      "name": "Hospiz Ellen Gorlow",
+      "city": "Oederan",
+      "state": "Sachsen",
+      "operator": "Hospiz- und Palliativdienst Begleitende Hände e.V.",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Lebenszeit",
+      "city": "Leisnig",
+      "state": "Sachsen",
+      "operator": "Hospiz Lebenszeit gGmbH",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Radebeul",
+      "city": "Radebeul",
+      "state": "Sachsen",
+      "operator": "Hospiz-Dienste im Dresdner Umland gGmbH",
+      "beds": 13,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Siloah",
+      "city": "Herrnhut",
+      "state": "Sachsen",
+      "operator": "Christliche Hospiz Ostsachsen gGmbH",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Villa Auguste",
+      "city": "Leipzig",
+      "state": "Sachsen",
+      "operator": "Villa Auguste Hospiz Leipzig gGmbH",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Vogtland Villa Falgard",
+      "city": "Falkenstein/Vogtl.",
+      "state": "Sachsen",
+      "operator": "Diakonisches Werk im Kirchenbezirk Auerbach e.V.",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "SRH Hospiz Werdau",
+      "city": "Werdau",
+      "state": "Sachsen",
+      "operator": "SRH Poliklinik Gera",
+      "beds": 9,
+      "remark": ""
+    },
+    {
+      "name": "Anhalt Hospiz Dessau",
+      "city": "Dessau-Roßlau",
+      "state": "Sachsen-Anhalt",
+      "operator": "Anhaltische Hospiz- und Palliativgesellschaft gGmbH",
+      "beds": 14,
+      "remark": ""
+    },
+    {
+      "name": "Anhalt Hospiz Zerbst",
+      "city": "Zerbst",
+      "state": "Sachsen-Anhalt",
+      "operator": "Anhaltische Hospiz- und Palliativgesellschaft gGmbH",
+      "beds": 8,
+      "remark": ""
+    },
+    {
+      "name": "Evangelisches Hospiz Stendal",
+      "city": "Stendal",
+      "state": "Sachsen-Anhalt",
+      "operator": "Adelberd-Diakonissen-Mutterhaus",
+      "beds": 8,
+      "remark": "ein Zweibettzimmer"
+    },
+    {
+      "name": "Harz-Hospiz",
+      "city": "Quedlinburg",
+      "state": "Sachsen-Anhalt",
+      "operator": "Hospizverein Geborgenheit e.V.",
+      "beds": "",
+      "remark": ""
+    },
+    {
+      "name": "Hospiz am St. Elisabeth-Krankenhaus",
+      "city": "Halle (Saale)",
+      "state": "Sachsen-Anhalt",
+      "operator": "Hospiz am St. Elisabeth-Krankenhaus GmbH",
+      "beds": 8,
+      "remark": "Teil des St. Elisabeth-Krankenhauses"
+    },
+    {
+      "name": "Hospiz im Luisenhaus",
+      "city": "Magdeburg",
+      "state": "Sachsen-Anhalt",
+      "operator": "Pfeiffersche Stiftungen Magdeburg",
+      "beds": 10,
+      "remark": "ein Zweibettzimmer"
+    },
+    {
+      "name": "Lazarus Hospiz Bad Kösen",
+      "city": "Naumburg",
+      "state": "Sachsen-Anhalt",
+      "operator": "Hoffnungstaler Stiftung Lobetal",
+      "beds": 16,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Kieler Förde gGmbH",
+      "city": "Kiel",
+      "state": "Schleswig-Holstein",
+      "operator": "Hospiz Kieler Förde gGmbH",
+      "beds": 16,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Haus Porsefeld",
+      "city": "Rendsburg",
+      "state": "Schleswig-Holstein",
+      "operator": "Pflege LebensNah",
+      "beds": 10,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz Rickers-Kock-Haus",
+      "city": "Lübeck",
+      "state": "Schleswig-Holstein",
+      "operator": "Vorwerker Diakonie gemeinnützige GmbH",
+      "beds": 7,
+      "remark": ""
+    },
+    {
+      "name": "Johannis Hospiz",
+      "city": "Elmshorn",
+      "state": "Schleswig-Holstein",
+      "operator": "",
+      "beds": 12,
+      "remark": "Teil der Regio Kliniken Elmshorn"
+    },
+    {
+      "name": "Wilhelminen-Hospiz",
+      "city": "Niebüll",
+      "state": "Schleswig-Holstein",
+      "operator": "Wilhelminen-Hospiz gGmbH",
+      "beds": 7,
+      "remark": "nördlichstes Hospiz Deutschlands"
+    },
+    {
+      "name": "Hospiz Lebensweg",
+      "city": "Bad Oldesloe",
+      "state": "Schleswig-Holstein",
+      "operator": "Hospiz Lebensweg gGmbH",
+      "beds": 12,
+      "remark": "Kreis Stormarn"
+    },
+    {
+      "name": "Petri Haus",
+      "city": "Schleswig",
+      "state": "Schleswig-Holstein",
+      "operator": "",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Albertinen Hospiz Norderstedt",
+      "city": "Norderstedt",
+      "state": "Schleswig-Holstein",
+      "operator": "Immanuel Albertinen Diakonie gGmbH",
+      "beds": 14,
+      "remark": "Erstes stationäres Hospiz in Schleswig-Holstein"
+    },
+    {
+      "name": "Hospiz im Wohld",
+      "city": "Gettorf",
+      "state": "Schleswig-Holstein",
+      "operator": "Hospiz im Wohld gGmbH",
+      "beds": 10,
+      "remark": "8 Betten für Erwachsene und 2 für Kinder und Jugendliche"
+    },
+    {
+      "name": "Dr.-Jahn-Haus",
+      "city": "Meiningen",
+      "state": "Thüringen",
+      "operator": "Sozialwerk Meiningen e.V.",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Christliches Hospiz Haus Geborgenheit",
+      "city": "Harztor",
+      "state": "Thüringen",
+      "operator": "Diakonie-Krankenhaus Harz",
+      "beds": 12,
+      "remark": "Teil des Diakonie-Krankenhauses Harz"
+    },
+    {
+      "name": "Christliches Hospiz St. Martin",
+      "city": "Erfurt",
+      "state": "Thüringen",
+      "operator": "St. Martin gGmbH",
+      "beds": 10,
+      "remark": "zzgl. 1 Gästezimmer"
+    },
+    {
+      "name": "Hospiz Bad Berka",
+      "city": "Bad Berka",
+      "state": "Thüringen",
+      "operator": "Trägerwerk Soziale Dienste Wohnen plus gGmbH",
+      "beds": 12,
+      "remark": "zzgl. 1 Gästezimmer"
+    },
+    {
+      "name": "Hospiz Jena",
+      "city": "Jena",
+      "state": "Thüringen",
+      "operator": "Hospiz- und Palliativ-Stiftung Jena",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Hospiz St. Elisabeth",
+      "city": "Eisenach",
+      "state": "Thüringen",
+      "operator": "Deutscher Caritasverband",
+      "beds": 12,
+      "remark": ""
+    },
+    {
+      "name": "Palliatus Hospiz Weimar",
+      "city": "Weimar",
+      "state": "Thüringen",
+      "operator": "Palliatus-Hospiz-Weimar gGmbH",
+      "beds": 10,
+      "remark": "zzgl. 2 Gästezimmer"
+    },
+    {
+      "name": "Schwarzatalhospiz",
+      "city": "Katzhütte",
+      "state": "Thüringen",
+      "operator": "Förderverein Schwarzatalhospiz e.V.",
+      "beds": 8,
+      "remark": "zzgl. 2 Gästezimmer"
+    }
+  ],
+  "meta": {
+    "title": "Stationäre Hospize in Deutschland - Free Download",
+    "description": "Verzeichnis stationärer Hospize in Deutschland nach Bundesland mit Ort, Träger, Bettenzahl und Bemerkungen. Contains 233 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Stationäre Hospize in Deutschland | ListBase",
+    "seo_description": "Download Stationäre Hospize in Deutschland — 233 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 233 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_Hospize_in_Deutschland"
+    ]
+  }
+}
