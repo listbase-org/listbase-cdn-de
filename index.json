@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-25T02:17:24.418Z",
-  "total_datasets": 589,
-  "total_records": 1884007,
+  "generated": "2026-11-25T02:17:34.432Z",
+  "total_datasets": 590,
+  "total_records": 1884107,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "education",
@@ -1067,6 +1067,35 @@
         "xlsx": {
           "name": "de-groesste-familienunternehmen_DE.xlsx",
           "size": 8802
+        }
+      }
+    },
+    {
+      "id": "de-groesste-unternehmen-wertschoepfung",
+      "name": "Die 100 größten Unternehmen in Deutschland nach Wertschöpfung (2022)",
+      "category": "economy",
+      "record_count": 100,
+      "columns": [
+        "rank_2022",
+        "rank_2020",
+        "rank_2018",
+        "company",
+        "headquarters",
+        "value_added_mio_eur",
+        "employees",
+        "business_volume_mio_eur"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_größten_Unternehmen_in_Deutschland_(Wertschöpfung)",
+      "updated": "2026-11",
+      "size": 28629,
+      "files": {
+        "csv": {
+          "name": "de-groesste-unternehmen-wertschoepfung_DE.csv",
+          "size": 7670
+        },
+        "xlsx": {
+          "name": "de-groesste-unternehmen-wertschoepfung_DE.xlsx",
+          "size": 12726
         }
       }
     },

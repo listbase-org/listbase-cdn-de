@@ -1,0 +1,1066 @@
+{
+  "id": "de-groesste-unternehmen-wertschoepfung",
+  "name": "Die 100 größten Unternehmen in Deutschland nach Wertschöpfung (2022)",
+  "title": "Die 100 größten Unternehmen in Deutschland nach Wertschöpfung (2022)",
+  "description": "Die 100 größten Unternehmen in Deutschland nach inländischer Wertschöpfung laut Hauptgutachten der Monopolkommission (Berichtsjahr 2022) mit Rängen 2020 und 2018, Hauptsitz, Beschäftigten und Geschäftsvolumen.",
+  "category": "economy",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_größten_Unternehmen_in_Deutschland_(Wertschöpfung)",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_größten_Unternehmen_in_Deutschland_(Wertschöpfung)",
+  "updated": "2026-11",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "rank_2022",
+      "label": "Rank 2022",
+      "type": "number"
+    },
+    {
+      "key": "rank_2020",
+      "label": "Rank 2020",
+      "type": "number"
+    },
+    {
+      "key": "rank_2018",
+      "label": "Rank 2018",
+      "type": "number"
+    },
+    {
+      "key": "company",
+      "label": "Company",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "value_added_mio_eur",
+      "label": "Value Added Mio Eur",
+      "type": "number"
+    },
+    {
+      "key": "employees",
+      "label": "Employees",
+      "type": "number"
+    },
+    {
+      "key": "business_volume_mio_eur",
+      "label": "Business Volume Mio Eur",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank_2022": 1,
+      "rank_2020": 1,
+      "rank_2018": 1,
+      "company": "Volkswagen AG",
+      "headquarters": "Wolfsburg",
+      "value_added_mio_eur": 39932,
+      "employees": 293862,
+      "business_volume_mio_eur": 172907
+    },
+    {
+      "rank_2022": 2,
+      "rank_2020": 2,
+      "rank_2018": 2,
+      "company": "Mercedes-Benz Group AG",
+      "headquarters": "Stuttgart",
+      "value_added_mio_eur": 24508,
+      "employees": 121953,
+      "business_volume_mio_eur": 122501
+    },
+    {
+      "rank_2022": 3,
+      "rank_2020": 7,
+      "rank_2018": 3,
+      "company": "Bayerische Motoren Werke AG",
+      "headquarters": "München",
+      "value_added_mio_eur": 16683,
+      "employees": 83298,
+      "business_volume_mio_eur": 100771
+    },
+    {
+      "rank_2022": 4,
+      "rank_2020": 4,
+      "rank_2018": 7,
+      "company": "Deutsche Telekom AG",
+      "headquarters": "Bonn",
+      "value_added_mio_eur": 15127,
+      "employees": 81469,
+      "business_volume_mio_eur": 25057
+    },
+    {
+      "rank_2022": 5,
+      "rank_2020": 6,
+      "rank_2018": 4,
+      "company": "Deutsche Bahn AG",
+      "headquarters": "Berlin",
+      "value_added_mio_eur": 14461,
+      "employees": 212188,
+      "business_volume_mio_eur": 29003
+    },
+    {
+      "rank_2022": 6,
+      "rank_2020": 5,
+      "rank_2018": 5,
+      "company": "Robert Bosch GmbH",
+      "headquarters": "Stuttgart",
+      "value_added_mio_eur": 14352,
+      "employees": 132568,
+      "business_volume_mio_eur": 52259
+    },
+    {
+      "rank_2022": 7,
+      "rank_2020": 3,
+      "rank_2018": 6,
+      "company": "Siemens AG",
+      "headquarters": "Berlin und München",
+      "value_added_mio_eur": 12304,
+      "employees": 86000,
+      "business_volume_mio_eur": 30441
+    },
+    {
+      "rank_2022": 8,
+      "rank_2020": 25,
+      "rank_2018": 13,
+      "company": "BASF SE",
+      "headquarters": "Ludwigshafen",
+      "value_added_mio_eur": 8784,
+      "employees": 52235,
+      "business_volume_mio_eur": 15170
+    },
+    {
+      "rank_2022": 9,
+      "rank_2020": "-",
+      "rank_2018": "-",
+      "company": "BioNTech SE",
+      "headquarters": "Mainz",
+      "value_added_mio_eur": 8777,
+      "employees": 4055,
+      "business_volume_mio_eur": 11202
+    },
+    {
+      "rank_2022": 10,
+      "rank_2020": 8,
+      "rank_2018": 9,
+      "company": "Deutsche Post AG",
+      "headquarters": "Bonn",
+      "value_added_mio_eur": 8632,
+      "employees": 161772,
+      "business_volume_mio_eur": 16132
+    },
+    {
+      "rank_2022": 11,
+      "rank_2020": 10,
+      "rank_2018": 12,
+      "company": "REWE-Gruppe",
+      "headquarters": "Köln",
+      "value_added_mio_eur": 7469,
+      "employees": 113035,
+      "business_volume_mio_eur": 51314
+    },
+    {
+      "rank_2022": 12,
+      "rank_2020": 9,
+      "rank_2018": 8,
+      "company": "INA-Holding Schaeffler GmbH & Co.KG",
+      "headquarters": "Herzogenaurach",
+      "value_added_mio_eur": 7347,
+      "employees": 94162,
+      "business_volume_mio_eur": 11521
+    },
+    {
+      "rank_2022": 13,
+      "rank_2020": 11,
+      "rank_2018": 17,
+      "company": "Fresenius SE & Co. KGaA",
+      "headquarters": "Bad Homburg",
+      "value_added_mio_eur": 7053,
+      "employees": 98920,
+      "business_volume_mio_eur": 11885
+    },
+    {
+      "rank_2022": 14,
+      "rank_2020": "-",
+      "rank_2018": 11,
+      "company": "Deutsche Lufthansa AG",
+      "headquarters": "Köln",
+      "value_added_mio_eur": 6250,
+      "employees": 59295,
+      "business_volume_mio_eur": 22597
+    },
+    {
+      "rank_2022": 15,
+      "rank_2020": 12,
+      "rank_2018": 15,
+      "company": "SAP SE",
+      "headquarters": "Walldorf",
+      "value_added_mio_eur": 5825,
+      "employees": 25151,
+      "business_volume_mio_eur": 19521
+    },
+    {
+      "rank_2022": 16,
+      "rank_2020": 20,
+      "rank_2018": 14,
+      "company": "Deutsche Bank AG",
+      "headquarters": "Frankfurt am Main",
+      "value_added_mio_eur": 5742,
+      "employees": 35594,
+      "business_volume_mio_eur": 560334
+    },
+    {
+      "rank_2022": 17,
+      "rank_2020": 41,
+      "rank_2018": 44,
+      "company": "Shell-Gruppe Deutschland",
+      "headquarters": "Hamburg",
+      "value_added_mio_eur": 5475,
+      "employees": 3865,
+      "business_volume_mio_eur": 33444
+    },
+    {
+      "rank_2022": 18,
+      "rank_2020": 52,
+      "rank_2018": "-",
+      "company": "Hapag-Lloyd AG",
+      "headquarters": "Hamburg",
+      "value_added_mio_eur": 5327,
+      "employees": 4154,
+      "business_volume_mio_eur": 33599
+    },
+    {
+      "rank_2022": 19,
+      "rank_2020": 17,
+      "rank_2018": 26,
+      "company": "EDEKA-Gruppe",
+      "headquarters": "Hamburg",
+      "value_added_mio_eur": 5163,
+      "employees": 410700,
+      "business_volume_mio_eur": 71396
+    },
+    {
+      "rank_2022": 20,
+      "rank_2020": 19,
+      "rank_2018": 16,
+      "company": "Airbus-Gruppe Deutschland",
+      "headquarters": "Hamburg",
+      "value_added_mio_eur": 4966,
+      "employees": 29666,
+      "business_volume_mio_eur": 16622
+    },
+    {
+      "rank_2022": 21,
+      "rank_2020": 18,
+      "rank_2018": 20,
+      "company": "Schwarz-Gruppe",
+      "headquarters": "Neckarsulm",
+      "value_added_mio_eur": 4952,
+      "employees": 149606,
+      "business_volume_mio_eur": 45640
+    },
+    {
+      "rank_2022": 22,
+      "rank_2020": 21,
+      "rank_2018": 18,
+      "company": "ZF Friedrichshafen AG",
+      "headquarters": "Friedrichshafen",
+      "value_added_mio_eur": 4934,
+      "employees": 53265,
+      "business_volume_mio_eur": 16031
+    },
+    {
+      "rank_2022": 23,
+      "rank_2020": 35,
+      "rank_2018": 21,
+      "company": "thyssenkrupp AG",
+      "headquarters": "Essen",
+      "value_added_mio_eur": 4930,
+      "employees": 52225,
+      "business_volume_mio_eur": 24750
+    },
+    {
+      "rank_2022": 24,
+      "rank_2020": 23,
+      "rank_2018": 29,
+      "company": "Commerzbank AG",
+      "headquarters": "Frankfurt am Main",
+      "value_added_mio_eur": 4849,
+      "employees": 25734,
+      "business_volume_mio_eur": 368883
+    },
+    {
+      "rank_2022": 25,
+      "rank_2020": 33,
+      "rank_2018": 27,
+      "company": "Münchener Rückversicherungs-Gesellschaft AG",
+      "headquarters": "München",
+      "value_added_mio_eur": 4762,
+      "employees": 18625,
+      "business_volume_mio_eur": 44517
+    },
+    {
+      "rank_2022": 26,
+      "rank_2020": 16,
+      "rank_2018": 23,
+      "company": "Roche-Gruppe Deutschland",
+      "headquarters": "Grenzach-Wyhlen",
+      "value_added_mio_eur": 4514,
+      "employees": 14432,
+      "business_volume_mio_eur": 8098
+    },
+    {
+      "rank_2022": 27,
+      "rank_2020": 22,
+      "rank_2018": 24,
+      "company": "Allianz SE",
+      "headquarters": "München",
+      "value_added_mio_eur": 4499,
+      "employees": 39198,
+      "business_volume_mio_eur": 39906
+    },
+    {
+      "rank_2022": 28,
+      "rank_2020": 24,
+      "rank_2018": 32,
+      "company": "C.H. Boehringer Sohn AG & Co. KG",
+      "headquarters": "Ingelheim am Rhein",
+      "value_added_mio_eur": 4468,
+      "employees": 16204,
+      "business_volume_mio_eur": 14236
+    },
+    {
+      "rank_2022": 29,
+      "rank_2020": 28,
+      "rank_2018": 33,
+      "company": "Asklepios Kliniken GmbH & Co. KGaA",
+      "headquarters": "Hamburg",
+      "value_added_mio_eur": 3651,
+      "employees": 49103,
+      "business_volume_mio_eur": 5290
+    },
+    {
+      "rank_2022": 30,
+      "rank_2020": "-",
+      "rank_2018": 63,
+      "company": "ExxonMobil-Gruppe Deutschland",
+      "headquarters": "Hannover",
+      "value_added_mio_eur": 3578,
+      "employees": 1007,
+      "business_volume_mio_eur": 16852
+    },
+    {
+      "rank_2022": 31,
+      "rank_2020": 31,
+      "rank_2018": 34,
+      "company": "EnBW Energie Baden-Württemberg AG",
+      "headquarters": "Karlsruhe",
+      "value_added_mio_eur": 3549,
+      "employees": 22975,
+      "business_volume_mio_eur": 40942
+    },
+    {
+      "rank_2022": 32,
+      "rank_2020": 26,
+      "rank_2018": 28,
+      "company": "Aldi-Gruppe",
+      "headquarters": "Essen, Mülheim an der Ruhr",
+      "value_added_mio_eur": 3276,
+      "employees": 89647,
+      "business_volume_mio_eur": 27700
+    },
+    {
+      "rank_2022": 33,
+      "rank_2020": 36,
+      "rank_2018": 35,
+      "company": "Rethmann SE & Co. KG",
+      "headquarters": "Selm",
+      "value_added_mio_eur": 3173,
+      "employees": 50309,
+      "business_volume_mio_eur": 13774
+    },
+    {
+      "rank_2022": 34,
+      "rank_2020": 34,
+      "rank_2018": 36,
+      "company": "Ford-Gruppe Deutschland",
+      "headquarters": "Köln",
+      "value_added_mio_eur": 2876,
+      "employees": 19418,
+      "business_volume_mio_eur": 17596
+    },
+    {
+      "rank_2022": 35,
+      "rank_2020": 27,
+      "rank_2018": 30,
+      "company": "Bertelsmann SE &Co. KGaA",
+      "headquarters": "Gütersloh",
+      "value_added_mio_eur": 2803,
+      "employees": 34243,
+      "business_volume_mio_eur": 7250
+    },
+    {
+      "rank_2022": 36,
+      "rank_2020": 37,
+      "rank_2018": 42,
+      "company": "HGV Hamburger Gesellschaft für Vermögens- und Beteiligungsmanagement GmbH",
+      "headquarters": "Hamburg",
+      "value_added_mio_eur": 2728,
+      "employees": 21544,
+      "business_volume_mio_eur": 5771
+    },
+    {
+      "rank_2022": 37,
+      "rank_2020": 46,
+      "rank_2018": 73,
+      "company": "Carl-Zeiss AG",
+      "headquarters": "Oberkochen",
+      "value_added_mio_eur": 2716,
+      "employees": 17146,
+      "business_volume_mio_eur": 6205
+    },
+    {
+      "rank_2022": 38,
+      "rank_2020": 47,
+      "rank_2018": 58,
+      "company": "DZ Bank AG",
+      "headquarters": "Frankfurt am Main",
+      "value_added_mio_eur": 2667,
+      "employees": 30301,
+      "business_volume_mio_eur": 579331
+    },
+    {
+      "rank_2022": 39,
+      "rank_2020": 15,
+      "rank_2018": 10,
+      "company": "Bayer AG",
+      "headquarters": "Leverkusen",
+      "value_added_mio_eur": 2658,
+      "employees": 22569,
+      "business_volume_mio_eur": 2477
+    },
+    {
+      "rank_2022": 40,
+      "rank_2020": 42,
+      "rank_2018": 39,
+      "company": "Adolf Würth GmbH & Co. KG",
+      "headquarters": "Künzelsau",
+      "value_added_mio_eur": 2639,
+      "employees": 26113,
+      "business_volume_mio_eur": 7849
+    },
+    {
+      "rank_2022": 41,
+      "rank_2020": 48,
+      "rank_2018": 53,
+      "company": "Uni-Credit-Gruppe Deutschland",
+      "headquarters": "München",
+      "value_added_mio_eur": 2584,
+      "employees": 11564,
+      "business_volume_mio_eur": 318006
+    },
+    {
+      "rank_2022": 42,
+      "rank_2020": 38,
+      "rank_2018": 31,
+      "company": "Evonik Industries AG",
+      "headquarters": "Essen",
+      "value_added_mio_eur": 2482,
+      "employees": 19221,
+      "business_volume_mio_eur": 7934
+    },
+    {
+      "rank_2022": 43,
+      "rank_2020": 40,
+      "rank_2018": "-",
+      "company": "Vodafone-Gruppe Deutschland",
+      "headquarters": "Düsseldorf",
+      "value_added_mio_eur": 2433,
+      "employees": 15242,
+      "business_volume_mio_eur": 13113
+    },
+    {
+      "rank_2022": 44,
+      "rank_2020": 51,
+      "rank_2018": 69,
+      "company": "Liebherr-International-Gruppe Deutschland",
+      "headquarters": "Kirchdorf an der Iller",
+      "value_added_mio_eur": 2386,
+      "employees": 22433,
+      "business_volume_mio_eur": 7053
+    },
+    {
+      "rank_2022": 45,
+      "rank_2020": 29,
+      "rank_2018": 57,
+      "company": "RWE AG",
+      "headquarters": "Essen",
+      "value_added_mio_eur": 2235,
+      "employees": 12992,
+      "business_volume_mio_eur": 31308
+    },
+    {
+      "rank_2022": 46,
+      "rank_2020": 82,
+      "rank_2018": 85,
+      "company": "Wacker Chemie AG",
+      "headquarters": "München",
+      "value_added_mio_eur": 2234,
+      "employees": 10424,
+      "business_volume_mio_eur": 6422
+    },
+    {
+      "rank_2022": 47,
+      "rank_2020": 59,
+      "rank_2018": "-",
+      "company": "Amazon-Gruppe Deutschland",
+      "headquarters": "München",
+      "value_added_mio_eur": 2222,
+      "employees": 1196,
+      "business_volume_mio_eur": 8558
+    },
+    {
+      "rank_2022": 48,
+      "rank_2020": "-",
+      "rank_2018": "-",
+      "company": "TOTAL-Gruppe Deutschland",
+      "headquarters": "Berlin",
+      "value_added_mio_eur": 2215,
+      "employees": 1937,
+      "business_volume_mio_eur": 17766
+    },
+    {
+      "rank_2022": 49,
+      "rank_2020": 32,
+      "rank_2018": 40,
+      "company": "KfW Bankengruppe",
+      "headquarters": "Frankfurt am Main",
+      "value_added_mio_eur": 2127,
+      "employees": 8149,
+      "business_volume_mio_eur": 554628
+    },
+    {
+      "rank_2022": 50,
+      "rank_2020": 54,
+      "rank_2018": 41,
+      "company": "ING-Gruppe Deutschland",
+      "headquarters": "Frankfurt am Main",
+      "value_added_mio_eur": 2085,
+      "employees": 5972,
+      "business_volume_mio_eur": 198189
+    },
+    {
+      "rank_2022": 51,
+      "rank_2020": 39,
+      "rank_2018": 43,
+      "company": "STRABAG-Gruppe Deutschland",
+      "headquarters": "Köln",
+      "value_added_mio_eur": 2057,
+      "employees": 28887,
+      "business_volume_mio_eur": 8347
+    },
+    {
+      "rank_2022": 52,
+      "rank_2020": 43,
+      "rank_2018": 45,
+      "company": "Sana Kliniken",
+      "headquarters": "Ismaning",
+      "value_added_mio_eur": 1976,
+      "employees": 29112,
+      "business_volume_mio_eur": 2997
+    },
+    {
+      "rank_2022": 53,
+      "rank_2020": "-",
+      "rank_2018": "-",
+      "company": "Siemens Energy AG",
+      "headquarters": "München",
+      "value_added_mio_eur": 1861,
+      "employees": 22210,
+      "business_volume_mio_eur": 6978
+    },
+    {
+      "rank_2022": 54,
+      "rank_2020": 69,
+      "rank_2018": 46,
+      "company": "Salzgitter AG",
+      "headquarters": "Salzgitter",
+      "value_added_mio_eur": 1853,
+      "employees": 17950,
+      "business_volume_mio_eur": 5764
+    },
+    {
+      "rank_2022": 55,
+      "rank_2020": 53,
+      "rank_2018": 52,
+      "company": "PricewaterhouseCoopers Aktiengesellschaft Wirtschaftsprüfungsgesellschaft",
+      "headquarters": "Frankfurt am Main",
+      "value_added_mio_eur": 1849,
+      "employees": 13021,
+      "business_volume_mio_eur": 2428
+    },
+    {
+      "rank_2022": 56,
+      "rank_2020": 45,
+      "rank_2018": 25,
+      "company": "MERCK KGaA",
+      "headquarters": "Darmstadt",
+      "value_added_mio_eur": 1848,
+      "employees": 13620,
+      "business_volume_mio_eur": 5037
+    },
+    {
+      "rank_2022": 57,
+      "rank_2020": 60,
+      "rank_2018": 62,
+      "company": "Bayerische Landesbank",
+      "headquarters": "München",
+      "value_added_mio_eur": 1755,
+      "employees": 8343,
+      "business_volume_mio_eur": 251813
+    },
+    {
+      "rank_2022": 58,
+      "rank_2020": 13,
+      "rank_2018": 22,
+      "company": "E.ON SE",
+      "headquarters": "Essen",
+      "value_added_mio_eur": 1724,
+      "employees": 35194,
+      "business_volume_mio_eur": 86371
+    },
+    {
+      "rank_2022": 59,
+      "rank_2020": 57,
+      "rank_2018": 59,
+      "company": "KPMG AG Wirtschaftsprüfungsgesellschaft",
+      "headquarters": "Berlin",
+      "value_added_mio_eur": 1676,
+      "employees": 12850,
+      "business_volume_mio_eur": 2090
+    },
+    {
+      "rank_2022": 60,
+      "rank_2020": 61,
+      "rank_2018": 60,
+      "company": "Deloitte GmbH Wirtschaftsprüfungsgesellschaft",
+      "headquarters": "München",
+      "value_added_mio_eur": 1662,
+      "employees": 10408,
+      "business_volume_mio_eur": 1884
+    },
+    {
+      "rank_2022": 61,
+      "rank_2020": "-",
+      "rank_2018": "-",
+      "company": "Accenture-Gruppe Deutschland",
+      "headquarters": "Kronberg im Taunus",
+      "value_added_mio_eur": 1653,
+      "employees": 16845,
+      "business_volume_mio_eur": 3467
+    },
+    {
+      "rank_2022": 62,
+      "rank_2020": "-",
+      "rank_2018": "-",
+      "company": "K+S AG",
+      "headquarters": "Kassel",
+      "value_added_mio_eur": 1642,
+      "employees": 9870,
+      "business_volume_mio_eur": 4944
+    },
+    {
+      "rank_2022": 63,
+      "rank_2020": "-",
+      "rank_2018": "-",
+      "company": "Stellantis-Gruppe Deutschland",
+      "headquarters": "Rüsselsheim",
+      "value_added_mio_eur": 1626,
+      "employees": 10074,
+      "business_volume_mio_eur": 15851
+    },
+    {
+      "rank_2022": 64,
+      "rank_2020": "-",
+      "rank_2018": 65,
+      "company": "Rheinmetall AG",
+      "headquarters": "Düsseldorf",
+      "value_added_mio_eur": 1589,
+      "employees": 12768,
+      "business_volume_mio_eur": 3535
+    },
+    {
+      "rank_2022": 65,
+      "rank_2020": 70,
+      "rank_2018": 61,
+      "company": "DEKRA SE",
+      "headquarters": "Stuttgart",
+      "value_added_mio_eur": 1575,
+      "employees": 24432,
+      "business_volume_mio_eur": 2400
+    },
+    {
+      "rank_2022": 66,
+      "rank_2020": 50,
+      "rank_2018": 47,
+      "company": "Otto Group",
+      "headquarters": "Hamburg",
+      "value_added_mio_eur": 1570,
+      "employees": 24282,
+      "business_volume_mio_eur": 11179
+    },
+    {
+      "rank_2022": 67,
+      "rank_2020": 58,
+      "rank_2018": 67,
+      "company": "Deutsche Börse AG",
+      "headquarters": "Frankfurt am Main",
+      "value_added_mio_eur": 1563,
+      "employees": 3355,
+      "business_volume_mio_eur": 2556
+    },
+    {
+      "rank_2022": 68,
+      "rank_2020": 30,
+      "rank_2018": 56,
+      "company": "AXA-Gruppe Deutschland",
+      "headquarters": "Köln",
+      "value_added_mio_eur": 1545,
+      "employees": 8600,
+      "business_volume_mio_eur": 11555
+    },
+    {
+      "rank_2022": 69,
+      "rank_2020": 62,
+      "rank_2018": 84,
+      "company": "EWE AG",
+      "headquarters": "Oldenburg",
+      "value_added_mio_eur": 1542,
+      "employees": 9938,
+      "business_volume_mio_eur": 8434
+    },
+    {
+      "rank_2022": 70,
+      "rank_2020": 49,
+      "rank_2018": 37,
+      "company": "Sanofi-Gruppe Deutschland",
+      "headquarters": "Frankfurt am Main",
+      "value_added_mio_eur": 1530,
+      "employees": 6940,
+      "business_volume_mio_eur": 4523
+    },
+    {
+      "rank_2022": 71,
+      "rank_2020": "-",
+      "rank_2018": "-",
+      "company": "Fraport AG Frankfurt Airport Services Worldwide",
+      "headquarters": "Frankfurt am Main",
+      "value_added_mio_eur": 1486,
+      "employees": 13909,
+      "business_volume_mio_eur": 4000
+    },
+    {
+      "rank_2022": 72,
+      "rank_2020": 63,
+      "rank_2018": 72,
+      "company": "Ernst & Young GmbH Wirtschaftsprüfungsgesellschaft",
+      "headquarters": "Stuttgart",
+      "value_added_mio_eur": 1403,
+      "employees": 10700,
+      "business_volume_mio_eur": 2154
+    },
+    {
+      "rank_2022": 73,
+      "rank_2020": 14,
+      "rank_2018": 19,
+      "company": "Vonovia SE",
+      "headquarters": "Bochum",
+      "value_added_mio_eur": 1401,
+      "employees": 13454,
+      "business_volume_mio_eur": 8016
+    },
+    {
+      "rank_2022": 74,
+      "rank_2020": 44,
+      "rank_2018": 38,
+      "company": "IBM-Gruppe Deutschland",
+      "headquarters": "Böblingen",
+      "value_added_mio_eur": 1400,
+      "employees": 5813,
+      "business_volume_mio_eur": 3355
+    },
+    {
+      "rank_2022": 75,
+      "rank_2020": 66,
+      "rank_2018": 70,
+      "company": "Stadtwerke München GmbH",
+      "headquarters": "München",
+      "value_added_mio_eur": 1396,
+      "employees": 11366,
+      "business_volume_mio_eur": 10629
+    },
+    {
+      "rank_2022": 76,
+      "rank_2020": 73,
+      "rank_2018": 80,
+      "company": "dm-drogerie markt Verwaltungs-GmbH",
+      "headquarters": "Karlsruhe",
+      "value_added_mio_eur": 1386,
+      "employees": 26082,
+      "business_volume_mio_eur": 8556
+    },
+    {
+      "rank_2022": 77,
+      "rank_2020": 64,
+      "rank_2018": 90,
+      "company": "Landesbank Baden-Württemberg",
+      "headquarters": "Stuttgart",
+      "value_added_mio_eur": 1374,
+      "employees": 9663,
+      "business_volume_mio_eur": 301700
+    },
+    {
+      "rank_2022": 78,
+      "rank_2020": "-",
+      "rank_2018": "-",
+      "company": "BP-Gruppe Deutschland",
+      "headquarters": "Hamburg",
+      "value_added_mio_eur": 1363,
+      "employees": 3848,
+      "business_volume_mio_eur": 40994
+    },
+    {
+      "rank_2022": 79,
+      "rank_2020": 96,
+      "rank_2018": 82,
+      "company": "Debeka-Gruppe",
+      "headquarters": "Koblenz",
+      "value_added_mio_eur": 1342,
+      "employees": 15825,
+      "business_volume_mio_eur": 12931
+    },
+    {
+      "rank_2022": 80,
+      "rank_2020": 65,
+      "rank_2018": 88,
+      "company": "Philip Morris International-Gruppe Deutschland",
+      "headquarters": "Gräfelfing",
+      "value_added_mio_eur": 1337,
+      "employees": 723,
+      "business_volume_mio_eur": 7401
+    },
+    {
+      "rank_2022": 81,
+      "rank_2020": 94,
+      "rank_2018": 95,
+      "company": "VINCI-Gruppe Deutschland",
+      "headquarters": "Mannheim",
+      "value_added_mio_eur": 1315,
+      "employees": 15928,
+      "business_volume_mio_eur": 3335
+    },
+    {
+      "rank_2022": 82,
+      "rank_2020": "-",
+      "rank_2018": "-",
+      "company": "Kühne + Nagel-Gruppe Deutschland",
+      "headquarters": "Hamburg",
+      "value_added_mio_eur": 1308,
+      "employees": 13253,
+      "business_volume_mio_eur": 7105
+    },
+    {
+      "rank_2022": 83,
+      "rank_2020": "-",
+      "rank_2018": "-",
+      "company": "MTU Aero Engines AG",
+      "headquarters": "München",
+      "value_added_mio_eur": 1287,
+      "employees": 9155,
+      "business_volume_mio_eur": 4764
+    },
+    {
+      "rank_2022": 84,
+      "rank_2020": "-",
+      "rank_2018": "-",
+      "company": "Wüstenrot & Württembergische AG",
+      "headquarters": "Kornwestheim",
+      "value_added_mio_eur": 1284,
+      "employees": 6306,
+      "business_volume_mio_eur": 4495
+    },
+    {
+      "rank_2022": 85,
+      "rank_2020": 93,
+      "rank_2018": "-",
+      "company": "Charité Universitätsmedizin Berlin KöR",
+      "headquarters": "Berlin",
+      "value_added_mio_eur": 1271,
+      "employees": 21556,
+      "business_volume_mio_eur": 1611
+    },
+    {
+      "rank_2022": 86,
+      "rank_2020": 74,
+      "rank_2018": 68,
+      "company": "maxingvest AG",
+      "headquarters": "Hamburg",
+      "value_added_mio_eur": 1258,
+      "employees": 13932,
+      "business_volume_mio_eur": 4825
+    },
+    {
+      "rank_2022": 87,
+      "rank_2020": 84,
+      "rank_2018": 75,
+      "company": "United Internet AG",
+      "headquarters": "Montabaur",
+      "value_added_mio_eur": 1255,
+      "employees": 8550,
+      "business_volume_mio_eur": 5290
+    },
+    {
+      "rank_2022": 88,
+      "rank_2020": 86,
+      "rank_2018": "-",
+      "company": "Infineon Technologies AG",
+      "headquarters": "Neubiberg",
+      "value_added_mio_eur": 1248,
+      "employees": 13687,
+      "business_volume_mio_eur": 1594
+    },
+    {
+      "rank_2022": 89,
+      "rank_2020": 55,
+      "rank_2018": 100,
+      "company": "DEERE-Gruppe Deutschland",
+      "headquarters": "Walldorf",
+      "value_added_mio_eur": 1235,
+      "employees": 10655,
+      "business_volume_mio_eur": 9419
+    },
+    {
+      "rank_2022": 90,
+      "rank_2020": "-",
+      "rank_2018": "-",
+      "company": "Daimler Truck Holding AG",
+      "headquarters": "Leinfelden-Echterdingen",
+      "value_added_mio_eur": 1229,
+      "employees": 11372,
+      "business_volume_mio_eur": 5532
+    },
+    {
+      "rank_2022": 91,
+      "rank_2020": 80,
+      "rank_2018": 91,
+      "company": "Stadtwerke Köln GmbH",
+      "headquarters": "Köln",
+      "value_added_mio_eur": 1226,
+      "employees": 13519,
+      "business_volume_mio_eur": 11022
+    },
+    {
+      "rank_2022": 92,
+      "rank_2020": 92,
+      "rank_2018": 64,
+      "company": "Adecco-Gruppe Deutschland",
+      "headquarters": "Düsseldorf",
+      "value_added_mio_eur": 1215,
+      "employees": 27509,
+      "business_volume_mio_eur": 1318
+    },
+    {
+      "rank_2022": 93,
+      "rank_2020": "-",
+      "rank_2018": 99,
+      "company": "Vattenfall-Gruppe Deutschland",
+      "headquarters": "Berlin",
+      "value_added_mio_eur": 1214,
+      "employees": 4604,
+      "business_volume_mio_eur": 12532
+    },
+    {
+      "rank_2022": 94,
+      "rank_2020": 85,
+      "rank_2018": 92,
+      "company": "Linde-Gruppe Deutschland",
+      "headquarters": "Pullach",
+      "value_added_mio_eur": 1201,
+      "employees": 5691,
+      "business_volume_mio_eur": 4052
+    },
+    {
+      "rank_2022": 95,
+      "rank_2020": 68,
+      "rank_2018": 78,
+      "company": "B. Braun SE",
+      "headquarters": "Melsungen",
+      "value_added_mio_eur": 1178,
+      "employees": 13678,
+      "business_volume_mio_eur": 4145
+    },
+    {
+      "rank_2022": 96,
+      "rank_2020": "-",
+      "rank_2018": "-",
+      "company": "TRUMPF GmbH + Co. KG",
+      "headquarters": "Ditzingen",
+      "value_added_mio_eur": 1140,
+      "employees": 8234,
+      "business_volume_mio_eur": 3400
+    },
+    {
+      "rank_2022": 97,
+      "rank_2020": "-",
+      "rank_2018": "-",
+      "company": "DACHSER Group SE & Co. KG",
+      "headquarters": "Kempten (Allgäu)",
+      "value_added_mio_eur": 1139,
+      "employees": 17595,
+      "business_volume_mio_eur": 4248
+    },
+    {
+      "rank_2022": 98,
+      "rank_2020": 76,
+      "rank_2018": "-",
+      "company": "Dirk Rossmann GmbH",
+      "headquarters": "Burgwedel",
+      "value_added_mio_eur": 1119,
+      "employees": 25473,
+      "business_volume_mio_eur": 7686
+    },
+    {
+      "rank_2022": 99,
+      "rank_2020": "-",
+      "rank_2018": "-",
+      "company": "DFS Deutsche Flugsicherung GmbH",
+      "headquarters": "Langen (Hessen)",
+      "value_added_mio_eur": 1114,
+      "employees": 6070,
+      "business_volume_mio_eur": 1328
+    },
+    {
+      "rank_2022": 100,
+      "rank_2020": 75,
+      "rank_2018": 76,
+      "company": "Rolls-Royce-Gruppe Deutschland",
+      "headquarters": "Blankenfelde-Mahlow",
+      "value_added_mio_eur": 1108,
+      "employees": 10431,
+      "business_volume_mio_eur": 3444
+    }
+  ],
+  "meta": {
+    "title": "Die 100 größten Unternehmen in Deutschland nach Wertschöpfung (2022) - Free Download",
+    "description": "Die 100 größten Unternehmen in Deutschland nach inländischer Wertschöpfung laut Hauptgutachten der Monopolkommission (Berichtsjahr 2022) mit Rängen 2020 und 2018, Hauptsitz, Beschäftigten und Geschäftsvolumen. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Die 100 größten Unternehmen in Deutschland nach Wertschöpfung (2022) | ListBase",
+    "seo_description": "Download Die 100 größten Unternehmen in Deutschland nach Wertschöpfung (2022) — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_größten_Unternehmen_in_Deutschland_(Wertschöpfung)"
+    ]
+  }
+}
