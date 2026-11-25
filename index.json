@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-24T02:11:54.118Z",
-  "total_datasets": 588,
-  "total_records": 1883484,
+  "generated": "2026-11-25T02:17:24.418Z",
+  "total_datasets": 589,
+  "total_records": 1884007,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "law",
@@ -6240,6 +6240,31 @@
         "xlsx": {
           "name": "de-deutsche-mundarten-gliederung_DE.xlsx",
           "size": 8529
+        }
+      }
+    },
+    {
+      "id": "de-helvetismen",
+      "name": "Helvetismen",
+      "category": "language",
+      "record_count": 523,
+      "columns": [
+        "term",
+        "meaning",
+        "remark",
+        "topic"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_von_Helvetismen",
+      "updated": "2026-11",
+      "size": 87172,
+      "files": {
+        "csv": {
+          "name": "de-helvetismen_DE.csv",
+          "size": 44849
+        },
+        "xlsx": {
+          "name": "de-helvetismen_DE.xlsx",
+          "size": 30673
         }
       }
     },
