@@ -1,0 +1,3760 @@
+{
+  "id": "de-musikfestivals-deutschland",
+  "name": "Musikfestivals in Deutschland",
+  "title": "Musikfestivals in Deutschland",
+  "description": "Musikfestivals in Deutschland mit Genre, Bundesland/Region, Ort, Veranstaltungsmonat und Besucherangabe (wie in der Quelle angegeben, teils mit Bezugsjahr).",
+  "category": "music",
+  "source": "https://de.wikipedia.org/wiki/Liste_von_Musikfestivals",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_von_Musikfestivals",
+  "updated": "2026-11",
+  "record_count": 463,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "genre",
+      "label": "Genre",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "monat",
+      "label": "Monat",
+      "type": "string"
+    },
+    {
+      "key": "besucher_angabe",
+      "label": "Besucher Angabe",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Loveparade",
+      "genre": "Techno",
+      "region": "",
+      "ort": "Berlin, später Ruhrgebiet",
+      "monat": "Juli",
+      "besucher_angabe": "1.500.000"
+    },
+    {
+      "name": "Osnabrücker Maiwoche",
+      "genre": "verschiedene Stilrichtungen",
+      "region": "",
+      "ort": "Osnabrück",
+      "monat": "Mai",
+      "besucher_angabe": "800.000"
+    },
+    {
+      "name": "Sound of Frankfurt",
+      "genre": "Rock",
+      "region": "",
+      "ort": "Frankfurt am Main",
+      "monat": "",
+      "besucher_angabe": "500.000"
+    },
+    {
+      "name": "Bochum Total",
+      "genre": "Pop, Rock",
+      "region": "",
+      "ort": "Bochum",
+      "monat": "",
+      "besucher_angabe": "470.000"
+    },
+    {
+      "name": "Schlagermove",
+      "genre": "Schlager",
+      "region": "",
+      "ort": "Hamburg",
+      "monat": "",
+      "besucher_angabe": "400.000"
+    },
+    {
+      "name": "Das Fest",
+      "genre": "Rock, Pop, Electro & Hip-Hop",
+      "region": "",
+      "ort": "Karlsruhe",
+      "monat": "Juli",
+      "besucher_angabe": "400.000"
+    },
+    {
+      "name": "Schlossgrabenfest",
+      "genre": "Pop, Schlager, Rock",
+      "region": "",
+      "ort": "Darmstadt",
+      "monat": "",
+      "besucher_angabe": "400.000"
+    },
+    {
+      "name": "Internationales Dixieland Festival Dresden",
+      "genre": "Jazz",
+      "region": "",
+      "ort": "Dresden",
+      "monat": "",
+      "besucher_angabe": "320.000"
+    },
+    {
+      "name": "Düsseldorfer Jazz-Rally",
+      "genre": "Jazz",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Düsseldorf",
+      "monat": "",
+      "besucher_angabe": "300.000"
+    },
+    {
+      "name": "Breminale",
+      "genre": "Rock, Pop, Jazz, Elektro, Hip-Hop",
+      "region": "Bremen",
+      "ort": "Bremen",
+      "monat": "",
+      "besucher_angabe": "220.000"
+    },
+    {
+      "name": "Rheinkultur",
+      "genre": "Rock",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Bonn",
+      "monat": "",
+      "besucher_angabe": "220.000"
+    },
+    {
+      "name": "Parookaville",
+      "genre": "Elektro, Dance, Techno, House, Hardstyle, Drum and Bass, Pop",
+      "region": "",
+      "ort": "Weeze",
+      "monat": "Juli",
+      "besucher_angabe": "225.000"
+    },
+    {
+      "name": "Airbeat One",
+      "genre": "Electro-, Progressive- & Deep-House, Goa, Hardstyle",
+      "region": "Mecklenburg-Vorpommern",
+      "ort": "Neustadt-Glewe",
+      "monat": "Juli",
+      "besucher_angabe": "200.000"
+    },
+    {
+      "name": "Bardentreffen",
+      "genre": "Folk, Worldmusik, Rock, Pop, Bühnen- und straßenmusik",
+      "region": "",
+      "ort": "Nürnberg",
+      "monat": "Juli / August",
+      "besucher_angabe": "200.000"
+    },
+    {
+      "name": "Rave The Planet",
+      "genre": "Techno",
+      "region": "",
+      "ort": "Berlin",
+      "monat": "Juli",
+      "besucher_angabe": "200.000"
+    },
+    {
+      "name": "Blues & Jazz Festival",
+      "genre": "Blues, Jazz, Liedermacher",
+      "region": "Bayern",
+      "ort": "Bamberg",
+      "monat": "August",
+      "besucher_angabe": "174.000"
+    },
+    {
+      "name": "Schleswig-Holstein Musik Festival",
+      "genre": "Klassik",
+      "region": "",
+      "ort": "Schleswig-Holstein",
+      "monat": "",
+      "besucher_angabe": "171.000"
+    },
+    {
+      "name": "Deutsches Musikfest",
+      "genre": "Blas- und Spielleutemusik",
+      "region": "",
+      "ort": "wechselnd, 2019 in Osnabrück",
+      "monat": "Mai/Juni",
+      "besucher_angabe": "150.000+"
+    },
+    {
+      "name": "BigCityBeats World Club Dome",
+      "genre": "elektronische Musik",
+      "region": "",
+      "ort": "Frankfurt am Main",
+      "monat": "Juni",
+      "besucher_angabe": "140.000"
+    },
+    {
+      "name": "Glücksgefühle Festival",
+      "genre": "Electro, Pop, Rock, Hip-Hop",
+      "region": "",
+      "ort": "Hockenheim",
+      "monat": "September",
+      "besucher_angabe": "130.000"
+    },
+    {
+      "name": "Zelt-Musik-Festival",
+      "genre": "Pop, Klassik, Blues, Jazz, Rock, Schlager",
+      "region": "",
+      "ort": "Freiburg im Breisgau im Stadtteil Mundenhof",
+      "monat": "3 Wochen im Juni, Juli",
+      "besucher_angabe": "120.000"
+    },
+    {
+      "name": "Kosmos Chemnitz",
+      "genre": "Pop, Hip-Hop, Punk, Panels, Workshops, Artistik, Sport",
+      "region": "",
+      "ort": "Chemnitz",
+      "monat": "Juni",
+      "besucher_angabe": "115.000"
+    },
+    {
+      "name": "Rheingau Musik Festival",
+      "genre": "Klassik, Jazz, Weltmusik, Kabarett, Kinderkonzerte",
+      "region": "Hessen",
+      "ort": "Region Frankfurt am Main, Wiesbaden, Lorch am Rhein",
+      "monat": "Ende Juni bis Anfang September",
+      "besucher_angabe": "110.000"
+    },
+    {
+      "name": "Africa Festival",
+      "genre": "Weltmusik",
+      "region": "",
+      "ort": "Würzburg",
+      "monat": "Mai–Juni",
+      "besucher_angabe": "100.000"
+    },
+    {
+      "name": "Klassik Open Air",
+      "genre": "Klassik",
+      "region": "",
+      "ort": "Nürnberg",
+      "monat": "Juli / August",
+      "besucher_angabe": "100.000"
+    },
+    {
+      "name": "Aalener Jazzfest",
+      "genre": "Jazz",
+      "region": "Baden-Württemberg",
+      "ort": "Aalen",
+      "monat": "November",
+      "besucher_angabe": "12.000 (2011)"
+    },
+    {
+      "name": "Afrika Festival Nürnberg",
+      "genre": "Reggae, Dancehall, Hip-Hop, Jazz, Weltmusik",
+      "region": "Bayern",
+      "ort": "Nürnberg",
+      "monat": "Juni",
+      "besucher_angabe": "10.000 (2016)"
+    },
+    {
+      "name": "Afrika-Karibik-Festival",
+      "genre": "Reggae, Dancehall, Hip-Hop, Jazz, Weltmusik",
+      "region": "Bayern",
+      "ort": "Aschaffenburg",
+      "monat": "August",
+      "besucher_angabe": "60.000 (2012)"
+    },
+    {
+      "name": "Alpha-Rave",
+      "genre": "Techno",
+      "region": "Mecklenburg-Vorpommern",
+      "ort": "Schwerin",
+      "monat": "November",
+      "besucher_angabe": "8.000 (2012)"
+    },
+    {
+      "name": "Altburgfestival Open Air",
+      "genre": "Irish Folk, Folk-Rock, Mittelalter-Rock",
+      "region": "Rheinland-Pfalz",
+      "ort": "Bundenbach",
+      "monat": "August",
+      "besucher_angabe": "3.000–4.000"
+    },
+    {
+      "name": "Altheimer Open-Air",
+      "genre": "Rock, Indie",
+      "region": "Baden-Württemberg",
+      "ort": "Altheim (bei Riedlingen)",
+      "monat": "Juli",
+      "besucher_angabe": "4.000 (2012)"
+    },
+    {
+      "name": "Amphi Festival",
+      "genre": "Schwarze Szene",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Köln",
+      "monat": "Juli",
+      "besucher_angabe": "12.500 (2022)"
+    },
+    {
+      "name": "Antaris Project",
+      "genre": "Psychedelic Trance",
+      "region": "Brandenburg",
+      "ort": "wechselnde Locations nahe Berlin",
+      "monat": "Juni",
+      "besucher_angabe": "5.000 (2012)"
+    },
+    {
+      "name": "Appletree Garden Festival",
+      "genre": "Indie, Elektro",
+      "region": "Niedersachsen",
+      "ort": "Diepholz",
+      "monat": "Juli",
+      "besucher_angabe": "5.000 (2014)"
+    },
+    {
+      "name": "Area4",
+      "genre": "Rock",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Lüdinghausen",
+      "monat": "--",
+      "besucher_angabe": "16.000 (2012)"
+    },
+    {
+      "name": "Arolser Barock-Festspiele",
+      "genre": "Klassik",
+      "region": "Hessen",
+      "ort": "Bad Arolsen",
+      "monat": "Mai",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "AStA-Sommerfestival",
+      "genre": "Pop, Rock, Indie, Punk, Hip-Hop, Elektro",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Paderborn",
+      "monat": "Juni",
+      "besucher_angabe": "14.000"
+    },
+    {
+      "name": "Bad Hersfelder Festspiele",
+      "genre": "Musik- und Theaterfestival",
+      "region": "Hessen",
+      "ort": "Bad Hersfeld",
+      "monat": "Sommer",
+      "besucher_angabe": "95.000"
+    },
+    {
+      "name": "Balinger Rockfestival",
+      "genre": "Christlicher Rock",
+      "region": "Baden-Württemberg",
+      "ort": "Balingen",
+      "monat": "",
+      "besucher_angabe": "2.200 (2015)"
+    },
+    {
+      "name": "Baltic Open Air",
+      "genre": "Rock, Metal",
+      "region": "Schleswig-Holstein",
+      "ort": "Schleswig",
+      "monat": "August",
+      "besucher_angabe": "11.000"
+    },
+    {
+      "name": "Bang Your Head",
+      "genre": "Metal",
+      "region": "Baden-Württemberg",
+      "ort": "Balingen",
+      "monat": "",
+      "besucher_angabe": "20.000"
+    },
+    {
+      "name": "Barther Metal Open Air",
+      "genre": "Metal",
+      "region": "Mecklenburg-Vorpommern",
+      "ort": "Barth",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Bayreuther Barock",
+      "genre": "Klassik",
+      "region": "Bayern",
+      "ort": "Bayreuth",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Bayreuther Festspiele",
+      "genre": "Klassik",
+      "region": "Bayern",
+      "ort": "Bayreuth",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Bierchen und Bühnchen",
+      "genre": "Rock, Punk, Swing, Funk, Indie, Pop, Jazz, Hip-Hop, Elektro",
+      "region": "Bayern",
+      "ort": "Nürnberg",
+      "monat": "April",
+      "besucher_angabe": "bis max. 5000"
+    },
+    {
+      "name": "Biergarten-Festival",
+      "genre": "Schlager, volkstümliche Musik",
+      "region": "Thüringen",
+      "ort": "Katharinenberg, Eichsfeld",
+      "monat": "Juli/August",
+      "besucher_angabe": "bis zu 14.000"
+    },
+    {
+      "name": "Binger Open Air Festival",
+      "genre": "Punk, Rock, Psychobilly, Folk, Ska, Metal",
+      "region": "Rheinland-Pfalz",
+      "ort": "Bingen am Rhein",
+      "monat": "",
+      "besucher_angabe": "1.000–1500"
+    },
+    {
+      "name": "Bizarre-Festival (einmalig auch als „Terremoto“)",
+      "genre": "Rock",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Flughafen Niederrhein u. a.",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Black Troll Festival",
+      "genre": "Pagan Metal, Viking Metal",
+      "region": "Sachsen-Anhalt",
+      "ort": "Bornstedt, Burg Bornstedt",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Blaubeurer Bardentreff",
+      "genre": "Folk, Irish-Folk, Chansons, Songwriter, Volkslieder, Weltmusik, Lieder in Schwäbischen Dialekten",
+      "region": "Baden-Württemberg",
+      "ort": "Blaubeuren",
+      "monat": "August",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Blues in Lehrte",
+      "genre": "Blues",
+      "region": "Niedersachsen",
+      "ort": "Lehrte",
+      "monat": "Erster Samstag im September",
+      "besucher_angabe": "1.000"
+    },
+    {
+      "name": "Blues, Schmus & Apfelmus Blues Festival",
+      "genre": "Blues",
+      "region": "Hessen",
+      "ort": "Laubach",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "BootBooHook",
+      "genre": "Rock, Indie",
+      "region": "Niedersachsen",
+      "ort": "Hannover",
+      "monat": "",
+      "besucher_angabe": "5.000 (2009)"
+    },
+    {
+      "name": "Brandenburgische Sommerkonzerte",
+      "genre": "Klassik",
+      "region": "Brandenburg",
+      "ort": "wechselnde Spielorte",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Brass Wiesn",
+      "genre": "Blasmusik",
+      "region": "Bayern",
+      "ort": "Eching",
+      "monat": "",
+      "besucher_angabe": "20.000 (2022)"
+    },
+    {
+      "name": "Bremer Karneval",
+      "genre": "Samba / Percussion",
+      "region": "Bremen",
+      "ort": "Bremen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Brückenfestival",
+      "genre": "Rock, Punk, Swing, Funk, Indie, Pop, Jazz, Hip-Hop, Elektro",
+      "region": "Bayern",
+      "ort": "Nürnberg",
+      "monat": "August",
+      "besucher_angabe": "20.000 (2017)"
+    },
+    {
+      "name": "Burgbrand Open Air",
+      "genre": "Metal",
+      "region": "Thüringen",
+      "ort": "Gerstungen, Ruine Brandenburg",
+      "monat": "Anfang August",
+      "besucher_angabe": "1.000"
+    },
+    {
+      "name": "Burg-Herzberg-Festival",
+      "genre": "Rock",
+      "region": "Hessen",
+      "ort": "Breitenbach am Herzberg",
+      "monat": "",
+      "besucher_angabe": "12.000"
+    },
+    {
+      "name": "Burg-Waldeck-Festivals",
+      "genre": "Folk und Chanson",
+      "region": "Rheinland-Pfalz",
+      "ort": "Burg Waldeck",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Burgfolk Festival",
+      "genre": "Folk",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Mülheim an der Ruhr, Schloss Broich",
+      "monat": "",
+      "besucher_angabe": "1.200"
+    },
+    {
+      "name": "c/o pop",
+      "genre": "Popmusik",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Köln",
+      "monat": "",
+      "besucher_angabe": "30.000, den Branchentreff besuchten etwa 1000 Fachbesucher."
+    },
+    {
+      "name": "Campus Festival",
+      "genre": "Pop, Rock, Indie, Punk, Hip-Hop, Elektro",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Bielefeld",
+      "monat": "Juni",
+      "besucher_angabe": "18.500 (2016)"
+    },
+    {
+      "name": "Chansonfest Berlin",
+      "genre": "Chanson",
+      "region": "Berlin",
+      "ort": "Berlin",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Chiemsee Reggae Summer",
+      "genre": "Reggae",
+      "region": "Bayern",
+      "ort": "Übersee",
+      "monat": "",
+      "besucher_angabe": "25.000"
+    },
+    {
+      "name": "Christmas Rock Night",
+      "genre": "Christlicher Rock",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Ennepetal",
+      "monat": "",
+      "besucher_angabe": "1.500 (2000)"
+    },
+    {
+      "name": "CTM Festival",
+      "genre": "Elektronische Musik",
+      "region": "Berlin",
+      "ort": "Berlin",
+      "monat": "",
+      "besucher_angabe": "13.000"
+    },
+    {
+      "name": "D’Accord, das Klassikfestival",
+      "genre": "Klassik, Kammermusik",
+      "region": "Bayern",
+      "ort": "Mittelfranken, Dinkelsbühl, Rednitzhembach, Leutershausen, München",
+      "monat": "April, Mai",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Da Capo! Open Air im Schlosshof Alzey",
+      "genre": "Comedy, Klassik, Pop",
+      "region": "Rheinland-Pfalz",
+      "ort": "Alzey",
+      "monat": "August",
+      "besucher_angabe": "2.400–6.000"
+    },
+    {
+      "name": "Dalheimer Sommer",
+      "genre": "Klassik, Alte Musik",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Lichtenau Kloster Dalheim",
+      "monat": "",
+      "besucher_angabe": "6.000"
+    },
+    {
+      "name": "Darmstädter Residenzfestspiele",
+      "genre": "Klassik",
+      "region": "Hessen",
+      "ort": "Darmstadt",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Deichbrand",
+      "genre": "Rock, Pop, Alternative, Hip-Hop, Metal, Punk",
+      "region": "Niedersachsen",
+      "ort": "Cuxhaven / Nordholz",
+      "monat": "Juli",
+      "besucher_angabe": "60.000"
+    },
+    {
+      "name": "Deutsches Jazzfestival",
+      "genre": "Jazz",
+      "region": "Hessen",
+      "ort": "Frankfurt am Main",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Discofestival",
+      "genre": "Elektronische Musik",
+      "region": "Hessen",
+      "ort": "Kassel",
+      "monat": "",
+      "besucher_angabe": "12.000 (2008)"
+    },
+    {
+      "name": "Docklands",
+      "genre": "Elektronische Musik",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Münster",
+      "monat": "",
+      "besucher_angabe": "15.000 (2022)"
+    },
+    {
+      "name": "Domkonzerte Königslutter",
+      "genre": "Klassik und andere Genres",
+      "region": "Niedersachsen",
+      "ort": "Königslutter am Elm",
+      "monat": "September",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Donaueschinger Musiktage",
+      "genre": "Neue Musik",
+      "region": "Baden-Württemberg",
+      "ort": "Donaueschingen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Doom Shall Rise",
+      "genre": "Doom Metal",
+      "region": "Baden-Württemberg",
+      "ort": "Göppingen",
+      "monat": "",
+      "besucher_angabe": "680 (2013)"
+    },
+    {
+      "name": "Dresdner Musikfestspiele",
+      "genre": "Klassik",
+      "region": "Sachsen",
+      "ort": "Dresden",
+      "monat": "Mai, Juni, September",
+      "besucher_angabe": "60.000 (2023)"
+    },
+    {
+      "name": "Drüben auf dem Hügel",
+      "genre": "Indiemusik",
+      "region": "Sachsen",
+      "ort": "verschiedene",
+      "monat": "Juli",
+      "besucher_angabe": "750"
+    },
+    {
+      "name": "drumherum",
+      "genre": "Volksmusik",
+      "region": "Bayern",
+      "ort": "Regen",
+      "monat": "Pfingst- wochenende",
+      "besucher_angabe": "45.000"
+    },
+    {
+      "name": "Earthshaker-Festival",
+      "genre": "Metal",
+      "region": "Bayern",
+      "ort": "verschiedene Orte",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Ebracher Musiksommer",
+      "genre": "Klassik",
+      "region": "Bayern",
+      "ort": "Ebrach, Kloster Ebrach",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Echelon (Festival)",
+      "genre": "Electro, House, Techno",
+      "region": "Bayern",
+      "ort": "Bad Aibling, Bad Aibling Station",
+      "monat": "August",
+      "besucher_angabe": "25.000"
+    },
+    {
+      "name": "Eclat",
+      "genre": "Neue Musik",
+      "region": "Baden-Württemberg",
+      "ort": "Stuttgart",
+      "monat": "Februar",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Eier mit Speck",
+      "genre": "Rock",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Viersen",
+      "monat": "",
+      "besucher_angabe": "4.000"
+    },
+    {
+      "name": "Einhaldenfestival",
+      "genre": "Jazz, Weltmusik, Salonmusik, Musik-Kabarett",
+      "region": "Baden-Württemberg",
+      "ort": "Oberschwaben, Bauernhof Einhalden",
+      "monat": "",
+      "besucher_angabe": "4.000"
+    },
+    {
+      "name": "Electrisize",
+      "genre": "Electro, Tech-House, Techno, Hardstyle",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Erkelenz",
+      "monat": "August",
+      "besucher_angabe": "40.000 (2022)"
+    },
+    {
+      "name": "Electric Horizon Festival",
+      "genre": "Electro, Techno, Tech-House, Hardtechno",
+      "region": "Baden-Württemberg",
+      "ort": "Plankstadt",
+      "monat": "August",
+      "besucher_angabe": "2.500 (2025)"
+    },
+    {
+      "name": "electro magnetic",
+      "genre": "Elektro",
+      "region": "Saarland",
+      "ort": "Völklingen",
+      "monat": "",
+      "besucher_angabe": "8.000"
+    },
+    {
+      "name": "enercity swinging hannover",
+      "genre": "Jazz",
+      "region": "Niedersachsen",
+      "ort": "Hannover",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Enjoy Jazz",
+      "genre": "Jazz",
+      "region": "Baden-Württemberg und Rheinland-Pfalz",
+      "ort": "Mannheim, Heidelberg, Ludwigshafen am Rhein",
+      "monat": "Oktober – November",
+      "besucher_angabe": "26.000"
+    },
+    {
+      "name": "Eschweiler Music Festival",
+      "genre": "Rock",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Eschweiler",
+      "monat": "",
+      "besucher_angabe": "10.000"
+    },
+    {
+      "name": "EselRock",
+      "genre": "Rock",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Wesel",
+      "monat": "",
+      "besucher_angabe": "10.000"
+    },
+    {
+      "name": "Europäische Sommerlounge",
+      "genre": "Pop, Rock",
+      "region": "Baden-Württemberg",
+      "ort": "Pforzheim",
+      "monat": "",
+      "besucher_angabe": "20.000"
+    },
+    {
+      "name": "Fährmannsfest Hannover",
+      "genre": "Rock",
+      "region": "Niedersachsen",
+      "ort": "Hannover",
+      "monat": "",
+      "besucher_angabe": "10.000"
+    },
+    {
+      "name": "Fashion & Music",
+      "genre": "Pop, Rock",
+      "region": "Baden-Württemberg",
+      "ort": "Metzingen",
+      "monat": "Juli",
+      "besucher_angabe": "80.000"
+    },
+    {
+      "name": "FEK9",
+      "genre": "Deutschrock",
+      "region": "Bayern",
+      "ort": "Geiselwind",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Fest der Völker",
+      "genre": "Rechtsrock",
+      "region": "Thüringen",
+      "ort": "Jena",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Festival Europäische Kirchenmusik",
+      "genre": "Klassik",
+      "region": "Baden-Württemberg",
+      "ort": "Schwäbisch Gmünd",
+      "monat": "",
+      "besucher_angabe": "15.000"
+    },
+    {
+      "name": "Festival Orgel PLUS",
+      "genre": "Klassik",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Bottrop",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Festival-Mediaval",
+      "genre": "Medieval, Folk Rock, Mittelalter-Rock usw.",
+      "region": "Bayern",
+      "ort": "Selb",
+      "monat": "September",
+      "besucher_angabe": "27.000"
+    },
+    {
+      "name": "festivalkult!",
+      "genre": "Rock, Psytrance",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Porta Westfalica",
+      "monat": "",
+      "besucher_angabe": "20.000"
+    },
+    {
+      "name": "Festspiele Europäische Wochen Passau",
+      "genre": "Klassik",
+      "region": "Bayern",
+      "ort": "Passau",
+      "monat": "Juni, Juli",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Festspiele Mecklenburg-Vorpommern",
+      "genre": "Klassik",
+      "region": "Mecklenburg-Vorpommern",
+      "ort": "diverse Spielorte in Mecklenburg-Vorpommern",
+      "monat": "Juni – September",
+      "besucher_angabe": "85.000"
+    },
+    {
+      "name": "Feuertanz Festival",
+      "genre": "Rock, Schwarze Szene",
+      "region": "Bayern",
+      "ort": "Abenberg",
+      "monat": "Juni",
+      "besucher_angabe": "4.000"
+    },
+    {
+      "name": "Fimbul Festival",
+      "genre": "Metal",
+      "region": "Bayern",
+      "ort": "Fürth",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Folklorefest",
+      "genre": "Folk- und Weltmusik",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Krefeld",
+      "monat": "letztes NRW-Sommerferien-Wochenende",
+      "besucher_angabe": "12.000 (2016)"
+    },
+    {
+      "name": "Folklore Wiesbaden",
+      "genre": "Indie-Rock, Pop, Hip-Hop",
+      "region": "Hessen",
+      "ort": "Wiesbaden",
+      "monat": "Letztes Wochenende im August",
+      "besucher_angabe": "30.000 (2012)"
+    },
+    {
+      "name": "Folklorum",
+      "genre": "Folk, Weltmusik, Blues, Art Pop, Latin, Liedermaching, Pagan-Folk, Folk Rock, Polka Rock",
+      "region": "Sachsen",
+      "ort": "Neißeaue",
+      "monat": "Erstes Wochenende im September",
+      "besucher_angabe": "18.000 (2013)"
+    },
+    {
+      "name": "Force Attack",
+      "genre": "Punk",
+      "region": "Mecklenburg-Vorpommern",
+      "ort": "Klingendorf",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Fränkische Musiktage Alzenau",
+      "genre": "Klassik (Chor- und Orchesterkonzerte, Recitals, Kammermusik-Akademien, Literaturkonzerte, Chansonabende u. a.)",
+      "region": "Bayern",
+      "ort": "Alzenau",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Freakstock",
+      "genre": "Christliche Musik",
+      "region": "Thüringen",
+      "ort": "Gotha",
+      "monat": "",
+      "besucher_angabe": "6.000"
+    },
+    {
+      "name": "Free for All Festival",
+      "genre": "Rock, Metal, Electro",
+      "region": "Niedersachsen",
+      "ort": "Stapelmoor",
+      "monat": "Juli",
+      "besucher_angabe": "8.000"
+    },
+    {
+      "name": "Frequenzen Festival",
+      "genre": "Weltmusik",
+      "region": "Schleswig-Holstein",
+      "ort": "Meldorf",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Full Force",
+      "genre": "Metal, Punk, Hardcore, Metalcore, Rock",
+      "region": "Sachsen-Anhalt",
+      "ort": "Ferropolis",
+      "monat": "Juni",
+      "besucher_angabe": "20.000 (2022)"
+    },
+    {
+      "name": "Fusion Festival",
+      "genre": "Electro, Drum’n'Bass, Diverses, Kunst",
+      "region": "Mecklenburg-Vorpommern",
+      "ort": "Lärz",
+      "monat": "",
+      "besucher_angabe": "80.000 (2023)"
+    },
+    {
+      "name": "Goldgelb",
+      "genre": "Blues, Jazz, Country u. a.",
+      "region": "Baden-Württemberg",
+      "ort": "Aichwald",
+      "monat": "",
+      "besucher_angabe": "21.000"
+    },
+    {
+      "name": "G.O.N.D.",
+      "genre": "Deutschrock",
+      "region": "Bayern",
+      "ort": "Rieden (Oberpfalz) bis 2022; Lausitzring (Sachsen) 2023; Flughafen Obermehler (Thüringen) 2024, 2025",
+      "monat": "",
+      "besucher_angabe": "20.000"
+    },
+    {
+      "name": "Greenville Festival",
+      "genre": "diverse",
+      "region": "Brandenburg",
+      "ort": "Paaren im Glien bei Berlin",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Grimmaer Liederflut",
+      "genre": "Weltmusik",
+      "region": "Sachsen",
+      "ort": "Grimma",
+      "monat": "",
+      "besucher_angabe": "12.000"
+    },
+    {
+      "name": "Haigern Live!",
+      "genre": "diverse",
+      "region": "Baden-Württemberg",
+      "ort": "Talheim",
+      "monat": "",
+      "besucher_angabe": "25.000 (2022)"
+    },
+    {
+      "name": "Halberg Open Air",
+      "genre": "Rock, Pop",
+      "region": "Saarland",
+      "ort": "Saarbrücken",
+      "monat": "",
+      "besucher_angabe": "18.000 (2011)"
+    },
+    {
+      "name": "Haldern Pop",
+      "genre": "Rock, Pop, Indie",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Haldern",
+      "monat": "",
+      "besucher_angabe": "5.000"
+    },
+    {
+      "name": "Händel-Festspiele Halle",
+      "genre": "Barockmusik",
+      "region": "Sachsen-Anhalt",
+      "ort": "Halle (Saale)",
+      "monat": "Juni",
+      "besucher_angabe": "58.000 (2019)"
+    },
+    {
+      "name": "Harzburger Musiktage",
+      "genre": "Klassik",
+      "region": "Niedersachsen",
+      "ort": "Bad Harzburg",
+      "monat": "Juni",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Havelländische Musikfestspiele",
+      "genre": "Klassik",
+      "region": "Brandenburg",
+      "ort": "wechselnde Spielorte",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Headbanger Open Air",
+      "genre": "Metal",
+      "region": "Schleswig-Holstein",
+      "ort": "Brande-Hörnerkirchen",
+      "monat": "Juli",
+      "besucher_angabe": "2500"
+    },
+    {
+      "name": "Heidelberger Frühling",
+      "genre": "Klassik",
+      "region": "Baden-Württemberg",
+      "ort": "Heidelberg",
+      "monat": "",
+      "besucher_angabe": "40.000"
+    },
+    {
+      "name": "Heimatklänge",
+      "genre": "Weltmusik",
+      "region": "Berlin",
+      "ort": "Berlin",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Heinrich-Schütz-Musikfest",
+      "genre": "Alte Musik – Musik der Zeit von Heinrich Schütz",
+      "region": "Sachsen",
+      "ort": "Bad Köstritz, Weißenfels, Dresden",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Helene Beach Festival",
+      "genre": "Pop, Rock, Hip-Hop, Electro",
+      "region": "Brandenburg",
+      "ort": "Frankfurt (Oder)",
+      "monat": "",
+      "besucher_angabe": "25.000"
+    },
+    {
+      "name": "Herbstliche Musiktage Bad Urach",
+      "genre": "Klassik",
+      "region": "Baden-Württemberg",
+      "ort": "Bad Urach",
+      "monat": "September / Oktober",
+      "besucher_angabe": "3.100"
+    },
+    {
+      "name": "Herzberger Schlosskonzerte",
+      "genre": "Klassik u. a. Genres",
+      "region": "Niedersachsen",
+      "ort": "Herzberg am Harz",
+      "monat": "Ganzjährig",
+      "besucher_angabe": "1.000"
+    },
+    {
+      "name": "Hexentanz-Festival",
+      "genre": "Mittelalterrock, Metal, Schwarze Szene",
+      "region": "Saarland",
+      "ort": "Losheim am See",
+      "monat": "",
+      "besucher_angabe": "5.000"
+    },
+    {
+      "name": "Highfield-Festival",
+      "genre": "Rock, Punk",
+      "region": "Sachsen",
+      "ort": "Großpösna",
+      "monat": "",
+      "besucher_angabe": "25.000"
+    },
+    {
+      "name": "Höpen Air",
+      "genre": "Rock",
+      "region": "Niedersachsen",
+      "ort": "Schneverdingen",
+      "monat": "",
+      "besucher_angabe": "3.000"
+    },
+    {
+      "name": "Hurricane Festival",
+      "genre": "Rock",
+      "region": "Niedersachsen",
+      "ort": "Scheeßel",
+      "monat": "",
+      "besucher_angabe": "70.000"
+    },
+    {
+      "name": "Idstein JazzFestival",
+      "genre": "Jazz",
+      "region": "Hessen",
+      "ort": "Idstein",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Ikarus Festival",
+      "genre": "Techno, Trance, Electro",
+      "region": "Bayern",
+      "ort": "Memmingerberg",
+      "monat": "Mai/Juni",
+      "besucher_angabe": "91.000 (2023)"
+    },
+    {
+      "name": "Immergut Festival",
+      "genre": "Rock, Indie, Pop",
+      "region": "Mecklenburg-Vorpommern",
+      "ort": "Neustrelitz",
+      "monat": "",
+      "besucher_angabe": "5.000"
+    },
+    {
+      "name": "Indian Spirit",
+      "genre": "Trance",
+      "region": "Brandenburg",
+      "ort": "Heiligengrabe",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Internationale Händel-Festspiele Göttingen",
+      "genre": "Klassik (Barock)",
+      "region": "Niedersachsen",
+      "ort": "Göttingen",
+      "monat": "Mai",
+      "besucher_angabe": "14.000 (2018)"
+    },
+    {
+      "name": "Internationale Jazzwoche Burghausen",
+      "genre": "Jazz",
+      "region": "Bayern",
+      "ort": "Burghausen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Internationale Orgelwoche Nürnberg",
+      "genre": "Geistliche Musik",
+      "region": "Bayern",
+      "ort": "Nürnberg",
+      "monat": "Mai – Juni",
+      "besucher_angabe": "15.000 (2019)"
+    },
+    {
+      "name": "Internationale Sonneberger Jazztage",
+      "genre": "Jazz",
+      "region": "Thüringen",
+      "ort": "Sonneberg",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Internationales Beethovenfest Bonn",
+      "genre": "Klassik",
+      "region": "Nordrhein-Westfalen und Rheinland-Pfalz",
+      "ort": "verschiedene Spielorte",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Internationales Festival für Vokalmusik „a cappella“",
+      "genre": "A cappella",
+      "region": "Sachsen",
+      "ort": "Leipzig",
+      "monat": "",
+      "besucher_angabe": "4.000 (2008)"
+    },
+    {
+      "name": "Internationales Folklorefestival Lausitz",
+      "genre": "Folk",
+      "region": "Sachsen",
+      "ort": "Crostwitz / Bautzen / Drachhausen",
+      "monat": "",
+      "besucher_angabe": "10.000"
+    },
+    {
+      "name": "Internationales Straßenmusikfestival Baden-Württemberg",
+      "genre": "Diverses",
+      "region": "Baden-Württemberg",
+      "ort": "Ludwigsburg",
+      "monat": "Pfingsten",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Jazz an der Donau",
+      "genre": "Jazz, Pop, Blues",
+      "region": "Bayern",
+      "ort": "Straubing",
+      "monat": "",
+      "besucher_angabe": "20.000 (2009)"
+    },
+    {
+      "name": "Jazz in der Kirche",
+      "genre": "Jazz",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Mönchengladbach",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Jazz Meeting Berlin",
+      "genre": "Jazz",
+      "region": "Berlin",
+      "ort": "Berlin",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Jazz Open Hamburg",
+      "genre": "Jazz",
+      "region": "",
+      "ort": "Hamburg",
+      "monat": "",
+      "besucher_angabe": "etwa 10 000"
+    },
+    {
+      "name": "JazzBaltica",
+      "genre": "Jazz",
+      "region": "Schleswig-Holstein",
+      "ort": "Salzau",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Jazzfest Berlin",
+      "genre": "Jazz",
+      "region": "Berlin",
+      "ort": "Berlin",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Jazzfest Rottweil",
+      "genre": "Jazz",
+      "region": "Baden-Württemberg",
+      "ort": "Rottweil",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Jazzfestival Stimmenfang",
+      "genre": "Jazz",
+      "region": "Bayern",
+      "ort": "Nürnberg",
+      "monat": "",
+      "besucher_angabe": "3.000 (2007)"
+    },
+    {
+      "name": "Jazzfestival Viersen",
+      "genre": "Jazz",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Viersener Festhalle",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Jazzmeile Thüringen",
+      "genre": "Jazz",
+      "region": "Thüringen",
+      "ort": "verschiedene Spielorte",
+      "monat": "",
+      "besucher_angabe": "22.000"
+    },
+    {
+      "name": "Jazzopen Stuttgart",
+      "genre": "Jazz",
+      "region": "Baden-Württemberg",
+      "ort": "Stuttgart",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Jenseits von Millionen",
+      "genre": "Indie, Rock, Pop",
+      "region": "Brandenburg",
+      "ort": "Friedland",
+      "monat": "",
+      "besucher_angabe": "1.000"
+    },
+    {
+      "name": "Jimi-Hendrix-Revival-Festival",
+      "genre": "Rock",
+      "region": "Schleswig-Holstein",
+      "ort": "Fehmarn",
+      "monat": "",
+      "besucher_angabe": "10.000"
+    },
+    {
+      "name": "Jokerfest",
+      "genre": "Rock",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Hamminkeln",
+      "monat": "",
+      "besucher_angabe": "3.000"
+    },
+    {
+      "name": "Jübek Open Air",
+      "genre": "Rock, Pop, Alternative",
+      "region": "Schleswig-Holstein",
+      "ort": "Jübek",
+      "monat": "",
+      "besucher_angabe": "3.000"
+    },
+    {
+      "name": "Juicy Beats",
+      "genre": "Alternative Musik (teilweise elektronisch)",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Dortmund",
+      "monat": "",
+      "besucher_angabe": "25.000"
+    },
+    {
+      "name": "Kasseler Musiktage",
+      "genre": "Klassik",
+      "region": "Hessen",
+      "ort": "Kassel",
+      "monat": "",
+      "besucher_angabe": "7.000"
+    },
+    {
+      "name": "K.A.Z. Open Air",
+      "genre": "Punk, Rock",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Herne",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Keep It True",
+      "genre": "Metal",
+      "region": "Baden-Württemberg",
+      "ort": "Lauda-Königshofen",
+      "monat": "",
+      "besucher_angabe": "2.000"
+    },
+    {
+      "name": "Kissinger Sommer",
+      "genre": "Klassik",
+      "region": "Bayern",
+      "ort": "Bad Kissingen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "KlangArt",
+      "genre": "Experimental, Elektronik, Pop/Rock/Jazz, Klassik",
+      "region": "Niedersachsen",
+      "ort": "Osnabrück",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Klangbad Festival",
+      "genre": "Rock",
+      "region": "Baden-Württemberg",
+      "ort": "Scheer",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Klangtherapie Festival",
+      "genre": "Electro, Techno, Techhouse",
+      "region": "Bayern",
+      "ort": "Plankenfels",
+      "monat": "",
+      "besucher_angabe": "3.500 (2017)"
+    },
+    {
+      "name": "Knock Out Festival",
+      "genre": "Metal",
+      "region": "",
+      "ort": "Karlsruhe",
+      "monat": "Dezember",
+      "besucher_angabe": "5.000 2023"
+    },
+    {
+      "name": "KOMMZ",
+      "genre": "Rock",
+      "region": "Bayern",
+      "ort": "Aschaffenburg",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Köpenicker Blues und Jazz Festival",
+      "genre": "Jazz",
+      "region": "Berlin",
+      "ort": "Berlin",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Krach am Bach (Beelen)",
+      "genre": "Alternative, Experimental, Indie",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Beelen",
+      "monat": "August",
+      "besucher_angabe": "3.000"
+    },
+    {
+      "name": "Krach am Bach (Prölsdorf)",
+      "genre": "Punk, Hardcore Punk",
+      "region": "Bayern",
+      "ort": "Prölsdorf",
+      "monat": "August",
+      "besucher_angabe": "1.500 (2022)"
+    },
+    {
+      "name": "Kunstfestspiele Herrenhausen",
+      "genre": "Neue Musik, Klassik, Theater, Tanz, Bildende Kunst",
+      "region": "Niedersachsen",
+      "ort": "Hannover",
+      "monat": "Mai",
+      "besucher_angabe": "10.000"
+    },
+    {
+      "name": "KuRT Festival",
+      "genre": "Umsonst & Draußen Festival",
+      "region": "Baden-Württemberg",
+      "ort": "Reutlingen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Kurt-Weill-Fest",
+      "genre": "Musikfest der klassischen Moderne",
+      "region": "Sachsen-Anhalt",
+      "ort": "Dessau-Roßlau",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Laut gegen Rechts – Nazis aus dem Takt bringen",
+      "genre": "Rock, Pop",
+      "region": "Mecklenburg-Vorpommern",
+      "ort": "Schwerin",
+      "monat": "",
+      "besucher_angabe": "15.000"
+    },
+    {
+      "name": "Lautfeuer",
+      "genre": "Rock, Indie",
+      "region": "Niedersachsen",
+      "ort": "Lingen (Ems)",
+      "monat": "Mai",
+      "besucher_angabe": "10.000 (2023)"
+    },
+    {
+      "name": "Leipziger Jazztage",
+      "genre": "Jazz",
+      "region": "Sachsen",
+      "ort": "Leipzig",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Let The Bad Times Roll",
+      "genre": "Punk, Rock, Metal",
+      "region": "Niedersachsen",
+      "ort": "Manslagt",
+      "monat": "Juni",
+      "besucher_angabe": "600"
+    },
+    {
+      "name": "Leverkusener Jazztage",
+      "genre": "Jazz",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Leverkusen",
+      "monat": "",
+      "besucher_angabe": "20.000"
+    },
+    {
+      "name": "Lieder auf Banz",
+      "genre": "Liedermacher",
+      "region": "Bayern",
+      "ort": "Kloster Banz bei Bad Staffelstein",
+      "monat": "",
+      "besucher_angabe": "5.000"
+    },
+    {
+      "name": "Lollapalooza",
+      "genre": "Rock",
+      "region": "",
+      "ort": "Berlin",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Lonesome Lake Festival",
+      "genre": "Indie, Elektro, Pop",
+      "region": "Sachsen",
+      "ort": "Zittau, Schlegler Teiche",
+      "monat": "erstes Ferienwochenende in Sachsen",
+      "besucher_angabe": "500"
+    },
+    {
+      "name": "Lott-Festival",
+      "genre": "Rock",
+      "region": "Rheinland-Pfalz",
+      "ort": "Raversbeuren",
+      "monat": "",
+      "besucher_angabe": "7.000"
+    },
+    {
+      "name": "Louisiana Musikfestival",
+      "genre": "Blues, Bluegrass, Jazz, Klezmer, Dixieland",
+      "region": "Hessen",
+      "ort": "Wetzlar",
+      "monat": "",
+      "besucher_angabe": "10.000"
+    },
+    {
+      "name": "Love Family Park",
+      "genre": "Techno",
+      "region": "Hessen",
+      "ort": "Hanau",
+      "monat": "Juli",
+      "besucher_angabe": "20.000"
+    },
+    {
+      "name": "Love-and-Peace-Festival",
+      "genre": "Rock",
+      "region": "Schleswig-Holstein",
+      "ort": "Fehmarn",
+      "monat": "",
+      "besucher_angabe": "25.000"
+    },
+    {
+      "name": "Love Music Festival",
+      "genre": "EDM, Rap, Hip-Hop",
+      "region": "Sachsen-Anhalt",
+      "ort": "Magdeburg",
+      "monat": "Juni",
+      "besucher_angabe": "25.000"
+    },
+    {
+      "name": "Ludwigsburger Schlossfestspiele",
+      "genre": "Klassik",
+      "region": "Baden-Württemberg",
+      "ort": "Ludwigsburg",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Lunatic Festival",
+      "genre": "Reggae",
+      "region": "Niedersachsen",
+      "ort": "Lüneburg",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "M’era Luna Festival",
+      "genre": "Schwarze Szene",
+      "region": "Niedersachsen",
+      "ort": "Hildesheim",
+      "monat": "",
+      "besucher_angabe": "20.000"
+    },
+    {
+      "name": "MaerzMusik",
+      "genre": "Klassik",
+      "region": "Berlin",
+      "ort": "Berlin",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Magdeburger Telemann-Festtage",
+      "genre": "Barockmusik",
+      "region": "Sachsen-Anhalt",
+      "ort": "Magdeburg",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Magic Circle Festival",
+      "genre": "Metal",
+      "region": "Hessen",
+      "ort": "Bad Arolsen",
+      "monat": "",
+      "besucher_angabe": "25.000"
+    },
+    {
+      "name": "Mair1 Festival",
+      "genre": "Rock, Hardcore Punk, Metal, Punk",
+      "region": "Rheinland-Pfalz",
+      "ort": "Montabaur",
+      "monat": "",
+      "besucher_angabe": "15.000"
+    },
+    {
+      "name": "Masala Weltbeat Festival",
+      "genre": "Weltmusik",
+      "region": "Niedersachsen",
+      "ort": "Hannover",
+      "monat": "",
+      "besucher_angabe": "5.000"
+    },
+    {
+      "name": "Mayday",
+      "genre": "elektronische Musik",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Dortmund",
+      "monat": "",
+      "besucher_angabe": "27.000"
+    },
+    {
+      "name": "MDR-Musiksommer",
+      "genre": "Klassik",
+      "region": "Sachsen, Sachsen-Anhalt, Thüringen",
+      "ort": "verschiedene Spielorte",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Medival – Electronic Open Air",
+      "genre": "Elektronische Musik",
+      "region": "Thüringen",
+      "ort": "Gerstungen, Ruine Brandenburg",
+      "monat": "Juli",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Melt",
+      "genre": "Indie / Electronica / Techno / Hiphop",
+      "region": "Sachsen-Anhalt",
+      "ort": "Ferropolis nahe Gräfenhainichen",
+      "monat": "Juni / Juli",
+      "besucher_angabe": "15.000"
+    },
+    {
+      "name": "Miner’s Rock",
+      "genre": "Rock, Popp, Jazz",
+      "region": "Niedersachsen",
+      "ort": "Goslar",
+      "monat": "versch. Monate",
+      "besucher_angabe": "3.000-5.000"
+    },
+    {
+      "name": "Mini-Rock-Festival",
+      "genre": "Rock",
+      "region": "Baden-Württemberg",
+      "ort": "Horb am Neckar",
+      "monat": "",
+      "besucher_angabe": "10.000"
+    },
+    {
+      "name": "Modular Festival",
+      "genre": "Pop, Hiphop, Indie, Elektro",
+      "region": "Bayern",
+      "ort": "Augsburg",
+      "monat": "",
+      "besucher_angabe": "30.000"
+    },
+    {
+      "name": "Moers Festival",
+      "genre": "Jazz",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Moers",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Morgenland Festival Osnabrück",
+      "genre": "Jazz, Klassik, Rock, Traditionell",
+      "region": "Niedersachsen",
+      "ort": "Osnabrück",
+      "monat": "",
+      "besucher_angabe": "3.000–8.000"
+    },
+    {
+      "name": "Moritzburg Festival",
+      "genre": "Klassik",
+      "region": "Sachsen",
+      "ort": "Moritzburg",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Mosel Musikfestival",
+      "genre": "Klassik",
+      "region": "Rheinland-Pfalz, Mosel",
+      "ort": "verschiedene Spielstätten entlang der Mosel",
+      "monat": "jährlich von Juli bis Oktober",
+      "besucher_angabe": "20.000"
+    },
+    {
+      "name": "MS Dockville",
+      "genre": "Musik und Kunst",
+      "region": "Hamburg",
+      "ort": "Hamburg-Wilhelmsburg am Reiherstieg",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "MTV HipHop Open",
+      "genre": "Hip-Hop / Rap",
+      "region": "Baden-Württemberg",
+      "ort": "Stuttgart",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Münchener Biennale für Neues Musiktheater",
+      "genre": "Oper",
+      "region": "Bayern",
+      "ort": "München",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Musikfestspiele Saar",
+      "genre": "Klassik",
+      "region": "Frankreich, Luxemburg",
+      "ort": "verschiedene Spielorte in Saar-Lor-Lux",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Musikschau der Nationen",
+      "genre": "Militärmusik",
+      "region": "Bremen",
+      "ort": "Bremen",
+      "monat": "",
+      "besucher_angabe": "25.000"
+    },
+    {
+      "name": "Musikum",
+      "genre": "Rock",
+      "region": "Niedersachsen",
+      "ort": "Braunschweig",
+      "monat": "Ende Juni",
+      "besucher_angabe": "4.000 (2016)"
+    },
+    {
+      "name": "Nachti",
+      "genre": "Techno, House, Electronica",
+      "region": "Sachsen",
+      "ort": "Olganitz, Cavertitz",
+      "monat": "",
+      "besucher_angabe": "3.000 (2023)"
+    },
+    {
+      "name": "Nature One",
+      "genre": "Techno, Electro, House, Progressive",
+      "region": "Rheinland-Pfalz",
+      "ort": "Kastellaun, Raketenbasis Pydna",
+      "monat": "August",
+      "besucher_angabe": "65.000 (2015)"
+    },
+    {
+      "name": "New Pop Festival",
+      "genre": "Rock, Pop",
+      "region": "Baden-Württemberg",
+      "ort": "Baden-Baden und Rastatt",
+      "monat": "",
+      "besucher_angabe": "20.000"
+    },
+    {
+      "name": "Nibirii",
+      "genre": "Goa, Techno, Drum and Bass",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Düren",
+      "monat": "Sommer",
+      "besucher_angabe": "20.000 (2022)"
+    },
+    {
+      "name": "Night of the Prog",
+      "genre": "Progressive Rock",
+      "region": "Rheinland-Pfalz",
+      "ort": "Sankt Goarshausen, Loreley",
+      "monat": "",
+      "besucher_angabe": "10.000 (2014)"
+    },
+    {
+      "name": "Nonstock Festival",
+      "genre": "Rock, Pop",
+      "region": "Hessen",
+      "ort": "Nonrod",
+      "monat": "",
+      "besucher_angabe": "1.500"
+    },
+    {
+      "name": "Oben ohne",
+      "genre": "HipHop, Reggae, Ska, Rap",
+      "region": "Bayern",
+      "ort": "München",
+      "monat": "",
+      "besucher_angabe": "5.000"
+    },
+    {
+      "name": "OffsideOpen",
+      "genre": "Jazz",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Geldern / Niederrhein",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Oldenbora",
+      "genre": "House",
+      "region": "Niedersachsen",
+      "ort": "Rastede, Beachclub Nethen",
+      "monat": "",
+      "besucher_angabe": "10.000"
+    },
+    {
+      "name": "Olgas Rock",
+      "genre": "Rock",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Oberhausen",
+      "monat": "",
+      "besucher_angabe": "10.000"
+    },
+    {
+      "name": "Omas Teich Festival",
+      "genre": "Rock",
+      "region": "Niedersachsen",
+      "ort": "Großefehn",
+      "monat": "",
+      "besucher_angabe": "10.000"
+    },
+    {
+      "name": "Open Air am Berg bei Eichstätt",
+      "genre": "Reggae, Rock, Balkan, Folk, Metal, Punk",
+      "region": "Bayern",
+      "ort": "Eichstätt",
+      "monat": "",
+      "besucher_angabe": "7.500"
+    },
+    {
+      "name": "Open Air Hamm",
+      "genre": "70er, Blues, Reggae, Psychedelic, Rock, Funk, Balkan, Folk, Elektronisch",
+      "region": "Rheinland-Pfalz",
+      "ort": "Hamm am Rhein",
+      "monat": "",
+      "besucher_angabe": "2.000"
+    },
+    {
+      "name": "Open Air Weigendorf",
+      "genre": "Rock",
+      "region": "Bayern",
+      "ort": "Loiching, Ortsteil Weigendorf",
+      "monat": "",
+      "besucher_angabe": "5.000"
+    },
+    {
+      "name": "Open Air Werden",
+      "genre": "Rock",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Essen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Open Beatz",
+      "genre": "Progressive, Deep, Electro House, Techno, Hardstyle, EDM",
+      "region": "Bayern",
+      "ort": "Herzogenaurach",
+      "monat": "",
+      "besucher_angabe": "20.000 (2018)"
+    },
+    {
+      "name": "Open Flair",
+      "genre": "Rock, Indie, Liedermacher, Kleinkunst",
+      "region": "Hessen",
+      "ort": "Eschwege",
+      "monat": "",
+      "besucher_angabe": "20.000"
+    },
+    {
+      "name": "OpenOhr Festival",
+      "genre": "Rock, Pop, Indie, Alternative, Folkrock, Liedermacher",
+      "region": "Rheinland-Pfalz",
+      "ort": "Mainz",
+      "monat": "Mai",
+      "besucher_angabe": "9.000"
+    },
+    {
+      "name": "Orange Blossom Special Festival",
+      "genre": "Rock",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Beverungen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Osterfestspiele Baden-Baden",
+      "genre": "Klassik",
+      "region": "Baden-Württemberg",
+      "ort": "Baden-Baden",
+      "monat": "März / April",
+      "besucher_angabe": "25.000 (2018)"
+    },
+    {
+      "name": "Ostseejazz",
+      "genre": "Jazz",
+      "region": "Mecklenburg-Vorpommern",
+      "ort": "Rostock",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Owener Rocknacht",
+      "genre": "Christlicher Rock",
+      "region": "Baden-Württemberg",
+      "ort": "Owen",
+      "monat": "",
+      "besucher_angabe": "2.000 (2004)"
+    },
+    {
+      "name": "palatia jazz",
+      "genre": "Jazz",
+      "region": "Rheinland-Pfalz und Baden-Württemberg",
+      "ort": "",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Parookaville",
+      "genre": "EDM",
+      "region": "",
+      "ort": "Weeze",
+      "monat": "Juli",
+      "besucher_angabe": "85.000 verkaufte Karten"
+    },
+    {
+      "name": "Party.San",
+      "genre": "Metal",
+      "region": "Thüringen",
+      "ort": "Schlotheim, davor Bad Berka",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Passauer Pfingst-Open-Air",
+      "genre": "Rock",
+      "region": "Bayern",
+      "ort": "Passau, Hauzenberg",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Pfingstmusiktage",
+      "genre": "Klassik, Weltmusik",
+      "region": "Hessen",
+      "ort": "Lauterbach",
+      "monat": "",
+      "besucher_angabe": "1.500"
+    },
+    {
+      "name": "Pinot and Rock",
+      "genre": "Rock, Pop, Indie, Rap",
+      "region": "Baden-Württemberg",
+      "ort": "Breisach am Rhein",
+      "monat": "Juli",
+      "besucher_angabe": "34.000"
+    },
+    {
+      "name": "Pixxen Festival",
+      "genre": "Rock, Hip-Hop, Elektro",
+      "region": "Niedersachsen",
+      "ort": "Neukamperfehn",
+      "monat": "August",
+      "besucher_angabe": "4.000"
+    },
+    {
+      "name": "Place2Be",
+      "genre": "Techno",
+      "region": "Mecklenburg-Vorpommern",
+      "ort": "Schwerin",
+      "monat": "",
+      "besucher_angabe": "5.000"
+    },
+    {
+      "name": "Plage Noire",
+      "genre": "Schwarze Szene",
+      "region": "Schleswig-Holstein",
+      "ort": "Weißenhäuser Strand",
+      "monat": "April/Mai",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Plathner’s Eleven",
+      "genre": "Klassik",
+      "region": "Niedersachsen",
+      "ort": "Hannover",
+      "monat": "",
+      "besucher_angabe": "5.000"
+    },
+    {
+      "name": "Plaza Party",
+      "genre": "Pop, Rock, Klassik",
+      "region": "Niedersachsen",
+      "ort": "Hannover",
+      "monat": "",
+      "besucher_angabe": "50.000 (3 Tage)"
+    },
+    {
+      "name": "Podium Esslingen",
+      "genre": "Klassik",
+      "region": "Baden-Württemberg",
+      "ort": "Esslingen am Neckar",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Polonia Music Festival",
+      "genre": "Pop, Rock, Diso Polo",
+      "region": "",
+      "ort": "Oberhausen, Frankfurt am Main, Hamburg",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Polstock Festival",
+      "genre": "Metal, Punk, Rock",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Marl",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Popdeurope",
+      "genre": "Weltmusik",
+      "region": "Berlin",
+      "ort": "Berlin",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Popkomm",
+      "genre": "Rock",
+      "region": "Berlin",
+      "ort": "Berlin",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Populario",
+      "genre": "Rock",
+      "region": "Sachsen",
+      "ort": "Hoyerswerda",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Pösinger Open-Air",
+      "genre": "Rock",
+      "region": "Bayern",
+      "ort": "Pösing",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Potsdamer Ska Festival",
+      "genre": "Rock",
+      "region": "Brandenburg",
+      "ort": "Potsdam",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Pressure Festival",
+      "genre": "Hardcore Punk, Metalcore",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Herne",
+      "monat": "",
+      "besucher_angabe": "10.000"
+    },
+    {
+      "name": "Prima leben und stereo am Vöttinger Weiher",
+      "genre": "Rock, Alternativ, deutscher Gitarrenpop, Elektro",
+      "region": "Bayern",
+      "ort": "Freising",
+      "monat": "",
+      "besucher_angabe": "5.500"
+    },
+    {
+      "name": "Protzen Open Air",
+      "genre": "Metal",
+      "region": "Brandenburg",
+      "ort": "Protzen",
+      "monat": "",
+      "besucher_angabe": "1.000"
+    },
+    {
+      "name": "Pumpkin Germany",
+      "genre": "Hardstyle, Hardcore",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Oberhausen",
+      "monat": "Oktober",
+      "besucher_angabe": "7000"
+    },
+    {
+      "name": "Querbeat Festival",
+      "genre": "Ska, Rock, Reggae, Folk-Punk",
+      "region": "Baden-Württemberg",
+      "ort": "Unterwaldhausen",
+      "monat": "",
+      "besucher_angabe": "2.000 (2018)"
+    },
+    {
+      "name": "Q-Base",
+      "genre": "Techno, Hardstyle",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Weeze",
+      "monat": "",
+      "besucher_angabe": "25.000"
+    },
+    {
+      "name": "Ract!festival",
+      "genre": "Reggae, Ska, Punk, Rock, Metal, HipHop",
+      "region": "Baden-Württemberg",
+      "ort": "Tübingen",
+      "monat": "Juni",
+      "besucher_angabe": "25.000"
+    },
+    {
+      "name": "Ragerselite Festival",
+      "genre": "Rock",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Hamm",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Raging Death Date",
+      "genre": "Metal",
+      "region": "Thüringen",
+      "ort": "Neustadt an der Orla",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Ragnarök-Festival",
+      "genre": "Metal",
+      "region": "Bayern",
+      "ort": "Lichtenfels",
+      "monat": "",
+      "besucher_angabe": "5.000"
+    },
+    {
+      "name": "Red Corner Festival",
+      "genre": "Rock, Hardcore Punk",
+      "region": "Bayern",
+      "ort": "Moosburg an der Isar",
+      "monat": "",
+      "besucher_angabe": "2.000"
+    },
+    {
+      "name": "Reeperbahn Festival",
+      "genre": "diverse",
+      "region": "Hamburg",
+      "ort": "Hamburg",
+      "monat": "September",
+      "besucher_angabe": "50.000 (2019)"
+    },
+    {
+      "name": "Reggae Jam",
+      "genre": "Reggae, Dancehall, Soca, Ska",
+      "region": "Niedersachsen",
+      "ort": "Bersenbrück",
+      "monat": "",
+      "besucher_angabe": "12.000"
+    },
+    {
+      "name": "Reich & Schön Festival",
+      "genre": "Punk, Hip-Hop, Techno, House, D'n'B, Dubstep, Goa, Indie",
+      "region": "Thüringen",
+      "ort": "Saalfeld/Saale",
+      "monat": "Juni",
+      "besucher_angabe": "2.200 (2013)"
+    },
+    {
+      "name": "Reload Festival",
+      "genre": "Rock, Pop, Metal, Hard Rock, Punk, Hardcore Punk",
+      "region": "Niedersachsen",
+      "ort": "Sulingen",
+      "monat": "",
+      "besucher_angabe": "10.000"
+    },
+    {
+      "name": "RheinVokal",
+      "genre": "A cappella",
+      "region": "Rheinland-Pfalz",
+      "ort": "verschiedene Spielorte (Mittelrhein)",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rhön Rock Open Air",
+      "genre": "Rock",
+      "region": "Hessen",
+      "ort": "Oberfeld (Hünfeld)",
+      "monat": "August",
+      "besucher_angabe": "2.000"
+    },
+    {
+      "name": "Riding Higher Benefiz Festival",
+      "genre": "Reggae, Dub",
+      "region": "Bayern",
+      "ort": "Odelzhausen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rio Reiser Fest",
+      "genre": "Pop, Indie-Pop, Indie-Rock",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Unna",
+      "monat": "",
+      "besucher_angabe": "1.500"
+    },
+    {
+      "name": "Rocco del Schlacko",
+      "genre": "Rock",
+      "region": "Saarland",
+      "ort": "Püttlingen - Köllerbach",
+      "monat": "",
+      "besucher_angabe": "28.000"
+    },
+    {
+      "name": "Rock am Bach",
+      "genre": "Rock",
+      "region": "Saarland",
+      "ort": "Merzig (vormals Wadern)",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock am Deich",
+      "genre": "Rock",
+      "region": "Niedersachsen",
+      "ort": "Leer",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock am Härtsfeldsee",
+      "genre": "Rock, Metal",
+      "region": "Baden-Württemberg",
+      "ort": "Dischingen",
+      "monat": "",
+      "besucher_angabe": "4.000"
+    },
+    {
+      "name": "Rock am Markt",
+      "genre": "Rock",
+      "region": "Rheinland-Pfalz",
+      "ort": "Veitsrodt",
+      "monat": "",
+      "besucher_angabe": "5.000"
+    },
+    {
+      "name": "Rock am Ring",
+      "genre": "Rock, Rap, Metal",
+      "region": "",
+      "ort": "Nürburgring, Nürburg",
+      "monat": "",
+      "besucher_angabe": "92.500 (2016)"
+    },
+    {
+      "name": "Rock am Schacht",
+      "genre": "Rock",
+      "region": "Thüringen",
+      "ort": "Berka/Werra",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock am Schloss",
+      "genre": "Rock",
+      "region": "Niedersachsen",
+      "ort": "Fürstenau",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock am Schloss",
+      "genre": "Rock",
+      "region": "Niedersachsen",
+      "ort": "Gödens",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock am Schloss",
+      "genre": "Rock",
+      "region": "Hessen",
+      "ort": "Idstein",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock am See",
+      "genre": "Rock",
+      "region": "Baden-Württemberg",
+      "ort": "Konstanz",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock am Stollen",
+      "genre": "Rock",
+      "region": "Baden-Württemberg",
+      "ort": "Aalen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock am Teich",
+      "genre": "Rock",
+      "region": "Brandenburg",
+      "ort": "Terpe",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock at Church",
+      "genre": "Rock, Indie, Pop",
+      "region": "Baden-Württemberg",
+      "ort": "Ladenburg",
+      "monat": "",
+      "besucher_angabe": "3.000"
+    },
+    {
+      "name": "Rock auf der Burg",
+      "genre": "Rock",
+      "region": "Hessen",
+      "ort": "Burg Königstein",
+      "monat": "August",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock Days",
+      "genre": "Rock, Metal, Punk, Ska",
+      "region": "Baden-Württemberg",
+      "ort": "Bad Urach",
+      "monat": "",
+      "besucher_angabe": "1.300"
+    },
+    {
+      "name": "Rock dein Leben",
+      "genre": "Deutschrock, Metal",
+      "region": "Baden-Württemberg",
+      "ort": "Laichingen",
+      "monat": "Juli",
+      "besucher_angabe": "10.000–15.000"
+    },
+    {
+      "name": "Rock den Deich Festival",
+      "genre": "Rock, Indie, Punk",
+      "region": "Niedersachsen",
+      "ort": "Schwanewede bei Bremen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock den Lukas",
+      "genre": "Rock",
+      "region": "Niedersachsen",
+      "ort": "Tarmstedt bei Bremen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock for Hope",
+      "genre": "Rock",
+      "region": "Baden-Württemberg",
+      "ort": "Aalen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock for Nature",
+      "genre": "Rock",
+      "region": "Baden-Württemberg",
+      "ort": "Wolpertshausen bei Schwäbisch Hall",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock for Tolerance",
+      "genre": "Rock, Indie, Punk, Metal",
+      "region": "Niedersachsen",
+      "ort": "Hann. Münden",
+      "monat": "Juni",
+      "besucher_angabe": "2016"
+    },
+    {
+      "name": "Rock für Deutschland",
+      "genre": "Rechtsrock",
+      "region": "Thüringen",
+      "ort": "Gera",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock Hard Festival",
+      "genre": "Metal",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Gelsenkirchen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock im Betonwerk",
+      "genre": "Rock, Metal, Black Metal, Death, Thrash, Grindcore",
+      "region": "Sachsen",
+      "ort": "Chemnitz-Mittelbach",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock im Grünen",
+      "genre": "Rock, Pop, Indie, Urban, Reggae",
+      "region": "Berlin",
+      "ort": "Berlin",
+      "monat": "Juli",
+      "besucher_angabe": "3.000"
+    },
+    {
+      "name": "Rock im Hinterland",
+      "genre": "Rock, Metal, Ska, Reggae, Punk, Folk, Funk",
+      "region": "Rheinland-Pfalz",
+      "ort": "Obrigheim - Albsheim",
+      "monat": "August",
+      "besucher_angabe": "1200 (2014)"
+    },
+    {
+      "name": "Rock im Mai",
+      "genre": "Rock",
+      "region": "Sachsen-Anhalt",
+      "ort": "Dardesheim",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock im Moor",
+      "genre": "Rock, Alternativ, Punk, Indie, Metal",
+      "region": "Brandenburg, Prignitz",
+      "ort": "Boberow",
+      "monat": "August",
+      "besucher_angabe": "1000"
+    },
+    {
+      "name": "Rock im Moor",
+      "genre": "Rock",
+      "region": "Niedersachsen",
+      "ort": "Papenburg",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock im Park",
+      "genre": "Rock",
+      "region": "Bayern",
+      "ort": "Nürnberg",
+      "monat": "Mai / Juni",
+      "besucher_angabe": "88.500 (2025)"
+    },
+    {
+      "name": "Rock im Pott",
+      "genre": "Rock",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Gelsenkirchen",
+      "monat": "",
+      "besucher_angabe": "41.000"
+    },
+    {
+      "name": "Rock im Schloss",
+      "genre": "Rock",
+      "region": "Niedersachsen",
+      "ort": "Bad Pyrmont",
+      "monat": "",
+      "besucher_angabe": "1.000"
+    },
+    {
+      "name": "Rock im Stadtpark",
+      "genre": "Rock, Pop",
+      "region": "Sachsen-Anhalt",
+      "ort": "Magdeburg",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock in Caputh",
+      "genre": "Rock",
+      "region": "Brandenburg",
+      "ort": "Caputh",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock in Concert Open Air",
+      "genre": "Rock, Metal",
+      "region": "Bayern",
+      "ort": "Weismain",
+      "monat": "",
+      "besucher_angabe": "10.000 (Tag 1 4000, Tag 2 6000)"
+    },
+    {
+      "name": "Rock of Ages",
+      "genre": "Rock",
+      "region": "Baden-Württemberg",
+      "ort": "Seebronn",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock the Race",
+      "genre": "Rock",
+      "region": "Sachsen-Anhalt",
+      "ort": "Oschersleben",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock the Wäldle",
+      "genre": "Rock, Metal",
+      "region": "Baden-Württemberg",
+      "ort": "Filderstadt",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rockburg",
+      "genre": "Rock",
+      "region": "Bayern",
+      "ort": "Miltenberg",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "RockDays",
+      "genre": "Rock",
+      "region": "Baden-Württemberg",
+      "ort": "Bad Urach",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rockdepartment Open Air",
+      "genre": "Rock",
+      "region": "Niedersachsen",
+      "ort": "Sögel",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rocken am Brocken",
+      "genre": "Rock, Indie, Punk, Elektro",
+      "region": "Sachsen-Anhalt",
+      "ort": "Elend im Harz",
+      "monat": "",
+      "besucher_angabe": "2.400"
+    },
+    {
+      "name": "Rockharz Open Air",
+      "genre": "Metal",
+      "region": "Sachsen-Anhalt",
+      "ort": "Ballenstedt (ab 2009) (bis 2008: Osterode am Harz)",
+      "monat": "",
+      "besucher_angabe": "24.000 (2024)"
+    },
+    {
+      "name": "RockOn Festival",
+      "genre": "Rock",
+      "region": "Bayern",
+      "ort": "Peiting",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rockwell",
+      "genre": "Rock",
+      "region": "Saarland",
+      "ort": "Saarwellingen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rock’n’Heim",
+      "genre": "Rock, Metal, Punk, Elektro",
+      "region": "Baden-Württemberg",
+      "ort": "Hockenheim",
+      "monat": "",
+      "besucher_angabe": "40.000"
+    },
+    {
+      "name": "Rot’n’Slay",
+      "genre": "Rock",
+      "region": "Baden-Württemberg",
+      "ort": "Blaubeuren",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Rudolstadt-Festival",
+      "genre": "Weltmusik",
+      "region": "Thüringen",
+      "ort": "Rudolstadt",
+      "monat": "",
+      "besucher_angabe": "90.000 (2016)"
+    },
+    {
+      "name": "Ruhr in Love",
+      "genre": "Techno",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Oberhausen",
+      "monat": "",
+      "besucher_angabe": "40.000"
+    },
+    {
+      "name": "Ruhr Reggae Summer",
+      "genre": "Reggae",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Mülheim an der Ruhr",
+      "monat": "",
+      "besucher_angabe": "15.000 (2017)"
+    },
+    {
+      "name": "Ruhrpott Rodeo",
+      "genre": "Punk",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Hünxe",
+      "monat": "",
+      "besucher_angabe": "7.000"
+    },
+    {
+      "name": "Ruhrtriennale",
+      "genre": "",
+      "region": "Ruhrgebiet",
+      "ort": "",
+      "monat": "",
+      "besucher_angabe": "40.000 (2010)"
+    },
+    {
+      "name": "Runaway Open Air",
+      "genre": "verschiedene Stilrichtungen",
+      "region": "Bayern",
+      "ort": "Freilassing",
+      "monat": "Juni",
+      "besucher_angabe": "1000"
+    },
+    {
+      "name": "Sabor de Samba Int. Festival Offenburg",
+      "genre": "Samba, Percussion",
+      "region": "Baden-Württemberg",
+      "ort": "Offenburg",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Samba-Festival Coburg",
+      "genre": "Samba, Percussion",
+      "region": "Bayern",
+      "ort": "Coburg",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Sambadwildungen",
+      "genre": "Samba, Percussion",
+      "region": "Hessen",
+      "ort": "Bad Wildungen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Schlossgarten Open Air",
+      "genre": "Indie, Pop, Soul, Rock, Hip-Hop",
+      "region": "Niedersachsen",
+      "ort": "Osnabrück",
+      "monat": "August",
+      "besucher_angabe": "ca. 20.000"
+    },
+    {
+      "name": "Schönberger Musiksommer",
+      "genre": "Klassik, Jazz",
+      "region": "Mecklenburg-Vorpommern",
+      "ort": "Schönberg (Mecklenburg)",
+      "monat": "Juni bis September",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Schönebecker Operettensommer",
+      "genre": "Klassik",
+      "region": "Sachsen-Anhalt",
+      "ort": "Schönebeck",
+      "monat": "",
+      "besucher_angabe": "18.000"
+    },
+    {
+      "name": "Schumann-Fest Zwickau",
+      "genre": "Klassik",
+      "region": "Sachsen",
+      "ort": "Zwickau",
+      "monat": "Juni",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Schwarzwald-Musikfestival",
+      "genre": "Klassik",
+      "region": "",
+      "ort": "",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Schwetzinger Festspiele",
+      "genre": "Klassik",
+      "region": "Baden-Württemberg",
+      "ort": "Schwetzingen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Sea of Love",
+      "genre": "Techno, House",
+      "region": "Baden-Württemberg",
+      "ort": "Freiburg-Hochdorf",
+      "monat": "",
+      "besucher_angabe": "15.000"
+    },
+    {
+      "name": "Secret Garden Festival",
+      "genre": "Rock",
+      "region": "Niedersachsen",
+      "ort": "Hannover",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Shantyfestival",
+      "genre": "Seemannslieder",
+      "region": "Niedersachsen",
+      "ort": "Zeven",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Sommerfest Vorstraße",
+      "genre": "Rock, Elektro, Funk, Indie, Reggae, Ska",
+      "region": "Bremen",
+      "ort": "Bremen",
+      "monat": "jährlich, zweites Wochenende im Juni",
+      "besucher_angabe": "7.000"
+    },
+    {
+      "name": "Sommerfestival Baroperstraße",
+      "genre": "Indie, Rock, Electro",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Dortmund",
+      "monat": "Juni",
+      "besucher_angabe": "2.500"
+    },
+    {
+      "name": "Sommerfühl",
+      "genre": "Rock, Electronica",
+      "region": "Bayern",
+      "ort": "Feuchtwangen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Sommerliebe",
+      "genre": "Electro, Techno, Techhouse",
+      "region": "Bayern",
+      "ort": "Nürnberg",
+      "monat": "Juli",
+      "besucher_angabe": "15.000 (2016)"
+    },
+    {
+      "name": "Sommerschein-Festival",
+      "genre": "Rock, Pop, Electro, Progressive, Reggae, Sing / Songwriter, Alternative",
+      "region": "Hessen",
+      "ort": "Hofheim am Taunus",
+      "monat": "August",
+      "besucher_angabe": "5000"
+    },
+    {
+      "name": "Sonic Bang Festival",
+      "genre": "Rock",
+      "region": "Hessen",
+      "ort": "Helmarshausen, Krukenburg",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "SonneMondSterne",
+      "genre": "Techno, Minimal, House, Electro, Drum and Bass",
+      "region": "Thüringen",
+      "ort": "Saalburg",
+      "monat": "",
+      "besucher_angabe": "45.000"
+    },
+    {
+      "name": "Sonnenrot Festival",
+      "genre": "Rock",
+      "region": "Bayern",
+      "ort": "Eching, bis 2008 in Geretsried",
+      "monat": "",
+      "besucher_angabe": "5.000"
+    },
+    {
+      "name": "Sound of the Forest",
+      "genre": "Rock",
+      "region": "Odenwald",
+      "ort": "Bad König, Marbach-Stausee",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Soundgarden Festival",
+      "genre": "Rock",
+      "region": "Hessen",
+      "ort": "Friedberg (Hessen)",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Southside",
+      "genre": "Rock",
+      "region": "Baden-Württemberg",
+      "ort": "Neuhausen ob Eck",
+      "monat": "",
+      "besucher_angabe": "60.000"
+    },
+    {
+      "name": "Spack! Festival",
+      "genre": "Rock, Hip-Hop, Elektro, Indie",
+      "region": "Rheinland-Pfalz",
+      "ort": "Wirges",
+      "monat": "",
+      "besucher_angabe": "10.000 (2012)"
+    },
+    {
+      "name": "Spirit From The Street",
+      "genre": "Rock",
+      "region": "Brandenburg",
+      "ort": "Niedergörsdorf",
+      "monat": "",
+      "besucher_angabe": "12.000"
+    },
+    {
+      "name": "splash!",
+      "genre": "Elektro, HipHop, Reggae, Funk, Drum and Bass",
+      "region": "Sachsen-Anhalt",
+      "ort": "Ferropolis",
+      "monat": "",
+      "besucher_angabe": "25.000"
+    },
+    {
+      "name": "Sputnik Springbreak",
+      "genre": "Rock, Electronica",
+      "region": "Sachsen-Anhalt",
+      "ort": "Halbinsel Pouch bei Bitterfeld",
+      "monat": "Mai",
+      "besucher_angabe": "25.000"
+    },
+    {
+      "name": "St. Katharina Open Air",
+      "genre": "Jazz, Soul, Blues, Rock, Pop, Metal, Reggae, Ska, Folk, Punk, Gothic, Hip-Hop",
+      "region": "Bayern",
+      "ort": "Nürnberg",
+      "monat": "Juli / August",
+      "besucher_angabe": "8.000"
+    },
+    {
+      "name": "Staatsforsten Open-Air",
+      "genre": "Jazz, Soul, Blues, Rock, Pop, Metal, Reggae, Ska, Folk, Punk, Gothic, Hip-Hop",
+      "region": "Niedersachsen",
+      "ort": "Landkreis Vechta, Bakum",
+      "monat": "",
+      "besucher_angabe": "5.000"
+    },
+    {
+      "name": "Stains in the Sun",
+      "genre": "Punkrock, Hardcore, Hip-Hop, Elektro",
+      "region": "Sachsen",
+      "ort": "Erzgebirgskreis, Schwarzenberg/Erzgeb.",
+      "monat": "",
+      "besucher_angabe": "500"
+    },
+    {
+      "name": "Steinbruchfestival",
+      "genre": "Rock, Pop, Alternative, Reggae u. a.",
+      "region": "Hessen",
+      "ort": "Mühlheim am Main",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Stemweder Open Air",
+      "genre": "Rock",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Stemwede",
+      "monat": "",
+      "besucher_angabe": "18.000"
+    },
+    {
+      "name": "StereoCity Festival",
+      "genre": "Techno, Minimal, House, Electro, Drum and Bass",
+      "region": "Sachsen-Anhalt",
+      "ort": "Ferropolis",
+      "monat": "",
+      "besucher_angabe": "5.000"
+    },
+    {
+      "name": "Sternenfestival",
+      "genre": "Rock",
+      "region": "Bayern",
+      "ort": "Bamberg",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Stoned From the Underground",
+      "genre": "Stoner, Doom, Sludge, Psychedelic",
+      "region": "Thüringen",
+      "ort": "Alperstedter See",
+      "monat": "Mitte Juli",
+      "besucher_angabe": "2.500"
+    },
+    {
+      "name": "StoneRock Festival",
+      "genre": "Rock, Indie",
+      "region": "Niedersachsen",
+      "ort": "Bad Bentheim",
+      "monat": "",
+      "besucher_angabe": "1.000 (2012)"
+    },
+    {
+      "name": "StuStaCulum",
+      "genre": "Rock",
+      "region": "Bayern",
+      "ort": "München",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Stuttgart Electronic Music Festival",
+      "genre": "Electro",
+      "region": "Baden-Württemberg",
+      "ort": "Stuttgart",
+      "monat": "Dezember",
+      "besucher_angabe": "17.500 (2016)"
+    },
+    {
+      "name": "SUB-Topia",
+      "genre": "Psytrance, Drum & Bass, Techno, Rock, Punk, Hip-Hop",
+      "region": "Niedersachsen",
+      "ort": "Uslar",
+      "monat": "Juli",
+      "besucher_angabe": "400"
+    },
+    {
+      "name": "Südwinsen-Festival",
+      "genre": "Rock, Blues, Ska, Funk, Punk",
+      "region": "Niedersachsen",
+      "ort": "Winsen (Aller)",
+      "monat": "Juli",
+      "besucher_angabe": "3.000"
+    },
+    {
+      "name": "Summer Breeze",
+      "genre": "Metal",
+      "region": "Bayern",
+      "ort": "Dinkelsbühl (2006, vorher Abtsgmünd)",
+      "monat": "",
+      "besucher_angabe": "50.000"
+    },
+    {
+      "name": "Summer Spirit",
+      "genre": "Techno",
+      "region": "Brandenburg",
+      "ort": "Niedergörsdorf",
+      "monat": "",
+      "besucher_angabe": "10.000"
+    },
+    {
+      "name": "Summerblast Festival",
+      "genre": "Metalcore, Deathcore",
+      "region": "Rheinland-Pfalz",
+      "ort": "Trier",
+      "monat": "",
+      "besucher_angabe": "1.500"
+    },
+    {
+      "name": "Summerjam",
+      "genre": "Reggae",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Köln",
+      "monat": "",
+      "besucher_angabe": "30.000"
+    },
+    {
+      "name": "Summernight Festival",
+      "genre": "Rock, Funk, Soul",
+      "region": "Baden-Württemberg",
+      "ort": "Laupheim",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "SummerSounds",
+      "genre": "Indie, Pop, Folk, Rock",
+      "region": "Bremen",
+      "ort": "Bremen-Neustadt",
+      "monat": "Juli – August",
+      "besucher_angabe": "12.000 (2016)"
+    },
+    {
+      "name": "Summertime Festival",
+      "genre": "Indie, Rock, Pop, Elektro",
+      "region": "Niedersachsen",
+      "ort": "Wolfenbüttel",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Sun Flower Festival",
+      "genre": "Ska, Rock, Reggae, Blues, Kleinkunst, Theater und Lesungen, Hard Rock, Punk, Reggae, Dancehall, Dub, Goa-Trance",
+      "region": "Sachsen",
+      "ort": "Freiberg",
+      "monat": "",
+      "besucher_angabe": "3.000"
+    },
+    {
+      "name": "Sunset Beach Festival",
+      "genre": "Elektro, Techno",
+      "region": "",
+      "ort": "Haltern am See",
+      "monat": "Juni",
+      "besucher_angabe": "12.000 (2023)"
+    },
+    {
+      "name": "Swinging Hamburg",
+      "genre": "Jazz",
+      "region": "Hamburg",
+      "ort": "Hamburg",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Swordbrothers Festival",
+      "genre": "Rock",
+      "region": "Rheinland-Pfalz",
+      "ort": "Andernach",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Sydslesvig Rocks",
+      "genre": "Rock",
+      "region": "Schleswig-Holstein",
+      "ort": "Schleswig",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Syndicate Festival",
+      "genre": "Hardcore Techno, Hardtechno, Hardstyle",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Dortmund",
+      "monat": "Oktober",
+      "besucher_angabe": "20.000"
+    },
+    {
+      "name": "Tank mit Frank",
+      "genre": "Metal, Death Metal, Trash, Rock, Hard Rock, Punk-Rock",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Münster",
+      "monat": "Juli",
+      "besucher_angabe": "1000"
+    },
+    {
+      "name": "Taubertal-Festival",
+      "genre": "Rock",
+      "region": "Bayern",
+      "ort": "Rothenburg ob der Tauber",
+      "monat": "",
+      "besucher_angabe": "15.000 (2024)"
+    },
+    {
+      "name": "Tells Bells Festival",
+      "genre": "Rock",
+      "region": "Hessen",
+      "ort": "Villmar",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Tempel-Folkfestival",
+      "genre": "Folk",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Duisburg-Rheinhausen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Temple of Metal Open Air Festival",
+      "genre": "Metal, Hardcore Punk",
+      "region": "Bayern",
+      "ort": "Obergünzburg im Allgäu",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Thalmässinger Music Adventure",
+      "genre": "Rock, Pop",
+      "region": "Bayern",
+      "ort": "Thalmässing",
+      "monat": "Oktober",
+      "besucher_angabe": "3.500 (2014)"
+    },
+    {
+      "name": "The Great Wide Open",
+      "genre": "",
+      "region": "Bayern",
+      "ort": "Mühldorf am Inn",
+      "monat": "",
+      "besucher_angabe": "11.000"
+    },
+    {
+      "name": "Theatron MusikSommer",
+      "genre": "Rock, Pop, Jazz, Klassik, Folk, Ethno, Hip-Hop, Punk",
+      "region": "Bayern",
+      "ort": "München",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Theatron PfingstFestival",
+      "genre": "Indie, Rock",
+      "region": "Bayern",
+      "ort": "München",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Three Cool Cats Festival",
+      "genre": "Psychedelic, Lo-Fi, Synthpunk, Blues, Garage, Future Punk, Indie, Blues-Rock, Art",
+      "region": "Bayern",
+      "ort": "Nürnberg & Umgebung",
+      "monat": "August/September",
+      "besucher_angabe": "400–600"
+    },
+    {
+      "name": "Th!nk?",
+      "genre": "Techno, House",
+      "region": "Sachsen",
+      "ort": "Cospudener See",
+      "monat": "",
+      "besucher_angabe": "5.000 (2012)"
+    },
+    {
+      "name": "Time Warp Festival",
+      "genre": "Techno",
+      "region": "Baden-Württemberg",
+      "ort": "Mannheim",
+      "monat": "",
+      "besucher_angabe": "10.000"
+    },
+    {
+      "name": "Tollwood-Festival",
+      "genre": "Rock, Pop, Theater",
+      "region": "Bayern",
+      "ort": "München",
+      "monat": "Juni/Juli – Sommer-Tollwood November / Dezember – Winter-Tollwood",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "TONarten Sasbachwalden",
+      "genre": "Klassik",
+      "region": "Baden-Württemberg",
+      "ort": "Sasbachwalden",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Traffic Jam Open Air",
+      "genre": "Rock, Ska, Punk, Metal, Hardcore Punk",
+      "region": "Hessen",
+      "ort": "Dieburg",
+      "monat": "",
+      "besucher_angabe": "6.000"
+    },
+    {
+      "name": "Trebur Open Air",
+      "genre": "Rock",
+      "region": "Hessen",
+      "ort": "Trebur",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Tübinger Jazz- und Klassiktage",
+      "genre": "Jazz, Klassik",
+      "region": "Baden-Württemberg",
+      "ort": "Tübingen",
+      "monat": "Oktober",
+      "besucher_angabe": "8.000 (2018)"
+    },
+    {
+      "name": "Tunes of Death",
+      "genre": "Rock",
+      "region": "Mecklenburg-Vorpommern",
+      "ort": "Krugsdorf",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Tunix",
+      "genre": "Rock",
+      "region": "Bayern",
+      "ort": "München",
+      "monat": "",
+      "besucher_angabe": "10.000"
+    },
+    {
+      "name": "Uhuru Night",
+      "genre": "Rock",
+      "region": "Baden-Württemberg",
+      "ort": "Tübingen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Ultraschall",
+      "genre": "Neue Musik",
+      "region": "Berlin",
+      "ort": "Berlin",
+      "monat": "Januar",
+      "besucher_angabe": "5.000 (2017)"
+    },
+    {
+      "name": "Umsonst & Draußen (Bad Kissingen)",
+      "genre": "",
+      "region": "Bayern",
+      "ort": "Bad Kissingen",
+      "monat": "",
+      "besucher_angabe": "10.000"
+    },
+    {
+      "name": "Umsonst & Draussen in Heubach",
+      "genre": "Rock, Blues",
+      "region": "Baden-Württemberg",
+      "ort": "Heubach",
+      "monat": "",
+      "besucher_angabe": "5.000"
+    },
+    {
+      "name": "Umsonst & Draussen in Lindau",
+      "genre": "Alternative, Rock, Punk, Reggae",
+      "region": "Bayern",
+      "ort": "Lindau (Bodensee)",
+      "monat": "",
+      "besucher_angabe": "7.000"
+    },
+    {
+      "name": "Umsonst & Draußen Mössingen",
+      "genre": "Rock, Alternative, Indie, Pop, Hip-Hop Elektro",
+      "region": "Baden-Württemberg",
+      "ort": "Mössingen",
+      "monat": "Juli / August",
+      "besucher_angabe": "6.800 (2019)"
+    },
+    {
+      "name": "Umsonst & Draußen Stuttgart",
+      "genre": "Rock, Punk, Pop, Jazz, Ska, Elektro",
+      "region": "Baden-Württemberg",
+      "ort": "Stuttgart",
+      "monat": "August",
+      "besucher_angabe": "5.000–8000"
+    },
+    {
+      "name": "Umsonst & draußen in Würzburg",
+      "genre": "",
+      "region": "Bayern",
+      "ort": "Würzburg",
+      "monat": "",
+      "besucher_angabe": "75.000"
+    },
+    {
+      "name": "Under The Black Sun",
+      "genre": "Metal, Black Metal",
+      "region": "Brandenburg",
+      "ort": "wechselnd in der Nähe von Berlin",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Unter der Brücke",
+      "genre": "Rock",
+      "region": "Schleswig-Holstein",
+      "ort": "Schwarzenbek",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Up from the Ground",
+      "genre": "Metal",
+      "region": "Bayern",
+      "ort": "Gemünden am Main",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Upgrade Festival",
+      "genre": "Rock",
+      "region": "Sachsen-Anhalt",
+      "ort": "Magdeburg",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Utopia Island",
+      "genre": "Elektronische Musik",
+      "region": "Bayern",
+      "ort": "Moosburg an der Isar",
+      "monat": "August",
+      "besucher_angabe": "8.000"
+    },
+    {
+      "name": "UZ-Pressefest",
+      "genre": "Politischer Rock, Folk Rock, Ska, Punk, Lateinamerikanisch, Kleinkunst",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Dortmund",
+      "monat": "",
+      "besucher_angabe": "50.000"
+    },
+    {
+      "name": "Vainstream Rockfest",
+      "genre": "Metal, Punk, Hardcore-Punk",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Münster",
+      "monat": "",
+      "besucher_angabe": "16.000"
+    },
+    {
+      "name": "Veldensteiner Festival",
+      "genre": "Rock, Schwarze Szene",
+      "region": "Bayern",
+      "ort": "Neuhaus an der Pegnitz",
+      "monat": "",
+      "besucher_angabe": "2.000"
+    },
+    {
+      "name": "Verschwende Deine Jugend",
+      "genre": "Rock",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Erftstadt",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Videodays",
+      "genre": "Jugend, Influencer",
+      "region": "Nordrhein-Westfalen und Berlin",
+      "ort": "Köln und Berlin",
+      "monat": "",
+      "besucher_angabe": "15.000"
+    },
+    {
+      "name": "Viva AFROBRASIL",
+      "genre": "Samba, Percussion",
+      "region": "Baden-Württemberg",
+      "ort": "Tübingen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Vokal Total",
+      "genre": "A cappella",
+      "region": "Bayern",
+      "ort": "München",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "VS Musik Contest",
+      "genre": "Rock",
+      "region": "Baden-Württemberg",
+      "ort": "Villingen-Schwenningen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "VS swingt",
+      "genre": "Jazz",
+      "region": "Baden-Württemberg",
+      "ort": "Villingen-Schwenningen",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "VuuV Festival",
+      "genre": "Psytrance",
+      "region": "Brandenburg",
+      "ort": "Putlitz",
+      "monat": "",
+      "besucher_angabe": "20.000"
+    },
+    {
+      "name": "Wacken Open Air",
+      "genre": "Metal",
+      "region": "Schleswig-Holstein",
+      "ort": "Wacken",
+      "monat": "",
+      "besucher_angabe": "75.000"
+    },
+    {
+      "name": "Wake Up PI",
+      "genre": "Rock",
+      "region": "Schleswig-Holstein",
+      "ort": "Pinneberg",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Waldbrand Open Air",
+      "genre": "Rock",
+      "region": "Niedersachsen",
+      "ort": "Helmstedt",
+      "monat": "",
+      "besucher_angabe": "1.000"
+    },
+    {
+      "name": "Waldfrieden Wonderland",
+      "genre": "Psychedelic Trance, Goa",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Wehdem",
+      "monat": "",
+      "besucher_angabe": "5.000"
+    },
+    {
+      "name": "Waldpark Open Air",
+      "genre": "Metal, Hardcore Punk",
+      "region": "Rheinland-Pfalz",
+      "ort": "Mutterstadt",
+      "monat": "",
+      "besucher_angabe": "400"
+    },
+    {
+      "name": "Waldstock",
+      "genre": "Rock, Indie, Folk",
+      "region": "Bayern",
+      "ort": "Pegnitz",
+      "monat": "Juli",
+      "besucher_angabe": "8000"
+    },
+    {
+      "name": "Walkenrieder Kreuzgangkonzerte",
+      "genre": "Klassik, Gospel, Folk, Swing, Jazz, A cappella, Pop, Literaturlesungen, OpenAir Kino",
+      "region": "Niedersachsen",
+      "ort": "Walkenried",
+      "monat": "Mai bis Dezember",
+      "besucher_angabe": "5.000"
+    },
+    {
+      "name": "Walpurgis Metal Days",
+      "genre": "Metal",
+      "region": "Bayern",
+      "ort": "Hauzenberg",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Wasser mit Geschmack Festival",
+      "genre": "House, Tech-House, Techno",
+      "region": "Baden-Württemberg",
+      "ort": "Heubach",
+      "monat": "letztes August-Wochenende",
+      "besucher_angabe": "3.000"
+    },
+    {
+      "name": "WaterQuake-Festival",
+      "genre": "Ska, Punk, Alternative",
+      "region": "Niedersachsen",
+      "ort": "Brake",
+      "monat": "",
+      "besucher_angabe": "700"
+    },
+    {
+      "name": "Wave-Gotik-Treffen",
+      "genre": "Schwarze Szene",
+      "region": "Sachsen",
+      "ort": "Leipzig",
+      "monat": "",
+      "besucher_angabe": "20.000 (2009)"
+    },
+    {
+      "name": "Way of Darkness",
+      "genre": "Metal",
+      "region": "Bayern",
+      "ort": "Lichtenfels",
+      "monat": "",
+      "besucher_angabe": "3.000"
+    },
+    {
+      "name": "Weder Noch Festival",
+      "genre": "Punk, Elektro",
+      "region": "Thüringen",
+      "ort": "Saalfeld/Saale",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Weltmusikfestival Murnau grenzenlos",
+      "genre": "Jazz, Klassik, Folklore, Avantgarde",
+      "region": "",
+      "ort": "Murnau",
+      "monat": "",
+      "besucher_angabe": "2.500"
+    },
+    {
+      "name": "Weser Metal Meeting",
+      "genre": "Metal",
+      "region": "Hessen",
+      "ort": "Reinhardshagen",
+      "monat": "Ende April",
+      "besucher_angabe": "400"
+    },
+    {
+      "name": "Wetzlarer Festspiele",
+      "genre": "Klassik",
+      "region": "Hessen",
+      "ort": "Wetzlar",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Winter Breath",
+      "genre": "Rock",
+      "region": "Bayern",
+      "ort": "Landkreis Bamberg",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Winterbach Zeltspektakel",
+      "genre": "Rock",
+      "region": "Baden-Württemberg",
+      "ort": "Winterbach (Remstal)",
+      "monat": "",
+      "besucher_angabe": "25.000 (2019)"
+    },
+    {
+      "name": "WinterWorld",
+      "genre": "elektronische Musik",
+      "region": "Baden-Württemberg",
+      "ort": "Pydna, Bingen am Rhein, Koblenz, Wiesbaden, Frankfurt am Main, Karlsruhe",
+      "monat": "Januar",
+      "besucher_angabe": "16.000 (2015)"
+    },
+    {
+      "name": "Wireless Festival",
+      "genre": "Hip-Hop, Pop, Urban",
+      "region": "Hessen",
+      "ort": "Frankfurt am Main",
+      "monat": "Juli",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Wolfszeit",
+      "genre": "Metal",
+      "region": "Thüringen",
+      "ort": "Crispendorf",
+      "monat": "",
+      "besucher_angabe": "1.500"
+    },
+    {
+      "name": "Wonderlands House Music Festival",
+      "genre": "House",
+      "region": "Baden-Württemberg",
+      "ort": "Mengen",
+      "monat": "",
+      "besucher_angabe": "3.000"
+    },
+    {
+      "name": "Woodstage Summer Open Air",
+      "genre": "Rock",
+      "region": "Sachsen",
+      "ort": "Glauchau",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "World Music Festival",
+      "genre": "Weltmusik, Reggae, div.",
+      "region": "Hessen",
+      "ort": "Loshausen",
+      "monat": "",
+      "besucher_angabe": "2.000"
+    },
+    {
+      "name": "Wudzdog Open Air",
+      "genre": "Rock, Punk, Ska, Reggae, Trance",
+      "region": "",
+      "ort": "Auhausen",
+      "monat": "Mai/Juni",
+      "besucher_angabe": "3500"
+    },
+    {
+      "name": "Wutzrock",
+      "genre": "Rock",
+      "region": "Hamburg",
+      "ort": "Hamburg",
+      "monat": "",
+      "besucher_angabe": "15.000"
+    },
+    {
+      "name": "Xantener Sommerfestspiele",
+      "genre": "Klassik",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Xanten",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "XXX Waldtraum Festival",
+      "genre": "Elektro, Hip-Hop",
+      "region": "Baden-Württemberg",
+      "ort": "Furtwangen im Schwarzwald",
+      "monat": "",
+      "besucher_angabe": "1.000"
+    },
+    {
+      "name": "Yeah Yeah Festival",
+      "genre": "Indie, Rock, Alternativ",
+      "region": "Rheinland-Pfalz",
+      "ort": "Hinzweiler",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Yellow Jockey",
+      "genre": "Pop, Rock, Country, Jazz",
+      "region": "Niedersachsen",
+      "ort": "Bad Harzburg",
+      "monat": "August",
+      "besucher_angabe": "15.000 bis 20.000"
+    },
+    {
+      "name": "young.euro.classics",
+      "genre": "Klassik",
+      "region": "Berlin",
+      "ort": "Berlin",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Zappanale",
+      "genre": "Rock",
+      "region": "Mecklenburg-Vorpommern",
+      "ort": "Bad Doberan",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "zeitfenster – Biennale Alter Musik",
+      "genre": "Klassik",
+      "region": "Berlin",
+      "ort": "Berlin",
+      "monat": "",
+      "besucher_angabe": ""
+    },
+    {
+      "name": "Zita Rock Festival",
+      "genre": "Rock",
+      "region": "Berlin",
+      "ort": "Berlin",
+      "monat": "",
+      "besucher_angabe": "7.000"
+    },
+    {
+      "name": "Zons rockt",
+      "genre": "Rock, Pop, Indie, Blues, Metal",
+      "region": "Nordrhein-Westfalen",
+      "ort": "Dormagen",
+      "monat": "August – September",
+      "besucher_angabe": "1.000"
+    }
+  ],
+  "meta": {
+    "title": "Musikfestivals in Deutschland - Free Download",
+    "description": "Musikfestivals in Deutschland mit Genre, Bundesland/Region, Ort, Veranstaltungsmonat und Besucherangabe (wie in der Quelle angegeben, teils mit Bezugsjahr). Contains 463 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Musikfestivals in Deutschland | ListBase",
+    "seo_description": "Download Musikfestivals in Deutschland — 463 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 463 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_von_Musikfestivals"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-26T02:08:28.018Z",
-  "total_datasets": 592,
-  "total_records": 1884500,
+  "generated": "2026-11-26T02:08:37.834Z",
+  "total_datasets": 593,
+  "total_records": 1884963,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "politics",
@@ -6854,6 +6854,33 @@
         "xlsx": {
           "name": "de-meistverkaufte-singles_DE.xlsx",
           "size": 23900
+        }
+      }
+    },
+    {
+      "id": "de-musikfestivals-deutschland",
+      "name": "Musikfestivals in Deutschland",
+      "category": "music",
+      "record_count": 463,
+      "columns": [
+        "name",
+        "genre",
+        "region",
+        "ort",
+        "monat",
+        "besucher_angabe"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_von_Musikfestivals",
+      "updated": "2026-11",
+      "size": 95007,
+      "files": {
+        "csv": {
+          "name": "de-musikfestivals-deutschland_DE.csv",
+          "size": 39575
+        },
+        "xlsx": {
+          "name": "de-musikfestivals-deutschland_DE.xlsx",
+          "size": 30088
         }
       }
     },
