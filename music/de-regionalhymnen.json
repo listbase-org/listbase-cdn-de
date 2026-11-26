@@ -1,0 +1,926 @@
+{
+  "id": "de-regionalhymnen",
+  "name": "Regionalhymnen im deutschen Sprachraum",
+  "title": "Regionalhymnen im deutschen Sprachraum",
+  "description": "Landes-, Kantons-, Regional- und Stadthymnen in Deutschland, Österreich, der Schweiz und Südtirol mit Status (offiziell/inoffiziell, soweit angegeben).",
+  "category": "music",
+  "source": "https://de.wikipedia.org/wiki/Regionalhymne",
+  "source_url": "https://de.wikipedia.org/wiki/Regionalhymne",
+  "updated": "2026-11",
+  "record_count": 125,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "ebene",
+      "label": "Ebene",
+      "type": "string"
+    },
+    {
+      "key": "staat",
+      "label": "Staat",
+      "type": "string"
+    },
+    {
+      "key": "hymne",
+      "label": "Hymne",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "region": "Baden-Württemberg",
+      "ebene": "Bundesland",
+      "staat": "Deutschland",
+      "hymne": "Lied der Baden-Württemberger (Land der Hügel, Land der Wälder und des Weines)",
+      "status": "inoffiziell"
+    },
+    {
+      "region": "Bayern",
+      "ebene": "Bundesland",
+      "staat": "Deutschland",
+      "hymne": "Bayernhymne",
+      "status": "offiziell"
+    },
+    {
+      "region": "Berlin",
+      "ebene": "Bundesland",
+      "staat": "Deutschland",
+      "hymne": "Berliner Luft",
+      "status": "inoffiziell"
+    },
+    {
+      "region": "Brandenburg",
+      "ebene": "Bundesland",
+      "staat": "Deutschland",
+      "hymne": "Märkische Heide, märkischer Sand",
+      "status": "inoffiziell"
+    },
+    {
+      "region": "Bremen",
+      "ebene": "Bundesland",
+      "staat": "Deutschland",
+      "hymne": "Der Bremer Schlüssel",
+      "status": "inoffiziell"
+    },
+    {
+      "region": "Hamburg",
+      "ebene": "Bundesland",
+      "staat": "Deutschland",
+      "hymne": "Hamburg-Hymne (Stadt Hamburg an der Elbe Auen)",
+      "status": "inoffiziell"
+    },
+    {
+      "region": "Hessen",
+      "ebene": "Bundesland",
+      "staat": "Deutschland",
+      "hymne": "Hessenlied",
+      "status": "offiziell"
+    },
+    {
+      "region": "Mecklenburg-Vorpommern",
+      "ebene": "Bundesland",
+      "staat": "Deutschland",
+      "hymne": "Mein Mecklenburg-Vorpommern (Du bist meine Heimat, der Platz, wo ich leb)",
+      "status": "inoffiziell"
+    },
+    {
+      "region": "Niedersachsen",
+      "ebene": "Bundesland",
+      "staat": "Deutschland",
+      "hymne": "Niedersachsenlied",
+      "status": "inoffiziell"
+    },
+    {
+      "region": "Nordrhein-Westfalen",
+      "ebene": "Bundesland",
+      "staat": "Deutschland",
+      "hymne": "Lied für NRW (Hier an Rhein und Ruhr und in Westfalen)",
+      "status": "inoffiziell"
+    },
+    {
+      "region": "Rheinland-Pfalz",
+      "ebene": "Bundesland",
+      "staat": "Deutschland",
+      "hymne": "–",
+      "status": "–"
+    },
+    {
+      "region": "Saarland",
+      "ebene": "Bundesland",
+      "staat": "Deutschland",
+      "hymne": "Saarlandlied",
+      "status": "offiziell, bis 1957 Nationalhymne"
+    },
+    {
+      "region": "Sachsen",
+      "ebene": "Bundesland",
+      "staat": "Deutschland",
+      "hymne": "Sachsenlied",
+      "status": "inoffiziell"
+    },
+    {
+      "region": "Sachsen-Anhalt",
+      "ebene": "Bundesland",
+      "staat": "Deutschland",
+      "hymne": "Lied für Sachsen-Anhalt",
+      "status": "inoffiziell"
+    },
+    {
+      "region": "Schleswig-Holstein",
+      "ebene": "Bundesland",
+      "staat": "Deutschland",
+      "hymne": "Schleswig-Holstein meerumschlungen (Wanke nicht, mein Vaterland)",
+      "status": "inoffiziell"
+    },
+    {
+      "region": "Thüringen",
+      "ebene": "Bundesland",
+      "staat": "Deutschland",
+      "hymne": "Thüringen, holdes Land oder das Rennsteiglied",
+      "status": "beide inoffiziell"
+    },
+    {
+      "region": "Aachen",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Urbs Aquensis (Aachen, Kaiserstadt, Du hehre)",
+      "status": ""
+    },
+    {
+      "region": "Allgäu",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Oh Allgäu mein, wie schön bist du",
+      "status": ""
+    },
+    {
+      "region": "Baden",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Badnerlied",
+      "status": ""
+    },
+    {
+      "region": "Bergisches Land",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Bergisches Heimatlied (Wo die Wälder noch rauschen)",
+      "status": ""
+    },
+    {
+      "region": "Biberach an der Riß",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Biberacher Schützenfest lied (Rund um mich her ist alles Freude)",
+      "status": ""
+    },
+    {
+      "region": "Bochum",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Bochum auf dem Album 4630 Bochum (von Herbert Grönemeyer)",
+      "status": ""
+    },
+    {
+      "region": "Eichsfeld",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Eichsfeldlied",
+      "status": ""
+    },
+    {
+      "region": "Erzgebirge",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Weil mr Arzgebirger sei! (Deitsch on frei wolln mr sei!) (von Anton Günther)",
+      "status": ""
+    },
+    {
+      "region": "Franken",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Frankenlied",
+      "status": ""
+    },
+    {
+      "region": "Hohenzollern",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Hohenzollernlied",
+      "status": ""
+    },
+    {
+      "region": "Hirschfeld (Brandenburg)",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Dort wo vom Berg das Wasser rinnt (von Karl Regensburger)",
+      "status": ""
+    },
+    {
+      "region": "Holstein",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Holsteinerlied",
+      "status": ""
+    },
+    {
+      "region": "Jessen (Elster)",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Am Fuße sanfter Berge liegt (von Hosch)",
+      "status": ""
+    },
+    {
+      "region": "Kiel",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Du mein Kiel (Du mein Kiel am Ostseestrande) Kiel, du Stadt in Deutschlands Norden",
+      "status": ""
+    },
+    {
+      "region": "Koblenz",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Schängellied",
+      "status": ""
+    },
+    {
+      "region": "Köln",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Heimweh nach Köln",
+      "status": ""
+    },
+    {
+      "region": "Kurpfalz",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Der Jäger aus Kurpfalz",
+      "status": ""
+    },
+    {
+      "region": "Kusel",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Kusellied (von Fritz Wunderlich)",
+      "status": ""
+    },
+    {
+      "region": "Lippe-Detmold",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Lippe-Detmold, eine wunderschöne Stadt",
+      "status": ""
+    },
+    {
+      "region": "Lübeck",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Lübeckisches Nationallied (von Emanuel Geibel)",
+      "status": ""
+    },
+    {
+      "region": "Lüneburger Heide",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Auf der Lüneburger Heide",
+      "status": ""
+    },
+    {
+      "region": "Magdeburg",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Magdeburger Lied",
+      "status": ""
+    },
+    {
+      "region": "Mecklenburg",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Mecklenburglied",
+      "status": ""
+    },
+    {
+      "region": "Mecklenburg-Strelitz",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Vandalia",
+      "status": ""
+    },
+    {
+      "region": "Memmingen",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Rings im Kranze (von E.W. Hermann), Schmotz, Schmotz, Dreck auf Dreck",
+      "status": ""
+    },
+    {
+      "region": "Mosel",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Mosellied (Im weiten deutschen Lande)",
+      "status": ""
+    },
+    {
+      "region": "München",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Solang der alte Peter",
+      "status": ""
+    },
+    {
+      "region": "Münster",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Münsterlied (Liebe Stadt im Lindenkranze)",
+      "status": ""
+    },
+    {
+      "region": "Neuss",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Neusser Heimatlied",
+      "status": ""
+    },
+    {
+      "region": "Niederbayern",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Niederbayern-Hymne",
+      "status": ""
+    },
+    {
+      "region": "Nordfriesland",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Gölj – Rüüdj – Ween (Text in vier Sprachen)",
+      "status": ""
+    },
+    {
+      "region": "Oberhausen",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Oberhausen (von den Missfits)",
+      "status": ""
+    },
+    {
+      "region": "Odenwald",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Die Ourewälder",
+      "status": ""
+    },
+    {
+      "region": "Oldenburg",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Heil dir, o Oldenburg!",
+      "status": ""
+    },
+    {
+      "region": "Ostfriesland",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "In Oostfreesland is’t am besten",
+      "status": ""
+    },
+    {
+      "region": "Ostwestfalen-Lippe",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Weser(bogen)lied",
+      "status": ""
+    },
+    {
+      "region": "Paderborn",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Das Paderborn-Lied (Paderborn, Paderborn – meine Stadt, ich liebe dich)",
+      "status": ""
+    },
+    {
+      "region": "Passau",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Mein Passau",
+      "status": ""
+    },
+    {
+      "region": "Pfalz",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Pfälzer Lied Palzlied",
+      "status": ""
+    },
+    {
+      "region": "Prignitz",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Prignitzlied (von Hermann Graebke)",
+      "status": ""
+    },
+    {
+      "region": "Ravensburg",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Mein Ravensburg im Schwabenland (von Wilhelm Mayer, 1924)",
+      "status": ""
+    },
+    {
+      "region": "Rhön",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Rhönlied (Ich weiß basaltene Bergeshöhn)",
+      "status": ""
+    },
+    {
+      "region": "Ruhrgebiet",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Steigerlied (Glück auf, Glück auf, der Steiger kommt)",
+      "status": ""
+    },
+    {
+      "region": "Sauerland",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Sauerlandlied",
+      "status": ""
+    },
+    {
+      "region": "Schaumburg",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Dem Land Schaumburg die Treue",
+      "status": ""
+    },
+    {
+      "region": "Schwarzbach (Lausitz)",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Von des Waldes grünen Saum bis zur Elsterwelle Schaum (von P. Borrmann)",
+      "status": ""
+    },
+    {
+      "region": "Siebengebirge",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Da wo die sieben Berge",
+      "status": ""
+    },
+    {
+      "region": "Solingen",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Solingen (Das Lied von meiner Heimatstadt)",
+      "status": ""
+    },
+    {
+      "region": "Spaichingen",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Spaichinger Narrenmarsch (Wenn in Spaichingen die Zeit der frohen Fasnet ist)",
+      "status": ""
+    },
+    {
+      "region": "Lausitz",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Rjana Łužica",
+      "status": ""
+    },
+    {
+      "region": "Ibbenbüren / Tecklenburger Land",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Steigerlied (Glück auf, Glück auf, der Steiger kommt)",
+      "status": ""
+    },
+    {
+      "region": "Trossingen",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Trossinger Heimatlied (Es tragen die Winde ein Lied in die Welt)",
+      "status": ""
+    },
+    {
+      "region": "Twistringen",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Das Twistringer Lied",
+      "status": ""
+    },
+    {
+      "region": "Vogtland",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Vogtland meine Heimat",
+      "status": ""
+    },
+    {
+      "region": "Vorpommern",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Pommernlied (Wenn in stiller Stunde …)",
+      "status": ""
+    },
+    {
+      "region": "Waldeck",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Mein Waldeck",
+      "status": ""
+    },
+    {
+      "region": "Warstein",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Warsteiner Heimatlied (von Karl Stoer, 1928), Die Alte Bank (von Carl Beutin, 1957)",
+      "status": ""
+    },
+    {
+      "region": "Westfalen",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Westfalenlied",
+      "status": ""
+    },
+    {
+      "region": "Westerwald",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Westerwaldlied",
+      "status": ""
+    },
+    {
+      "region": "Wildeshausen",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Wildeshauser Lied",
+      "status": ""
+    },
+    {
+      "region": "Wismar",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Wismarlied (Perle an der Ostsee)",
+      "status": ""
+    },
+    {
+      "region": "Württemberg",
+      "ebene": "Region",
+      "staat": "Deutschland",
+      "hymne": "Lied der Württemberger",
+      "status": ""
+    },
+    {
+      "region": "Elsass-Lothringen",
+      "ebene": "Region",
+      "staat": "ehemalige deutsche Gebiete",
+      "hymne": "Elsässisches Fahnenlied",
+      "status": ""
+    },
+    {
+      "region": "Danzig",
+      "ebene": "Region",
+      "staat": "ehemalige deutsche Gebiete",
+      "hymne": "Für Danzig",
+      "status": ""
+    },
+    {
+      "region": "Masuren",
+      "ebene": "Region",
+      "staat": "ehemalige deutsche Gebiete",
+      "hymne": "Masurenlied",
+      "status": ""
+    },
+    {
+      "region": "Namibia",
+      "ebene": "Region",
+      "staat": "ehemalige deutsche Gebiete",
+      "hymne": "Südwesterlied",
+      "status": ""
+    },
+    {
+      "region": "Ostpreußen",
+      "ebene": "Region",
+      "staat": "ehemalige deutsche Gebiete",
+      "hymne": "Sie sagen all, du bist nicht schön / Ostpreußenlied",
+      "status": ""
+    },
+    {
+      "region": "Pommern",
+      "ebene": "Region",
+      "staat": "ehemalige deutsche Gebiete",
+      "hymne": "Pommernlied (Wenn in stiller Stunde …)",
+      "status": ""
+    },
+    {
+      "region": "Preußen",
+      "ebene": "Region",
+      "staat": "ehemalige deutsche Gebiete",
+      "hymne": "Preußenlied",
+      "status": ""
+    },
+    {
+      "region": "Riesengebirge",
+      "ebene": "Region",
+      "staat": "ehemalige deutsche Gebiete",
+      "hymne": "Riesengebirgslied (Blaue Berge, grüne Täler)",
+      "status": ""
+    },
+    {
+      "region": "Schlesien",
+      "ebene": "Region",
+      "staat": "ehemalige deutsche Gebiete",
+      "hymne": "Kehr ich einst zur Heimat wieder (Schlesierlied)",
+      "status": ""
+    },
+    {
+      "region": "Westpreußen",
+      "ebene": "Region",
+      "staat": "ehemalige deutsche Gebiete",
+      "hymne": "Westpreußenlied",
+      "status": ""
+    },
+    {
+      "region": "Burgenland",
+      "ebene": "Bundesland",
+      "staat": "Österreich",
+      "hymne": "Mein Heimatvolk, mein Heimatland",
+      "status": "offiziell"
+    },
+    {
+      "region": "Kärnten",
+      "ebene": "Bundesland",
+      "staat": "Österreich",
+      "hymne": "Kärntner Heimatlied (Dort, wo Tirol an Salzburg grenzt)",
+      "status": "offiziell"
+    },
+    {
+      "region": "Niederösterreich",
+      "ebene": "Bundesland",
+      "staat": "Österreich",
+      "hymne": "Niederösterreichische Landeshymne",
+      "status": "offiziell"
+    },
+    {
+      "region": "Oberösterreich",
+      "ebene": "Bundesland",
+      "staat": "Österreich",
+      "hymne": "Hoamatgsang",
+      "status": "offiziell"
+    },
+    {
+      "region": "Salzburg",
+      "ebene": "Bundesland",
+      "staat": "Österreich",
+      "hymne": "Salzburger Landeshymne",
+      "status": "offiziell"
+    },
+    {
+      "region": "Steiermark",
+      "ebene": "Bundesland",
+      "staat": "Österreich",
+      "hymne": "Dachsteinlied (Hoch vom Dachstein an)",
+      "status": "offiziell"
+    },
+    {
+      "region": "Tirol",
+      "ebene": "Bundesland",
+      "staat": "Österreich",
+      "hymne": "Andreas-Hofer-Lied (Zu Mantua in Banden)",
+      "status": "offiziell"
+    },
+    {
+      "region": "Vorarlberg",
+      "ebene": "Bundesland",
+      "staat": "Österreich",
+      "hymne": "’s Ländle, meine Heimat",
+      "status": "offiziell"
+    },
+    {
+      "region": "Wien",
+      "ebene": "Bundesland",
+      "staat": "Österreich",
+      "hymne": "Donauwalzer, Radetzkymarsch",
+      "status": "inoffiziell"
+    },
+    {
+      "region": "Bern",
+      "ebene": "Kanton",
+      "staat": "Schweiz",
+      "hymne": "Berner Marsch (Träm, träm, trädiridi!)",
+      "status": ""
+    },
+    {
+      "region": "Uri",
+      "ebene": "Kanton",
+      "staat": "Schweiz",
+      "hymne": "Zoge am Boge de Landamme tanzed",
+      "status": ""
+    },
+    {
+      "region": "Obwalden",
+      "ebene": "Kanton",
+      "staat": "Schweiz",
+      "hymne": "Oh mis liebs Obwaldnerländli (von R. Küchler-Ming)",
+      "status": ""
+    },
+    {
+      "region": "Nidwalden",
+      "ebene": "Kanton",
+      "staat": "Schweiz",
+      "hymne": "Zwische See und heeche Bäärge",
+      "status": ""
+    },
+    {
+      "region": "Basel-Stadt",
+      "ebene": "Kanton",
+      "staat": "Schweiz",
+      "hymne": "Baslerlied (Z’ Basel a mym Rhy)",
+      "status": ""
+    },
+    {
+      "region": "Basel-Landschaft",
+      "ebene": "Kanton",
+      "staat": "Schweiz",
+      "hymne": "Baselbieterlied (Vo Schönebuech bis Ammel)",
+      "status": ""
+    },
+    {
+      "region": "Schaffhausen",
+      "ebene": "Kanton",
+      "staat": "Schweiz",
+      "hymne": "Das Munotglöcklein (Auf des Munots altem Turme)",
+      "status": ""
+    },
+    {
+      "region": "Appenzell Ausserrhoden",
+      "ebene": "Kanton",
+      "staat": "Schweiz",
+      "hymne": "Landsgemeindelied (Ode an Gott)",
+      "status": ""
+    },
+    {
+      "region": "St. Gallen",
+      "ebene": "Kanton",
+      "staat": "Schweiz",
+      "hymne": "Sant Galle isch mis Heimatland",
+      "status": ""
+    },
+    {
+      "region": "Thurgau",
+      "ebene": "Kanton",
+      "staat": "Schweiz",
+      "hymne": "Thurgauerlied (O Thurgau, du Heimat)",
+      "status": ""
+    },
+    {
+      "region": "Tessin",
+      "ebene": "Kanton",
+      "staat": "Schweiz",
+      "hymne": "Ticinesi son bravi soldati",
+      "status": ""
+    },
+    {
+      "region": "Waadt",
+      "ebene": "Kanton",
+      "staat": "Schweiz",
+      "hymne": "Hymne vaudois (franz.: Que dans ces lieux règnent à jamais)",
+      "status": ""
+    },
+    {
+      "region": "Wallis",
+      "ebene": "Kanton",
+      "staat": "Schweiz",
+      "hymne": "Walliser Hymne (franz.: Hymne valaisan)",
+      "status": ""
+    },
+    {
+      "region": "Neuenburg",
+      "ebene": "Kanton",
+      "staat": "Schweiz",
+      "hymne": "Hymne neuchâtelois (franz.: Nous sommes les enfants heureux)",
+      "status": ""
+    },
+    {
+      "region": "Genf",
+      "ebene": "Kanton",
+      "staat": "Schweiz",
+      "hymne": "Cé qu’è lainô (franz.: Celui qui est en haut)",
+      "status": ""
+    },
+    {
+      "region": "Jura",
+      "ebene": "Kanton",
+      "staat": "Schweiz",
+      "hymne": "La Nouvelle Rauracienne (franz.: Du lac de Bienne aux portes de la France)",
+      "status": ""
+    },
+    {
+      "region": "Oberaargau",
+      "ebene": "Region",
+      "staat": "Schweiz",
+      "hymne": "Oberaargauerlied (Uf dr Howacht bini gstange)",
+      "status": ""
+    },
+    {
+      "region": "Freiamt",
+      "ebene": "Region",
+      "staat": "Schweiz",
+      "hymne": "Mys Freiamt",
+      "status": ""
+    },
+    {
+      "region": "Sensebezirk",
+      "ebene": "Region",
+      "staat": "Schweiz",
+      "hymne": "Üsers Ländli",
+      "status": ""
+    },
+    {
+      "region": "Leimental",
+      "ebene": "Region",
+      "staat": "Schweiz",
+      "hymne": "Leimentaler Lied (Mi Leimetaal)",
+      "status": ""
+    },
+    {
+      "region": "Bern",
+      "ebene": "Stadt",
+      "staat": "Schweiz",
+      "hymne": "Berner Marsch (Träm, träm, trädiridi!)",
+      "status": ""
+    },
+    {
+      "region": "Solothurn",
+      "ebene": "Stadt",
+      "staat": "Schweiz",
+      "hymne": "Solothurnerlied (’s isch immer eso gsi)",
+      "status": ""
+    },
+    {
+      "region": "Zofingen",
+      "ebene": "Stadt",
+      "staat": "Schweiz",
+      "hymne": "Zofinger Marsch",
+      "status": ""
+    },
+    {
+      "region": "Rheinfelden",
+      "ebene": "Stadt",
+      "staat": "Schweiz",
+      "hymne": "Rheinfelder Lied",
+      "status": ""
+    },
+    {
+      "region": "Schaffhausen",
+      "ebene": "Stadt",
+      "staat": "Schweiz",
+      "hymne": "Blos e chlini Stadt",
+      "status": ""
+    },
+    {
+      "region": "Chur",
+      "ebene": "Stadt",
+      "staat": "Schweiz",
+      "hymne": "Churer Stadtlied",
+      "status": ""
+    },
+    {
+      "region": "Zürich",
+      "ebene": "Stadt",
+      "staat": "Schweiz",
+      "hymne": "Sechseläutenmarsch",
+      "status": ""
+    },
+    {
+      "region": "Südtirol",
+      "ebene": "Bundesland",
+      "staat": "Südtirol",
+      "hymne": "Südtiroler Heimatlied",
+      "status": "inoffiziell"
+    }
+  ],
+  "meta": {
+    "title": "Regionalhymnen im deutschen Sprachraum - Free Download",
+    "description": "Landes-, Kantons-, Regional- und Stadthymnen in Deutschland, Österreich, der Schweiz und Südtirol mit Status (offiziell/inoffiziell, soweit angegeben). Contains 125 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Regionalhymnen im deutschen Sprachraum | ListBase",
+    "seo_description": "Download Regionalhymnen im deutschen Sprachraum — 125 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 125 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Regionalhymne"
+    ]
+  }
+}

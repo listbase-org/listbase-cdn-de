@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-26T02:08:37.834Z",
-  "total_datasets": 593,
-  "total_records": 1884963,
+  "generated": "2026-11-26T02:08:46.314Z",
+  "total_datasets": 594,
+  "total_records": 1885088,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "politics",
@@ -7015,6 +7015,32 @@
         "xlsx": {
           "name": "de-opernfestspiele-dach_DE.xlsx",
           "size": 9030
+        }
+      }
+    },
+    {
+      "id": "de-regionalhymnen",
+      "name": "Regionalhymnen im deutschen Sprachraum",
+      "category": "music",
+      "record_count": 125,
+      "columns": [
+        "region",
+        "ebene",
+        "staat",
+        "hymne",
+        "status"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Regionalhymne",
+      "updated": "2026-11",
+      "size": 23292,
+      "files": {
+        "csv": {
+          "name": "de-regionalhymnen_DE.csv",
+          "size": 9904
+        },
+        "xlsx": {
+          "name": "de-regionalhymnen_DE.xlsx",
+          "size": 12441
         }
       }
     },
