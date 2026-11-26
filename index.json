@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-25T02:18:02.903Z",
-  "total_datasets": 591,
-  "total_records": 1884340,
+  "generated": "2026-11-26T02:08:28.018Z",
+  "total_datasets": 592,
+  "total_records": 1884500,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 19
+      "dataset_count": 20
     },
     {
       "id": "environment",
@@ -1773,6 +1773,31 @@
         "xlsx": {
           "name": "de-universitaeten_DE.xlsx",
           "size": 47087
+        }
+      }
+    },
+    {
+      "id": "de-freilichtbuehnen",
+      "name": "Freilichtbühnen in Deutschland",
+      "category": "entertainment",
+      "record_count": 160,
+      "columns": [
+        "buehne",
+        "ort",
+        "zuschauerkapazitaet",
+        "bemerkungen"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_von_Freilichtbühnen",
+      "updated": "2026-11",
+      "size": 39134,
+      "files": {
+        "csv": {
+          "name": "de-freilichtbuehnen_DE.csv",
+          "size": 22447
+        },
+        "xlsx": {
+          "name": "de-freilichtbuehnen_DE.xlsx",
+          "size": 18075
         }
       }
     },

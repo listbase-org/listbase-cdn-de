@@ -1,0 +1,1006 @@
+{
+  "id": "de-freilichtbuehnen",
+  "name": "Freilichtbühnen in Deutschland",
+  "title": "Freilichtbühnen in Deutschland",
+  "description": "Freilichtbühnen und Naturtheater in Deutschland mit Ort, Zuschauerkapazität und Kurzbeschreibung.",
+  "category": "entertainment",
+  "source": "https://de.wikipedia.org/wiki/Liste_von_Freilichtbühnen",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_von_Freilichtbühnen",
+  "updated": "2026-11",
+  "record_count": 160,
+  "columns": [
+    {
+      "key": "buehne",
+      "label": "Buehne",
+      "type": "string"
+    },
+    {
+      "key": "ort",
+      "label": "Ort",
+      "type": "string"
+    },
+    {
+      "key": "zuschauerkapazitaet",
+      "label": "Zuschauerkapazitaet",
+      "type": "number"
+    },
+    {
+      "key": "bemerkungen",
+      "label": "Bemerkungen",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "buehne": "Naturtheater Grötzingen",
+      "ort": "Aichtal-Grötzingen",
+      "zuschauerkapazitaet": "850",
+      "bemerkungen": "Seit 1954 bespielt, jährlich zwei Inszenierungen, Betonkuppelüberdachung seit 1978."
+    },
+    {
+      "buehne": "Allgäuer Freilichtbühne Altusried",
+      "ort": "Altusried",
+      "zuschauerkapazitaet": "2500",
+      "bemerkungen": "Erbaut 1999, jedes Jahr bespielt, es wechseln sich im Drei-Jahres-Rhythmus das Altusrieder Freilichtspiel, ein Familienstück und eine Musical-Produktion ab. Zuvor wurden die Altusrieder Freilichtspiel (seit 1879) ohne feste Bühne aufgeführt. Anschließend an die Spielzeit finden Ende August und Anfang September Konzerte statt."
+    },
+    {
+      "buehne": "Freilichtbühne am Roten Tor",
+      "ort": "Augsburg",
+      "zuschauerkapazitaet": "2117",
+      "bemerkungen": "Erbaut 1929, bespielt vom Theater Augsburg mit Opern, Operetten, Musicals, dazu noch verschiedene Gastspiele"
+    },
+    {
+      "buehne": "Kleine Augsburger Freilichtbühne",
+      "ort": "Augsburg",
+      "zuschauerkapazitaet": "80",
+      "bemerkungen": "Sommertheater"
+    },
+    {
+      "buehne": "Romantikbühne am Schlossturm",
+      "ort": "Bad Berneck im Fichtelgebirge",
+      "zuschauerkapazitaet": "ca. 400",
+      "bemerkungen": "Nach Renovierung seit 2016 wieder bespielbar."
+    },
+    {
+      "buehne": "Freilichtspiele Bad Bentheim",
+      "ort": "Bad Bentheim",
+      "zuschauerkapazitaet": "1245",
+      "bemerkungen": "Jährlich zwei Inszenierungen von Mai bis September"
+    },
+    {
+      "buehne": "Klosterruine Limburg",
+      "ort": "Bad Dürkheim",
+      "zuschauerkapazitaet": "950",
+      "bemerkungen": "von Juni bis August Limburg Sommer mit Schauspielinszenierungen, Konzerten und Opern auf der Open-Air-Bühne der Klosterruine Limburg"
+    },
+    {
+      "buehne": "NaturTheater Bad Elster",
+      "ort": "Bad Elster",
+      "zuschauerkapazitaet": "1500",
+      "bemerkungen": "Bereits im Jahre 1911 eröffnet ist das älteste Naturtheater Sachsens im historischen Waldpark heute eine Open-Air-Arena, mit Veranstaltungen verschiedener Genres."
+    },
+    {
+      "buehne": "Gandersheimer Domfestspiele",
+      "ort": "Bad Gandersheim",
+      "zuschauerkapazitaet": "1000",
+      "bemerkungen": "Niedersachsens größtes professionelles Freilichttheater seit 1959 vor dem Portal der romanischen Stiftskirche in Bad Gandersheim mit jährlich 60.000 Besuchenden von Juni bis August."
+    },
+    {
+      "buehne": "Bad Hersfelder Festspiele",
+      "ort": "Bad Hersfeld",
+      "zuschauerkapazitaet": "1636",
+      "bemerkungen": "Jährlich vier bis sechs Stücke auf der Stiftsruine Bad Hersfeld, Theater, Musical, Kindertheater, professioneller Betrieb"
+    },
+    {
+      "buehne": "Kalkbergstadion",
+      "ort": "Bad Segeberg",
+      "zuschauerkapazitaet": "ca. 7500",
+      "bemerkungen": "Seit 1952 finden hier die bekannten Karl-May-Spiele Bad Segeberg statt."
+    },
+    {
+      "buehne": "Wasserburg Bad Vilbel",
+      "ort": "Bad Vilbel",
+      "zuschauerkapazitaet": "700",
+      "bemerkungen": "Seit 1987 bespielt, jährlich vier Eigenproduktionen im Rahmen der Burgfestspiele Bad Vilbel"
+    },
+    {
+      "buehne": "Freilandtheater Bad Windsheim",
+      "ort": "Bad Windsheim",
+      "zuschauerkapazitaet": "300 – 360",
+      "bemerkungen": "Abbaubare Tribüne im Fränkischen Freilandmuseum, seit 2003 in Betrieb, gemischte Aufführungen mit professionellen und Laiendarstellern"
+    },
+    {
+      "buehne": "Festspiele Balver Höhle",
+      "ort": "Balve",
+      "zuschauerkapazitaet": "bei Kindertheater 590",
+      "bemerkungen": "Seit 1922 bespielt, jährlich Austragungsort der Festspiele Balver Höhle, Irish Folk Festival"
+    },
+    {
+      "buehne": "Deister-Freilicht-Bühne",
+      "ort": "Barsinghausen",
+      "zuschauerkapazitaet": "ca. 744",
+      "bemerkungen": "Amateurtheater seit 1931 in einem ehemaligen Steinbruch"
+    },
+    {
+      "buehne": "Römisches Theater in der Eremitage",
+      "ort": "Bayreuth",
+      "zuschauerkapazitaet": "unbekannt",
+      "bemerkungen": "Von Juni – August bespielt von der Studiobühne Bayreuth"
+    },
+    {
+      "buehne": "Freilichtbühne Alfter",
+      "ort": "Alfter",
+      "zuschauerkapazitaet": "400",
+      "bemerkungen": "Konzipiert als FreilichtWanderTheater, die Zuschauenden \"wandern\" von Bühne zu Bühne"
+    },
+    {
+      "buehne": "Freilichtbühne Beetzendorf",
+      "ort": "Beetzendorf",
+      "zuschauerkapazitaet": "unbekannt",
+      "bemerkungen": "An der Ruine der Burg Beetzendorf, ab 1950 errichtet, 1952 wurde das erste Schauspiel auf der Freilichtbühne aufgeführt."
+    },
+    {
+      "buehne": "Waldbühne Rügen",
+      "ort": "Bergen auf Rügen",
+      "zuschauerkapazitaet": "5.300",
+      "bemerkungen": "Ehemalige Thingstätte (nach 1925), heute Open-Air-Bühne für Konzerte und Events aller Art"
+    },
+    {
+      "buehne": "Berliner Waldbühne",
+      "ort": "Berlin",
+      "zuschauerkapazitaet": "22.000",
+      "bemerkungen": "1936 eröffnet, Konzerte, Kino, Theater, Opern"
+    },
+    {
+      "buehne": "Kindl-Bühne Wuhlheide",
+      "ort": "Berlin",
+      "zuschauerkapazitaet": "17.000/15.300",
+      "bemerkungen": "1951 eröffnet, Konzerte"
+    },
+    {
+      "buehne": "Freilichtbühne an der Zitadelle",
+      "ort": "Berlin-Spandau",
+      "zuschauerkapazitaet": "600",
+      "bemerkungen": "Sommerresidenz des Kulturhauses Spandau"
+    },
+    {
+      "buehne": "Freilichtbühne Billerbeck",
+      "ort": "Billerbeck",
+      "zuschauerkapazitaet": "850",
+      "bemerkungen": "Gegründet 1950, jährlich vier Theaterinszenierungen und Gastspiele."
+    },
+    {
+      "buehne": "Waldbühne Bischofswerda",
+      "ort": "Bischofswerda",
+      "zuschauerkapazitaet": "400",
+      "bemerkungen": "Seit 1993 jährliche Karl-May-Spiele."
+    },
+    {
+      "buehne": "Freilichtbühne Im Busch",
+      "ort": "Bobenheim-Roxheim",
+      "zuschauerkapazitaet": "400",
+      "bemerkungen": "Eröffnet 1997, Amateurtheateraufführungen"
+    },
+    {
+      "buehne": "Freilichtbühne Wattenscheid",
+      "ort": "Bochum-Wattenscheid",
+      "zuschauerkapazitaet": "2.500",
+      "bemerkungen": "Eröffnet 1936, heute meistens Konzerte, früher diente sie auch als städtische Theaterfläche"
+    },
+    {
+      "buehne": "Theater Klosterruine Boitzenburg",
+      "ort": "Boitzenburg",
+      "zuschauerkapazitaet": "unbekannt",
+      "bemerkungen": "Bespielt seit 2005 im Juli und August. Teilweise berittene Darsteller."
+    },
+    {
+      "buehne": "Freilichtbühne Bonbaden",
+      "ort": "Braunfels-Bonbaden",
+      "zuschauerkapazitaet": "ca, 650",
+      "bemerkungen": "Gegründet 1951, Amateurtheater auf einer Waldbühne im Lahn-Dill-Kreis"
+    },
+    {
+      "buehne": "Volksplatz Borna",
+      "ort": "Borna",
+      "zuschauerkapazitaet": "10.000",
+      "bemerkungen": "ehemaliger NS- Thingplatz (angelegt 1933) nördlich der ehemaligen Bergbrauerei Borna"
+    },
+    {
+      "buehne": "Freilichtbühne Bökendorf",
+      "ort": "Brakel",
+      "zuschauerkapazitaet": "1000",
+      "bemerkungen": "Eröffnet im Jahre 1951, heute jährlich zwei Inszenierungen."
+    },
+    {
+      "buehne": "Freilichtbühne Breisach",
+      "ort": "Breisach am Rhein",
+      "zuschauerkapazitaet": "748",
+      "bemerkungen": "Festspiele Breisach seit 1962"
+    },
+    {
+      "buehne": "Alte Burg (Burgholzhausen)",
+      "ort": "Burgholzhausen vor der Höhe",
+      "zuschauerkapazitaet": "450",
+      "bemerkungen": "Freilichtspiele auf dem Gelände der Alten Burg seit 1948"
+    },
+    {
+      "buehne": "Freilichtbühne Coesfeld",
+      "ort": "Coesfeld",
+      "zuschauerkapazitaet": "650",
+      "bemerkungen": "Bespielt seit 1951, Programm: Schauspiel, Operetten, Musicals"
+    },
+    {
+      "buehne": "Freilichtbühne Daverden",
+      "ort": "Daverden",
+      "zuschauerkapazitaet": ">500",
+      "bemerkungen": "Plattdeutsches Theater seit 1954"
+    },
+    {
+      "buehne": "Burgtheater Dinslaken",
+      "ort": "Dinslaken",
+      "zuschauerkapazitaet": "1800",
+      "bemerkungen": "Spielstätte der Burghofbühne Dinslaken, Konzerte, Kabarett"
+    },
+    {
+      "buehne": "Freilichtbühne am Mangoldfelsen",
+      "ort": "Donauwörth",
+      "zuschauerkapazitaet": "450",
+      "bemerkungen": "Theater und sonstige Veranstaltungen von Juni bis August"
+    },
+    {
+      "buehne": "Naturbühne Hohensyburg",
+      "ort": "Dortmund",
+      "zuschauerkapazitaet": "800",
+      "bemerkungen": "Jährlich mehrere Inszenierungen seit 1952 mit Musicals"
+    },
+    {
+      "buehne": "Dreieichenhainer Burg",
+      "ort": "Dreieich",
+      "zuschauerkapazitaet": "<800",
+      "bemerkungen": "Jährliche Burgfestspiele Dreieichenhain mit Theater, Konzerten, Kabarett"
+    },
+    {
+      "buehne": "Freilichtbühne Großer Garten (auch Junge Garde)",
+      "ort": "Dresden",
+      "zuschauerkapazitaet": "ca. 5000",
+      "bemerkungen": "Erbaut 1955, genutzt für Theater und Konzerte im Großen Garten"
+    },
+    {
+      "buehne": "Puppentheater Sonnenhäusel",
+      "ort": "Dresden",
+      "zuschauerkapazitaet": "350",
+      "bemerkungen": "Erbaut 1955, genutzt für Puppentheater im Großen Garten"
+    },
+    {
+      "buehne": "Theaterruine St. Pauli",
+      "ort": "Dresden",
+      "zuschauerkapazitaet": "<1000",
+      "bemerkungen": "Seit 1997 Amateur- und professionelles Theater, Konzerte, Gastspiele in der Ruine der Kirche St. Pauli."
+    },
+    {
+      "buehne": "Naturtheater Greifensteine",
+      "ort": "Ehrenfriedersdorf",
+      "zuschauerkapazitaet": "1200",
+      "bemerkungen": "Konzerte, Freilichtkino und Inszenierungen des Eduard-von-Winterstein-Theaters"
+    },
+    {
+      "buehne": "Freilichtbühne Elspe",
+      "ort": "Elspe",
+      "zuschauerkapazitaet": "ca. 4000 Sitzplätze (ca. 6000 Stehplätze)",
+      "bemerkungen": "Karl-May-Festspiele im Rahmen des Elspe Festivals seit 1958."
+    },
+    {
+      "buehne": "Theater im Steinbruch",
+      "ort": "Emmendingen",
+      "zuschauerkapazitaet": "315",
+      "bemerkungen": "Amateurtheater in einem alten Steinbruch seit 2002"
+    },
+    {
+      "buehne": "Treppe des Erfurter Doms",
+      "ort": "Erfurt",
+      "zuschauerkapazitaet": "2105",
+      "bemerkungen": "Seit 1994 jährliche Opernfestspiele"
+    },
+    {
+      "buehne": "Seebühne der Eutiner Festspiele",
+      "ort": "Eutin",
+      "zuschauerkapazitaet": "1945",
+      "bemerkungen": "Seit 1951 alljährlich in den Sommermonaten Oper, Operette und Musicals sowie Konzerte im denkmalgeschützten Schlossgarten"
+    },
+    {
+      "buehne": "Kloster Feuchtwangen",
+      "ort": "Feuchtwangen",
+      "zuschauerkapazitaet": ">500",
+      "bemerkungen": "Erstmals bespielt 1949, jährlich drei Inszenierungen im Kreuzgang des Klosters Feuchtwangen."
+    },
+    {
+      "buehne": "Südwestfälische Freilichtbühne Freudenberg",
+      "ort": "Freudenberg (Siegerland)",
+      "zuschauerkapazitaet": ">800",
+      "bemerkungen": "Gegründet 1954, jährlich zwei Inszenierungen."
+    },
+    {
+      "buehne": "Naturbühne Steintäle",
+      "ort": "Fridingen an der Donau",
+      "zuschauerkapazitaet": "<500",
+      "bemerkungen": "Jährlich zwei Inszenierungen."
+    },
+    {
+      "buehne": "Amphitheater Gelsenkirchen",
+      "ort": "Gelsenkirchen",
+      "zuschauerkapazitaet": "6.100",
+      "bemerkungen": "Jährlich mehrere Veranstaltungen."
+    },
+    {
+      "buehne": "Scherenburg",
+      "ort": "Gemünden am Main",
+      "zuschauerkapazitaet": "585",
+      "bemerkungen": "erstmals 1909; seit 1998 jährliche Theateraufführungen im Innenhof der Ruine Scherenburg"
+    },
+    {
+      "buehne": "Waldbühne Kloster Oesede",
+      "ort": "Georgsmarienhütte",
+      "zuschauerkapazitaet": "1300",
+      "bemerkungen": "Theater, Konzerte, Musicals"
+    },
+    {
+      "buehne": "Florian Geyer Festspiele",
+      "ort": "Giebelstadt",
+      "zuschauerkapazitaet": "800 – 1000",
+      "bemerkungen": "seit 1979 Freilichtspiele aus der Zeit des Bauernkrieges 1525 an drei Wochenenden im Juli"
+    },
+    {
+      "buehne": "Naturbühne Gräfinthal",
+      "ort": "Gräfinthal",
+      "zuschauerkapazitaet": "1500",
+      "bemerkungen": "Eröffnet 1932, jährlich zwei Inszenierungen."
+    },
+    {
+      "buehne": "Piraten Action Open Air",
+      "ort": "Grevesmühlen",
+      "zuschauerkapazitaet": "3400",
+      "bemerkungen": "Die Geschichte des Captain Joshua Flint in 20 Episoden nach der Schatzinsel."
+    },
+    {
+      "buehne": "Felsenbühne Waldstein",
+      "ort": "Großer Waldstein",
+      "zuschauerkapazitaet": "unbekannt",
+      "bemerkungen": "Spielort der Waldstein-Festspiele"
+    },
+    {
+      "buehne": "Freilichtbühne im Mohns Park",
+      "ort": "Gütersloh",
+      "zuschauerkapazitaet": "1100",
+      "bemerkungen": "Hauptsächlich Konzerte, Veranstaltungsreihe „Gütersloher Sommer“"
+    },
+    {
+      "buehne": "Freilichtbühne Hallenberg",
+      "ort": "Hallenberg",
+      "zuschauerkapazitaet": "1400",
+      "bemerkungen": "Seit 1946 bespielt, jährlich Amateurtheaterinszenierungen, im Zehnjahresrhythmus Passionsspiele"
+    },
+    {
+      "buehne": "Amphitheater im Römischen Garten",
+      "ort": "Hamburg",
+      "zuschauerkapazitaet": "ca. 200",
+      "bemerkungen": "erbaut 1924 (damals noch in der selbständigen Gemeinde Blankenese), wird seit 2005 bespielt durch das Theater N.N., vorige Nutzung nicht bekannt"
+    },
+    {
+      "buehne": "Waldbühne Heessen",
+      "ort": "Heessen in Hamm",
+      "zuschauerkapazitaet": "1800",
+      "bemerkungen": "Eröffnet 1924, jährlich drei Inszenierungen."
+    },
+    {
+      "buehne": "Amphitheater Hanau",
+      "ort": "Hanau",
+      "zuschauerkapazitaet": "1356 Sitzplätze (2700 Stehplätze)",
+      "bemerkungen": "seit 2000 Spielstätte der Brüder Grimm Märchenfestspiele, (Rock-)Konzerte"
+    },
+    {
+      "buehne": "Gartentheater Herrenhausen",
+      "ort": "Hannover-Herrenhausen",
+      "zuschauerkapazitaet": "<1000",
+      "bemerkungen": "erbaut 1692, Theater- und Musicalaufführungen"
+    },
+    {
+      "buehne": "Gilde Parkbühne Hannover",
+      "ort": "Hannover",
+      "zuschauerkapazitaet": "700 Sitzplätze + (ca. 4500 Stehplätze)",
+      "bemerkungen": "Eröffnet 2002, verschiedene kommerzielle Veranstaltungen"
+    },
+    {
+      "buehne": "Naturtheater Hayingen",
+      "ort": "Hayingen",
+      "zuschauerkapazitaet": "<1000",
+      "bemerkungen": "Eröffnet 1949, jährliche Amateurtheaterinszenierungen."
+    },
+    {
+      "buehne": "Naturtheater Heidenheim",
+      "ort": "Heidenheim an der Brenz",
+      "zuschauerkapazitaet": ">1000",
+      "bemerkungen": "Eröffnet 1924, jährliche Amateurtheaterinszenierungen, i. d. R. ein Erwachsenenstück, ein Kinderstück, gelegentliche Gastspiele."
+    },
+    {
+      "buehne": "Waldbühne Heldritt",
+      "ort": "Heldritt",
+      "zuschauerkapazitaet": "800",
+      "bemerkungen": "Bespielt seit 1930, jährlich zwei Inszenierungen und eine Operette."
+    },
+    {
+      "buehne": "Freilichttheater Heppenheim",
+      "ort": "Heppenheim",
+      "zuschauerkapazitaet": "unbekannt",
+      "bemerkungen": "Eröffnet 1974, Klassische Komödien und Musikabende. Die Zuschauer sitzen, wie zur Zeit Shakespeares, an Tischen und Bänken und trinken Bergsträßer Wein dazu."
+    },
+    {
+      "buehne": "Freilichtbühne Herdringen",
+      "ort": "Herdringen",
+      "zuschauerkapazitaet": "850",
+      "bemerkungen": "Eröffnet 1954, jährlich zwei Inszenierungen."
+    },
+    {
+      "buehne": "Freilichtbühne Klausenhof",
+      "ort": "Herrischried",
+      "zuschauerkapazitaet": "unbekannt",
+      "bemerkungen": "Seit 1983 Aufführungen von Mundartstücken im Freilichtmuseum Klausenhof"
+    },
+    {
+      "buehne": "Burg Hohenstein",
+      "ort": "Hohenstein",
+      "zuschauerkapazitaet": "322",
+      "bemerkungen": "Seit 1961 Amateurtheaterinszenierungen durch die Taunusbühne Bad Schwalbach e. V. während der Sommermonate im Rahmen der Burgspiele Hohenstein"
+    },
+    {
+      "buehne": "Freilichtbühne Bellenberg",
+      "ort": "Horn-Bad Meinberg",
+      "zuschauerkapazitaet": "ca. 800",
+      "bemerkungen": "Seit 1951 Aufführungen von Amateurtheater, jährlich drei Inszenierungen"
+    },
+    {
+      "buehne": "Erwin-Leisinger-Freilichtbühne Hornberg",
+      "ort": "Hornberg",
+      "zuschauerkapazitaet": ">500",
+      "bemerkungen": "Freilichtbühne, auf der jährlich neben anderen Stücken das Hornberger Schießen aufgeführt wird."
+    },
+    {
+      "buehne": "Kahle Wart",
+      "ort": "Hüllhorst",
+      "zuschauerkapazitaet": "800 – 1000",
+      "bemerkungen": "Eingeweiht am 6. Juni 1948. Saison im Sommer (Mai bis August). Jede Saison drei Aufführungen (Ein Familienstück und Erwachsenenstück auf Hochdeutsch und ein Erwachsenenstück auf Plattdeutsch)"
+    },
+    {
+      "buehne": "Freilichtbühne Hülzweiler",
+      "ort": "Hülzweiler",
+      "zuschauerkapazitaet": "1100",
+      "bemerkungen": "Amateurtheateraufführungen seit 1927"
+    },
+    {
+      "buehne": "Schwabenbühne Roth- und Illertal",
+      "ort": "Illertissen",
+      "zuschauerkapazitaet": "480",
+      "bemerkungen": "Seit 1981 jährliche Aufführungen, meist zwei Stücke pro Spielzeit in regionaler Mundart"
+    },
+    {
+      "buehne": "Freilichttheater im Turm Baur",
+      "ort": "Ingolstadt",
+      "zuschauerkapazitaet": "ca. 1000",
+      "bemerkungen": "Jährliche Bespielung durch das Stadttheater Ingolstadt"
+    },
+    {
+      "buehne": "Open-Air-Bühne im Polodrom",
+      "ort": "Jüchen",
+      "zuschauerkapazitaet": "ca. 10.000",
+      "bemerkungen": "hauptsächlich Konzertveranstaltungen"
+    },
+    {
+      "buehne": "Hutbergbühne Kamenz",
+      "ort": "Kamenz",
+      "zuschauerkapazitaet": "6.800",
+      "bemerkungen": "Erbaut 1934/35, seit 1991 zahlreiche Konzerte, darunter Puhdys, Roland Kaiser, Matthias Reim, Helene Fischer, Silbermond, uvm."
+    },
+    {
+      "buehne": "Freilichtspiele Katzweiler",
+      "ort": "Katzweiler",
+      "zuschauerkapazitaet": "<1000",
+      "bemerkungen": "Gegründet 1951, jährlich zwei Inszenierungen (Kinder-, Erwachsenentheater)"
+    },
+    {
+      "buehne": "Freilichttheater Krusenkoppel",
+      "ort": "Kiel",
+      "zuschauerkapazitaet": "2.200",
+      "bemerkungen": "Erbaut 1950, bis 1993 mehrfach saniert, seitdem zahlreiche Konzerte, jährlicher Austragungsort des Festivals Gewaltig leise zur Kieler Woche und des Schleswig-Holstein Musik Festivals, sowie des Benefizkonzerts Konzert gegen die Kälte zugunsten obdachloser Menschen"
+    },
+    {
+      "buehne": "Clingenburg",
+      "ort": "Klingenberg am Main",
+      "zuschauerkapazitaet": "800",
+      "bemerkungen": "Seit 1994 Schauplatz der Clingenburg Festspiele, davor Nutzung durch Amateurtheater"
+    },
+    {
+      "buehne": "Waldbühne im Volkskunde- und Freilichtmuseum Roscheider Hof",
+      "ort": "Konz",
+      "zuschauerkapazitaet": "199",
+      "bemerkungen": "Museumsfeste, Kleinkunst, Musik"
+    },
+    {
+      "buehne": "Freilichtbühne Korbach",
+      "ort": "Korbach",
+      "zuschauerkapazitaet": "534",
+      "bemerkungen": "Bespielt seit 1936, jährlich zwei Amateurtheaterinszenierungen und wechselnde Events"
+    },
+    {
+      "buehne": "Seebühne Kriebstein",
+      "ort": "Kriebstein",
+      "zuschauerkapazitaet": "unbekannt",
+      "bemerkungen": "Jährlich von Juni bis August unterschiedliche Veranstaltungen"
+    },
+    {
+      "buehne": "Waldbühne Ahmsen",
+      "ort": "Lähden",
+      "zuschauerkapazitaet": "ca. 2000 überdachte Sitzplätze",
+      "bemerkungen": "Besucherstärkste Amateurfreilichtbühne in Norddeutschland. Laienspiel mit christlichem Inhalt / Kindertheater"
+    },
+    {
+      "buehne": "Langenargener Festspiele",
+      "ort": "Langenargen",
+      "zuschauerkapazitaet": "200",
+      "bemerkungen": "Seit 2018 Schauspiel"
+    },
+    {
+      "buehne": "Klosterhofspiele",
+      "ort": "Langenzenn",
+      "zuschauerkapazitaet": "unbekannt",
+      "bemerkungen": "Geht zurück auf 1954, regelmäßige Aufführungen ab 1981"
+    },
+    {
+      "buehne": "Theater unter den Kuppeln",
+      "ort": "Leinfelden-Echterdingen",
+      "zuschauerkapazitaet": "ca. 600",
+      "bemerkungen": "Amateurtheater mit Live-Orchester (Musical, Kinderstück, Mundart)"
+    },
+    {
+      "buehne": "Burgruine Leuchtenberg",
+      "ort": "Leuchtenberg",
+      "zuschauerkapazitaet": "unbekannt",
+      "bemerkungen": "seit 1982 jährlich fünf bis sechs Inszenierungen durch die Stadtbühne Vohenstrauß"
+    },
+    {
+      "buehne": "Freilichtbühne Lilienthal",
+      "ort": "Lilienthal",
+      "zuschauerkapazitaet": "ca. 600",
+      "bemerkungen": "Bespielt seit 1985, jährlich zwei Amateurtheaterinszenierungen, Musical-Night, Konzerte"
+    },
+    {
+      "buehne": "Freilichtbühne Linachtalsperre",
+      "ort": "Linach",
+      "zuschauerkapazitaet": "1000",
+      "bemerkungen": "Im Sommer 2008 war Premiere des Stücks \"De Linacher Stausee\" von Bernhard Dorer mit sechs Aufführungen. Im Sommer 2011 wird das Stauseetheater nochmals mit fünf Aufführungen gespielt."
+    },
+    {
+      "buehne": "Freilichtbühne Lohne",
+      "ort": "Lohne",
+      "zuschauerkapazitaet": "<800",
+      "bemerkungen": "Amateurtheaterinszenierungen"
+    },
+    {
+      "buehne": "Freilichtbühne Loreley",
+      "ort": "Verbandsgemeinde Loreley",
+      "zuschauerkapazitaet": "<10.000",
+      "bemerkungen": "Erbaut 1939 als Theaterbühne auf der Loreley, heute hauptsächlich für Konzerte und Festivals genutzt"
+    },
+    {
+      "buehne": "Burg Rötteln",
+      "ort": "Lörrach",
+      "zuschauerkapazitaet": "550",
+      "bemerkungen": "Seit 1968 Theateraufführungen im Rahmen der Burgfestspiele Rötteln"
+    },
+    {
+      "buehne": "Freilichtbühne Lübeck",
+      "ort": "Lübeck",
+      "zuschauerkapazitaet": "unbekannt",
+      "bemerkungen": "seit 1927, Kindertheater und Konzerte"
+    },
+    {
+      "buehne": "Seebühne im Elbauenpark",
+      "ort": "Magdeburg",
+      "zuschauerkapazitaet": "1600",
+      "bemerkungen": "seit 1999 bestehend, wird für verschiedenste Veranstaltungen des Elbauenparks genutzt"
+    },
+    {
+      "buehne": "Freilichtbühne Mannheim",
+      "ort": "Mannheim",
+      "zuschauerkapazitaet": "ca. 750",
+      "bemerkungen": "Nicht überdachte Freilichtbühne im Stadtteil Waldhof, seit 1950 im ehrenamtlichen Betrieb"
+    },
+    {
+      "buehne": "Freilichtbühne Marklohe",
+      "ort": "Marklohe",
+      "zuschauerkapazitaet": "ca. 800",
+      "bemerkungen": "plattdeutsches Amateurtheater seit 1937"
+    },
+    {
+      "buehne": "Weiherspiele Markt Schwaben",
+      "ort": "Markt Schwaben",
+      "zuschauerkapazitaet": "ca. 650 (bis ca. 1.000 erweiterbar)",
+      "bemerkungen": "Seit 1984 finden jährlich die Weiherspiele Markt Schwaben mit Theater- und anderen Aufführungen statt"
+    },
+    {
+      "buehne": "Burgfestspiele Mayen",
+      "ort": "Mayen",
+      "zuschauerkapazitaet": "ca. 490 Burg / ca. 100 Arresthaus",
+      "bemerkungen": "Theaterfestspiele seit 1980"
+    },
+    {
+      "buehne": "Waldbühne Melle",
+      "ort": "Melle",
+      "zuschauerkapazitaet": "ca. 800",
+      "bemerkungen": "Amateurtheater in einem ehemaligen Steinbruch"
+    },
+    {
+      "buehne": "Freilichtbühne Eschbachtal",
+      "ort": "Mellinghausen",
+      "zuschauerkapazitaet": "450",
+      "bemerkungen": "plattdeutsches Amateurtheater seit 1985"
+    },
+    {
+      "buehne": "Emsländische Freilichtbühne Meppen",
+      "ort": "Meppen",
+      "zuschauerkapazitaet": "1708",
+      "bemerkungen": "Gründung am 26. November 1950, erste Aufführung am 14. Mai 1951. Es werden Stücke aus dem Bereich Musical aufgeführt, die jährlich über 40.000 bis 44.000 Zuschauer in den Esterfelder Forst locken."
+    },
+    {
+      "buehne": "Freilichtbühne im Wasserschloss Mespelbrunn",
+      "ort": "Mespelbrunn",
+      "zuschauerkapazitaet": "unbekannt",
+      "bemerkungen": "In unregelmäßigen Abständen wird hier das Stück Das Wirtshaus im Spessart aufgeführt, da der vermutete Originalschauplatz der Erzählung in der Nähe liegt und auch Teile der Verfilmung hier gedreht wurden."
+    },
+    {
+      "buehne": "Platz vor dem Ruchsener Tor",
+      "ort": "Möckmühl",
+      "zuschauerkapazitaet": "unbekannt",
+      "bemerkungen": "seit 1991 jährliche Freilichtspiele, Spielzeit Juni – Juli"
+    },
+    {
+      "buehne": "Freilichtbühne Mülheim an der Ruhr",
+      "ort": "Mülheim an der Ruhr",
+      "zuschauerkapazitaet": "2000",
+      "bemerkungen": "1936 eröffnet, Theater, Kindertheater, Konzerte, Kabarett"
+    },
+    {
+      "buehne": "Amphitheater des Englischen Garten",
+      "ort": "München",
+      "zuschauerkapazitaet": "unbekannt",
+      "bemerkungen": ""
+    },
+    {
+      "buehne": "Seebühne im Westpark",
+      "ort": "München",
+      "zuschauerkapazitaet": "1200",
+      "bemerkungen": "Open-Air-Kino und andere Veranstaltungen"
+    },
+    {
+      "buehne": "Theatron im Olympiapark",
+      "ort": "München",
+      "zuschauerkapazitaet": "5000",
+      "bemerkungen": "Konzerte"
+    },
+    {
+      "buehne": "Freilichtbühne Nettelstedt",
+      "ort": "Nettelstedt",
+      "zuschauerkapazitaet": "900",
+      "bemerkungen": "Eröffnet 1923, jährlich zwei Inszenierungen"
+    },
+    {
+      "buehne": "Freilichtbühne Neuenstadt",
+      "ort": "Neuenstadt am Kocher",
+      "zuschauerkapazitaet": ">800",
+      "bemerkungen": "Eröffnet 1958, jährlich eine Inszenierung im Burggraben des Neuenstadter Renaissanceschlosses"
+    },
+    {
+      "buehne": "Waldbühne Otternhagen",
+      "ort": "Neustadt am Rübenberge – Otternhagen",
+      "zuschauerkapazitaet": "ca. 400",
+      "bemerkungen": "Amateurtheater seit 1970; jährlich je ein Theaterstück für Kinder und Erwachsene"
+    },
+    {
+      "buehne": "Waldbühne Neuwürschnitz",
+      "ort": "Neuwürschnitz",
+      "zuschauerkapazitaet": "ca. 800",
+      "bemerkungen": "ehemaliger Steinbruch"
+    },
+    {
+      "buehne": "Waldbühne Niederelsungen",
+      "ort": "Niederelsungen",
+      "zuschauerkapazitaet": "> 1200",
+      "bemerkungen": "Amateurtheater (Spielgemeinschaft Waldbühne Erich Oberlist e. V.) seit 1949"
+    },
+    {
+      "buehne": "Waldbühne Northeim",
+      "ort": "Northeim",
+      "zuschauerkapazitaet": "ca. 8000",
+      "bemerkungen": "erbaut 1934–1936, heute hauptsächlich für Konzerte genutzt"
+    },
+    {
+      "buehne": "Waldbühne Benneckenstein",
+      "ort": "Oberharz am Brocken",
+      "zuschauerkapazitaet": "400–550",
+      "bemerkungen": "Erbaut im Jahr 1953, saniert im Jahr 1993, durch das jährlich stattfindende THEATERNATUR – Festival der Darstellenden Künste wiederbelebt im Jahr 2013."
+    },
+    {
+      "buehne": "Burgbühne Stromberg",
+      "ort": "Oelde",
+      "zuschauerkapazitaet": "691",
+      "bemerkungen": "Freilichtspiele auf den historischen Stufen der Wallfahrtskirche Heilig Kreuz seit 1925"
+    },
+    {
+      "buehne": "Freilichtspiele im Kloster Allerheiligen",
+      "ort": "Oppenau",
+      "zuschauerkapazitaet": "240",
+      "bemerkungen": "Im Kirchenschiff des Klosters Allerheiligen inszeniert die Freie Bühne Oppenau jährlich Freilichtspiele mit meist mittelalterlichem oder lokalem Hintergrund."
+    },
+    {
+      "buehne": "Freilichtbühne Ötigheim",
+      "ort": "Ötigheim",
+      "zuschauerkapazitaet": "4000",
+      "bemerkungen": "Eröffnet 1906, Theater, Musicals, Gastspiele"
+    },
+    {
+      "buehne": "Freilichtbühne Schloß Neuhaus",
+      "ort": "Paderborn",
+      "zuschauerkapazitaet": ">600",
+      "bemerkungen": "Gegründet 1957, jährlich ein Familienstück vorwiegend für Kinder und ein Abendstück für Erwachsene"
+    },
+    {
+      "buehne": "Goethe-Freilichtbühne",
+      "ort": "Porta Westfalica",
+      "zuschauerkapazitaet": "650",
+      "bemerkungen": "Gegründet 1927, jährlich vier Inszenierungen, alle zwei Jahre fünf Inszenierungen"
+    },
+    {
+      "buehne": "Konzertsegel",
+      "ort": "Radolfzell am Bodensee",
+      "zuschauerkapazitaet": "unbekannt",
+      "bemerkungen": "1989 errichtet, Denkmalschutz seit 2017; musikalische Veranstaltungen"
+    },
+    {
+      "buehne": "Naturbühne Ralswiek",
+      "ort": "Ralswiek",
+      "zuschauerkapazitaet": "8800",
+      "bemerkungen": "1959 erstmals bespielt, seit 1993 finden hier jährlich die Störtebeker-Festspiele mit über 300.000 Besuchern pro Spielzeit statt."
+    },
+    {
+      "buehne": "Felsenbühne Rathen",
+      "ort": "Rathen",
+      "zuschauerkapazitaet": "2000",
+      "bemerkungen": "1936 eröffnet, Oper, Musiktheater, Schauspiel; heute hauptsächlich von den Landesbühnen Sachsen bespielt"
+    },
+    {
+      "buehne": "Blauer See",
+      "ort": "Ratingen",
+      "zuschauerkapazitaet": "1200 überdachte Plätze",
+      "bemerkungen": "Seit 1952 von Stadt und Landkreis betrieben, Bühne im Westernstil, Theater, Konzerte, regelmäßiges Technofestival (bis 2011), seit 1999 jährliches Familientheater"
+    },
+    {
+      "buehne": "Freilichtbühne Greven-Reckenfeld",
+      "ort": "Reckenfeld",
+      "zuschauerkapazitaet": "720",
+      "bemerkungen": "Eröffnet 1962, Amateurtheater und Musicals"
+    },
+    {
+      "buehne": "Naturtheater Renningen",
+      "ort": "Renningen",
+      "zuschauerkapazitaet": "748",
+      "bemerkungen": "gegründet 1954; Amateurtheater mit professioneller Regie und Choreografie; jährlich zwei Inszenierungen mit 24 bis 26 Aufführungen in den Sommermonaten"
+    },
+    {
+      "buehne": "Naturtheater Reutlingen",
+      "ort": "Reutlingen",
+      "zuschauerkapazitaet": "<1000",
+      "bemerkungen": "Seit 1927 bespielt, Amateurtheater und Gastspiele im Rahmen der Wasenwaldfestspiele"
+    },
+    {
+      "buehne": "Freilichttheater Burg Brattenstein",
+      "ort": "Röttingen",
+      "zuschauerkapazitaet": "<1000",
+      "bemerkungen": "Seit 1984 bespielt, Operette, Musical, Schauspiel, Komödien, Lesungen, Konzertabende, Nestroystücke. Frankenwein und Brotzeit können während der Vorstellung verzehrt werden."
+    },
+    {
+      "buehne": "Freilichtbühne Osterwald",
+      "ort": "Salzhemmendorf",
+      "zuschauerkapazitaet": "613",
+      "bemerkungen": "Bespielt seit 1950, Amateurtheater, Musicalnight, teilüberdachter Zuschauerbereich, Studiobühne mit 77 Plätzen im Bereich der Bühnenanlage"
+    },
+    {
+      "buehne": "Hofberg Freilichttheater Schiltberg",
+      "ort": "Schiltberg",
+      "zuschauerkapazitaet": "1000",
+      "bemerkungen": "Bespielt seit 1954"
+    },
+    {
+      "buehne": "Naturtheater Steinbach-Langenbach",
+      "ort": "Schleusegrund",
+      "zuschauerkapazitaet": "3000",
+      "bemerkungen": "Eröffnet 1957, Theater, Musical, Konzerte"
+    },
+    {
+      "buehne": "Freilichtbühne Schuld",
+      "ort": "Schuld (Ahr)",
+      "zuschauerkapazitaet": "660",
+      "bemerkungen": "Jährliche Amateurtheaterinszenierungen seit 1948"
+    },
+    {
+      "buehne": "Treppe von St. Michael",
+      "ort": "Schwäbisch Hall",
+      "zuschauerkapazitaet": "unbekannt",
+      "bemerkungen": "Die Freilichtspiele Schwäbisch Hall existieren seit 1925. Früher wurden klassische Komödien gespielt, heute auch zeitgenössische Stücke, Musicals und Kindertheater"
+    },
+    {
+      "buehne": "Waldbühne Schwarzenberg",
+      "ort": "Schwarzenberg/Erzgeb.",
+      "zuschauerkapazitaet": "12.500",
+      "bemerkungen": "Erbaut 1934–1937, heute hauptsächlich für Konzertveranstaltungen genutzt"
+    },
+    {
+      "buehne": "Freilichtbühne Schwerin",
+      "ort": "Schwerin",
+      "zuschauerkapazitaet": "4999",
+      "bemerkungen": "Erbaut 1954–1955 im Schweriner Schlossgarten; hauptsächlich für Konzerte genutzt"
+    },
+    {
+      "buehne": "Freilichtbühne Seeheim-Jugenheim",
+      "ort": "Seeheim-Jugenheim",
+      "zuschauerkapazitaet": "700",
+      "bemerkungen": "Open Air Kino, Theater, Kabarett und Konzerte von Juni bis August mit jährlich vielen tausend Besuchern."
+    },
+    {
+      "buehne": "Waldbühne Sigmaringendorf",
+      "ort": "Sigmaringendorf",
+      "zuschauerkapazitaet": "670",
+      "bemerkungen": "Eröffnet 1928, jährlich zwei Inszenierungen, Theater, Konzerte, Kino"
+    },
+    {
+      "buehne": "Waldbühne Sohland",
+      "ort": "Sohland an der Spree",
+      "zuschauerkapazitaet": "unbekannt",
+      "bemerkungen": "Eröffnet 1920, zwischen 1930 und 1990 ohne Spielbetrieb, von Mai – September bespielt von mehreren Amateurtheatern"
+    },
+    {
+      "buehne": "Passionsspielanlage Sömmersdorf",
+      "ort": "Sömmersdorf",
+      "zuschauerkapazitaet": "ca. 1900",
+      "bemerkungen": "Passionsspiele seit 1933, seit 1968 im 5-jährlichen Rhythmus."
+    },
+    {
+      "buehne": "Freilichtbühne Stöckse",
+      "ort": "Stöckse",
+      "zuschauerkapazitaet": "<700",
+      "bemerkungen": "gegr. 1951, plattdeutsches Theater, Kindertheater, Konzerte"
+    },
+    {
+      "buehne": "Freilichtbühne Killesberg",
+      "ort": "Stuttgart",
+      "zuschauerkapazitaet": "3300 – 4500",
+      "bemerkungen": "Im ältesten Park Stuttgarts mit einer Fläche von ca. 50 Hektar, wurde die Freilichtbühne zusammen mit dem Park 1939 zur damaligen Reichsgartenschau fertiggestellt. Sie dient heute zur Durchführung kleinerer Open-Air-Veranstaltungen wie Konzerte, Opern und Musicals."
+    },
+    {
+      "buehne": "Freilichtspiele Tecklenburg",
+      "ort": "Tecklenburg",
+      "zuschauerkapazitaet": "ca. 2300",
+      "bemerkungen": "jährliche Freilichtaufführungen verschiedener Musicals"
+    },
+    {
+      "buehne": "Harzer Bergtheater Thale",
+      "ort": "Thale",
+      "zuschauerkapazitaet": "1.900",
+      "bemerkungen": "Eröffnet 1903, gebaut nach dem Vorbild griechischer Amphitheater. Aufführungen von Opern, Operetten, Märchen und Schauspielen, sowie Konzerte."
+    },
+    {
+      "buehne": "Naturbühne Trebgast",
+      "ort": "Trebgast",
+      "zuschauerkapazitaet": "548",
+      "bemerkungen": "Der heutige Verein Naturbühne Trebgast e. V. ging aus dem ehemaligen Verkehrs- und Verschönerungsverein Trebgast hervor und dieser wurde am 30. Mai 1892 durch den Trebgaster Pfarrer Benker gegründet."
+    },
+    {
+      "buehne": "Freilichtbühne Twiste",
+      "ort": "Twistetal",
+      "zuschauerkapazitaet": "ca. 900",
+      "bemerkungen": "Schon 1960 hieß es „Bühne frei“ für „Die Herren von Twiste“"
+    },
+    {
+      "buehne": "Freilichtbühne Wagenfeld",
+      "ort": "Wagenfeld",
+      "zuschauerkapazitaet": "ca. 700",
+      "bemerkungen": "plattdeutsches Amateurtheater"
+    },
+    {
+      "buehne": "Freilichtbühne Waldmünchen",
+      "ort": "Waldmünchen",
+      "zuschauerkapazitaet": "unbekannt",
+      "bemerkungen": "seit 1950 Aufführungen des Historienspiels Trenck der Pandur vor Waldmünchen"
+    },
+    {
+      "buehne": "Naturbühne auf dem Mühlenberg",
+      "ort": "Waren (Müritz)",
+      "zuschauerkapazitaet": "1200",
+      "bemerkungen": "seit 2006 Aufführungen der Müritz-Saga"
+    },
+    {
+      "buehne": "Bergwaldtheater Weißenburg",
+      "ort": "Weißenburg in Bayern",
+      "zuschauerkapazitaet": "1232",
+      "bemerkungen": "Festspielsommer, Bühne gegründet 1928, Geschichte geht auf 1791 zurück"
+    },
+    {
+      "buehne": "Freilichtbühne Werne",
+      "ort": "Werne",
+      "zuschauerkapazitaet": "1100",
+      "bemerkungen": "Bespielt seit 1959, verschiedene Theaterinszenierungen, bis 1986 eher für Erwachsene, seither spezialisiert auf Kinder- und Jugendtheater"
+    },
+    {
+      "buehne": "Ruinentheater Sanspareil",
+      "ort": "Wonsees",
+      "zuschauerkapazitaet": "unbekannt",
+      "bemerkungen": "Das Ruinentheater wird im Sommer regelmäßig von der Studiobühne Bayreuth, und den „Buschklopfern“ aus Kulmbach bespielt."
+    },
+    {
+      "buehne": "Naturbühne Luisenburg",
+      "ort": "Wunsiedel",
+      "zuschauerkapazitaet": "ca. 1900",
+      "bemerkungen": "Zurückgehend auf das Jahr 1692, die Spielstätte trägt ihren heutigen Namen seit 1805. Jährlich 4 Eigenproduktionen, ein Volksstück, ein klassisches Stück, ein Kinderstück und sein Musical (seit 2004), sowie Operngastspiele und Konzerte."
+    },
+    {
+      "buehne": "Waldbühne Hardt",
+      "ort": "Wuppertal",
+      "zuschauerkapazitaet": "ca. 2000",
+      "bemerkungen": "Im ehemaligen Steinbruch finden Konzerte, Theateraufführungen und Festivals statt."
+    },
+    {
+      "buehne": "Seefestival Wustrau",
+      "ort": "Wustrau-Altfriesack",
+      "zuschauerkapazitaet": "<700",
+      "bemerkungen": "Im Gelände der Richterakademie am Zietenschloss, am Ufer sowie auf der Seebühne im Ruppiner See findet seit 2005 professionelles Sommertheater statt."
+    },
+    {
+      "buehne": "Bergbühne Burghasungen",
+      "ort": "Zierenberg",
+      "zuschauerkapazitaet": "ca. 500",
+      "bemerkungen": "Amateurtheater"
+    },
+    {
+      "buehne": "Ostseebühne Zinnowitz",
+      "ort": "Zinnowitz",
+      "zuschauerkapazitaet": "1200",
+      "bemerkungen": "Seit 1997 Schauspiel, Musiktheater, Tanzvorführungen"
+    },
+    {
+      "buehne": "Freilichtbühne Zons",
+      "ort": "Zons",
+      "zuschauerkapazitaet": "unbekannt",
+      "bemerkungen": "Seit 1935 in der Zollfeste Zons, hauptsächlich Märchenaufführungen"
+    },
+    {
+      "buehne": "Waldbühne Zussdorf",
+      "ort": "Zußdorf",
+      "zuschauerkapazitaet": "unbekannt",
+      "bemerkungen": "Seit 2009, hauptsächlich Amateurtheateraufführungen"
+    },
+    {
+      "buehne": "Freilichtbühne Zwickau",
+      "ort": "Zwickau",
+      "zuschauerkapazitaet": "3500",
+      "bemerkungen": "Am Schwanenteich. Eingeweiht 1957, Open Air Kino, Public Viewing, Konzerte, Theateraufführungen"
+    }
+  ],
+  "meta": {
+    "title": "Freilichtbühnen in Deutschland - Free Download",
+    "description": "Freilichtbühnen und Naturtheater in Deutschland mit Ort, Zuschauerkapazität und Kurzbeschreibung. Contains 160 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Freilichtbühnen in Deutschland | ListBase",
+    "seo_description": "Download Freilichtbühnen in Deutschland — 160 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 160 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_von_Freilichtbühnen"
+    ]
+  }
+}
