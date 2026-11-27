@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-27T02:11:45.306Z",
-  "total_datasets": 596,
-  "total_records": 1885120,
+  "generated": "2026-11-27T02:11:53.737Z",
+  "total_datasets": 597,
+  "total_records": 1885228,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "sports",
@@ -13874,6 +13874,32 @@
         "xlsx": {
           "name": "de-regionalzeitungen_DE.xlsx",
           "size": 13637
+        }
+      }
+    },
+    {
+      "id": "de-religionsgemeinschaften-mitglieder",
+      "name": "Religionsgemeinschaften in Deutschland nach Mitgliederzahl",
+      "category": "society",
+      "record_count": 108,
+      "columns": [
+        "religionsgemeinschaft",
+        "mitglieder",
+        "mitglieder_zahl",
+        "stand_jahr",
+        "quelle"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Religionen_in_Deutschland",
+      "updated": "2026-11",
+      "size": 22263,
+      "files": {
+        "csv": {
+          "name": "de-religionsgemeinschaften-mitglieder_DE.csv",
+          "size": 6694
+        },
+        "xlsx": {
+          "name": "de-religionsgemeinschaften-mitglieder_DE.xlsx",
+          "size": 11319
         }
       }
     },

@@ -1,0 +1,807 @@
+{
+  "id": "de-religionsgemeinschaften-mitglieder",
+  "name": "Religionsgemeinschaften in Deutschland nach Mitgliederzahl",
+  "title": "Religionsgemeinschaften in Deutschland nach Mitgliederzahl",
+  "description": "Religions- und Weltanschauungsgemeinschaften in Deutschland mit Mitglieder- bzw. Anhängerzahl, Stand-Jahr und Quellenangabe (z. B. DBK, EKD, REMID, fowid).",
+  "category": "society",
+  "source": "https://de.wikipedia.org/wiki/Religionen_in_Deutschland",
+  "source_url": "https://de.wikipedia.org/wiki/Religionen_in_Deutschland",
+  "updated": "2026-11",
+  "record_count": 108,
+  "columns": [
+    {
+      "key": "religionsgemeinschaft",
+      "label": "Religionsgemeinschaft",
+      "type": "string"
+    },
+    {
+      "key": "mitglieder",
+      "label": "Mitglieder",
+      "type": "string"
+    },
+    {
+      "key": "mitglieder_zahl",
+      "label": "Mitglieder Zahl",
+      "type": "number"
+    },
+    {
+      "key": "stand_jahr",
+      "label": "Stand Jahr",
+      "type": "number"
+    },
+    {
+      "key": "quelle",
+      "label": "Quelle",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "religionsgemeinschaft": "Konfessionslos",
+      "mitglieder": "39.120.000",
+      "mitglieder_zahl": 39120000,
+      "stand_jahr": "2025",
+      "quelle": "fowid"
+    },
+    {
+      "religionsgemeinschaft": "Römisch-katholische Kirche in Deutschland",
+      "mitglieder": "19.219.601",
+      "mitglieder_zahl": 19219601,
+      "stand_jahr": "2025",
+      "quelle": "DBK"
+    },
+    {
+      "religionsgemeinschaft": "Evangelische Kirche in Deutschland",
+      "mitglieder": "17.392.072",
+      "mitglieder_zahl": 17392072,
+      "stand_jahr": "2025",
+      "quelle": "EKD"
+    },
+    {
+      "religionsgemeinschaft": "Sunniten",
+      "mitglieder": "ca. 4.125.000",
+      "mitglieder_zahl": 4125000,
+      "stand_jahr": "2024",
+      "quelle": "DIK"
+    },
+    {
+      "religionsgemeinschaft": "Aleviten",
+      "mitglieder": "700.000",
+      "mitglieder_zahl": 700000,
+      "stand_jahr": "2020",
+      "quelle": "fowid"
+    },
+    {
+      "religionsgemeinschaft": "Serbisch-Orthodoxe Kirche in Deutschland",
+      "mitglieder": "310.000",
+      "mitglieder_zahl": 310000,
+      "stand_jahr": "2022",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Buddhisten",
+      "mitglieder": "300.000",
+      "mitglieder_zahl": 300000,
+      "stand_jahr": "2024",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Neuapostolische Kirche",
+      "mitglieder": "295.561",
+      "mitglieder_zahl": 295561,
+      "stand_jahr": "2025",
+      "quelle": "fowid Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Rumänisch-Orthodoxe Kirche",
+      "mitglieder": "277.000",
+      "mitglieder_zahl": 277000,
+      "stand_jahr": "2022",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Russisch-Orthodoxe Kirche",
+      "mitglieder": "250.000",
+      "mitglieder_zahl": 250000,
+      "stand_jahr": "2022",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Griechisch-Orthodoxe Kirche",
+      "mitglieder": "265.000",
+      "mitglieder_zahl": 265000,
+      "stand_jahr": "2022",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Zwölfer-Schiiten",
+      "mitglieder": "225.500",
+      "mitglieder_zahl": 225500,
+      "stand_jahr": "2006",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Zeugen Jehovas",
+      "mitglieder": "176.478",
+      "mitglieder_zahl": 176478,
+      "stand_jahr": "2025",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Bulgarisch-Orthodoxe Kirche",
+      "mitglieder": "150.000",
+      "mitglieder_zahl": 150000,
+      "stand_jahr": "2025",
+      "quelle": "fowid"
+    },
+    {
+      "religionsgemeinschaft": "Jesiden",
+      "mitglieder": "150.000",
+      "mitglieder_zahl": 150000,
+      "stand_jahr": "2024",
+      "quelle": ""
+    },
+    {
+      "religionsgemeinschaft": "Ukrainisch Orthodoxe Kirche – Patriarchat Kiew",
+      "mitglieder": "115.000",
+      "mitglieder_zahl": 115000,
+      "stand_jahr": "2022",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Syrisch-Orthodoxe Kirche",
+      "mitglieder": "100.000",
+      "mitglieder_zahl": 100000,
+      "stand_jahr": "2023",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Hindus",
+      "mitglieder": "100.000",
+      "mitglieder_zahl": 100000,
+      "stand_jahr": "2012",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Zentralrat der Juden in Deutschland",
+      "mitglieder": "87.934",
+      "mitglieder_zahl": 87934,
+      "stand_jahr": "2025",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Neopaganismus (Wicca, Heidentum, Schamanismus)",
+      "mitglieder": "90.000",
+      "mitglieder_zahl": 90000,
+      "stand_jahr": "2016",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Bund Freikirchlicher Pfingstgemeinden",
+      "mitglieder": "82.717",
+      "mitglieder_zahl": 82717,
+      "stand_jahr": "2026",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Baptistengemeinden (Evangeliumschristen-Baptisten, IBC u. a.)",
+      "mitglieder": "75.000",
+      "mitglieder_zahl": 75000,
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Bund Evangelisch-Freikirchlicher Gemeinden (Baptisten)",
+      "mitglieder": "71.199",
+      "mitglieder_zahl": 71199,
+      "stand_jahr": "2024",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Alawiten",
+      "mitglieder": "70.000",
+      "mitglieder_zahl": 70000,
+      "stand_jahr": "2010",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Mennonitenkirchen",
+      "mitglieder": "51.771",
+      "mitglieder_zahl": 51771,
+      "stand_jahr": "2022",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Evangelisch-methodistische Kirche",
+      "mitglieder": "42.565",
+      "mitglieder_zahl": 42565,
+      "stand_jahr": "2024",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Bund Freier evangelischer Gemeinden in Deutschland",
+      "mitglieder": "40.904",
+      "mitglieder_zahl": 40904,
+      "stand_jahr": "2023",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Ukrainische griechisch-katholische Kirche",
+      "mitglieder": "40.700",
+      "mitglieder_zahl": 40700,
+      "stand_jahr": "2013",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Mormonentum",
+      "mitglieder": "40.398",
+      "mitglieder_zahl": 40398,
+      "stand_jahr": "2024",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Ahmadiyya Muslim Jamaat",
+      "mitglieder": "40.000",
+      "mitglieder_zahl": 40000,
+      "stand_jahr": "2021",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Freireligiöse",
+      "mitglieder": "40.000",
+      "mitglieder_zahl": 40000,
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Brüderbewegung",
+      "mitglieder": "40.000",
+      "mitglieder_zahl": 40000,
+      "stand_jahr": "2025",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Armenische Apostolische Kirche",
+      "mitglieder": "35.000",
+      "mitglieder_zahl": 35000,
+      "stand_jahr": "2012",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Siebenten-Tags-Adventisten",
+      "mitglieder": "34.577",
+      "mitglieder_zahl": 34577,
+      "stand_jahr": "2025",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Ukrainisch Orthodoxe Kirche – Patriarchat Moskau",
+      "mitglieder": "33.000",
+      "mitglieder_zahl": 33000,
+      "stand_jahr": "2022",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Selbständige Evangelisch-Lutherische Kirche",
+      "mitglieder": "31.584",
+      "mitglieder_zahl": 31584,
+      "stand_jahr": "2022",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Unabhängige afrikanische Kirchen",
+      "mitglieder": "30.000",
+      "mitglieder_zahl": 30000,
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Äthiopisch-Orthodoxe Kirche",
+      "mitglieder": "20.000",
+      "mitglieder_zahl": 20000,
+      "stand_jahr": "2016",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Koptisch-Orthodoxe Kirche",
+      "mitglieder": "20.000",
+      "mitglieder_zahl": 20000,
+      "stand_jahr": "2016",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Die Christengemeinschaft",
+      "mitglieder": "16.000–20.000",
+      "mitglieder_zahl": "",
+      "stand_jahr": "2010",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Alt-Katholische Kirche in Deutschland",
+      "mitglieder": "15.936",
+      "mitglieder_zahl": 15936,
+      "stand_jahr": "2022",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Charismatische Erneuerung",
+      "mitglieder": "15.000",
+      "mitglieder_zahl": 15000,
+      "stand_jahr": "2015",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Eritreisch-Orthodoxe Tewahedo-Kirche",
+      "mitglieder": "15.000",
+      "mitglieder_zahl": 15000,
+      "stand_jahr": "2016",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Salafiyya",
+      "mitglieder": "11.200",
+      "mitglieder_zahl": 11200,
+      "stand_jahr": "2025",
+      "quelle": "BfV"
+    },
+    {
+      "religionsgemeinschaft": "Sikhs",
+      "mitglieder": "10.000–20.000",
+      "mitglieder_zahl": "",
+      "stand_jahr": "2016",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Griechisch-Orthodoxe Kirche von Antiochien",
+      "mitglieder": "10.000",
+      "mitglieder_zahl": 10000,
+      "stand_jahr": "2016",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Drusen",
+      "mitglieder": "10.000",
+      "mitglieder_zahl": 10000,
+      "stand_jahr": "2020",
+      "quelle": "Deutschlandfunk"
+    },
+    {
+      "religionsgemeinschaft": "Sufismus",
+      "mitglieder": "10.000",
+      "mitglieder_zahl": 10000,
+      "stand_jahr": "2015",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Assyrische Kirche des Ostens",
+      "mitglieder": "10.000",
+      "mitglieder_zahl": 10000,
+      "stand_jahr": "2016",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Soka Gakkai in Deutschland",
+      "mitglieder": "8.000",
+      "mitglieder_zahl": 8000,
+      "stand_jahr": "2026",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Finnische kirchliche Arbeit in Deutschland",
+      "mitglieder": "7.048",
+      "mitglieder_zahl": 7048,
+      "stand_jahr": "2024",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Evangelisch-altreformierte Kirche in Niedersachsen",
+      "mitglieder": "6.200",
+      "mitglieder_zahl": 6200,
+      "stand_jahr": "2025",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Bahaitum",
+      "mitglieder": "6.000–12.000",
+      "mitglieder_zahl": "",
+      "stand_jahr": "2007/2013",
+      "quelle": "Brockhaus Religionen/Jahresbericht KdöR"
+    },
+    {
+      "religionsgemeinschaft": "Syrisch-Maronitische Kirche von Antiochien",
+      "mitglieder": "6.000",
+      "mitglieder_zahl": 6000,
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Volksmission entschiedener Christen",
+      "mitglieder": "6.000",
+      "mitglieder_zahl": 6000,
+      "stand_jahr": "2021",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Dänische Kirche in Südschleswig",
+      "mitglieder": "5.500",
+      "mitglieder_zahl": 5500,
+      "stand_jahr": "2025",
+      "quelle": ""
+    },
+    {
+      "religionsgemeinschaft": "Neo-Sannyas (Bhagwan-Bewegung)",
+      "mitglieder": "5.000–6.000",
+      "mitglieder_zahl": "",
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Union progressiver Juden in Deutschland",
+      "mitglieder": "5.000",
+      "mitglieder_zahl": 5000,
+      "stand_jahr": "2012",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Messianische Juden",
+      "mitglieder": "5.000",
+      "mitglieder_zahl": 5000,
+      "stand_jahr": "2013",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Apostelamt Jesu Christi",
+      "mitglieder": "ca. 5.000",
+      "mitglieder_zahl": 5000,
+      "stand_jahr": "2023",
+      "quelle": "Netzwerk Apostolische Geschichte"
+    },
+    {
+      "religionsgemeinschaft": "Herrnhuter Brüdergemeine",
+      "mitglieder": "4.803",
+      "mitglieder_zahl": 4803,
+      "stand_jahr": "2022",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Mülheimer Verband Freikirchlich-Evangelischer Gemeinden",
+      "mitglieder": "4.662",
+      "mitglieder_zahl": 4662,
+      "stand_jahr": "2019",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "C1 Evangelischer Gemeindebund e.V.",
+      "mitglieder": "4.400",
+      "mitglieder_zahl": 4400,
+      "stand_jahr": "2025",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Rosenkreuzer",
+      "mitglieder": "4.200",
+      "mitglieder_zahl": 4200,
+      "stand_jahr": "2012",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Gemeinde der Christen Ecclesia",
+      "mitglieder": "4.000",
+      "mitglieder_zahl": 4000,
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Gemeinschaft in Christo Jesu",
+      "mitglieder": "3.800",
+      "mitglieder_zahl": 3800,
+      "stand_jahr": "2003",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Apostolische Gemeinschaft",
+      "mitglieder": "3.000",
+      "mitglieder_zahl": 3000,
+      "stand_jahr": "2020",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Katholisch-apostolische Gemeinden",
+      "mitglieder": "3.000",
+      "mitglieder_zahl": 3000,
+      "stand_jahr": "2012",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Gemeinde Gottes Deutschland KdöR",
+      "mitglieder": "3.000",
+      "mitglieder_zahl": 3000,
+      "stand_jahr": "2010",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Johannische Kirche",
+      "mitglieder": "3.000",
+      "mitglieder_zahl": 3000,
+      "stand_jahr": "2011",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Gemeinden Christi",
+      "mitglieder": "2.800",
+      "mitglieder_zahl": 2800,
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Die Christliche Gemeinde",
+      "mitglieder": "2.870",
+      "mitglieder_zahl": 2870,
+      "stand_jahr": "2025",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Freikirchlicher Bund der Gemeinde Gottes",
+      "mitglieder": "2.300",
+      "mitglieder_zahl": 2300,
+      "stand_jahr": "2017",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Niederländische Kirche in Deutschland",
+      "mitglieder": "2.135",
+      "mitglieder_zahl": 2135,
+      "stand_jahr": "2021",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Jesus Freaks",
+      "mitglieder": "ca. 1.500",
+      "mitglieder_zahl": 1500,
+      "stand_jahr": "2024",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Kirche des Nazareners",
+      "mitglieder": "1.100",
+      "mitglieder_zahl": 1100,
+      "stand_jahr": "2023",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Mandäer",
+      "mitglieder": "2.200",
+      "mitglieder_zahl": 2200,
+      "stand_jahr": "2013",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Christian Science",
+      "mitglieder": "2.000",
+      "mitglieder_zahl": 2000,
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Christliche Gemeinschaft Hirt und Herde",
+      "mitglieder": "2.000",
+      "mitglieder_zahl": 2000,
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Mazedonisch-Orthodoxe Kirche",
+      "mitglieder": "2.000",
+      "mitglieder_zahl": 2000,
+      "stand_jahr": "2008",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Ismailiten",
+      "mitglieder": "1.900",
+      "mitglieder_zahl": 1900,
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Daoismus",
+      "mitglieder": "1.900",
+      "mitglieder_zahl": 1900,
+      "stand_jahr": "2011",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Evangelisch-Lutherische Freikirche",
+      "mitglieder": "1.317",
+      "mitglieder_zahl": 1317,
+      "stand_jahr": "2010",
+      "quelle": "e. A."
+    },
+    {
+      "religionsgemeinschaft": "Unitarier",
+      "mitglieder": "1.200",
+      "mitglieder_zahl": 1200,
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Wallonisch-Niederländische Kirche",
+      "mitglieder": "1.100",
+      "mitglieder_zahl": 1100,
+      "stand_jahr": "2016",
+      "quelle": "-"
+    },
+    {
+      "religionsgemeinschaft": "Voodoo",
+      "mitglieder": "1.000",
+      "mitglieder_zahl": 1000,
+      "stand_jahr": "2010",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Georgische Orthodoxe Apostelkirche",
+      "mitglieder": "1.000",
+      "mitglieder_zahl": 1000,
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Transzendentale Meditation",
+      "mitglieder": "1.000",
+      "mitglieder_zahl": 1000,
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Shintō",
+      "mitglieder": "1.000",
+      "mitglieder_zahl": 1000,
+      "stand_jahr": "2011",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Freie Bibelforscher",
+      "mitglieder": "881",
+      "mitglieder_zahl": 881,
+      "stand_jahr": "2007",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Heilsarmee",
+      "mitglieder": "866",
+      "mitglieder_zahl": 866,
+      "stand_jahr": "2023",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Reformadventisten",
+      "mitglieder": "800",
+      "mitglieder_zahl": 800,
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Zaiditen",
+      "mitglieder": "800",
+      "mitglieder_zahl": 800,
+      "stand_jahr": "2007",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Anskar-Kirche",
+      "mitglieder": "680",
+      "mitglieder_zahl": 680,
+      "stand_jahr": "2016",
+      "quelle": "evangelisch.de"
+    },
+    {
+      "religionsgemeinschaft": "Ernste Bibelforscher",
+      "mitglieder": "672",
+      "mitglieder_zahl": 672,
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Zarathustrismus (Zoroastrismus)",
+      "mitglieder": "500–700",
+      "mitglieder_zahl": "",
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Internationale Gesellschaft für Krishna-Bewusstsein",
+      "mitglieder": "450",
+      "mitglieder_zahl": 450,
+      "stand_jahr": "2010",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Weltweite Kirche Gottes",
+      "mitglieder": "400",
+      "mitglieder_zahl": 400,
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Internationale Gemeinden Christi",
+      "mitglieder": "300",
+      "mitglieder_zahl": 300,
+      "stand_jahr": "2003",
+      "quelle": "Schmid"
+    },
+    {
+      "religionsgemeinschaft": "Ibaditen",
+      "mitglieder": "270",
+      "mitglieder_zahl": 270,
+      "stand_jahr": "2013",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Quäker",
+      "mitglieder": "250",
+      "mitglieder_zahl": 250,
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Neue Kirche",
+      "mitglieder": "200",
+      "mitglieder_zahl": 200,
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Jainismus",
+      "mitglieder": "180",
+      "mitglieder_zahl": 180,
+      "stand_jahr": "2011",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Zwölf Stämme",
+      "mitglieder": "50–100",
+      "mitglieder_zahl": "",
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Neuro- Spinozismus",
+      "mitglieder": "50–100",
+      "mitglieder_zahl": "",
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Lahore-Ahmadiyya-Bewegung",
+      "mitglieder": "60",
+      "mitglieder_zahl": 60,
+      "stand_jahr": "2001",
+      "quelle": "Eigenangabe"
+    },
+    {
+      "religionsgemeinschaft": "Metropolitan Community Church",
+      "mitglieder": "50",
+      "mitglieder_zahl": 50,
+      "stand_jahr": "2005",
+      "quelle": "REMID"
+    },
+    {
+      "religionsgemeinschaft": "Tengrismus",
+      "mitglieder": "50-200",
+      "mitglieder_zahl": "",
+      "stand_jahr": "2023",
+      "quelle": "REMID"
+    }
+  ],
+  "meta": {
+    "title": "Religionsgemeinschaften in Deutschland nach Mitgliederzahl - Free Download",
+    "description": "Religions- und Weltanschauungsgemeinschaften in Deutschland mit Mitglieder- bzw. Anhängerzahl, Stand-Jahr und Quellenangabe (z. B. DBK, EKD, REMID, fowid). Contains 108 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Religionsgemeinschaften in Deutschland nach Mitgliederzahl | ListBase",
+    "seo_description": "Download Religionsgemeinschaften in Deutschland nach Mitgliederzahl — 108 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 108 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Religionen_in_Deutschland"
+    ]
+  }
+}
