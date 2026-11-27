@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-26T02:08:46.314Z",
-  "total_datasets": 594,
-  "total_records": 1885088,
+  "generated": "2026-11-27T02:11:36.493Z",
+  "total_datasets": 595,
+  "total_records": 1885104,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "sports",
@@ -13685,6 +13685,30 @@
         "xlsx": {
           "name": "de-bundeslaender-fertilitaetsrate_DE.xlsx",
           "size": 7191
+        }
+      }
+    },
+    {
+      "id": "de-bundeslaender-haushaltseinkommen",
+      "name": "Deutsche Bundesländer nach Haushaltseinkommen pro Kopf (2019)",
+      "category": "society",
+      "record_count": 16,
+      "columns": [
+        "rang",
+        "bundesland",
+        "verfuegbares_einkommen_pro_kopf_eur"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Haushaltseinkommen",
+      "updated": "2026-11",
+      "size": 3677,
+      "files": {
+        "csv": {
+          "name": "de-bundeslaender-haushaltseinkommen_DE.csv",
+          "size": 493
+        },
+        "xlsx": {
+          "name": "de-bundeslaender-haushaltseinkommen_DE.xlsx",
+          "size": 7173
         }
       }
     },

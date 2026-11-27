@@ -1,0 +1,121 @@
+{
+  "id": "de-bundeslaender-haushaltseinkommen",
+  "name": "Deutsche Bundesländer nach Haushaltseinkommen pro Kopf (2019)",
+  "title": "Deutsche Bundesländer nach Haushaltseinkommen pro Kopf (2019)",
+  "description": "Rangliste der 16 deutschen Bundesländer nach dem verfügbaren Einkommen der privaten Haushalte je Einwohner in Euro (Stand 2019).",
+  "category": "society",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Haushaltseinkommen",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Haushaltseinkommen",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "verfuegbares_einkommen_pro_kopf_eur",
+      "label": "Verfuegbares Einkommen Pro Kopf Eur",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rang": 1,
+      "bundesland": "Bayern",
+      "verfuegbares_einkommen_pro_kopf_eur": 25309
+    },
+    {
+      "rang": 2,
+      "bundesland": "Hamburg",
+      "verfuegbares_einkommen_pro_kopf_eur": 25029
+    },
+    {
+      "rang": 3,
+      "bundesland": "Baden-Württemberg",
+      "verfuegbares_einkommen_pro_kopf_eur": 24892
+    },
+    {
+      "rang": 4,
+      "bundesland": "Hessen",
+      "verfuegbares_einkommen_pro_kopf_eur": 23943
+    },
+    {
+      "rang": 5,
+      "bundesland": "Rheinland-Pfalz",
+      "verfuegbares_einkommen_pro_kopf_eur": 23197
+    },
+    {
+      "rang": 6,
+      "bundesland": "Schleswig-Holstein",
+      "verfuegbares_einkommen_pro_kopf_eur": 22833
+    },
+    {
+      "rang": 7,
+      "bundesland": "Nordrhein-Westfalen",
+      "verfuegbares_einkommen_pro_kopf_eur": 22294
+    },
+    {
+      "rang": 8,
+      "bundesland": "Niedersachsen",
+      "verfuegbares_einkommen_pro_kopf_eur": 21988
+    },
+    {
+      "rang": 9,
+      "bundesland": "Bremen",
+      "verfuegbares_einkommen_pro_kopf_eur": 21481
+    },
+    {
+      "rang": 10,
+      "bundesland": "Berlin",
+      "verfuegbares_einkommen_pro_kopf_eur": 20972
+    },
+    {
+      "rang": 11,
+      "bundesland": "Brandenburg",
+      "verfuegbares_einkommen_pro_kopf_eur": 20475
+    },
+    {
+      "rang": 12,
+      "bundesland": "Sachsen",
+      "verfuegbares_einkommen_pro_kopf_eur": 20335
+    },
+    {
+      "rang": 13,
+      "bundesland": "Saarland",
+      "verfuegbares_einkommen_pro_kopf_eur": 20277
+    },
+    {
+      "rang": 14,
+      "bundesland": "Thüringen",
+      "verfuegbares_einkommen_pro_kopf_eur": 19793
+    },
+    {
+      "rang": 15,
+      "bundesland": "Sachsen-Anhalt",
+      "verfuegbares_einkommen_pro_kopf_eur": 19528
+    },
+    {
+      "rang": 16,
+      "bundesland": "Mecklenburg-Vorpommern",
+      "verfuegbares_einkommen_pro_kopf_eur": 19470
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Bundesländer nach Haushaltseinkommen pro Kopf (2019) - Free Download",
+    "description": "Rangliste der 16 deutschen Bundesländer nach dem verfügbaren Einkommen der privaten Haushalte je Einwohner in Euro (Stand 2019). Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Deutsche Bundesländer nach Haushaltseinkommen pro Kopf (2019) | ListBase",
+    "seo_description": "Download Deutsche Bundesländer nach Haushaltseinkommen pro Kopf (2019) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_Haushaltseinkommen"
+    ]
+  }
+}
