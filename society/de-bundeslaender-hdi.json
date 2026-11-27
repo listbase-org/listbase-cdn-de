@@ -1,0 +1,226 @@
+{
+  "id": "de-bundeslaender-hdi",
+  "name": "Deutsche Bundesländer nach Index der menschlichen Entwicklung (HDI)",
+  "title": "Deutsche Bundesländer nach Index der menschlichen Entwicklung (HDI)",
+  "description": "Die 16 deutschen Bundesländer nach dem subnationalen Index der menschlichen Entwicklung (HDI) 1990, 2000, 2010 und 2021 mit Steigerung und vergleichbarem Staat.",
+  "category": "society",
+  "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_dem_Index_der_menschlichen_Entwicklung",
+  "source_url": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_dem_Index_der_menschlichen_Entwicklung",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "bundesland",
+      "label": "Bundesland",
+      "type": "string"
+    },
+    {
+      "key": "hdi_1990",
+      "label": "Hdi 1990",
+      "type": "number"
+    },
+    {
+      "key": "hdi_2000",
+      "label": "Hdi 2000",
+      "type": "number"
+    },
+    {
+      "key": "hdi_2010",
+      "label": "Hdi 2010",
+      "type": "number"
+    },
+    {
+      "key": "hdi_2021",
+      "label": "Hdi 2021",
+      "type": "number"
+    },
+    {
+      "key": "steigerung_1990_2021",
+      "label": "Steigerung 1990 2021",
+      "type": "number"
+    },
+    {
+      "key": "vergleichbares_land",
+      "label": "Vergleichbares Land",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rang": 1,
+      "bundesland": "Hamburg",
+      "hdi_1990": 0.841,
+      "hdi_2000": 0.91,
+      "hdi_2010": 0.962,
+      "hdi_2021": 0.972,
+      "steigerung_1990_2021": 0.131,
+      "vergleichbares_land": "Schweiz"
+    },
+    {
+      "rang": 2,
+      "bundesland": "Berlin",
+      "hdi_1990": 0.806,
+      "hdi_2000": 0.874,
+      "hdi_2010": 0.928,
+      "hdi_2021": 0.959,
+      "steigerung_1990_2021": 0.153,
+      "vergleichbares_land": "Island"
+    },
+    {
+      "rang": 3,
+      "bundesland": "Baden-Württemberg",
+      "hdi_1990": 0.813,
+      "hdi_2000": 0.88,
+      "hdi_2010": 0.934,
+      "hdi_2021": 0.956,
+      "steigerung_1990_2021": 0.143,
+      "vergleichbares_land": "Island"
+    },
+    {
+      "rang": 4,
+      "bundesland": "Bremen",
+      "hdi_1990": 0.82,
+      "hdi_2000": 0.888,
+      "hdi_2010": 0.937,
+      "hdi_2021": 0.954,
+      "steigerung_1990_2021": 0.139,
+      "vergleichbares_land": "Hongkong"
+    },
+    {
+      "rang": 5,
+      "bundesland": "Bayern",
+      "hdi_1990": 0.802,
+      "hdi_2000": 0.87,
+      "hdi_2010": 0.924,
+      "hdi_2021": 0.95,
+      "steigerung_1990_2021": 0.148,
+      "vergleichbares_land": "Australien"
+    },
+    {
+      "rang": 5,
+      "bundesland": "Hessen",
+      "hdi_1990": 0.815,
+      "hdi_2000": 0.882,
+      "hdi_2010": 0.934,
+      "hdi_2021": 0.95,
+      "steigerung_1990_2021": 0.135,
+      "vergleichbares_land": "Australien"
+    },
+    {
+      "rang": 7,
+      "bundesland": "Nordrhein-Westfalen",
+      "hdi_1990": 0.802,
+      "hdi_2000": 0.868,
+      "hdi_2010": 0.918,
+      "hdi_2021": 0.939,
+      "steigerung_1990_2021": 0.137,
+      "vergleichbares_land": "Singapur"
+    },
+    {
+      "rang": 8,
+      "bundesland": "Sachsen",
+      "hdi_1990": 0.796,
+      "hdi_2000": 0.864,
+      "hdi_2010": 0.912,
+      "hdi_2021": 0.933,
+      "steigerung_1990_2021": 0.137,
+      "vergleichbares_land": "Liechtenstein"
+    },
+    {
+      "rang": 9,
+      "bundesland": "Saarland",
+      "hdi_1990": 0.791,
+      "hdi_2000": 0.857,
+      "hdi_2010": 0.909,
+      "hdi_2021": 0.931,
+      "steigerung_1990_2021": 0.14,
+      "vergleichbares_land": "Luxemburg"
+    },
+    {
+      "rang": 10,
+      "bundesland": "Niedersachsen",
+      "hdi_1990": 0.786,
+      "hdi_2000": 0.852,
+      "hdi_2010": 0.904,
+      "hdi_2021": 0.93,
+      "steigerung_1990_2021": 0.144,
+      "vergleichbares_land": "Luxemburg"
+    },
+    {
+      "rang": 11,
+      "bundesland": "Rheinland-Pfalz",
+      "hdi_1990": 0.79,
+      "hdi_2000": 0.857,
+      "hdi_2010": 0.908,
+      "hdi_2021": 0.929,
+      "steigerung_1990_2021": 0.139,
+      "vergleichbares_land": "Vereinigtes Königreich"
+    },
+    {
+      "rang": 12,
+      "bundesland": "Thüringen",
+      "hdi_1990": 0.783,
+      "hdi_2000": 0.849,
+      "hdi_2010": 0.901,
+      "hdi_2021": 0.923,
+      "steigerung_1990_2021": 0.14,
+      "vergleichbares_land": "Südkorea"
+    },
+    {
+      "rang": 13,
+      "bundesland": "Schleswig-Holstein",
+      "hdi_1990": 0.788,
+      "hdi_2000": 0.853,
+      "hdi_2010": 0.902,
+      "hdi_2021": 0.921,
+      "steigerung_1990_2021": 0.133,
+      "vergleichbares_land": "Vereinigte Staaten"
+    },
+    {
+      "rang": 14,
+      "bundesland": "Brandenburg",
+      "hdi_1990": 0.779,
+      "hdi_2000": 0.844,
+      "hdi_2010": 0.897,
+      "hdi_2021": 0.918,
+      "steigerung_1990_2021": 0.139,
+      "vergleichbares_land": "Slowenien"
+    },
+    {
+      "rang": 15,
+      "bundesland": "Mecklenburg-Vorpommern",
+      "hdi_1990": 0.774,
+      "hdi_2000": 0.84,
+      "hdi_2010": 0.893,
+      "hdi_2021": 0.916,
+      "steigerung_1990_2021": 0.142,
+      "vergleichbares_land": "Österreich"
+    },
+    {
+      "rang": 16,
+      "bundesland": "Sachsen-Anhalt",
+      "hdi_1990": 0.774,
+      "hdi_2000": 0.84,
+      "hdi_2010": 0.892,
+      "hdi_2021": 0.911,
+      "steigerung_1990_2021": 0.137,
+      "vergleichbares_land": "Vereinigte Arabische Emirate"
+    }
+  ],
+  "meta": {
+    "title": "Deutsche Bundesländer nach Index der menschlichen Entwicklung (HDI) - Free Download",
+    "description": "Die 16 deutschen Bundesländer nach dem subnationalen Index der menschlichen Entwicklung (HDI) 1990, 2000, 2010 und 2021 mit Steigerung und vergleichbarem Staat. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Deutsche Bundesländer nach Index der menschlichen Entwicklung (HDI) | ListBase",
+    "seo_description": "Download Deutsche Bundesländer nach Index der menschlichen Entwicklung (HDI) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_dem_Index_der_menschlichen_Entwicklung"
+    ]
+  }
+}

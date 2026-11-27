@@ -1,8 +1,8 @@
 {
   "lang": "de",
-  "generated": "2026-11-27T02:11:36.493Z",
-  "total_datasets": 595,
-  "total_records": 1885104,
+  "generated": "2026-11-27T02:11:45.306Z",
+  "total_datasets": 596,
+  "total_records": 1885120,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "sports",
@@ -13709,6 +13709,35 @@
         "xlsx": {
           "name": "de-bundeslaender-haushaltseinkommen_DE.xlsx",
           "size": 7173
+        }
+      }
+    },
+    {
+      "id": "de-bundeslaender-hdi",
+      "name": "Deutsche Bundesländer nach Index der menschlichen Entwicklung (HDI)",
+      "category": "society",
+      "record_count": 16,
+      "columns": [
+        "rang",
+        "bundesland",
+        "hdi_1990",
+        "hdi_2000",
+        "hdi_2010",
+        "hdi_2021",
+        "steigerung_1990_2021",
+        "vergleichbares_land"
+      ],
+      "source": "https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesländer_nach_dem_Index_der_menschlichen_Entwicklung",
+      "updated": "2026-11",
+      "size": 6306,
+      "files": {
+        "csv": {
+          "name": "de-bundeslaender-hdi_DE.csv",
+          "size": 1276
+        },
+        "xlsx": {
+          "name": "de-bundeslaender-hdi_DE.xlsx",
+          "size": 7730
         }
       }
     },
